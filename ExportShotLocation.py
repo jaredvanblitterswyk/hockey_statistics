@@ -223,18 +223,7 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
     # goals
     goalCoordsAway = shotCoordsGoalAway[shotCoordsGoalAway[:,0] == 1] # keep goal coordinates where shot on target occured (1 in first column)
     goalCoordsAway = goalCoordsAway[:,1:] # truncate goal coordinates to only x and y values
-    
-    
-    # -------------------------------------------------------------------------
-    # ------------------------ plot shot chart --------------------------------
-    # plot shots on target and missed shots on same figure (all shots and goals)
-    #fig = plt.figure(figsize=[4, 1.5],facecolor='white') # figure size in inches
-    #ax = fig.add_axes([0, 0, 1, 1])
-    #plt.scatter(shotsOnTargetCoords[:,0],shotsOnTargetCoords[:,1],c = (0.1,0.1,0.7))
-    #plt.scatter(missedShotsCoords[:,0],missedShotsCoords[:,1],c = (0.7,0.1,0.1))
-    #ax.set_ylim([-42.5, 42.5])
-    #ax.set_xlim([-100, 100])
-    
+        
     # plot shots overlaid on rink image (home shots displayed on left, away shots on right)
     img = plt.imread("hockey_rink_diagram.jpg")
     fig, ax = plt.subplots()
