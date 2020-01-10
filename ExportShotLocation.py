@@ -3,6 +3,10 @@
 Created on Thu Jan  2 14:27:25 2020
 
 @author: Jared Van Blitterswyk
+
+This code reads in full game data from the nhl api
+01.02.2020: This code extracts shots on target and missed shots and plots them 
+            on a rink schematic (categorised by home and away teams on separate ends of the rink)
 """
 
 import numpy as np
