@@ -24,6 +24,7 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
     game_data = r.json()
     
     # --------- allocate memory to arrays where results stored ----------------
+    player_id_game = {} # keeps a directory of all skater names in the game
     player_id = {} # keeps a directory of all skater names and their inforomation
     results = [] # only 
     shotOnTarget = [] # keeps track of total number of shots on target in the game
@@ -47,12 +48,12 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
 
     for x in ['home','away']:
         player_dict = game_data.get('liveData').get('boxscore').get('teams').get(x).get('skaters')
-        player_id[x] = player_dict
+        player_id_game[x] = player_dict
         
-    for y in player_id:
-        for playerID in player_id[y]:
-            play_dict = game_data.get('liveData').get('boxscore').get('teams').get(y).get('players').get('ID' + str(playerID)).get('person')
-            results.append(play_dict)
+#    for y in player_id_game:
+ #       for playerID in player_id_game[y]:
+  #          play_dict = game_data.get('liveData').get('boxscore').get('teams').get(y).get('players').get('ID' + str(playerID)).get('person')
+   #         results.append(play_dict)
     
     # extract names of home and away teams - used later to sort shots and goals events    
     hometeam = game_data.get('liveData').get('boxscore').get('teams').get('home').get('team').get('name')
@@ -73,10 +74,10 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
     shotCoordsGoalHome = np.zeros((len(allPlays), 3))
     shotCoordsGoalAway = np.zeros((len(allPlays), 3))
     shotCoordsAway = np.zeros((len(allPlays), 3))
-    
+#%%    
     for a in range(0,len(allPlays)): # loop through all events in `allPlays' array
         if allPlays[a].get('result').get('event') == 'Shot' or allPlays[a].get('result').get('event') == 'Goal': # if the event is a shot
-            player_id = allPlays[a].get('players')[0].get('player').get('fullName') # player who took shot
+            player_id = allPlays[a].get('players')[0].get('player').get('id') # player who took shot
             shooter[a] = player_id # store in array containing name of all shooters
             shotOnTarget.append(1) # add one to the array tracking all shots on target
             period = allPlays[a].get('about').get('period')
@@ -138,7 +139,7 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
                 shooterOnTargetAway.append(player_id)       
 
         elif allPlays[a].get('result').get('event') == 'Missed Shot': # if the event is a missed shot
-            player_id = allPlays[a].get('players')[0].get('player').get('fullName') # player who took shot
+            player_id = allPlays[a].get('players')[0].get('player').get('id') # player who took shot
             shooter[a] = player_id # store in array containing name of all shooters
             shotOnTarget.append(0) # add zero to the array tracking all shots on target
             
@@ -264,3 +265,16 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
     #plt.legend(ncol = 2,loc='lower center', bbox_to_anchor=(0.47, -0.5))
     #plt.savefig('ShotChart_BOSvsNJD_12312019.png', dpi=800)
     '''
+#%%
+    # loop through all players in game dictionary and find all of their shots and coordinates
+    game_id = ['2019020613']
+    
+    name_list = list(player_id_game['home'])
+    
+    play_info = ['play_id', 'x','y']
+    
+    columns = pd.MultiIndex.from_product([player_id_game['home'][:],game_id,play_info],
+                                         names=['Player', 'Game No.','Play Info.'])
+    data_temp = np.zeros((10, 3*len(player_id_game['home'])))
+    
+    home_team_stats = pd.DataFrame(data_temp, columns=columns)
