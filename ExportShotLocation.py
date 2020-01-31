@@ -273,8 +273,19 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
     
     play_info = ['play_id', 'x','y']
     
-    columns = pd.MultiIndex.from_product([player_id_game['home'][:],game_id,play_info],
+    name_list_str = [str(x) for x in name_list]
+    
+    columns = pd.MultiIndex.from_product([name_list_str,game_id,play_info],
                                          names=['Player', 'Game No.','Play Info.'])
-    data_temp = np.zeros((10, 3*len(player_id_game['home'])))
+    data_temp = np.zeros((3, 3*len(player_id_game['home'])))
     
     home_team_stats = pd.DataFrame(data_temp, columns=columns)
+    
+    # atttempt to access and change values in data frame
+    home_team_stats[player_id_game['home'][0]][game_id].iloc[:,0] # this only creates a copy and does not allow the true values to be edited - requires further investigation
+    
+    home_team_stats.loc[0,name_list_str[0]] = [5,6,7] # this changes all values in first row - unsure how to propagate if more than one game (may need more clever indexing?)
+    
+    home_team_stats.loc[0,name_list_str[1]] = [8,9,10] # this changes all values in first row - unsure how to propagate if more than one game (may need more clever indexing?)
+   
+
