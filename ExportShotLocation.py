@@ -45,9 +45,22 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
     shooterMissAway = [] # list of names of shooters associated with home missed shot
     shot_id = 0
     
-
+    # -----------------------------------------------------
+    # shortened code to extract shots and goals and player ids
+    keys_game_data = game_data['liveData'].keys()
+    all_plays = game_data['liveData']['plays']['allPlays']
+    
+    play_filter = ['Shot','Goal']
+    for play in all_plays:
+        if play.get('result').get('event') in play_filter:
+            print(play.get('result').get('event'))
+            print(play.get('players')[0]['player']['id'])
+        
+    boxscore = game_data['liveData']['boxscore']
+    # -------------------------------------------------------
+    
     for x in ['home','away']:
-        player_dict = game_data.get('liveData').get('boxscore').get('teams').get(x).get('skaters')
+        player_dict = boxscore.get('teams').get(x).get('skaters')
         player_id_game[x] = player_dict
         
 #    for y in player_id_game:
@@ -229,7 +242,7 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
     img = plt.imread("hockey_rink_schematic.png")
     imgHlogo = plt.imread(hometeam+".png")
     imgAlogo = plt.imread(awayteam+".png")
-    fig, ax = plt.subplots(dpi=800, facecolor = (0.7, 0.7, 0.7))
+    fig, ax = plt.subplots(dpi=200, facecolor = (0.7, 0.7, 0.7))
     ax.imshow(img[0:img.shape[0], 0:img.shape[1]],extent=[0, 400, 0, 170])
     ax.imshow(imgHlogo,extent=[35, 165, 20, 150], alpha = 0.2)
     ax.imshow(imgAlogo,extent=[235, 365, 20, 150], alpha = 0.2)
@@ -288,4 +301,5 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
     
     home_team_stats.loc[0,name_list_str[1]] = [8,9,10] # this changes all values in first row - unsure how to propagate if more than one game (may need more clever indexing?)
    
-
+    with open('test.txt', 'w') as json_file:
+        json.dump(game_data, json_file)
