@@ -45,6 +45,26 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
     shooterMissAway = [] # list of names of shooters associated with home missed shot
     shot_id = 0
     
+    boxscore = game_data['liveData']['boxscore']
+    # create dictionaries for all players in the game to store info, stats, shots, goals
+    for x in ['home','away']:
+        player_dict = boxscore.get('teams').get(x).get('skaters')
+        #player_id_game[x] = player_dict
+        for i in player_dict:
+            p_name = boxscore.get('teams').get(x).get('players').get('ID'+str(i)).get('person').get('fullName')
+            p_name = p_name.replace(' ','_') # replace space in name - can then be used as file name
+            p_name = p_name.lower() # convert to all lower case - preference, not mandatory
+            p_info = boxscore.get('teams').get(x).get('players').get('ID'+str(i)).get('person')
+            p_stats_summary = boxscore.get('teams').get(x).get('players').get('ID'+str(i)).get('stats').get('skaterStats')
+            
+            # create dictionary with relevant information for each player from the given game
+            indiv_dict = { 'info': p_info,
+                'game': int(game_id[0]),
+                'stats_summary': p_stats_summary,
+                'shots': {'x':[],'y':[]},
+                'goals': {'x':[],'y':[]}}
+            locals()[p_name] = indiv_dict # rename the dictionary to the player name
+    
     # -----------------------------------------------------
     # shortened code to extract shots and goals and player ids
     keys_game_data = game_data['liveData'].keys()
@@ -52,17 +72,29 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
     
     play_filter = ['Shot','Goal']
     for play in all_plays:
-        if play.get('result').get('event') in play_filter:
+        category = play.get('result').get('event')
+        if category in play_filter:
+            p_name_event = play.get('players')[0]['player']['fullName']
+            # convert skater name to match dictionary names
+            p_name_event = p_name_event.replace(' ','_')
+            p_name_event = p_name_event.lower() 
+            
+            print(p_name_event)
+        
+            if category == 'Shot':
+                vars()[p_name_event]['shots']['x'].append(play.get('coordinates').get('x'))
+                vars()[p_name_event]['shots']['y'].append(play.get('coordinates').get('y'))
+            elif category == 'goal':
+                vars()[p_name_event]['goals']['x'].append(play.get('coordinates').get('x'))
+                vars()[p_name_event]['goals']['y'].append(play.get('coordinates').get('y'))                
+            
             print(play.get('result').get('event'))
-            print(play.get('players')[0]['player']['id'])
+            print(play.get('players')[0]['player']['fullName'])
+            print('Coordinates:')
+            print('x:'+ str(play.get('coordinates').get('x')))
+            print('y:'+str(play.get('coordinates').get('y')))
         
-    boxscore = game_data['liveData']['boxscore']
-    # -------------------------------------------------------
-    
-    for x in ['home','away']:
-        player_dict = boxscore.get('teams').get(x).get('skaters')
-        player_id_game[x] = player_dict
-        
+    # -------------------------------------------------------        
 #    for y in player_id_game:
  #       for playerID in player_id_game[y]:
   #          play_dict = game_data.get('liveData').get('boxscore').get('teams').get(y).get('players').get('ID' + str(playerID)).get('person')
