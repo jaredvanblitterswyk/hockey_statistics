@@ -1,0 +1,240 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-12T03:41:05Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Joe Pavelski,Winner,Dallas Stars,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:41:30Z,1,00:20,19:40,Blocked Shot,n/a,63.0,25.0,Esa Lindell,Blocker,Dallas Stars,Patrick Marleau,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:41:42Z,1,00:33,19:27,Blocked Shot,n/a,-49.0,-19.0,Brent Burns,Blocker,San Jose Sharks,Roope Hintz,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:41:47Z,1,00:37,19:23,Hit,n/a,-38.0,-41.0,Brent Burns,Hitter,San Jose Sharks,Miro Heiskanen,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:42:07Z,1,00:52,19:08,Penalty,Hi-sticking,39.0,-37.0,Evander Kane,PenaltyOn,San Jose Sharks,Jamie Oleksiak,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:42:31Z,1,00:52,19:08,Faceoff,n/a,-69.0,-22.0,Jamie Benn,Winner,Dallas Stars,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:43:07Z,1,01:18,18:42,Shot,Wrist Shot,-83.0,-7.0,Tyler Seguin,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:43:22Z,1,01:32,18:28,Goal,Tip-In,-69.0,-1.0,Jamie Benn,Scorer,Dallas Stars,Tyler Seguin,Assist,Dallas Stars,Miro Heiskanen,Assist,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks
+2020-01-12T03:43:55Z,1,01:32,18:28,Faceoff,n/a,0.0,0.0,Antti Suomela,Winner,San Jose Sharks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:44:15Z,1,01:45,18:15,Hit,n/a,99.0,20.0,Antti Suomela,Hitter,San Jose Sharks,Andrej Sekera,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:44:43Z,1,02:08,17:52,Shot,Tip-In,60.0,15.0,Antti Suomela,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:45:00Z,1,02:10,17:50,Faceoff,n/a,69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:45:40Z,1,02:43,17:17,Takeaway,n/a,-99.0,-17.0,Jason Dickinson,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:45:47Z,1,02:50,17:10,Missed Shot,n/a,-45.0,-33.0,Jason Dickinson,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:45:52Z,1,02:52,17:08,Shot,Wrist Shot,-35.0,25.0,Roman Polak,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:46:16Z,1,03:19,16:41,Takeaway,n/a,-20.0,28.0,Miro Heiskanen,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:46:26Z,1,03:29,16:31,Missed Shot,n/a,-67.0,-26.0,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:46:47Z,1,03:50,16:10,Missed Shot,n/a,78.0,-15.0,Barclay Goodrow,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:46:54Z,1,03:57,16:03,Shot,Wrist Shot,38.0,-30.0,Brent Burns,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:46:56Z,1,03:59,16:01,Shot,Slap Shot,41.0,29.0,Brenden Dillon,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:47:38Z,1,04:41,15:19,Takeaway,n/a,98.0,4.0,Tomas Hertl,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:47:53Z,1,04:56,15:04,Missed Shot,n/a,58.0,11.0,Mario Ferraro,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:48:34Z,1,05:37,14:23,Giveaway,n/a,-53.0,31.0,Joel Kellman,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:48:41Z,1,05:44,14:16,Giveaway,n/a,-73.0,-5.0,Joel Kiviranta,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:48:59Z,1,06:02,13:58,Blocked Shot,n/a,-74.0,8.0,Erik Karlsson,Blocker,San Jose Sharks,Joe Pavelski,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:49:04Z,1,06:07,13:53,Giveaway,n/a,-66.0,34.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:49:08Z,1,06:11,13:49,Missed Shot,n/a,-57.0,-21.0,Roope Hintz,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:49:44Z,1,06:47,13:13,Hit,n/a,-98.0,13.0,Tyler Seguin,Hitter,Dallas Stars,Brenden Dillon,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:49:52Z,1,06:55,13:05,Takeaway,n/a,-86.0,-10.0,Barclay Goodrow,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:50:14Z,1,07:04,12:56,Faceoff,n/a,69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:51:06Z,1,07:34,12:26,Blocked Shot,n/a,-45.0,23.0,Kevin Labanc,Blocker,San Jose Sharks,Blake Comeau,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:53:05Z,1,07:35,12:25,Faceoff,n/a,-69.0,22.0,Blake Comeau,Winner,Dallas Stars,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:53:47Z,1,07:47,12:13,Faceoff,n/a,-69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:54:30Z,1,07:57,12:03,Faceoff,n/a,20.0,-22.0,Jason Dickinson,Winner,Dallas Stars,Antti Suomela,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:55:27Z,1,08:12,11:48,Faceoff,n/a,69.0,22.0,Joel Kellman,Winner,San Jose Sharks,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:57:00Z,1,08:54,11:06,Faceoff,n/a,20.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:57:23Z,1,09:22,10:38,Missed Shot,n/a,45.0,-33.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:57:32Z,1,09:31,10:29,Missed Shot,n/a,40.0,-31.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:57:57Z,1,09:56,10:04,Shot,Wrist Shot,80.0,10.0,Tomas Hertl,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:58:14Z,1,10:13,09:47,Shot,Wrist Shot,52.0,-14.0,Kevin Labanc,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:58:20Z,1,10:19,09:41,Blocked Shot,n/a,76.0,4.0,Jamie Oleksiak,Blocker,Dallas Stars,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:58:43Z,1,10:42,09:18,Giveaway,n/a,-74.0,-31.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:59:26Z,1,11:25,08:35,Missed Shot,n/a,21.0,-35.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:59:44Z,1,11:43,08:17,Takeaway,n/a,3.0,-32.0,Melker Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T03:59:54Z,1,11:50,08:10,Shot,Tip-In,70.0,-1.0,Melker Karlsson,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:02:15Z,1,11:51,08:09,Faceoff,n/a,69.0,-22.0,Antti Suomela,Winner,San Jose Sharks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:02:14Z,1,11:59,08:01,Blocked Shot,n/a,62.0,-17.0,Radek Faksa,Blocker,Dallas Stars,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:02:22Z,1,12:07,07:53,Takeaway,n/a,-17.0,-42.0,Radek Faksa,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:02:45Z,1,12:29,07:31,Hit,n/a,-94.0,29.0,Jamie Benn,Hitter,Dallas Stars,Brenden Dillon,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:02:59Z,1,12:44,07:16,Takeaway,n/a,5.0,-30.0,Jamie Benn,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:03:06Z,1,12:47,07:13,Shot,Tip-In,-69.0,0.0,Taylor Fedun,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:03:29Z,1,12:48,07:12,Faceoff,n/a,-69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:03:57Z,1,13:12,06:48,Hit,n/a,51.0,-41.0,Esa Lindell,Hitter,Dallas Stars,Evander Kane,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:04:20Z,1,13:14,06:46,Missed Shot,n/a,79.0,2.0,Evander Kane,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:04:36Z,1,13:25,06:35,Faceoff,n/a,-69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:04:58Z,1,13:37,06:23,Takeaway,n/a,-41.0,24.0,Tomas Hertl,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:05:23Z,1,14:00,06:00,Shot,Wrist Shot,80.0,-2.0,Marcus Sorensen,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:07:24Z,1,14:01,05:59,Faceoff,n/a,69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:07:43Z,1,14:07,05:53,Blocked Shot,n/a,74.0,-4.0,Brent Burns,Blocker,San Jose Sharks,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:08:07Z,1,14:11,05:49,Faceoff,n/a,-69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:08:32Z,1,14:28,05:32,Takeaway,n/a,91.0,33.0,Joe Thornton,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:08:51Z,1,14:46,05:14,Shot,Backhand,1.0,27.0,Tyler Seguin,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:09:25Z,1,15:22,04:38,Takeaway,n/a,-99.0,-6.0,Marc-Edouard Vlasic,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:09:25Z,1,15:23,04:37,Hit,n/a,-70.0,-42.0,Jamie Benn,Hitter,Dallas Stars,Erik Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:09:33Z,1,15:25,04:35,Shot,Wrist Shot,70.0,33.0,Tomas Hertl,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:10:12Z,1,15:28,04:32,Faceoff,n/a,69.0,22.0,Antti Suomela,Winner,San Jose Sharks,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:10:10Z,1,15:33,04:27,Goal,Tip-In,85.0,-6.0,Brent Burns,Scorer,San Jose Sharks,Timo Meier,Assist,San Jose Sharks,Erik Karlsson,Assist,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars
+2020-01-12T04:11:17Z,1,15:33,04:27,Faceoff,n/a,0.0,0.0,Antti Suomela,Winner,San Jose Sharks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:11:27Z,1,15:45,04:15,Hit,n/a,81.0,-40.0,Antti Suomela,Hitter,San Jose Sharks,Andrej Sekera,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:11:35Z,1,15:52,04:08,Hit,n/a,90.0,34.0,Timo Meier,Hitter,San Jose Sharks,Miro Heiskanen,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:11:48Z,1,16:06,03:54,Hit,n/a,-98.0,-17.0,Radek Faksa,Hitter,Dallas Stars,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:12:17Z,1,16:11,03:49,Faceoff,n/a,-20.0,22.0,Joel Kellman,Winner,San Jose Sharks,Mattias Janmark,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:12:44Z,1,16:35,03:25,Takeaway,n/a,-14.0,39.0,Jason Dickinson,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:13:04Z,1,16:49,03:11,Giveaway,n/a,-99.0,8.0,Aaron Dell,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:13:50Z,1,17:41,02:19,Blocked Shot,n/a,68.0,1.0,Miro Heiskanen,Blocker,Dallas Stars,Tomas Hertl,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:14:03Z,1,17:53,02:07,Takeaway,n/a,78.0,42.0,Evander Kane,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:14:13Z,1,18:03,01:57,Hit,n/a,-43.0,-42.0,Brenden Dillon,Hitter,San Jose Sharks,Blake Comeau,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:14:20Z,1,18:10,01:50,Giveaway,n/a,-62.0,-35.0,Evander Kane,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:14:21Z,1,18:12,01:48,Shot,Wrist Shot,-40.0,-10.0,Roman Polak,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:14:38Z,1,18:28,01:32,Hit,n/a,-3.0,42.0,Roman Polak,Hitter,Dallas Stars,Antti Suomela,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:14:59Z,1,18:49,01:11,Hit,n/a,89.0,-37.0,Timo Meier,Hitter,San Jose Sharks,Esa Lindell,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:15:05Z,1,18:54,01:06,Shot,Wrist Shot,-72.0,1.0,Joel Kiviranta,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:15:33Z,1,18:54,01:06,Faceoff,n/a,-69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:15:53Z,1,19:12,00:48,Hit,n/a,37.0,-42.0,Jamie Oleksiak,Hitter,Dallas Stars,Stefan Noesen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:35:00Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Tyler Seguin,Winner,Dallas Stars,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:35:45Z,2,00:44,19:16,Shot,Slap Shot,-40.0,7.0,Brent Burns,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:35:00Z,2,00:52,19:08,Penalty,Hooking,-48.0,-29.0,Tyler Seguin,PenaltyOn,Dallas Stars,Evander Kane,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:36:40Z,2,00:52,19:08,Faceoff,n/a,-69.0,-22.0,Joe Pavelski,Winner,Dallas Stars,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:37:12Z,2,01:35,18:25,Shot,Slap Shot,-74.0,21.0,Evander Kane,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:43:33Z,2,02:13,17:47,Giveaway,n/a,-78.0,18.0,Joe Thornton,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:38:02Z,2,02:18,17:42,Shot,Wrist Shot,-81.0,-8.0,Andrew Cogliano,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:38:21Z,2,02:43,17:17,Blocked Shot,n/a,-68.0,-9.0,Roman Polak,Blocker,Dallas Stars,Patrick Marleau,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:38:36Z,2,02:54,17:06,Shot,Tip-In,-83.0,0.0,Tomas Hertl,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:38:43Z,2,02:56,17:04,Goal,Wrist Shot,-81.0,-4.0,Patrick Marleau,Scorer,San Jose Sharks,Tomas Hertl,Assist,San Jose Sharks,Brent Burns,Assist,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars
+2020-01-12T04:39:18Z,2,02:56,17:04,Faceoff,n/a,0.0,0.0,Antti Suomela,Winner,San Jose Sharks,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:04:54Z,2,03:04,16:56,Giveaway,n/a,-85.0,38.0,Miro Heiskanen,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:39:54Z,2,03:35,16:25,Shot,Wrist Shot,-7.0,-23.0,Joe Pavelski,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:40:18Z,2,03:59,16:01,Missed Shot,n/a,77.0,25.0,Jamie Benn,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:40:26Z,2,04:04,15:56,Takeaway,n/a,-51.0,38.0,Andrej Sekera,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:40:43Z,2,04:22,15:38,Shot,Wrist Shot,71.0,4.0,Alexander Radulov,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:41:09Z,2,04:26,15:34,Faceoff,n/a,69.0,22.0,Joel Kellman,Winner,San Jose Sharks,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:41:29Z,2,04:38,15:22,Shot,Backhand,84.0,-7.0,Mattias Janmark,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:41:51Z,2,04:39,15:21,Faceoff,n/a,69.0,-22.0,Joel Kellman,Winner,San Jose Sharks,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:42:04Z,2,04:48,15:12,Hit,n/a,-34.0,-42.0,Jamie Oleksiak,Hitter,Dallas Stars,Stefan Noesen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:42:19Z,2,05:02,14:58,Giveaway,n/a,6.0,12.0,Mario Ferraro,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:42:44Z,2,05:28,14:32,Missed Shot,n/a,-84.0,23.0,Marcus Sorensen,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:42:58Z,2,05:42,14:18,Blocked Shot,n/a,-66.0,-1.0,Radek Faksa,Blocker,Dallas Stars,Marcus Sorensen,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:43:05Z,2,05:49,14:11,Hit,n/a,96.0,-25.0,Blake Comeau,Hitter,Dallas Stars,Erik Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:43:33Z,2,06:14,13:46,Missed Shot,n/a,-64.0,-1.0,Joe Thornton,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:43:33Z,2,06:16,13:44,Hit,n/a,-91.0,-33.0,Joe Pavelski,Hitter,Dallas Stars,Brenden Dillon,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:43:55Z,2,06:18,13:42,Missed Shot,n/a,-47.0,-33.0,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:45:58Z,2,06:19,13:41,Faceoff,n/a,-69.0,-22.0,Antti Suomela,Winner,San Jose Sharks,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:46:10Z,2,06:25,13:35,Missed Shot,n/a,-35.0,-11.0,Brenden Dillon,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:46:27Z,2,06:41,13:19,Hit,n/a,-40.0,-41.0,Joe Pavelski,Hitter,Dallas Stars,Antti Suomela,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:46:41Z,2,06:49,13:11,Hit,n/a,-46.0,39.0,Timo Meier,Hitter,San Jose Sharks,Roope Hintz,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:46:37Z,2,06:52,13:08,Shot,Wrist Shot,61.0,7.0,Roope Hintz,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:47:04Z,2,07:19,12:41,Hit,n/a,95.0,-29.0,Andrew Cogliano,Hitter,Dallas Stars,Radim Simek,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:47:10Z,2,07:22,12:38,Shot,Wrist Shot,68.0,32.0,Andrej Sekera,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:47:16Z,2,07:31,12:29,Giveaway,n/a,88.0,-37.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:47:16Z,2,07:33,12:27,Takeaway,n/a,92.0,29.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:47:25Z,2,07:38,12:22,Blocked Shot,n/a,-55.0,4.0,Andrew Cogliano,Blocker,Dallas Stars,Mario Ferraro,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:48:06Z,2,07:38,12:22,Faceoff,n/a,-69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:48:07Z,2,07:48,12:12,Shot,Wrist Shot,-46.0,-6.0,Evander Kane,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:48:18Z,2,07:56,12:04,Missed Shot,n/a,65.0,-2.0,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:48:24Z,2,07:59,12:01,Blocked Shot,n/a,71.0,-1.0,Evander Kane,Blocker,San Jose Sharks,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:48:32Z,2,08:13,11:47,Giveaway,n/a,13.0,-10.0,Roman Polak,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:49:01Z,2,08:42,11:18,Blocked Shot,n/a,-59.0,-20.0,Miro Heiskanen,Blocker,Dallas Stars,Stefan Noesen,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:49:30Z,2,09:10,10:50,Missed Shot,n/a,64.0,-5.0,Mattias Janmark,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:49:40Z,2,09:21,10:39,Shot,Wrist Shot,-61.0,2.0,Melker Karlsson,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:49:55Z,2,09:36,10:24,Shot,Wrist Shot,18.0,24.0,Brent Burns,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:50:18Z,2,09:38,10:22,Faceoff,n/a,-69.0,-22.0,Joe Pavelski,Winner,Dallas Stars,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:50:36Z,2,09:45,10:15,Giveaway,n/a,-39.0,40.0,Denis Gurianov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:51:08Z,2,10:18,09:42,Blocked Shot,n/a,-51.0,3.0,Joe Pavelski,Blocker,Dallas Stars,Brenden Dillon,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:51:17Z,2,10:27,09:33,Shot,Backhand,-85.0,-4.0,Joe Thornton,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:52:17Z,2,11:26,08:34,Blocked Shot,n/a,80.0,-8.0,Erik Karlsson,Blocker,San Jose Sharks,Taylor Fedun,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:52:30Z,2,11:31,08:29,Penalty,Hooking,62.0,-28.0,Radek Faksa,PenaltyOn,Dallas Stars,Erik Karlsson,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:54:33Z,2,11:31,08:29,Faceoff,n/a,-69.0,-22.0,Joe Pavelski,Winner,Dallas Stars,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:56:25Z,2,13:09,06:51,Takeaway,n/a,20.0,30.0,Roope Hintz,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:56:30Z,2,13:13,06:47,Shot,Wrist Shot,79.0,3.0,Roope Hintz,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:57:14Z,2,13:58,06:02,Hit,n/a,68.0,41.0,Jamie Benn,Hitter,Dallas Stars,Brenden Dillon,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:57:30Z,2,14:14,05:46,Shot,Wrist Shot,38.0,-7.0,Taylor Fedun,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:57:42Z,2,14:27,05:33,Hit,n/a,46.0,-41.0,Radim Simek,Hitter,San Jose Sharks,Radek Faksa,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:58:02Z,2,14:45,05:15,Hit,n/a,56.0,-42.0,Blake Comeau,Hitter,Dallas Stars,Antti Suomela,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:58:10Z,2,14:54,05:06,Blocked Shot,n/a,-77.0,1.0,Esa Lindell,Blocker,Dallas Stars,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:58:19Z,2,15:01,04:59,Blocked Shot,n/a,70.0,-1.0,Erik Karlsson,Blocker,San Jose Sharks,Mattias Janmark,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:58:38Z,2,15:21,04:39,Hit,n/a,87.0,-37.0,Jason Dickinson,Hitter,Dallas Stars,Erik Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:58:48Z,2,15:27,04:33,Giveaway,n/a,67.0,-26.0,Denis Gurianov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:59:16Z,2,15:59,04:01,Hit,n/a,99.0,-9.0,Joe Pavelski,Hitter,Dallas Stars,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T04:59:29Z,2,16:11,03:49,Shot,Wrist Shot,-29.0,0.0,Tyler Seguin,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:00:01Z,2,16:12,03:48,Faceoff,n/a,69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:00:10Z,2,16:18,03:42,Blocked Shot,n/a,74.0,-3.0,Evander Kane,Blocker,San Jose Sharks,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:00:14Z,2,16:21,03:39,Hit,n/a,70.0,-42.0,Brenden Dillon,Hitter,San Jose Sharks,Tyler Seguin,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:02:40Z,2,16:32,03:28,Faceoff,n/a,20.0,22.0,Radek Faksa,Winner,Dallas Stars,Antti Suomela,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:03:12Z,2,17:04,02:56,Hit,n/a,-54.0,40.0,Esa Lindell,Hitter,Dallas Stars,Antti Suomela,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:03:18Z,2,17:08,02:52,Blocked Shot,n/a,-52.0,-6.0,Radek Faksa,Blocker,Dallas Stars,Brenden Dillon,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:03:46Z,2,17:37,02:23,Shot,Wrist Shot,-48.0,-10.0,Evander Kane,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:03:56Z,2,17:48,02:12,Shot,Wrist Shot,-80.0,-2.0,Evander Kane,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:04:07Z,2,17:54,02:06,Missed Shot,n/a,34.0,29.0,Mattias Janmark,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:04:36Z,2,17:55,02:05,Faceoff,n/a,69.0,22.0,Jamie Benn,Winner,Dallas Stars,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:04:54Z,2,18:04,01:56,Blocked Shot,n/a,72.0,-8.0,Marc-Edouard Vlasic,Blocker,San Jose Sharks,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:05:01Z,2,18:12,01:48,Hit,n/a,99.0,-17.0,Jamie Benn,Hitter,Dallas Stars,Marc-Edouard Vlasic,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:05:25Z,2,18:36,01:24,Shot,Wrist Shot,52.0,-14.0,Miro Heiskanen,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:05:28Z,2,18:39,01:21,Takeaway,n/a,36.0,42.0,Miro Heiskanen,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:25:03Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Blake Comeau,Winner,Dallas Stars,Antti Suomela,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:25:30Z,3,00:08,19:52,Faceoff,n/a,69.0,22.0,Antti Suomela,Winner,San Jose Sharks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:25:45Z,3,00:12,19:48,Shot,Wrist Shot,55.0,21.0,Timo Meier,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:26:06Z,3,00:13,19:47,Faceoff,n/a,69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:26:24Z,3,00:27,19:33,Hit,n/a,74.0,-41.0,Roman Polak,Hitter,Dallas Stars,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:26:31Z,3,00:31,19:29,Shot,Wrist Shot,42.0,27.0,Radim Simek,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:26:53Z,3,00:32,19:28,Faceoff,n/a,69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:27:02Z,3,00:40,19:20,Shot,Tip-In,83.0,1.0,Tomas Hertl,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:28:05Z,3,01:22,18:38,Faceoff,n/a,-69.0,-22.0,Jason Dickinson,Winner,Dallas Stars,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:28:38Z,3,01:36,18:24,Faceoff,n/a,-69.0,-22.0,Joel Kellman,Winner,San Jose Sharks,Mattias Janmark,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:29:05Z,3,01:50,18:10,Shot,Slap Shot,-36.0,-28.0,Jamie Oleksiak,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:29:12Z,3,01:57,18:03,Giveaway,n/a,-40.0,-9.0,Joel Kellman,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:29:24Z,3,02:08,17:52,Hit,n/a,37.0,40.0,Taylor Fedun,Hitter,Dallas Stars,Timo Meier,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:29:40Z,3,02:25,17:35,Blocked Shot,n/a,59.0,0.0,Joe Pavelski,Blocker,Dallas Stars,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:29:46Z,3,02:28,17:32,Blocked Shot,n/a,69.0,2.0,Joe Pavelski,Blocker,Dallas Stars,Radim Simek,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:29:52Z,3,02:37,17:23,Hit,n/a,72.0,-42.0,Jason Dickinson,Hitter,Dallas Stars,Erik Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:30:05Z,3,02:40,17:20,Shot,Wrist Shot,35.0,-23.0,Antti Suomela,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:30:28Z,3,02:41,17:19,Faceoff,n/a,69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:31:14Z,3,03:30,16:30,Blocked Shot,n/a,-56.0,8.0,Marcus Sorensen,Blocker,San Jose Sharks,Andrej Sekera,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:32:00Z,3,04:12,15:48,Shot,Deflected,80.0,0.0,Tomas Hertl,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:32:18Z,3,04:13,15:47,Faceoff,n/a,69.0,22.0,Joe Pavelski,Winner,Dallas Stars,Antti Suomela,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:32:42Z,3,04:24,15:36,Takeaway,n/a,-10.0,41.0,Antti Suomela,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:33:04Z,3,04:46,15:14,Takeaway,n/a,-96.0,-24.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:33:45Z,3,05:27,14:33,Blocked Shot,n/a,63.0,-13.0,Esa Lindell,Blocker,Dallas Stars,Melker Karlsson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:33:57Z,3,05:35,14:25,Takeaway,n/a,-8.0,-42.0,Melker Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:37:10Z,3,05:57,14:03,Giveaway,n/a,-48.0,42.0,Radek Faksa,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:35:30Z,3,07:12,12:48,Missed Shot,n/a,43.0,28.0,Erik Karlsson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:35:47Z,3,07:29,12:31,Missed Shot,n/a,64.0,1.0,Evander Kane,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:36:03Z,3,07:45,12:15,Missed Shot,n/a,37.0,-17.0,Erik Karlsson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:36:16Z,3,07:53,12:07,Blocked Shot,n/a,82.0,-1.0,Andrej Sekera,Blocker,Dallas Stars,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:36:32Z,3,07:59,12:01,Faceoff,n/a,69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Antti Suomela,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:36:58Z,3,08:14,11:46,Shot,Wrist Shot,-22.0,1.0,Jamie Benn,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:37:10Z,3,08:22,11:38,Faceoff,n/a,-69.0,-22.0,Antti Suomela,Winner,San Jose Sharks,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:37:57Z,3,08:45,11:15,Hit,n/a,-96.0,22.0,Roope Hintz,Hitter,Dallas Stars,Brent Burns,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:38:14Z,3,09:06,10:54,Hit,n/a,98.0,-7.0,Joel Kellman,Hitter,San Jose Sharks,Miro Heiskanen,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:38:27Z,3,09:15,10:45,Giveaway,n/a,-10.0,-33.0,Stefan Noesen,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:40:37Z,3,09:18,10:42,Faceoff,n/a,-20.0,22.0,Jason Dickinson,Winner,Dallas Stars,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:41:01Z,3,09:41,10:19,Takeaway,n/a,5.0,16.0,Stefan Noesen,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:41:41Z,3,10:00,10:00,Faceoff,n/a,20.0,22.0,Blake Comeau,Winner,Dallas Stars,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:42:00Z,3,10:12,09:48,Takeaway,n/a,-23.0,29.0,Barclay Goodrow,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:42:15Z,3,10:24,09:36,Shot,Wrist Shot,-77.0,-8.0,Blake Comeau,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:42:20Z,3,10:25,09:35,Shot,Wrist Shot,-80.0,-4.0,Andrew Cogliano,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:42:50Z,3,11:01,08:59,Hit,n/a,-30.0,-15.0,Tomas Hertl,Hitter,San Jose Sharks,Jamie Benn,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:42:57Z,3,11:09,08:51,Shot,Slap Shot,-8.0,21.0,Tyler Seguin,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:46:56Z,3,11:28,08:32,Giveaway,n/a,-50.0,26.0,Tyler Seguin,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:43:30Z,3,11:42,08:18,Takeaway,n/a,-77.0,9.0,Mario Ferraro,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:43:44Z,3,11:56,08:04,Hit,n/a,-53.0,-42.0,Mario Ferraro,Hitter,San Jose Sharks,Roope Hintz,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:44:12Z,3,12:28,07:32,Hit,n/a,-58.0,-13.0,Brenden Dillon,Hitter,San Jose Sharks,Mattias Janmark,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:44:33Z,3,12:37,07:23,Penalty,Interference,-30.0,20.0,Brenden Dillon,PenaltyOn,San Jose Sharks,Jason Dickinson,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:46:56Z,3,12:37,07:23,Faceoff,n/a,-69.0,-22.0,Jamie Benn,Winner,Dallas Stars,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:49:42Z,3,13:18,06:42,Giveaway,n/a,-43.0,-39.0,Alexander Radulov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:48:34Z,3,13:41,06:19,Faceoff,n/a,-20.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:49:42Z,3,14:08,05:52,Faceoff,n/a,20.0,22.0,Tyler Seguin,Winner,Dallas Stars,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:49:53Z,3,14:18,05:42,Shot,Slap Shot,-57.0,22.0,Joe Pavelski,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:50:08Z,3,14:19,05:41,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:50:22Z,3,14:26,05:34,Blocked Shot,n/a,-65.0,-4.0,Brent Burns,Blocker,San Jose Sharks,Esa Lindell,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:50:38Z,3,14:42,05:18,Shot,Wrist Shot,-81.0,-5.0,Tyler Seguin,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:50:48Z,3,14:53,05:07,Hit,n/a,-99.0,14.0,Jamie Benn,Hitter,Dallas Stars,Antti Suomela,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:51:05Z,3,15:09,04:51,Shot,Wrist Shot,61.0,3.0,Antti Suomela,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:51:07Z,3,15:11,04:49,Hit,n/a,87.0,36.0,Timo Meier,Hitter,San Jose Sharks,Miro Heiskanen,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:51:30Z,3,15:33,04:27,Shot,Wrist Shot,90.0,6.0,Marcus Sorensen,Shooter,San Jose Sharks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:53:47Z,3,15:34,04:26,Faceoff,n/a,69.0,22.0,Joe Pavelski,Winner,Dallas Stars,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:53:59Z,3,15:44,04:16,Giveaway,n/a,-69.0,-41.0,Denis Gurianov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:54:21Z,3,15:59,04:01,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:54:52Z,3,16:09,03:51,Blocked Shot,n/a,-63.0,14.0,Brenden Dillon,Blocker,San Jose Sharks,Alexander Radulov,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:55:09Z,3,16:28,03:32,Blocked Shot,n/a,-65.0,13.0,Marc-Edouard Vlasic,Blocker,San Jose Sharks,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:55:21Z,3,16:40,03:20,Missed Shot,n/a,51.0,-34.0,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:56:00Z,3,17:19,02:41,Shot,Wrist Shot,-58.0,6.0,Joel Kiviranta,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:56:37Z,3,17:29,02:31,Faceoff,n/a,-20.0,22.0,Joe Pavelski,Winner,Dallas Stars,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:57:15Z,3,18:04,01:56,Missed Shot,n/a,-37.0,17.0,Taylor Fedun,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:57:44Z,3,18:09,01:51,Faceoff,n/a,-69.0,-22.0,Jamie Benn,Winner,Dallas Stars,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:58:04Z,3,18:21,01:39,Shot,Tip-In,-83.0,1.0,Jamie Benn,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:58:13Z,3,18:30,01:30,Shot,Slap Shot,-51.0,1.0,Miro Heiskanen,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:58:43Z,3,18:57,01:03,Shot,Wrist Shot,-77.0,-28.0,Tyler Seguin,Shooter,Dallas Stars,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T05:59:46Z,3,18:58,01:02,Faceoff,n/a,-69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T06:00:12Z,3,19:12,00:48,Giveaway,n/a,-48.0,-40.0,Esa Lindell,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

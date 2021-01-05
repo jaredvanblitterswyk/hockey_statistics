@@ -1,0 +1,288 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-26T00:14:33Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:15:49Z,1,00:13,19:47,Shot,Wrist Shot,35.0,-23.0,Neal Pionk,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:16:03Z,1,00:14,19:46,Faceoff,n/a,69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:16:15Z,1,00:21,19:39,Blocked Shot,n/a,63.0,4.0,T.J. Oshie,Blocker,Washington Capitals,Dmitry Kulikov,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:16:29Z,1,00:36,19:24,Hit,n/a,-89.0,32.0,Nicklas Backstrom,Hitter,Washington Capitals,Jansen Harkins,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:16:58Z,1,00:53,19:07,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:17:38Z,1,01:21,18:39,Giveaway,n/a,-19.0,0.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:17:44Z,1,01:24,18:36,Faceoff,n/a,-69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:18:19Z,1,01:28,18:32,Blocked Shot,n/a,-65.0,5.0,Nathan Beaulieu,Blocker,Winnipeg Jets,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:18:22Z,1,01:31,18:29,Hit,n/a,-59.0,-35.0,Tom Wilson,Hitter,Washington Capitals,Dylan DeMelo,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:18:32Z,1,01:41,18:19,Missed Shot,n/a,-35.0,-3.0,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:18:48Z,1,01:53,18:07,Blocked Shot,n/a,-83.0,6.0,Nathan Beaulieu,Blocker,Winnipeg Jets,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:18:58Z,1,01:55,18:05,Goal,Snap Shot,-82.0,3.0,Alex Ovechkin,Scorer,Washington Capitals,Evgeny Kuznetsov,Assist,Washington Capitals,Dmitry Orlov,Assist,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets
+2020-02-26T00:19:32Z,1,01:55,18:05,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Cody Eakin,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:19:54Z,1,02:18,17:42,Blocked Shot,n/a,46.0,15.0,Ilya Kovalchuk,Blocker,Washington Capitals,Anthony Bitetto,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:20:00Z,1,02:25,17:35,Hit,n/a,96.0,18.0,Cody Eakin,Hitter,Winnipeg Jets,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:20:08Z,1,02:27,17:33,Hit,n/a,89.0,31.0,Ilya Kovalchuk,Hitter,Washington Capitals,Anthony Bitetto,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:52:23Z,1,02:33,17:27,Hit,n/a,12.0,41.0,Radko Gudas,Hitter,Washington Capitals,Cody Eakin,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:20:26Z,1,02:51,17:09,Shot,Wrist Shot,-82.0,25.0,Nic Dowd,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:20:30Z,1,02:53,17:07,Hit,n/a,-50.0,39.0,Nathan Beaulieu,Hitter,Winnipeg Jets,Richard Panik,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:21:11Z,1,03:34,16:26,Hit,n/a,-3.0,40.0,Gabriel Bourque,Hitter,Winnipeg Jets,Richard Panik,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:21:50Z,1,04:13,15:47,Blocked Shot,n/a,74.0,0.0,Nicklas Backstrom,Blocker,Washington Capitals,Mark Scheifele,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:21:54Z,1,04:19,15:41,Shot,Slap Shot,42.0,-27.0,Neal Pionk,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:22:13Z,1,04:36,15:24,Giveaway,n/a,76.0,32.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:22:25Z,1,04:49,15:11,Blocked Shot,n/a,48.0,14.0,Tom Wilson,Blocker,Washington Capitals,Nathan Beaulieu,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:22:33Z,1,04:57,15:03,Missed Shot,n/a,47.0,22.0,Nathan Beaulieu,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:22:46Z,1,05:10,14:50,Missed Shot,n/a,64.0,4.0,Kyle Connor,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:23:31Z,1,05:31,14:29,Faceoff,n/a,20.0,22.0,Lars Eller,Winner,Washington Capitals,Cody Eakin,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:23:52Z,1,05:46,14:14,Giveaway,n/a,-98.0,-3.0,Laurent Brossoit,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:24:15Z,1,06:08,13:52,Shot,Tip-In,-4.0,-38.0,Lars Eller,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:24:24Z,1,06:17,13:43,Shot,Snap Shot,43.0,12.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:26:50Z,1,06:18,13:42,Faceoff,n/a,69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:26:50Z,1,06:19,13:41,Blocked Shot,n/a,61.0,9.0,T.J. Oshie,Blocker,Washington Capitals,Blake Wheeler,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:26:50Z,1,06:25,13:35,Blocked Shot,n/a,47.0,-18.0,Nicklas Backstrom,Blocker,Washington Capitals,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:27:03Z,1,06:27,13:33,Faceoff,n/a,69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:27:12Z,1,06:32,13:28,Missed Shot,n/a,59.0,-17.0,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:27:20Z,1,06:40,13:20,Giveaway,n/a,35.0,33.0,Dmitry Kulikov,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:27:27Z,1,06:47,13:13,Missed Shot,n/a,-44.0,-27.0,Brenden Dillon,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:27:34Z,1,06:50,13:10,Shot,Slap Shot,-47.0,40.0,John Carlson,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:27:59Z,1,06:51,13:09,Faceoff,n/a,-69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:28:16Z,1,06:55,13:05,Blocked Shot,n/a,-69.0,4.0,Nathan Beaulieu,Blocker,Winnipeg Jets,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:28:28Z,1,07:05,12:55,Giveaway,n/a,47.0,40.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:28:28Z,1,07:06,12:54,Shot,Wrist Shot,50.0,8.0,Patrik Laine,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:28:41Z,1,07:07,12:53,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Kyle Connor,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:29:27Z,1,07:17,12:43,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Jack Roslovic,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:30:09Z,1,07:36,12:24,Hit,n/a,99.0,-4.0,Jack Roslovic,Hitter,Winnipeg Jets,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:30:22Z,1,07:46,12:14,Takeaway,n/a,12.0,-7.0,Nikolaj Ehlers,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:30:31Z,1,07:56,12:04,Giveaway,n/a,89.0,-31.0,Nikolaj Ehlers,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:30:51Z,1,08:00,12:00,Faceoff,n/a,-20.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:31:24Z,1,08:24,11:36,Hit,n/a,-35.0,38.0,Nathan Beaulieu,Hitter,Winnipeg Jets,Ilya Kovalchuk,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:31:31Z,1,08:31,11:29,Takeaway,n/a,-38.0,25.0,Radko Gudas,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:32:03Z,1,09:01,10:59,Takeaway,n/a,-28.0,37.0,Garnet Hathaway,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:32:09Z,1,09:02,10:58,Hit,n/a,-32.0,38.0,Gabriel Bourque,Hitter,Winnipeg Jets,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:32:25Z,1,09:04,10:56,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:32:42Z,1,09:10,10:50,Giveaway,n/a,-66.0,35.0,Richard Panik,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:32:50Z,1,09:17,10:43,Hit,n/a,18.0,31.0,Nic Dowd,Hitter,Washington Capitals,Dmitry Kulikov,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:33:06Z,1,09:34,10:26,Hit,n/a,-30.0,38.0,Neal Pionk,Hitter,Winnipeg Jets,Richard Panik,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:33:41Z,1,10:07,09:53,Goal,Wrist Shot,-82.0,-3.0,Jakub Vrana,Scorer,Washington Capitals,T.J. Oshie,Assist,Washington Capitals,Dmitry Orlov,Assist,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets
+2020-02-26T00:34:23Z,1,10:07,09:53,Faceoff,n/a,0.0,0.0,Evgeny Kuznetsov,Winner,Washington Capitals,Cody Eakin,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:34:54Z,1,10:31,09:29,Missed Shot,n/a,-35.0,21.0,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:35:32Z,1,10:51,09:09,Faceoff,n/a,69.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:36:09Z,1,11:20,08:40,Giveaway,n/a,38.0,-31.0,Brenden Dillon,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:36:11Z,1,11:22,08:38,Shot,Wrist Shot,50.0,18.0,Nathan Beaulieu,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:38:19Z,1,11:23,08:37,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:38:54Z,1,11:52,08:08,Missed Shot,n/a,35.0,23.0,Dmitry Kulikov,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:39:02Z,1,11:57,08:03,Blocked Shot,n/a,65.0,2.0,Nicklas Backstrom,Blocker,Washington Capitals,Blake Wheeler,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:39:11Z,1,12:09,07:51,Hit,n/a,-98.0,0.0,T.J. Oshie,Hitter,Washington Capitals,Dmitry Kulikov,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:39:32Z,1,12:12,07:48,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:39:55Z,1,12:15,07:45,Blocked Shot,n/a,-47.0,-31.0,Blake Wheeler,Blocker,Winnipeg Jets,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:40:17Z,1,12:38,07:22,Takeaway,n/a,-20.0,7.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:40:25Z,1,12:47,07:13,Hit,n/a,-98.0,6.0,Ilya Kovalchuk,Hitter,Washington Capitals,Tucker Poolman,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:40:32Z,1,12:52,07:08,Shot,Slap Shot,-39.0,-33.0,Carl Hagelin,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:40:39Z,1,12:55,07:05,Shot,Slap Shot,-50.0,27.0,Ilya Kovalchuk,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:41:00Z,1,12:56,07:04,Faceoff,n/a,-69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:41:42Z,1,13:30,06:30,Shot,Wrist Shot,-80.0,4.0,Alex Ovechkin,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:41:50Z,1,13:36,06:24,Hit,n/a,33.0,-27.0,Dmitry Orlov,Hitter,Washington Capitals,Patrik Laine,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:42:07Z,1,13:52,06:08,Takeaway,n/a,-92.0,28.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:42:39Z,1,14:24,05:36,Shot,Wrap-around,-79.0,-2.0,Nic Dowd,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:42:54Z,1,14:39,05:21,Hit,n/a,-97.0,-14.0,Nic Dowd,Hitter,Washington Capitals,Tucker Poolman,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:43:03Z,1,14:47,05:13,Shot,Backhand,-11.0,40.0,Richard Panik,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:45:19Z,1,15:15,04:45,Faceoff,n/a,20.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:45:59Z,1,15:24,04:36,Faceoff,n/a,0.0,0.0,Mark Scheifele,Winner,Winnipeg Jets,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:46:35Z,1,15:45,04:15,Missed Shot,n/a,-55.0,-31.0,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:47:07Z,1,16:17,03:43,Missed Shot,n/a,-68.0,-15.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:47:23Z,1,16:33,03:27,Blocked Shot,n/a,53.0,25.0,Nick Jensen,Blocker,Washington Capitals,Anthony Bitetto,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:47:44Z,1,16:34,03:26,Faceoff,n/a,69.0,22.0,Andrew Copp,Winner,Winnipeg Jets,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:47:58Z,1,16:37,03:23,Missed Shot,n/a,33.0,-13.0,Dylan DeMelo,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:48:10Z,1,16:38,03:22,Faceoff,n/a,69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:48:26Z,1,16:48,03:12,Hit,n/a,-98.0,-13.0,Alex Ovechkin,Hitter,Washington Capitals,Dylan DeMelo,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:49:01Z,1,17:22,02:38,Hit,n/a,28.0,-31.0,Tom Wilson,Hitter,Washington Capitals,Andrew Copp,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:49:25Z,1,17:29,02:31,Faceoff,n/a,69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:49:39Z,1,17:34,02:26,Blocked Shot,n/a,68.0,-8.0,Radko Gudas,Blocker,Washington Capitals,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:50:04Z,1,18:00,02:00,Giveaway,n/a,-97.0,25.0,Laurent Brossoit,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:50:20Z,1,18:13,01:47,Missed Shot,n/a,-77.0,-11.0,Richard Panik,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:50:50Z,1,18:14,01:46,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Winnipeg Jets,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:51:02Z,1,18:17,01:43,Blocked Shot,n/a,-71.0,-8.0,Gabriel Bourque,Blocker,Winnipeg Jets,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:51:20Z,1,18:41,01:19,Hit,n/a,90.0,-28.0,Nicholas Shore,Hitter,Winnipeg Jets,John Carlson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:51:26Z,1,18:46,01:14,Blocked Shot,n/a,50.0,18.0,Nicklas Backstrom,Blocker,Washington Capitals,Nathan Beaulieu,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:51:57Z,1,19:17,00:43,Hit,n/a,91.0,31.0,Cody Eakin,Hitter,Winnipeg Jets,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:52:23Z,1,19:42,00:18,Shot,Tip-In,74.0,1.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T00:52:32Z,1,19:52,00:08,Hit,n/a,-95.0,26.0,Dmitry Kulikov,Hitter,Winnipeg Jets,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:10:59Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Mark Scheifele,Winner,Winnipeg Jets,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:11:49Z,2,00:16,19:44,Missed Shot,n/a,-35.0,-9.0,Dmitry Kulikov,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:12:11Z,2,01:03,18:57,Shot,Snap Shot,-52.0,-1.0,Jansen Harkins,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:13:05Z,2,01:58,18:02,Shot,Wrist Shot,-87.0,-29.0,Anthony Bitetto,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:13:11Z,2,02:03,17:57,Blocked Shot,n/a,-52.0,-13.0,Tom Wilson,Blocker,Washington Capitals,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:13:49Z,2,02:43,17:17,Hit,n/a,85.0,-36.0,Carl Hagelin,Hitter,Washington Capitals,Tucker Poolman,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:14:12Z,2,03:05,16:55,Blocked Shot,n/a,37.0,-31.0,Gabriel Bourque,Blocker,Winnipeg Jets,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:14:20Z,2,03:12,16:48,Shot,Wrist Shot,32.0,-31.0,John Carlson,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:14:29Z,2,03:22,16:38,Shot,Backhand,-80.0,1.0,Mason Appleton,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:14:38Z,2,03:31,16:29,Hit,n/a,95.0,27.0,Nathan Beaulieu,Hitter,Winnipeg Jets,Brenden Dillon,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:15:11Z,2,03:44,16:16,Faceoff,n/a,20.0,22.0,Nic Dowd,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:15:40Z,2,04:04,15:56,Missed Shot,n/a,37.0,19.0,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:15:51Z,2,04:14,15:46,Blocked Shot,n/a,68.0,-15.0,Dmitry Kulikov,Blocker,Winnipeg Jets,Nic Dowd,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:16:07Z,2,04:32,15:28,Shot,Wrist Shot,-64.0,17.0,Kyle Connor,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:16:21Z,2,04:47,15:13,Shot,Snap Shot,-37.0,27.0,Neal Pionk,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:16:40Z,2,05:03,14:57,Shot,Snap Shot,61.0,-15.0,Garnet Hathaway,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:17:01Z,2,05:04,14:56,Faceoff,n/a,69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:17:20Z,2,05:15,14:45,Takeaway,n/a,51.0,40.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:17:46Z,2,05:19,14:41,Faceoff,n/a,69.0,22.0,Andrew Copp,Winner,Winnipeg Jets,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:18:32Z,2,05:55,14:05,Blocked Shot,n/a,-48.0,26.0,T.J. Oshie,Blocker,Washington Capitals,Jack Roslovic,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:18:32Z,2,05:57,14:03,Shot,Deflected,-78.0,-7.0,Andrew Copp,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:18:52Z,2,06:19,13:41,Shot,Wrist Shot,79.0,-4.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:19:18Z,2,06:45,13:15,Blocked Shot,n/a,66.0,4.0,Dmitry Kulikov,Blocker,Winnipeg Jets,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:19:49Z,2,06:51,13:09,Shot,Slap Shot,47.0,-2.0,Neal Pionk,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:21:41Z,2,06:52,13:08,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:21:50Z,2,07:02,12:58,Hit,n/a,-30.0,-38.0,Radko Gudas,Hitter,Washington Capitals,Mason Appleton,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:21:57Z,2,07:07,12:53,Hit,n/a,-91.0,-31.0,Nicholas Shore,Hitter,Winnipeg Jets,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:22:00Z,2,07:11,12:49,Missed Shot,n/a,61.0,-14.0,Ilya Kovalchuk,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:22:21Z,2,07:31,12:29,Missed Shot,n/a,-44.0,-36.0,Anthony Bitetto,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:22:29Z,2,07:41,12:19,Giveaway,n/a,-56.0,-34.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:23:00Z,2,08:03,11:57,Penalty,Hi-sticking,-80.0,-19.0,Radko Gudas,PenaltyOn,Washington Capitals,Kyle Connor,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:23:40Z,2,08:03,11:57,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:24:37Z,2,08:50,11:10,Shot,Snap Shot,-36.0,-32.0,Neal Pionk,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:24:32Z,2,08:51,11:09,Missed Shot,n/a,-78.0,3.0,Kyle Connor,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:24:58Z,2,09:11,10:49,Missed Shot,n/a,-66.0,6.0,Mark Scheifele,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:25:05Z,2,09:21,10:39,Blocked Shot,n/a,-78.0,4.0,Nick Jensen,Blocker,Washington Capitals,Jack Roslovic,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:25:38Z,2,09:55,10:05,Blocked Shot,n/a,-71.0,-11.0,John Carlson,Blocker,Washington Capitals,Jack Roslovic,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:26:11Z,2,09:56,10:04,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:26:49Z,2,10:11,09:49,Shot,Tip-In,-80.0,-18.0,Jack Roslovic,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:28:53Z,2,10:12,09:48,Faceoff,n/a,-69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:29:01Z,2,10:14,09:46,Missed Shot,n/a,-34.0,-5.0,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:29:06Z,2,10:20,09:40,Giveaway,n/a,-48.0,39.0,Jakub Vrana,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:29:35Z,2,10:35,09:25,Faceoff,n/a,-20.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:30:02Z,2,10:58,09:02,Shot,Wrist Shot,79.0,-3.0,Jakub Vrana,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:30:15Z,2,11:06,08:54,Hit,n/a,56.0,38.0,Neal Pionk,Hitter,Winnipeg Jets,Nicklas Backstrom,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:30:40Z,2,11:36,08:24,Blocked Shot,n/a,68.0,-14.0,Dmitry Kulikov,Blocker,Winnipeg Jets,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:31:08Z,2,12:02,07:58,Takeaway,n/a,-74.0,-2.0,Jack Roslovic,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:31:07Z,2,12:03,07:57,Blocked Shot,n/a,-77.0,-1.0,Evgeny Kuznetsov,Blocker,Washington Capitals,Jack Roslovic,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:31:21Z,2,12:15,07:45,Giveaway,n/a,-60.0,-3.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:31:57Z,2,12:48,07:12,Shot,Wrist Shot,80.0,-2.0,Carl Hagelin,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:32:08Z,2,12:51,07:09,Shot,Wrist Shot,83.0,6.0,Ilya Kovalchuk,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:32:13Z,2,12:53,07:07,Giveaway,n/a,70.0,-7.0,Jansen Harkins,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:32:13Z,2,12:54,07:06,Blocked Shot,n/a,54.0,-32.0,Cody Eakin,Blocker,Winnipeg Jets,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:32:59Z,2,13:16,06:44,Faceoff,n/a,69.0,-22.0,Cody Eakin,Winner,Winnipeg Jets,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:33:16Z,2,13:24,06:36,Shot,Snap Shot,37.0,21.0,Nic Dowd,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:33:24Z,2,13:25,06:35,Goal,Wrist Shot,77.0,0.0,Garnet Hathaway,Scorer,Washington Capitals,Nic Dowd,Assist,Washington Capitals,Richard Panik,Assist,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets
+2020-02-26T01:34:16Z,2,13:25,06:35,Faceoff,n/a,0.0,0.0,Nicholas Shore,Winner,Winnipeg Jets,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:34:32Z,2,13:35,06:25,Hit,n/a,5.0,-40.0,Garnet Hathaway,Hitter,Washington Capitals,Anthony Bitetto,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:34:51Z,2,13:37,06:23,Penalty,Fighting,0.0,-37.0,Garnet Hathaway,PenaltyOn,Washington Capitals,Anthony Bitetto,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:35:15Z,2,13:37,06:23,Penalty,Fighting,5.0,-37.0,Anthony Bitetto,PenaltyOn,Winnipeg Jets,Garnet Hathaway,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:35:36Z,2,13:37,06:23,Faceoff,n/a,-69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:35:52Z,2,13:40,06:20,Shot,Wrist Shot,-33.0,-30.0,Dmitry Kulikov,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:37:31Z,2,15:19,04:41,Shot,Wrist Shot,-56.0,-39.0,Nathan Beaulieu,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:39:59Z,2,15:20,04:40,Faceoff,n/a,-69.0,-22.0,Cody Eakin,Winner,Winnipeg Jets,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:39:59Z,2,15:30,04:30,Shot,Wrist Shot,-36.0,13.0,Neal Pionk,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:40:17Z,2,15:40,04:20,Faceoff,n/a,20.0,-22.0,Cody Eakin,Winner,Winnipeg Jets,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:40:42Z,2,15:52,04:08,Shot,Backhand,78.0,-1.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:41:03Z,2,16:12,03:48,Missed Shot,n/a,78.0,5.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:41:18Z,2,16:28,03:32,Hit,n/a,92.0,-33.0,Tom Wilson,Hitter,Washington Capitals,Dmitry Kulikov,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:41:27Z,2,16:37,03:23,Shot,Wrist Shot,-72.0,-11.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:41:32Z,2,16:43,03:17,Hit,n/a,-69.0,-39.0,Patrik Laine,Hitter,Winnipeg Jets,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:41:39Z,2,16:48,03:12,Hit,n/a,68.0,28.0,Dmitry Orlov,Hitter,Washington Capitals,Neal Pionk,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:42:20Z,2,16:49,03:11,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:42:50Z,2,17:19,02:41,Shot,Wrist Shot,84.0,-10.0,Ilya Kovalchuk,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:43:04Z,2,17:33,02:27,Giveaway,n/a,-51.0,-36.0,Carl Hagelin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:43:11Z,2,17:42,02:18,Takeaway,n/a,76.0,20.0,Dmitry Kulikov,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:43:20Z,2,17:50,02:10,Shot,Wrist Shot,-72.0,16.0,Jack Roslovic,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:43:40Z,2,17:51,02:09,Faceoff,n/a,-69.0,22.0,Andrew Copp,Winner,Winnipeg Jets,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:43:58Z,2,17:54,02:06,Shot,Slap Shot,-41.0,30.0,Dylan DeMelo,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:44:06Z,2,18:02,01:58,Blocked Shot,n/a,-56.0,-26.0,T.J. Oshie,Blocker,Washington Capitals,Dmitry Kulikov,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:44:41Z,2,18:12,01:48,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Cody Eakin,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:45:16Z,2,18:25,01:35,Hit,n/a,-65.0,40.0,Radko Gudas,Hitter,Washington Capitals,Nikolaj Ehlers,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:45:24Z,2,18:31,01:29,Shot,Wrist Shot,-55.0,14.0,Cody Eakin,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:45:34Z,2,18:33,01:27,Goal,Wrist Shot,-84.0,3.0,Nikolaj Ehlers,Scorer,Winnipeg Jets,Cody Eakin,Assist,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a
+2020-02-26T01:46:11Z,2,18:33,01:27,Faceoff,n/a,0.0,0.0,Cody Eakin,Winner,Winnipeg Jets,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:46:35Z,2,18:49,01:11,Shot,Tip-In,79.0,1.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:46:39Z,2,18:50,01:10,Shot,Wrist Shot,76.0,1.0,Tom Wilson,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T01:46:51Z,2,19:05,00:55,Hit,n/a,-94.0,-16.0,Nikolaj Ehlers,Hitter,Winnipeg Jets,Brenden Dillon,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:06:24Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:06:43Z,3,00:09,19:51,Shot,Wrist Shot,48.0,-1.0,Brenden Dillon,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:07:00Z,3,00:14,19:46,Shot,Wrist Shot,-87.0,-15.0,Nicklas Backstrom,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:07:00Z,3,00:17,19:43,Hit,n/a,-99.0,1.0,Dmitry Kulikov,Hitter,Winnipeg Jets,Nicklas Backstrom,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:06:55Z,3,00:19,19:41,Blocked Shot,n/a,-68.0,9.0,Blake Wheeler,Blocker,Winnipeg Jets,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:07:08Z,3,00:33,19:27,Shot,Slap Shot,-40.0,-20.0,Brenden Dillon,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:07:33Z,3,00:59,19:01,Blocked Shot,n/a,64.0,0.0,Nick Jensen,Blocker,Washington Capitals,Jansen Harkins,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:07:39Z,3,01:05,18:55,Hit,n/a,96.0,19.0,Tom Wilson,Hitter,Washington Capitals,Andrew Copp,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:07:59Z,3,01:25,18:35,Blocked Shot,n/a,81.0,-12.0,Dmitry Orlov,Blocker,Washington Capitals,Jack Roslovic,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:08:32Z,3,01:56,18:04,Blocked Shot,n/a,51.0,-14.0,Alex Ovechkin,Blocker,Washington Capitals,Dylan DeMelo,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:08:40Z,3,02:04,17:56,Missed Shot,n/a,33.0,36.0,Nathan Beaulieu,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:08:49Z,3,02:12,17:48,Missed Shot,n/a,38.0,-3.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:08:56Z,3,02:13,17:47,Penalty,Interference,71.0,0.0,Dmitry Orlov,PenaltyOn,Washington Capitals,Jack Roslovic,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:09:42Z,3,02:13,17:47,Faceoff,n/a,69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:09:45Z,3,02:20,17:40,Shot,Wrist Shot,-4.0,-25.0,Nic Dowd,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:10:10Z,3,02:46,17:14,Giveaway,n/a,-52.0,-38.0,Carl Hagelin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:10:29Z,3,03:05,16:55,Takeaway,n/a,-15.0,-2.0,Kyle Connor,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:10:39Z,3,03:07,16:53,Giveaway,n/a,34.0,36.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:10:41Z,3,03:15,16:45,Shot,Wrist Shot,65.0,22.0,John Carlson,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:10:58Z,3,03:33,16:27,Takeaway,n/a,32.0,30.0,Nic Dowd,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:11:22Z,3,03:58,16:02,Takeaway,n/a,60.0,25.0,Brenden Dillon,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:11:54Z,3,04:30,15:30,Hit,n/a,90.0,-20.0,Mason Appleton,Hitter,Winnipeg Jets,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:12:46Z,3,04:55,15:05,Faceoff,n/a,69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:13:03Z,3,05:05,14:55,Shot,Slap Shot,-45.0,1.0,Jakub Vrana,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:13:25Z,3,05:27,14:33,Missed Shot,n/a,-53.0,2.0,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:14:04Z,3,06:06,13:54,Missed Shot,n/a,-73.0,2.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:14:20Z,3,06:16,13:44,Penalty,Hooking,-94.0,27.0,Dmitry Kulikov,PenaltyOn,Winnipeg Jets,Evgeny Kuznetsov,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:16:26Z,3,06:16,13:44,Faceoff,n/a,-69.0,22.0,Andrew Copp,Winner,Winnipeg Jets,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:16:49Z,3,06:19,13:41,Faceoff,n/a,-69.0,22.0,T.J. Oshie,Winner,Washington Capitals,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:17:44Z,3,06:50,13:10,Shot,Tip-In,-81.0,-2.0,T.J. Oshie,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:18:37Z,3,07:47,12:13,Takeaway,n/a,-26.0,30.0,Cody Eakin,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:18:54Z,3,08:02,11:58,Missed Shot,n/a,-63.0,-20.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:19:31Z,3,08:39,11:21,Goal,Wrist Shot,80.0,4.0,Kyle Connor,Scorer,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:20:17Z,3,08:39,11:21,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:20:27Z,3,08:56,11:04,Hit,n/a,-98.0,12.0,Richard Panik,Hitter,Washington Capitals,Neal Pionk,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:20:36Z,3,09:00,11:00,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:21:08Z,3,09:11,10:49,Shot,Wrist Shot,-37.0,-1.0,John Carlson,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:21:14Z,3,09:18,10:42,Hit,n/a,-67.0,40.0,Nic Dowd,Hitter,Washington Capitals,Neal Pionk,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:21:37Z,3,09:41,10:19,Hit,n/a,97.0,21.0,Richard Panik,Hitter,Washington Capitals,Blake Wheeler,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:21:39Z,3,09:42,10:18,Shot,Wrist Shot,38.0,26.0,Nathan Beaulieu,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:21:45Z,3,09:45,10:15,Shot,Backhand,72.0,-6.0,Nic Dowd,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:22:09Z,3,10:11,09:49,Missed Shot,n/a,69.0,-9.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:22:23Z,3,10:19,09:41,Blocked Shot,n/a,35.0,-7.0,Michal Kempny,Blocker,Washington Capitals,Dylan DeMelo,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:23:59Z,3,12:02,07:58,Giveaway,n/a,-90.0,30.0,Dylan DeMelo,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:24:01Z,3,12:03,07:57,Blocked Shot,n/a,-76.0,1.0,Dylan DeMelo,Blocker,Winnipeg Jets,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:24:15Z,3,12:18,07:42,Shot,Wrist Shot,-90.0,11.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:24:35Z,3,12:36,07:24,Blocked Shot,n/a,-78.0,10.0,Dmitry Kulikov,Blocker,Winnipeg Jets,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:25:13Z,3,13:16,06:44,Missed Shot,n/a,34.0,14.0,Tucker Poolman,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:25:18Z,3,13:22,06:38,Takeaway,n/a,34.0,39.0,Cody Eakin,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:25:23Z,3,13:26,06:34,Shot,Wrist Shot,33.0,20.0,Anthony Bitetto,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:27:34Z,3,13:27,06:33,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:29:14Z,3,14:57,05:03,Shot,Snap Shot,57.0,-12.0,Blake Wheeler,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:31:13Z,3,14:58,05:02,Faceoff,n/a,69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Cody Eakin,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:32:09Z,3,15:33,04:27,Hit,n/a,-91.0,28.0,Nic Dowd,Hitter,Washington Capitals,Dylan DeMelo,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:32:18Z,3,15:41,04:19,Shot,Wrist Shot,-59.0,-22.0,Richard Panik,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:33:00Z,3,15:42,04:18,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:33:46Z,3,16:12,03:48,Shot,Wrist Shot,42.0,21.0,Kyle Connor,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:34:11Z,3,16:39,03:21,Takeaway,n/a,-70.0,37.0,Nikolaj Ehlers,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:34:19Z,3,16:46,03:14,Goal,Backhand,79.0,1.0,Mark Scheifele,Scorer,Winnipeg Jets,Nikolaj Ehlers,Assist,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a
+2020-02-26T02:35:06Z,3,16:46,03:14,Faceoff,n/a,0.0,0.0,Andrew Copp,Winner,Winnipeg Jets,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:35:35Z,3,16:59,03:01,Penalty,Delaying Game - Puck over glass,34.0,-18.0,Lars Eller,PenaltyOn,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:36:08Z,3,16:59,03:01,Faceoff,n/a,69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:36:43Z,3,17:32,02:28,Missed Shot,n/a,54.0,30.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:36:51Z,3,17:42,02:18,Hit,n/a,22.0,-26.0,Garnet Hathaway,Hitter,Washington Capitals,Blake Wheeler,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:36:55Z,3,17:45,02:15,Shot,Snap Shot,37.0,4.0,Neal Pionk,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:38:13Z,3,18:40,01:20,Faceoff,n/a,20.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Tom Wilson,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:38:59Z,3,19:16,00:44,Missed Shot,n/a,55.0,-16.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:39:32Z,3,19:51,00:09,Hit,n/a,94.0,14.0,Dmitry Orlov,Hitter,Washington Capitals,Blake Wheeler,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:42:04Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Evgeny Kuznetsov,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:42:36Z,4,00:28,04:32,Takeaway,n/a,-21.0,-30.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:42:42Z,4,00:33,04:27,Shot,Wrist Shot,81.0,-33.0,Tom Wilson,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:43:28Z,4,00:42,04:18,Faceoff,n/a,-20.0,22.0,Cody Eakin,Winner,Winnipeg Jets,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:43:37Z,4,00:49,04:11,Shot,Wrist Shot,76.0,-10.0,Jakub Vrana,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:44:09Z,4,01:23,03:37,Takeaway,n/a,79.0,-9.0,Nikolaj Ehlers,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:44:28Z,4,01:39,03:21,Blocked Shot,n/a,-69.0,19.0,Ilya Kovalchuk,Blocker,Washington Capitals,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:44:35Z,4,01:45,03:15,Blocked Shot,n/a,-59.0,1.0,T.J. Oshie,Blocker,Washington Capitals,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:44:55Z,4,02:08,02:52,Takeaway,n/a,38.0,-22.0,Patrik Laine,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:45:01Z,4,02:14,02:46,Takeaway,n/a,-73.0,-23.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:45:24Z,4,02:36,02:24,Shot,Snap Shot,63.0,-17.0,Alex Ovechkin,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:45:51Z,4,02:37,02:23,Faceoff,n/a,69.0,-22.0,Lars Eller,Winner,Washington Capitals,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:47:43Z,4,03:14,01:46,Blocked Shot,n/a,-55.0,-3.0,Dmitry Orlov,Blocker,Washington Capitals,Blake Wheeler,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:48:04Z,4,03:34,01:26,Shot,Wrist Shot,55.0,1.0,Alex Ovechkin,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:48:34Z,4,03:36,01:24,Faceoff,n/a,69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:48:54Z,4,03:51,01:09,Shot,Wrist Shot,-44.0,-2.0,Neal Pionk,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:49:08Z,4,04:03,00:57,Blocked Shot,n/a,-55.0,8.0,Tom Wilson,Blocker,Washington Capitals,Andrew Copp,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:49:19Z,4,04:14,00:46,Shot,Wrist Shot,-76.0,-21.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:49:37Z,4,04:29,00:31,Hit,n/a,75.0,33.0,Tom Wilson,Hitter,Washington Capitals,Andrew Copp,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:49:55Z,4,04:50,00:10,Shot,Wrist Shot,-61.0,0.0,Patrik Laine,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:51:55Z,5,00:00,00:00,Goal,Wrist Shot,-79.0,2.0,T.J. Oshie,Scorer,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:52:21Z,5,00:00,00:00,Shot,Wrist Shot,71.0,5.0,Kyle Connor,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:52:43Z,5,00:00,00:00,Shot,Wrist Shot,-73.0,2.0,Ilya Kovalchuk,Shooter,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:53:06Z,5,00:00,00:00,Shot,Wrist Shot,74.0,3.0,Patrik Laine,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:53:35Z,5,00:00,00:00,Missed Shot,n/a,-74.0,1.0,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:54:05Z,5,00:00,00:00,Goal,Wrist Shot,74.0,2.0,Mark Scheifele,Scorer,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:54:30Z,5,00:00,00:00,Goal,Wrist Shot,-74.0,7.0,Nicklas Backstrom,Scorer,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:54:56Z,5,00:00,00:00,Goal,Wrist Shot,73.0,2.0,Blake Wheeler,Scorer,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:55:24Z,5,00:00,00:00,Goal,Backhand,-79.0,-5.0,Alex Ovechkin,Scorer,Washington Capitals,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-26T02:56:05Z,5,00:00,00:00,Shot,Slap Shot,64.0,-10.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a

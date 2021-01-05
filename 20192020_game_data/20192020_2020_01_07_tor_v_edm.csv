@@ -1,0 +1,298 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-07T00:08:01Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:10:17Z,1,00:15,19:45,Takeaway,n/a,-43.0,40.0,Alexander Kerfoot,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:10:27Z,1,00:25,19:35,Hit,n/a,15.0,40.0,Zack Kassian,Hitter,Edmonton Oilers,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:10:50Z,1,00:48,19:12,Shot,Wrist Shot,-69.0,19.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:10:55Z,1,00:51,19:09,Shot,Deflected,-73.0,-6.0,Zach Hyman,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:11:09Z,1,00:51,19:09,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:11:38Z,1,01:14,18:46,Shot,Snap Shot,35.0,29.0,Oscar Klefbom,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:12:03Z,1,01:36,18:24,Shot,Wrist Shot,24.0,-14.0,Oscar Klefbom,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:11:52Z,1,01:38,18:22,Missed Shot,n/a,35.0,36.0,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:12:47Z,1,02:24,17:36,Hit,n/a,2.0,-37.0,Pierre Engvall,Hitter,Toronto Maple Leafs,Jujhar Khaira,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:12:56Z,1,02:32,17:28,Shot,Wrist Shot,-18.0,5.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:13:05Z,1,02:42,17:18,Hit,n/a,96.0,-16.0,Cody Ceci,Hitter,Toronto Maple Leafs,Alex Chiasson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:13:22Z,1,02:59,17:01,Blocked Shot,n/a,73.0,-2.0,Cody Ceci,Blocker,Toronto Maple Leafs,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:14:26Z,1,03:24,16:36,Faceoff,n/a,69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:14:23Z,1,03:33,16:27,Shot,Wrist Shot,63.0,-23.0,James Neal,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:14:28Z,1,03:38,16:22,Hit,n/a,71.0,37.0,Zack Kassian,Hitter,Edmonton Oilers,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:14:44Z,1,03:54,16:06,Hit,n/a,90.0,-9.0,James Neal,Hitter,Edmonton Oilers,Martin Marincin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:14:58Z,1,04:08,15:52,Shot,Wrist Shot,-52.0,-18.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:15:26Z,1,04:09,15:51,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:15:46Z,1,04:21,15:39,Shot,Wrist Shot,-71.0,-9.0,Auston Matthews,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:16:00Z,1,04:34,15:26,Hit,n/a,-96.0,18.0,Zach Hyman,Hitter,Toronto Maple Leafs,Adam Larsson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:16:20Z,1,04:36,15:24,Faceoff,n/a,-69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Jujhar Khaira,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:16:45Z,1,04:43,15:17,Shot,Wrist Shot,-84.0,-23.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:16:57Z,1,04:43,15:17,Faceoff,n/a,-69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:17:26Z,1,05:01,14:59,Hit,n/a,-17.0,-38.0,Josh Archibald,Hitter,Edmonton Oilers,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:18:08Z,1,05:43,14:17,Missed Shot,n/a,-76.0,15.0,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:18:17Z,1,05:52,14:08,Blocked Shot,n/a,-77.0,5.0,Caleb Jones,Blocker,Edmonton Oilers,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:20:51Z,1,06:21,13:39,Faceoff,n/a,-20.0,22.0,Connor McDavid,Winner,Edmonton Oilers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:21:16Z,1,06:34,13:26,Missed Shot,n/a,73.0,28.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:21:24Z,1,06:41,13:19,Shot,Wrist Shot,44.0,-19.0,Ethan Bear,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:21:33Z,1,06:50,13:10,Shot,Wrist Shot,66.0,-6.0,Connor McDavid,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:21:52Z,1,07:10,12:50,Shot,Wrist Shot,55.0,15.0,Connor McDavid,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:21:59Z,1,07:16,12:44,Giveaway,n/a,66.0,34.0,Justin Holl,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:22:05Z,1,07:22,12:38,Missed Shot,n/a,27.0,31.0,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:22:05Z,1,07:22,12:38,Giveaway,n/a,70.0,35.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:22:14Z,1,07:31,12:29,Missed Shot,n/a,30.0,8.0,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:22:31Z,1,07:48,12:12,Shot,Slap Shot,63.0,26.0,Adam Larsson,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:22:37Z,1,07:51,12:09,Goal,Slap Shot,31.0,19.0,Oscar Klefbom,Scorer,Edmonton Oilers,Adam Larsson,Assist,Edmonton Oilers,Connor McDavid,Assist,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs
+2020-01-07T00:23:16Z,1,07:51,12:09,Faceoff,n/a,0.0,0.0,Riley Sheahan,Winner,Edmonton Oilers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:23:27Z,1,08:01,11:59,Giveaway,n/a,98.0,-1.0,Frederik Andersen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:23:45Z,1,08:20,11:40,Shot,Backhand,60.0,12.0,Josh Archibald,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:24:11Z,1,08:21,11:39,Faceoff,n/a,69.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:24:36Z,1,08:31,11:29,Shot,Wrist Shot,-70.0,-24.0,Pierre Engvall,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:24:44Z,1,08:31,11:29,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:25:20Z,1,08:46,11:14,Hit,n/a,97.0,-15.0,Kailer Yamamoto,Hitter,Edmonton Oilers,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:25:57Z,1,09:24,10:36,Missed Shot,n/a,85.0,18.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:26:19Z,1,09:46,10:14,Hit,n/a,-96.0,-6.0,Adam Larsson,Hitter,Edmonton Oilers,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:26:21Z,1,09:48,10:12,Shot,Wrist Shot,-32.0,25.0,Justin Holl,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:26:28Z,1,09:55,10:05,Missed Shot,n/a,-78.0,0.0,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:26:49Z,1,10:16,09:44,Hit,n/a,-78.0,39.0,Zack Kassian,Hitter,Edmonton Oilers,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:27:03Z,1,10:30,09:30,Shot,Wrist Shot,76.0,-9.0,Connor McDavid,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:27:34Z,1,11:01,08:59,Takeaway,n/a,-99.0,-6.0,Adam Brooks,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:27:44Z,1,11:11,08:49,Shot,Wrist Shot,-33.0,-25.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:27:48Z,1,11:15,08:45,Hit,n/a,-96.0,22.0,Kris Russell,Hitter,Edmonton Oilers,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:27:49Z,1,11:16,08:44,Missed Shot,n/a,-76.0,-2.0,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:27:56Z,1,11:23,08:37,Shot,Wrist Shot,-66.0,-20.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:28:29Z,1,11:56,08:04,Hit,n/a,98.0,3.0,Jujhar Khaira,Hitter,Edmonton Oilers,Mitchell Marner,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:28:35Z,1,12:02,07:58,Missed Shot,n/a,29.0,22.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:29:06Z,1,12:33,07:27,Giveaway,n/a,63.0,-7.0,Travis Dermott,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:29:25Z,1,12:52,07:08,Blocked Shot,n/a,58.0,-2.0,Jason Spezza,Blocker,Toronto Maple Leafs,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:29:33Z,1,12:57,07:03,Blocked Shot,n/a,70.0,0.0,Cody Ceci,Blocker,Toronto Maple Leafs,Kailer Yamamoto,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:29:45Z,1,12:57,07:03,Penalty,Interference,91.0,20.0,Travis Dermott,PenaltyOn,Toronto Maple Leafs,Kailer Yamamoto,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:31:55Z,1,12:57,07:03,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:31:58Z,1,13:04,06:56,Missed Shot,n/a,63.0,4.0,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:32:10Z,1,13:13,06:47,Takeaway,n/a,40.0,37.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:32:43Z,1,13:50,06:10,Missed Shot,n/a,54.0,13.0,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:33:07Z,1,13:50,06:10,Faceoff,n/a,69.0,22.0,Zach Hyman,Winner,Toronto Maple Leafs,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:33:20Z,1,14:02,05:58,Missed Shot,n/a,64.0,3.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:33:29Z,1,14:11,05:49,Blocked Shot,n/a,74.0,4.0,Martin Marincin,Blocker,Toronto Maple Leafs,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:33:53Z,1,14:32,05:28,Giveaway,n/a,61.0,-32.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:33:53Z,1,14:35,05:25,Hit,n/a,65.0,-38.0,Morgan Rielly,Hitter,Toronto Maple Leafs,Connor McDavid,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:34:38Z,1,15:17,04:43,Blocked Shot,n/a,76.0,-7.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Zack Kassian,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:34:50Z,1,15:18,04:42,Shot,Wrist Shot,67.0,-4.0,Gaetan Haas,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:36:55Z,1,15:18,04:42,Faceoff,n/a,69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:37:06Z,1,15:24,04:36,Shot,Wrist Shot,30.0,-32.0,Ethan Bear,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:37:14Z,1,15:28,04:32,Shot,Wrist Shot,65.0,-3.0,James Neal,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:37:20Z,1,15:28,04:32,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:37:43Z,1,15:36,04:24,Hit,n/a,65.0,42.0,James Neal,Hitter,Edmonton Oilers,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:37:46Z,1,15:40,04:20,Blocked Shot,n/a,74.0,-1.0,Martin Marincin,Blocker,Toronto Maple Leafs,Zack Kassian,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:38:08Z,1,15:50,04:10,Penalty,Holding,96.0,18.0,Justin Holl,PenaltyOn,Toronto Maple Leafs,Ethan Bear,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:38:41Z,1,15:50,04:10,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:38:55Z,1,16:08,03:52,Takeaway,n/a,56.0,41.0,Zach Hyman,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:39:10Z,1,16:24,03:36,Shot,Wrist Shot,81.0,-13.0,Connor McDavid,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:39:43Z,1,16:25,03:35,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:39:58Z,1,16:52,03:08,Hit,n/a,97.0,19.0,Frederik Gauthier,Hitter,Toronto Maple Leafs,Alex Chiasson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:40:35Z,1,17:30,02:30,Missed Shot,n/a,84.0,-4.0,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:40:49Z,1,17:43,02:17,Takeaway,n/a,72.0,-23.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:41:30Z,1,17:51,02:09,Shot,Deflected,71.0,7.0,Connor McDavid,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:41:54Z,1,17:52,02:08,Faceoff,n/a,69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:42:46Z,1,18:22,01:38,Faceoff,n/a,69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:43:11Z,1,18:48,01:12,Shot,Backhand,80.0,-7.0,Jujhar Khaira,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:43:58Z,1,18:48,01:12,Faceoff,n/a,69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:44:03Z,1,19:09,00:51,Takeaway,n/a,-72.0,-37.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:44:12Z,1,19:17,00:43,Giveaway,n/a,43.0,9.0,Cody Ceci,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:44:20Z,1,19:26,00:34,Shot,Wrist Shot,-64.0,-5.0,John Tavares,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:44:59Z,1,19:26,00:34,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:45:17Z,1,19:47,00:13,Hit,n/a,45.0,-39.0,Jujhar Khaira,Hitter,Edmonton Oilers,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:45:22Z,1,19:52,00:08,Shot,Wrist Shot,32.0,31.0,Darnell Nurse,Shooter,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T00:45:49Z,1,19:53,00:07,Faceoff,n/a,69.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:04:34Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,James Neal,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:05:39Z,2,00:34,19:26,Goal,Snap Shot,-50.0,-14.0,Darnell Nurse,Scorer,Edmonton Oilers,Connor McDavid,Assist,Edmonton Oilers,Ethan Bear,Assist,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs
+2020-01-07T01:06:19Z,2,00:34,19:26,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:06:39Z,2,00:50,19:10,Hit,n/a,65.0,-39.0,Mitchell Marner,Hitter,Toronto Maple Leafs,Ryan Nugent-Hopkins,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:06:52Z,2,00:59,19:01,Blocked Shot,n/a,75.0,-2.0,Oscar Klefbom,Blocker,Edmonton Oilers,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:06:56Z,2,01:01,18:59,Giveaway,n/a,38.0,2.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:06:56Z,2,01:07,18:53,Shot,Wrist Shot,35.0,16.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:07:19Z,2,01:30,18:30,Blocked Shot,n/a,-79.0,9.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:07:34Z,2,01:45,18:15,Goal,Wrist Shot,-69.0,-11.0,Kailer Yamamoto,Scorer,Edmonton Oilers,Caleb Jones,Assist,Edmonton Oilers,Leon Draisaitl,Assist,Edmonton Oilers,Frederik Andersen,Goalie,Toronto Maple Leafs
+2020-01-07T01:08:21Z,2,01:45,18:15,Faceoff,n/a,0.0,0.0,Riley Sheahan,Winner,Edmonton Oilers,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:08:30Z,2,01:52,18:08,Hit,n/a,-12.0,-42.0,Cody Ceci,Hitter,Toronto Maple Leafs,Jujhar Khaira,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:09:02Z,2,02:24,17:36,Goal,Wrist Shot,72.0,20.0,Jason Spezza,Scorer,Toronto Maple Leafs,Pierre Engvall,Assist,Toronto Maple Leafs,Kasperi Kapanen,Assist,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers
+2020-01-07T01:09:51Z,2,02:24,17:36,Faceoff,n/a,0.0,0.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:10:05Z,2,02:40,17:20,Giveaway,n/a,94.0,18.0,Ethan Bear,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:10:12Z,2,02:48,17:12,Shot,Wrist Shot,31.0,-21.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:10:32Z,2,03:08,16:52,Shot,Wrist Shot,49.0,-5.0,Mason Marchment,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:10:47Z,2,03:23,16:37,Blocked Shot,n/a,-75.0,6.0,Morgan Rielly,Blocker,Toronto Maple Leafs,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:10:50Z,2,03:23,16:37,Shot,Wrist Shot,-74.0,5.0,Alex Chiasson,Shooter,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:11:11Z,2,03:23,16:37,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:11:31Z,2,03:39,16:21,Giveaway,n/a,98.0,0.0,Mike Smith,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:12:17Z,2,04:25,15:35,Shot,Wrist Shot,-63.0,0.0,James Neal,Shooter,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:12:39Z,2,04:25,15:35,Faceoff,n/a,-69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:12:57Z,2,04:34,15:26,Hit,n/a,94.0,-19.0,Zach Hyman,Hitter,Toronto Maple Leafs,Ethan Bear,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:13:02Z,2,04:40,15:20,Giveaway,n/a,53.0,-32.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:13:22Z,2,04:44,15:16,Faceoff,n/a,-20.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:48:20Z,2,04:53,15:07,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:14:22Z,2,05:21,14:39,Giveaway,n/a,45.0,25.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:14:34Z,2,05:32,14:28,Giveaway,n/a,67.0,-26.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:14:39Z,2,05:33,14:27,Missed Shot,n/a,36.0,-33.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:15:00Z,2,05:58,14:02,Shot,Slap Shot,36.0,-14.0,Pierre Engvall,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:15:13Z,2,05:59,14:01,Shot,Wrist Shot,71.0,-1.0,Jason Spezza,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:15:12Z,2,06:00,14:00,Penalty,Slashing,52.0,-32.0,Kailer Yamamoto,PenaltyOn,Edmonton Oilers,Morgan Rielly,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:15:36Z,2,06:00,14:00,Faceoff,n/a,69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:16:02Z,2,06:19,13:41,Takeaway,n/a,-98.0,4.0,Josh Archibald,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:16:18Z,2,06:35,13:25,Shot,Snap Shot,79.0,-21.0,William Nylander,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:16:26Z,2,06:37,13:23,Penalty,Tripping,-50.0,35.0,Riley Sheahan,PenaltyOn,Edmonton Oilers,Mitchell Marner,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:16:51Z,2,06:37,13:23,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:17:30Z,2,07:02,12:58,Shot,Wrist Shot,66.0,6.0,Auston Matthews,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:17:38Z,2,07:02,12:58,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:18:59Z,2,07:07,12:53,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:19:23Z,2,07:20,12:40,Shot,Tip-In,77.0,-1.0,John Tavares,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:19:33Z,2,07:20,12:40,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:20:14Z,2,07:51,12:09,Shot,Slap Shot,33.0,-5.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:20:19Z,2,07:56,12:04,Takeaway,n/a,91.0,12.0,Darnell Nurse,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:20:33Z,2,08:11,11:49,Blocked Shot,n/a,58.0,-5.0,Oscar Klefbom,Blocker,Edmonton Oilers,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:20:38Z,2,08:16,11:44,Giveaway,n/a,59.0,36.0,Darnell Nurse,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:20:46Z,2,08:24,11:36,Blocked Shot,n/a,58.0,-9.0,Oscar Klefbom,Blocker,Edmonton Oilers,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:20:57Z,2,08:35,11:25,Missed Shot,n/a,69.0,10.0,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:21:22Z,2,08:58,11:02,Takeaway,n/a,61.0,-38.0,Riley Sheahan,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:22:00Z,2,09:38,10:22,Missed Shot,n/a,80.0,-27.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:22:04Z,2,09:41,10:19,Hit,n/a,23.0,42.0,Cody Ceci,Hitter,Toronto Maple Leafs,Zack Kassian,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:23:12Z,2,10:49,09:11,Hit,n/a,-3.0,29.0,Adam Larsson,Hitter,Edmonton Oilers,Mason Marchment,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:23:39Z,2,11:17,08:43,Blocked Shot,n/a,54.0,-4.0,Darnell Nurse,Blocker,Edmonton Oilers,Adam Brooks,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:23:41Z,2,11:17,08:43,Hit,n/a,97.0,19.0,Alexander Kerfoot,Hitter,Toronto Maple Leafs,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:23:49Z,2,11:21,08:39,Shot,Wrist Shot,79.0,5.0,John Tavares,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:26:10Z,2,11:21,08:39,Faceoff,n/a,69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:26:43Z,2,11:39,08:21,Shot,Wrist Shot,-87.0,5.0,Josh Archibald,Shooter,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:27:03Z,2,11:39,08:21,Faceoff,n/a,-69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:27:16Z,2,11:43,08:17,Hit,n/a,-97.0,21.0,Martin Marincin,Hitter,Toronto Maple Leafs,Zack Kassian,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:27:25Z,2,11:51,08:09,Blocked Shot,n/a,-75.0,-6.0,Justin Holl,Blocker,Toronto Maple Leafs,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:27:33Z,2,11:59,08:01,Hit,n/a,47.0,40.0,Ethan Bear,Hitter,Edmonton Oilers,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:27:40Z,2,12:05,07:55,Hit,n/a,41.0,42.0,James Neal,Hitter,Edmonton Oilers,Martin Marincin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:28:09Z,2,12:06,07:54,Faceoff,n/a,20.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:28:31Z,2,12:17,07:43,Blocked Shot,n/a,72.0,3.0,Adam Larsson,Blocker,Edmonton Oilers,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:28:49Z,2,12:34,07:26,Giveaway,n/a,-44.0,-36.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:29:11Z,2,12:56,07:04,Shot,Wrist Shot,32.0,-24.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:29:22Z,2,13:07,06:53,Missed Shot,n/a,72.0,-1.0,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:29:29Z,2,13:15,06:45,Shot,Wrist Shot,64.0,23.0,Jason Spezza,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:29:40Z,2,13:26,06:34,Takeaway,n/a,-72.0,-39.0,Alex Chiasson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:31:06Z,2,13:29,06:31,Shot,Tip-In,-83.0,1.0,Gaetan Haas,Shooter,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:29:44Z,2,13:30,06:30,Shot,Tip-In,-71.0,0.0,Gaetan Haas,Shooter,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:32:14Z,2,13:30,06:30,Faceoff,n/a,-69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:32:21Z,2,13:41,06:19,Goal,Wrist Shot,-69.0,-16.0,Alex Chiasson,Scorer,Edmonton Oilers,Joakim Nygard,Assist,Edmonton Oilers,Kris Russell,Assist,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs
+2020-01-07T01:33:09Z,2,13:41,06:19,Faceoff,n/a,0.0,0.0,Gaetan Haas,Winner,Edmonton Oilers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:33:38Z,2,14:12,05:48,Hit,n/a,97.0,12.0,Zach Hyman,Hitter,Toronto Maple Leafs,Alex Chiasson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:34:02Z,2,14:36,05:24,Blocked Shot,n/a,81.0,-6.0,Caleb Jones,Blocker,Edmonton Oilers,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:34:14Z,2,14:48,05:12,Hit,n/a,56.0,40.0,James Neal,Hitter,Edmonton Oilers,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:34:18Z,2,14:52,05:08,Shot,Wrist Shot,-65.0,1.0,James Neal,Shooter,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:36:37Z,2,14:53,05:07,Faceoff,n/a,-69.0,22.0,Pierre Engvall,Winner,Toronto Maple Leafs,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:36:52Z,2,14:59,05:01,Shot,Wrist Shot,-76.0,30.0,Martin Marincin,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:36:57Z,2,15:03,04:57,Giveaway,n/a,86.0,-1.0,Mike Smith,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:37:01Z,2,15:07,04:53,Giveaway,n/a,69.0,27.0,Darnell Nurse,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:37:27Z,2,15:34,04:26,Hit,n/a,-98.0,19.0,Alexander Kerfoot,Hitter,Toronto Maple Leafs,Zack Kassian,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:37:42Z,2,15:48,04:12,Hit,n/a,34.0,40.0,Adam Larsson,Hitter,Edmonton Oilers,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:38:15Z,2,16:22,03:38,Goal,Wrist Shot,74.0,-1.0,Frederik Gauthier,Scorer,Toronto Maple Leafs,Mason Marchment,Assist,Toronto Maple Leafs,Adam Brooks,Assist,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers
+2020-01-07T01:39:00Z,2,16:22,03:38,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:39:22Z,2,16:43,03:17,Missed Shot,n/a,65.0,-27.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:40:08Z,2,17:29,02:31,Shot,Wrist Shot,59.0,-13.0,Auston Matthews,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:40:30Z,2,17:51,02:09,Blocked Shot,n/a,53.0,2.0,Kris Russell,Blocker,Edmonton Oilers,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:41:03Z,2,17:51,02:09,Faceoff,n/a,69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:41:21Z,2,18:14,01:46,Hit,n/a,-95.0,-13.0,Zack Kassian,Hitter,Edmonton Oilers,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:41:31Z,2,18:24,01:36,Giveaway,n/a,-3.0,-4.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:41:44Z,2,18:37,01:23,Hit,n/a,-96.0,-15.0,James Neal,Hitter,Edmonton Oilers,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:41:50Z,2,18:43,01:17,Blocked Shot,n/a,-71.0,7.0,Martin Marincin,Blocker,Toronto Maple Leafs,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:42:03Z,2,18:56,01:04,Takeaway,n/a,-16.0,18.0,Martin Marincin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:42:17Z,2,19:09,00:51,Hit,n/a,43.0,41.0,Alex Chiasson,Hitter,Edmonton Oilers,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:42:22Z,2,19:13,00:47,Goal,Deflected,71.0,1.0,Pierre Engvall,Scorer,Toronto Maple Leafs,Justin Holl,Assist,Toronto Maple Leafs,Kasperi Kapanen,Assist,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers
+2020-01-07T01:43:05Z,2,19:13,00:47,Faceoff,n/a,0.0,0.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:43:39Z,2,19:36,00:24,Shot,Wrist Shot,39.0,-28.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T01:44:03Z,2,19:59,00:01,Hit,n/a,62.0,40.0,Josh Archibald,Hitter,Edmonton Oilers,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:02:37Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:02:50Z,3,00:09,19:51,Hit,n/a,80.0,40.0,James Neal,Hitter,Edmonton Oilers,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:03:08Z,3,00:16,19:44,Faceoff,n/a,69.0,22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,James Neal,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:03:55Z,3,00:28,19:32,Penalty,Delaying Game - Puck over glass,41.0,-37.0,Alexander Kerfoot,PenaltyOn,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:04:21Z,3,00:28,19:32,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:04:29Z,3,00:42,19:18,Giveaway,n/a,46.0,-3.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:04:33Z,3,00:44,19:16,Giveaway,n/a,44.0,-2.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:04:40Z,3,00:53,19:07,Shot,Wrist Shot,27.0,15.0,Oscar Klefbom,Shooter,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:05:00Z,3,00:55,19:05,Faceoff,n/a,69.0,22.0,Zach Hyman,Winner,Toronto Maple Leafs,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:05:34Z,3,01:22,18:38,Takeaway,n/a,45.0,-8.0,Pierre Engvall,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:05:58Z,3,01:45,18:15,Giveaway,n/a,-9.0,30.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:06:40Z,3,02:27,17:33,Shot,Slap Shot,50.0,-33.0,Alex Chiasson,Shooter,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:06:53Z,3,02:40,17:20,Hit,n/a,8.0,-34.0,Darnell Nurse,Hitter,Edmonton Oilers,Kasperi Kapanen,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:07:09Z,3,02:57,17:03,Hit,n/a,99.0,-11.0,Travis Dermott,Hitter,Toronto Maple Leafs,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:07:24Z,3,03:11,16:49,Missed Shot,n/a,-35.0,22.0,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:07:36Z,3,03:23,16:37,Hit,n/a,-96.0,21.0,Darnell Nurse,Hitter,Edmonton Oilers,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:07:45Z,3,03:29,16:31,Blocked Shot,n/a,-77.0,4.0,Riley Sheahan,Blocker,Edmonton Oilers,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:07:55Z,3,03:43,16:17,Giveaway,n/a,41.0,-38.0,Adam Larsson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:08:10Z,3,03:58,16:02,Hit,n/a,65.0,-41.0,Connor McDavid,Hitter,Edmonton Oilers,Adam Brooks,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:08:32Z,3,04:19,15:41,Missed Shot,n/a,69.0,11.0,Zack Kassian,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:08:50Z,3,04:37,15:23,Takeaway,n/a,76.0,39.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:08:58Z,3,04:46,15:14,Hit,n/a,-95.0,-22.0,Zach Hyman,Hitter,Toronto Maple Leafs,Kris Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:09:11Z,3,04:58,15:02,Hit,n/a,-39.0,-39.0,James Neal,Hitter,Edmonton Oilers,Mitchell Marner,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:09:31Z,3,05:18,14:42,Hit,n/a,-49.0,41.0,Darnell Nurse,Hitter,Edmonton Oilers,Mason Marchment,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:09:39Z,3,05:19,14:41,Hit,n/a,-98.0,18.0,Frederik Gauthier,Hitter,Toronto Maple Leafs,Ethan Bear,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:09:49Z,3,05:31,14:29,Hit,n/a,69.0,-36.0,Travis Dermott,Hitter,Toronto Maple Leafs,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:10:05Z,3,05:35,14:25,Takeaway,n/a,93.0,-28.0,Kailer Yamamoto,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:10:05Z,3,05:52,14:08,Shot,Wrist Shot,52.0,-13.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:10:47Z,3,05:53,14:07,Faceoff,n/a,69.0,-22.0,Gaetan Haas,Winner,Edmonton Oilers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:10:52Z,3,05:57,14:03,Penalty,Hi-sticking,72.0,-35.0,Justin Holl,PenaltyOn,Toronto Maple Leafs,Alex Chiasson,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:11:26Z,3,05:57,14:03,Faceoff,n/a,69.0,22.0,Zach Hyman,Winner,Toronto Maple Leafs,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:11:45Z,3,06:20,13:40,Blocked Shot,n/a,-59.0,10.0,Connor McDavid,Blocker,Edmonton Oilers,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:11:54Z,3,06:26,13:34,Goal,Wrist Shot,68.0,-9.0,Leon Draisaitl,Scorer,Edmonton Oilers,Alex Chiasson,Assist,Edmonton Oilers,Connor McDavid,Assist,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs
+2020-01-07T02:13:02Z,3,06:26,13:34,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:13:05Z,3,06:31,13:29,Hit,n/a,-31.0,-20.0,Adam Larsson,Hitter,Edmonton Oilers,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:13:41Z,3,07:07,12:53,Giveaway,n/a,27.0,-30.0,Morgan Rielly,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:14:22Z,3,07:46,12:14,Hit,n/a,61.0,-39.0,James Neal,Hitter,Edmonton Oilers,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:14:40Z,3,08:06,11:54,Shot,Wrist Shot,60.0,28.0,Connor McDavid,Shooter,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:14:47Z,3,08:08,11:52,Shot,Wrist Shot,72.0,-7.0,Ethan Bear,Shooter,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:14:54Z,3,08:11,11:49,Blocked Shot,n/a,77.0,-2.0,Justin Holl,Blocker,Toronto Maple Leafs,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:17:05Z,3,08:12,11:48,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:17:35Z,3,08:36,11:24,Giveaway,n/a,98.0,25.0,Morgan Rielly,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:17:42Z,3,08:43,11:17,Missed Shot,n/a,37.0,29.0,Kris Russell,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:17:47Z,3,08:46,11:14,Missed Shot,n/a,74.0,1.0,Kailer Yamamoto,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:18:25Z,3,08:46,11:14,Faceoff,n/a,69.0,22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:18:33Z,3,09:00,11:00,Hit,n/a,-50.0,-38.0,Pierre Engvall,Hitter,Toronto Maple Leafs,Ethan Bear,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:18:38Z,3,09:04,10:56,Shot,Wrist Shot,-75.0,10.0,Cody Ceci,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:19:06Z,3,09:04,10:56,Faceoff,n/a,-69.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:19:25Z,3,09:17,10:43,Blocked Shot,n/a,-43.0,-16.0,Josh Archibald,Blocker,Edmonton Oilers,Travis Dermott,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:19:51Z,3,09:23,10:37,Faceoff,n/a,69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:20:08Z,3,09:28,10:32,Hit,n/a,75.0,40.0,Travis Dermott,Hitter,Toronto Maple Leafs,Jujhar Khaira,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:20:33Z,3,09:45,10:15,Penalty,Hi-sticking,91.0,-6.0,Jujhar Khaira,PenaltyOn,Edmonton Oilers,Travis Dermott,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:20:57Z,3,09:45,10:15,Penalty,Hi-sticking,92.0,-7.0,Travis Dermott,PenaltyOn,Toronto Maple Leafs,Jujhar Khaira,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:21:25Z,3,09:45,10:15,Faceoff,n/a,69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:21:43Z,3,10:10,09:50,Shot,Wrist Shot,45.0,-17.0,Ethan Bear,Shooter,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:22:02Z,3,10:25,09:35,Hit,n/a,-57.0,-34.0,Kailer Yamamoto,Hitter,Edmonton Oilers,Mitchell Marner,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:22:10Z,3,10:37,09:23,Hit,n/a,-84.0,19.0,Darnell Nurse,Hitter,Edmonton Oilers,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:22:35Z,3,10:39,09:21,Faceoff,n/a,-69.0,-22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:23:08Z,3,11:05,08:55,Giveaway,n/a,-57.0,2.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:23:24Z,3,11:21,08:39,Takeaway,n/a,-16.0,20.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:23:29Z,3,11:26,08:34,Goal,Wrist Shot,79.0,1.0,Connor McDavid,Scorer,Edmonton Oilers,Ryan Nugent-Hopkins,Assist,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs,n/a,n/a,n/a
+2020-01-07T02:24:16Z,3,11:26,08:34,Faceoff,n/a,0.0,0.0,Pierre Engvall,Winner,Toronto Maple Leafs,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:24:57Z,3,12:13,07:47,Hit,n/a,-99.0,-11.0,Frederik Gauthier,Hitter,Toronto Maple Leafs,Kris Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:25:14Z,3,12:27,07:33,Takeaway,n/a,97.0,3.0,Gaetan Haas,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:25:18Z,3,12:34,07:26,Blocked Shot,n/a,70.0,8.0,Martin Marincin,Blocker,Toronto Maple Leafs,Kris Russell,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:25:39Z,3,12:54,07:06,Shot,Wrist Shot,5.0,-35.0,Mason Marchment,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:25:51Z,3,13:02,06:58,Penalty,Delaying Game - Puck over glass,-86.0,31.0,Caleb Jones,PenaltyOn,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:27:43Z,3,13:02,06:58,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:28:24Z,3,13:18,06:42,Goal,Wrist Shot,-73.0,15.0,Auston Matthews,Scorer,Toronto Maple Leafs,Tyson Barrie,Assist,Toronto Maple Leafs,Mitchell Marner,Assist,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers
+2020-01-07T02:29:17Z,3,13:18,06:42,Faceoff,n/a,0.0,0.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:29:55Z,3,14:09,05:51,Missed Shot,n/a,-48.0,-10.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:30:10Z,3,14:23,05:37,Blocked Shot,n/a,77.0,-10.0,Auston Matthews,Blocker,Toronto Maple Leafs,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:30:19Z,3,14:32,05:28,Shot,Wrist Shot,-85.0,14.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:30:48Z,3,14:41,05:19,Faceoff,n/a,69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:31:10Z,3,14:56,05:04,Takeaway,n/a,28.0,-21.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:31:49Z,3,15:36,04:24,Hit,n/a,-29.0,-32.0,James Neal,Hitter,Edmonton Oilers,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:31:50Z,3,15:37,04:23,Blocked Shot,n/a,-30.0,-23.0,James Neal,Blocker,Edmonton Oilers,Travis Dermott,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:32:03Z,3,15:40,04:20,Shot,Wrist Shot,78.0,-3.0,Connor McDavid,Shooter,Edmonton Oilers,Michael Hutchinson,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:32:04Z,3,15:41,04:19,Penalty,Holding,72.0,-3.0,Justin Holl,PenaltyOn,Toronto Maple Leafs,Connor McDavid,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:34:04Z,3,15:41,04:19,Faceoff,n/a,69.0,22.0,Zach Hyman,Winner,Toronto Maple Leafs,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:34:42Z,3,16:10,03:50,Takeaway,n/a,-9.0,38.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:35:03Z,3,16:28,03:32,Giveaway,n/a,65.0,38.0,Cody Ceci,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:35:25Z,3,16:53,03:07,Blocked Shot,n/a,73.0,0.0,Martin Marincin,Blocker,Toronto Maple Leafs,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:36:04Z,3,17:31,02:29,Blocked Shot,n/a,60.0,6.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Alex Chiasson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:36:34Z,3,18:01,01:59,Giveaway,n/a,98.0,-10.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:36:42Z,3,18:09,01:51,Hit,n/a,99.0,-4.0,James Neal,Hitter,Edmonton Oilers,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:36:49Z,3,18:16,01:44,Hit,n/a,93.0,17.0,Zack Kassian,Hitter,Edmonton Oilers,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:36:53Z,3,18:21,01:39,Shot,Wrist Shot,-78.0,4.0,William Nylander,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:37:05Z,3,18:25,01:35,Penalty,Too many men on the ice,-19.0,17.0,Gaetan Haas,PenaltyOn,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:37:55Z,3,18:25,01:35,Faceoff,n/a,-69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:38:07Z,3,18:30,01:30,Giveaway,n/a,-56.0,3.0,Darnell Nurse,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:38:05Z,3,18:34,01:26,Missed Shot,n/a,-7.0,-2.0,Riley Sheahan,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:38:27Z,3,18:55,01:05,Shot,Wrist Shot,-73.0,17.0,Auston Matthews,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:38:45Z,3,18:56,01:04,Faceoff,n/a,-69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:39:02Z,3,19:04,00:56,Shot,Slap Shot,-73.0,-22.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:39:15Z,3,19:16,00:44,Missed Shot,n/a,-50.0,13.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:39:28Z,3,19:29,00:31,Hit,n/a,-97.0,12.0,Mitchell Marner,Hitter,Toronto Maple Leafs,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-07T02:39:38Z,3,19:39,00:21,Giveaway,n/a,85.0,36.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

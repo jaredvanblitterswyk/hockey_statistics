@@ -15,8 +15,6 @@ import os
 import csv
 import requests
 import json
-from sklearn import preprocessing
-from sklearn.preprocessing import OneHotEncoder
 import matplotlib.pyplot as plt
 
 results = []
@@ -48,6 +46,7 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
                 'game': int(game_id),
                 'stats_summary': p_stats_summary,
                 'shots': {'x':[],'y':[]},
+                'missed_shots': {'x':[],'y':[]},
                 'goals': {'x':[],'y':[]}}
             locals()[p_name] = indiv_dict # rename the dictionary to the player name
     
@@ -56,7 +55,7 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
     keys_game_data = game_data['liveData'].keys()
     all_plays = game_data['liveData']['plays']['allPlays']
     
-    play_filter = ['Shot','Goal']
+    play_filter = ['Shot','Missed Shot','Goal']
     for play in all_plays:
         category = play.get('result').get('event')
         if category in play_filter:
@@ -75,11 +74,17 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
             elif category == 'goal':
                 vars()[p_name_event]['goals']['x'].append(np.abs(play.get('coordinates').get('x')))
                 if play.get('coordinates').get('x') < 0:
-                    vars()[p_name_event]['goals']['y'].append(-1*play.get('coordinates').get('y'))                
-                    
-                vars()[p_name_event]['goals']['y'].append(play.get('coordinates').get('y'))
+                    vars()[p_name_event]['goal']['y'].append(-1*play.get('coordinates').get('y'))
+                else:
+                    vars()[p_name_event]['goal']['y'].append(play.get('coordinates').get('y'))               
+            elif category == 'Missed Shot':
+                vars()[p_name_event]['missed_shots']['x'].append(np.abs(play.get('coordinates').get('x')))
+                if play.get('coordinates').get('x') < 0:
+                    vars()[p_name_event]['missed_shots']['y'].append(-1*play.get('coordinates').get('y'))
+                else:
+                    vars()[p_name_event]['missed_shots']['y'].append(play.get('coordinates').get('y')) 
             
-            # print eent, player, and coordinates for troubleshooting
+            # print event, player, and coordinates for troubleshooting
             '''    
             print(play.get('result').get('event'))
             print(play.get('players')[0]['player']['fullName'])
@@ -102,6 +107,10 @@ for game_id in range(2019020613, 2019020614, 1): # this is currently set up to p
             for key in current_dict:
                 if key == 'game':
                     writer.writerow([key, "", current_dict[key]])
+                elif key == 'shots' or key == 'goals' or key == 'missed_shots':
+                    writer.writerow([key, "x", "y"])
+                    for i in range(0,len(current_dict[key]['x'])):
+                        writer.writerow(["",current_dict[key]['x'][i],current_dict[key]['y'][i]])
                 else:
                     inst = 0
                     if current_dict.get(key):

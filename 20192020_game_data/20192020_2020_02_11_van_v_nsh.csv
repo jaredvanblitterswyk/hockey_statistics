@@ -1,0 +1,257 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-11T03:15:06Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:15:36Z,1,00:09,19:51,Faceoff,n/a,-20.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:16:04Z,1,00:26,19:34,Hit,n/a,-94.0,-16.0,Zack MacEwen,Hitter,Vancouver Canucks,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:16:15Z,1,00:36,19:24,Hit,n/a,-38.0,38.0,Roman Josi,Hitter,Nashville Predators,Zack MacEwen,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:16:49Z,1,01:11,18:49,Hit,n/a,13.0,-38.0,Elias Pettersson,Hitter,Vancouver Canucks,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:17:34Z,1,01:56,18:04,Blocked Shot,n/a,-70.0,-8.0,Dan Hamhuis,Blocker,Nashville Predators,Adam Gaudette,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:17:38Z,1,02:00,18:00,Missed Shot,n/a,-38.0,28.0,Tyler Myers,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:17:45Z,1,02:07,17:53,Shot,Wrap-around,-88.0,5.0,Antoine Roussel,Shooter,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:17:55Z,1,02:16,17:44,Shot,Wrist Shot,63.0,17.0,Nick Bonino,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:18:22Z,1,02:23,17:37,Faceoff,n/a,69.0,-22.0,Colton Sissons,Winner,Nashville Predators,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:18:46Z,1,02:38,17:22,Missed Shot,n/a,36.0,-35.0,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:18:54Z,1,02:46,17:14,Hit,n/a,80.0,36.0,Tyler Myers,Hitter,Vancouver Canucks,Austin Watson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:19:05Z,1,02:57,17:03,Giveaway,n/a,-48.0,-24.0,Dante Fabbro,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:19:54Z,1,03:46,16:14,Takeaway,n/a,30.0,2.0,Quinn Hughes,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:20:02Z,1,03:54,16:06,Blocked Shot,n/a,-72.0,-2.0,Jarred Tinordi,Blocker,Nashville Predators,J.T. Miller,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:20:11Z,1,04:03,15:57,Shot,Wrist Shot,42.0,-4.0,Jarred Tinordi,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:20:47Z,1,04:03,15:57,Faceoff,n/a,69.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:20:50Z,1,04:12,15:48,Shot,Wrist Shot,-58.0,8.0,Tanner Pearson,Shooter,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:21:15Z,1,04:12,15:48,Faceoff,n/a,-69.0,22.0,Kyle Turris,Winner,Nashville Predators,Elias Pettersson,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:21:25Z,1,04:23,15:37,Blocked Shot,n/a,74.0,-1.0,Troy Stecher,Blocker,Vancouver Canucks,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:21:44Z,1,04:30,15:30,Giveaway,n/a,76.0,-32.0,Tanner Pearson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:21:34Z,1,04:32,15:28,Shot,Slap Shot,52.0,-17.0,Viktor Arvidsson,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:22:08Z,1,04:32,15:28,Faceoff,n/a,69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:22:15Z,1,04:42,15:18,Shot,Wrist Shot,-65.0,24.0,Brandon Sutter,Shooter,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:22:41Z,1,05:08,14:52,Shot,Snap Shot,73.0,14.0,Rocco Grimaldi,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:22:56Z,1,05:08,14:52,Faceoff,n/a,69.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:23:18Z,1,05:21,14:39,Shot,Wrist Shot,-38.0,29.0,Tyler Myers,Shooter,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:23:22Z,1,05:26,14:34,Blocked Shot,n/a,-70.0,-5.0,Dan Hamhuis,Blocker,Nashville Predators,Jordie Benn,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:24:05Z,1,06:08,13:52,Shot,Wrist Shot,82.0,-31.0,Quinn Hughes,Shooter,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:24:12Z,1,06:15,13:45,Takeaway,n/a,-4.0,12.0,Elias Pettersson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:24:25Z,1,06:27,13:33,Giveaway,n/a,-96.0,11.0,Jarred Tinordi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:24:45Z,1,06:49,13:11,Shot,Wrist Shot,-66.0,12.0,Troy Stecher,Shooter,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:24:53Z,1,06:56,13:04,Blocked Shot,n/a,-75.0,-1.0,Mattias Ekholm,Blocker,Nashville Predators,J.T. Miller,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:25:03Z,1,07:06,12:54,Goal,Wrist Shot,-66.0,9.0,Zack MacEwen,Scorer,Vancouver Canucks,J.T. Miller,Assist,Vancouver Canucks,Troy Stecher,Assist,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators
+2020-02-11T03:25:41Z,1,07:06,12:54,Faceoff,n/a,0.0,0.0,Jay Beagle,Winner,Vancouver Canucks,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:26:07Z,1,07:23,12:37,Hit,n/a,-94.0,-20.0,Jay Beagle,Hitter,Vancouver Canucks,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:26:37Z,1,07:49,12:11,Hit,n/a,21.0,-37.0,Antoine Roussel,Hitter,Vancouver Canucks,Austin Watson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:26:45Z,1,08:01,11:59,Missed Shot,n/a,35.0,23.0,Dan Hamhuis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:27:15Z,1,08:28,11:32,Blocked Shot,n/a,71.0,-6.0,Alexander Edler,Blocker,Vancouver Canucks,Yannick Weber,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:28:51Z,1,08:28,11:32,Faceoff,n/a,69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:29:34Z,1,08:40,11:20,Giveaway,n/a,4.0,-38.0,Zack MacEwen,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:29:54Z,1,08:59,11:01,Missed Shot,n/a,77.0,-38.0,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:30:39Z,1,09:45,10:15,Shot,Wrist Shot,68.0,13.0,Mikael Granlund,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:30:51Z,1,09:56,10:04,Shot,Wrist Shot,67.0,-36.0,Roman Josi,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:31:10Z,1,10:16,09:44,Shot,Wrist Shot,88.0,11.0,Dante Fabbro,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:31:19Z,1,10:23,09:37,Shot,Wrist Shot,64.0,10.0,Calle Jarnkrok,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:33:16Z,1,10:23,09:37,Faceoff,n/a,69.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:33:44Z,1,10:38,09:22,Shot,Wrist Shot,-71.0,35.0,Jay Beagle,Shooter,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:33:56Z,1,10:49,09:11,Hit,n/a,17.0,-36.0,Jay Beagle,Hitter,Vancouver Canucks,Calle Jarnkrok,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:34:05Z,1,10:58,09:02,Hit,n/a,86.0,27.0,Tyler Myers,Hitter,Vancouver Canucks,Jarred Tinordi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:34:13Z,1,10:58,09:02,Penalty,Tripping,68.0,-20.0,Austin Watson,PenaltyOn,Nashville Predators,Justin Bailey,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:34:44Z,1,10:58,09:02,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:35:19Z,1,11:17,08:43,Faceoff,n/a,69.0,22.0,J.T. Miller,Winner,Vancouver Canucks,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:36:08Z,1,11:54,08:06,Blocked Shot,n/a,-57.0,-4.0,Mikael Granlund,Blocker,Nashville Predators,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:36:20Z,1,12:06,07:54,Takeaway,n/a,-30.0,7.0,Elias Pettersson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:36:35Z,1,12:22,07:38,Missed Shot,n/a,-40.0,-13.0,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:36:48Z,1,12:34,07:26,Missed Shot,n/a,-55.0,20.0,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:36:59Z,1,12:41,07:19,Blocked Shot,n/a,-63.0,-6.0,Mattias Ekholm,Blocker,Nashville Predators,J.T. Miller,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:36:59Z,1,12:44,07:16,Goal,Deflected,-80.0,-3.0,Brandon Sutter,Scorer,Vancouver Canucks,Elias Pettersson,Assist,Vancouver Canucks,Quinn Hughes,Assist,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators
+2020-02-11T03:37:45Z,1,12:44,07:16,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:38:02Z,1,13:02,06:58,Blocked Shot,n/a,76.0,-7.0,Alexander Edler,Blocker,Vancouver Canucks,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:38:12Z,1,13:12,06:48,Shot,Wrist Shot,69.0,-15.0,Matt Duchene,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:53:41Z,1,13:12,06:48,Giveaway,n/a,82.0,10.0,Jake Virtanen,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:38:17Z,1,13:18,06:42,Shot,Slap Shot,37.0,-11.0,Dante Fabbro,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:38:25Z,1,13:25,06:35,Shot,Wrist Shot,71.0,-24.0,Matt Duchene,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:39:36Z,1,13:26,06:34,Faceoff,n/a,69.0,-22.0,Colton Sissons,Winner,Nashville Predators,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:39:35Z,1,13:38,06:22,Takeaway,n/a,99.0,0.0,Tyler Myers,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:39:41Z,1,13:44,06:16,Shot,Wrist Shot,-58.0,9.0,Brandon Sutter,Shooter,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:39:49Z,1,13:51,06:09,Goal,Slap Shot,-34.0,-36.0,Jordie Benn,Scorer,Vancouver Canucks,Adam Gaudette,Assist,Vancouver Canucks,Antoine Roussel,Assist,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators
+2020-02-11T03:40:26Z,1,13:51,06:09,Faceoff,n/a,0.0,0.0,Nick Bonino,Winner,Nashville Predators,Elias Pettersson,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:41:15Z,1,14:24,05:36,Hit,n/a,-52.0,40.0,Elias Pettersson,Hitter,Vancouver Canucks,Rocco Grimaldi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:41:45Z,1,14:46,05:14,Penalty,Hooking,79.0,35.0,Quinn Hughes,PenaltyOn,Vancouver Canucks,Kyle Turris,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:43:25Z,1,14:46,05:14,Faceoff,n/a,69.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Mikael Granlund,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:43:56Z,1,14:54,05:06,Shot,Wrist Shot,92.0,-15.0,Alexander Edler,Shooter,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:45:05Z,1,16:03,03:57,Hit,n/a,90.0,29.0,Jordie Benn,Hitter,Vancouver Canucks,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:45:30Z,1,16:28,03:32,Giveaway,n/a,-47.0,-36.0,Brandon Sutter,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:45:45Z,1,16:42,03:18,Giveaway,n/a,54.0,32.0,Dante Fabbro,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:45:58Z,1,16:56,03:04,Shot,Snap Shot,-18.0,-20.0,Jordie Benn,Shooter,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:47:01Z,1,17:58,02:02,Hit,n/a,55.0,-38.0,Colton Sissons,Hitter,Nashville Predators,Alexander Edler,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:47:08Z,1,18:05,01:55,Hit,n/a,-39.0,-23.0,Loui Eriksson,Hitter,Vancouver Canucks,Yannick Weber,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:47:11Z,1,18:09,01:51,Shot,Wrist Shot,-45.0,18.0,Troy Stecher,Shooter,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:47:33Z,1,18:09,01:51,Faceoff,n/a,-69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:48:08Z,1,18:14,01:46,Blocked Shot,n/a,-87.0,-1.0,Ryan Johansen,Blocker,Nashville Predators,Zack MacEwen,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:48:08Z,1,18:15,01:45,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:48:40Z,1,18:39,01:21,Shot,Wrist Shot,52.0,39.0,Jarred Tinordi,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:49:07Z,1,18:39,01:21,Faceoff,n/a,69.0,22.0,Brandon Sutter,Winner,Vancouver Canucks,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:49:26Z,1,18:56,01:04,Shot,Slap Shot,-37.0,27.0,Troy Stecher,Shooter,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:49:50Z,1,19:19,00:41,Hit,n/a,93.0,-27.0,Alexander Edler,Hitter,Vancouver Canucks,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:50:14Z,1,19:43,00:17,Hit,n/a,-66.0,38.0,Filip Forsberg,Hitter,Nashville Predators,Tyler Myers,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:50:17Z,1,19:46,00:14,Shot,Slap Shot,-40.0,-33.0,Jordie Benn,Shooter,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:08:56Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:09:42Z,2,00:48,19:12,Blocked Shot,n/a,66.0,-2.0,Dante Fabbro,Blocker,Nashville Predators,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:09:56Z,2,00:58,19:02,Goal,Deflected,84.0,0.0,Tanner Pearson,Scorer,Vancouver Canucks,Elias Pettersson,Assist,Vancouver Canucks,Alexander Edler,Assist,Vancouver Canucks,Pekka Rinne,Goalie,Nashville Predators
+2020-02-11T04:11:04Z,2,00:58,19:02,Faceoff,n/a,0.0,0.0,Kyle Turris,Winner,Nashville Predators,Elias Pettersson,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:11:45Z,2,01:04,18:56,Shot,Wrist Shot,24.0,2.0,Mattias Ekholm,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:12:15Z,2,01:34,18:26,Giveaway,n/a,70.0,-37.0,Jarred Tinordi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:12:27Z,2,01:46,18:14,Missed Shot,n/a,64.0,14.0,Brandon Sutter,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:12:55Z,2,02:15,17:45,Missed Shot,n/a,-85.0,11.0,Rocco Grimaldi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:13:12Z,2,02:31,17:29,Shot,Backhand,-84.0,-6.0,Nick Bonino,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:14:00Z,2,02:38,17:22,Faceoff,n/a,-69.0,22.0,Colton Sissons,Winner,Nashville Predators,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:13:53Z,2,02:46,17:14,Blocked Shot,n/a,-69.0,0.0,Alexander Edler,Blocker,Vancouver Canucks,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:14:30Z,2,03:01,16:59,Faceoff,n/a,69.0,-22.0,Colton Sissons,Winner,Nashville Predators,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:14:47Z,2,03:11,16:49,Hit,n/a,96.0,15.0,Justin Bailey,Hitter,Vancouver Canucks,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:14:52Z,2,03:16,16:44,Shot,Wrist Shot,63.0,22.0,Justin Bailey,Shooter,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:15:18Z,2,03:41,16:19,Hit,n/a,-95.0,18.0,Rocco Grimaldi,Hitter,Nashville Predators,Quinn Hughes,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:15:21Z,2,03:44,16:16,Missed Shot,n/a,-50.0,-11.0,Jarred Tinordi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:15:28Z,2,03:50,16:10,Shot,Wrist Shot,-40.0,-28.0,Jarred Tinordi,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:15:48Z,2,03:50,16:10,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:16:05Z,2,03:54,16:06,Shot,Slap Shot,-32.0,-9.0,Mattias Ekholm,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:16:42Z,2,04:12,15:48,Faceoff,n/a,20.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:17:15Z,2,04:35,15:25,Hit,n/a,-58.0,37.0,Colton Sissons,Hitter,Nashville Predators,Jordie Benn,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:17:17Z,2,04:37,15:23,Missed Shot,n/a,-39.0,21.0,Yannick Weber,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:17:24Z,2,04:44,15:16,Hit,n/a,-83.0,-29.0,Tyler Myers,Hitter,Vancouver Canucks,Colton Sissons,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:17:31Z,2,04:51,15:09,Hit,n/a,-48.0,39.0,Justin Bailey,Hitter,Vancouver Canucks,Yannick Weber,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:17:32Z,2,04:52,15:08,Missed Shot,n/a,-36.0,-35.0,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:17:38Z,2,04:58,15:02,Shot,Wrist Shot,-60.0,28.0,Nick Bonino,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:17:57Z,2,05:01,14:59,Penalty,Cross checking,-86.0,-29.0,Tyler Myers,PenaltyOn,Vancouver Canucks,Calle Jarnkrok,DrewBy,Vancouver Canucks,Jake Virtanen,ServedBy,Nashville Predators,n/a,n/a,n/a
+2020-02-11T04:18:47Z,2,05:01,14:59,Penalty,Fighting,-85.0,-25.0,Tyler Myers,PenaltyOn,Vancouver Canucks,Austin Watson,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:19:02Z,2,05:01,14:59,Penalty,Fighting,-85.0,-29.0,Austin Watson,PenaltyOn,Nashville Predators,Tyler Myers,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:19:56Z,2,05:01,14:59,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:19:49Z,2,05:06,14:54,Blocked Shot,n/a,-70.0,-15.0,Jay Beagle,Blocker,Vancouver Canucks,Calle Jarnkrok,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:20:06Z,2,05:06,14:54,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:20:30Z,2,05:26,14:34,Blocked Shot,n/a,-63.0,-15.0,Christopher Tanev,Blocker,Vancouver Canucks,Calle Jarnkrok,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:20:45Z,2,05:41,14:19,Missed Shot,n/a,-72.0,5.0,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:21:11Z,2,05:59,14:01,Blocked Shot,n/a,-63.0,-7.0,Christopher Tanev,Blocker,Vancouver Canucks,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:21:11Z,2,05:59,14:01,Goal,Backhand,-79.0,-7.0,Craig Smith,Scorer,Nashville Predators,Roman Josi,Assist,Nashville Predators,Calle Jarnkrok,Assist,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks
+2020-02-11T04:21:47Z,2,05:59,14:01,Faceoff,n/a,0.0,0.0,Colton Sissons,Winner,Nashville Predators,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:22:16Z,2,06:20,13:40,Shot,Wrist Shot,-35.0,-26.0,Viktor Arvidsson,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:22:38Z,2,06:42,13:18,Shot,Slap Shot,-42.0,-26.0,Jarred Tinordi,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:24:36Z,2,06:42,13:18,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:25:14Z,2,07:03,12:57,Shot,Snap Shot,-35.0,28.0,Dante Fabbro,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:25:22Z,2,07:05,12:55,Goal,Wrist Shot,-85.0,7.0,Mikael Granlund,Scorer,Nashville Predators,Dante Fabbro,Assist,Nashville Predators,Nick Bonino,Assist,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks
+2020-02-11T04:25:58Z,2,07:05,12:55,Faceoff,n/a,0.0,0.0,Colton Sissons,Winner,Nashville Predators,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:26:14Z,2,07:23,12:37,Shot,Wrist Shot,-79.0,12.0,Rocco Grimaldi,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:26:26Z,2,07:23,12:37,Faceoff,n/a,-69.0,22.0,J.T. Miller,Winner,Vancouver Canucks,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:27:21Z,2,07:31,12:29,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:28:15Z,2,08:12,11:48,Shot,Wrist Shot,67.0,-22.0,Brandon Sutter,Shooter,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:28:39Z,2,08:12,11:48,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Jake Virtanen,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:28:52Z,2,08:22,11:38,Hit,n/a,65.0,38.0,Jake Virtanen,Hitter,Vancouver Canucks,Craig Smith,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:29:09Z,2,08:22,11:38,Faceoff,n/a,69.0,22.0,Adam Gaudette,Winner,Vancouver Canucks,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:29:26Z,2,08:30,11:30,Blocked Shot,n/a,70.0,-7.0,Mikael Granlund,Blocker,Nashville Predators,Troy Stecher,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:29:59Z,2,09:04,10:56,Hit,n/a,89.0,25.0,J.T. Miller,Hitter,Vancouver Canucks,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:30:27Z,2,09:27,10:33,Penalty,Tripping,-3.0,37.0,J.T. Miller,PenaltyOn,Vancouver Canucks,Viktor Arvidsson,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:31:10Z,2,09:27,10:33,Faceoff,n/a,-69.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,Mikael Granlund,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:31:28Z,2,09:46,10:14,Blocked Shot,n/a,-61.0,4.0,Tanner Pearson,Blocker,Vancouver Canucks,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:31:49Z,2,10:07,09:53,Shot,Snap Shot,-79.0,-13.0,Calle Jarnkrok,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:31:57Z,2,10:15,09:45,Shot,Slap Shot,-35.0,-5.0,Roman Josi,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:04:45Z,2,10:15,09:45,Faceoff,n/a,-69.0,-22.0,Brandon Sutter,Winner,Vancouver Canucks,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:33:09Z,2,10:52,09:08,Hit,n/a,-96.0,-10.0,Alexander Edler,Hitter,Vancouver Canucks,Colton Sissons,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:33:37Z,2,11:19,08:41,Hit,n/a,-97.0,-12.0,Jordie Benn,Hitter,Vancouver Canucks,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:33:42Z,2,11:24,08:36,Missed Shot,n/a,-64.0,13.0,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:33:51Z,2,11:33,08:27,Shot,Wrist Shot,-79.0,1.0,Nick Bonino,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:33:55Z,2,11:37,08:23,Shot,Wrist Shot,-88.0,12.0,Craig Smith,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:34:21Z,2,12:03,07:57,Shot,Backhand,84.0,3.0,Bo Horvat,Shooter,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:34:26Z,2,12:09,07:51,Missed Shot,n/a,73.0,-7.0,Bo Horvat,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:34:35Z,2,12:18,07:42,Missed Shot,n/a,41.0,17.0,Christopher Tanev,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:34:43Z,2,12:26,07:34,Takeaway,n/a,91.0,-15.0,Antoine Roussel,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:37:03Z,2,12:34,07:26,Faceoff,n/a,20.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:38:03Z,2,13:39,06:21,Shot,Wrist Shot,-74.0,2.0,Viktor Arvidsson,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:38:17Z,2,13:52,06:08,Shot,Wrist Shot,78.0,-8.0,Elias Pettersson,Shooter,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:38:47Z,2,13:52,06:08,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:39:05Z,2,14:03,05:57,Giveaway,n/a,81.0,-31.0,Roman Josi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:39:35Z,2,14:32,05:28,Blocked Shot,n/a,74.0,3.0,Yannick Weber,Blocker,Nashville Predators,Adam Gaudette,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:39:40Z,2,14:37,05:23,Missed Shot,n/a,88.0,18.0,J.T. Miller,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:40:04Z,2,15:01,04:59,Giveaway,n/a,-67.0,-20.0,Troy Stecher,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:40:29Z,2,15:09,04:51,Faceoff,n/a,-69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:41:37Z,2,15:45,04:15,Hit,n/a,65.0,35.0,Austin Watson,Hitter,Nashville Predators,Jake Virtanen,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:42:08Z,2,16:20,03:40,Shot,Wrist Shot,-75.0,2.0,Colton Sissons,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:44:07Z,2,16:20,03:40,Faceoff,n/a,-69.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:44:34Z,2,16:38,03:22,Hit,n/a,98.0,-15.0,Roman Josi,Hitter,Nashville Predators,Jay Beagle,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:44:44Z,2,16:48,03:12,Hit,n/a,37.0,29.0,Austin Watson,Hitter,Nashville Predators,Alexander Edler,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:44:59Z,2,17:03,02:57,Hit,n/a,-95.0,-18.0,Loui Eriksson,Hitter,Vancouver Canucks,Colton Sissons,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:45:14Z,2,17:18,02:42,Shot,Wrist Shot,-66.0,30.0,Dante Fabbro,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:45:56Z,2,17:18,02:42,Faceoff,n/a,-69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:47:04Z,2,17:55,02:05,Faceoff,n/a,69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:47:08Z,2,18:00,02:00,Goal,Deflected,78.0,5.0,J.T. Miller,Scorer,Vancouver Canucks,Quinn Hughes,Assist,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a
+2020-02-11T04:47:48Z,2,18:00,02:00,Faceoff,n/a,0.0,0.0,Kyle Turris,Winner,Nashville Predators,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:48:35Z,2,18:43,01:17,Shot,Deflected,-79.0,11.0,Matt Duchene,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:49:02Z,2,18:43,01:17,Faceoff,n/a,-69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:49:42Z,2,19:24,00:36,Shot,Snap Shot,46.0,-27.0,Zack MacEwen,Shooter,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T04:50:04Z,2,19:24,00:36,Faceoff,n/a,69.0,-22.0,Brandon Sutter,Winner,Vancouver Canucks,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:09:25Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:09:43Z,3,00:19,19:41,Missed Shot,n/a,59.0,-1.0,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:10:10Z,3,00:28,19:32,Faceoff,n/a,69.0,-22.0,Colton Sissons,Winner,Nashville Predators,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:10:26Z,3,00:34,19:26,Missed Shot,n/a,63.0,-5.0,Calle Jarnkrok,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:11:01Z,3,01:09,18:51,Shot,Slap Shot,76.0,-6.0,Austin Watson,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:11:47Z,3,01:09,18:51,Penalty,Interference - Goalkeeper,88.0,-2.0,Colton Sissons,PenaltyOn,Nashville Predators,Jacob Markstrom,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:12:13Z,3,01:09,18:51,Faceoff,n/a,-69.0,22.0,Adam Gaudette,Winner,Vancouver Canucks,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:12:56Z,3,01:49,18:11,Shot,Wrist Shot,-71.0,25.0,Jake Virtanen,Shooter,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:13:16Z,3,01:49,18:11,Faceoff,n/a,-69.0,22.0,Adam Gaudette,Winner,Vancouver Canucks,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:15:13Z,3,01:56,18:04,Blocked Shot,n/a,-52.0,1.0,Calle Jarnkrok,Blocker,Nashville Predators,Jake Virtanen,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:15:29Z,3,02:12,17:48,Shot,Wrist Shot,-74.0,10.0,Adam Gaudette,Shooter,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:15:42Z,3,02:25,17:35,Blocked Shot,n/a,-60.0,-12.0,Mattias Ekholm,Blocker,Nashville Predators,Adam Gaudette,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:15:50Z,3,02:32,17:28,Goal,Wrist Shot,-54.0,12.0,Jake Virtanen,Scorer,Vancouver Canucks,Quinn Hughes,Assist,Vancouver Canucks,Adam Gaudette,Assist,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators
+2020-02-11T05:16:57Z,3,02:32,17:28,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:17:29Z,3,03:25,16:35,Hit,n/a,-41.0,-36.0,Ryan Johansen,Hitter,Nashville Predators,Quinn Hughes,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:17:38Z,3,03:34,16:26,Hit,n/a,-97.0,-1.0,Yannick Weber,Hitter,Nashville Predators,Zack MacEwen,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:17:54Z,3,03:50,16:10,Giveaway,n/a,67.0,36.0,Tyler Myers,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:18:21Z,3,04:05,15:55,Faceoff,n/a,69.0,22.0,Elias Pettersson,Winner,Vancouver Canucks,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:19:11Z,3,04:40,15:20,Blocked Shot,n/a,76.0,-8.0,Jordie Benn,Blocker,Vancouver Canucks,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:19:38Z,3,05:07,14:53,Shot,Wrist Shot,55.0,-17.0,Rocco Grimaldi,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:19:46Z,3,05:15,14:45,Hit,n/a,58.0,-37.0,Jarred Tinordi,Hitter,Nashville Predators,Antoine Roussel,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:20:31Z,3,05:28,14:32,Faceoff,n/a,-20.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:21:02Z,3,05:40,14:20,Penalty,Bench,-12.0,39.0,Viktor Arvidsson,PenaltyOn,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:22:51Z,3,05:40,14:20,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:22:07Z,3,05:52,14:08,Shot,Wrist Shot,-70.0,-21.0,J.T. Miller,Shooter,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:22:53Z,3,05:52,14:08,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:23:42Z,3,07:12,12:48,Blocked Shot,n/a,-58.0,-9.0,Kyle Turris,Blocker,Nashville Predators,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:24:14Z,3,07:43,12:17,Shot,Wrist Shot,-76.0,4.0,Jake Virtanen,Shooter,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:24:20Z,3,07:47,12:13,Hit,n/a,-95.0,12.0,Jarred Tinordi,Hitter,Nashville Predators,Adam Gaudette,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:24:30Z,3,07:50,12:10,Penalty,Hooking,-73.0,0.0,Jarred Tinordi,PenaltyOn,Nashville Predators,Jake Virtanen,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:26:55Z,3,07:50,12:10,Faceoff,n/a,-69.0,22.0,Nick Bonino,Winner,Nashville Predators,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:27:34Z,3,08:30,11:30,Hit,n/a,-51.0,-39.0,Mattias Ekholm,Hitter,Nashville Predators,Tanner Pearson,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:28:40Z,3,09:19,10:41,Faceoff,n/a,-20.0,-22.0,Colton Sissons,Winner,Nashville Predators,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:29:07Z,3,09:37,10:23,Shot,Wrist Shot,-71.0,-4.0,Bo Horvat,Shooter,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:29:31Z,3,10:01,09:59,Giveaway,n/a,-95.0,12.0,J.T. Miller,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:29:41Z,3,10:02,09:58,Penalty,Interference,-45.0,30.0,Elias Pettersson,PenaltyOn,Vancouver Canucks,Viktor Arvidsson,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:31:37Z,3,10:02,09:58,Faceoff,n/a,69.0,22.0,Nick Bonino,Winner,Nashville Predators,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:31:57Z,3,10:16,09:44,Blocked Shot,n/a,71.0,3.0,Christopher Tanev,Blocker,Vancouver Canucks,Calle Jarnkrok,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:33:08Z,3,11:27,08:33,Shot,Snap Shot,70.0,-15.0,Colton Sissons,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:33:18Z,3,11:36,08:24,Shot,Slap Shot,71.0,-10.0,Rocco Grimaldi,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:33:32Z,3,11:51,08:09,Shot,Wrist Shot,74.0,-1.0,Rocco Grimaldi,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:33:55Z,3,11:51,08:09,Faceoff,n/a,69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:34:26Z,3,12:10,07:50,Blocked Shot,n/a,77.0,-5.0,Christopher Tanev,Blocker,Vancouver Canucks,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:35:15Z,3,12:59,07:01,Blocked Shot,n/a,73.0,-8.0,Alexander Edler,Blocker,Vancouver Canucks,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:35:27Z,3,13:11,06:49,Hit,n/a,67.0,37.0,Filip Forsberg,Hitter,Nashville Predators,Jake Virtanen,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:35:31Z,3,13:15,06:45,Missed Shot,n/a,91.0,15.0,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:36:16Z,3,14:00,06:00,Hit,n/a,-99.0,1.0,Tanner Pearson,Hitter,Vancouver Canucks,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:36:30Z,3,14:14,05:46,Hit,n/a,-91.0,-22.0,Zack MacEwen,Hitter,Vancouver Canucks,Dan Hamhuis,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:36:43Z,3,14:26,05:34,Shot,Backhand,-78.0,-11.0,Jake Virtanen,Shooter,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:39:32Z,3,14:26,05:34,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:39:58Z,3,14:46,05:14,Faceoff,n/a,-20.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:40:25Z,3,15:05,04:55,Blocked Shot,n/a,71.0,4.0,Tyler Myers,Blocker,Vancouver Canucks,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:40:40Z,3,15:20,04:40,Hit,n/a,-86.0,-35.0,Yannick Weber,Hitter,Nashville Predators,Justin Bailey,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:40:58Z,3,15:38,04:22,Missed Shot,n/a,80.0,-24.0,Ryan Johansen,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:41:27Z,3,15:45,04:15,Faceoff,n/a,-20.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:41:47Z,3,16:03,03:57,Shot,Wrist Shot,-21.0,20.0,Zack MacEwen,Shooter,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:41:57Z,3,16:13,03:47,Takeaway,n/a,-53.0,-34.0,Zack MacEwen,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:41:58Z,3,16:14,03:46,Shot,Wrist Shot,-61.0,1.0,Tanner Pearson,Shooter,Vancouver Canucks,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:42:37Z,3,16:14,03:46,Faceoff,n/a,-69.0,-22.0,Kyle Turris,Winner,Nashville Predators,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:42:41Z,3,16:26,03:34,Shot,Wrist Shot,58.0,28.0,Dante Fabbro,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:43:28Z,3,16:26,03:34,Faceoff,n/a,69.0,22.0,Brandon Sutter,Winner,Vancouver Canucks,Mikael Granlund,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:43:56Z,3,16:42,03:18,Faceoff,n/a,-69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:44:17Z,3,16:59,03:01,Hit,n/a,-94.0,-20.0,Dan Hamhuis,Hitter,Nashville Predators,Jake Virtanen,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:45:04Z,3,17:00,03:00,Penalty,Misconduct,-85.0,-20.0,Dan Hamhuis,PenaltyOn,Nashville Predators,Jake Virtanen,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:45:04Z,3,17:00,03:00,Penalty,Misconduct,-59.0,-31.0,Jake Virtanen,PenaltyOn,Vancouver Canucks,Dan Hamhuis,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:45:14Z,3,17:00,03:00,Faceoff,n/a,-69.0,-22.0,Colton Sissons,Winner,Nashville Predators,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:45:45Z,3,17:26,02:34,Missed Shot,n/a,55.0,-20.0,Colton Sissons,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:48:05Z,3,18:14,01:46,Penalty,Slashing,-28.0,33.0,Antoine Roussel,PenaltyOn,Vancouver Canucks,Yannick Weber,DrewBy,Vancouver Canucks,Elias Pettersson,ServedBy,Nashville Predators,n/a,n/a,n/a
+2020-02-11T05:48:05Z,3,18:14,01:46,Penalty,Cross checking,-20.0,38.0,Antoine Roussel,PenaltyOn,Vancouver Canucks,Yannick Weber,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:48:05Z,3,18:14,01:46,Penalty,Misconduct,-32.0,29.0,Antoine Roussel,PenaltyOn,Vancouver Canucks,Jarred Tinordi,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:48:05Z,3,18:14,01:46,Penalty,Misconduct,-28.0,34.0,Jarred Tinordi,PenaltyOn,Nashville Predators,Antoine Roussel,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:49:18Z,3,18:14,01:46,Faceoff,n/a,69.0,22.0,Nick Bonino,Winner,Nashville Predators,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:48:09Z,3,18:20,01:40,Missed Shot,n/a,34.0,23.0,Calle Jarnkrok,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:48:50Z,3,19:01,00:59,Shot,Slap Shot,34.0,25.0,Roman Josi,Shooter,Nashville Predators,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T05:49:43Z,3,19:53,00:07,Missed Shot,n/a,76.0,-34.0,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

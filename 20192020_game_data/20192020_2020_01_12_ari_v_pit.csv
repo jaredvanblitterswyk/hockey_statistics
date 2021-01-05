@@ -1,0 +1,289 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-12T23:08:32Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:09:29Z,1,00:33,19:27,Hit,n/a,49.0,39.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:09:43Z,1,00:47,19:13,Missed Shot,n/a,52.0,31.0,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:10:31Z,1,01:35,18:25,Giveaway,n/a,97.0,9.0,Tristan Jarry,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:10:36Z,1,01:39,18:21,Missed Shot,n/a,77.0,7.0,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:10:45Z,1,01:43,18:17,Penalty,Slashing,92.0,-32.0,Clayton Keller,PenaltyOn,Arizona Coyotes,Marcus Pettersson,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:11:31Z,1,01:43,18:17,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:11:27Z,1,01:57,18:03,Giveaway,n/a,64.0,-35.0,Brad Richardson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:11:38Z,1,02:09,17:51,Takeaway,n/a,-35.0,-32.0,Niklas Hjalmarsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:12:15Z,1,02:25,17:35,Penalty,Delaying Game - Puck over glass,-35.0,-38.0,Lawson Crouse,PenaltyOn,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:12:31Z,1,02:25,17:35,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:12:50Z,1,02:43,17:17,Goal,Wrist Shot,-85.0,9.0,Jared McCann,Scorer,Pittsburgh Penguins,Bryan Rust,Assist,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes
+2020-01-12T23:13:22Z,1,02:43,17:17,Faceoff,n/a,0.0,0.0,Jared McCann,Winner,Pittsburgh Penguins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:13:52Z,1,03:16,16:44,Hit,n/a,38.0,38.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:14:44Z,1,04:09,15:51,Blocked Shot,n/a,-70.0,4.0,Jakob Chychrun,Blocker,Arizona Coyotes,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:15:23Z,1,04:35,15:25,Hit,n/a,-85.0,36.0,Jordan Oesterle,Hitter,Arizona Coyotes,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:15:13Z,1,04:37,15:23,Giveaway,n/a,7.0,38.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:16:14Z,1,05:08,14:52,Faceoff,n/a,20.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:16:58Z,1,05:27,14:33,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Andrew Agozzino,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:17:17Z,1,05:32,14:28,Hit,n/a,-27.0,-40.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:17:41Z,1,05:56,14:04,Blocked Shot,n/a,68.0,8.0,Andrew Agozzino,Blocker,Pittsburgh Penguins,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:19:29Z,1,06:03,13:57,Faceoff,n/a,-20.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:20:06Z,1,06:18,13:42,Hit,n/a,-42.0,40.0,Lawson Crouse,Hitter,Arizona Coyotes,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:21:06Z,1,07:08,12:52,Blocked Shot,n/a,-33.0,34.0,Jordan Oesterle,Blocker,Arizona Coyotes,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:20:57Z,1,07:10,12:50,Shot,Wrist Shot,-82.0,11.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:21:36Z,1,07:49,12:11,Giveaway,n/a,43.0,-30.0,Juuso Riikola,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:22:02Z,1,08:14,11:46,Hit,n/a,98.0,-11.0,Carl Soderberg,Hitter,Arizona Coyotes,Andrew Agozzino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:22:09Z,1,08:18,11:42,Hit,n/a,86.0,35.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Sam Lafferty,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:22:30Z,1,08:21,11:39,Faceoff,n/a,69.0,22.0,Vinnie Hinostroza,Winner,Arizona Coyotes,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:22:48Z,1,08:29,11:31,Shot,Backhand,70.0,-3.0,Christian Fischer,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:22:54Z,1,08:35,11:25,Hit,n/a,60.0,40.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Brad Richardson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:23:19Z,1,08:37,11:23,Faceoff,n/a,69.0,-22.0,Andrew Agozzino,Winner,Pittsburgh Penguins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:23:45Z,1,08:44,11:16,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:23:53Z,1,08:49,11:11,Shot,Tip-In,80.0,-1.0,Lawson Crouse,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:23:58Z,1,08:54,11:06,Hit,n/a,98.0,-5.0,Kris Letang,Hitter,Pittsburgh Penguins,Phil Kessel,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:24:06Z,1,09:02,10:58,Blocked Shot,n/a,72.0,2.0,Kris Letang,Blocker,Pittsburgh Penguins,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:24:57Z,1,09:53,10:07,Giveaway,n/a,-53.0,39.0,Conor Garland,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:25:15Z,1,09:53,10:07,Hit,n/a,-41.0,29.0,Jordan Oesterle,Hitter,Arizona Coyotes,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:25:12Z,1,09:54,10:06,Blocked Shot,n/a,-60.0,-23.0,Niklas Hjalmarsson,Blocker,Arizona Coyotes,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:25:45Z,1,09:55,10:05,Faceoff,n/a,-69.0,-22.0,Nick Schmaltz,Winner,Arizona Coyotes,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:26:12Z,1,10:04,09:56,Penalty,Tripping,-25.0,38.0,Marcus Pettersson,PenaltyOn,Pittsburgh Penguins,Carl Soderberg,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:28:00Z,1,10:04,09:56,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:29:36Z,1,11:18,08:42,Missed Shot,n/a,-75.0,10.0,Teddy Blueger,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:29:43Z,1,11:26,08:34,Shot,Wrist Shot,55.0,15.0,Carl Soderberg,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:30:20Z,1,11:27,08:33,Faceoff,n/a,69.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:31:06Z,1,12:19,07:41,Hit,n/a,42.0,38.0,Bryan Rust,Hitter,Pittsburgh Penguins,Brad Richardson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:31:10Z,1,12:23,07:37,Blocked Shot,n/a,75.0,19.0,John Marino,Blocker,Pittsburgh Penguins,Brad Richardson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:31:29Z,1,12:42,07:18,Hit,n/a,68.0,-42.0,Evgeni Malkin,Hitter,Pittsburgh Penguins,Vinnie Hinostroza,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:32:17Z,1,13:28,06:32,Missed Shot,n/a,-49.0,-2.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:32:52Z,1,13:29,06:31,Faceoff,n/a,-69.0,-22.0,Andrew Agozzino,Winner,Pittsburgh Penguins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:32:54Z,1,13:36,06:24,Blocked Shot,n/a,-72.0,-10.0,Derek Stepan,Blocker,Arizona Coyotes,Juuso Riikola,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:33:02Z,1,13:43,06:17,Shot,Wrist Shot,12.0,-32.0,Derek Stepan,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:33:07Z,1,13:48,06:12,Hit,n/a,99.0,18.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Derek Stepan,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:33:23Z,1,14:04,05:56,Takeaway,n/a,-24.0,37.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:35:20Z,1,14:07,05:53,Faceoff,n/a,-69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:36:03Z,1,14:23,05:37,Goal,Wrist Shot,80.0,1.0,Conor Garland,Scorer,Arizona Coyotes,Taylor Hall,Assist,Arizona Coyotes,Alex Goligoski,Assist,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins
+2020-01-12T23:36:51Z,1,14:23,05:37,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:37:13Z,1,14:52,05:08,Hit,n/a,11.0,-41.0,Jack Johnson,Hitter,Pittsburgh Penguins,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:38:11Z,1,15:50,04:10,Takeaway,n/a,43.0,-39.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:39:00Z,1,16:39,03:21,Hit,n/a,70.0,-40.0,Kris Letang,Hitter,Pittsburgh Penguins,Vinnie Hinostroza,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:39:00Z,1,16:41,03:19,Hit,n/a,40.0,-40.0,Christian Fischer,Hitter,Arizona Coyotes,Dominik Kahun,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:39:14Z,1,16:53,03:07,Missed Shot,n/a,-54.0,-37.0,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:39:25Z,1,17:04,02:56,Shot,Wrist Shot,80.0,21.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:40:05Z,1,17:44,02:16,Blocked Shot,n/a,-72.0,8.0,Jordan Oesterle,Blocker,Arizona Coyotes,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:40:28Z,1,18:08,01:52,Missed Shot,n/a,-50.0,-34.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:40:47Z,1,18:15,01:45,Blocked Shot,n/a,-51.0,26.0,Lawson Crouse,Blocker,Arizona Coyotes,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:41:02Z,1,18:16,01:44,Faceoff,n/a,-69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:41:15Z,1,18:27,01:33,Hit,n/a,-88.0,33.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:41:26Z,1,18:28,01:32,Missed Shot,n/a,-64.0,9.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:41:30Z,1,18:43,01:17,Hit,n/a,72.0,-23.0,Taylor Hall,Hitter,Arizona Coyotes,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:41:50Z,1,18:54,01:06,Blocked Shot,n/a,-80.0,4.0,Christian Dvorak,Blocker,Arizona Coyotes,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:42:25Z,1,19:00,01:00,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:42:36Z,1,19:12,00:48,Missed Shot,n/a,-75.0,3.0,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:42:45Z,1,19:13,00:47,Giveaway,n/a,-88.0,33.0,Taylor Hall,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:42:50Z,1,19:14,00:46,Blocked Shot,n/a,-47.0,17.0,Conor Garland,Blocker,Arizona Coyotes,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:43:12Z,1,19:15,00:45,Faceoff,n/a,-69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:43:26Z,1,19:28,00:32,Hit,n/a,-29.0,-40.0,Kris Letang,Hitter,Pittsburgh Penguins,Nick Schmaltz,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:43:40Z,1,19:42,00:18,Giveaway,n/a,-17.0,-34.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T23:45:01Z,1,20:00,00:00,Penalty,Cross checking,-16.0,25.0,Evgeni Malkin,PenaltyOn,Pittsburgh Penguins,Brad Richardson,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:02:54Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:03:17Z,2,00:24,19:36,Shot,Wrist Shot,60.0,3.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:03:23Z,2,00:26,19:34,Shot,Backhand,76.0,6.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:03:36Z,2,00:27,19:33,Shot,Backhand,80.0,3.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:05:05Z,2,01:34,18:26,Shot,Wrist Shot,-90.0,17.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:04:59Z,2,01:57,18:03,Hit,n/a,94.0,-12.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Carl Soderberg,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:05:18Z,2,02:25,17:35,Shot,Wrist Shot,-84.0,8.0,Derek Stepan,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:05:43Z,2,02:26,17:34,Faceoff,n/a,-69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:05:56Z,2,02:35,17:25,Shot,Wrist Shot,-86.0,21.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:05:58Z,2,02:37,17:23,Hit,n/a,-68.0,-42.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Vinnie Hinostroza,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:06:04Z,2,02:42,17:18,Giveaway,n/a,-56.0,34.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:06:19Z,2,02:58,17:02,Shot,Tip-In,79.0,0.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:06:28Z,2,03:05,16:55,Blocked Shot,n/a,70.0,6.0,Niklas Hjalmarsson,Blocker,Arizona Coyotes,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:06:45Z,2,03:20,16:40,Missed Shot,n/a,37.0,-6.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:06:53Z,2,03:21,16:39,Penalty,Slashing,51.0,-9.0,Niklas Hjalmarsson,PenaltyOn,Arizona Coyotes,Patric Hornqvist,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:07:34Z,2,03:21,16:39,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:07:39Z,2,03:29,16:31,Shot,Slap Shot,40.0,-31.0,Kris Letang,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:07:53Z,2,03:35,16:25,Shot,Wrist Shot,81.0,-5.0,Bryan Rust,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:08:07Z,2,03:51,16:09,Goal,Wrist Shot,83.0,-7.0,Patric Hornqvist,Scorer,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Alex Galchenyuk,Assist,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes
+2020-01-13T00:08:43Z,2,03:51,16:09,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:08:59Z,2,04:07,15:53,Hit,n/a,99.0,10.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:09:09Z,2,04:16,15:44,Hit,n/a,58.0,40.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:09:24Z,2,04:32,15:28,Hit,n/a,-34.0,-39.0,Christian Dvorak,Hitter,Arizona Coyotes,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:09:44Z,2,04:49,15:11,Shot,Wrist Shot,43.0,20.0,Jared McCann,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:10:14Z,2,04:50,15:10,Faceoff,n/a,69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:10:27Z,2,04:55,15:05,Hit,n/a,95.0,-26.0,Jared McCann,Hitter,Pittsburgh Penguins,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:11:20Z,2,05:14,14:46,Faceoff,n/a,69.0,-22.0,Dominik Kahun,Winner,Pittsburgh Penguins,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:11:23Z,2,05:23,14:37,Blocked Shot,n/a,57.0,-9.0,Carl Soderberg,Blocker,Arizona Coyotes,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:11:28Z,2,05:28,14:32,Takeaway,n/a,97.0,-7.0,Niklas Hjalmarsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:11:42Z,2,05:30,14:30,Missed Shot,n/a,32.0,-34.0,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:11:54Z,2,05:31,14:29,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:12:07Z,2,05:37,14:23,Hit,n/a,12.0,39.0,Kris Letang,Hitter,Pittsburgh Penguins,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:12:39Z,2,05:58,14:02,Penalty,Interference,-33.0,-38.0,Christian Fischer,PenaltyOn,Arizona Coyotes,Evgeni Malkin,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:13:12Z,2,05:58,14:02,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:13:31Z,2,06:21,13:39,Giveaway,n/a,77.0,39.0,Dominik Kahun,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:13:33Z,2,06:23,13:37,Shot,Wrist Shot,84.0,7.0,Andrew Agozzino,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:13:38Z,2,06:24,13:36,Shot,Backhand,86.0,6.0,Andrew Agozzino,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:14:03Z,2,06:25,13:35,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:14:08Z,2,06:38,13:22,Blocked Shot,n/a,67.0,-9.0,Jason Demers,Blocker,Arizona Coyotes,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:14:29Z,2,06:59,13:01,Shot,Wrist Shot,-15.0,32.0,Derek Stepan,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:15:06Z,2,07:36,12:24,Shot,Slap Shot,36.0,-1.0,Kris Letang,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:15:16Z,2,07:46,12:14,Missed Shot,n/a,39.0,14.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:15:22Z,2,07:51,12:09,Missed Shot,n/a,80.0,8.0,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:15:29Z,2,07:59,12:01,Giveaway,n/a,75.0,36.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:15:34Z,2,08:04,11:56,Missed Shot,n/a,37.0,-2.0,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:15:51Z,2,08:21,11:39,Shot,Backhand,84.0,-17.0,Jack Johnson,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:15:54Z,2,08:22,11:38,Missed Shot,n/a,72.0,11.0,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:16:08Z,2,08:36,11:24,Missed Shot,n/a,66.0,-1.0,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:16:07Z,2,08:37,11:23,Hit,n/a,39.0,-41.0,Dominik Simon,Hitter,Pittsburgh Penguins,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:16:36Z,2,08:41,11:19,Shot,Wrist Shot,49.0,11.0,Jared McCann,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:16:49Z,2,09:18,10:42,Missed Shot,n/a,41.0,-31.0,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:16:54Z,2,09:24,10:36,Missed Shot,n/a,43.0,38.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:16:59Z,2,09:28,10:32,Blocked Shot,n/a,51.0,-22.0,Taylor Hall,Blocker,Arizona Coyotes,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:19:10Z,2,09:29,10:31,Faceoff,n/a,69.0,-22.0,Dominik Kahun,Winner,Pittsburgh Penguins,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:19:29Z,2,09:36,10:24,Shot,Wrist Shot,33.0,30.0,Jack Johnson,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:19:35Z,2,09:42,10:18,Hit,n/a,15.0,-39.0,Bryan Rust,Hitter,Pittsburgh Penguins,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:19:50Z,2,09:49,10:11,Blocked Shot,n/a,-82.0,-13.0,Kris Letang,Blocker,Pittsburgh Penguins,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:20:01Z,2,09:51,10:09,Goal,Wrist Shot,-84.0,-21.0,Taylor Hall,Scorer,Arizona Coyotes,Christian Dvorak,Assist,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a
+2020-01-13T00:20:34Z,2,09:51,10:09,Faceoff,n/a,0.0,0.0,Carl Soderberg,Winner,Arizona Coyotes,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:21:08Z,2,10:20,09:40,Missed Shot,n/a,-72.0,5.0,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:21:09Z,2,10:27,09:33,Hit,n/a,-5.0,40.0,Jordan Oesterle,Hitter,Arizona Coyotes,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:21:26Z,2,10:44,09:16,Giveaway,n/a,67.0,40.0,Jakob Chychrun,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:22:04Z,2,11:02,08:58,Missed Shot,n/a,52.0,-15.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:22:05Z,2,11:23,08:37,Shot,Backhand,88.0,-11.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:22:13Z,2,11:31,08:29,Shot,Tip-In,78.0,0.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:22:28Z,2,11:46,08:14,Shot,Wrist Shot,50.0,0.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:22:30Z,2,11:48,08:12,Hit,n/a,97.0,-21.0,Jakob Chychrun,Hitter,Arizona Coyotes,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:22:40Z,2,11:58,08:02,Blocked Shot,n/a,67.0,5.0,Carl Soderberg,Blocker,Arizona Coyotes,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:22:55Z,2,12:03,07:57,Blocked Shot,n/a,65.0,6.0,Jakob Chychrun,Blocker,Arizona Coyotes,Juuso Riikola,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:22:56Z,2,12:14,07:46,Hit,n/a,44.0,-40.0,Lawson Crouse,Hitter,Arizona Coyotes,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:25:43Z,2,12:20,07:40,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:26:02Z,2,12:50,07:10,Giveaway,n/a,50.0,-35.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:26:11Z,2,12:56,07:04,Hit,n/a,49.0,-38.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:26:33Z,2,13:21,06:39,Hit,n/a,-95.0,-25.0,Brad Richardson,Hitter,Arizona Coyotes,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:26:46Z,2,13:34,06:26,Hit,n/a,-93.0,30.0,Brad Richardson,Hitter,Arizona Coyotes,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:26:55Z,2,13:43,06:17,Giveaway,n/a,55.0,1.0,Jordan Oesterle,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:27:11Z,2,13:59,06:01,Shot,Wrist Shot,-73.0,0.0,Brad Richardson,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:27:19Z,2,14:00,06:00,Shot,Wrist Shot,-77.0,-11.0,Alex Goligoski,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:27:30Z,2,14:01,05:59,Penalty,Illegal check to head,90.0,32.0,Andrew Agozzino,PenaltyOn,Pittsburgh Penguins,Jordan Oesterle,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:29:34Z,2,14:01,05:59,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:31:02Z,2,15:22,04:38,Blocked Shot,n/a,-74.0,-21.0,Brandon Tanev,Blocker,Pittsburgh Penguins,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:31:36Z,2,15:24,04:36,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:31:38Z,2,15:31,04:29,Blocked Shot,n/a,-64.0,12.0,Jack Johnson,Blocker,Pittsburgh Penguins,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:32:56Z,2,16:27,03:33,Faceoff,n/a,-69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:33:07Z,2,16:35,03:25,Giveaway,n/a,-42.0,30.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:33:22Z,2,16:51,03:09,Hit,n/a,-27.0,-39.0,Christian Fischer,Hitter,Arizona Coyotes,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:33:31Z,2,17:00,03:00,Hit,n/a,93.0,-30.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:33:39Z,2,17:07,02:53,Hit,n/a,99.0,-5.0,Jason Demers,Hitter,Arizona Coyotes,Dominik Kahun,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:33:39Z,2,17:08,02:52,Shot,Backhand,86.0,-13.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:34:06Z,2,17:35,02:25,Blocked Shot,n/a,67.0,-13.0,Jason Demers,Blocker,Arizona Coyotes,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:34:09Z,2,17:37,02:23,Giveaway,n/a,-4.0,31.0,Christian Fischer,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:35:32Z,2,19:00,01:00,Shot,Wrist Shot,67.0,10.0,Bryan Rust,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:35:37Z,2,19:05,00:55,Missed Shot,n/a,84.0,-8.0,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:35:39Z,2,19:07,00:53,Shot,Wrist Shot,82.0,-12.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:35:46Z,2,19:14,00:46,Missed Shot,n/a,67.0,1.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:35:49Z,2,19:17,00:43,Giveaway,n/a,57.0,-36.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:35:59Z,2,19:24,00:36,Shot,Wrist Shot,69.0,-33.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:36:42Z,2,19:25,00:35,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:36:39Z,2,19:28,00:32,Hit,n/a,90.0,-33.0,Dominik Simon,Hitter,Pittsburgh Penguins,Jason Demers,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:36:46Z,2,19:35,00:25,Hit,n/a,50.0,39.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Vinnie Hinostroza,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:37:12Z,2,19:59,00:01,Shot,Slap Shot,-43.0,33.0,Jason Demers,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:55:42Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:56:35Z,3,00:27,19:33,Faceoff,n/a,-20.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:57:03Z,3,01:00,19:00,Missed Shot,n/a,-73.0,-4.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:57:24Z,3,01:06,18:54,Missed Shot,n/a,38.0,-31.0,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:57:50Z,3,01:07,18:53,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:58:46Z,3,01:50,18:10,Hit,n/a,-96.0,-21.0,Carl Soderberg,Hitter,Arizona Coyotes,Juuso Riikola,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:59:09Z,3,02:13,17:47,Hit,n/a,-82.0,36.0,Jason Demers,Hitter,Arizona Coyotes,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:59:09Z,3,02:14,17:46,Hit,n/a,-96.0,22.0,Dominik Simon,Hitter,Pittsburgh Penguins,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:59:22Z,3,02:24,17:36,Blocked Shot,n/a,-82.0,-17.0,Jason Demers,Blocker,Arizona Coyotes,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T00:59:21Z,3,02:25,17:35,Hit,n/a,-97.0,-17.0,Jason Demers,Hitter,Arizona Coyotes,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:00:02Z,3,03:05,16:55,Shot,Wrist Shot,37.0,-4.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:00:11Z,3,03:12,16:48,Shot,Slap Shot,41.0,0.0,Alex Goligoski,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:00:46Z,3,03:13,16:47,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:00:46Z,3,03:20,16:40,Hit,n/a,74.0,-39.0,Lawson Crouse,Hitter,Arizona Coyotes,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:00:50Z,3,03:24,16:36,Shot,Wrist Shot,54.0,-19.0,Phil Kessel,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:00:55Z,3,03:26,16:34,Shot,Wrist Shot,92.0,-19.0,Phil Kessel,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:01:28Z,3,04:02,15:58,Hit,n/a,36.0,-40.0,Jack Johnson,Hitter,Pittsburgh Penguins,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:01:34Z,3,04:08,15:52,Blocked Shot,n/a,83.0,-2.0,Dominik Kahun,Blocker,Pittsburgh Penguins,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:02:08Z,3,04:35,15:25,Missed Shot,n/a,8.0,2.0,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:02:08Z,3,04:42,15:18,Giveaway,n/a,98.0,3.0,Tristan Jarry,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:02:18Z,3,04:44,15:16,Hit,n/a,97.0,0.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Nick Schmaltz,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:02:21Z,3,04:55,15:05,Shot,Backhand,60.0,38.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:03:01Z,3,05:35,14:25,Blocked Shot,n/a,-60.0,0.0,Alex Goligoski,Blocker,Arizona Coyotes,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:03:04Z,3,05:39,14:21,Hit,n/a,36.0,39.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:03:29Z,3,06:04,13:56,Takeaway,n/a,86.0,-30.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:03:40Z,3,06:10,13:50,Shot,Wrist Shot,-71.0,12.0,Bryan Rust,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:05:55Z,3,06:11,13:49,Faceoff,n/a,-69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:06:01Z,3,06:25,13:35,Shot,Wrist Shot,83.0,-7.0,Christian Dvorak,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:06:04Z,3,06:26,13:34,Missed Shot,n/a,70.0,-1.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:06:17Z,3,06:41,13:19,Giveaway,n/a,91.0,29.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:06:29Z,3,06:53,13:07,Shot,Wrist Shot,-75.0,-28.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:07:03Z,3,07:27,12:33,Shot,Tip-In,77.0,0.0,Lawson Crouse,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:07:05Z,3,07:29,12:31,Hit,n/a,65.0,41.0,Lawson Crouse,Hitter,Arizona Coyotes,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:07:09Z,3,07:31,12:29,Hit,n/a,1.0,40.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:08:06Z,3,08:30,11:30,Hit,n/a,-93.0,30.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:08:11Z,3,08:35,11:25,Shot,Wrist Shot,-76.0,-25.0,Andrew Agozzino,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:08:11Z,3,08:35,11:25,Hit,n/a,-76.0,-39.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Niklas Hjalmarsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:08:40Z,3,08:53,11:07,Penalty,Interference,42.0,-39.0,Alex Galchenyuk,PenaltyOn,Pittsburgh Penguins,Jason Demers,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:09:21Z,3,08:53,11:07,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:10:16Z,3,09:26,10:34,Faceoff,n/a,20.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:11:28Z,3,10:36,09:24,Shot,Wrist Shot,47.0,29.0,Jakob Chychrun,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:12:01Z,3,11:08,08:52,Blocked Shot,n/a,74.0,6.0,Jack Johnson,Blocker,Pittsburgh Penguins,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:12:05Z,3,11:13,08:47,Hit,n/a,-96.0,15.0,Alex Goligoski,Hitter,Arizona Coyotes,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:12:25Z,3,11:28,08:32,Goal,Backhand,77.0,0.0,Derek Stepan,Scorer,Arizona Coyotes,Niklas Hjalmarsson,Assist,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a
+2020-01-13T01:13:15Z,3,11:28,08:32,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:13:39Z,3,11:54,08:06,Missed Shot,n/a,-72.0,14.0,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:13:44Z,3,11:59,08:01,Shot,Wrist Shot,-63.0,-2.0,Jared McCann,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:14:19Z,3,12:28,07:32,Blocked Shot,n/a,81.0,9.0,Dominik Kahun,Blocker,Pittsburgh Penguins,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:16:19Z,3,12:29,07:31,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:16:45Z,3,12:45,07:15,Missed Shot,n/a,44.0,37.0,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:17:14Z,3,12:46,07:14,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Dominik Kahun,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:17:41Z,3,13:00,07:00,Shot,Wrist Shot,49.0,-23.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:17:53Z,3,13:11,06:49,Missed Shot,n/a,-68.0,-13.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:18:15Z,3,13:33,06:27,Missed Shot,n/a,-42.0,-19.0,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:21:44Z,3,15:10,04:50,Faceoff,n/a,-20.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:23:31Z,3,16:24,03:36,Hit,n/a,-44.0,40.0,Jakob Chychrun,Hitter,Arizona Coyotes,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:24:04Z,3,16:25,03:35,Faceoff,n/a,-20.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Vinnie Hinostroza,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:24:21Z,3,16:38,03:22,Hit,n/a,-59.0,-39.0,Niklas Hjalmarsson,Hitter,Arizona Coyotes,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:24:34Z,3,16:46,03:14,Shot,Wrist Shot,-34.0,-26.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:24:34Z,3,16:51,03:09,Missed Shot,n/a,-68.0,20.0,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:24:48Z,3,16:53,03:07,Giveaway,n/a,-95.0,25.0,Brad Richardson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:24:48Z,3,16:58,03:02,Goal,Wrist Shot,-74.0,6.0,Brandon Tanev,Scorer,Pittsburgh Penguins,Juuso Riikola,Assist,Pittsburgh Penguins,Chad Ruhwedel,Assist,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes
+2020-01-13T01:25:27Z,3,16:58,03:02,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:25:49Z,3,17:21,02:39,Hit,n/a,75.0,42.0,Kris Letang,Hitter,Pittsburgh Penguins,Lawson Crouse,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:26:07Z,3,17:40,02:20,Hit,n/a,-99.0,6.0,Dominik Simon,Hitter,Pittsburgh Penguins,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:26:12Z,3,17:44,02:16,Missed Shot,n/a,-45.0,5.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:26:33Z,3,18:05,01:55,Hit,n/a,97.0,-4.0,John Marino,Hitter,Pittsburgh Penguins,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:26:36Z,3,18:09,01:51,Blocked Shot,n/a,63.0,-9.0,Jared McCann,Blocker,Pittsburgh Penguins,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:26:40Z,3,18:12,01:48,Hit,n/a,97.0,23.0,John Marino,Hitter,Pittsburgh Penguins,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:27:27Z,3,19:00,01:00,Hit,n/a,-8.0,-40.0,Jason Demers,Hitter,Arizona Coyotes,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:28:35Z,3,19:41,00:19,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:28:45Z,3,19:47,00:13,Takeaway,n/a,97.0,7.0,Conor Garland,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:28:51Z,3,19:53,00:07,Takeaway,n/a,45.0,8.0,Conor Garland,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:28:55Z,3,19:56,00:04,Blocked Shot,n/a,73.0,4.0,Evgeni Malkin,Blocker,Pittsburgh Penguins,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:31:02Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:31:33Z,4,00:32,04:28,Takeaway,n/a,-67.0,28.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:32:10Z,4,01:09,03:51,Shot,Wrist Shot,55.0,4.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:32:40Z,4,01:10,03:50,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:33:12Z,4,01:36,03:24,Shot,Wrist Shot,-60.0,-25.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:33:29Z,4,01:50,03:10,Shot,Wrist Shot,78.0,-7.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:34:03Z,4,01:51,03:09,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:34:39Z,4,02:25,02:35,Shot,Wrist Shot,-55.0,7.0,Taylor Hall,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:35:17Z,4,03:03,01:57,Shot,Wrist Shot,-63.0,-14.0,Phil Kessel,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:35:37Z,4,03:23,01:37,Missed Shot,n/a,-47.0,-1.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:36:09Z,4,03:39,01:21,Penalty,Hooking,17.0,3.0,Teddy Blueger,PenaltyOn,Pittsburgh Penguins,Conor Garland,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:36:36Z,4,03:39,01:21,Penalty,Hi-sticking,-78.0,-12.0,Conor Garland,PenaltyOn,Arizona Coyotes,Evgeni Malkin,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:37:26Z,4,03:39,01:21,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:37:58Z,4,04:02,00:58,Missed Shot,n/a,-65.0,-11.0,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:38:25Z,4,04:30,00:30,Shot,Wrist Shot,-60.0,-3.0,Clayton Keller,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:38:45Z,4,04:49,00:11,Hit,n/a,67.0,2.0,Alex Goligoski,Hitter,Arizona Coyotes,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:38:48Z,4,04:53,00:07,Shot,Backhand,77.0,-1.0,Jared McCann,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:38:57Z,4,04:59,00:01,Shot,Slap Shot,-50.0,36.0,Clayton Keller,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:40:47Z,5,00:00,00:00,Shot,Backhand,-78.0,3.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:41:20Z,5,00:00,00:00,Shot,Wrist Shot,77.0,-1.0,Nick Schmaltz,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:41:43Z,5,00:00,00:00,Shot,Wrist Shot,-77.0,-2.0,Kris Letang,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:42:08Z,5,00:00,00:00,Missed Shot,n/a,65.0,4.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:42:36Z,5,00:00,00:00,Goal,Backhand,-77.0,-7.0,Bryan Rust,Scorer,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:43:00Z,5,00:00,00:00,Goal,Wrist Shot,73.0,3.0,Taylor Hall,Scorer,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:43:26Z,5,00:00,00:00,Shot,Wrist Shot,-62.0,1.0,Jared McCann,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:43:50Z,5,00:00,00:00,Missed Shot,n/a,62.0,6.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:44:13Z,5,00:00,00:00,Missed Shot,n/a,-71.0,-1.0,Dominik Kahun,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:44:36Z,5,00:00,00:00,Shot,Wrist Shot,68.0,-3.0,Phil Kessel,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:45:02Z,5,00:00,00:00,Shot,Backhand,-74.0,5.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:45:27Z,5,00:00,00:00,Missed Shot,n/a,77.0,5.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:45:56Z,5,00:00,00:00,Shot,Backhand,-78.0,5.0,Dominik Simon,Shooter,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:46:19Z,5,00:00,00:00,Shot,Wrist Shot,70.0,-6.0,Christian Dvorak,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:46:39Z,5,00:00,00:00,Goal,Wrist Shot,-61.0,-2.0,Teddy Blueger,Scorer,Pittsburgh Penguins,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-13T01:47:08Z,5,00:00,00:00,Shot,Wrist Shot,67.0,1.0,Carl Soderberg,Shooter,Arizona Coyotes,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a

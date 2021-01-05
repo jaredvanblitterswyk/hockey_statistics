@@ -1,0 +1,216 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-25T23:07:13Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,William Nylander,Winner,Toronto Maple Leafs,Logan Couture,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:08:54Z,1,00:39,19:21,Penalty,Slashing,27.0,-31.0,Logan Couture,PenaltyOn,San Jose Sharks,Jake Muzzin,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:09:22Z,1,00:39,19:21,Faceoff,n/a,-69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:09:25Z,1,00:50,19:10,Giveaway,n/a,-95.0,8.0,Andreas Johnsson,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:09:48Z,1,01:13,18:47,Shot,Wrist Shot,-85.0,20.0,Auston Matthews,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:09:59Z,1,01:25,18:35,Missed Shot,n/a,-64.0,-1.0,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:10:25Z,1,01:50,18:10,Takeaway,n/a,-33.0,-30.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:10:59Z,1,02:21,17:39,Giveaway,n/a,-38.0,35.0,Tomas Hertl,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:11:02Z,1,02:27,17:33,Blocked Shot,n/a,-60.0,-4.0,Evander Kane,Blocker,San Jose Sharks,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:11:31Z,1,02:56,17:04,Hit,n/a,-23.0,-39.0,Logan Couture,Hitter,San Jose Sharks,Dmytro Timashov,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:11:57Z,1,03:23,16:37,Shot,Wrist Shot,-55.0,18.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:12:06Z,1,03:25,16:35,Missed Shot,n/a,-89.0,12.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:12:37Z,1,04:03,15:57,Blocked Shot,n/a,79.0,8.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Marcus Sorensen,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:12:47Z,1,04:13,15:47,Shot,Wrist Shot,-22.0,-31.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:13:08Z,1,04:34,15:26,Shot,Wrist Shot,-71.0,3.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:13:33Z,1,04:59,15:01,Hit,n/a,30.0,39.0,Cody Ceci,Hitter,Toronto Maple Leafs,Lukas Radil,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:14:08Z,1,05:34,14:26,Giveaway,n/a,54.0,39.0,Justin Holl,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:14:16Z,1,05:41,14:19,Hit,n/a,97.0,12.0,Justin Holl,Hitter,Toronto Maple Leafs,Patrick Marleau,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:14:18Z,1,05:43,14:17,Shot,Slap Shot,29.0,-10.0,Erik Karlsson,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:15:02Z,1,06:27,13:33,Giveaway,n/a,38.0,40.0,Frederik Andersen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:15:03Z,1,06:27,13:33,Shot,Wrist Shot,30.0,39.0,Marc-Edouard Vlasic,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:17:28Z,1,06:28,13:32,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:17:58Z,1,06:54,13:06,Hit,n/a,91.0,28.0,Barclay Goodrow,Hitter,San Jose Sharks,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:18:29Z,1,07:25,12:35,Hit,n/a,-19.0,-16.0,Brenden Dillon,Hitter,San Jose Sharks,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:18:55Z,1,07:50,12:10,Shot,Wrist Shot,-52.0,21.0,Auston Matthews,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:19:21Z,1,07:50,12:10,Faceoff,n/a,-69.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:19:46Z,1,08:10,11:50,Takeaway,n/a,55.0,39.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:20:06Z,1,08:33,11:27,Takeaway,n/a,-72.0,-26.0,Melker Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:20:51Z,1,09:19,10:41,Blocked Shot,n/a,-47.0,-10.0,Logan Couture,Blocker,San Jose Sharks,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:21:25Z,1,09:53,10:07,Hit,n/a,99.0,5.0,Marcus Sorensen,Hitter,San Jose Sharks,Kevin Gravel,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:21:53Z,1,09:57,10:03,Faceoff,n/a,69.0,22.0,Joe Thornton,Winner,San Jose Sharks,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:22:00Z,1,10:02,09:58,Shot,Wrist Shot,54.0,34.0,Brenden Dillon,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:22:33Z,1,10:35,09:25,Goal,Deflected,67.0,-4.0,Kevin Labanc,Scorer,San Jose Sharks,Brent Burns,Assist,San Jose Sharks,Tomas Hertl,Assist,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-10-25T23:23:13Z,1,10:35,09:25,Faceoff,n/a,0.0,0.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:23:47Z,1,10:49,09:11,Faceoff,n/a,69.0,-22.0,Dylan Gambrell,Winner,San Jose Sharks,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:24:20Z,1,10:55,09:05,Penalty,Holding,70.0,-32.0,Cody Ceci,PenaltyOn,Toronto Maple Leafs,Brent Burns,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:25:51Z,1,10:55,09:05,Faceoff,n/a,69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:27:46Z,1,12:16,07:44,Takeaway,n/a,25.0,28.0,Justin Holl,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:28:23Z,1,12:53,07:07,Blocked Shot,n/a,73.0,-5.0,Kevin Gravel,Blocker,Toronto Maple Leafs,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:29:03Z,1,13:13,06:47,Blocked Shot,n/a,-73.0,-15.0,Joe Thornton,Blocker,San Jose Sharks,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:29:14Z,1,13:44,06:16,Blocked Shot,n/a,-66.0,-14.0,Barclay Goodrow,Blocker,San Jose Sharks,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:29:16Z,1,13:45,06:15,Hit,n/a,-57.0,-40.0,Barclay Goodrow,Hitter,San Jose Sharks,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:29:24Z,1,13:52,06:08,Shot,Slap Shot,-33.0,35.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:29:50Z,1,13:52,06:08,Faceoff,n/a,-69.0,22.0,Logan Couture,Winner,San Jose Sharks,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:30:07Z,1,14:06,05:54,Shot,Wrist Shot,77.0,-31.0,Erik Karlsson,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:30:19Z,1,14:18,05:42,Blocked Shot,n/a,64.0,-18.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Logan Couture,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:30:26Z,1,14:25,05:35,Hit,n/a,48.0,40.0,Kasperi Kapanen,Hitter,Toronto Maple Leafs,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:30:32Z,1,14:26,05:34,Giveaway,n/a,34.0,26.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:30:50Z,1,14:49,05:11,Hit,n/a,86.0,-33.0,Justin Holl,Hitter,Toronto Maple Leafs,Marcus Sorensen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:31:06Z,1,15:05,04:55,Blocked Shot,n/a,-71.0,8.0,Marcus Sorensen,Blocker,San Jose Sharks,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:31:36Z,1,15:35,04:25,Hit,n/a,79.0,-36.0,Evander Kane,Hitter,San Jose Sharks,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:31:53Z,1,15:52,04:08,Hit,n/a,-98.0,-15.0,Brenden Dillon,Hitter,San Jose Sharks,Nicholas Shore,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:32:09Z,1,16:08,03:52,Giveaway,n/a,-69.0,-41.0,Marc-Edouard Vlasic,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:32:35Z,1,16:34,03:26,Shot,Wrist Shot,-62.0,10.0,Jason Spezza,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:32:56Z,1,16:53,03:07,Giveaway,n/a,-32.0,39.0,Lukas Radil,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:43:47Z,1,17:00,03:00,Faceoff,n/a,-69.0,22.0,William Nylander,Winner,Toronto Maple Leafs,Logan Couture,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:35:29Z,1,17:04,02:56,Shot,Wrist Shot,-48.0,-26.0,Jake Muzzin,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:35:36Z,1,17:04,02:56,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Logan Couture,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:35:58Z,1,17:08,02:52,Blocked Shot,n/a,-65.0,-12.0,Patrick Marleau,Blocker,San Jose Sharks,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:36:08Z,1,17:16,02:44,Giveaway,n/a,86.0,-25.0,Tyson Barrie,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:43:47Z,1,17:43,02:17,Missed Shot,n/a,-51.0,39.0,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:36:46Z,1,17:55,02:05,Shot,Wrist Shot,73.0,1.0,Timo Meier,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:37:08Z,1,18:18,01:42,Blocked Shot,n/a,50.0,-20.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:37:16Z,1,18:25,01:35,Missed Shot,n/a,74.0,-25.0,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:37:21Z,1,18:29,01:31,Hit,n/a,33.0,38.0,Kasperi Kapanen,Hitter,Toronto Maple Leafs,Tomas Hertl,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:37:31Z,1,18:41,01:19,Hit,n/a,-92.0,26.0,Brenden Dillon,Hitter,San Jose Sharks,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:37:34Z,1,18:44,01:16,Missed Shot,n/a,-73.0,39.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:37:51Z,1,19:00,01:00,Takeaway,n/a,-86.0,36.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:37:56Z,1,19:05,00:55,Giveaway,n/a,-50.0,40.0,Alexander Kerfoot,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:38:27Z,1,19:36,00:24,Shot,Snap Shot,29.0,-18.0,Marc-Edouard Vlasic,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:38:39Z,1,19:48,00:12,Hit,n/a,90.0,-28.0,Joe Thornton,Hitter,San Jose Sharks,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:38:49Z,1,19:58,00:02,Hit,n/a,97.0,-10.0,Cody Ceci,Hitter,Toronto Maple Leafs,Melker Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:57:12Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Logan Couture,Winner,San Jose Sharks,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:57:23Z,2,00:06,19:54,Giveaway,n/a,-16.0,22.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:57:31Z,2,00:14,19:46,Blocked Shot,n/a,78.0,5.0,Brent Burns,Blocker,San Jose Sharks,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:57:45Z,2,00:28,19:32,Blocked Shot,n/a,-71.0,1.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:57:54Z,2,00:37,19:23,Missed Shot,n/a,-79.0,11.0,Logan Couture,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:58:47Z,2,01:30,18:30,Giveaway,n/a,-6.0,29.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:59:02Z,2,01:46,18:14,Giveaway,n/a,-28.0,-19.0,Joe Thornton,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:59:12Z,2,01:55,18:05,Missed Shot,n/a,70.0,28.0,Trevor Moore,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-25T23:59:38Z,2,02:21,17:39,Hit,n/a,-29.0,-38.0,Jason Spezza,Hitter,Toronto Maple Leafs,Lukas Radil,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:00:23Z,2,02:40,17:20,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Logan Couture,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:00:44Z,2,02:59,17:01,Shot,Wrist Shot,89.0,-4.0,Auston Matthews,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:01:20Z,2,03:02,16:58,Faceoff,n/a,69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:02:41Z,2,04:15,15:45,Shot,Wrist Shot,-82.0,33.0,Erik Karlsson,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:02:44Z,2,04:19,15:41,Hit,n/a,-98.0,-10.0,Barclay Goodrow,Hitter,San Jose Sharks,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:03:32Z,2,05:07,14:53,Giveaway,n/a,66.0,-38.0,Jason Spezza,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:04:04Z,2,05:38,14:22,Blocked Shot,n/a,-66.0,-9.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Mario Ferraro,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:04:42Z,2,06:16,13:44,Shot,Backhand,80.0,0.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:04:46Z,2,06:20,13:40,Shot,Wrist Shot,76.0,-2.0,William Nylander,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:05:15Z,2,06:50,13:10,Hit,n/a,37.0,-36.0,Kevin Labanc,Hitter,San Jose Sharks,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:05:20Z,2,06:54,13:06,Shot,Wrist Shot,-54.0,19.0,Tim Heed,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:08:01Z,2,07:32,12:28,Faceoff,n/a,-69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:08:44Z,2,07:46,12:14,Hit,n/a,98.0,11.0,Brenden Dillon,Hitter,San Jose Sharks,Frederik Gauthier,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:08:57Z,2,07:59,12:01,Missed Shot,n/a,-32.0,-4.0,Brenden Dillon,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:08:58Z,2,08:00,12:00,Giveaway,n/a,-28.0,0.0,Frederik Gauthier,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:09:14Z,2,08:16,11:44,Giveaway,n/a,81.0,39.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:09:43Z,2,08:23,11:37,Faceoff,n/a,69.0,-22.0,William Nylander,Winner,Toronto Maple Leafs,Logan Couture,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:09:53Z,2,08:28,11:32,Blocked Shot,n/a,48.0,-19.0,Timo Meier,Blocker,San Jose Sharks,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:10:12Z,2,08:47,11:13,Hit,n/a,36.0,-41.0,Mario Ferraro,Hitter,San Jose Sharks,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:10:27Z,2,09:02,10:58,Giveaway,n/a,-95.0,-7.0,Cody Ceci,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:10:39Z,2,09:14,10:46,Shot,Wrist Shot,73.0,-13.0,William Nylander,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:11:04Z,2,09:30,10:30,Penalty,Tripping,64.0,39.0,Mario Ferraro,PenaltyOn,San Jose Sharks,Auston Matthews,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:11:58Z,2,09:30,10:30,Faceoff,n/a,69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:11:59Z,2,09:53,10:07,Giveaway,n/a,34.0,-36.0,Trevor Moore,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:12:30Z,2,10:24,09:36,Shot,Wrist Shot,63.0,-32.0,Jason Spezza,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:12:35Z,2,10:29,09:31,Giveaway,n/a,30.0,-38.0,Evander Kane,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:12:38Z,2,10:32,09:28,Blocked Shot,n/a,49.0,-18.0,Tomas Hertl,Blocker,San Jose Sharks,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:13:18Z,2,11:12,08:48,Takeaway,n/a,46.0,15.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:13:45Z,2,11:39,08:21,Blocked Shot,n/a,55.0,-18.0,Mario Ferraro,Blocker,San Jose Sharks,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:13:57Z,2,11:42,08:18,Penalty,Hooking,60.0,10.0,Barclay Goodrow,PenaltyOn,San Jose Sharks,Auston Matthews,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:16:15Z,2,11:42,08:18,Faceoff,n/a,69.0,-22.0,William Nylander,Winner,Toronto Maple Leafs,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:16:24Z,2,11:52,08:08,Shot,Slap Shot,50.0,20.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:16:40Z,2,11:54,08:06,Faceoff,n/a,69.0,22.0,Dylan Gambrell,Winner,San Jose Sharks,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:16:56Z,2,12:01,07:59,Giveaway,n/a,32.0,39.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:17:19Z,2,12:24,07:36,Giveaway,n/a,-44.0,-38.0,Morgan Rielly,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:18:27Z,2,13:32,06:28,Missed Shot,n/a,30.0,30.0,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:18:36Z,2,13:39,06:21,Missed Shot,n/a,32.0,-5.0,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:18:48Z,2,13:52,06:08,Blocked Shot,n/a,71.0,5.0,Mario Ferraro,Blocker,San Jose Sharks,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:19:23Z,2,13:58,06:02,Faceoff,n/a,69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:21:57Z,2,14:13,05:47,Faceoff,n/a,20.0,22.0,Evander Kane,Winner,San Jose Sharks,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:22:30Z,2,14:32,05:28,Shot,Snap Shot,-64.0,-14.0,Evander Kane,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:22:41Z,2,14:43,05:17,Shot,Wrist Shot,36.0,-27.0,Cody Ceci,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:23:28Z,2,15:31,04:29,Missed Shot,n/a,-35.0,37.0,Tim Heed,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:23:52Z,2,15:54,04:06,Hit,n/a,-97.0,14.0,Timo Meier,Hitter,San Jose Sharks,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:24:22Z,2,16:24,03:36,Takeaway,n/a,-13.0,40.0,Logan Couture,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:24:46Z,2,16:48,03:12,Hit,n/a,95.0,-29.0,Dmytro Timashov,Hitter,Toronto Maple Leafs,Brenden Dillon,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:24:54Z,2,16:56,03:04,Hit,n/a,63.0,40.0,Nicholas Shore,Hitter,Toronto Maple Leafs,Barclay Goodrow,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:25:03Z,2,17:05,02:55,Giveaway,n/a,-27.0,-23.0,Nicholas Shore,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:26:32Z,2,18:16,01:44,Faceoff,n/a,-69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Logan Couture,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:27:13Z,2,18:48,01:12,Hit,n/a,19.0,-41.0,Trevor Moore,Hitter,Toronto Maple Leafs,Timo Meier,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:28:03Z,2,19:37,00:23,Missed Shot,n/a,56.0,-22.0,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:28:12Z,2,19:47,00:13,Shot,Wrist Shot,62.0,9.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:28:48Z,2,19:48,00:12,Faceoff,n/a,69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:29:29Z,2,19:54,00:06,Giveaway,n/a,65.0,40.0,Brenden Dillon,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:29:03Z,2,19:57,00:03,Goal,Wrist Shot,78.0,-1.0,Jake Muzzin,Scorer,Toronto Maple Leafs,Jason Spezza,Assist,Toronto Maple Leafs,Ilya Mikheyev,Assist,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks
+2019-10-26T00:29:44Z,2,19:57,00:03,Faceoff,n/a,0.0,0.0,Barclay Goodrow,Winner,San Jose Sharks,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:48:12Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,William Nylander,Winner,Toronto Maple Leafs,Logan Couture,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:48:57Z,3,00:30,19:30,Penalty,Closing hand on puck,-81.0,-15.0,Timo Meier,PenaltyOn,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:49:09Z,3,00:30,19:30,Faceoff,n/a,-69.0,22.0,William Nylander,Winner,Toronto Maple Leafs,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:49:22Z,3,00:35,19:25,Shot,Wrist Shot,-66.0,-17.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:50:15Z,3,01:29,18:31,Blocked Shot,n/a,-70.0,14.0,Marc-Edouard Vlasic,Blocker,San Jose Sharks,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:50:25Z,3,01:38,18:22,Blocked Shot,n/a,-77.0,-5.0,Tomas Hertl,Blocker,San Jose Sharks,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:35:37Z,3,01:42,18:18,Shot,Backhand,-63.0,7.0,Evander Kane,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:51:12Z,3,02:26,17:34,Giveaway,n/a,-36.0,0.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:51:17Z,3,02:30,17:30,Missed Shot,n/a,65.0,15.0,Marcus Sorensen,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:51:21Z,3,02:35,17:25,Giveaway,n/a,12.0,-17.0,Alexander Kerfoot,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:51:24Z,3,02:37,17:23,Shot,Wrist Shot,64.0,-5.0,Timo Meier,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:51:54Z,3,03:07,16:53,Hit,n/a,96.0,-23.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:52:05Z,3,03:19,16:41,Missed Shot,n/a,-78.0,6.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:52:12Z,3,03:26,16:34,Missed Shot,n/a,-39.0,-37.0,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:52:37Z,3,03:38,16:22,Penalty,Delaying Game - Puck over glass,-73.0,-9.0,Melker Karlsson,PenaltyOn,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:52:56Z,3,03:38,16:22,Faceoff,n/a,-69.0,22.0,William Nylander,Winner,Toronto Maple Leafs,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:53:07Z,3,03:45,16:15,Missed Shot,n/a,-59.0,-20.0,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:53:26Z,3,04:04,15:56,Giveaway,n/a,-27.0,-36.0,Andreas Johnsson,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:53:52Z,3,04:30,15:30,Blocked Shot,n/a,65.0,-11.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Evander Kane,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:54:32Z,3,05:10,14:50,Shot,Backhand,65.0,-11.0,Logan Couture,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:55:11Z,3,05:12,14:48,Faceoff,n/a,69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:55:17Z,3,05:18,14:42,Shot,Wrist Shot,40.0,-35.0,Brent Burns,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:29:14Z,3,05:51,14:09,Missed Shot,n/a,-61.0,12.0,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:56:44Z,3,06:45,13:15,Missed Shot,n/a,-29.0,-22.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:56:55Z,3,06:56,13:04,Shot,Wrist Shot,37.0,-4.0,Evander Kane,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:57:05Z,3,07:00,13:00,Blocked Shot,n/a,80.0,-1.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Evander Kane,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:57:34Z,3,07:35,12:25,Blocked Shot,n/a,60.0,-19.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Logan Couture,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T00:59:42Z,3,07:35,12:25,Faceoff,n/a,69.0,-22.0,Patrick Marleau,Winner,San Jose Sharks,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:00:05Z,3,07:48,12:12,Giveaway,n/a,12.0,7.0,Nicholas Shore,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:00:11Z,3,07:58,12:02,Giveaway,n/a,-84.0,37.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:00:13Z,3,08:01,11:59,Shot,Wrist Shot,-47.0,35.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:00:26Z,3,08:13,11:47,Blocked Shot,n/a,-81.0,5.0,Brent Burns,Blocker,San Jose Sharks,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:01:17Z,3,08:37,11:23,Faceoff,n/a,-20.0,-22.0,Evander Kane,Winner,San Jose Sharks,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:01:40Z,3,08:53,11:07,Shot,Backhand,-81.0,9.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:02:08Z,3,09:22,10:38,Hit,n/a,46.0,-37.0,Kevin Labanc,Hitter,San Jose Sharks,Mitchell Marner,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:02:12Z,3,09:26,10:34,Blocked Shot,n/a,46.0,1.0,Alexander Kerfoot,Blocker,Toronto Maple Leafs,Erik Karlsson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:02:16Z,3,09:30,10:30,Blocked Shot,n/a,65.0,2.0,Mitchell Marner,Blocker,Toronto Maple Leafs,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:02:22Z,3,09:36,10:24,Takeaway,n/a,79.0,-27.0,Cody Ceci,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:02:46Z,3,09:59,10:01,Shot,Wrist Shot,-63.0,-16.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:03:17Z,3,10:30,09:30,Giveaway,n/a,-97.0,9.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:03:23Z,3,10:37,09:23,Shot,Wrist Shot,-84.0,37.0,Jason Spezza,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:05:44Z,3,10:37,09:23,Faceoff,n/a,-69.0,22.0,William Nylander,Winner,Toronto Maple Leafs,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:06:02Z,3,10:55,09:05,Giveaway,n/a,-78.0,-36.0,Barclay Goodrow,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:06:13Z,3,11:06,08:54,Shot,Wrist Shot,-56.0,-32.0,Auston Matthews,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:06:25Z,3,11:18,08:42,Missed Shot,n/a,-77.0,-7.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:06:34Z,3,11:27,08:33,Shot,Wrist Shot,-62.0,-10.0,Auston Matthews,Shooter,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:07:09Z,3,11:28,08:32,Faceoff,n/a,-69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:07:27Z,3,11:44,08:16,Hit,n/a,-97.0,-5.0,Brenden Dillon,Hitter,San Jose Sharks,Ilya Mikheyev,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:08:15Z,3,12:35,07:25,Hit,n/a,30.0,40.0,Tyson Barrie,Hitter,Toronto Maple Leafs,Logan Couture,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:08:57Z,3,13:17,06:43,Hit,n/a,-20.0,-40.0,Melker Karlsson,Hitter,San Jose Sharks,Kevin Gravel,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:09:05Z,3,13:22,06:38,Giveaway,n/a,-95.0,13.0,Martin Jones,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:09:11Z,3,13:28,06:32,Giveaway,n/a,70.0,38.0,Kevin Gravel,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:09:10Z,3,13:29,06:31,Missed Shot,n/a,74.0,8.0,Dylan Gambrell,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:09:46Z,3,14:04,05:56,Takeaway,n/a,-79.0,37.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:09:50Z,3,14:10,05:50,Missed Shot,n/a,-31.0,-20.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:10:13Z,3,14:31,05:29,Goal,Wrist Shot,-62.0,22.0,Morgan Rielly,Scorer,Toronto Maple Leafs,William Nylander,Assist,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a
+2019-10-26T01:11:05Z,3,14:31,05:29,Faceoff,n/a,0.0,0.0,Joe Thornton,Winner,San Jose Sharks,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:11:19Z,3,14:45,05:15,Missed Shot,n/a,30.0,-29.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:11:54Z,3,15:20,04:40,Giveaway,n/a,-11.0,35.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:12:19Z,3,15:45,04:15,Blocked Shot,n/a,-47.0,-12.0,Timo Meier,Blocker,San Jose Sharks,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:15:18Z,3,15:49,04:11,Faceoff,n/a,20.0,22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:15:15Z,3,16:13,03:47,Giveaway,n/a,-6.0,17.0,Evander Kane,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:15:29Z,3,16:27,03:33,Blocked Shot,n/a,-54.0,-11.0,Tomas Hertl,Blocker,San Jose Sharks,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:16:03Z,3,17:01,02:59,Hit,n/a,84.0,37.0,Dylan Gambrell,Hitter,San Jose Sharks,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:16:08Z,3,17:07,02:53,Takeaway,n/a,90.0,27.0,Joe Thornton,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:16:13Z,3,17:11,02:49,Missed Shot,n/a,28.0,-29.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:16:18Z,3,17:16,02:44,Missed Shot,n/a,34.0,41.0,Mario Ferraro,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:16:26Z,3,17:24,02:36,Shot,Wrist Shot,80.0,-25.0,Joe Thornton,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:16:52Z,3,17:50,02:10,Hit,n/a,87.0,-33.0,Timo Meier,Hitter,San Jose Sharks,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:19:46Z,3,18:27,01:33,Faceoff,n/a,69.0,22.0,Evander Kane,Winner,San Jose Sharks,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:19:41Z,3,18:41,01:19,Missed Shot,n/a,-77.0,9.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:20:49Z,3,19:07,00:53,Giveaway,n/a,-23.0,10.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:20:12Z,3,19:12,00:48,Goal,Wrist Shot,-81.0,5.0,Ilya Mikheyev,Scorer,Toronto Maple Leafs,Mitchell Marner,Assist,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:21:03Z,3,19:12,00:48,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:21:21Z,3,19:25,00:35,Takeaway,n/a,7.0,41.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:21:06Z,3,19:30,00:30,Goal,Wrist Shot,-57.0,-18.0,Auston Matthews,Scorer,Toronto Maple Leafs,Mitchell Marner,Assist,Toronto Maple Leafs,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a
+2019-10-26T01:21:50Z,3,19:30,00:30,Faceoff,n/a,0.0,0.0,Nicholas Shore,Winner,Toronto Maple Leafs,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T01:22:22Z,3,20:00,00:00,Shot,Wrist Shot,35.0,2.0,Lukas Radil,Shooter,San Jose Sharks,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a

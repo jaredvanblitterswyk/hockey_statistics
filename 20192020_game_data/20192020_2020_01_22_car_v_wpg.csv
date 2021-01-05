@@ -1,0 +1,248 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-22T00:08:14Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Mark Scheifele,Winner,Winnipeg Jets,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:08:44Z,1,00:20,19:40,Shot,Wrist Shot,-84.0,6.0,Jordan Staal,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:09:14Z,1,00:50,19:10,Giveaway,n/a,-74.0,41.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:09:52Z,1,01:26,18:34,Giveaway,n/a,-21.0,-38.0,Warren Foegele,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:10:12Z,1,01:46,18:14,Giveaway,n/a,-25.0,29.0,Nikolaj Ehlers,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:10:51Z,1,02:28,17:32,Goal,Backhand,-83.0,-2.0,Martin Necas,Scorer,Carolina Hurricanes,Ryan Dzingel,Assist,Carolina Hurricanes,Haydn Fleury,Assist,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets
+2020-01-22T00:11:36Z,1,02:28,17:32,Faceoff,n/a,0.0,0.0,Nicholas Shore,Winner,Winnipeg Jets,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:11:59Z,1,02:45,17:15,Hit,n/a,82.0,-38.0,Brock McGinn,Hitter,Carolina Hurricanes,Neal Pionk,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:12:27Z,1,02:49,17:11,Hit,n/a,24.0,39.0,Gabriel Bourque,Hitter,Winnipeg Jets,Jordan Martinook,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:12:27Z,1,02:53,17:07,Faceoff,n/a,69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:12:49Z,1,03:05,16:55,Hit,n/a,-80.0,-40.0,Luca Sbisa,Hitter,Winnipeg Jets,Andrei Svechnikov,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:12:56Z,1,03:15,16:45,Missed Shot,n/a,68.0,-39.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:13:04Z,1,03:20,16:40,Hit,n/a,29.0,-34.0,Luca Sbisa,Hitter,Winnipeg Jets,Andrei Svechnikov,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:13:31Z,1,03:27,16:33,Faceoff,n/a,-20.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:14:04Z,1,03:43,16:17,Faceoff,n/a,20.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:14:47Z,1,04:07,15:53,Giveaway,n/a,18.0,-23.0,Teuvo Teravainen,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:15:00Z,1,04:19,15:41,Takeaway,n/a,-91.0,33.0,Teuvo Teravainen,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:15:26Z,1,04:46,15:14,Hit,n/a,-89.0,-32.0,Mason Appleton,Hitter,Winnipeg Jets,Martin Necas,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:15:40Z,1,05:00,15:00,Penalty,Hooking,42.0,-12.0,Sami Niku,PenaltyOn,Winnipeg Jets,Martin Necas,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:16:18Z,1,05:00,15:00,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Winnipeg Jets,Teuvo Teravainen,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:16:44Z,1,05:14,14:46,Shot,Slap Shot,-59.0,27.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:17:00Z,1,05:30,14:30,Goal,Tip-In,-82.0,-6.0,Justin Williams,Scorer,Carolina Hurricanes,Teuvo Teravainen,Assist,Carolina Hurricanes,Jaccob Slavin,Assist,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets
+2020-01-22T00:17:40Z,1,05:30,14:30,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:18:25Z,1,06:03,13:57,Hit,n/a,79.0,40.0,Mark Scheifele,Hitter,Winnipeg Jets,Nino Niederreiter,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:18:39Z,1,06:22,13:38,Hit,n/a,92.0,-32.0,Jaccob Slavin,Hitter,Carolina Hurricanes,Kyle Connor,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:18:41Z,1,06:26,13:34,Goal,Snap Shot,76.0,-6.0,Patrik Laine,Scorer,Winnipeg Jets,Mark Scheifele,Assist,Winnipeg Jets,Kyle Connor,Assist,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes
+2020-01-22T00:19:17Z,1,06:26,13:34,Faceoff,n/a,0.0,0.0,Sebastian Aho,Winner,Carolina Hurricanes,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:21:29Z,1,06:49,13:11,Faceoff,n/a,20.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:22:09Z,1,07:04,12:56,Giveaway,n/a,77.0,37.0,Nikolaj Ehlers,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:22:37Z,1,07:32,12:28,Hit,n/a,4.0,40.0,Anthony Bitetto,Hitter,Winnipeg Jets,Lucas Wallmark,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:22:54Z,1,07:48,12:12,Hit,n/a,98.0,-14.0,Patrik Laine,Hitter,Winnipeg Jets,Martin Necas,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:23:49Z,1,08:45,11:15,Blocked Shot,n/a,56.0,-16.0,Brock McGinn,Blocker,Carolina Hurricanes,Luca Sbisa,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:23:59Z,1,08:57,11:03,Shot,Snap Shot,71.0,21.0,Andrew Copp,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:24:13Z,1,09:11,10:49,Missed Shot,n/a,52.0,7.0,Dmitry Kulikov,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:24:19Z,1,09:13,10:47,Hit,n/a,74.0,41.0,Dmitry Kulikov,Hitter,Winnipeg Jets,Justin Williams,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:24:29Z,1,09:17,10:43,Takeaway,n/a,32.0,42.0,Andrew Copp,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:25:27Z,1,09:57,10:03,Faceoff,n/a,20.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:25:47Z,1,10:08,09:52,Blocked Shot,n/a,64.0,13.0,Brett Pesce,Blocker,Carolina Hurricanes,Nikolaj Ehlers,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:25:50Z,1,10:12,09:48,Takeaway,n/a,97.0,2.0,Brett Pesce,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:25:55Z,1,10:13,09:47,Hit,n/a,93.0,-29.0,Jake Gardiner,Hitter,Carolina Hurricanes,Jack Roslovic,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:28:07Z,1,10:20,09:40,Faceoff,n/a,-20.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:28:18Z,1,10:24,09:36,Blocked Shot,n/a,-64.0,3.0,Luca Sbisa,Blocker,Winnipeg Jets,Nino Niederreiter,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:28:27Z,1,10:30,09:30,Hit,n/a,-26.0,30.0,Dmitry Kulikov,Hitter,Winnipeg Jets,Jordan Staal,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:28:45Z,1,10:44,09:16,Hit,n/a,97.0,-15.0,Patrik Laine,Hitter,Winnipeg Jets,Jaccob Slavin,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:29:17Z,1,10:57,09:03,Faceoff,n/a,-69.0,-22.0,Blake Wheeler,Winner,Winnipeg Jets,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:29:43Z,1,11:17,08:43,Giveaway,n/a,-43.0,-7.0,Teuvo Teravainen,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:30:16Z,1,11:50,08:10,Hit,n/a,-98.0,4.0,Josh Morrissey,Hitter,Winnipeg Jets,Sebastian Aho,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:30:32Z,1,12:08,07:52,Blocked Shot,n/a,48.0,-4.0,Teuvo Teravainen,Blocker,Carolina Hurricanes,Sami Niku,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:31:12Z,1,12:48,07:12,Blocked Shot,n/a,55.0,-22.0,Jaccob Slavin,Blocker,Carolina Hurricanes,Gabriel Bourque,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:31:44Z,1,13:19,06:41,Shot,Snap Shot,-87.0,31.0,Brock McGinn,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:32:08Z,1,13:21,06:39,Faceoff,n/a,-69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:32:41Z,1,13:38,06:22,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:33:06Z,1,13:45,06:15,Missed Shot,n/a,-75.0,-1.0,Jordan Staal,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:34:33Z,1,14:00,06:00,Hit,n/a,-75.0,41.0,Dmitry Kulikov,Hitter,Winnipeg Jets,Nino Niederreiter,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:35:23Z,1,14:26,05:34,Faceoff,n/a,20.0,22.0,Blake Wheeler,Winner,Winnipeg Jets,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:36:20Z,1,14:41,05:19,Giveaway,n/a,46.0,-38.0,Nikolaj Ehlers,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:36:29Z,1,14:43,05:17,Penalty,Delaying Game - Puck over glass,64.0,-39.0,Warren Foegele,PenaltyOn,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:36:52Z,1,14:43,05:17,Faceoff,n/a,69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:37:53Z,1,15:40,04:20,Shot,Snap Shot,56.0,15.0,Patrik Laine,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:38:12Z,1,15:59,04:01,Blocked Shot,n/a,65.0,16.0,Trevor van Riemsdyk,Blocker,Carolina Hurricanes,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:38:39Z,1,16:00,04:00,Faceoff,n/a,69.0,22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:39:35Z,1,16:49,03:11,Missed Shot,n/a,35.0,38.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:39:50Z,1,17:04,02:56,Missed Shot,n/a,-49.0,-28.0,Haydn Fleury,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:39:57Z,1,17:09,02:51,Shot,Backhand,-74.0,1.0,Brock McGinn,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:40:28Z,1,17:11,02:49,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Winnipeg Jets,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:41:21Z,1,17:27,02:33,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:41:41Z,1,17:39,02:21,Shot,Snap Shot,75.0,-6.0,Patrik Laine,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:42:19Z,1,18:17,01:43,Shot,Backhand,-83.0,15.0,Sebastian Aho,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:42:31Z,1,18:22,01:38,Goal,Snap Shot,-84.0,-7.0,Teuvo Teravainen,Scorer,Carolina Hurricanes,Sebastian Aho,Assist,Carolina Hurricanes,Andrei Svechnikov,Assist,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets
+2020-01-22T00:42:58Z,1,18:22,01:38,Faceoff,n/a,0.0,0.0,Blake Wheeler,Winner,Winnipeg Jets,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:43:17Z,1,18:36,01:24,Giveaway,n/a,-86.0,4.0,Connor Hellebuyck,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:43:24Z,1,18:46,01:14,Blocked Shot,n/a,-81.0,-1.0,Blake Wheeler,Blocker,Winnipeg Jets,Brett Pesce,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:43:41Z,1,19:00,01:00,Giveaway,n/a,26.0,38.0,Brett Pesce,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:43:56Z,1,19:18,00:42,Blocked Shot,n/a,-84.0,-9.0,Neal Pionk,Blocker,Winnipeg Jets,Jordan Martinook,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:44:19Z,1,19:38,00:22,Hit,n/a,-62.0,-40.0,Jordan Martinook,Hitter,Carolina Hurricanes,Mason Appleton,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:44:34Z,1,19:55,00:05,Shot,Snap Shot,38.0,-26.0,Patrik Laine,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:45:07Z,1,19:56,00:04,Faceoff,n/a,69.0,-22.0,Blake Wheeler,Winner,Winnipeg Jets,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:45:32Z,1,19:58,00:02,Shot,Snap Shot,50.0,-20.0,Patrik Laine,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:48:20Z,1,19:59,00:01,Shot,Deflected,83.0,2.0,Mark Scheifele,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:04:07Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:04:35Z,2,00:07,19:53,Faceoff,n/a,-69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:05:00Z,2,00:13,19:47,Giveaway,n/a,63.0,-11.0,Dmitry Kulikov,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:05:16Z,2,00:22,19:38,Hit,n/a,98.0,-4.0,Dmitry Kulikov,Hitter,Winnipeg Jets,Nino Niederreiter,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:05:28Z,2,00:41,19:19,Giveaway,n/a,72.0,40.0,Andrei Svechnikov,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:05:53Z,2,01:08,18:52,Shot,Snap Shot,-76.0,3.0,Jack Roslovic,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:06:03Z,2,01:17,18:43,Shot,Slap Shot,-30.0,30.0,Neal Pionk,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:06:22Z,2,01:18,18:42,Faceoff,n/a,-69.0,22.0,Blake Wheeler,Winner,Winnipeg Jets,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:06:49Z,2,01:34,18:26,Giveaway,n/a,-68.0,41.0,Warren Foegele,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:06:54Z,2,01:41,18:19,Shot,Backhand,-79.0,2.0,Blake Wheeler,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:07:04Z,2,01:43,18:17,Shot,Wrist Shot,-80.0,-8.0,Jack Roslovic,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:07:10Z,2,01:56,18:04,Giveaway,n/a,38.0,11.0,Warren Foegele,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:07:50Z,2,02:37,17:23,Giveaway,n/a,-97.0,-18.0,Haydn Fleury,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:08:35Z,2,03:21,16:39,Missed Shot,n/a,87.0,9.0,Jordan Martinook,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:09:12Z,2,03:36,16:24,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:09:41Z,2,03:46,16:14,Blocked Shot,n/a,-43.0,-4.0,Jaccob Slavin,Blocker,Carolina Hurricanes,Gabriel Bourque,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:09:56Z,2,03:59,16:01,Hit,n/a,-90.0,35.0,Nikolaj Ehlers,Hitter,Winnipeg Jets,Joel Edmundson,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:10:09Z,2,04:13,15:47,Blocked Shot,n/a,-41.0,4.0,Jaccob Slavin,Blocker,Carolina Hurricanes,Luca Sbisa,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:10:38Z,2,04:41,15:19,Shot,Snap Shot,-62.0,22.0,Blake Wheeler,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:11:03Z,2,04:42,15:18,Faceoff,n/a,-69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:12:08Z,2,05:41,14:19,Hit,n/a,81.0,39.0,Lucas Wallmark,Hitter,Carolina Hurricanes,Anthony Bitetto,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:12:16Z,2,05:51,14:09,Giveaway,n/a,97.0,-1.0,Martin Necas,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:12:19Z,2,05:55,14:05,Blocked Shot,n/a,70.0,-10.0,Josh Morrissey,Blocker,Winnipeg Jets,Martin Necas,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:12:29Z,2,06:04,13:56,Blocked Shot,n/a,-83.0,11.0,Haydn Fleury,Blocker,Carolina Hurricanes,Andrew Copp,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:12:57Z,2,06:11,13:49,Penalty,Interference,-71.0,-1.0,Ryan Dzingel,PenaltyOn,Carolina Hurricanes,Mason Appleton,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:14:27Z,2,06:11,13:49,Faceoff,n/a,-69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:15:17Z,2,06:28,13:32,Giveaway,n/a,-91.0,-8.0,Petr Mrazek,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:15:58Z,2,07:08,12:52,Giveaway,n/a,16.0,36.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:16:13Z,2,07:23,12:37,Takeaway,n/a,-45.0,-40.0,Teuvo Teravainen,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:16:36Z,2,07:28,12:32,Faceoff,n/a,20.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:17:17Z,2,08:02,11:58,Hit,n/a,-62.0,-41.0,Jack Roslovic,Hitter,Winnipeg Jets,Brock McGinn,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:17:41Z,2,08:09,11:51,Penalty,Tripping,-45.0,-16.0,Mathieu Perreault,PenaltyOn,Winnipeg Jets,Brock McGinn,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:18:10Z,2,08:09,11:51,Faceoff,n/a,69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:18:36Z,2,08:31,11:29,Missed Shot,n/a,86.0,10.0,Sebastian Aho,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:18:42Z,2,08:35,11:25,Missed Shot,n/a,66.0,-3.0,Justin Williams,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:19:42Z,2,09:37,10:23,Blocked Shot,n/a,79.0,2.0,Dmitry Kulikov,Blocker,Winnipeg Jets,Lucas Wallmark,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:20:05Z,2,10:00,10:00,Missed Shot,n/a,55.0,-7.0,Nino Niederreiter,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:20:54Z,2,10:49,09:11,Missed Shot,n/a,-80.0,21.0,Blake Wheeler,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:21:01Z,2,10:54,09:06,Takeaway,n/a,-72.0,-40.0,Brett Pesce,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:21:18Z,2,11:13,08:47,Shot,Snap Shot,72.0,35.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:21:59Z,2,11:52,08:08,Giveaway,n/a,93.0,21.0,Neal Pionk,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:22:06Z,2,11:53,08:07,Takeaway,n/a,64.0,29.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:22:22Z,2,12:16,07:44,Missed Shot,n/a,-36.0,-27.0,Anthony Bitetto,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:22:30Z,2,12:23,07:37,Takeaway,n/a,-92.0,33.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:22:55Z,2,12:47,07:13,Takeaway,n/a,19.0,-40.0,Anthony Bitetto,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:23:01Z,2,12:56,07:04,Shot,Deflected,-27.0,-40.0,Mason Appleton,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:23:19Z,2,13:11,06:49,Takeaway,n/a,-59.0,40.0,Mason Appleton,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:23:59Z,2,13:34,06:26,Faceoff,n/a,69.0,22.0,Blake Wheeler,Winner,Winnipeg Jets,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:24:17Z,2,13:41,06:19,Giveaway,n/a,10.0,-25.0,Blake Wheeler,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:24:29Z,2,13:53,06:07,Hit,n/a,-63.0,-40.0,Nikolaj Ehlers,Hitter,Winnipeg Jets,Justin Williams,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:24:43Z,2,14:06,05:54,Giveaway,n/a,98.0,16.0,Josh Morrissey,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:24:45Z,2,14:11,05:49,Missed Shot,n/a,78.0,-25.0,Haydn Fleury,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:25:07Z,2,14:33,05:27,Blocked Shot,n/a,-80.0,-5.0,Andrei Svechnikov,Blocker,Carolina Hurricanes,Josh Morrissey,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:25:21Z,2,14:44,05:16,Giveaway,n/a,53.0,-39.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:25:22Z,2,14:46,05:14,Shot,Wrist Shot,77.0,9.0,Jordan Staal,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:25:58Z,2,14:48,05:12,Shot,Wrist Shot,71.0,-1.0,Joel Edmundson,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:27:24Z,2,14:49,05:11,Faceoff,n/a,69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:27:59Z,2,15:01,04:59,Hit,n/a,99.0,10.0,Luca Sbisa,Hitter,Winnipeg Jets,Lucas Wallmark,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:28:17Z,2,15:13,04:47,Penalty,Hi-sticking,83.0,-34.0,Dmitry Kulikov,PenaltyOn,Winnipeg Jets,Ryan Dzingel,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:28:42Z,2,15:13,04:47,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:29:08Z,2,15:33,04:27,Giveaway,n/a,77.0,-38.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:29:40Z,2,16:07,03:53,Shot,Slap Shot,31.0,-12.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:30:01Z,2,16:11,03:49,Faceoff,n/a,69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:30:38Z,2,16:34,03:26,Missed Shot,n/a,60.0,-4.0,Nino Niederreiter,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:31:31Z,2,17:25,02:35,Giveaway,n/a,71.0,-40.0,Kyle Connor,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:31:42Z,2,17:38,02:22,Missed Shot,n/a,69.0,18.0,Warren Foegele,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:31:53Z,2,17:41,02:19,Shot,Wrist Shot,73.0,-1.0,Warren Foegele,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:33:28Z,2,17:42,02:18,Faceoff,n/a,69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:34:18Z,2,17:57,02:03,Blocked Shot,n/a,-43.0,-2.0,Andrei Svechnikov,Blocker,Carolina Hurricanes,Josh Morrissey,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:34:27Z,2,18:04,01:56,Blocked Shot,n/a,-79.0,4.0,Joel Edmundson,Blocker,Carolina Hurricanes,Kyle Connor,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:34:47Z,2,18:24,01:36,Shot,Wrist Shot,-75.0,-13.0,Patrik Laine,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:34:53Z,2,18:25,01:35,Blocked Shot,n/a,-84.0,-6.0,Jaccob Slavin,Blocker,Carolina Hurricanes,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:35:02Z,2,18:40,01:20,Hit,n/a,-97.0,4.0,Nino Niederreiter,Hitter,Carolina Hurricanes,Mark Scheifele,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:35:01Z,2,18:41,01:19,Missed Shot,n/a,-79.0,-2.0,Mark Scheifele,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:35:36Z,2,19:14,00:46,Blocked Shot,n/a,-55.0,13.0,Teuvo Teravainen,Blocker,Carolina Hurricanes,Luca Sbisa,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:36:08Z,2,19:43,00:17,Penalty,Slashing,-63.0,-15.0,Joel Edmundson,PenaltyOn,Carolina Hurricanes,Blake Wheeler,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:36:37Z,2,19:43,00:17,Faceoff,n/a,-69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:55:29Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:56:00Z,3,00:17,19:43,Giveaway,n/a,98.0,3.0,Petr Mrazek,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:56:13Z,3,00:30,19:30,Takeaway,n/a,-48.0,-37.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:56:24Z,3,00:42,19:18,Shot,Slap Shot,-10.0,-18.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:56:54Z,3,01:10,18:50,Shot,Wrist Shot,-69.0,11.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:57:17Z,3,01:35,18:25,Takeaway,n/a,14.0,-40.0,Jack Roslovic,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:57:30Z,3,01:47,18:13,Giveaway,n/a,-97.0,5.0,Jordan Martinook,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:57:38Z,3,01:57,18:03,Shot,Snap Shot,45.0,4.0,Sami Niku,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:57:43Z,3,02:00,18:00,Hit,n/a,56.0,-38.0,Jack Roslovic,Hitter,Winnipeg Jets,Warren Foegele,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:58:04Z,3,02:20,17:40,Giveaway,n/a,96.0,-8.0,Andrew Copp,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:58:20Z,3,02:32,17:28,Hit,n/a,95.0,-27.0,Andrew Copp,Hitter,Winnipeg Jets,Brett Pesce,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:58:59Z,3,02:48,17:12,Faceoff,n/a,20.0,-22.0,Jordan Martinook,Winner,Carolina Hurricanes,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:59:26Z,3,03:11,16:49,Blocked Shot,n/a,-40.0,-20.0,Mason Appleton,Blocker,Winnipeg Jets,Haydn Fleury,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:59:53Z,3,03:12,16:48,Faceoff,n/a,-69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:59:58Z,3,03:16,16:44,Shot,Snap Shot,-60.0,-12.0,Jordan Staal,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:00:24Z,3,03:41,16:19,Hit,n/a,97.0,-18.0,Trevor van Riemsdyk,Hitter,Carolina Hurricanes,Mark Scheifele,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:00:38Z,3,03:56,16:04,Missed Shot,n/a,41.0,-16.0,Luca Sbisa,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:01:20Z,3,04:36,15:24,Takeaway,n/a,30.0,-40.0,Jake Gardiner,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:01:48Z,3,05:04,14:56,Hit,n/a,-27.0,22.0,Jack Roslovic,Hitter,Winnipeg Jets,Brett Pesce,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:02:01Z,3,05:18,14:42,Shot,Wrist Shot,-32.0,6.0,Haydn Fleury,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:02:08Z,3,05:24,14:36,Giveaway,n/a,95.0,10.0,Petr Mrazek,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:02:28Z,3,05:45,14:15,Missed Shot,n/a,-81.0,-5.0,Ryan Dzingel,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:02:32Z,3,05:49,14:11,Hit,n/a,-89.0,36.0,Anthony Bitetto,Hitter,Winnipeg Jets,Martin Necas,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:02:46Z,3,06:03,13:57,Hit,n/a,82.0,39.0,Sami Niku,Hitter,Winnipeg Jets,Joel Edmundson,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:03:09Z,3,06:26,13:34,Hit,n/a,-9.0,40.0,Patrik Laine,Hitter,Winnipeg Jets,Trevor van Riemsdyk,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:03:40Z,3,06:46,13:14,Shot,Wrist Shot,-7.0,25.0,Warren Foegele,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:05:41Z,3,06:48,13:12,Faceoff,n/a,-69.0,22.0,Jordan Martinook,Winner,Carolina Hurricanes,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:06:11Z,3,07:07,12:53,Hit,n/a,-91.0,-31.0,Luca Sbisa,Hitter,Winnipeg Jets,Brock McGinn,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:06:21Z,3,07:10,12:50,Penalty,Interference,-84.0,11.0,Mason Appleton,PenaltyOn,Winnipeg Jets,Justin Williams,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:06:56Z,3,07:10,12:50,Faceoff,n/a,-69.0,-22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:09:24Z,3,08:43,11:17,Faceoff,n/a,69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:09:41Z,3,08:46,11:14,Missed Shot,n/a,42.0,-17.0,Luca Sbisa,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:09:47Z,3,08:54,11:06,Takeaway,n/a,95.0,29.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:10:04Z,3,09:13,10:47,Goal,Wrist Shot,-86.0,6.0,Justin Williams,Scorer,Carolina Hurricanes,Andrei Svechnikov,Assist,Carolina Hurricanes,Teuvo Teravainen,Assist,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets
+2020-01-22T02:10:57Z,3,09:13,10:47,Faceoff,n/a,0.0,0.0,Lucas Wallmark,Winner,Carolina Hurricanes,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:11:21Z,3,09:36,10:24,Giveaway,n/a,-59.0,41.0,Nikolaj Ehlers,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:11:48Z,3,09:45,10:15,Faceoff,n/a,20.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:12:09Z,3,10:00,10:00,Shot,Wrist Shot,-78.0,-9.0,Jordan Staal,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:12:35Z,3,10:02,09:58,Missed Shot,n/a,-82.0,-4.0,Warren Foegele,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:13:02Z,3,10:03,09:57,Shot,Wrist Shot,-79.0,4.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:15:33Z,3,10:04,09:56,Shot,Wrist Shot,-82.0,2.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:15:13Z,3,10:05,09:55,Shot,Wrist Shot,-85.0,5.0,Warren Foegele,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:12:34Z,3,10:06,09:54,Penalty,Roughing,-94.0,16.0,Andrei Svechnikov,PenaltyOn,Carolina Hurricanes,Mark Scheifele,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:12:52Z,3,10:06,09:54,Penalty,Roughing,-93.0,18.0,Mark Scheifele,PenaltyOn,Winnipeg Jets,Andrei Svechnikov,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:15:34Z,3,10:06,09:54,Faceoff,n/a,-69.0,22.0,Warren Foegele,Winner,Carolina Hurricanes,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:15:30Z,3,10:33,09:27,Giveaway,n/a,-20.0,-39.0,Warren Foegele,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:15:39Z,3,10:40,09:20,Giveaway,n/a,-76.0,39.0,Neal Pionk,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:15:48Z,3,10:50,09:10,Shot,Wrist Shot,-83.0,6.0,Warren Foegele,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:16:02Z,3,11:03,08:57,Giveaway,n/a,38.0,-38.0,Kyle Connor,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:16:19Z,3,11:22,08:38,Missed Shot,n/a,64.0,26.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:16:30Z,3,11:33,08:27,Shot,Backhand,-79.0,3.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:16:39Z,3,11:37,08:23,Hit,n/a,-98.0,16.0,Andrew Copp,Hitter,Winnipeg Jets,Teuvo Teravainen,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:16:59Z,3,11:40,08:20,Penalty,Hooking,-68.0,-1.0,Andrew Copp,PenaltyOn,Winnipeg Jets,Teuvo Teravainen,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:17:31Z,3,11:40,08:20,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Winnipeg Jets,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:17:43Z,3,11:43,08:17,Shot,Snap Shot,-52.0,10.0,Martin Necas,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:17:53Z,3,11:44,08:16,Shot,Deflected,-78.0,1.0,Justin Williams,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:18:00Z,3,11:45,08:15,Faceoff,n/a,-69.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:18:31Z,3,12:00,08:00,Missed Shot,n/a,-50.0,-8.0,Jaccob Slavin,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:18:59Z,3,12:27,07:33,Shot,Tip-In,-80.0,2.0,Justin Williams,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:20:02Z,3,13:31,06:29,Blocked Shot,n/a,-67.0,-9.0,Nicholas Shore,Blocker,Winnipeg Jets,Ryan Dzingel,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:20:07Z,3,13:34,06:26,Giveaway,n/a,-55.0,-22.0,Nino Niederreiter,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:20:29Z,3,13:47,06:13,Hit,n/a,13.0,-38.0,Nino Niederreiter,Hitter,Carolina Hurricanes,Gabriel Bourque,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:20:27Z,3,13:48,06:12,Missed Shot,n/a,52.0,-17.0,Gabriel Bourque,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:20:52Z,3,14:19,05:41,Missed Shot,n/a,-77.0,-3.0,Jordan Staal,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:21:08Z,3,14:37,05:23,Blocked Shot,n/a,-76.0,-15.0,Sami Niku,Blocker,Winnipeg Jets,Warren Foegele,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:21:26Z,3,14:53,05:07,Takeaway,n/a,-25.0,41.0,Jordan Martinook,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:21:48Z,3,15:16,04:44,Shot,Wrist Shot,-86.0,-8.0,Justin Williams,Shooter,Carolina Hurricanes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:23:50Z,3,15:17,04:43,Faceoff,n/a,-69.0,-22.0,Jordan Martinook,Winner,Carolina Hurricanes,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:24:14Z,3,15:24,04:36,Hit,n/a,-88.0,35.0,Jordan Martinook,Hitter,Carolina Hurricanes,Nicholas Shore,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:24:28Z,3,15:37,04:23,Hit,n/a,97.0,-1.0,Nicholas Shore,Hitter,Winnipeg Jets,Jordan Martinook,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:24:37Z,3,15:41,04:19,Giveaway,n/a,51.0,39.0,Justin Williams,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:24:34Z,3,15:48,04:12,Shot,Slap Shot,37.0,-3.0,Sami Niku,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:24:50Z,3,16:02,03:58,Takeaway,n/a,55.0,31.0,Haydn Fleury,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:25:02Z,3,16:12,03:48,Giveaway,n/a,31.0,-35.0,Andrew Copp,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:25:36Z,3,16:31,03:29,Blocked Shot,n/a,74.0,-7.0,Andrei Svechnikov,Blocker,Carolina Hurricanes,Jack Roslovic,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:25:50Z,3,16:51,03:09,Missed Shot,n/a,-37.0,32.0,Jordan Staal,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:26:15Z,3,17:20,02:40,Penalty,Fighting,84.0,-9.0,Brett Pesce,PenaltyOn,Carolina Hurricanes,Mark Scheifele,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:26:27Z,3,17:20,02:40,Penalty,Fighting,89.0,-7.0,Mark Scheifele,PenaltyOn,Winnipeg Jets,Brett Pesce,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:29:01Z,3,17:20,02:40,Faceoff,n/a,69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:29:53Z,3,17:20,02:40,Penalty,Tripping,83.0,-1.0,Petr Mrazek,PenaltyOn,Carolina Hurricanes,Mark Scheifele,DrewBy,Carolina Hurricanes,Warren Foegele,ServedBy,Winnipeg Jets,n/a,n/a,n/a
+2020-01-22T02:30:06Z,3,17:20,02:40,Penalty,Interference,78.0,-10.0,Mark Scheifele,PenaltyOn,Winnipeg Jets,Brett Pesce,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:29:32Z,3,17:27,02:33,Faceoff,n/a,69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:31:14Z,3,18:14,01:46,Penalty,Delaying Game - Puck over glass,66.0,4.0,Jaccob Slavin,PenaltyOn,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:32:28Z,3,18:14,01:46,Faceoff,n/a,69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:33:03Z,3,18:33,01:27,Missed Shot,n/a,80.0,-2.0,Kyle Connor,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:33:10Z,3,18:39,01:21,Shot,Wrist Shot,81.0,9.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:33:18Z,3,18:41,01:19,Missed Shot,n/a,68.0,-9.0,Jack Roslovic,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:34:05Z,3,19:32,00:28,Takeaway,n/a,26.0,-38.0,Haydn Fleury,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:34:07Z,3,19:35,00:25,Missed Shot,n/a,48.0,-25.0,Haydn Fleury,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:34:31Z,3,19:56,00:04,Penalty,Tripping,-38.0,41.0,Neal Pionk,PenaltyOn,Winnipeg Jets,Sebastian Aho,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:35:04Z,3,19:56,00:04,Faceoff,n/a,-69.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a

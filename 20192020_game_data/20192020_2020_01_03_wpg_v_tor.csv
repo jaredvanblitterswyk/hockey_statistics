@@ -1,0 +1,269 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-03T01:08:13Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Blake Wheeler,Winner,Winnipeg Jets,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:08:34Z,1,00:08,19:52,Hit,n/a,-79.0,38.0,Jack Roslovic,Hitter,Winnipeg Jets,Martin Marincin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:08:42Z,1,00:15,19:45,Hit,n/a,-85.0,-36.0,Nikolaj Ehlers,Hitter,Winnipeg Jets,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:08:50Z,1,00:24,19:36,Giveaway,n/a,-89.0,9.0,Martin Marincin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:09:26Z,1,01:00,19:00,Takeaway,n/a,36.0,-37.0,Tucker Poolman,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:09:48Z,1,01:22,18:38,Shot,Wrist Shot,-69.0,-17.0,Kyle Connor,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:09:56Z,1,01:30,18:30,Giveaway,n/a,-34.0,-12.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:11:03Z,1,02:37,17:23,Hit,n/a,34.0,-40.0,Frederik Gauthier,Hitter,Toronto Maple Leafs,Anthony Bitetto,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:11:22Z,1,02:40,17:20,Faceoff,n/a,-20.0,-22.0,Adam Brooks,Winner,Toronto Maple Leafs,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:11:57Z,1,02:47,17:13,Faceoff,n/a,-69.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:12:10Z,1,02:52,17:08,Missed Shot,n/a,-32.0,28.0,Tucker Poolman,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:12:14Z,1,02:56,17:04,Hit,n/a,-85.0,-37.0,Mason Appleton,Hitter,Winnipeg Jets,Adam Brooks,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:12:44Z,1,03:20,16:40,Giveaway,n/a,98.0,4.0,Connor Hellebuyck,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:12:43Z,1,03:24,16:36,Goal,Wrist Shot,69.0,6.0,William Nylander,Scorer,Toronto Maple Leafs,Adam Brooks,Assist,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a
+2020-01-03T01:13:28Z,1,03:24,16:36,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:14:08Z,1,03:44,16:16,Faceoff,n/a,-20.0,22.0,Blake Wheeler,Winner,Winnipeg Jets,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:14:21Z,1,04:02,15:58,Hit,n/a,58.0,40.0,Neal Pionk,Hitter,Winnipeg Jets,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:14:24Z,1,04:04,15:56,Missed Shot,n/a,38.0,-29.0,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:14:27Z,1,04:08,15:52,Hit,n/a,69.0,39.0,Jack Roslovic,Hitter,Winnipeg Jets,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:14:32Z,1,04:09,15:51,Missed Shot,n/a,70.0,8.0,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:14:39Z,1,04:10,15:50,Missed Shot,n/a,80.0,-20.0,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:14:49Z,1,04:28,15:32,Shot,Wrist Shot,-80.0,-4.0,Mark Scheifele,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:15:06Z,1,04:29,15:31,Shot,Slap Shot,-84.0,-1.0,Mark Scheifele,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:15:16Z,1,04:30,15:30,Faceoff,n/a,-69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:15:40Z,1,04:40,15:20,Faceoff,n/a,20.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:15:55Z,1,04:50,15:10,Giveaway,n/a,96.0,-22.0,Tucker Poolman,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:16:03Z,1,04:58,15:02,Shot,Wrist Shot,-71.0,5.0,Patrik Laine,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:16:22Z,1,05:17,14:43,Shot,Wrist Shot,65.0,-1.0,Auston Matthews,Shooter,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:16:27Z,1,05:22,14:38,Takeaway,n/a,93.0,17.0,Zach Hyman,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:16:30Z,1,05:25,14:35,Missed Shot,n/a,66.0,0.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:16:36Z,1,05:31,14:29,Shot,Slap Shot,-30.0,12.0,Patrik Laine,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:16:41Z,1,05:36,14:24,Shot,Wrist Shot,-48.0,-15.0,Patrik Laine,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:16:46Z,1,05:41,14:19,Takeaway,n/a,56.0,13.0,Pierre Engvall,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:16:52Z,1,05:47,14:13,Blocked Shot,n/a,53.0,-8.0,Gabriel Bourque,Blocker,Winnipeg Jets,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:16:54Z,1,05:48,14:12,Hit,n/a,69.0,38.0,Adam Lowry,Hitter,Winnipeg Jets,Jason Spezza,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:17:04Z,1,05:59,14:01,Hit,n/a,39.0,40.0,Patrik Laine,Hitter,Winnipeg Jets,Pierre Engvall,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:17:06Z,1,06:01,13:59,Blocked Shot,n/a,57.0,10.0,Adam Lowry,Blocker,Winnipeg Jets,Martin Marincin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:17:08Z,1,06:03,13:57,Hit,n/a,93.0,31.0,Adam Lowry,Hitter,Winnipeg Jets,Pierre Engvall,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:17:32Z,1,06:27,13:33,Hit,n/a,98.0,-8.0,Mason Marchment,Hitter,Toronto Maple Leafs,Luca Sbisa,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:17:43Z,1,06:38,13:22,Hit,n/a,5.0,-39.0,Jansen Harkins,Hitter,Winnipeg Jets,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:18:18Z,1,07:13,12:47,Hit,n/a,-31.0,40.0,Morgan Rielly,Hitter,Toronto Maple Leafs,Nikolaj Ehlers,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:18:53Z,1,07:30,12:30,Faceoff,n/a,69.0,22.0,Blake Wheeler,Winner,Winnipeg Jets,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:19:23Z,1,07:38,12:22,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:20:26Z,1,08:22,11:38,Shot,Wrist Shot,71.0,-25.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:20:35Z,1,08:24,11:36,Blocked Shot,n/a,80.0,1.0,Tucker Poolman,Blocker,Winnipeg Jets,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:20:56Z,1,08:52,11:08,Missed Shot,n/a,-71.0,14.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:21:19Z,1,08:58,11:02,Giveaway,n/a,50.0,-11.0,Luca Sbisa,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:21:05Z,1,09:00,11:00,Goal,Wrist Shot,80.0,-6.0,Kasperi Kapanen,Scorer,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:21:49Z,1,09:00,11:00,Faceoff,n/a,0.0,0.0,Adam Lowry,Winner,Winnipeg Jets,Adam Brooks,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:21:56Z,1,09:10,10:50,Hit,n/a,-63.0,41.0,Adam Lowry,Hitter,Winnipeg Jets,Mason Marchment,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:22:02Z,1,09:16,10:44,Shot,Wrist Shot,58.0,-28.0,Frederik Gauthier,Shooter,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:22:29Z,1,09:43,10:17,Shot,Wrist Shot,66.0,-24.0,John Tavares,Shooter,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:22:43Z,1,09:57,10:03,Shot,Wrist Shot,-60.0,37.0,Jack Roslovic,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:23:12Z,1,10:27,09:33,Blocked Shot,n/a,-66.0,-6.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Nikolaj Ehlers,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:23:57Z,1,10:28,09:32,Penalty,Tripping,-51.0,-6.0,Tyson Barrie,PenaltyOn,Toronto Maple Leafs,Nikolaj Ehlers,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:25:20Z,1,10:28,09:32,Faceoff,n/a,-69.0,22.0,Pierre Engvall,Winner,Toronto Maple Leafs,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:26:03Z,1,10:53,09:07,Giveaway,n/a,-36.0,-36.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:26:06Z,1,10:56,09:04,Shot,Slap Shot,-64.0,-25.0,Patrik Laine,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:26:28Z,1,11:17,08:43,Shot,Wrist Shot,-56.0,39.0,Martin Marincin,Shooter,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:26:41Z,1,11:30,08:30,Shot,Wrist Shot,-56.0,-21.0,Patrik Laine,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:27:00Z,1,11:31,08:29,Faceoff,n/a,-69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:27:24Z,1,11:47,08:13,Blocked Shot,n/a,-76.0,1.0,Justin Holl,Blocker,Toronto Maple Leafs,Mark Scheifele,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:27:35Z,1,11:59,08:01,Shot,Slap Shot,-60.0,-29.0,Patrik Laine,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:27:39Z,1,12:03,07:57,Giveaway,n/a,-41.0,-19.0,Patrik Laine,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:27:50Z,1,12:14,07:46,Giveaway,n/a,-93.0,-9.0,Justin Holl,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:28:01Z,1,12:24,07:36,Takeaway,n/a,-42.0,40.0,Zach Hyman,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:28:23Z,1,12:47,07:13,Blocked Shot,n/a,-67.0,-4.0,Martin Marincin,Blocker,Toronto Maple Leafs,Josh Morrissey,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:28:40Z,1,13:03,06:57,Shot,Wrist Shot,71.0,17.0,John Tavares,Shooter,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:28:47Z,1,13:10,06:50,Giveaway,n/a,33.0,-20.0,Luca Sbisa,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:29:18Z,1,13:17,06:43,Missed Shot,n/a,33.0,3.0,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:31:03Z,1,13:18,06:42,Faceoff,n/a,69.0,22.0,Adam Lowry,Winner,Winnipeg Jets,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:31:27Z,1,13:32,06:28,Hit,n/a,-89.0,-33.0,Tyson Barrie,Hitter,Toronto Maple Leafs,Adam Lowry,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:31:34Z,1,13:39,06:21,Hit,n/a,43.0,40.0,Tucker Poolman,Hitter,Winnipeg Jets,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:31:38Z,1,13:43,06:17,Hit,n/a,68.0,39.0,Gabriel Bourque,Hitter,Winnipeg Jets,Mitchell Marner,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:31:43Z,1,13:48,06:12,Shot,Wrist Shot,-48.0,-22.0,Josh Morrissey,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:32:17Z,1,14:21,05:39,Missed Shot,n/a,73.0,37.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:32:37Z,1,14:41,05:19,Hit,n/a,13.0,40.0,Patrik Laine,Hitter,Winnipeg Jets,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:33:47Z,1,15:52,04:08,Hit,n/a,98.0,-14.0,Anthony Bitetto,Hitter,Winnipeg Jets,Adam Brooks,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:34:09Z,1,16:14,03:46,Hit,n/a,29.0,38.0,Morgan Rielly,Hitter,Toronto Maple Leafs,Mason Appleton,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:34:41Z,1,16:37,03:23,Missed Shot,n/a,84.0,-7.0,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:34:50Z,1,16:45,03:15,Blocked Shot,n/a,77.0,4.0,Mathieu Perreault,Blocker,Winnipeg Jets,Travis Dermott,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:36:09Z,1,16:55,03:05,Missed Shot,n/a,80.0,11.0,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:36:51Z,1,16:56,03:04,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:37:17Z,1,17:10,02:50,Giveaway,n/a,31.0,38.0,Luca Sbisa,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:37:46Z,1,17:39,02:21,Shot,Snap Shot,-62.0,-15.0,Kyle Connor,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:38:12Z,1,17:40,02:20,Faceoff,n/a,-69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:38:49Z,1,17:54,02:06,Faceoff,n/a,-69.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:39:15Z,1,18:07,01:53,Takeaway,n/a,32.0,12.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:39:37Z,1,18:15,01:45,Faceoff,n/a,-69.0,-22.0,Adam Lowry,Winner,Winnipeg Jets,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:39:50Z,1,18:18,01:42,Shot,Deflected,-66.0,-7.0,Mathieu Perreault,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:40:07Z,1,18:19,01:41,Faceoff,n/a,-69.0,-22.0,Adam Lowry,Winner,Winnipeg Jets,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:40:17Z,1,18:23,01:37,Blocked Shot,n/a,-62.0,-11.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Luca Sbisa,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:40:34Z,1,18:39,01:21,Shot,Backhand,-84.0,9.0,Gabriel Bourque,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:40:54Z,1,18:40,01:20,Faceoff,n/a,-69.0,22.0,Patrik Laine,Winner,Winnipeg Jets,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:41:38Z,1,18:42,01:18,Missed Shot,n/a,-35.0,27.0,Tucker Poolman,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:41:16Z,1,18:51,01:09,Missed Shot,n/a,-38.0,-17.0,Josh Morrissey,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:41:20Z,1,18:56,01:04,Giveaway,n/a,-79.0,39.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:41:45Z,1,19:19,00:41,Takeaway,n/a,-66.0,41.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:42:29Z,1,19:36,00:24,Faceoff,n/a,-20.0,22.0,Blake Wheeler,Winner,Winnipeg Jets,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:01:14Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Blake Wheeler,Winner,Winnipeg Jets,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:01:36Z,2,00:24,19:36,Giveaway,n/a,-32.0,-21.0,Jack Roslovic,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:02:10Z,2,00:57,19:03,Shot,Wrist Shot,76.0,-36.0,Patrik Laine,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:02:47Z,2,01:35,18:25,Blocked Shot,n/a,73.0,28.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Mathieu Perreault,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:03:23Z,2,01:49,18:11,Faceoff,n/a,-20.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:03:36Z,2,02:00,18:00,Giveaway,n/a,-46.0,39.0,Connor Hellebuyck,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:03:53Z,2,02:17,17:43,Giveaway,n/a,86.0,8.0,Travis Dermott,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:03:59Z,2,02:23,17:37,Shot,Wrist Shot,74.0,26.0,Jansen Harkins,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:04:03Z,2,02:26,17:34,Hit,n/a,97.0,13.0,Travis Dermott,Hitter,Toronto Maple Leafs,Mason Appleton,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:04:34Z,2,02:34,17:26,Penalty,Delaying Game - Puck over glass,72.0,-41.0,Jason Spezza,PenaltyOn,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:04:52Z,2,02:34,17:26,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:05:16Z,2,02:50,17:10,Faceoff,n/a,20.0,22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:06:22Z,2,03:45,16:15,Goal,Wrist Shot,66.0,-21.0,Kyle Connor,Scorer,Winnipeg Jets,Mark Scheifele,Assist,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a
+2020-01-03T02:07:04Z,2,03:45,16:15,Faceoff,n/a,0.0,0.0,Adam Lowry,Winner,Winnipeg Jets,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:07:07Z,2,03:52,16:08,Shot,Wrist Shot,-3.0,21.0,Neal Pionk,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:07:19Z,2,03:55,16:05,Takeaway,n/a,90.0,10.0,Gabriel Bourque,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:07:13Z,2,03:56,16:04,Shot,Wrist Shot,82.0,3.0,Adam Lowry,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:07:33Z,2,04:18,15:42,Shot,Wrist Shot,64.0,-19.0,Neal Pionk,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:08:06Z,2,04:28,15:32,Faceoff,n/a,-20.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:08:37Z,2,05:00,15:00,Giveaway,n/a,32.0,-39.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:08:46Z,2,05:09,14:51,Shot,Wrist Shot,36.0,-25.0,Tucker Poolman,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:09:31Z,2,05:10,14:50,Faceoff,n/a,69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:09:38Z,2,05:15,14:45,Shot,Wrist Shot,36.0,-28.0,Patrik Laine,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:09:52Z,2,05:25,14:35,Missed Shot,n/a,83.0,-12.0,Carl Dahlstrom,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:09:52Z,2,05:27,14:33,Missed Shot,n/a,80.0,7.0,Mark Scheifele,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:09:59Z,2,05:36,14:24,Giveaway,n/a,31.0,-39.0,Tyson Barrie,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:10:38Z,2,06:15,13:45,Hit,n/a,16.0,42.0,Cody Ceci,Hitter,Toronto Maple Leafs,Jansen Harkins,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:11:05Z,2,06:42,13:18,Shot,Snap Shot,86.0,-15.0,Nicholas Shore,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:13:30Z,2,06:44,13:16,Faceoff,n/a,69.0,-22.0,Blake Wheeler,Winner,Winnipeg Jets,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:13:46Z,2,07:10,12:50,Shot,Wrist Shot,40.0,20.0,Josh Morrissey,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:14:11Z,2,07:11,12:49,Faceoff,n/a,69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:14:50Z,2,07:41,12:19,Blocked Shot,n/a,79.0,1.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:14:50Z,2,07:44,12:16,Goal,Wrist Shot,87.0,-22.0,Patrik Laine,Scorer,Winnipeg Jets,Neal Pionk,Assist,Winnipeg Jets,Connor Hellebuyck,Assist,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs
+2020-01-03T02:15:41Z,2,07:44,12:16,Faceoff,n/a,0.0,0.0,Jason Spezza,Winner,Toronto Maple Leafs,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:15:37Z,2,07:55,12:05,Hit,n/a,-6.0,-40.0,Mathieu Perreault,Hitter,Winnipeg Jets,Kasperi Kapanen,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:16:05Z,2,08:24,11:36,Giveaway,n/a,59.0,-39.0,Pierre Engvall,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:16:08Z,2,08:25,11:35,Shot,Slap Shot,37.0,-29.0,Carl Dahlstrom,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:16:37Z,2,08:26,11:34,Faceoff,n/a,69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Jack Roslovic,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:17:06Z,2,08:44,11:16,Giveaway,n/a,-43.0,39.0,Josh Morrissey,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:17:08Z,2,08:46,11:14,Missed Shot,n/a,-62.0,14.0,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:17:27Z,2,09:00,11:00,Missed Shot,n/a,-80.0,-1.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:17:27Z,2,09:02,10:58,Goal,Tip-In,-84.0,0.0,Travis Dermott,Scorer,Toronto Maple Leafs,Alexander Kerfoot,Assist,Toronto Maple Leafs,William Nylander,Assist,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets
+2020-01-03T02:19:15Z,2,09:02,10:58,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:18:22Z,2,09:10,10:50,Hit,n/a,16.0,-40.0,Morgan Rielly,Hitter,Toronto Maple Leafs,Patrik Laine,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:18:33Z,2,09:20,10:40,Missed Shot,n/a,49.0,-30.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:19:15Z,2,09:34,10:26,Faceoff,n/a,-69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:19:28Z,2,09:37,10:23,Goal,Slap Shot,-48.0,-18.0,Pierre Engvall,Scorer,Toronto Maple Leafs,Kasperi Kapanen,Assist,Toronto Maple Leafs,Jason Spezza,Assist,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets
+2020-01-03T02:19:58Z,2,09:37,10:23,Faceoff,n/a,0.0,0.0,Adam Lowry,Winner,Winnipeg Jets,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:20:07Z,2,09:42,10:18,Blocked Shot,n/a,81.0,2.0,Justin Holl,Blocker,Toronto Maple Leafs,Adam Lowry,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:20:07Z,2,09:44,10:16,Giveaway,n/a,95.0,-4.0,Frederik Andersen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:20:16Z,2,09:56,10:04,Hit,n/a,64.0,40.0,Adam Lowry,Hitter,Winnipeg Jets,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:20:25Z,2,10:02,09:58,Shot,Wrist Shot,-64.0,13.0,Jason Spezza,Shooter,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:20:44Z,2,10:21,09:39,Takeaway,n/a,-51.0,-40.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:21:04Z,2,10:34,09:26,Penalty,Hooking,67.0,-40.0,Nicholas Shore,PenaltyOn,Winnipeg Jets,John Tavares,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:23:08Z,2,10:34,09:26,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:23:22Z,2,10:42,09:18,Shot,Slap Shot,-56.0,25.0,Auston Matthews,Shooter,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:23:29Z,2,10:49,09:11,Giveaway,n/a,-34.0,-13.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:24:12Z,2,11:32,08:28,Shot,Slap Shot,36.0,17.0,Luca Sbisa,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:24:39Z,2,11:59,08:01,Shot,Slap Shot,-33.0,-5.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:24:47Z,2,12:03,07:57,Shot,Slap Shot,-55.0,-38.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:25:27Z,2,12:04,07:56,Faceoff,n/a,-69.0,-22.0,Blake Wheeler,Winner,Winnipeg Jets,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:25:23Z,2,12:12,07:48,Shot,Wrist Shot,-54.0,-41.0,Tucker Poolman,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:25:38Z,2,12:27,07:33,Takeaway,n/a,-41.0,40.0,Blake Wheeler,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:25:43Z,2,12:31,07:29,Shot,Deflected,80.0,0.0,Mason Appleton,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:26:02Z,2,12:48,07:12,Goal,Wrist Shot,62.0,10.0,Mark Scheifele,Scorer,Winnipeg Jets,Kyle Connor,Assist,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a
+2020-01-03T02:28:05Z,2,12:48,07:12,Faceoff,n/a,0.0,0.0,Mark Scheifele,Winner,Winnipeg Jets,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:26:49Z,2,12:59,07:01,Shot,Wrist Shot,51.0,-13.0,Patrik Laine,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:26:54Z,2,13:02,06:58,Shot,Slap Shot,49.0,-20.0,Luca Sbisa,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:28:05Z,2,13:03,06:57,Faceoff,n/a,69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:27:32Z,2,13:18,06:42,Blocked Shot,n/a,-71.0,-10.0,Neal Pionk,Blocker,Winnipeg Jets,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:27:42Z,2,13:27,06:33,Blocked Shot,n/a,-64.0,-8.0,Mark Scheifele,Blocker,Winnipeg Jets,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:27:47Z,2,13:31,06:29,Giveaway,n/a,-29.0,5.0,Kyle Connor,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:28:00Z,2,13:45,06:15,Shot,Wrist Shot,71.0,31.0,Kyle Connor,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:28:20Z,2,13:46,06:14,Blocked Shot,n/a,81.0,4.0,Martin Marincin,Blocker,Toronto Maple Leafs,Mark Scheifele,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:28:46Z,2,13:47,06:13,Faceoff,n/a,69.0,-22.0,Adam Lowry,Winner,Winnipeg Jets,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:29:11Z,2,14:11,05:49,Shot,Wrist Shot,71.0,-34.0,Tucker Poolman,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:29:15Z,2,14:16,05:44,Shot,Slap Shot,63.0,40.0,Mathieu Perreault,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:29:24Z,2,14:25,05:35,Hit,n/a,-46.0,-40.0,Gabriel Bourque,Hitter,Winnipeg Jets,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:29:35Z,2,14:36,05:24,Shot,Wrist Shot,44.0,-31.0,Mathieu Perreault,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:29:55Z,2,14:55,05:05,Giveaway,n/a,-72.0,40.0,Gabriel Bourque,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:29:59Z,2,15:00,05:00,Shot,Slap Shot,-68.0,22.0,Jason Spezza,Shooter,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:30:02Z,2,15:03,04:57,Giveaway,n/a,-36.0,37.0,Gabriel Bourque,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:30:50Z,2,15:40,04:20,Penalty,Slashing,-51.0,22.0,Mathieu Perreault,PenaltyOn,Winnipeg Jets,Kasperi Kapanen,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:32:51Z,2,15:40,04:20,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:34:29Z,2,16:52,03:08,Goal,Slap Shot,-63.0,-22.0,Mitchell Marner,Scorer,Toronto Maple Leafs,Tyson Barrie,Assist,Toronto Maple Leafs,Auston Matthews,Assist,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets
+2020-01-03T02:35:16Z,2,16:52,03:08,Faceoff,n/a,0.0,0.0,Mark Scheifele,Winner,Winnipeg Jets,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:35:21Z,2,17:02,02:58,Blocked Shot,n/a,56.0,-1.0,Jason Spezza,Blocker,Toronto Maple Leafs,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:36:24Z,2,18:05,01:55,Hit,n/a,-82.0,-38.0,Luca Sbisa,Hitter,Winnipeg Jets,Pierre Engvall,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:36:31Z,2,18:12,01:48,Hit,n/a,45.0,40.0,Cody Ceci,Hitter,Toronto Maple Leafs,Jansen Harkins,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:37:07Z,2,18:49,01:11,Shot,Wrist Shot,65.0,25.0,Kyle Connor,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:37:47Z,2,18:49,01:11,Faceoff,n/a,69.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:38:29Z,2,19:37,00:23,Shot,Wrist Shot,-64.0,7.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:38:51Z,2,19:58,00:02,Takeaway,n/a,33.0,-36.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:57:26Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:57:32Z,3,00:10,19:50,Shot,Backhand,82.0,-3.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:58:17Z,3,00:55,19:05,Takeaway,n/a,-46.0,-9.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:58:26Z,3,01:03,18:57,Giveaway,n/a,-50.0,41.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:59:17Z,3,01:54,18:06,Giveaway,n/a,-45.0,-40.0,Travis Dermott,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:59:20Z,3,01:58,18:02,Shot,Slap Shot,-35.0,-23.0,Anthony Bitetto,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:59:29Z,3,02:07,17:53,Shot,Deflected,79.0,0.0,Adam Brooks,Shooter,Toronto Maple Leafs,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:59:37Z,3,02:09,17:51,Shot,Wrist Shot,79.0,2.0,Mason Marchment,Shooter,Toronto Maple Leafs,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:00:01Z,3,02:15,17:45,Faceoff,n/a,69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:01:12Z,3,03:19,16:41,Blocked Shot,n/a,76.0,-20.0,Luca Sbisa,Blocker,Winnipeg Jets,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:01:27Z,3,03:34,16:26,Shot,Slap Shot,-35.0,-25.0,Josh Morrissey,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:01:33Z,3,03:39,16:21,Shot,Wrist Shot,-65.0,-3.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:01:40Z,3,03:47,16:13,Shot,Slap Shot,-59.0,-14.0,Josh Morrissey,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:01:48Z,3,03:55,16:05,Shot,Slap Shot,-44.0,27.0,Josh Morrissey,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:02:00Z,3,04:07,15:53,Shot,Wrist Shot,-69.0,-17.0,Patrik Laine,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:02:30Z,3,04:37,15:23,Hit,n/a,-67.0,19.0,Travis Dermott,Hitter,Toronto Maple Leafs,Neal Pionk,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:02:39Z,3,04:45,15:15,Shot,Wrist Shot,69.0,-17.0,Zach Hyman,Shooter,Toronto Maple Leafs,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:03:08Z,3,05:10,14:50,Blocked Shot,n/a,80.0,10.0,Blake Wheeler,Blocker,Winnipeg Jets,Mason Marchment,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:03:36Z,3,05:15,14:45,Faceoff,n/a,20.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:03:46Z,3,05:28,14:32,Giveaway,n/a,43.0,40.0,Jack Roslovic,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:06:31Z,3,06:04,13:56,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:07:06Z,3,06:34,13:26,Shot,Backhand,81.0,1.0,William Nylander,Shooter,Toronto Maple Leafs,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:07:58Z,3,07:26,12:34,Blocked Shot,n/a,-69.0,5.0,Justin Holl,Blocker,Toronto Maple Leafs,Nikolaj Ehlers,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:08:00Z,3,07:28,12:32,Hit,n/a,-95.0,-27.0,Mathieu Perreault,Hitter,Winnipeg Jets,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:08:05Z,3,07:32,12:28,Blocked Shot,n/a,58.0,-5.0,Neal Pionk,Blocker,Winnipeg Jets,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:08:35Z,3,07:33,12:27,Faceoff,n/a,69.0,-22.0,Adam Lowry,Winner,Winnipeg Jets,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:08:48Z,3,07:42,12:18,Giveaway,n/a,72.0,21.0,Carl Dahlstrom,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:09:48Z,3,08:40,11:20,Giveaway,n/a,62.0,-14.0,Tucker Poolman,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:09:51Z,3,08:45,11:15,Goal,Wrist Shot,85.0,9.0,William Nylander,Scorer,Toronto Maple Leafs,Alexander Kerfoot,Assist,Toronto Maple Leafs,John Tavares,Assist,Toronto Maple Leafs,Laurent Brossoit,Goalie,Winnipeg Jets
+2020-01-03T03:10:42Z,3,08:45,11:15,Faceoff,n/a,0.0,0.0,Mark Scheifele,Winner,Winnipeg Jets,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:11:01Z,3,09:19,10:41,Shot,Slap Shot,50.0,4.0,Auston Matthews,Shooter,Toronto Maple Leafs,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:11:34Z,3,09:20,10:40,Faceoff,n/a,69.0,22.0,Blake Wheeler,Winner,Winnipeg Jets,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:12:03Z,3,09:51,10:09,Blocked Shot,n/a,63.0,4.0,Blake Wheeler,Blocker,Winnipeg Jets,Frederik Gauthier,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:12:12Z,3,09:56,10:04,Missed Shot,n/a,73.0,-31.0,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:12:12Z,3,10:00,10:00,Hit,n/a,30.0,34.0,Mathieu Perreault,Hitter,Winnipeg Jets,Mason Marchment,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:13:14Z,3,10:38,09:22,Missed Shot,n/a,34.0,-24.0,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:15:06Z,3,10:40,09:20,Faceoff,n/a,69.0,-22.0,Adam Lowry,Winner,Winnipeg Jets,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:15:43Z,3,11:17,08:43,Missed Shot,n/a,78.0,5.0,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:16:12Z,3,11:47,08:13,Shot,Backhand,80.0,1.0,Auston Matthews,Shooter,Toronto Maple Leafs,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:16:17Z,3,11:53,08:07,Blocked Shot,n/a,72.0,-5.0,Mark Scheifele,Blocker,Winnipeg Jets,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:16:37Z,3,12:12,07:48,Shot,Wrist Shot,-56.0,10.0,Patrik Laine,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:17:25Z,3,12:33,07:27,Faceoff,n/a,20.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:17:36Z,3,12:44,07:16,Hit,n/a,97.0,-21.0,Neal Pionk,Hitter,Winnipeg Jets,Pierre Engvall,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:17:58Z,3,13:05,06:55,Hit,n/a,55.0,-39.0,Anthony Bitetto,Hitter,Winnipeg Jets,Mason Marchment,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:18:12Z,3,13:20,06:40,Giveaway,n/a,-54.0,40.0,Frederik Andersen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:18:15Z,3,13:23,06:37,Blocked Shot,n/a,-56.0,-4.0,Frederik Gauthier,Blocker,Toronto Maple Leafs,Jansen Harkins,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:18:47Z,3,13:35,06:25,Giveaway,n/a,-49.0,-7.0,Tyson Barrie,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:18:37Z,3,13:38,06:22,Shot,Backhand,-61.0,-17.0,Jansen Harkins,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:19:12Z,3,13:39,06:21,Faceoff,n/a,-69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:19:51Z,3,14:06,05:54,Shot,Wrist Shot,-86.0,27.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:20:01Z,3,14:07,05:53,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:20:10Z,3,14:16,05:44,Shot,Wrist Shot,38.0,12.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:20:57Z,3,15:02,04:58,Blocked Shot,n/a,65.0,-19.0,Luca Sbisa,Blocker,Winnipeg Jets,Pierre Engvall,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:21:34Z,3,15:39,04:21,Blocked Shot,n/a,-75.0,-3.0,Martin Marincin,Blocker,Toronto Maple Leafs,Tucker Poolman,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:21:50Z,3,15:56,04:04,Shot,Wrist Shot,-78.0,-1.0,Tucker Poolman,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:21:58Z,3,16:03,03:57,Giveaway,n/a,-35.0,-38.0,Jason Spezza,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:22:11Z,3,16:16,03:44,Missed Shot,n/a,-66.0,4.0,Blake Wheeler,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:22:36Z,3,16:42,03:18,Missed Shot,n/a,-33.0,17.0,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:24:31Z,3,16:52,03:08,Shot,Wrist Shot,-66.0,40.0,Travis Dermott,Shooter,Toronto Maple Leafs,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:23:56Z,3,17:41,02:19,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:24:08Z,3,17:47,02:13,Shot,Wrist Shot,-62.0,30.0,Blake Wheeler,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:24:16Z,3,17:54,02:06,Blocked Shot,n/a,-68.0,0.0,Auston Matthews,Blocker,Toronto Maple Leafs,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:24:22Z,3,18:01,01:59,Shot,Slap Shot,-67.0,-23.0,Patrik Laine,Shooter,Winnipeg Jets,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:24:48Z,3,18:05,01:55,Faceoff,n/a,-69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:25:11Z,3,18:12,01:48,Faceoff,n/a,-69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:25:41Z,3,18:19,01:41,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:26:11Z,3,18:31,01:29,Missed Shot,n/a,18.0,29.0,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:26:14Z,3,18:35,01:25,Hit,n/a,57.0,-40.0,Mark Scheifele,Hitter,Winnipeg Jets,Mitchell Marner,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:26:19Z,3,18:39,01:21,Hit,n/a,62.0,40.0,Blake Wheeler,Hitter,Winnipeg Jets,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:26:49Z,3,19:01,00:59,Missed Shot,n/a,-56.0,21.0,Blake Wheeler,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:27:16Z,3,19:02,00:58,Faceoff,n/a,-69.0,22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:27:39Z,3,19:09,00:51,Faceoff,n/a,-69.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:27:55Z,3,19:14,00:46,Missed Shot,n/a,-38.0,-24.0,Anthony Bitetto,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:28:14Z,3,19:18,00:42,Penalty,Hi stick - double minor,-40.0,39.0,Mason Appleton,PenaltyOn,Winnipeg Jets,Mason Marchment,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:28:49Z,3,19:18,00:42,Faceoff,n/a,69.0,22.0,Adam Brooks,Winner,Toronto Maple Leafs,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:29:11Z,3,19:45,00:15,Giveaway,n/a,30.0,-10.0,Laurent Brossoit,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,228 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-22T02:07:43Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Mikael Backlund,Winner,Calgary Flames,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:08:44Z,1,00:12,19:48,Missed Shot,n/a,-43.0,-33.0,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:09:07Z,1,00:19,19:41,Missed Shot,n/a,-84.0,-11.0,Rasmus Andersson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:09:17Z,1,00:20,19:40,Goal,Wrist Shot,-72.0,1.0,Mikael Backlund,Scorer,Calgary Flames,Rasmus Andersson,Assist,Calgary Flames,Noah Hanifin,Assist,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins
+2020-02-22T02:09:24Z,1,00:20,19:40,Faceoff,n/a,0.0,0.0,David Krejci,Winner,Boston Bruins,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:10:17Z,1,00:47,19:13,Takeaway,n/a,-57.0,-39.0,David Krejci,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:10:49Z,1,01:02,18:58,Faceoff,n/a,0.0,0.0,Sam Bennett,Winner,Calgary Flames,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:11:12Z,1,01:20,18:40,Hit,n/a,-34.0,-41.0,Milan Lucic,Hitter,Calgary Flames,Karson Kuhlman,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:11:24Z,1,01:33,18:27,Shot,Wrist Shot,55.0,-35.0,Charlie Coyle,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:11:29Z,1,01:38,18:22,Missed Shot,n/a,50.0,25.0,Karson Kuhlman,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:11:51Z,1,01:51,18:09,Faceoff,n/a,-20.0,22.0,Mark Jankowski,Winner,Calgary Flames,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:12:21Z,1,02:05,17:55,Giveaway,n/a,-51.0,-42.0,Chris Wagner,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:12:36Z,1,02:19,17:41,Shot,Tip-In,29.0,-40.0,Mark Jankowski,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:12:49Z,1,02:33,17:27,Hit,n/a,33.0,-41.0,Chris Wagner,Hitter,Boston Bruins,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:12:53Z,1,02:34,17:26,Goal,Snap Shot,-74.0,20.0,Mikael Backlund,Scorer,Calgary Flames,Tobias Rieder,Assist,Calgary Flames,Matthew Tkachuk,Assist,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins
+2020-02-22T02:13:28Z,1,02:34,17:26,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Andrew Mangiapane,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:13:59Z,1,02:56,17:04,Blocked Shot,n/a,49.0,19.0,Michael Stone,Blocker,Calgary Flames,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:14:13Z,1,02:58,17:02,Goal,Backhand,74.0,1.0,Patrice Bergeron,Scorer,Boston Bruins,David Pastrnak,Assist,Boston Bruins,Charlie McAvoy,Assist,Boston Bruins,Cam Talbot,Goalie,Calgary Flames
+2020-02-22T02:14:32Z,1,02:58,17:02,Faceoff,n/a,0.0,0.0,David Krejci,Winner,Boston Bruins,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:15:09Z,1,03:23,16:37,Goal,Backhand,-81.0,6.0,Johnny Gaudreau,Scorer,Calgary Flames,Elias Lindholm,Assist,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a
+2020-02-22T02:15:45Z,1,03:23,16:37,Faceoff,n/a,0.0,0.0,Charlie Coyle,Winner,Boston Bruins,Sam Bennett,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:15:58Z,1,03:32,16:28,Hit,n/a,-38.0,36.0,Alexander Yelesin,Hitter,Calgary Flames,Anders Bjork,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:16:22Z,1,03:39,16:21,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Sam Bennett,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:16:47Z,1,03:54,16:06,Giveaway,n/a,-22.0,32.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:16:52Z,1,03:59,16:01,Shot,Wrist Shot,-76.0,-24.0,Noah Hanifin,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:17:14Z,1,04:04,15:56,Faceoff,n/a,-69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:17:32Z,1,04:19,15:41,Giveaway,n/a,44.0,-31.0,Mark Jankowski,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:17:45Z,1,04:32,15:28,Hit,n/a,-87.0,34.0,Jeremy Lauzon,Hitter,Boston Bruins,Tobias Rieder,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:18:06Z,1,04:53,15:07,Blocked Shot,n/a,-63.0,13.0,Matt Grzelcyk,Blocker,Boston Bruins,Michael Stone,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:18:21Z,1,05:07,14:53,Hit,n/a,91.0,33.0,Michael Stone,Hitter,Calgary Flames,Anders Bjork,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:18:46Z,1,05:17,14:43,Faceoff,n/a,69.0,-22.0,Sean Monahan,Winner,Calgary Flames,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:19:21Z,1,05:28,14:32,Faceoff,n/a,69.0,22.0,David Krejci,Winner,Boston Bruins,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:19:50Z,1,05:34,14:26,Faceoff,n/a,69.0,22.0,David Krejci,Winner,Boston Bruins,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:20:25Z,1,05:56,14:04,Giveaway,n/a,31.0,-5.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:20:49Z,1,06:05,13:55,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:21:07Z,1,06:10,13:50,Missed Shot,n/a,51.0,-3.0,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:21:20Z,1,06:12,13:48,Goal,Wrist Shot,84.0,-5.0,Patrice Bergeron,Scorer,Boston Bruins,David Pastrnak,Assist,Boston Bruins,Brad Marchand,Assist,Boston Bruins,Cam Talbot,Goalie,Calgary Flames
+2020-02-22T02:21:47Z,1,06:12,13:48,Faceoff,n/a,0.0,0.0,Derek Ryan,Winner,Calgary Flames,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:22:46Z,1,06:33,13:27,Penalty,Elbowing,0.0,25.0,Matt Grzelcyk,PenaltyOn,Boston Bruins,Tobias Rieder,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:25:03Z,1,06:33,13:27,Faceoff,n/a,-20.0,22.0,Elias Lindholm,Winner,Calgary Flames,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:26:12Z,1,07:37,12:23,Giveaway,n/a,-45.0,-16.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:27:04Z,1,08:29,11:31,Hit,n/a,-96.0,14.0,Andrew Mangiapane,Hitter,Calgary Flames,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:27:25Z,1,08:46,11:14,Blocked Shot,n/a,-66.0,1.0,Brandon Carlo,Blocker,Boston Bruins,Mark Jankowski,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:27:23Z,1,08:48,11:12,Giveaway,n/a,-85.0,28.0,Torey Krug,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:27:44Z,1,09:09,10:51,Hit,n/a,99.0,-13.0,Anders Bjork,Hitter,Boston Bruins,Michael Stone,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:27:51Z,1,09:16,10:44,Shot,Snap Shot,40.0,28.0,Matt Grzelcyk,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:28:15Z,1,09:41,10:19,Hit,n/a,-73.0,-39.0,Matthew Tkachuk,Hitter,Calgary Flames,David Krejci,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:28:59Z,1,10:24,09:36,Blocked Shot,n/a,-63.0,-14.0,Charlie McAvoy,Blocker,Boston Bruins,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:31:22Z,1,10:28,09:32,Faceoff,n/a,20.0,22.0,David Krejci,Winner,Boston Bruins,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:31:43Z,1,10:50,09:10,Blocked Shot,n/a,-60.0,10.0,David Krejci,Blocker,Boston Bruins,Michael Stone,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:31:58Z,1,11:05,08:55,Hit,n/a,99.0,-11.0,Michael Stone,Hitter,Calgary Flames,Danton Heinen,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:10Z,1,11:16,08:44,Shot,Backhand,63.0,1.0,Brad Marchand,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:35Z,1,11:16,08:44,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:33:01Z,1,11:31,08:29,Blocked Shot,n/a,-59.0,11.0,Zdeno Chara,Blocker,Boston Bruins,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:33:04Z,1,11:34,08:26,Giveaway,n/a,-42.0,-40.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:33:25Z,1,11:55,08:05,Giveaway,n/a,-19.0,39.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:34:05Z,1,12:01,07:59,Faceoff,n/a,69.0,-22.0,Sam Bennett,Winner,Calgary Flames,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:34:22Z,1,12:13,07:47,Blocked Shot,n/a,-51.0,-2.0,Anders Bjork,Blocker,Boston Bruins,Alexander Yelesin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:34:34Z,1,12:20,07:40,Goal,Backhand,80.0,-3.0,Charlie Coyle,Scorer,Boston Bruins,Karson Kuhlman,Assist,Boston Bruins,Anders Bjork,Assist,Boston Bruins,Cam Talbot,Goalie,Calgary Flames
+2020-02-22T02:35:06Z,1,12:20,07:40,Faceoff,n/a,0.0,0.0,Derek Ryan,Winner,Calgary Flames,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:35:25Z,1,12:28,07:32,Hit,n/a,12.0,41.0,Anton Blidh,Hitter,Boston Bruins,Michael Stone,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:36:55Z,1,13:57,06:03,Shot,Wrist Shot,86.0,-6.0,Danton Heinen,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:37:05Z,1,13:58,06:02,Shot,Wrist Shot,84.0,-5.0,Danton Heinen,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:37:17Z,1,14:19,05:41,Shot,Wrist Shot,67.0,-24.0,David Krejci,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:38:13Z,1,15:16,04:44,Giveaway,n/a,84.0,-9.0,Cam Talbot,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:38:15Z,1,15:17,04:43,Missed Shot,n/a,73.0,-39.0,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:38:19Z,1,15:22,04:38,Hit,n/a,32.0,36.0,Dillon Dube,Hitter,Calgary Flames,Torey Krug,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:39:23Z,1,16:26,03:34,Shot,Wrist Shot,36.0,-36.0,Chris Wagner,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:39:30Z,1,16:33,03:27,Hit,n/a,45.0,-41.0,Sean Kuraly,Hitter,Boston Bruins,TJ Brodie,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:40:05Z,1,17:07,02:53,Missed Shot,n/a,69.0,2.0,Anders Bjork,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:40:17Z,1,17:20,02:40,Shot,Wrist Shot,77.0,3.0,Karson Kuhlman,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:41:01Z,1,18:04,01:56,Blocked Shot,n/a,63.0,19.0,TJ Brodie,Blocker,Calgary Flames,Danton Heinen,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:41:12Z,1,18:15,01:45,Shot,Backhand,-77.0,5.0,Andrew Mangiapane,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:41:40Z,1,18:41,01:19,Blocked Shot,n/a,-71.0,13.0,Matt Grzelcyk,Blocker,Boston Bruins,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:43:53Z,1,18:41,01:19,Faceoff,n/a,-69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:44:02Z,1,18:46,01:14,Takeaway,n/a,-31.0,27.0,Elias Lindholm,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:44:14Z,1,18:58,01:02,Hit,n/a,96.0,-11.0,Brad Marchand,Hitter,Boston Bruins,Oliver Kylington,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:45:05Z,1,19:26,00:34,Faceoff,n/a,69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:45:20Z,1,19:34,00:26,Missed Shot,n/a,47.0,-29.0,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:45:45Z,1,19:59,00:01,Shot,Snap Shot,50.0,20.0,David Pastrnak,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:04:05Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:05:08Z,2,00:52,19:08,Goal,Tip-In,-83.0,-5.0,Brad Marchand,Scorer,Boston Bruins,Brandon Carlo,Assist,Boston Bruins,Torey Krug,Assist,Boston Bruins,Cam Talbot,Goalie,Calgary Flames
+2020-02-22T03:05:39Z,2,00:52,19:08,Faceoff,n/a,0.0,0.0,Sam Bennett,Winner,Calgary Flames,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:05:51Z,2,00:59,19:01,Hit,n/a,5.0,-41.0,Anders Bjork,Hitter,Boston Bruins,Michael Stone,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:06:10Z,2,01:18,18:42,Hit,n/a,15.0,-38.0,Karson Kuhlman,Hitter,Boston Bruins,Michael Stone,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:06:18Z,2,01:26,18:34,Hit,n/a,96.0,3.0,Milan Lucic,Hitter,Calgary Flames,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:06:45Z,2,01:44,18:16,Faceoff,n/a,0.0,0.0,Sean Monahan,Winner,Calgary Flames,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:07:14Z,2,01:57,18:03,Hit,n/a,-92.0,-32.0,Anton Blidh,Hitter,Boston Bruins,Alexander Yelesin,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:07:23Z,2,02:06,17:54,Hit,n/a,96.0,-13.0,Elias Lindholm,Hitter,Calgary Flames,Matt Grzelcyk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:07:33Z,2,02:15,17:45,Shot,Wrist Shot,71.0,-29.0,Johnny Gaudreau,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:07:49Z,2,02:15,17:45,Faceoff,n/a,69.0,-22.0,Derek Ryan,Winner,Calgary Flames,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:08:11Z,2,02:21,17:39,Missed Shot,n/a,36.0,30.0,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:08:30Z,2,02:43,17:17,Takeaway,n/a,-78.0,-40.0,Jake DeBrusk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:08:41Z,2,02:55,17:05,Shot,Wrist Shot,62.0,-14.0,Derek Ryan,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:08:46Z,2,02:59,17:01,Hit,n/a,91.0,24.0,Torey Krug,Hitter,Boston Bruins,Derek Ryan,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:09:06Z,2,03:19,16:41,Giveaway,n/a,85.0,35.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:09:13Z,2,03:26,16:34,Giveaway,n/a,12.0,20.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:09:23Z,2,03:28,16:32,Blocked Shot,n/a,55.0,22.0,Charlie McAvoy,Blocker,Boston Bruins,TJ Brodie,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:09:32Z,2,03:29,16:31,Faceoff,n/a,69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:09:56Z,2,03:43,16:17,Hit,n/a,97.0,-12.0,Matthew Tkachuk,Hitter,Calgary Flames,Zdeno Chara,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:10:13Z,2,04:00,16:00,Missed Shot,n/a,51.0,31.0,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:10:51Z,2,04:38,15:22,Hit,n/a,-45.0,-41.0,Dillon Dube,Hitter,Calgary Flames,Anders Bjork,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:11:02Z,2,04:49,15:11,Hit,n/a,-86.0,-34.0,Anders Bjork,Hitter,Boston Bruins,Rasmus Andersson,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:11:06Z,2,04:53,15:07,Hit,n/a,-86.0,34.0,Karson Kuhlman,Hitter,Boston Bruins,Noah Hanifin,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:11:20Z,2,05:04,14:56,Missed Shot,n/a,79.0,4.0,Dillon Dube,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:11:44Z,2,05:06,14:54,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:12:36Z,2,05:51,14:09,Missed Shot,n/a,57.0,29.0,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:12:56Z,2,05:54,14:06,Faceoff,n/a,20.0,-22.0,Derek Ryan,Winner,Calgary Flames,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:13:20Z,2,06:09,13:51,Giveaway,n/a,62.0,23.0,Brandon Carlo,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:13:23Z,2,06:10,13:50,Blocked Shot,n/a,50.0,23.0,Chris Wagner,Blocker,Boston Bruins,Mark Jankowski,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:16:18Z,2,06:11,13:49,Faceoff,n/a,69.0,22.0,Charlie Coyle,Winner,Boston Bruins,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:15:46Z,2,06:14,13:46,Takeaway,n/a,88.0,11.0,Derek Ryan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:16:29Z,2,06:54,13:06,Hit,n/a,-98.0,11.0,Dillon Dube,Hitter,Calgary Flames,Anton Blidh,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:16:43Z,2,07:08,12:52,Blocked Shot,n/a,-71.0,-8.0,Oliver Kylington,Blocker,Calgary Flames,Chris Wagner,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:17:00Z,2,07:29,12:31,Takeaway,n/a,6.0,-10.0,Patrice Bergeron,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:17:17Z,2,07:33,12:27,Faceoff,n/a,-69.0,-22.0,Mikael Backlund,Winner,Calgary Flames,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:17:49Z,2,07:46,12:14,Giveaway,n/a,88.0,26.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:17:53Z,2,07:51,12:09,Takeaway,n/a,49.0,16.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:18:13Z,2,08:01,11:59,Faceoff,n/a,69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:18:38Z,2,08:14,11:46,Blocked Shot,n/a,-64.0,18.0,TJ Brodie,Blocker,Calgary Flames,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:18:42Z,2,08:17,11:43,Takeaway,n/a,-43.0,11.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:19:23Z,2,08:48,11:12,Faceoff,n/a,69.0,22.0,Sam Bennett,Winner,Calgary Flames,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:19:50Z,2,08:58,11:02,Hit,n/a,88.0,36.0,Brandon Carlo,Hitter,Boston Bruins,Dillon Dube,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:19:52Z,2,09:00,11:00,Shot,Wrist Shot,71.0,17.0,Sam Bennett,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:19:58Z,2,09:06,10:54,Giveaway,n/a,84.0,20.0,Brandon Carlo,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:20:28Z,2,09:36,10:24,Shot,Wrist Shot,-72.0,-19.0,Matt Grzelcyk,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:20:32Z,2,09:40,10:20,Hit,n/a,-76.0,-39.0,Milan Lucic,Hitter,Calgary Flames,Matt Grzelcyk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:21:03Z,2,10:09,09:51,Shot,Snap Shot,53.0,11.0,Johnny Gaudreau,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:25:18Z,2,10:15,09:45,Faceoff,n/a,69.0,22.0,Andrew Mangiapane,Winner,Calgary Flames,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:22:21Z,2,10:17,09:43,Penalty,Fighting,70.0,36.0,Matthew Tkachuk,PenaltyOn,Calgary Flames,Jeremy Lauzon,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:22:35Z,2,10:17,09:43,Penalty,Fighting,67.0,37.0,Jeremy Lauzon,PenaltyOn,Boston Bruins,Matthew Tkachuk,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:25:18Z,2,10:17,09:43,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:25:50Z,2,10:57,09:03,Giveaway,n/a,97.0,0.0,Matt Grzelcyk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:25:55Z,2,11:02,08:58,Giveaway,n/a,66.0,-20.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:26:29Z,2,11:11,08:49,Faceoff,n/a,-69.0,22.0,Sean Monahan,Winner,Calgary Flames,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:27:26Z,2,12:05,07:55,Hit,n/a,93.0,-25.0,Sam Bennett,Hitter,Calgary Flames,Torey Krug,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:29:14Z,2,13:54,06:06,Hit,n/a,-50.0,-38.0,Anton Blidh,Hitter,Boston Bruins,Michael Stone,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:30:28Z,2,14:43,05:17,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:30:40Z,2,14:50,05:10,Blocked Shot,n/a,62.0,-5.0,Anton Blidh,Blocker,Boston Bruins,TJ Brodie,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:31:08Z,2,14:59,05:01,Faceoff,n/a,-69.0,22.0,Charlie Coyle,Winner,Boston Bruins,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:31:45Z,2,15:16,04:44,Faceoff,n/a,-69.0,22.0,Sean Monahan,Winner,Calgary Flames,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:32:09Z,2,15:29,04:31,Takeaway,n/a,-34.0,31.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:32:15Z,2,15:35,04:25,Takeaway,n/a,61.0,20.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:32:22Z,2,15:42,04:18,Shot,Wrist Shot,-72.0,-19.0,Brad Marchand,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:33:19Z,2,16:38,03:22,Blocked Shot,n/a,-60.0,19.0,Milan Lucic,Blocker,Calgary Flames,Zdeno Chara,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:33:26Z,2,16:45,03:15,Blocked Shot,n/a,-63.0,-14.0,Tobias Rieder,Blocker,Calgary Flames,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:33:30Z,2,16:49,03:11,Shot,Slap Shot,-36.0,29.0,Zdeno Chara,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:33:44Z,2,17:04,02:56,Hit,n/a,-46.0,-39.0,Andrew Mangiapane,Hitter,Calgary Flames,Karson Kuhlman,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:33:54Z,2,17:14,02:46,Shot,Wrist Shot,49.0,10.0,Mikael Backlund,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:35:55Z,2,17:14,02:46,Faceoff,n/a,69.0,22.0,Mikael Backlund,Winner,Calgary Flames,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:36:24Z,2,17:23,02:37,Blocked Shot,n/a,64.0,5.0,David Krejci,Blocker,Boston Bruins,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:36:36Z,2,17:35,02:25,Hit,n/a,-28.0,39.0,Andrew Mangiapane,Hitter,Calgary Flames,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:37:10Z,2,18:07,01:53,Missed Shot,n/a,-56.0,30.0,Chris Wagner,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:37:12Z,2,18:11,01:49,Hit,n/a,-60.0,-39.0,Anton Blidh,Hitter,Boston Bruins,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:37:31Z,2,18:31,01:29,Hit,n/a,65.0,38.0,Jeremy Lauzon,Hitter,Boston Bruins,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:37:41Z,2,18:39,01:21,Shot,Wrist Shot,-46.0,-31.0,Anton Blidh,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:38:02Z,2,18:40,01:20,Faceoff,n/a,-69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:38:30Z,2,18:56,01:04,Giveaway,n/a,-9.0,2.0,Milan Lucic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:39:23Z,2,19:42,00:18,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:39:59Z,2,19:54,00:06,Blocked Shot,n/a,53.0,-11.0,Anders Bjork,Blocker,Boston Bruins,TJ Brodie,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:40:15Z,2,19:55,00:05,Faceoff,n/a,69.0,-22.0,Charlie Coyle,Winner,Boston Bruins,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:58:52Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:59:25Z,3,00:30,19:30,Takeaway,n/a,-48.0,-23.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:00:05Z,3,01:10,18:50,Blocked Shot,n/a,-60.0,9.0,Brandon Carlo,Blocker,Boston Bruins,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:00:55Z,3,02:00,18:00,Blocked Shot,n/a,47.0,20.0,Dillon Dube,Blocker,Calgary Flames,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:01:17Z,3,02:22,17:38,Hit,n/a,99.0,-4.0,Sean Kuraly,Hitter,Boston Bruins,Derek Ryan,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:01:23Z,3,02:28,17:32,Hit,n/a,89.0,-31.0,Anton Blidh,Hitter,Boston Bruins,Alexander Yelesin,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:01:33Z,3,02:38,17:22,Hit,n/a,99.0,22.0,Alexander Yelesin,Hitter,Calgary Flames,Anton Blidh,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:01:39Z,3,02:44,17:16,Hit,n/a,78.0,-34.0,Oliver Kylington,Hitter,Calgary Flames,Chris Wagner,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:01:59Z,3,03:01,16:59,Takeaway,n/a,85.0,8.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:01:59Z,3,03:02,16:58,Shot,Backhand,84.0,5.0,Brad Marchand,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:02:04Z,3,03:09,16:51,Giveaway,n/a,55.0,34.0,Sam Bennett,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:02:13Z,3,03:18,16:42,Blocked Shot,n/a,-55.0,-19.0,Jeremy Lauzon,Blocker,Boston Bruins,Sam Bennett,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:02:24Z,3,03:29,16:31,Takeaway,n/a,-28.0,-5.0,Patrice Bergeron,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:02:30Z,3,03:35,16:25,Giveaway,n/a,45.0,5.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:02:50Z,3,03:55,16:05,Blocked Shot,n/a,79.0,1.0,Noah Hanifin,Blocker,Calgary Flames,David Krejci,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:02:57Z,3,04:02,15:58,Shot,Tip-In,79.0,-4.0,Rasmus Andersson,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:03:09Z,3,04:09,15:51,Blocked Shot,n/a,75.0,0.0,Rasmus Andersson,Blocker,Calgary Flames,Danton Heinen,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:03:30Z,3,04:25,15:35,Faceoff,n/a,69.0,-22.0,Mikael Backlund,Winner,Calgary Flames,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:03:58Z,3,04:34,15:26,Shot,Wrist Shot,55.0,0.0,Charlie Coyle,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:04:13Z,3,04:34,15:26,Faceoff,n/a,69.0,22.0,Charlie Coyle,Winner,Boston Bruins,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:04:38Z,3,04:46,15:14,Missed Shot,n/a,73.0,-11.0,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:05:35Z,3,05:43,14:17,Hit,n/a,-99.0,3.0,Matt Grzelcyk,Hitter,Boston Bruins,Milan Lucic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:05:51Z,3,05:55,14:05,Penalty,Tripping,-15.0,-5.0,Patrice Bergeron,PenaltyOn,Boston Bruins,Derek Ryan,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:06:24Z,3,05:55,14:05,Faceoff,n/a,-69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:06:42Z,3,06:04,13:56,Blocked Shot,n/a,-64.0,11.0,Zdeno Chara,Blocker,Boston Bruins,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:07:11Z,3,06:32,13:28,Missed Shot,n/a,-57.0,-23.0,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:07:13Z,3,06:35,13:25,Giveaway,n/a,-54.0,39.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:07:54Z,3,07:16,12:44,Shot,Wrist Shot,-38.0,-3.0,Noah Hanifin,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:08:01Z,3,07:17,12:43,Shot,Backhand,-82.0,0.0,Milan Lucic,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:07:57Z,3,07:19,12:41,Shot,Slap Shot,-34.0,-1.0,Noah Hanifin,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:08:20Z,3,07:42,12:18,Blocked Shot,n/a,-69.0,10.0,Jeremy Lauzon,Blocker,Boston Bruins,Dillon Dube,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:08:41Z,3,08:03,11:57,Shot,Wrist Shot,-65.0,18.0,Dillon Dube,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:11:32Z,3,09:20,10:40,Faceoff,n/a,69.0,-22.0,Mikael Backlund,Winner,Calgary Flames,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:12:51Z,3,09:50,10:10,Missed Shot,n/a,-85.0,16.0,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:12:59Z,3,10:02,09:58,Hit,n/a,-27.0,42.0,Matthew Tkachuk,Hitter,Calgary Flames,David Krejci,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:13:58Z,3,11:00,09:00,Hit,n/a,97.0,0.0,Milan Lucic,Hitter,Calgary Flames,Sean Kuraly,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:14:19Z,3,11:22,08:38,Takeaway,n/a,55.0,-42.0,Sean Kuraly,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:14:25Z,3,11:28,08:32,Hit,n/a,56.0,-40.0,Chris Wagner,Hitter,Boston Bruins,Alexander Yelesin,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:17:10Z,3,12:12,07:48,Faceoff,n/a,20.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:17:49Z,3,12:36,07:24,Missed Shot,n/a,-63.0,-10.0,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:17:57Z,3,12:44,07:16,Blocked Shot,n/a,-75.0,2.0,Charlie McAvoy,Blocker,Boston Bruins,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:18:02Z,3,12:48,07:12,Shot,Wrist Shot,-49.0,27.0,TJ Brodie,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:18:27Z,3,13:14,06:46,Shot,Wrist Shot,-85.0,5.0,Sam Bennett,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:18:29Z,3,13:16,06:44,Hit,n/a,-98.0,-8.0,Dillon Dube,Hitter,Calgary Flames,Matt Grzelcyk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:18:34Z,3,13:22,06:38,Missed Shot,n/a,-58.0,-15.0,Sam Bennett,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:18:37Z,3,13:25,06:35,Giveaway,n/a,-72.0,35.0,Matt Grzelcyk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:18:50Z,3,13:35,06:25,Blocked Shot,n/a,-57.0,-17.0,Jake DeBrusk,Blocker,Boston Bruins,Oliver Kylington,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:19:08Z,3,13:36,06:24,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:19:33Z,3,13:41,06:19,Missed Shot,n/a,-36.0,-36.0,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:19:43Z,3,13:51,06:09,Missed Shot,n/a,85.0,20.0,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:19:53Z,3,14:01,05:59,Shot,Wrist Shot,-44.0,-2.0,Rasmus Andersson,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:20:22Z,3,14:31,05:29,Shot,Wrist Shot,-78.0,-22.0,Matthew Tkachuk,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:20:28Z,3,14:37,05:23,Hit,n/a,23.0,-42.0,Michael Stone,Hitter,Calgary Flames,Chris Wagner,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:20:44Z,3,14:52,05:08,Takeaway,n/a,4.0,28.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:21:25Z,3,15:34,04:26,Shot,Wrist Shot,-70.0,15.0,Dillon Dube,Shooter,Calgary Flames,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:21:45Z,3,15:53,04:07,Blocked Shot,n/a,-63.0,2.0,Matt Grzelcyk,Blocker,Boston Bruins,Rasmus Andersson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:22:26Z,3,16:34,03:26,Shot,Wrist Shot,18.0,-20.0,Brandon Carlo,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:22:57Z,3,17:05,02:55,Missed Shot,n/a,54.0,-22.0,Karson Kuhlman,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:23:29Z,3,17:37,02:23,Takeaway,n/a,-48.0,36.0,Patrice Bergeron,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:23:36Z,3,17:44,02:16,Shot,Wrist Shot,-10.0,28.0,Patrice Bergeron,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:24:08Z,3,18:16,01:44,Shot,Wrist Shot,37.0,-28.0,Brandon Carlo,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:24:58Z,3,18:24,01:36,Faceoff,n/a,-20.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:25:14Z,3,18:34,01:26,Shot,Wrist Shot,54.0,22.0,Brad Marchand,Shooter,Boston Bruins,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:25:24Z,3,18:34,01:26,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:26:44Z,3,19:08,00:52,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:27:03Z,3,19:21,00:39,Giveaway,n/a,88.0,-34.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

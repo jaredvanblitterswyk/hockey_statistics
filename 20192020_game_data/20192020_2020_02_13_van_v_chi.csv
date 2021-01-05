@@ -1,0 +1,245 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-13T03:44:44Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:45:23Z,1,00:18,19:42,Hit,n/a,-89.0,36.0,Dominik Kubalik,Hitter,Chicago Blackhawks,Christopher Tanev,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:45:38Z,1,00:33,19:27,Shot,Wrist Shot,81.0,-17.0,Jonathan Toews,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:45:38Z,1,00:34,19:26,Blocked Shot,n/a,82.0,-1.0,Christopher Tanev,Blocker,Vancouver Canucks,Drake Caggiula,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:45:42Z,1,00:37,19:23,Blocked Shot,n/a,79.0,-3.0,Christopher Tanev,Blocker,Vancouver Canucks,Drake Caggiula,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:46:09Z,1,01:04,18:56,Blocked Shot,n/a,-52.0,-28.0,Connor Murphy,Blocker,Chicago Blackhawks,Alexander Edler,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:47:00Z,1,01:55,18:05,Takeaway,n/a,-96.0,1.0,Antoine Roussel,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:47:06Z,1,02:01,17:59,Giveaway,n/a,25.0,30.0,Tyler Myers,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:47:25Z,1,02:19,17:41,Shot,Wrist Shot,58.0,10.0,Jonathan Toews,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:47:34Z,1,02:21,17:39,Penalty,Hooking,58.0,3.0,Tyler Myers,PenaltyOn,Vancouver Canucks,Olli Maatta,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:48:10Z,1,02:21,17:39,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:48:12Z,1,02:37,17:23,Shot,Snap Shot,49.0,11.0,Patrick Kane,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:48:21Z,1,02:45,17:15,Shot,Slap Shot,37.0,-24.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:48:30Z,1,02:55,17:05,Missed Shot,n/a,35.0,16.0,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:49:14Z,1,03:15,16:45,Faceoff,n/a,20.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:50:38Z,1,04:41,15:19,Shot,Wrist Shot,59.0,24.0,David Kampf,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:51:06Z,1,04:44,15:16,Faceoff,n/a,69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Brandon Saad,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:51:47Z,1,05:18,14:42,Shot,Wrist Shot,62.0,17.0,Patrick Kane,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:52:03Z,1,05:34,14:26,Takeaway,n/a,-39.0,-39.0,Elias Pettersson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:52:06Z,1,05:37,14:23,Missed Shot,n/a,-50.0,-2.0,Jake Virtanen,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:52:14Z,1,05:45,14:15,Shot,Wrist Shot,68.0,-23.0,Drake Caggiula,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:52:20Z,1,05:51,14:09,Shot,Slap Shot,78.0,-19.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:53:01Z,1,05:52,14:08,Faceoff,n/a,69.0,-22.0,Loui Eriksson,Winner,Vancouver Canucks,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:53:34Z,1,05:58,14:02,Faceoff,n/a,0.0,0.0,Adam Gaudette,Winner,Vancouver Canucks,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:53:55Z,1,06:10,13:50,Hit,n/a,92.0,-32.0,Jordie Benn,Hitter,Vancouver Canucks,Alex Nylander,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:54:14Z,1,06:32,13:28,Missed Shot,n/a,34.0,-6.0,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:54:19Z,1,06:37,13:23,Hit,n/a,62.0,-40.0,Antoine Roussel,Hitter,Vancouver Canucks,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:54:22Z,1,06:40,13:20,Shot,Backhand,83.0,-2.0,David Kampf,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:54:29Z,1,06:47,13:13,Takeaway,n/a,-47.0,-10.0,Connor Murphy,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:54:39Z,1,06:57,13:03,Shot,Backhand,83.0,14.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:55:00Z,1,07:18,12:42,Blocked Shot,n/a,68.0,3.0,Tanner Pearson,Blocker,Vancouver Canucks,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:55:21Z,1,07:39,12:21,Blocked Shot,n/a,-46.0,-5.0,Dylan Strome,Blocker,Chicago Blackhawks,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:55:27Z,1,07:45,12:15,Blocked Shot,n/a,-64.0,-12.0,Kirby Dach,Blocker,Chicago Blackhawks,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:55:54Z,1,08:12,11:48,Hit,n/a,66.0,39.0,J.T. Miller,Hitter,Vancouver Canucks,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:56:03Z,1,08:21,11:39,Blocked Shot,n/a,81.0,-10.0,Quinn Hughes,Blocker,Vancouver Canucks,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:56:08Z,1,08:26,11:34,Shot,Backhand,79.0,0.0,Ryan Carpenter,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:56:14Z,1,08:27,11:33,Shot,Backhand,81.0,3.0,Olli Maatta,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:58:12Z,1,08:27,11:33,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:58:32Z,1,08:33,11:27,Blocked Shot,n/a,61.0,9.0,Bo Horvat,Blocker,Vancouver Canucks,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:58:50Z,1,08:51,11:09,Blocked Shot,n/a,68.0,1.0,Troy Stecher,Blocker,Vancouver Canucks,Drake Caggiula,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:58:54Z,1,08:54,11:06,Giveaway,n/a,96.0,11.0,Justin Bailey,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:58:54Z,1,08:55,11:05,Shot,Wrist Shot,78.0,0.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:59:00Z,1,09:00,11:00,Blocked Shot,n/a,75.0,4.0,Troy Stecher,Blocker,Vancouver Canucks,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T03:59:37Z,1,09:10,10:50,Faceoff,n/a,-69.0,-22.0,Adam Gaudette,Winner,Vancouver Canucks,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:00:24Z,1,09:45,10:15,Missed Shot,n/a,68.0,-16.0,Alex Nylander,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:00:36Z,1,09:56,10:04,Shot,Wrist Shot,-63.0,-3.0,Quinn Hughes,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:01:02Z,1,09:56,10:04,Faceoff,n/a,-69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:01:36Z,1,10:19,09:41,Giveaway,n/a,30.0,14.0,Jake Virtanen,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:02:12Z,1,10:55,09:05,Hit,n/a,-56.0,-38.0,Connor Murphy,Hitter,Chicago Blackhawks,Bo Horvat,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:02:21Z,1,11:04,08:56,Shot,Wrist Shot,-36.0,-29.0,Alexander Edler,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:04:07Z,1,11:16,08:44,Faceoff,n/a,-20.0,22.0,J.T. Miller,Winner,Vancouver Canucks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:04:58Z,1,11:32,08:28,Hit,n/a,-60.0,-40.0,Jake Virtanen,Hitter,Vancouver Canucks,Adam Boqvist,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:05:17Z,1,11:50,08:10,Shot,Wrist Shot,-74.0,30.0,Troy Stecher,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:05:40Z,1,11:50,08:10,Faceoff,n/a,-69.0,22.0,Jay Beagle,Winner,Vancouver Canucks,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:05:54Z,1,11:57,08:03,Blocked Shot,n/a,-49.0,14.0,Zack Smith,Blocker,Chicago Blackhawks,Tyler Myers,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:06:06Z,1,12:08,07:52,Hit,n/a,91.0,-34.0,Jordie Benn,Hitter,Vancouver Canucks,Alex Nylander,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:06:14Z,1,12:16,07:44,Blocked Shot,n/a,-71.0,1.0,David Kampf,Blocker,Chicago Blackhawks,Tyler Myers,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:06:22Z,1,12:25,07:35,Hit,n/a,-77.0,-37.0,Jay Beagle,Hitter,Vancouver Canucks,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:06:33Z,1,12:35,07:25,Shot,Wrist Shot,-80.0,-6.0,Loui Eriksson,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:07:03Z,1,12:35,07:25,Faceoff,n/a,-69.0,-22.0,Adam Gaudette,Winner,Vancouver Canucks,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:11:29Z,1,12:57,07:03,Shot,Slap Shot,-33.0,25.0,Alexander Edler,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:07:43Z,1,13:04,06:56,Shot,Wrist Shot,3.0,-16.0,Kirby Dach,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:08:27Z,1,13:33,06:27,Faceoff,n/a,69.0,-22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:08:46Z,1,13:45,06:15,Giveaway,n/a,25.0,20.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:08:57Z,1,13:57,06:03,Shot,Wrist Shot,65.0,-9.0,Patrick Kane,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:10:26Z,1,13:58,06:02,Penalty,Missing key [PD_151],87.0,-1.0,Dylan Strome,PenaltyOn,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:13:58Z,1,13:58,06:02,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:14:16Z,1,14:07,05:53,Shot,Deflected,-61.0,0.0,Bo Horvat,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:14:25Z,1,14:07,05:53,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:15:03Z,1,14:36,05:24,Blocked Shot,n/a,-70.0,5.0,Duncan Keith,Blocker,Chicago Blackhawks,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:16:02Z,1,15:33,04:27,Goal,Snap Shot,-70.0,-5.0,Bo Horvat,Scorer,Vancouver Canucks,Brandon Sutter,Assist,Vancouver Canucks,J.T. Miller,Assist,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks
+2020-02-13T04:16:52Z,1,15:33,04:27,Faceoff,n/a,0.0,0.0,Dylan Strome,Winner,Chicago Blackhawks,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:17:16Z,1,15:59,04:01,Blocked Shot,n/a,-66.0,-4.0,Connor Murphy,Blocker,Chicago Blackhawks,Tanner Pearson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:18:31Z,1,16:55,03:05,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:18:46Z,1,17:03,02:57,Shot,Wrist Shot,38.0,12.0,Patrick Kane,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:19:17Z,1,17:34,02:26,Takeaway,n/a,-72.0,34.0,J.T. Miller,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:19:56Z,1,18:13,01:47,Giveaway,n/a,-36.0,23.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:20:19Z,1,18:36,01:24,Shot,Wrist Shot,72.0,-26.0,Drake Caggiula,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:20:38Z,1,18:54,01:06,Hit,n/a,90.0,-36.0,David Kampf,Hitter,Chicago Blackhawks,Zack MacEwen,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:21:01Z,1,19:11,00:49,Giveaway,n/a,25.0,-33.0,Alex Nylander,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:21:16Z,1,19:32,00:28,Missed Shot,n/a,-64.0,11.0,Adam Gaudette,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:21:30Z,1,19:46,00:14,Hit,n/a,23.0,40.0,Antoine Roussel,Hitter,Vancouver Canucks,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:40:09Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Elias Pettersson,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:40:50Z,2,00:07,19:53,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:41:34Z,2,00:45,19:15,Shot,Wrist Shot,59.0,-14.0,Jake Virtanen,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:41:54Z,2,00:45,19:15,Faceoff,n/a,69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Brandon Saad,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:42:25Z,2,00:54,19:06,Shot,Wrist Shot,-61.0,28.0,Patrick Kane,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:42:35Z,2,00:54,19:06,Faceoff,n/a,-69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:42:57Z,2,01:08,18:52,Hit,n/a,91.0,30.0,Connor Murphy,Hitter,Chicago Blackhawks,Alexander Edler,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:43:02Z,2,01:10,18:50,Hit,n/a,98.0,3.0,Alexander Edler,Hitter,Vancouver Canucks,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:43:19Z,2,01:27,18:33,Blocked Shot,n/a,-70.0,-11.0,Tanner Pearson,Blocker,Vancouver Canucks,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:43:27Z,2,01:27,18:33,Penalty,Holding,-64.0,37.0,Zack MacEwen,PenaltyOn,Vancouver Canucks,Patrick Kane,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:44:01Z,2,01:27,18:33,Faceoff,n/a,-69.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,Zack Smith,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:45:18Z,2,02:31,17:29,Takeaway,n/a,-73.0,0.0,Loui Eriksson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:46:14Z,2,03:30,16:30,Shot,Slap Shot,-35.0,-27.0,Duncan Keith,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:46:20Z,2,03:32,16:28,Shot,Backhand,-80.0,2.0,Kirby Dach,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:47:00Z,2,03:32,16:28,Faceoff,n/a,-69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:47:27Z,2,03:55,16:05,Shot,Wrist Shot,-44.0,21.0,David Kampf,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:47:31Z,2,04:00,16:00,Hit,n/a,-94.0,27.0,Alex Nylander,Hitter,Chicago Blackhawks,Alexander Edler,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:47:39Z,2,04:07,15:53,Hit,n/a,88.0,-35.0,Justin Bailey,Hitter,Vancouver Canucks,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:47:53Z,2,04:22,15:38,Blocked Shot,n/a,-73.0,13.0,Alexander Edler,Blocker,Vancouver Canucks,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:48:49Z,2,04:50,15:10,Faceoff,n/a,20.0,-22.0,Brandon Saad,Winner,Chicago Blackhawks,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:49:16Z,2,05:01,14:59,Giveaway,n/a,-49.0,30.0,Quinn Hughes,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:49:16Z,2,05:04,14:56,Shot,Wrist Shot,-66.0,1.0,Patrick Kane,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:49:23Z,2,05:11,14:49,Hit,n/a,-30.0,40.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Elias Pettersson,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:49:29Z,2,05:17,14:43,Missed Shot,n/a,58.0,1.0,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:49:37Z,2,05:25,14:35,Giveaway,n/a,15.0,16.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:50:31Z,2,06:19,13:41,Hit,n/a,36.0,29.0,Jordie Benn,Hitter,Vancouver Canucks,Drake Caggiula,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:50:39Z,2,06:25,13:35,Goal,Wrist Shot,83.0,-6.0,Adam Gaudette,Scorer,Vancouver Canucks,Antoine Roussel,Assist,Vancouver Canucks,Brandon Sutter,Assist,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks
+2020-02-13T04:51:25Z,2,06:25,13:35,Faceoff,n/a,0.0,0.0,Jay Beagle,Winner,Vancouver Canucks,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:51:42Z,2,06:39,13:21,Hit,n/a,99.0,18.0,Justin Bailey,Hitter,Vancouver Canucks,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:52:00Z,2,06:56,13:04,Shot,Wrist Shot,-41.0,23.0,Connor Murphy,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:52:04Z,2,06:56,13:04,Hit,n/a,-83.0,36.0,Jay Beagle,Hitter,Vancouver Canucks,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:52:10Z,2,07:07,12:53,Shot,Wrist Shot,-59.0,-10.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:53:54Z,2,07:07,12:53,Faceoff,n/a,-69.0,-22.0,Adam Gaudette,Winner,Vancouver Canucks,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:54:41Z,2,07:27,12:33,Missed Shot,n/a,-78.0,15.0,Adam Boqvist,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:54:51Z,2,07:31,12:29,Penalty,Delaying Game - Puck over glass,-87.0,-35.0,Brandon Sutter,PenaltyOn,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:55:10Z,2,07:31,12:29,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:55:23Z,2,07:36,12:24,Shot,Slap Shot,-46.0,13.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:55:33Z,2,07:38,12:22,Faceoff,n/a,-69.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:55:51Z,2,07:44,12:16,Blocked Shot,n/a,-63.0,-6.0,Christopher Tanev,Blocker,Vancouver Canucks,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:59:36Z,2,07:50,12:10,Missed Shot,n/a,-80.0,10.0,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:56:06Z,2,08:00,12:00,Shot,Wrist Shot,-70.0,5.0,Zack Smith,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:56:37Z,2,08:03,11:57,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:57:08Z,2,08:34,11:26,Shot,Snap Shot,-59.0,13.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:57:30Z,2,08:34,11:26,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:58:03Z,2,09:02,10:58,Shot,Slap Shot,-47.0,21.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:58:07Z,2,09:04,10:56,Shot,Wrist Shot,-76.0,0.0,Jonathan Toews,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:58:32Z,2,09:04,10:56,Faceoff,n/a,-69.0,22.0,J.T. Miller,Winner,Vancouver Canucks,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:59:07Z,2,09:38,10:22,Shot,Wrist Shot,75.0,2.0,J.T. Miller,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T04:59:20Z,2,09:51,10:09,Hit,n/a,-98.0,-20.0,Kirby Dach,Hitter,Chicago Blackhawks,Antoine Roussel,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:01:05Z,2,09:56,10:04,Faceoff,n/a,-69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:01:24Z,2,10:18,09:42,Hit,n/a,97.0,18.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Zack MacEwen,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:01:48Z,2,10:42,09:18,Hit,n/a,-60.0,37.0,Drake Caggiula,Hitter,Chicago Blackhawks,Tanner Pearson,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:02:10Z,2,10:44,09:16,Penalty,Fighting,-46.0,17.0,Tanner Pearson,PenaltyOn,Vancouver Canucks,Drake Caggiula,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:02:27Z,2,10:44,09:16,Penalty,Fighting,-40.0,23.0,Drake Caggiula,PenaltyOn,Chicago Blackhawks,Tanner Pearson,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:04:27Z,2,10:44,09:16,Faceoff,n/a,-69.0,22.0,J.T. Miller,Winner,Vancouver Canucks,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:04:47Z,2,11:11,08:49,Giveaway,n/a,-98.0,16.0,Jake Virtanen,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:05:00Z,2,11:24,08:36,Hit,n/a,-92.0,-16.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Christopher Tanev,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:05:22Z,2,11:46,08:14,Shot,Slap Shot,-35.0,2.0,Connor Murphy,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:05:31Z,2,11:54,08:06,Shot,Wrist Shot,72.0,2.0,Elias Pettersson,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:05:58Z,2,11:55,08:05,Faceoff,n/a,69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:06:34Z,2,12:25,07:35,Hit,n/a,-94.0,32.0,Zack Smith,Hitter,Chicago Blackhawks,Alexander Edler,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:07:08Z,2,12:59,07:01,Missed Shot,n/a,34.0,26.0,Jordie Benn,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:07:36Z,2,13:26,06:34,Hit,n/a,94.0,-26.0,Adam Gaudette,Hitter,Vancouver Canucks,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:07:46Z,2,13:32,06:28,Penalty,Tripping,37.0,-36.0,Kirby Dach,PenaltyOn,Chicago Blackhawks,Tyler Myers,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:08:20Z,2,13:32,06:28,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:08:32Z,2,13:42,06:18,Takeaway,n/a,-11.0,39.0,Quinn Hughes,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:09:28Z,2,14:38,05:22,Shot,Snap Shot,64.0,-15.0,J.T. Miller,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:09:50Z,2,14:38,05:22,Faceoff,n/a,69.0,-22.0,Brandon Sutter,Winner,Vancouver Canucks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:10:32Z,2,15:06,04:54,Shot,Deflected,74.0,1.0,Antoine Roussel,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:10:49Z,2,15:24,04:36,Blocked Shot,n/a,72.0,1.0,Olli Maatta,Blocker,Chicago Blackhawks,Tyler Myers,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:11:08Z,2,15:43,04:17,Hit,n/a,97.0,7.0,Tyler Myers,Hitter,Vancouver Canucks,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:11:50Z,2,16:25,03:35,Giveaway,n/a,-44.0,-40.0,Loui Eriksson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:11:55Z,2,16:29,03:31,Shot,Wrist Shot,-43.0,28.0,Connor Murphy,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:12:12Z,2,16:47,03:13,Shot,Snap Shot,-55.0,20.0,Ryan Carpenter,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:21:03Z,2,16:48,03:12,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:14:29Z,2,16:53,03:07,Blocked Shot,n/a,-60.0,8.0,Alexander Edler,Blocker,Vancouver Canucks,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:15:14Z,2,16:58,03:02,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:15:15Z,2,17:05,02:55,Missed Shot,n/a,-38.0,-26.0,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:15:41Z,2,17:31,02:29,Missed Shot,n/a,-44.0,23.0,Adam Boqvist,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:15:47Z,2,17:33,02:27,Shot,Slap Shot,-52.0,-1.0,Duncan Keith,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:16:21Z,2,17:33,02:27,Faceoff,n/a,-69.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:16:54Z,2,17:55,02:05,Hit,n/a,-95.0,-9.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Christopher Tanev,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:17:41Z,2,18:42,01:18,Missed Shot,n/a,-68.0,12.0,Dylan Strome,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:17:39Z,2,18:51,01:09,Shot,Wrist Shot,72.0,-14.0,Jake Virtanen,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:18:21Z,2,18:51,01:09,Faceoff,n/a,69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:18:50Z,2,19:08,00:52,Takeaway,n/a,-97.0,12.0,Jordie Benn,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:19:02Z,2,19:19,00:41,Shot,Wrist Shot,71.0,-13.0,Bo Horvat,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:19:41Z,2,19:19,00:41,Faceoff,n/a,69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:19:42Z,2,19:24,00:36,Missed Shot,n/a,32.0,-30.0,Alexander Edler,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:20:04Z,2,19:45,00:15,Giveaway,n/a,20.0,4.0,J.T. Miller,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:38:52Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:39:12Z,3,00:05,19:55,Faceoff,n/a,-20.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:39:36Z,3,00:26,19:34,Shot,Backhand,70.0,-17.0,Drake Caggiula,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:39:39Z,3,00:32,19:28,Giveaway,n/a,31.0,18.0,Elias Pettersson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:39:51Z,3,00:43,19:17,Shot,Wrist Shot,74.0,-16.0,Drake Caggiula,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:40:09Z,3,00:43,19:17,Faceoff,n/a,69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:40:29Z,3,00:54,19:06,Hit,n/a,-87.0,33.0,Zack MacEwen,Hitter,Vancouver Canucks,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:40:36Z,3,01:01,18:59,Missed Shot,n/a,66.0,2.0,Ryan Carpenter,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:41:01Z,3,01:25,18:35,Hit,n/a,-18.0,-42.0,Connor Murphy,Hitter,Chicago Blackhawks,Adam Gaudette,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:41:23Z,3,01:28,18:32,Penalty,Fighting,8.0,-27.0,Adam Gaudette,PenaltyOn,Vancouver Canucks,Connor Murphy,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:41:33Z,3,01:28,18:32,Penalty,Fighting,10.0,-25.0,Connor Murphy,PenaltyOn,Chicago Blackhawks,Adam Gaudette,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:42:06Z,3,01:28,18:32,Penalty,Slashing,11.0,-30.0,Adam Gaudette,PenaltyOn,Vancouver Canucks,Connor Murphy,DrewBy,Vancouver Canucks,Jake Virtanen,ServedBy,Chicago Blackhawks,n/a,n/a,n/a
+2020-02-13T05:42:42Z,3,01:28,18:32,Faceoff,n/a,69.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:43:10Z,3,01:54,18:06,Missed Shot,n/a,68.0,3.0,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:43:18Z,3,01:58,18:02,Shot,Wrist Shot,73.0,-5.0,Ryan Carpenter,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:43:19Z,3,02:00,18:00,Shot,Slap Shot,34.0,-3.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:48:25Z,3,02:00,18:00,Faceoff,n/a,69.0,-22.0,Brandon Sutter,Winner,Vancouver Canucks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:44:51Z,3,03:10,16:50,Blocked Shot,n/a,78.0,-19.0,Jordie Benn,Blocker,Vancouver Canucks,Kirby Dach,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:45:17Z,3,03:35,16:25,Giveaway,n/a,91.0,23.0,Tyler Myers,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:45:19Z,3,03:37,16:23,Shot,Wrist Shot,56.0,11.0,Kirby Dach,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:45:44Z,3,03:37,16:23,Faceoff,n/a,69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:46:04Z,3,03:47,16:13,Missed Shot,n/a,34.0,29.0,Alex Nylander,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:46:15Z,3,03:58,16:02,Shot,Deflected,76.0,1.0,Duncan Keith,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:46:30Z,3,04:13,15:47,Hit,n/a,16.0,-42.0,Zack MacEwen,Hitter,Vancouver Canucks,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:46:40Z,3,04:24,15:36,Giveaway,n/a,94.0,31.0,Troy Stecher,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:46:43Z,3,04:27,15:33,Blocked Shot,n/a,73.0,-1.0,Alexander Edler,Blocker,Vancouver Canucks,Drake Caggiula,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:46:47Z,3,04:31,15:29,Shot,Slap Shot,34.0,3.0,Duncan Keith,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:47:09Z,3,04:53,15:07,Hit,n/a,-74.0,37.0,Olli Maatta,Hitter,Chicago Blackhawks,Antoine Roussel,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:47:31Z,3,05:14,14:46,Takeaway,n/a,81.0,-24.0,Quinn Hughes,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:48:04Z,3,05:39,14:21,Penalty,Hooking,77.0,-33.0,Jonathan Toews,PenaltyOn,Chicago Blackhawks,Quinn Hughes,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:48:35Z,3,05:39,14:21,Faceoff,n/a,-69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:49:07Z,3,05:59,14:01,Missed Shot,n/a,-80.0,-8.0,Brandon Sutter,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:49:34Z,3,06:26,13:34,Missed Shot,n/a,-34.0,2.0,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:50:01Z,3,06:52,13:08,Blocked Shot,n/a,-71.0,1.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Antoine Roussel,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:50:20Z,3,06:52,13:08,Faceoff,n/a,-69.0,-22.0,Tanner Pearson,Winner,Vancouver Canucks,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:50:53Z,3,07:21,12:39,Hit,n/a,41.0,31.0,Alexander Edler,Hitter,Vancouver Canucks,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:51:55Z,3,07:46,12:14,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:52:10Z,3,08:10,11:50,Missed Shot,n/a,60.0,7.0,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:52:42Z,3,08:41,11:19,Hit,n/a,31.0,38.0,Jake Virtanen,Hitter,Vancouver Canucks,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:53:07Z,3,09:07,10:53,Missed Shot,n/a,-68.0,0.0,Zack MacEwen,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:53:44Z,3,09:43,10:17,Shot,Wrist Shot,73.0,10.0,Slater Koekkoek,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:54:34Z,3,10:34,09:26,Hit,n/a,-27.0,38.0,Troy Stecher,Hitter,Vancouver Canucks,Dominik Kubalik,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:54:53Z,3,10:53,09:07,Blocked Shot,n/a,69.0,3.0,Bo Horvat,Blocker,Vancouver Canucks,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:57:48Z,3,11:15,08:45,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:58:21Z,3,11:48,08:12,Takeaway,n/a,66.0,-33.0,Tanner Pearson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:58:37Z,3,11:50,08:10,Faceoff,n/a,69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:59:10Z,3,12:07,07:53,Penalty,Slashing,62.0,-12.0,Tyler Myers,PenaltyOn,Vancouver Canucks,Dylan Strome,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:59:51Z,3,12:07,07:53,Faceoff,n/a,69.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T05:59:58Z,3,12:15,07:45,Shot,Wrist Shot,88.0,-14.0,Alexander Edler,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:00:19Z,3,12:36,07:24,Takeaway,n/a,48.0,40.0,Jay Beagle,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:01:13Z,3,13:29,06:31,Blocked Shot,n/a,76.0,2.0,Alexander Edler,Blocker,Vancouver Canucks,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:01:34Z,3,13:50,06:10,Shot,Slap Shot,67.0,-18.0,Alexander Edler,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:01:45Z,3,14:02,05:58,Shot,Wrist Shot,76.0,-9.0,Jonathan Toews,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:02:11Z,3,14:27,05:33,Shot,Deflected,78.0,-3.0,Slater Koekkoek,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:04:05Z,3,14:27,05:33,Faceoff,n/a,69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:05:16Z,3,15:15,04:45,Shot,Wrist Shot,-79.0,-7.0,Elias Pettersson,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:05:23Z,3,15:22,04:38,Shot,Wrist Shot,-82.0,-12.0,Antoine Roussel,Shooter,Vancouver Canucks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:06:08Z,3,16:07,03:53,Shot,Backhand,87.0,4.0,Patrick Kane,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:06:20Z,3,16:19,03:41,Shot,Wrist Shot,83.0,-7.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:07:54Z,3,16:20,03:40,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:09:21Z,3,17:03,02:57,Shot,Wrist Shot,76.0,13.0,Dylan Strome,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:10:07Z,3,17:12,02:48,Faceoff,n/a,69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:10:15Z,3,17:19,02:41,Hit,n/a,74.0,-42.0,Alexander Edler,Hitter,Vancouver Canucks,Patrick Kane,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:10:32Z,3,17:30,02:30,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:10:58Z,3,17:36,02:24,Shot,Wrist Shot,80.0,25.0,Patrick Kane,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:11:07Z,3,17:44,02:16,Shot,Wrist Shot,85.0,-9.0,Jonathan Toews,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:11:16Z,3,17:51,02:09,Goal,Wrist Shot,59.0,38.0,Brandon Sutter,Scorer,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:11:58Z,3,17:51,02:09,Faceoff,n/a,0.0,0.0,J.T. Miller,Winner,Vancouver Canucks,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:12:19Z,3,18:16,01:44,Missed Shot,n/a,53.0,13.0,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:12:47Z,3,18:40,01:20,Blocked Shot,n/a,73.0,-15.0,Jordie Benn,Blocker,Vancouver Canucks,Dylan Strome,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:13:06Z,3,19:03,00:57,Shot,Wrist Shot,64.0,-14.0,Alex Nylander,Shooter,Chicago Blackhawks,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-13T06:14:11Z,3,19:32,00:28,Faceoff,n/a,69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a

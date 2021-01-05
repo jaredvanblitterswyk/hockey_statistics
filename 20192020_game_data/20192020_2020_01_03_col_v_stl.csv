@@ -1,0 +1,266 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-03T02:45:17Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Brayden Schenn,Winner,St. Louis Blues,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:46:10Z,1,00:05,19:55,Faceoff,n/a,20.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:46:17Z,1,00:12,19:48,Hit,n/a,14.0,-40.0,Ivan Barbashev,Hitter,St. Louis Blues,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:46:46Z,1,00:40,19:20,Hit,n/a,-7.0,-40.0,Ryan Graves,Hitter,Colorado Avalanche,Brayden Schenn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:47:20Z,1,00:54,19:06,Faceoff,n/a,69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:47:45Z,1,01:10,18:50,Hit,n/a,98.0,-2.0,Oskar Sundqvist,Hitter,St. Louis Blues,Samuel Girard,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:47:51Z,1,01:16,18:44,Takeaway,n/a,86.0,-16.0,Erik Johnson,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:48:09Z,1,01:20,18:40,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:49:00Z,1,01:30,18:30,Faceoff,n/a,69.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:49:20Z,1,01:35,18:25,Giveaway,n/a,53.0,-19.0,Matt Nieto,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:49:31Z,1,01:48,18:12,Shot,Wrist Shot,-77.0,16.0,Mikko Rantanen,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:49:37Z,1,01:55,18:05,Shot,Wrist Shot,-30.0,20.0,Nikita Zadorov,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:49:49Z,1,02:07,17:53,Takeaway,n/a,-42.0,41.0,Tyler Bozak,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:50:16Z,1,02:34,17:26,Shot,Slap Shot,30.0,-32.0,Alex Pietrangelo,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:50:22Z,1,02:40,17:20,Blocked Shot,n/a,79.0,0.0,Samuel Girard,Blocker,Colorado Avalanche,Zach Sanford,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:50:56Z,1,03:14,16:46,Blocked Shot,n/a,-63.0,16.0,Justin Faulk,Blocker,St. Louis Blues,Tyson Jost,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:51:06Z,1,03:21,16:39,Missed Shot,n/a,-34.0,36.0,Gabriel Landeskog,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:51:24Z,1,03:21,16:39,Faceoff,n/a,-69.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:51:39Z,1,03:28,16:32,Missed Shot,n/a,-79.0,3.0,Joonas Donskoi,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:51:47Z,1,03:36,16:24,Missed Shot,n/a,-42.0,-32.0,Nikita Zadorov,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:52:55Z,1,04:44,15:16,Takeaway,n/a,-95.0,-15.0,Nazem Kadri,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:53:01Z,1,04:50,15:10,Blocked Shot,n/a,-70.0,10.0,Robert Bortuzzo,Blocker,St. Louis Blues,Matt Calvert,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:53:21Z,1,05:10,14:50,Missed Shot,n/a,-68.0,19.0,J.T. Compher,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:53:28Z,1,05:17,14:43,Missed Shot,n/a,-37.0,-30.0,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:53:36Z,1,05:26,14:34,Shot,Wrist Shot,-75.0,9.0,J.T. Compher,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:53:53Z,1,05:42,14:18,Shot,Slap Shot,31.0,-34.0,Colton Parayko,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:54:31Z,1,05:58,14:02,Faceoff,n/a,69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:55:12Z,1,06:08,13:52,Blocked Shot,n/a,-75.0,12.0,Alex Pietrangelo,Blocker,St. Louis Blues,Tyson Jost,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:56:06Z,1,07:01,12:59,Hit,n/a,70.0,-40.0,Ian Cole,Hitter,Colorado Avalanche,Jaden Schwartz,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:56:15Z,1,07:05,12:55,Hit,n/a,97.0,3.0,Brayden Schenn,Hitter,St. Louis Blues,Nikita Zadorov,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:56:15Z,1,07:10,12:50,Shot,Slap Shot,28.0,23.0,Jay Bouwmeester,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:56:24Z,1,07:18,12:42,Takeaway,n/a,7.0,-37.0,Nathan MacKinnon,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:56:48Z,1,07:23,12:37,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:57:03Z,1,07:33,12:27,Shot,Wrist Shot,-31.0,-21.0,Samuel Girard,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:59:33Z,1,07:57,12:03,Faceoff,n/a,0.0,0.0,Nathan MacKinnon,Winner,Colorado Avalanche,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:00:00Z,1,08:20,11:40,Hit,n/a,49.0,39.0,Zach Sanford,Hitter,St. Louis Blues,Joonas Donskoi,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:00:31Z,1,08:28,11:32,Faceoff,n/a,69.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:00:53Z,1,08:38,11:22,Hit,n/a,81.0,39.0,Alexander Steen,Hitter,St. Louis Blues,Cale Makar,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:01:24Z,1,09:00,11:00,Missed Shot,n/a,-75.0,-5.0,Joonas Donskoi,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:01:24Z,1,09:09,10:51,Hit,n/a,-90.0,-8.0,Colton Parayko,Hitter,St. Louis Blues,Joonas Donskoi,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:01:47Z,1,09:10,10:50,Penalty,Hi-sticking,-97.0,-13.0,Joonas Donskoi,PenaltyOn,Colorado Avalanche,Colton Parayko,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:02:17Z,1,09:10,10:50,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:02:25Z,1,09:29,10:31,Giveaway,n/a,56.0,38.0,David Perron,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:02:32Z,1,09:37,10:23,Takeaway,n/a,-59.0,-10.0,Alex Pietrangelo,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:02:45Z,1,09:50,10:10,Giveaway,n/a,88.0,-33.0,David Perron,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:03:01Z,1,10:05,09:55,Missed Shot,n/a,69.0,-16.0,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:03:16Z,1,10:20,09:40,Missed Shot,n/a,73.0,2.0,Ryan O'Reilly,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:03:41Z,1,10:45,09:15,Shot,Wrist Shot,61.0,-7.0,Alex Pietrangelo,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:03:53Z,1,10:57,09:03,Missed Shot,n/a,79.0,-6.0,Brayden Schenn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:04:38Z,1,11:13,08:47,Faceoff,n/a,-69.0,22.0,Tyler Bozak,Winner,St. Louis Blues,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:04:51Z,1,11:25,08:35,Hit,n/a,97.0,9.0,Zach Sanford,Hitter,St. Louis Blues,Samuel Girard,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:04:59Z,1,11:28,08:32,Hit,n/a,79.0,40.0,Joonas Donskoi,Hitter,Colorado Avalanche,Tyler Bozak,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:05:24Z,1,11:58,08:02,Takeaway,n/a,18.0,25.0,Erik Johnson,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:05:34Z,1,12:08,07:52,Shot,Wrist Shot,-57.0,41.0,Erik Johnson,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:05:43Z,1,12:15,07:45,Missed Shot,n/a,-33.0,7.0,Ryan Graves,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:07:44Z,1,12:16,07:44,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:08:21Z,1,12:45,07:15,Takeaway,n/a,-74.0,7.0,Ryan O'Reilly,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:08:31Z,1,12:55,07:05,Hit,n/a,77.0,-37.0,Nazem Kadri,Hitter,Colorado Avalanche,David Perron,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:08:47Z,1,13:11,06:49,Takeaway,n/a,-95.0,22.0,David Perron,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:08:49Z,1,13:14,06:46,Hit,n/a,-6.0,-38.0,Ryan Graves,Hitter,Colorado Avalanche,Robert Bortuzzo,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:09:32Z,1,13:50,06:10,Penalty,Hooking,-48.0,-34.0,Matt Nieto,PenaltyOn,Colorado Avalanche,Ivan Barbashev,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:10:02Z,1,13:50,06:10,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:10:16Z,1,13:56,06:04,Shot,Wrist Shot,51.0,-18.0,Brayden Schenn,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:10:33Z,1,13:56,06:04,Faceoff,n/a,69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:11:07Z,1,14:20,05:40,Blocked Shot,n/a,67.0,-4.0,Ian Cole,Blocker,Colorado Avalanche,Brayden Schenn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:11:33Z,1,14:46,05:14,Giveaway,n/a,65.0,34.0,Ryan O'Reilly,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:12:05Z,1,15:18,04:42,Blocked Shot,n/a,67.0,9.0,Nikita Zadorov,Blocker,Colorado Avalanche,Justin Faulk,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:12:10Z,1,15:23,04:37,Blocked Shot,n/a,68.0,-2.0,Ryan Graves,Blocker,Colorado Avalanche,Zach Sanford,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:12:41Z,1,15:45,04:15,Takeaway,n/a,55.0,-13.0,J.T. Compher,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:12:41Z,1,15:55,04:05,Shot,Wrist Shot,53.0,-27.0,Robert Thomas,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:12:50Z,1,16:01,03:59,Shot,Wrist Shot,58.0,27.0,Vince Dunn,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:14:54Z,1,16:01,03:59,Faceoff,n/a,69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:15:24Z,1,16:18,03:42,Takeaway,n/a,54.0,40.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:15:36Z,1,16:18,03:42,Penalty,Slashing,74.0,40.0,Brayden Schenn,PenaltyOn,St. Louis Blues,Joonas Donskoi,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:16:09Z,1,16:18,03:42,Faceoff,n/a,-69.0,-22.0,Mikko Rantanen,Winner,Colorado Avalanche,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:16:25Z,1,16:39,03:21,Blocked Shot,n/a,-67.0,0.0,Jay Bouwmeester,Blocker,St. Louis Blues,Joonas Donskoi,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:16:45Z,1,16:39,03:21,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Mikko Rantanen,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:17:17Z,1,17:02,02:58,Hit,n/a,-65.0,-39.0,Robert Bortuzzo,Hitter,St. Louis Blues,Andre Burakovsky,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:17:32Z,1,17:22,02:38,Shot,Wrist Shot,-62.0,12.0,Joonas Donskoi,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:17:42Z,1,17:32,02:28,Missed Shot,n/a,-50.0,28.0,Andre Burakovsky,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:18:18Z,1,18:07,01:53,Giveaway,n/a,-30.0,-37.0,Tyson Jost,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:18:33Z,1,18:22,01:38,Shot,Wrist Shot,-62.0,-29.0,Tyson Jost,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:18:45Z,1,18:32,01:28,Takeaway,n/a,-7.0,-35.0,Gabriel Landeskog,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:19:23Z,1,18:35,01:25,Shot,Wrist Shot,-55.0,-29.0,Nazem Kadri,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:19:23Z,1,19:11,00:49,Takeaway,n/a,58.0,-1.0,Pierre-Edouard Bellemare,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:19:29Z,1,19:18,00:42,Blocked Shot,n/a,-67.0,0.0,Vince Dunn,Blocker,St. Louis Blues,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:19:41Z,1,19:30,00:30,Shot,Wrist Shot,47.0,-20.0,David Perron,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:20:10Z,1,19:30,00:30,Faceoff,n/a,69.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:20:34Z,1,19:46,00:14,Takeaway,n/a,45.0,-37.0,Nathan MacKinnon,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:20:43Z,1,19:49,00:11,Goal,Wrist Shot,-69.0,-1.0,Nathan MacKinnon,Scorer,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:21:20Z,1,19:49,00:11,Faceoff,n/a,0.0,0.0,J.T. Compher,Winner,Colorado Avalanche,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:39:54Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Gabriel Landeskog,Winner,Colorado Avalanche,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:40:32Z,2,00:29,19:31,Hit,n/a,-17.0,42.0,Ivan Barbashev,Hitter,St. Louis Blues,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:41:46Z,2,01:26,18:34,Faceoff,n/a,-20.0,-22.0,Robert Thomas,Winner,St. Louis Blues,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:42:16Z,2,01:34,18:26,Faceoff,n/a,-20.0,22.0,Robert Thomas,Winner,St. Louis Blues,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:42:32Z,2,01:42,18:18,Blocked Shot,n/a,-71.0,-11.0,Ian Cole,Blocker,Colorado Avalanche,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:43:04Z,2,01:50,18:10,Faceoff,n/a,69.0,-22.0,J.T. Compher,Winner,Colorado Avalanche,Mackenzie MacEachern,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:43:31Z,2,02:06,17:54,Hit,n/a,98.0,-7.0,Colton Parayko,Hitter,St. Louis Blues,J.T. Compher,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:43:41Z,2,02:16,17:44,Missed Shot,n/a,42.0,40.0,Matt Nieto,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:43:52Z,2,02:27,17:33,Shot,Wrist Shot,-77.0,-9.0,Mackenzie MacEachern,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:44:25Z,2,02:59,17:01,Shot,Wrist Shot,84.0,-5.0,Tyson Jost,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:44:34Z,2,03:00,17:00,Shot,Backhand,84.0,2.0,Tyson Jost,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:44:44Z,2,03:01,16:59,Shot,Wrist Shot,86.0,5.0,Tyson Jost,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:44:50Z,2,03:01,16:59,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:45:19Z,2,03:19,16:41,Shot,Wrist Shot,31.0,17.0,Samuel Girard,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:45:41Z,2,03:20,16:40,Goal,Wrist Shot,77.0,26.0,Nazem Kadri,Scorer,Colorado Avalanche,Samuel Girard,Assist,Colorado Avalanche,Matt Calvert,Assist,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues
+2020-01-03T03:45:54Z,2,03:20,16:40,Faceoff,n/a,0.0,0.0,Nazem Kadri,Winner,Colorado Avalanche,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:46:16Z,2,03:39,16:21,Hit,n/a,-97.0,24.0,Nazem Kadri,Hitter,Colorado Avalanche,Colton Parayko,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:46:29Z,2,03:54,16:06,Takeaway,n/a,56.0,38.0,Ryan O'Reilly,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:46:54Z,2,04:09,15:51,Giveaway,n/a,-14.0,-38.0,Gabriel Landeskog,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:46:54Z,2,04:19,15:41,Giveaway,n/a,-12.0,40.0,Joonas Donskoi,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:47:08Z,2,04:32,15:28,Blocked Shot,n/a,-56.0,0.0,Pierre-Edouard Bellemare,Blocker,Colorado Avalanche,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:47:10Z,2,04:35,15:25,Blocked Shot,n/a,-77.0,8.0,Ryan Graves,Blocker,Colorado Avalanche,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:47:19Z,2,04:44,15:16,Takeaway,n/a,-22.0,20.0,Cale Makar,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:47:56Z,2,05:21,14:39,Shot,Wrist Shot,59.0,12.0,J.T. Compher,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:48:13Z,2,05:28,14:32,Hit,n/a,96.0,-24.0,Robert Thomas,Hitter,St. Louis Blues,Tyson Jost,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:48:13Z,2,05:32,14:28,Takeaway,n/a,70.0,-19.0,J.T. Compher,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:48:13Z,2,05:35,14:25,Shot,Wrist Shot,86.0,6.0,J.T. Compher,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:48:20Z,2,05:36,14:24,Missed Shot,n/a,86.0,6.0,J.T. Compher,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:48:20Z,2,05:41,14:19,Penalty,Interference,94.0,-9.0,Tyler Bozak,PenaltyOn,St. Louis Blues,J.T. Compher,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:48:54Z,2,05:41,14:19,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:49:09Z,2,05:58,14:02,Shot,Slap Shot,54.0,36.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:49:43Z,2,06:31,13:29,Shot,Wrist Shot,35.0,21.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:50:04Z,2,06:31,13:29,Faceoff,n/a,69.0,22.0,Oskar Sundqvist,Winner,St. Louis Blues,Mikko Rantanen,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:50:19Z,2,06:36,13:24,Penalty,Tripping,94.0,28.0,Alex Pietrangelo,PenaltyOn,St. Louis Blues,Mikko Rantanen,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:51:06Z,2,06:36,13:24,Faceoff,n/a,69.0,22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:51:13Z,2,06:49,13:11,Missed Shot,n/a,51.0,33.0,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:51:26Z,2,07:02,12:58,Missed Shot,n/a,62.0,24.0,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:51:34Z,2,07:09,12:51,Shot,Wrist Shot,52.0,6.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:51:51Z,2,07:09,12:51,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:52:17Z,2,07:23,12:37,Missed Shot,n/a,59.0,20.0,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:53:19Z,2,07:40,12:20,Goal,Snap Shot,72.0,-15.0,Mikko Rantanen,Scorer,Colorado Avalanche,Cale Makar,Assist,Colorado Avalanche,Nathan MacKinnon,Assist,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues
+2020-01-03T04:27:22Z,2,07:40,12:20,Faceoff,n/a,0.0,0.0,Nazem Kadri,Winner,Colorado Avalanche,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:54:17Z,2,08:17,11:43,Shot,Wrist Shot,50.0,-25.0,Andre Burakovsky,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:54:27Z,2,08:29,11:31,Shot,Wrist Shot,63.0,-9.0,Nazem Kadri,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:55:06Z,2,08:29,11:31,Faceoff,n/a,69.0,22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:55:14Z,2,08:37,11:23,Shot,Backhand,84.0,5.0,Gabriel Landeskog,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:55:50Z,2,09:09,10:51,Takeaway,n/a,78.0,8.0,Colton Parayko,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:56:11Z,2,09:35,10:25,Shot,Wrist Shot,-80.0,5.0,Robert Thomas,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:56:28Z,2,09:49,10:11,Blocked Shot,n/a,73.0,7.0,Justin Faulk,Blocker,St. Louis Blues,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:57:17Z,2,10:41,09:19,Shot,Wrist Shot,-54.0,33.0,Robert Bortuzzo,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:57:28Z,2,10:51,09:09,Shot,Wrist Shot,-52.0,-29.0,Jay Bouwmeester,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:59:34Z,2,10:51,09:09,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Zach Sanford,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:00:19Z,2,10:58,09:02,Faceoff,n/a,-20.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:00:50Z,2,11:08,08:52,Giveaway,n/a,13.0,38.0,Alex Pietrangelo,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:00:53Z,2,11:11,08:49,Shot,Wrist Shot,50.0,28.0,Valeri Nichushkin,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:01:16Z,2,11:11,08:49,Faceoff,n/a,69.0,22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Oskar Sundqvist,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:01:32Z,2,11:17,08:43,Shot,Wrist Shot,62.0,28.0,Ryan Graves,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:01:41Z,2,11:17,08:43,Faceoff,n/a,69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Oskar Sundqvist,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:02:22Z,2,11:32,08:28,Shot,Wrist Shot,-29.0,35.0,Colton Parayko,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:02:34Z,2,11:44,08:16,Shot,Wrist Shot,66.0,-38.0,Joonas Donskoi,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:02:55Z,2,11:59,08:01,Shot,Wrist Shot,44.0,-30.0,Gabriel Landeskog,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:03:03Z,2,12:13,07:47,Missed Shot,n/a,30.0,-37.0,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:03:14Z,2,12:24,07:36,Takeaway,n/a,-96.0,-16.0,Ivan Barbashev,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:03:39Z,2,12:49,07:11,Hit,n/a,-97.0,-16.0,Nikita Zadorov,Hitter,Colorado Avalanche,Ivan Barbashev,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:03:42Z,2,12:52,07:08,Takeaway,n/a,-90.0,-32.0,Ivan Barbashev,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:03:45Z,2,12:55,07:05,Shot,Wrist Shot,-68.0,-21.0,Mackenzie MacEachern,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:04:08Z,2,13:13,06:47,Giveaway,n/a,-59.0,39.0,Tyson Jost,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:04:08Z,2,13:18,06:42,Blocked Shot,n/a,-74.0,11.0,Nikita Zadorov,Blocker,Colorado Avalanche,Justin Faulk,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:04:33Z,2,13:42,06:18,Goal,Wrap-around,-87.0,-5.0,Robert Thomas,Scorer,St. Louis Blues,Alex Pietrangelo,Assist,St. Louis Blues,Tyler Bozak,Assist,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche
+2020-01-03T04:05:48Z,2,13:42,06:18,Faceoff,n/a,0.0,0.0,Ryan O'Reilly,Winner,St. Louis Blues,Matt Calvert,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:06:02Z,2,13:46,06:14,Takeaway,n/a,32.0,24.0,Nazem Kadri,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:06:26Z,2,14:10,05:50,Takeaway,n/a,-37.0,22.0,Zach Sanford,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:06:35Z,2,14:19,05:41,Shot,Slap Shot,-59.0,-24.0,Ryan O'Reilly,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:09:15Z,2,14:19,05:41,Faceoff,n/a,-69.0,-22.0,Brayden Schenn,Winner,St. Louis Blues,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:09:16Z,2,14:46,05:14,Giveaway,n/a,-17.0,42.0,Brayden Schenn,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:09:34Z,2,14:48,05:12,Blocked Shot,n/a,-44.0,5.0,Joonas Donskoi,Blocker,Colorado Avalanche,Jay Bouwmeester,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:09:19Z,2,14:50,05:10,Giveaway,n/a,-29.0,31.0,Joonas Donskoi,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:09:34Z,2,15:00,05:00,Shot,Wrist Shot,-82.0,0.0,Alexander Steen,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:09:51Z,2,15:01,04:59,Shot,Wrist Shot,-85.0,3.0,Alexander Steen,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:10:00Z,2,15:02,04:58,Faceoff,n/a,-69.0,22.0,Tyler Bozak,Winner,St. Louis Blues,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:10:35Z,2,15:26,04:34,Blocked Shot,n/a,-67.0,3.0,J.T. Compher,Blocker,Colorado Avalanche,Alexander Steen,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:10:48Z,2,15:40,04:20,Missed Shot,n/a,-70.0,30.0,Justin Faulk,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:10:58Z,2,15:49,04:11,Hit,n/a,-30.0,-39.0,Nikita Zadorov,Hitter,Colorado Avalanche,Alex Pietrangelo,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:11:27Z,2,16:15,03:45,Penalty,Interference,-77.0,39.0,Samuel Girard,PenaltyOn,Colorado Avalanche,Zach Sanford,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:13:30Z,2,16:15,03:45,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:13:45Z,2,16:19,03:41,Goal,Slap Shot,-34.0,-23.0,Alex Pietrangelo,Scorer,St. Louis Blues,Ryan O'Reilly,Assist,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a
+2020-01-03T04:14:53Z,2,16:19,03:41,Faceoff,n/a,0.0,0.0,Gabriel Landeskog,Winner,Colorado Avalanche,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:15:16Z,2,16:42,03:18,Faceoff,n/a,69.0,22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:16:10Z,2,17:02,02:58,Faceoff,n/a,69.0,-22.0,Robert Thomas,Winner,St. Louis Blues,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:16:56Z,2,17:29,02:31,Hit,n/a,57.0,37.0,Robert Thomas,Hitter,St. Louis Blues,Ian Cole,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:17:05Z,2,17:38,02:22,Takeaway,n/a,-38.0,1.0,Mikko Rantanen,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:17:05Z,2,17:40,02:20,Shot,Wrist Shot,-32.0,0.0,Mikko Rantanen,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:17:35Z,2,18:12,01:48,Missed Shot,n/a,54.0,10.0,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:17:47Z,2,18:24,01:36,Hit,n/a,57.0,20.0,Matt Calvert,Hitter,Colorado Avalanche,Alex Pietrangelo,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:17:55Z,2,18:32,01:28,Hit,n/a,-44.0,-39.0,Pierre-Edouard Bellemare,Hitter,Colorado Avalanche,Brayden Schenn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:18:03Z,2,18:40,01:20,Shot,Wrist Shot,81.0,38.0,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:18:27Z,2,18:59,01:01,Penalty,Tripping,69.0,-37.0,Jay Bouwmeester,PenaltyOn,St. Louis Blues,Tyson Jost,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:18:55Z,2,18:59,01:01,Faceoff,n/a,69.0,22.0,Mikko Rantanen,Winner,Colorado Avalanche,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:19:48Z,2,19:21,00:39,Takeaway,n/a,-43.0,-39.0,Nathan MacKinnon,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:19:58Z,2,19:31,00:29,Shot,Wrist Shot,62.0,27.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:20:12Z,2,19:44,00:16,Goal,Wrist Shot,38.0,6.0,Cale Makar,Scorer,Colorado Avalanche,Andre Burakovsky,Assist,Colorado Avalanche,Nathan MacKinnon,Assist,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues
+2020-01-03T04:20:54Z,2,19:44,00:16,Faceoff,n/a,0.0,0.0,Nazem Kadri,Winner,Colorado Avalanche,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:39:47Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Nathan MacKinnon,Winner,Colorado Avalanche,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:40:04Z,3,00:14,19:46,Hit,n/a,-54.0,41.0,Brayden Schenn,Hitter,St. Louis Blues,Joonas Donskoi,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:40:08Z,3,00:18,19:42,Missed Shot,n/a,-80.0,13.0,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:40:43Z,3,00:50,19:10,Shot,Wrist Shot,-32.0,-1.0,Colton Parayko,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:41:17Z,3,01:27,18:33,Takeaway,n/a,-70.0,38.0,Alex Pietrangelo,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:41:32Z,3,01:42,18:18,Giveaway,n/a,17.0,33.0,Alex Pietrangelo,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:42:19Z,3,02:27,17:33,Giveaway,n/a,-94.0,-2.0,Jordan Binnington,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:42:21Z,3,02:32,17:28,Hit,n/a,-73.0,40.0,Jacob de la Rose,Hitter,St. Louis Blues,Matt Nieto,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:42:28Z,3,02:34,17:26,Hit,n/a,-98.0,17.0,Colton Parayko,Hitter,St. Louis Blues,Pierre-Edouard Bellemare,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:42:45Z,3,02:55,17:05,Missed Shot,n/a,85.0,33.0,Jay Bouwmeester,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:43:16Z,3,03:26,16:34,Shot,Wrist Shot,-61.0,-1.0,Joonas Donskoi,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:43:42Z,3,03:50,16:10,Takeaway,n/a,-86.0,37.0,Valeri Nichushkin,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:43:59Z,3,04:12,15:48,Giveaway,n/a,-4.0,-21.0,Ryan Graves,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:44:08Z,3,04:18,15:42,Missed Shot,n/a,40.0,33.0,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:44:08Z,3,04:18,15:42,Missed Shot,n/a,60.0,-20.0,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:44:30Z,3,04:40,15:20,Giveaway,n/a,61.0,-23.0,Ryan Graves,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:44:34Z,3,04:44,15:16,Shot,Wrist Shot,37.0,-19.0,Robert Bortuzzo,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:45:01Z,3,04:47,15:13,Faceoff,n/a,69.0,22.0,Tyler Bozak,Winner,St. Louis Blues,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:45:58Z,3,05:31,14:29,Hit,n/a,46.0,-38.0,Matt Nieto,Hitter,Colorado Avalanche,Tyler Bozak,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:46:30Z,3,06:01,13:59,Shot,Wrist Shot,62.0,28.0,Brayden Schenn,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:46:39Z,3,06:10,13:50,Shot,Wrist Shot,-56.0,23.0,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:48:39Z,3,06:10,13:50,Faceoff,n/a,-69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:48:58Z,3,06:18,13:42,Giveaway,n/a,-38.0,39.0,Erik Johnson,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:49:12Z,3,06:31,13:29,Shot,Wrist Shot,74.0,26.0,Zach Sanford,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:49:31Z,3,06:31,13:29,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:50:06Z,3,06:56,13:04,Goal,Slap Shot,-52.0,32.0,Nazem Kadri,Scorer,Colorado Avalanche,Samuel Girard,Assist,Colorado Avalanche,Valeri Nichushkin,Assist,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues
+2020-01-03T04:50:53Z,3,06:56,13:04,Faceoff,n/a,0.0,0.0,Nathan MacKinnon,Winner,Colorado Avalanche,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:51:05Z,3,07:15,12:45,Takeaway,n/a,-36.0,10.0,Nathan MacKinnon,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:51:05Z,3,07:17,12:43,Shot,Wrist Shot,-55.0,4.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:51:36Z,3,07:17,12:43,Faceoff,n/a,-69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:51:49Z,3,07:25,12:35,Blocked Shot,n/a,-74.0,-10.0,Jacob de la Rose,Blocker,St. Louis Blues,Ryan Graves,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:51:57Z,3,07:27,12:33,Shot,Wrist Shot,-74.0,9.0,Andre Burakovsky,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:52:58Z,3,08:31,11:29,Giveaway,n/a,-82.0,-37.0,Tyler Bozak,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:53:25Z,3,08:57,11:03,Hit,n/a,98.0,7.0,Samuel Girard,Hitter,Colorado Avalanche,Alex Pietrangelo,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:53:35Z,3,09:10,10:50,Blocked Shot,n/a,82.0,-9.0,Samuel Girard,Blocker,Colorado Avalanche,Oskar Sundqvist,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:53:57Z,3,09:32,10:28,Blocked Shot,n/a,70.0,11.0,Erik Johnson,Blocker,Colorado Avalanche,Brayden Schenn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:54:20Z,3,09:56,10:04,Giveaway,n/a,-64.0,40.0,Nathan MacKinnon,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:54:27Z,3,10:02,09:58,Shot,Slap Shot,54.0,-23.0,Ryan O'Reilly,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:56:26Z,3,10:02,09:58,Faceoff,n/a,69.0,-22.0,Matt Calvert,Winner,Colorado Avalanche,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:57:10Z,3,10:20,09:40,Giveaway,n/a,-57.0,36.0,Ryan O'Reilly,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:57:12Z,3,10:22,09:38,Shot,Tip-In,-74.0,9.0,Valeri Nichushkin,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:57:43Z,3,10:51,09:09,Missed Shot,n/a,85.0,10.0,Ryan O'Reilly,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:57:47Z,3,10:57,09:03,Blocked Shot,n/a,74.0,-17.0,Erik Johnson,Blocker,Colorado Avalanche,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:58:09Z,3,11:01,08:59,Faceoff,n/a,69.0,-22.0,Tyler Bozak,Winner,St. Louis Blues,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:58:51Z,3,11:22,08:38,Penalty,Hooking,72.0,41.0,Jaden Schwartz,PenaltyOn,St. Louis Blues,Ian Cole,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:59:20Z,3,11:22,08:38,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:00:00Z,3,12:04,07:56,Shot,Slap Shot,-56.0,26.0,Gabriel Landeskog,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:00:14Z,3,12:05,07:55,Goal,Wrist Shot,-86.0,0.0,J.T. Compher,Scorer,Colorado Avalanche,Gabriel Landeskog,Assist,Colorado Avalanche,Samuel Girard,Assist,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues
+2020-01-03T05:00:47Z,3,12:05,07:55,Faceoff,n/a,0.0,0.0,Ivan Barbashev,Winner,St. Louis Blues,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:01:22Z,3,12:13,07:47,Faceoff,n/a,69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Oskar Sundqvist,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:01:43Z,3,12:26,07:34,Shot,Wrist Shot,-65.0,-11.0,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:02:09Z,3,12:27,07:33,Faceoff,n/a,-69.0,-22.0,J.T. Compher,Winner,Colorado Avalanche,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:02:56Z,3,13:10,06:50,Hit,n/a,91.0,32.0,Nikita Zadorov,Hitter,Colorado Avalanche,Brayden Schenn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:02:59Z,3,13:14,06:46,Shot,Wrist Shot,32.0,-33.0,Colton Parayko,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:03:14Z,3,13:28,06:32,Blocked Shot,n/a,-79.0,-8.0,Colton Parayko,Blocker,St. Louis Blues,Nazem Kadri,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:03:50Z,3,13:37,06:23,Faceoff,n/a,-69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:04:10Z,3,14:02,05:58,Takeaway,n/a,97.0,-9.0,Robert Thomas,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:04:16Z,3,14:07,05:53,Takeaway,n/a,40.0,-2.0,Gabriel Landeskog,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:04:28Z,3,14:19,05:41,Goal,Slap Shot,-56.0,-29.0,Joonas Donskoi,Scorer,Colorado Avalanche,Nathan MacKinnon,Assist,Colorado Avalanche,Samuel Girard,Assist,Colorado Avalanche,Jordan Binnington,Goalie,St. Louis Blues
+2020-01-03T05:06:08Z,3,14:19,05:41,Faceoff,n/a,0.0,0.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:07:10Z,3,14:37,05:23,Faceoff,n/a,69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:07:33Z,3,14:52,05:08,Shot,Wrist Shot,-67.0,-23.0,Samuel Girard,Shooter,Colorado Avalanche,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:09:53Z,3,14:52,05:08,Faceoff,n/a,-69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:09:56Z,3,15:00,05:00,Hit,n/a,-35.0,-38.0,Jacob de la Rose,Hitter,St. Louis Blues,Pierre-Edouard Bellemare,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:10:07Z,3,15:11,04:49,Hit,n/a,70.0,40.0,Nikita Zadorov,Hitter,Colorado Avalanche,Zach Sanford,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:10:09Z,3,15:14,04:46,Shot,Wrist Shot,49.0,26.0,Mackenzie MacEachern,Shooter,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:11:11Z,3,16:12,03:48,Giveaway,n/a,67.0,39.0,Cale Makar,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:11:24Z,3,16:14,03:46,Goal,Wrist Shot,74.0,6.0,Robert Thomas,Scorer,St. Louis Blues,Jaden Schwartz,Assist,St. Louis Blues,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a
+2020-01-03T05:12:18Z,3,16:14,03:46,Faceoff,n/a,0.0,0.0,Nazem Kadri,Winner,Colorado Avalanche,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:12:35Z,3,17:05,02:55,Missed Shot,n/a,-83.0,-16.0,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:14:00Z,3,18:00,02:00,Faceoff,n/a,-20.0,-22.0,Robert Thomas,Winner,St. Louis Blues,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T05:15:09Z,3,18:58,01:02,Faceoff,n/a,20.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Zach Sanford,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a

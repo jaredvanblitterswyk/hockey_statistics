@@ -1,0 +1,233 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-29T03:38:10Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:38:41Z,1,00:11,19:49,Giveaway,n/a,-96.0,-18.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:38:53Z,1,00:22,19:38,Hit,n/a,96.0,5.0,Logan Couture,Hitter,San Jose Sharks,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:39:34Z,1,01:03,18:57,Hit,n/a,96.0,-4.0,Joel Farabee,Hitter,Philadelphia Flyers,Joe Thornton,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:39:44Z,1,01:10,18:50,Hit,n/a,85.0,33.0,Marcus Sorensen,Hitter,San Jose Sharks,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:39:52Z,1,01:21,18:39,Hit,n/a,-96.0,14.0,Brenden Dillon,Hitter,San Jose Sharks,Kevin Hayes,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:40:00Z,1,01:29,18:31,Hit,n/a,-97.0,0.0,Brent Burns,Hitter,San Jose Sharks,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:48:28Z,1,01:35,18:25,Takeaway,n/a,-84.0,-10.0,James van Riemsdyk,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:40:22Z,1,01:52,18:08,Hit,n/a,55.0,-41.0,Timo Meier,Hitter,San Jose Sharks,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:40:29Z,1,01:58,18:02,Hit,n/a,66.0,41.0,Barclay Goodrow,Hitter,San Jose Sharks,Philippe Myers,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:40:41Z,1,02:10,17:50,Takeaway,n/a,25.0,-26.0,Jakub Voracek,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:40:43Z,1,02:13,17:47,Shot,Wrist Shot,-67.0,-18.0,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:41:11Z,1,02:13,17:47,Faceoff,n/a,-69.0,-22.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:41:23Z,1,02:25,17:35,Blocked Shot,n/a,-67.0,1.0,Brent Burns,Blocker,San Jose Sharks,Travis Sanheim,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:41:32Z,1,02:29,17:31,Missed Shot,n/a,-34.0,5.0,Justin Braun,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:41:55Z,1,02:57,17:03,Hit,n/a,-71.0,-41.0,Brenden Dillon,Hitter,San Jose Sharks,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:42:16Z,1,03:00,17:00,Takeaway,n/a,-48.0,34.0,Claude Giroux,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:42:02Z,1,03:04,16:56,Hit,n/a,-94.0,15.0,Melker Karlsson,Hitter,San Jose Sharks,Claude Giroux,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:42:33Z,1,03:35,16:25,Blocked Shot,n/a,75.0,-19.0,Ivan Provorov,Blocker,Philadelphia Flyers,Tomas Hertl,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:44:14Z,1,04:59,15:01,Faceoff,n/a,69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:44:54Z,1,05:34,14:26,Hit,n/a,95.0,14.0,Evander Kane,Hitter,San Jose Sharks,Shayne Gostisbehere,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:45:06Z,1,05:44,14:16,Hit,n/a,-74.0,-40.0,Brent Burns,Hitter,San Jose Sharks,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:45:30Z,1,06:07,13:53,Hit,n/a,79.0,-42.0,Melker Karlsson,Hitter,San Jose Sharks,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:46:05Z,1,06:26,13:34,Faceoff,n/a,69.0,22.0,Logan Couture,Winner,San Jose Sharks,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:46:29Z,1,06:35,13:25,Shot,Backhand,-82.0,-20.0,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:46:57Z,1,06:47,13:13,Giveaway,n/a,98.0,-4.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:46:45Z,1,06:50,13:10,Shot,Snap Shot,61.0,-10.0,Kevin Labanc,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:48:42Z,1,06:50,13:10,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:49:18Z,1,06:58,13:02,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Logan Couture,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:49:58Z,1,07:23,12:37,Takeaway,n/a,-57.0,-40.0,Kevin Labanc,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:50:16Z,1,07:42,12:18,Missed Shot,n/a,-57.0,-13.0,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:50:33Z,1,07:59,12:01,Takeaway,n/a,97.0,19.0,Patrick Marleau,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:51:29Z,1,08:54,11:06,Hit,n/a,53.0,-42.0,Justin Braun,Hitter,Philadelphia Flyers,Evander Kane,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:51:43Z,1,09:09,10:51,Takeaway,n/a,3.0,-37.0,Morgan Frost,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:51:52Z,1,09:15,10:45,Goal,Snap Shot,62.0,2.0,Mario Ferraro,Scorer,San Jose Sharks,Barclay Goodrow,Assist,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a
+2019-12-29T03:52:26Z,1,09:15,10:45,Faceoff,n/a,0.0,0.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:52:44Z,1,09:32,10:28,Hit,n/a,84.0,-38.0,Stefan Noesen,Hitter,San Jose Sharks,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:53:00Z,1,09:45,10:15,Shot,Wrist Shot,34.0,-10.0,Brent Burns,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:53:17Z,1,09:45,10:15,Faceoff,n/a,69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:53:32Z,1,09:52,10:08,Shot,Backhand,82.0,-5.0,Tomas Hertl,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:53:46Z,1,09:53,10:07,Shot,Backhand,82.0,-4.0,Tomas Hertl,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:59:02Z,1,10:04,09:56,Missed Shot,n/a,81.0,-6.0,Logan Couture,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:54:11Z,1,10:32,09:28,Takeaway,n/a,91.0,-29.0,Travis Konecny,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:55:00Z,1,11:10,08:50,Blocked Shot,n/a,-71.0,-15.0,Marcus Sorensen,Blocker,San Jose Sharks,Philippe Myers,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:57:03Z,1,11:11,08:49,Missed Shot,n/a,-86.0,5.0,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:55:12Z,1,11:33,08:27,Shot,Wrist Shot,-72.0,-4.0,Morgan Frost,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:55:21Z,1,11:41,08:19,Shot,Wrist Shot,-59.0,-1.0,Tyler Pitlick,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:55:28Z,1,11:49,08:11,Takeaway,n/a,48.0,-8.0,Timo Meier,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:55:31Z,1,11:51,08:09,Shot,Backhand,77.0,-2.0,Timo Meier,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:55:42Z,1,11:51,08:09,Penalty,Interference - Goalkeeper,84.0,0.0,Timo Meier,PenaltyOn,San Jose Sharks,Carter Hart,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:57:49Z,1,11:51,08:09,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:58:28Z,1,12:21,07:39,Blocked Shot,n/a,-64.0,0.0,Melker Karlsson,Blocker,San Jose Sharks,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T03:59:50Z,1,12:22,07:38,Faceoff,n/a,-69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:00:21Z,1,12:44,07:16,Shot,Wrist Shot,-34.0,-13.0,Ivan Provorov,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:01:46Z,1,14:09,05:51,Hit,n/a,-79.0,-40.0,Radim Simek,Hitter,San Jose Sharks,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:02:00Z,1,14:23,05:37,Giveaway,n/a,94.0,-7.0,Carter Hart,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:04:17Z,1,14:24,05:36,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Logan Couture,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:05:34Z,1,15:16,04:44,Faceoff,n/a,-69.0,-22.0,James van Riemsdyk,Winner,Philadelphia Flyers,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:06:56Z,1,16:04,03:56,Faceoff,n/a,-69.0,-22.0,Joe Thornton,Winner,San Jose Sharks,Morgan Frost,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:07:15Z,1,16:11,03:49,Blocked Shot,n/a,-74.0,-6.0,Brenden Dillon,Blocker,San Jose Sharks,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:07:24Z,1,16:11,03:49,Blocked Shot,n/a,-69.0,2.0,Joe Thornton,Blocker,San Jose Sharks,Philippe Myers,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:07:36Z,1,16:15,03:45,Faceoff,n/a,-69.0,-22.0,Joe Thornton,Winner,San Jose Sharks,Morgan Frost,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:08:18Z,1,16:35,03:25,Faceoff,n/a,69.0,22.0,Evander Kane,Winner,San Jose Sharks,Morgan Frost,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:08:51Z,1,16:48,03:12,Hit,n/a,-93.0,-29.0,Timo Meier,Hitter,San Jose Sharks,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:09:11Z,1,17:08,02:52,Hit,n/a,72.0,-41.0,Andy Andreoff,Hitter,Philadelphia Flyers,Barclay Goodrow,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:10:18Z,1,18:15,01:45,Shot,Wrist Shot,61.0,6.0,Kevin Labanc,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:10:36Z,1,18:33,01:27,Hit,n/a,-76.0,-1.0,Logan Couture,Hitter,San Jose Sharks,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:10:50Z,1,18:40,01:20,Takeaway,n/a,-77.0,-17.0,Logan Couture,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:11:01Z,1,18:58,01:02,Hit,n/a,76.0,-37.0,Joel Farabee,Hitter,Philadelphia Flyers,Evander Kane,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:11:27Z,1,19:21,00:39,Hit,n/a,98.0,-7.0,Marcus Sorensen,Hitter,San Jose Sharks,Philippe Myers,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:11:47Z,1,19:43,00:17,Hit,n/a,-59.0,36.0,Radim Simek,Hitter,San Jose Sharks,Kevin Hayes,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:30:18Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Tomas Hertl,Winner,San Jose Sharks,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:30:35Z,2,00:06,19:54,Shot,Wrist Shot,14.0,11.0,Claude Giroux,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:30:46Z,2,00:06,19:54,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:30:59Z,2,00:10,19:50,Shot,Wrist Shot,41.0,39.0,Travis Konecny,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:31:09Z,2,00:10,19:50,Faceoff,n/a,69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:31:44Z,2,00:34,19:26,Shot,Backhand,-78.0,7.0,Tomas Hertl,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:31:50Z,2,00:35,19:25,Shot,Backhand,-86.0,10.0,Tomas Hertl,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:31:58Z,2,00:48,19:12,Blocked Shot,n/a,-65.0,0.0,Justin Braun,Blocker,Philadelphia Flyers,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:32:10Z,2,00:53,19:07,Shot,Wrist Shot,-34.0,30.0,Erik Karlsson,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:32:46Z,2,00:57,19:03,Shot,Wrist Shot,-81.0,12.0,Tomas Hertl,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:32:51Z,2,00:59,19:01,Faceoff,n/a,-69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:33:03Z,2,01:12,18:48,Blocked Shot,n/a,-68.0,14.0,Shayne Gostisbehere,Blocker,Philadelphia Flyers,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:32:57Z,2,01:14,18:46,Blocked Shot,n/a,-68.0,-9.0,Philippe Myers,Blocker,Philadelphia Flyers,Brenden Dillon,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:33:19Z,2,01:37,18:23,Giveaway,n/a,94.0,9.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:33:46Z,2,02:03,17:57,Hit,n/a,94.0,-29.0,Brenden Dillon,Hitter,San Jose Sharks,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:33:57Z,2,02:14,17:46,Hit,n/a,79.0,-36.0,Barclay Goodrow,Hitter,San Jose Sharks,Jakub Voracek,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:34:02Z,2,02:16,17:44,Blocked Shot,n/a,77.0,5.0,Brenden Dillon,Blocker,San Jose Sharks,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:34:09Z,2,02:26,17:34,Giveaway,n/a,-57.0,12.0,Barclay Goodrow,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:34:15Z,2,02:30,17:30,Shot,Slap Shot,13.0,-23.0,Tyler Pitlick,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:34:27Z,2,02:39,17:21,Goal,Backhand,-73.0,2.0,Joel Kellman,Scorer,San Jose Sharks,Radim Simek,Assist,San Jose Sharks,Mario Ferraro,Assist,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers
+2019-12-29T04:35:08Z,2,02:39,17:21,Faceoff,n/a,0.0,0.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:35:10Z,2,02:50,17:10,Hit,n/a,60.0,-41.0,Radim Simek,Hitter,San Jose Sharks,Joel Farabee,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:35:43Z,2,03:02,16:58,Faceoff,n/a,69.0,-22.0,Joel Kellman,Winner,San Jose Sharks,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:34:09Z,2,03:21,16:39,Shot,Slap Shot,57.0,-34.0,Claude Giroux,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:36:30Z,2,03:38,16:22,Giveaway,n/a,-61.0,37.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:36:33Z,2,03:41,16:19,Shot,Wrist Shot,-66.0,21.0,Tomas Hertl,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:36:47Z,2,03:47,16:13,Blocked Shot,n/a,-35.0,-27.0,Matt Niskanen,Blocker,Philadelphia Flyers,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:37:16Z,2,04:24,15:36,Hit,n/a,72.0,-40.0,Brenden Dillon,Hitter,San Jose Sharks,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:37:54Z,2,04:38,15:22,Faceoff,n/a,-20.0,-22.0,Evander Kane,Winner,San Jose Sharks,Morgan Frost,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:38:46Z,2,05:14,14:46,Hit,n/a,96.0,-14.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:39:36Z,2,05:46,14:14,Faceoff,n/a,69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Logan Couture,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:39:57Z,2,05:52,14:08,Blocked Shot,n/a,69.0,-21.0,Marc-Edouard Vlasic,Blocker,San Jose Sharks,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:40:06Z,2,06:00,14:00,Penalty,Holding,-54.0,20.0,Matt Niskanen,PenaltyOn,Philadelphia Flyers,Tomas Hertl,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:40:30Z,2,06:00,14:00,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:41:51Z,2,06:59,13:01,Blocked Shot,n/a,-77.0,-2.0,Justin Braun,Blocker,Philadelphia Flyers,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:42:30Z,2,07:48,12:12,Hit,n/a,-55.0,41.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Timo Meier,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:44:31Z,2,08:06,11:54,Shot,Wrist Shot,-68.0,33.0,Kevin Labanc,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:42:58Z,2,08:17,11:43,Shot,Backhand,-63.0,-3.0,Timo Meier,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:43:01Z,2,08:19,11:41,Hit,n/a,-85.0,36.0,Timo Meier,Hitter,San Jose Sharks,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:43:11Z,2,08:29,11:31,Missed Shot,n/a,-36.0,-6.0,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:43:20Z,2,08:36,11:24,Shot,Wrist Shot,-95.0,12.0,Joe Thornton,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:45:21Z,2,08:37,11:23,Faceoff,n/a,-69.0,22.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:46:00Z,2,08:52,11:08,Hit,n/a,93.0,25.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:46:36Z,2,09:21,10:39,Goal,Tip-In,-76.0,5.0,Timo Meier,Scorer,San Jose Sharks,Brent Burns,Assist,San Jose Sharks,Brenden Dillon,Assist,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers
+2019-12-29T04:47:10Z,2,09:21,10:39,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:47:21Z,2,09:34,10:26,Hit,n/a,31.0,-35.0,Travis Konecny,Hitter,Philadelphia Flyers,Marc-Edouard Vlasic,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:47:38Z,2,09:51,10:09,Blocked Shot,n/a,-71.0,-1.0,Justin Braun,Blocker,Philadelphia Flyers,Tomas Hertl,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:48:01Z,2,10:00,10:00,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:48:27Z,2,10:15,09:45,Hit,n/a,-92.0,11.0,Patrick Marleau,Hitter,San Jose Sharks,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:49:29Z,2,10:57,09:03,Giveaway,n/a,95.0,-1.0,Martin Jones,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:50:04Z,2,11:31,08:29,Faceoff,n/a,69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:50:24Z,2,11:34,08:26,Missed Shot,n/a,37.0,30.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:50:28Z,2,11:49,08:11,Shot,Snap Shot,76.0,9.0,Claude Giroux,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:50:56Z,2,12:17,07:43,Giveaway,n/a,-44.0,37.0,Claude Giroux,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:51:11Z,2,12:31,07:29,Missed Shot,n/a,39.0,7.0,Philippe Myers,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:51:13Z,2,12:34,07:26,Giveaway,n/a,44.0,23.0,Philippe Myers,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:51:22Z,2,12:42,07:18,Takeaway,n/a,33.0,-40.0,Barclay Goodrow,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:51:37Z,2,12:57,07:03,Hit,n/a,83.0,-37.0,Brent Burns,Hitter,San Jose Sharks,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:51:58Z,2,13:18,06:42,Blocked Shot,n/a,69.0,20.0,Brent Burns,Blocker,San Jose Sharks,Joel Farabee,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:52:07Z,2,13:28,06:32,Blocked Shot,n/a,73.0,13.0,Brent Burns,Blocker,San Jose Sharks,Travis Sanheim,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:52:16Z,2,13:37,06:23,Hit,n/a,-98.0,-14.0,Evander Kane,Hitter,San Jose Sharks,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:52:30Z,2,13:49,06:11,Takeaway,n/a,-66.0,-41.0,Patrick Marleau,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:52:49Z,2,14:09,05:51,Hit,n/a,69.0,-41.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Joe Thornton,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:52:52Z,2,14:12,05:48,Shot,Snap Shot,-44.0,28.0,Stefan Noesen,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:55:05Z,2,14:12,05:48,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:55:42Z,2,14:30,05:30,Takeaway,n/a,-20.0,2.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:56:24Z,2,15:30,04:30,Hit,n/a,-73.0,39.0,Barclay Goodrow,Hitter,San Jose Sharks,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:57:25Z,2,16:28,03:32,Hit,n/a,-68.0,36.0,Stefan Noesen,Hitter,San Jose Sharks,Philippe Myers,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:57:47Z,2,16:53,03:07,Takeaway,n/a,-85.0,20.0,Stefan Noesen,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:58:40Z,2,17:47,02:13,Blocked Shot,n/a,75.0,-1.0,Erik Karlsson,Blocker,San Jose Sharks,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T04:58:48Z,2,17:50,02:10,Penalty,Hooking,98.0,0.0,Patrick Marleau,PenaltyOn,San Jose Sharks,Ivan Provorov,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:00:39Z,2,17:50,02:10,Faceoff,n/a,69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:01:11Z,2,17:56,02:04,Takeaway,n/a,30.0,20.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:01:19Z,2,17:59,02:01,Shot,Wrist Shot,84.0,18.0,Sean Couturier,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:01:35Z,2,18:20,01:40,Hit,n/a,-90.0,-32.0,Ivan Provorov,Hitter,Philadelphia Flyers,Marcus Sorensen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:02:50Z,2,19:24,00:36,Shot,Wrist Shot,80.0,1.0,Kevin Hayes,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:02:42Z,2,19:26,00:34,Shot,Wrist Shot,77.0,0.0,Kevin Hayes,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:03:21Z,2,19:54,00:06,Penalty,Tripping,76.0,-4.0,Barclay Goodrow,PenaltyOn,San Jose Sharks,Ivan Provorov,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:03:50Z,2,19:54,00:06,Faceoff,n/a,69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:22:30Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Logan Couture,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:22:36Z,3,00:26,19:34,Blocked Shot,n/a,-52.0,-32.0,Marcus Sorensen,Blocker,San Jose Sharks,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:22:51Z,3,00:41,19:19,Shot,Backhand,-74.0,-1.0,Jakub Voracek,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:23:03Z,3,00:51,19:09,Goal,Slap Shot,-34.0,-7.0,Ivan Provorov,Scorer,Philadelphia Flyers,Claude Giroux,Assist,Philadelphia Flyers,Travis Konecny,Assist,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks
+2019-12-29T05:23:46Z,3,00:51,19:09,Faceoff,n/a,0.0,0.0,Joe Thornton,Winner,San Jose Sharks,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:24:00Z,3,01:07,18:53,Hit,n/a,-34.0,31.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Brenden Dillon,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:24:08Z,3,01:15,18:45,Hit,n/a,90.0,17.0,Justin Braun,Hitter,Philadelphia Flyers,Marcus Sorensen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:24:21Z,3,01:28,18:32,Blocked Shot,n/a,-66.0,-24.0,Brent Burns,Blocker,San Jose Sharks,Travis Sanheim,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:24:30Z,3,01:29,18:31,Hit,n/a,-85.0,-20.0,Brenden Dillon,Hitter,San Jose Sharks,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:25:20Z,3,01:30,18:30,Giveaway,n/a,-84.0,-33.0,Nicolas Aube-Kubel,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:24:32Z,3,01:36,18:24,Goal,Snap Shot,77.0,14.0,Timo Meier,Scorer,San Jose Sharks,Evander Kane,Assist,San Jose Sharks,Barclay Goodrow,Assist,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers
+2019-12-29T05:26:08Z,3,01:36,18:24,Faceoff,n/a,0.0,0.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:26:15Z,3,02:45,17:15,Takeaway,n/a,15.0,3.0,Morgan Frost,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:26:45Z,3,03:13,16:47,Shot,Wrist Shot,32.0,27.0,Evander Kane,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:27:38Z,3,03:19,16:41,Faceoff,n/a,69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:27:55Z,3,03:25,16:35,Shot,Wrist Shot,36.0,-30.0,Erik Karlsson,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:28:12Z,3,03:29,16:31,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Evander Kane,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:28:41Z,3,03:43,16:17,Shot,Wrist Shot,-81.0,-10.0,Sean Couturier,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:29:29Z,3,04:00,16:00,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Patrick Marleau,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:30:21Z,3,04:24,15:36,Shot,Snap Shot,-75.0,-8.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:30:46Z,3,04:50,15:10,Hit,n/a,-95.0,31.0,Brenden Dillon,Hitter,San Jose Sharks,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:30:53Z,3,04:56,15:04,Takeaway,n/a,-85.0,-35.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:31:03Z,3,05:06,14:54,Shot,Snap Shot,-80.0,20.0,Kevin Hayes,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:31:37Z,3,05:06,14:54,Faceoff,n/a,-69.0,22.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:31:57Z,3,05:27,14:33,Blocked Shot,n/a,-45.0,18.0,Timo Meier,Blocker,San Jose Sharks,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:32:08Z,3,05:39,14:21,Shot,Wrap-around,-86.0,5.0,Ivan Provorov,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:33:10Z,3,06:42,13:18,Blocked Shot,n/a,73.0,1.0,Claude Giroux,Blocker,Philadelphia Flyers,Tomas Hertl,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:33:21Z,3,06:53,13:07,Shot,Wrist Shot,-24.0,3.0,Claude Giroux,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:33:30Z,3,07:01,12:59,Hit,n/a,22.0,4.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Barclay Goodrow,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:34:11Z,3,07:19,12:41,Shot,Wrist Shot,53.0,-29.0,Evander Kane,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:33:50Z,3,07:21,12:39,Missed Shot,n/a,36.0,23.0,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:34:35Z,3,07:49,12:11,Faceoff,n/a,-69.0,-22.0,Joe Thornton,Winner,San Jose Sharks,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:35:08Z,3,08:00,12:00,Faceoff,n/a,69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:35:38Z,3,08:11,11:49,Shot,Snap Shot,-55.0,3.0,Matt Niskanen,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:38:01Z,3,08:11,11:49,Faceoff,n/a,-69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:38:19Z,3,08:35,11:25,Shot,Wrist Shot,65.0,-18.0,Logan Couture,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:38:27Z,3,08:43,11:17,Missed Shot,n/a,34.0,3.0,Logan Couture,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:39:00Z,3,09:06,10:54,Faceoff,n/a,69.0,22.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:39:35Z,3,09:26,10:34,Shot,Wrist Shot,-60.0,21.0,Mikhail Vorobyev,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:39:43Z,3,09:33,10:27,Blocked Shot,n/a,-60.0,13.0,Joel Kellman,Blocker,San Jose Sharks,Justin Braun,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:40:13Z,3,09:38,10:22,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:41:01Z,3,10:16,09:44,Takeaway,n/a,-85.0,-30.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:41:19Z,3,10:32,09:28,Hit,n/a,31.0,-38.0,Timo Meier,Hitter,San Jose Sharks,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:41:35Z,3,10:50,09:10,Shot,Wrist Shot,-70.0,-12.0,Andy Andreoff,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:41:45Z,3,10:55,09:05,Shot,Slap Shot,-81.0,-3.0,Andy Andreoff,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:41:45Z,3,11:00,09:00,Shot,Wrist Shot,-37.0,-12.0,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:41:48Z,3,11:02,08:58,Shot,Wrist Shot,-81.0,-3.0,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:44:19Z,3,11:02,08:58,Faceoff,n/a,-20.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:44:47Z,3,11:20,08:40,Missed Shot,n/a,-83.0,6.0,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:44:57Z,3,11:30,08:30,Takeaway,n/a,-48.0,-12.0,Claude Giroux,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:45:05Z,3,11:36,08:24,Blocked Shot,n/a,-59.0,11.0,Logan Couture,Blocker,San Jose Sharks,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:45:26Z,3,11:36,08:24,Faceoff,n/a,-69.0,22.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:45:53Z,3,11:44,08:16,Blocked Shot,n/a,-54.0,-7.0,Barclay Goodrow,Blocker,San Jose Sharks,Travis Sanheim,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:45:59Z,3,11:46,08:14,Shot,Wrist Shot,-36.0,-24.0,Mikhail Vorobyev,Shooter,Philadelphia Flyers,Martin Jones,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:46:12Z,3,11:46,08:14,Faceoff,n/a,-69.0,-22.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:46:36Z,3,11:57,08:03,Missed Shot,n/a,-78.0,-4.0,Joel Farabee,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:46:38Z,3,11:59,08:01,Giveaway,n/a,-89.0,21.0,Radim Simek,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:46:59Z,3,12:20,07:40,Giveaway,n/a,67.0,-41.0,Justin Braun,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:47:34Z,3,12:52,07:08,Goal,Wrist Shot,83.0,7.0,Timo Meier,Scorer,San Jose Sharks,Evander Kane,Assist,San Jose Sharks,Barclay Goodrow,Assist,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers
+2019-12-29T05:49:02Z,3,12:52,07:08,Faceoff,n/a,0.0,0.0,Morgan Frost,Winner,Philadelphia Flyers,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:49:37Z,3,13:05,06:55,Takeaway,n/a,-13.0,-40.0,Shayne Gostisbehere,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:49:59Z,3,13:27,06:33,Giveaway,n/a,97.0,-13.0,Patrick Marleau,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:50:39Z,3,14:06,05:54,Blocked Shot,n/a,80.0,0.0,Matt Niskanen,Blocker,Philadelphia Flyers,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:51:02Z,3,14:30,05:30,Hit,n/a,62.0,-40.0,Ivan Provorov,Hitter,Philadelphia Flyers,Tomas Hertl,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:51:13Z,3,14:41,05:19,Shot,Snap Shot,51.0,-21.0,Timo Meier,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:52:05Z,3,15:32,04:28,Shot,Snap Shot,36.0,-31.0,Mario Ferraro,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:53:49Z,3,15:32,04:28,Faceoff,n/a,69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:54:56Z,3,15:44,04:16,Faceoff,n/a,-20.0,22.0,Joel Kellman,Winner,San Jose Sharks,Morgan Frost,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:55:10Z,3,15:54,04:06,Giveaway,n/a,63.0,-41.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:55:11Z,3,15:56,04:04,Shot,Wrist Shot,40.0,-22.0,Mario Ferraro,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:55:25Z,3,15:56,04:04,Faceoff,n/a,69.0,-22.0,Stefan Noesen,Winner,San Jose Sharks,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:56:17Z,3,16:39,03:21,Giveaway,n/a,-94.0,22.0,Marc-Edouard Vlasic,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:56:39Z,3,17:01,02:59,Hit,n/a,12.0,-42.0,Patrick Marleau,Hitter,San Jose Sharks,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:56:59Z,3,17:18,02:42,Shot,Wrist Shot,81.0,-3.0,Marcus Sorensen,Shooter,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:57:07Z,3,17:20,02:40,Goal,Wrist Shot,85.0,-3.0,Patrick Marleau,Scorer,San Jose Sharks,Marcus Sorensen,Assist,San Jose Sharks,Joe Thornton,Assist,San Jose Sharks,Carter Hart,Goalie,Philadelphia Flyers
+2019-12-29T05:57:32Z,3,17:20,02:40,Faceoff,n/a,0.0,0.0,Barclay Goodrow,Winner,San Jose Sharks,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:57:54Z,3,17:36,02:24,Missed Shot,n/a,47.0,-18.0,Evander Kane,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:58:28Z,3,18:10,01:50,Giveaway,n/a,10.0,2.0,Marcus Sorensen,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:58:58Z,3,18:40,01:20,Giveaway,n/a,-3.0,-41.0,Tyler Pitlick,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:59:18Z,3,19:00,01:00,Takeaway,n/a,97.0,-11.0,Evander Kane,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:59:22Z,3,19:03,00:57,Blocked Shot,n/a,84.0,10.0,Justin Braun,Blocker,Philadelphia Flyers,Evander Kane,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T05:59:56Z,3,19:37,00:23,Takeaway,n/a,29.0,-5.0,Philippe Myers,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

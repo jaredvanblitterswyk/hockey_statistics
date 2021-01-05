@@ -1,0 +1,217 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-10T01:08:17Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:09:32Z,1,00:24,19:36,Shot,Wrist Shot,45.0,34.0,Jay Bouwmeester,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:09:46Z,1,00:38,19:22,Hit,n/a,85.0,-37.0,David Perron,Hitter,St. Louis Blues,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:10:12Z,1,01:05,18:55,Hit,n/a,-96.0,-19.0,Michael Frolik,Hitter,Buffalo Sabres,Vince Dunn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:10:54Z,1,01:22,18:38,Giveaway,n/a,-97.0,-11.0,Alex Pietrangelo,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:11:47Z,1,02:39,17:21,Giveaway,n/a,91.0,10.0,Colin Miller,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:11:54Z,1,02:47,17:13,Blocked Shot,n/a,45.0,-31.0,Lawrence Pilut,Blocker,Buffalo Sabres,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:11:59Z,1,02:52,17:08,Hit,n/a,73.0,-40.0,Ivan Barbashev,Hitter,St. Louis Blues,Lawrence Pilut,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:12:35Z,1,03:27,16:33,Hit,n/a,13.0,-41.0,Sam Reinhart,Hitter,Buffalo Sabres,Ryan O'Reilly,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:13:04Z,1,03:56,16:04,Hit,n/a,49.0,-40.0,Brandon Montour,Hitter,Buffalo Sabres,Jordan Kyrou,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:13:24Z,1,04:10,15:50,Takeaway,n/a,-26.0,19.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:13:30Z,1,04:22,15:38,Blocked Shot,n/a,73.0,6.0,Zach Bogosian,Blocker,Buffalo Sabres,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:13:46Z,1,04:39,15:21,Shot,Wrist Shot,58.0,36.0,Alexander Steen,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:13:56Z,1,04:47,15:13,Goal,Wrist Shot,74.0,-16.0,Robert Thomas,Scorer,St. Louis Blues,Tyler Bozak,Assist,St. Louis Blues,Alexander Steen,Assist,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres
+2020-01-10T01:14:41Z,1,04:47,15:13,Faceoff,n/a,0.0,0.0,Curtis Lazar,Winner,Buffalo Sabres,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:15:31Z,1,05:11,14:49,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:16:08Z,1,05:36,14:24,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:16:21Z,1,05:39,14:21,Missed Shot,n/a,-49.0,22.0,Jimmy Vesey,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:16:39Z,1,05:52,14:08,Giveaway,n/a,-27.0,-15.0,Zach Sanford,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:16:53Z,1,06:10,13:50,Missed Shot,n/a,-60.0,-10.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:17:03Z,1,06:20,13:40,Shot,Wrist Shot,-61.0,22.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:19:06Z,1,06:22,13:38,Faceoff,n/a,-69.0,22.0,Michael Frolik,Winner,Buffalo Sabres,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:19:39Z,1,06:30,13:30,Blocked Shot,n/a,-51.0,-19.0,Jordan Kyrou,Blocker,St. Louis Blues,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:20:35Z,1,07:25,12:35,Takeaway,n/a,-78.0,24.0,Robert Thomas,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:20:52Z,1,07:43,12:17,Missed Shot,n/a,-59.0,-28.0,Johan Larsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:21:20Z,1,07:46,12:14,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:21:37Z,1,07:54,12:06,Giveaway,n/a,94.0,8.0,Colin Miller,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:21:37Z,1,07:57,12:03,Shot,Backhand,82.0,10.0,Mackenzie MacEachern,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:21:58Z,1,08:18,11:42,Shot,Wrist Shot,-55.0,-27.0,Sam Reinhart,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:21:58Z,1,08:20,11:40,Shot,Slap Shot,-58.0,-22.0,Lawrence Pilut,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:22:09Z,1,08:29,11:31,Giveaway,n/a,97.0,0.0,Linus Ullmark,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:22:14Z,1,08:33,11:27,Giveaway,n/a,52.0,-9.0,Ivan Barbashev,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:22:29Z,1,08:49,11:11,Blocked Shot,n/a,72.0,-9.0,Rasmus Dahlin,Blocker,Buffalo Sabres,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:22:56Z,1,08:49,11:11,Faceoff,n/a,69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:22:59Z,1,08:53,11:07,Shot,Wrist Shot,78.0,-23.0,David Perron,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:23:43Z,1,09:14,10:46,Faceoff,n/a,-20.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:24:17Z,1,09:42,10:18,Blocked Shot,n/a,72.0,-3.0,Brandon Montour,Blocker,Buffalo Sabres,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:24:32Z,1,09:58,10:02,Shot,Wrist Shot,65.0,2.0,Jaden Schwartz,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:24:39Z,1,10:04,09:56,Giveaway,n/a,50.0,41.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:25:01Z,1,10:23,09:37,Hit,n/a,97.0,22.0,Colin Miller,Hitter,Buffalo Sabres,Tyler Bozak,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:25:10Z,1,10:35,09:25,Hit,n/a,55.0,-40.0,Tyler Bozak,Hitter,St. Louis Blues,Jimmy Vesey,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:25:44Z,1,10:42,09:18,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:25:51Z,1,10:46,09:14,Shot,Tip-In,-77.0,2.0,Sam Reinhart,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:28:13Z,1,10:48,09:12,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:28:21Z,1,10:56,09:04,Takeaway,n/a,-98.0,19.0,Ryan O'Reilly,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:28:46Z,1,11:14,08:46,Hit,n/a,-77.0,39.0,Jimmy Vesey,Hitter,Buffalo Sabres,Jay Bouwmeester,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:28:57Z,1,11:15,08:45,Takeaway,n/a,-69.0,41.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:28:41Z,1,11:16,08:44,Missed Shot,n/a,-65.0,13.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:30:39Z,1,13:14,06:46,Missed Shot,n/a,35.0,-29.0,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:31:16Z,1,13:15,06:45,Faceoff,n/a,69.0,-22.0,Robert Thomas,Winner,St. Louis Blues,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:31:28Z,1,13:25,06:35,Hit,n/a,52.0,41.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Niko Mikkola,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:31:35Z,1,13:29,06:31,Goal,Wrist Shot,84.0,-15.0,Tyler Bozak,Scorer,St. Louis Blues,Robert Thomas,Assist,St. Louis Blues,Niko Mikkola,Assist,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres
+2020-01-10T01:32:22Z,1,13:29,06:31,Faceoff,n/a,0.0,0.0,Ryan O'Reilly,Winner,St. Louis Blues,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:33:02Z,1,14:00,06:00,Hit,n/a,-55.0,-41.0,Jimmy Vesey,Hitter,Buffalo Sabres,David Perron,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:33:31Z,1,14:30,05:30,Hit,n/a,-5.0,30.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:33:42Z,1,14:41,05:19,Takeaway,n/a,46.0,40.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:33:49Z,1,14:47,05:13,Shot,Wrist Shot,-81.0,-12.0,Kyle Okposo,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:36:00Z,1,14:48,05:12,Faceoff,n/a,-69.0,-22.0,Michael Frolik,Winner,Buffalo Sabres,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:36:31Z,1,15:03,04:57,Shot,Slap Shot,59.0,-28.0,Tyler Bozak,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:37:19Z,1,15:11,04:49,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:37:15Z,1,15:15,04:45,Missed Shot,n/a,54.0,-1.0,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:37:23Z,1,15:22,04:38,Shot,Wrist Shot,53.0,15.0,Brayden Schenn,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:37:28Z,1,15:27,04:33,Hit,n/a,67.0,40.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Jordan Kyrou,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:37:45Z,1,15:44,04:16,Hit,n/a,-17.0,-41.0,Brandon Montour,Hitter,Buffalo Sabres,Brayden Schenn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:38:57Z,1,16:57,03:03,Shot,Wrist Shot,9.0,-31.0,Tyler Bozak,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:39:31Z,1,17:28,02:32,Hit,n/a,83.0,-39.0,Zach Sanford,Hitter,St. Louis Blues,Colin Miller,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:39:33Z,1,17:31,02:29,Shot,Slap Shot,43.0,19.0,Vince Dunn,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:40:02Z,1,17:32,02:28,Faceoff,n/a,69.0,22.0,Jaden Schwartz,Winner,St. Louis Blues,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:40:25Z,1,17:35,02:25,Blocked Shot,n/a,42.0,25.0,Michael Frolik,Blocker,Buffalo Sabres,Jay Bouwmeester,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:40:34Z,1,17:36,02:24,Faceoff,n/a,69.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:41:25Z,1,18:17,01:43,Missed Shot,n/a,-59.0,21.0,Lawrence Pilut,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:42:01Z,1,18:51,01:09,Shot,Snap Shot,-57.0,-25.0,Sam Reinhart,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:42:17Z,1,18:52,01:08,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:42:58Z,1,19:19,00:41,Shot,Slap Shot,-55.0,-18.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:43:25Z,1,19:20,00:40,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:43:47Z,1,19:29,00:31,Hit,n/a,-11.0,40.0,Johan Larsson,Hitter,Buffalo Sabres,Zach Sanford,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:44:05Z,1,19:44,00:16,Hit,n/a,-88.0,36.0,Johan Larsson,Hitter,Buffalo Sabres,Jay Bouwmeester,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T01:44:03Z,1,19:45,00:15,Blocked Shot,n/a,-72.0,5.0,Justin Faulk,Blocker,St. Louis Blues,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:02:57Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan O'Reilly,Winner,St. Louis Blues,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:03:28Z,2,00:28,19:32,Shot,Slap Shot,-34.0,31.0,Justin Faulk,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:04:08Z,2,01:09,18:51,Shot,Wrist Shot,-51.0,3.0,Brayden Schenn,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:04:42Z,2,01:10,18:50,Faceoff,n/a,-69.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:04:44Z,2,01:12,18:48,Shot,Slap Shot,-37.0,21.0,Alex Pietrangelo,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:04:49Z,2,01:13,18:47,Faceoff,n/a,-69.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:05:06Z,2,01:19,18:41,Blocked Shot,n/a,-56.0,-16.0,Michael Frolik,Blocker,Buffalo Sabres,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:05:11Z,2,01:23,18:37,Hit,n/a,-78.0,-39.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Jaden Schwartz,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:07:13Z,2,02:52,17:08,Faceoff,n/a,-69.0,22.0,Oskar Sundqvist,Winner,St. Louis Blues,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:07:23Z,2,03:09,16:51,Takeaway,n/a,-31.0,-42.0,Kyle Okposo,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:08:00Z,2,03:46,16:14,Missed Shot,n/a,38.0,25.0,Lawrence Pilut,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:08:06Z,2,03:51,16:09,Hit,n/a,35.0,-41.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Colin Miller,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:08:38Z,2,04:22,15:38,Goal,Wrist Shot,59.0,2.0,Jack Eichel,Scorer,Buffalo Sabres,Sam Reinhart,Assist,Buffalo Sabres,Rasmus Dahlin,Assist,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues
+2020-01-10T02:09:14Z,2,04:22,15:38,Faceoff,n/a,0.0,0.0,Ryan O'Reilly,Winner,St. Louis Blues,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:09:30Z,2,04:33,15:27,Hit,n/a,44.0,40.0,David Perron,Hitter,St. Louis Blues,Rasmus Asplund,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:09:47Z,2,04:50,15:10,Giveaway,n/a,25.0,-42.0,David Perron,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:10:27Z,2,05:29,14:31,Takeaway,n/a,13.0,-21.0,Zach Bogosian,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:11:27Z,2,06:29,13:31,Shot,Wrist Shot,-56.0,-21.0,Vince Dunn,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:13:25Z,2,06:30,13:30,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:16:18Z,2,09:00,11:00,Shot,Tip-In,-75.0,-1.0,Oskar Sundqvist,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:16:27Z,2,09:01,10:59,Penalty,Hi-sticking,21.0,-36.0,Rasmus Asplund,PenaltyOn,Buffalo Sabres,Justin Faulk,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:17:07Z,2,09:01,10:59,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:17:14Z,2,09:09,10:51,Shot,Tip-In,-71.0,-2.0,Jaden Schwartz,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:17:29Z,2,09:10,10:50,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:17:41Z,2,09:17,10:43,Blocked Shot,n/a,-72.0,-9.0,Zach Bogosian,Blocker,Buffalo Sabres,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:17:46Z,2,09:22,10:38,Takeaway,n/a,-47.0,39.0,Ryan O'Reilly,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:17:58Z,2,09:31,10:29,Blocked Shot,n/a,-71.0,1.0,Brandon Montour,Blocker,Buffalo Sabres,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:17:58Z,2,09:33,10:27,Shot,Wrist Shot,-83.0,10.0,Brayden Schenn,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:18:05Z,2,09:41,10:19,Missed Shot,n/a,-34.0,26.0,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:18:42Z,2,10:17,09:43,Goal,Slap Shot,-38.0,-1.0,David Perron,Scorer,St. Louis Blues,Brayden Schenn,Assist,St. Louis Blues,Jaden Schwartz,Assist,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres
+2020-01-10T02:19:43Z,2,10:17,09:43,Faceoff,n/a,0.0,0.0,Robert Thomas,Winner,St. Louis Blues,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:19:49Z,2,10:32,09:28,Giveaway,n/a,-84.0,6.0,Linus Ullmark,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:19:49Z,2,10:34,09:26,Hit,n/a,-96.0,23.0,Lawrence Pilut,Hitter,Buffalo Sabres,Tyler Bozak,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:22:15Z,2,10:47,09:13,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:22:48Z,2,11:16,08:44,Blocked Shot,n/a,-67.0,-15.0,Rasmus Dahlin,Blocker,Buffalo Sabres,Ivan Barbashev,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:23:09Z,2,11:17,08:43,Faceoff,n/a,-69.0,-22.0,Brayden Schenn,Winner,St. Louis Blues,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:23:59Z,2,11:59,08:01,Shot,Wrist Shot,-70.0,19.0,Brayden Schenn,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:24:21Z,2,12:00,08:00,Faceoff,n/a,-69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:24:35Z,2,12:05,07:55,Faceoff,n/a,-20.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:25:20Z,2,12:34,07:26,Hit,n/a,86.0,-37.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Niko Mikkola,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:25:24Z,2,12:38,07:22,Shot,Wrist Shot,-48.0,5.0,Robert Bortuzzo,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:26:03Z,2,13:06,06:54,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:26:44Z,2,13:32,06:28,Takeaway,n/a,-32.0,-41.0,Robert Thomas,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:26:49Z,2,13:38,06:22,Shot,Wrist Shot,-43.0,12.0,Justin Faulk,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:27:21Z,2,13:40,06:20,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:27:42Z,2,13:55,06:05,Hit,n/a,87.0,-34.0,Kyle Okposo,Hitter,Buffalo Sabres,Niko Mikkola,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:27:45Z,2,13:57,06:03,Shot,Wrist Shot,39.0,-27.0,Zach Bogosian,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:28:43Z,2,14:54,05:06,Shot,Wrist Shot,68.0,25.0,Michael Frolik,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:28:44Z,2,14:55,05:05,Hit,n/a,70.0,40.0,Alex Pietrangelo,Hitter,St. Louis Blues,Michael Frolik,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:30:47Z,2,14:56,05:04,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:31:17Z,2,15:16,04:44,Hit,n/a,-82.0,-37.0,Ivan Barbashev,Hitter,St. Louis Blues,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:31:21Z,2,15:20,04:40,Shot,Wrist Shot,76.0,-3.0,Jack Eichel,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:31:28Z,2,15:27,04:33,Hit,n/a,99.0,2.0,Justin Faulk,Hitter,St. Louis Blues,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:31:46Z,2,15:45,04:15,Shot,Wrist Shot,-60.0,31.0,Mackenzie MacEachern,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:31:56Z,2,15:51,04:09,Takeaway,n/a,3.0,40.0,Johan Larsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:31:55Z,2,15:54,04:06,Shot,Wrist Shot,62.0,-31.0,Sam Reinhart,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:32:15Z,2,16:14,03:46,Shot,Wrist Shot,-88.0,-11.0,David Perron,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:32:34Z,2,16:33,03:27,Hit,n/a,94.0,-29.0,Niko Mikkola,Hitter,St. Louis Blues,Zemgus Girgensons,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:32:55Z,2,16:52,03:08,Takeaway,n/a,-11.0,30.0,Brayden Schenn,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:32:55Z,2,16:55,03:05,Shot,Wrist Shot,-81.0,-18.0,Jaden Schwartz,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:35:42Z,2,17:20,02:40,Faceoff,n/a,-20.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:36:06Z,2,17:44,02:16,Shot,Tip-In,85.0,-6.0,Marcus Johansson,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:36:17Z,2,17:54,02:06,Shot,Slap Shot,-40.0,1.0,Justin Faulk,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:36:46Z,2,17:55,02:05,Faceoff,n/a,-69.0,22.0,Tyler Bozak,Winner,St. Louis Blues,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:36:57Z,2,18:06,01:54,Missed Shot,n/a,-91.0,-6.0,Robert Thomas,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:37:48Z,2,18:56,01:04,Missed Shot,n/a,92.0,9.0,Jimmy Vesey,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:37:59Z,2,19:07,00:53,Hit,n/a,99.0,-4.0,Michael Frolik,Hitter,Buffalo Sabres,Robert Bortuzzo,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:38:32Z,2,19:17,00:43,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:38:59Z,2,19:37,00:23,Hit,n/a,33.0,-38.0,Oskar Sundqvist,Hitter,St. Louis Blues,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:39:09Z,2,19:41,00:19,Takeaway,n/a,75.0,0.0,Alex Pietrangelo,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:58:08Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:58:18Z,3,00:12,19:48,Takeaway,n/a,-58.0,1.0,Ryan O'Reilly,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:58:32Z,3,00:26,19:34,Missed Shot,n/a,36.0,-22.0,Justin Faulk,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:58:47Z,3,00:30,19:30,Hit,n/a,97.0,2.0,Lawrence Pilut,Hitter,Buffalo Sabres,David Perron,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T02:59:37Z,3,01:31,18:29,Hit,n/a,30.0,39.0,Brayden Schenn,Hitter,St. Louis Blues,Brandon Montour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:00:05Z,3,01:49,18:11,Faceoff,n/a,69.0,-22.0,Robert Thomas,Winner,St. Louis Blues,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:00:39Z,3,02:01,17:59,Takeaway,n/a,15.0,39.0,Robert Thomas,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:01:28Z,3,02:50,17:10,Missed Shot,n/a,-61.0,-19.0,Rasmus Asplund,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:01:47Z,3,03:08,16:52,Takeaway,n/a,85.0,-38.0,Jimmy Vesey,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:01:52Z,3,03:13,16:47,Giveaway,n/a,70.0,-41.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:02:37Z,3,03:32,16:28,Faceoff,n/a,69.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:03:04Z,3,03:52,16:08,Hit,n/a,55.0,41.0,Zach Bogosian,Hitter,Buffalo Sabres,David Perron,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:03:18Z,3,04:07,15:53,Takeaway,n/a,-96.0,26.0,Conor Sheary,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:04:26Z,3,04:48,15:12,Faceoff,n/a,-20.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Sam Reinhart,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:05:08Z,3,05:01,14:59,Faceoff,n/a,0.0,0.0,Brayden Schenn,Winner,St. Louis Blues,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:05:48Z,3,05:11,14:49,Faceoff,n/a,20.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:06:08Z,3,05:31,14:29,Shot,Wrist Shot,90.0,12.0,Alexander Steen,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:06:15Z,3,05:33,14:27,Blocked Shot,n/a,74.0,0.0,Curtis Lazar,Blocker,Buffalo Sabres,Tyler Bozak,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:06:24Z,3,05:36,14:24,Goal,Wrist Shot,75.0,5.0,Alexander Steen,Scorer,St. Louis Blues,Robert Thomas,Assist,St. Louis Blues,Tyler Bozak,Assist,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres
+2020-01-10T03:06:57Z,3,05:36,14:24,Faceoff,n/a,0.0,0.0,Ivan Barbashev,Winner,St. Louis Blues,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:07:23Z,3,05:59,14:01,Shot,Wrist Shot,80.0,13.0,Oskar Sundqvist,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:07:58Z,3,06:34,13:26,Blocked Shot,n/a,71.0,12.0,Brandon Montour,Blocker,Buffalo Sabres,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:08:10Z,3,06:46,13:14,Takeaway,n/a,-62.0,39.0,Jimmy Vesey,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:08:42Z,3,07:17,12:43,Blocked Shot,n/a,-71.0,7.0,Alex Pietrangelo,Blocker,St. Louis Blues,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:08:51Z,3,07:26,12:34,Missed Shot,n/a,-41.0,-1.0,Brandon Montour,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:09:01Z,3,07:37,12:23,Hit,n/a,-69.0,40.0,Alex Pietrangelo,Hitter,St. Louis Blues,Jimmy Vesey,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:11:18Z,3,07:46,12:14,Faceoff,n/a,-69.0,22.0,Tyler Bozak,Winner,St. Louis Blues,Kyle Okposo,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:11:39Z,3,07:49,12:11,Hit,n/a,-96.0,23.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Niko Mikkola,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:11:48Z,3,07:59,12:01,Shot,Wrist Shot,56.0,36.0,Alexander Steen,Shooter,St. Louis Blues,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:11:56Z,3,08:01,11:59,Faceoff,n/a,69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:12:31Z,3,08:20,11:40,Hit,n/a,-97.0,-20.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Robert Bortuzzo,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:12:55Z,3,08:44,11:16,Hit,n/a,69.0,-40.0,Johan Larsson,Hitter,Buffalo Sabres,Robert Thomas,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:13:06Z,3,08:55,11:05,Takeaway,n/a,59.0,-40.0,Conor Sheary,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:13:23Z,3,09:13,10:47,Shot,Backhand,-67.0,2.0,Michael Frolik,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:13:32Z,3,09:15,10:45,Penalty,Hi-sticking,-62.0,-14.0,Alex Pietrangelo,PenaltyOn,St. Louis Blues,Michael Frolik,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:14:16Z,3,09:15,10:45,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:14:42Z,3,09:57,10:03,Blocked Shot,n/a,-64.0,-12.0,Robert Bortuzzo,Blocker,St. Louis Blues,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:15:03Z,3,10:00,10:00,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:15:24Z,3,10:17,09:43,Shot,Snap Shot,-55.0,-15.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:15:48Z,3,10:41,09:19,Missed Shot,n/a,-40.0,-2.0,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:16:10Z,3,10:45,09:15,Takeaway,n/a,-70.0,28.0,Rasmus Dahlin,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:17:05Z,3,11:58,08:02,Shot,Wrist Shot,-60.0,-2.0,Curtis Lazar,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:17:16Z,3,12:08,07:52,Missed Shot,n/a,-41.0,11.0,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:17:51Z,3,12:44,07:16,Takeaway,n/a,61.0,34.0,Colin Miller,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:18:18Z,3,13:09,06:51,Missed Shot,n/a,-16.0,-27.0,Lawrence Pilut,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:18:43Z,3,13:30,06:30,Missed Shot,n/a,67.0,-24.0,Tyler Bozak,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:20:39Z,3,13:31,06:29,Faceoff,n/a,69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Oskar Sundqvist,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:21:04Z,3,13:45,06:15,Hit,n/a,-97.0,-21.0,Oskar Sundqvist,Hitter,St. Louis Blues,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:21:35Z,3,14:08,05:52,Takeaway,n/a,-84.0,24.0,Curtis Lazar,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:21:32Z,3,14:12,05:48,Shot,Wrist Shot,-37.0,-23.0,Lawrence Pilut,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:21:49Z,3,14:13,05:47,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:23:27Z,3,14:50,05:10,Penalty,Roughing,-12.0,39.0,Zach Sanford,PenaltyOn,St. Louis Blues,Rasmus Ristolainen,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:24:06Z,3,14:50,05:10,Penalty,Roughing,-12.0,40.0,Rasmus Ristolainen,PenaltyOn,Buffalo Sabres,Zach Sanford,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:25:24Z,3,14:50,05:10,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:25:57Z,3,14:55,05:05,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:26:32Z,3,15:12,04:48,Giveaway,n/a,-74.0,-40.0,Sam Reinhart,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:26:32Z,3,15:18,04:42,Goal,Wrist Shot,41.0,-23.0,Alexander Steen,Scorer,St. Louis Blues,Ryan O'Reilly,Assist,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:27:10Z,3,15:18,04:42,Faceoff,n/a,0.0,0.0,Rasmus Asplund,Winner,Buffalo Sabres,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:27:27Z,3,15:31,04:29,Takeaway,n/a,-50.0,16.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:28:09Z,3,16:13,03:47,Hit,n/a,9.0,-40.0,Alexander Steen,Hitter,St. Louis Blues,Lawrence Pilut,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:28:21Z,3,16:25,03:35,Hit,n/a,98.0,18.0,Colin Miller,Hitter,Buffalo Sabres,Oskar Sundqvist,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:30:05Z,3,18:09,01:51,Shot,Wrist Shot,-70.0,7.0,Jack Eichel,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:30:22Z,3,18:21,01:39,Blocked Shot,n/a,-65.0,-9.0,Tyler Bozak,Blocker,St. Louis Blues,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:31:04Z,3,18:22,01:38,Faceoff,n/a,-69.0,-22.0,Brayden Schenn,Winner,St. Louis Blues,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:31:22Z,3,18:35,01:25,Takeaway,n/a,-97.0,2.0,Alex Pietrangelo,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:31:41Z,3,19:01,00:59,Takeaway,n/a,-86.0,5.0,Conor Sheary,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:31:41Z,3,19:01,00:59,Shot,Wrist Shot,-80.0,10.0,Conor Sheary,Shooter,Buffalo Sabres,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:31:57Z,3,19:08,00:52,Hit,n/a,-51.0,39.0,Michael Frolik,Hitter,Buffalo Sabres,Jaden Schwartz,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a

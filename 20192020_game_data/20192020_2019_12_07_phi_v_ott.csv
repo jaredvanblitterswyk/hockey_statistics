@@ -1,0 +1,227 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-07T18:08:35Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:09:29Z,1,00:06,19:54,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:09:54Z,1,00:10,19:50,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:10:12Z,1,00:21,19:39,Shot,Backhand,9.0,-31.0,Scott Laughton,Shooter,Philadelphia Flyers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:10:17Z,1,00:26,19:34,Hit,n/a,95.0,20.0,Tyler Ennis,Hitter,Ottawa Senators,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:10:24Z,1,00:33,19:27,Blocked Shot,n/a,64.0,1.0,Justin Braun,Blocker,Philadelphia Flyers,Vladislav Namestnikov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:10:47Z,1,00:44,19:16,Missed Shot,n/a,-82.0,-33.0,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:10:51Z,1,00:58,19:02,Shot,Wrist Shot,-85.0,31.0,Kevin Hayes,Shooter,Philadelphia Flyers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:11:05Z,1,01:14,18:46,Shot,Slap Shot,-38.0,9.0,Matt Niskanen,Shooter,Philadelphia Flyers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:11:15Z,1,01:23,18:37,Hit,n/a,85.0,35.0,Brady Tkachuk,Hitter,Ottawa Senators,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:11:27Z,1,01:36,18:24,Blocked Shot,n/a,-61.0,-20.0,Thomas Chabot,Blocker,Ottawa Senators,Morgan Frost,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:11:40Z,1,01:45,18:15,Goal,Wrist Shot,-85.0,-10.0,Travis Konecny,Scorer,Philadelphia Flyers,Morgan Frost,Assist,Philadelphia Flyers,Claude Giroux,Assist,Philadelphia Flyers,Craig Anderson,Goalie,Ottawa Senators
+2019-12-07T18:12:24Z,1,01:45,18:15,Faceoff,n/a,0.0,0.0,Tyler Pitlick,Winner,Philadelphia Flyers,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:13:39Z,1,02:49,17:11,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Logan Brown,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:13:53Z,1,02:56,17:04,Blocked Shot,n/a,-44.0,4.0,Mark Borowiecki,Blocker,Ottawa Senators,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:14:31Z,1,03:34,16:26,Shot,Slap Shot,-32.0,21.0,Justin Braun,Shooter,Philadelphia Flyers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:14:43Z,1,03:46,16:14,Shot,Tip-In,76.0,-8.0,Tyler Ennis,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:14:53Z,1,03:55,16:05,Shot,Wrist Shot,89.0,8.0,Tyler Ennis,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:14:59Z,1,04:02,15:58,Missed Shot,n/a,92.0,7.0,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:15:03Z,1,04:05,15:55,Blocked Shot,n/a,70.0,-3.0,Justin Braun,Blocker,Philadelphia Flyers,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:15:14Z,1,04:17,15:43,Giveaway,n/a,-53.0,-27.0,Travis Konecny,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:15:25Z,1,04:27,15:33,Goal,Snap Shot,83.0,1.0,Brady Tkachuk,Scorer,Ottawa Senators,Jean-Gabriel Pageau,Assist,Ottawa Senators,Connor Brown,Assist,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers
+2019-12-07T18:16:10Z,1,04:27,15:33,Faceoff,n/a,0.0,0.0,Artem Anisimov,Winner,Ottawa Senators,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:16:54Z,1,05:09,14:51,Blocked Shot,n/a,60.0,2.0,Shayne Gostisbehere,Blocker,Philadelphia Flyers,Logan Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:16:57Z,1,05:13,14:47,Hit,n/a,91.0,34.0,Nick Paul,Hitter,Ottawa Senators,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:17:28Z,1,05:44,14:16,Missed Shot,n/a,-60.0,12.0,Tyler Pitlick,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:17:42Z,1,05:58,14:02,Missed Shot,n/a,-57.0,33.0,Tyler Pitlick,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:18:01Z,1,06:16,13:44,Goal,Slap Shot,-32.0,-18.0,Shayne Gostisbehere,Scorer,Philadelphia Flyers,Tyler Pitlick,Assist,Philadelphia Flyers,James van Riemsdyk,Assist,Philadelphia Flyers,Craig Anderson,Goalie,Ottawa Senators
+2019-12-07T18:18:47Z,1,06:16,13:44,Faceoff,n/a,0.0,0.0,Brady Tkachuk,Winner,Ottawa Senators,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:18:53Z,1,06:24,13:36,Hit,n/a,97.0,-2.0,Brady Tkachuk,Hitter,Ottawa Senators,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:18:56Z,1,06:27,13:33,Hit,n/a,94.0,-23.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:19:06Z,1,06:35,13:25,Giveaway,n/a,97.0,-3.0,Justin Braun,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:19:21Z,1,06:51,13:09,Hit,n/a,92.0,31.0,Brady Tkachuk,Hitter,Ottawa Senators,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:24:27Z,1,06:51,13:09,Faceoff,n/a,-20.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:25:37Z,1,07:25,12:35,Faceoff,n/a,69.0,-22.0,Colin White,Winner,Ottawa Senators,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:26:48Z,1,08:35,11:25,Hit,n/a,-92.0,-31.0,James van Riemsdyk,Hitter,Philadelphia Flyers,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:27:17Z,1,08:44,11:16,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:27:45Z,1,09:02,10:58,Hit,n/a,-27.0,36.0,Mark Borowiecki,Hitter,Ottawa Senators,Jakub Voracek,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:28:54Z,1,10:11,09:49,Hit,n/a,62.0,40.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Philippe Myers,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:29:03Z,1,10:21,09:39,Shot,Tip-In,68.0,-6.0,Brady Tkachuk,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:29:06Z,1,10:24,09:36,Shot,Slap Shot,59.0,39.0,Brady Tkachuk,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:29:18Z,1,10:36,09:24,Blocked Shot,n/a,70.0,-6.0,Travis Sanheim,Blocker,Philadelphia Flyers,Anthony Duclair,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:29:21Z,1,10:38,09:22,Missed Shot,n/a,87.0,13.0,Anthony Duclair,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:30:07Z,1,11:25,08:35,Shot,Wrist Shot,88.0,16.0,Tyler Ennis,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:33:10Z,1,11:56,08:04,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Nick Paul,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:33:29Z,1,12:24,07:36,Hit,n/a,84.0,37.0,Ivan Provorov,Hitter,Philadelphia Flyers,Connor Brown,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:33:33Z,1,12:28,07:32,Missed Shot,n/a,81.0,-14.0,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:34:06Z,1,12:31,07:29,Faceoff,n/a,20.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:35:26Z,1,13:56,06:04,Missed Shot,n/a,76.0,-7.0,Vladislav Namestnikov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:35:35Z,1,14:02,05:58,Missed Shot,n/a,32.0,38.0,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:35:46Z,1,14:07,05:53,Penalty,Interference,73.0,1.0,Justin Braun,PenaltyOn,Philadelphia Flyers,Vladislav Namestnikov,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:38:06Z,1,14:07,05:53,Faceoff,n/a,69.0,-22.0,Colin White,Winner,Ottawa Senators,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:38:00Z,1,14:14,05:46,Shot,Tip-In,85.0,10.0,Brady Tkachuk,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:38:22Z,1,14:14,05:46,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:38:26Z,1,14:18,05:42,Giveaway,n/a,65.0,40.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:38:55Z,1,14:49,05:11,Missed Shot,n/a,85.0,10.0,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:39:01Z,1,14:53,05:07,Shot,Wrist Shot,47.0,-26.0,Anthony Duclair,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:39:24Z,1,14:53,05:07,Faceoff,n/a,69.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:39:38Z,1,15:00,05:00,Blocked Shot,n/a,78.0,-6.0,Travis Sanheim,Blocker,Philadelphia Flyers,Logan Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:40:14Z,1,15:39,04:21,Hit,n/a,-87.0,38.0,Kevin Hayes,Hitter,Philadelphia Flyers,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:40:34Z,1,15:58,04:02,Missed Shot,n/a,78.0,11.0,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:40:42Z,1,16:07,03:53,Shot,Wrist Shot,59.0,26.0,Nikita Zaitsev,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:41:06Z,1,16:30,03:30,Hit,n/a,-4.0,39.0,Thomas Chabot,Hitter,Ottawa Senators,Oskar Lindblom,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:41:36Z,1,17:00,03:00,Hit,n/a,96.0,-10.0,Philippe Myers,Hitter,Philadelphia Flyers,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:42:10Z,1,17:34,02:26,Hit,n/a,-3.0,28.0,Mark Borowiecki,Hitter,Ottawa Senators,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:43:30Z,1,17:38,02:22,Faceoff,n/a,-20.0,22.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Logan Brown,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:43:34Z,1,17:48,02:12,Giveaway,n/a,-99.0,-15.0,Cody Goloubef,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:43:39Z,1,17:53,02:07,Blocked Shot,n/a,-54.0,18.0,Vladislav Namestnikov,Blocker,Ottawa Senators,Justin Braun,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:43:41Z,1,17:55,02:05,Hit,n/a,-96.0,27.0,Ron Hainsey,Hitter,Ottawa Senators,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:43:53Z,1,18:07,01:53,Missed Shot,n/a,-69.0,-6.0,Tyler Pitlick,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:44:09Z,1,18:23,01:37,Hit,n/a,-40.0,37.0,Matt Niskanen,Hitter,Philadelphia Flyers,Brady Tkachuk,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:44:14Z,1,18:27,01:33,Hit,n/a,-21.0,38.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Joel Farabee,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:44:24Z,1,18:38,01:22,Hit,n/a,-47.0,39.0,Scott Laughton,Hitter,Philadelphia Flyers,Mark Borowiecki,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:44:39Z,1,18:43,01:17,Penalty,Fighting,12.0,2.0,Jakub Voracek,PenaltyOn,Philadelphia Flyers,Nick Paul,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:44:51Z,1,18:43,01:17,Penalty,Fighting,1.0,12.0,Nick Paul,PenaltyOn,Ottawa Senators,Jakub Voracek,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:45:56Z,1,18:43,01:17,Faceoff,n/a,-69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:46:21Z,1,19:01,00:59,Takeaway,n/a,-38.0,-39.0,Nikita Zaitsev,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:47:18Z,1,19:17,00:43,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:47:48Z,1,19:25,00:35,Faceoff,n/a,-20.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T18:47:59Z,1,19:34,00:26,Hit,n/a,-97.0,1.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:06:40Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:06:57Z,2,00:11,19:49,Shot,Wrist Shot,63.0,10.0,Kevin Hayes,Shooter,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:07:08Z,2,00:18,19:42,Hit,n/a,-45.0,1.0,Scott Laughton,Hitter,Philadelphia Flyers,Jean-Gabriel Pageau,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:07:44Z,2,00:19,19:41,Penalty,Fighting,-36.0,6.0,Joel Farabee,PenaltyOn,Philadelphia Flyers,Jean-Gabriel Pageau,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:08:03Z,2,00:19,19:41,Penalty,Fighting,-34.0,4.0,Jean-Gabriel Pageau,PenaltyOn,Ottawa Senators,Joel Farabee,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:09:55Z,2,00:19,19:41,Faceoff,n/a,-20.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Logan Brown,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:10:12Z,2,00:37,19:23,Hit,n/a,-97.0,8.0,Brady Tkachuk,Hitter,Ottawa Senators,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:10:40Z,2,01:06,18:54,Hit,n/a,-57.0,40.0,Vladislav Namestnikov,Hitter,Ottawa Senators,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:11:03Z,2,01:29,18:31,Missed Shot,n/a,-75.0,-1.0,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:11:28Z,2,01:54,18:06,Shot,Snap Shot,68.0,11.0,Morgan Frost,Shooter,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:11:45Z,2,02:10,17:50,Hit,n/a,12.0,38.0,James van Riemsdyk,Hitter,Philadelphia Flyers,Colin White,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:12:43Z,2,03:08,16:52,Hit,n/a,-5.0,-35.0,Philippe Myers,Hitter,Philadelphia Flyers,Chris Tierney,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:13:07Z,2,03:32,16:28,Hit,n/a,-32.0,-1.0,Sean Couturier,Hitter,Philadelphia Flyers,Mark Borowiecki,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:13:44Z,2,03:33,16:27,Faceoff,n/a,-20.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:13:57Z,2,03:50,16:10,Missed Shot,n/a,71.0,13.0,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:14:54Z,2,04:47,15:13,Hit,n/a,-98.0,-12.0,Tyler Ennis,Hitter,Ottawa Senators,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:16:00Z,2,05:52,14:08,Hit,n/a,-14.0,-37.0,Mikhail Vorobyev,Hitter,Philadelphia Flyers,Connor Brown,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:16:38Z,2,06:31,13:29,Shot,Snap Shot,69.0,17.0,Oskar Lindblom,Shooter,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:16:48Z,2,06:34,13:26,Missed Shot,n/a,80.0,3.0,Tyler Pitlick,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:16:52Z,2,06:41,13:19,Takeaway,n/a,58.0,29.0,Tyler Pitlick,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:17:17Z,2,07:08,12:52,Blocked Shot,n/a,-58.0,-22.0,Ivan Provorov,Blocker,Philadelphia Flyers,Jonathan Davidsson,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:19:16Z,2,07:08,12:52,Faceoff,n/a,-69.0,-22.0,Colin White,Winner,Ottawa Senators,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:19:42Z,2,07:13,12:47,Shot,Wrist Shot,-61.0,-4.0,Anthony Duclair,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:19:56Z,2,07:13,12:47,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:20:09Z,2,07:16,12:44,Giveaway,n/a,-96.0,-9.0,Philippe Myers,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:20:57Z,2,08:04,11:56,Takeaway,n/a,35.0,-23.0,Joel Farabee,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:20:59Z,2,08:09,11:51,Hit,n/a,61.0,-36.0,Thomas Chabot,Hitter,Ottawa Senators,Joel Farabee,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:21:09Z,2,08:10,11:50,Hit,n/a,95.0,-12.0,Scott Laughton,Hitter,Philadelphia Flyers,Jean-Gabriel Pageau,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:21:06Z,2,08:16,11:44,Shot,Wrist Shot,-57.0,24.0,Connor Brown,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:21:23Z,2,08:19,11:41,Penalty,Hooking,-38.0,-38.0,Kevin Hayes,PenaltyOn,Philadelphia Flyers,Jean-Gabriel Pageau,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:21:56Z,2,08:19,11:41,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:22:22Z,2,08:51,11:09,Shot,Wrist Shot,-47.0,37.0,Sean Couturier,Shooter,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:23:12Z,2,09:40,10:20,Shot,Wrist Shot,-57.0,18.0,Vladislav Namestnikov,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:23:34Z,2,09:41,10:19,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:23:54Z,2,09:48,10:12,Shot,Wrist Shot,-42.0,-21.0,Vladislav Namestnikov,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:23:56Z,2,09:50,10:10,Missed Shot,n/a,-73.0,3.0,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:24:11Z,2,09:51,10:09,Faceoff,n/a,-69.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:24:37Z,2,10:08,09:52,Shot,Wrist Shot,-32.0,-6.0,Dylan DeMelo,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:25:59Z,2,11:29,08:31,Missed Shot,n/a,34.0,-23.0,Philippe Myers,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:28:13Z,2,11:45,08:15,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:28:51Z,2,11:50,08:10,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:29:25Z,2,12:11,07:49,Giveaway,n/a,-57.0,-11.0,Jakub Voracek,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:29:26Z,2,12:15,07:45,Missed Shot,n/a,-62.0,12.0,Connor Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:29:36Z,2,12:19,07:41,Penalty,Too many men on the ice,-27.0,38.0,Brady Tkachuk,PenaltyOn,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:30:17Z,2,12:19,07:41,Faceoff,n/a,69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:30:35Z,2,12:31,07:29,Hit,n/a,81.0,33.0,Mark Borowiecki,Hitter,Ottawa Senators,Morgan Frost,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:31:21Z,2,13:17,06:43,Giveaway,n/a,-83.0,-4.0,Carter Hart,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:31:24Z,2,13:18,06:42,Goal,Wrap-around,-91.0,5.0,Anthony Duclair,Scorer,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:32:49Z,2,13:18,06:42,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:32:13Z,2,13:31,06:29,Takeaway,n/a,-92.0,-28.0,Connor Brown,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:32:20Z,2,13:38,06:22,Shot,Wrist Shot,-58.0,17.0,Connor Brown,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:32:29Z,2,13:47,06:13,Shot,Wrist Shot,-71.0,4.0,Connor Brown,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:32:56Z,2,13:47,06:13,Faceoff,n/a,-69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:33:55Z,2,14:45,05:15,Giveaway,n/a,-98.0,-10.0,Carter Hart,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:34:16Z,2,15:06,04:54,Shot,Wrist Shot,20.0,-25.0,Scott Laughton,Shooter,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:34:25Z,2,15:15,04:45,Blocked Shot,n/a,67.0,-3.0,Brady Tkachuk,Blocker,Ottawa Senators,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:34:56Z,2,15:46,04:14,Hit,n/a,-29.0,-38.0,Vladislav Namestnikov,Hitter,Ottawa Senators,Philippe Myers,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:35:12Z,2,16:02,03:58,Shot,Slap Shot,11.0,-20.0,Philippe Myers,Shooter,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:36:14Z,2,17:04,02:56,Shot,Slap Shot,32.0,-26.0,Matt Niskanen,Shooter,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:36:47Z,2,17:38,02:22,Hit,n/a,91.0,28.0,Nikita Zaitsev,Hitter,Ottawa Senators,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:36:54Z,2,17:45,02:15,Giveaway,n/a,-74.0,36.0,Anthony Duclair,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:37:02Z,2,17:49,02:11,Shot,Snap Shot,-65.0,1.0,Logan Brown,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:37:02Z,2,17:52,02:08,Shot,Wrist Shot,-55.0,22.0,Anthony Duclair,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:39:17Z,2,17:52,02:08,Faceoff,n/a,-69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:39:37Z,2,18:08,01:52,Shot,Deflected,-23.0,-4.0,Chris Tierney,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:39:51Z,2,18:08,01:52,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:40:17Z,2,18:20,01:40,Hit,n/a,14.0,39.0,Kevin Hayes,Hitter,Philadelphia Flyers,Nick Paul,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:40:30Z,2,18:32,01:28,Shot,Slap Shot,33.0,1.0,Matt Niskanen,Shooter,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:40:49Z,2,18:33,01:27,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:41:32Z,2,18:51,01:09,Giveaway,n/a,13.0,15.0,Cody Goloubef,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:41:57Z,2,19:16,00:44,Giveaway,n/a,-57.0,40.0,Connor Brown,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T19:42:16Z,2,19:37,00:23,Missed Shot,n/a,-33.0,-16.0,Ron Hainsey,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:00:52Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:01:54Z,3,00:55,19:05,Shot,Wrist Shot,-32.0,10.0,Sean Couturier,Shooter,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:02:00Z,3,00:58,19:02,Takeaway,n/a,-77.0,-30.0,Oskar Lindblom,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:02:17Z,3,01:17,18:43,Shot,Snap Shot,-56.0,-31.0,Ivan Provorov,Shooter,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:02:47Z,3,01:17,18:43,Faceoff,n/a,-69.0,-22.0,Colin White,Winner,Ottawa Senators,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:03:11Z,3,01:34,18:26,Faceoff,n/a,-69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:03:43Z,3,01:35,18:25,Missed Shot,n/a,-51.0,27.0,Morgan Frost,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:03:35Z,3,01:46,18:14,Missed Shot,n/a,-53.0,-20.0,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:03:54Z,3,02:04,17:56,Missed Shot,n/a,-49.0,16.0,Tyler Pitlick,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:04:58Z,3,03:08,16:52,Giveaway,n/a,23.0,-25.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:05:08Z,3,03:17,16:43,Goal,Snap Shot,-65.0,-8.0,Ivan Provorov,Scorer,Philadelphia Flyers,Joel Farabee,Assist,Philadelphia Flyers,Scott Laughton,Assist,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators
+2019-12-07T20:05:47Z,3,03:17,16:43,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:06:02Z,3,03:25,16:35,Missed Shot,n/a,63.0,-14.0,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:06:12Z,3,03:38,16:22,Missed Shot,n/a,56.0,-39.0,Chris Tierney,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:06:53Z,3,03:44,16:16,Faceoff,n/a,69.0,-22.0,Colin White,Winner,Ottawa Senators,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:08:54Z,3,05:39,14:21,Blocked Shot,n/a,-55.0,-15.0,Nikita Zaitsev,Blocker,Ottawa Senators,Joel Farabee,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:08:59Z,3,05:44,14:16,Takeaway,n/a,-40.0,-37.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:09:09Z,3,05:54,14:06,Hit,n/a,13.0,40.0,Matt Niskanen,Hitter,Philadelphia Flyers,Brady Tkachuk,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:11:59Z,3,06:21,13:39,Faceoff,n/a,-20.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:12:12Z,3,06:34,13:26,Shot,Wrist Shot,-72.0,16.0,Oskar Lindblom,Shooter,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:12:21Z,3,06:44,13:16,Shot,Wrist Shot,88.0,7.0,Anthony Duclair,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:12:45Z,3,06:46,13:14,Blocked Shot,n/a,85.0,-7.0,Matt Niskanen,Blocker,Philadelphia Flyers,Chris Tierney,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:12:45Z,3,07:07,12:53,Hit,n/a,53.0,-29.0,Ivan Provorov,Hitter,Philadelphia Flyers,Anthony Duclair,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:13:12Z,3,07:34,12:26,Shot,Slap Shot,32.0,-20.0,Cody Goloubef,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:13:43Z,3,08:01,11:59,Shot,Backhand,21.0,6.0,Colin White,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:14:28Z,3,08:16,11:44,Faceoff,n/a,-69.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:14:38Z,3,08:22,11:38,Hit,n/a,-93.0,-28.0,Scott Laughton,Hitter,Philadelphia Flyers,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:15:03Z,3,08:42,11:18,Hit,n/a,-90.0,-31.0,Kevin Hayes,Hitter,Philadelphia Flyers,Nick Paul,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:15:28Z,3,09:11,10:49,Giveaway,n/a,-9.0,-3.0,Oskar Lindblom,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:16:14Z,3,09:58,10:02,Giveaway,n/a,-28.0,-24.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:17:12Z,3,10:18,09:42,Faceoff,n/a,69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Logan Brown,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:19:26Z,3,10:24,09:36,Faceoff,n/a,69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:19:48Z,3,10:30,09:30,Giveaway,n/a,43.0,-38.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:19:53Z,3,10:35,09:25,Missed Shot,n/a,72.0,-6.0,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:20:11Z,3,10:36,09:24,Penalty,Tripping,82.0,-1.0,Ivan Provorov,PenaltyOn,Philadelphia Flyers,Brady Tkachuk,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:20:40Z,3,10:36,09:24,Faceoff,n/a,69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:20:53Z,3,10:50,09:10,Giveaway,n/a,76.0,6.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:21:07Z,3,11:01,08:59,Shot,Wrist Shot,85.0,-4.0,Colin White,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:21:04Z,3,11:02,08:58,Shot,Wrist Shot,78.0,-8.0,Brady Tkachuk,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:21:31Z,3,11:28,08:32,Shot,Tip-In,86.0,8.0,Brady Tkachuk,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:21:33Z,3,11:30,08:30,Shot,Wrist Shot,80.0,-3.0,Anthony Duclair,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:21:44Z,3,11:41,08:19,Missed Shot,n/a,-74.0,11.0,Oskar Lindblom,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:22:46Z,3,12:42,07:18,Missed Shot,n/a,63.0,-9.0,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:23:13Z,3,13:10,06:50,Blocked Shot,n/a,49.0,-20.0,Claude Giroux,Blocker,Philadelphia Flyers,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:24:00Z,3,13:13,06:47,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:24:27Z,3,13:33,06:27,Blocked Shot,n/a,41.0,-7.0,Mikhail Vorobyev,Blocker,Philadelphia Flyers,Ron Hainsey,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:24:36Z,3,13:42,06:18,Missed Shot,n/a,-77.0,-22.0,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:24:44Z,3,13:46,06:14,Blocked Shot,n/a,-73.0,10.0,Chris Tierney,Blocker,Ottawa Senators,Mikhail Vorobyev,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:25:04Z,3,13:46,06:14,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:26:13Z,3,14:34,05:26,Giveaway,n/a,79.0,33.0,Oskar Lindblom,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:26:15Z,3,14:36,05:24,Missed Shot,n/a,54.0,37.0,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:26:42Z,3,14:38,05:22,Blocked Shot,n/a,81.0,-9.0,Justin Braun,Blocker,Philadelphia Flyers,Dylan DeMelo,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:26:28Z,3,14:49,05:11,Takeaway,n/a,44.0,10.0,Joel Farabee,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:26:40Z,3,15:00,05:00,Goal,Snap Shot,67.0,2.0,Anthony Duclair,Scorer,Ottawa Senators,Thomas Chabot,Assist,Ottawa Senators,Dylan DeMelo,Assist,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers
+2019-12-07T20:27:39Z,3,15:00,05:00,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:27:44Z,3,15:10,04:50,Shot,Wrist Shot,-57.0,15.0,Kevin Hayes,Shooter,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:27:58Z,3,15:11,04:49,Goal,Snap Shot,-76.0,-5.0,Scott Laughton,Scorer,Philadelphia Flyers,Kevin Hayes,Assist,Philadelphia Flyers,James van Riemsdyk,Assist,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators
+2019-12-07T20:28:33Z,3,15:11,04:49,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Logan Brown,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:28:37Z,3,15:21,04:39,Giveaway,n/a,-79.0,-39.0,Mark Borowiecki,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:28:42Z,3,15:24,04:36,Shot,Wrist Shot,-32.0,9.0,Matt Niskanen,Shooter,Philadelphia Flyers,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:29:32Z,3,16:17,03:43,Shot,Wrist Shot,31.0,23.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:31:22Z,3,16:17,03:43,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:31:58Z,3,16:23,03:37,Blocked Shot,n/a,64.0,19.0,Matt Niskanen,Blocker,Philadelphia Flyers,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:32:47Z,3,17:12,02:48,Giveaway,n/a,96.0,-5.0,Jean-Gabriel Pageau,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:33:11Z,3,17:36,02:24,Shot,Wrist Shot,28.0,10.0,Thomas Chabot,Shooter,Ottawa Senators,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:34:31Z,3,18:31,01:29,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:34:47Z,3,18:46,01:14,Hit,n/a,98.0,11.0,Brady Tkachuk,Hitter,Ottawa Senators,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:35:00Z,3,18:59,01:01,Takeaway,n/a,20.0,-14.0,Claude Giroux,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:35:11Z,3,19:09,00:51,Hit,n/a,49.0,-37.0,Brady Tkachuk,Hitter,Ottawa Senators,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:35:23Z,3,19:21,00:39,Hit,n/a,16.0,40.0,Brady Tkachuk,Hitter,Ottawa Senators,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:35:29Z,3,19:27,00:33,Hit,n/a,24.0,38.0,Matt Niskanen,Hitter,Philadelphia Flyers,Anthony Duclair,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:36:36Z,3,19:35,00:25,Penalty,Cross checking,-23.0,26.0,Brady Tkachuk,PenaltyOn,Ottawa Senators,Scott Laughton,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:37:38Z,3,19:35,00:25,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T20:37:38Z,3,19:35,00:25,Penalty,Roughing,-24.0,29.0,Brady Tkachuk,PenaltyOn,Ottawa Senators,Scott Laughton,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a

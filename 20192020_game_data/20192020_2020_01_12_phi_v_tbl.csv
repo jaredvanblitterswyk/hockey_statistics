@@ -1,0 +1,224 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-12T00:08:01Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:08:59Z,1,00:15,19:45,Hit,n/a,78.0,40.0,Philippe Myers,Hitter,Philadelphia Flyers,Alex Killorn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:09:05Z,1,00:17,19:43,Takeaway,n/a,43.0,40.0,Anthony Cirelli,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:09:25Z,1,00:41,19:19,Missed Shot,n/a,-60.0,39.0,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:09:42Z,1,00:58,19:02,Takeaway,n/a,-16.0,-32.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:09:51Z,1,01:07,18:53,Giveaway,n/a,-15.0,38.0,Nikita Kucherov,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:10:02Z,1,01:15,18:45,Shot,Slap Shot,-75.0,40.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:10:05Z,1,01:17,18:43,Shot,Backhand,-78.0,6.0,Travis Konecny,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:10:20Z,1,01:17,18:43,Faceoff,n/a,-69.0,22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:10:41Z,1,01:24,18:36,Hit,n/a,-96.0,-22.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:10:57Z,1,01:42,18:18,Blocked Shot,n/a,65.0,-23.0,Robert Hagg,Blocker,Philadelphia Flyers,Alexander Volkov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:11:16Z,1,02:01,17:59,Shot,Wrist Shot,34.0,-37.0,Erik Cernak,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:12:06Z,1,02:48,17:12,Penalty,Holding,11.0,29.0,Mitchell Stephens,PenaltyOn,Tampa Bay Lightning,David Kase,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:12:36Z,1,02:48,17:12,Faceoff,n/a,-69.0,22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:12:58Z,1,03:03,16:57,Shot,Wrist Shot,-49.0,31.0,Sean Couturier,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:13:26Z,1,03:30,16:30,Giveaway,n/a,-25.0,-30.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:14:36Z,1,04:40,15:20,Blocked Shot,n/a,-62.0,21.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:14:44Z,1,04:46,15:14,Giveaway,n/a,-30.0,5.0,Joel Farabee,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:15:12Z,1,05:14,14:46,Hit,n/a,-60.0,-42.0,Braydon Coburn,Hitter,Tampa Bay Lightning,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:15:23Z,1,05:27,14:33,Shot,Wrist Shot,47.0,-7.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:15:50Z,1,05:38,14:22,Faceoff,n/a,69.0,22.0,Tyler Johnson,Winner,Tampa Bay Lightning,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:16:09Z,1,05:43,14:17,Blocked Shot,n/a,66.0,-20.0,Philippe Myers,Blocker,Philadelphia Flyers,Alex Killorn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:16:33Z,1,05:43,14:17,Faceoff,n/a,69.0,-22.0,Michael Raffl,Winner,Philadelphia Flyers,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:16:58Z,1,05:56,14:04,Shot,Wrist Shot,-50.0,-38.0,Jakub Voracek,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:17:10Z,1,06:06,13:54,Shot,Deflected,-82.0,0.0,Michael Raffl,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:19:03Z,1,06:06,13:54,Faceoff,n/a,-69.0,22.0,Scott Laughton,Winner,Philadelphia Flyers,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:19:40Z,1,06:13,13:47,Missed Shot,n/a,-77.0,5.0,David Kase,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:19:42Z,1,06:15,13:45,Takeaway,n/a,-72.0,39.0,David Kase,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:20:07Z,1,06:27,13:33,Faceoff,n/a,-69.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:20:56Z,1,06:58,13:02,Penalty,Holding,64.0,39.0,Robert Hagg,PenaltyOn,Philadelphia Flyers,Alexander Volkov,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:21:22Z,1,06:58,13:02,Faceoff,n/a,69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:21:47Z,1,07:14,12:46,Blocked Shot,n/a,81.0,-3.0,Matt Niskanen,Blocker,Philadelphia Flyers,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:21:54Z,1,07:21,12:39,Takeaway,n/a,84.0,-33.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:22:24Z,1,07:52,12:08,Missed Shot,n/a,75.0,13.0,Steven Stamkos,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:22:46Z,1,08:14,11:46,Shot,Slap Shot,-8.0,36.0,Philippe Myers,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:23:09Z,1,08:37,11:23,Hit,n/a,-41.0,-41.0,Mikhail Sergachev,Hitter,Tampa Bay Lightning,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:23:20Z,1,08:45,11:15,Hit,n/a,23.0,-36.0,Michael Raffl,Hitter,Philadelphia Flyers,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:23:32Z,1,08:57,11:03,Takeaway,n/a,83.0,25.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:23:33Z,1,09:01,10:59,Shot,Wrist Shot,83.0,8.0,Tyler Johnson,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:23:47Z,1,09:14,10:46,Blocked Shot,n/a,-84.0,13.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:24:17Z,1,09:44,10:16,Hit,n/a,78.0,-40.0,Mitchell Stephens,Hitter,Tampa Bay Lightning,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:26:36Z,1,12:03,07:57,Blocked Shot,n/a,-56.0,-26.0,Pat Maroon,Blocker,Tampa Bay Lightning,Mark Friedman,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:26:40Z,1,12:07,07:53,Hit,n/a,-59.0,41.0,Mark Friedman,Hitter,Philadelphia Flyers,Cedric Paquette,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:26:44Z,1,12:11,07:49,Shot,Wrist Shot,69.0,21.0,Alexander Volkov,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:29:22Z,1,12:11,07:49,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:29:37Z,1,12:19,07:41,Missed Shot,n/a,74.0,-27.0,Mitchell Stephens,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:29:46Z,1,12:27,07:33,Hit,n/a,-98.0,-20.0,Scott Laughton,Hitter,Philadelphia Flyers,Jan Rutta,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:29:53Z,1,12:35,07:25,Blocked Shot,n/a,75.0,-2.0,Joel Farabee,Blocker,Philadelphia Flyers,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:30:04Z,1,12:46,07:14,Blocked Shot,n/a,77.0,6.0,Philippe Myers,Blocker,Philadelphia Flyers,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:30:34Z,1,13:16,06:44,Missed Shot,n/a,-63.0,23.0,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:31:05Z,1,13:43,06:17,Penalty,Hi stick - double minor,-98.0,-14.0,Travis Konecny,PenaltyOn,Philadelphia Flyers,Victor Hedman,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:32:10Z,1,13:43,06:17,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:32:14Z,1,13:49,06:11,Giveaway,n/a,92.0,-32.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:32:19Z,1,13:54,06:06,Shot,Wrist Shot,74.0,21.0,Tyler Johnson,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:32:36Z,1,14:06,05:54,Blocked Shot,n/a,53.0,10.0,Anthony Cirelli,Blocker,Tampa Bay Lightning,Travis Sanheim,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:33:19Z,1,14:54,05:06,Shot,Slap Shot,64.0,21.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:33:53Z,1,14:54,05:06,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:33:55Z,1,15:02,04:58,Hit,n/a,31.0,-39.0,Claude Giroux,Hitter,Philadelphia Flyers,Anthony Cirelli,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:33:56Z,1,15:08,04:52,Shot,Wrist Shot,-60.0,6.0,Michael Raffl,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:34:34Z,1,15:46,04:14,Takeaway,n/a,29.0,-25.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:35:51Z,1,17:02,02:58,Blocked Shot,n/a,60.0,-2.0,Matt Niskanen,Blocker,Philadelphia Flyers,Steven Stamkos,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:36:04Z,1,17:15,02:45,Blocked Shot,n/a,68.0,-2.0,Michael Raffl,Blocker,Philadelphia Flyers,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:36:28Z,1,17:39,02:21,Missed Shot,n/a,75.0,9.0,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:36:55Z,1,18:06,01:54,Blocked Shot,n/a,73.0,-6.0,Ivan Provorov,Blocker,Philadelphia Flyers,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:38:51Z,1,18:06,01:54,Faceoff,n/a,69.0,-22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:39:16Z,1,18:12,01:48,Shot,Wrist Shot,35.0,-21.0,Erik Cernak,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:39:36Z,1,18:32,01:28,Hit,n/a,9.0,42.0,Robert Hagg,Hitter,Philadelphia Flyers,Carter Verhaeghe,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:39:50Z,1,18:45,01:15,Hit,n/a,-46.0,41.0,Braydon Coburn,Hitter,Tampa Bay Lightning,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:39:56Z,1,18:52,01:08,Shot,Wrist Shot,27.0,-5.0,Yanni Gourde,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:40:23Z,1,18:52,01:08,Faceoff,n/a,69.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,James van Riemsdyk,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:40:50Z,1,19:07,00:53,Blocked Shot,n/a,63.0,8.0,James van Riemsdyk,Blocker,Philadelphia Flyers,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:41:00Z,1,19:17,00:43,Missed Shot,n/a,66.0,-17.0,Alexander Volkov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:41:01Z,1,19:17,00:43,Blocked Shot,n/a,86.0,12.0,Ivan Provorov,Blocker,Philadelphia Flyers,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:41:15Z,1,19:27,00:33,Hit,n/a,75.0,40.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Nicolas Aube-Kubel,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:41:35Z,1,19:29,00:31,Hit,n/a,95.0,21.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Alexander Volkov,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:41:22Z,1,19:39,00:21,Blocked Shot,n/a,68.0,-18.0,Nicolas Aube-Kubel,Blocker,Philadelphia Flyers,Jan Rutta,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:00:07Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Michael Raffl,Winner,Philadelphia Flyers,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:00:30Z,2,00:15,19:45,Blocked Shot,n/a,60.0,2.0,Alexander Volkov,Blocker,Tampa Bay Lightning,Philippe Myers,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:00:53Z,2,00:15,19:45,Faceoff,n/a,69.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:01:13Z,2,00:27,19:33,Hit,n/a,-96.0,-24.0,Alex Killorn,Hitter,Tampa Bay Lightning,Philippe Myers,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:01:19Z,2,00:35,19:25,Shot,Wrist Shot,56.0,35.0,Philippe Myers,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:01:41Z,2,00:35,19:25,Faceoff,n/a,69.0,22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,James van Riemsdyk,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:02:09Z,2,00:45,19:15,Hit,n/a,97.0,-27.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:02:37Z,2,01:12,18:48,Blocked Shot,n/a,-70.0,-5.0,Mark Friedman,Blocker,Philadelphia Flyers,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:02:37Z,2,01:18,18:42,Blocked Shot,n/a,-70.0,-4.0,Robert Hagg,Blocker,Philadelphia Flyers,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:03:04Z,2,01:29,18:31,Faceoff,n/a,-69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:03:36Z,2,01:36,18:24,Shot,Wrist Shot,-37.0,23.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:03:50Z,2,01:49,18:11,Shot,Slap Shot,33.0,21.0,Matt Niskanen,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:04:11Z,2,01:49,18:11,Faceoff,n/a,69.0,22.0,Tyler Johnson,Winner,Tampa Bay Lightning,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:04:27Z,2,01:58,18:02,Hit,n/a,-98.0,-21.0,Alexander Volkov,Hitter,Tampa Bay Lightning,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:05:03Z,2,02:34,17:26,Hit,n/a,-79.0,-40.0,Travis Konecny,Hitter,Philadelphia Flyers,Alexander Volkov,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:05:25Z,2,02:38,17:22,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:05:46Z,2,02:45,17:15,Hit,n/a,-99.0,12.0,Steven Stamkos,Hitter,Tampa Bay Lightning,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:06:20Z,2,03:22,16:38,Shot,Backhand,-55.0,37.0,Brayden Point,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:06:48Z,2,03:49,16:11,Missed Shot,n/a,-83.0,-13.0,Carter Verhaeghe,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:06:57Z,2,03:58,16:02,Shot,Slap Shot,-39.0,-17.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:06:59Z,2,03:59,16:01,Shot,Wrist Shot,-86.0,-9.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:07:03Z,2,04:05,15:55,Missed Shot,n/a,-69.0,23.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:07:15Z,2,04:15,15:45,Shot,Wrist Shot,-70.0,4.0,Mitchell Stephens,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:07:55Z,2,04:15,15:45,Faceoff,n/a,-69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:08:27Z,2,04:29,15:31,Faceoff,n/a,-20.0,22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:08:51Z,2,04:43,15:17,Shot,Wrist Shot,-85.0,29.0,Pat Maroon,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:08:57Z,2,04:49,15:11,Blocked Shot,n/a,-41.0,-33.0,Nicolas Aube-Kubel,Blocker,Philadelphia Flyers,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:09:20Z,2,05:08,14:52,Penalty,Slashing,-85.0,-32.0,Pat Maroon,PenaltyOn,Tampa Bay Lightning,Mark Friedman,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:09:57Z,2,05:08,14:52,Faceoff,n/a,69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:11:43Z,2,06:56,13:04,Shot,Wrist Shot,82.0,-3.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:12:12Z,2,06:56,13:04,Faceoff,n/a,69.0,-22.0,Alex Killorn,Winner,Tampa Bay Lightning,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:12:39Z,2,07:02,12:58,Shot,Slap Shot,33.0,35.0,Ivan Provorov,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:13:08Z,2,07:02,12:58,Faceoff,n/a,69.0,22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:13:34Z,2,07:27,12:33,Goal,Wrist Shot,-75.0,1.0,Pat Maroon,Scorer,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:14:14Z,2,07:27,12:33,Faceoff,n/a,0.0,0.0,Michael Raffl,Winner,Philadelphia Flyers,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:14:41Z,2,07:46,12:14,Hit,n/a,-99.0,-5.0,Philippe Myers,Hitter,Philadelphia Flyers,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:15:23Z,2,08:31,11:29,Missed Shot,n/a,-79.0,-8.0,Carter Verhaeghe,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:15:40Z,2,08:45,11:15,Hit,n/a,99.0,-2.0,Scott Laughton,Hitter,Philadelphia Flyers,Braydon Coburn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:16:02Z,2,09:10,10:50,Shot,Backhand,90.0,-26.0,Joel Farabee,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:16:09Z,2,09:17,10:43,Hit,n/a,29.0,41.0,Sean Couturier,Hitter,Philadelphia Flyers,Victor Hedman,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:16:21Z,2,09:29,10:31,Shot,Wrist Shot,-66.0,-30.0,Alexander Volkov,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:19:04Z,2,10:16,09:44,Faceoff,n/a,0.0,0.0,Brayden Point,Winner,Tampa Bay Lightning,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:19:47Z,2,10:33,09:27,Hit,n/a,83.0,39.0,Sean Couturier,Hitter,Philadelphia Flyers,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:20:26Z,2,10:49,09:11,Faceoff,n/a,20.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:21:05Z,2,11:12,08:48,Faceoff,n/a,20.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:22:01Z,2,11:45,08:15,Hit,n/a,-74.0,-41.0,Philippe Myers,Hitter,Philadelphia Flyers,Braydon Coburn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:22:04Z,2,11:57,08:03,Shot,Wrist Shot,10.0,-37.0,Philippe Myers,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:24:00Z,2,11:58,08:02,Faceoff,n/a,69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:24:40Z,2,12:10,07:50,Hit,n/a,-28.0,-40.0,Philippe Myers,Hitter,Philadelphia Flyers,Tyler Johnson,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:25:10Z,2,12:26,07:34,Faceoff,n/a,-69.0,22.0,Michael Raffl,Winner,Philadelphia Flyers,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:26:05Z,2,13:09,06:51,Blocked Shot,n/a,-61.0,5.0,Travis Konecny,Blocker,Philadelphia Flyers,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:26:25Z,2,13:09,06:51,Faceoff,n/a,-69.0,22.0,Scott Laughton,Winner,Philadelphia Flyers,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:27:00Z,2,13:32,06:28,Hit,n/a,-99.0,10.0,David Kase,Hitter,Philadelphia Flyers,Mitchell Stephens,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:27:20Z,2,13:54,06:06,Shot,Wrist Shot,-67.0,12.0,Cedric Paquette,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:28:21Z,2,13:54,06:06,Faceoff,n/a,-69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:28:56Z,2,14:14,05:46,Missed Shot,n/a,58.0,39.0,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:29:08Z,2,14:26,05:34,Missed Shot,n/a,66.0,3.0,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:29:53Z,2,15:08,04:52,Giveaway,n/a,-51.0,40.0,Michael Raffl,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:30:15Z,2,15:32,04:28,Shot,Wrist Shot,-48.0,-23.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:32:27Z,2,15:32,04:28,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:32:47Z,2,15:38,04:22,Blocked Shot,n/a,-80.0,13.0,Ivan Provorov,Blocker,Philadelphia Flyers,Tyler Johnson,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:33:02Z,2,15:53,04:07,Blocked Shot,n/a,-67.0,-4.0,Matt Niskanen,Blocker,Philadelphia Flyers,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:33:36Z,2,15:54,04:06,Faceoff,n/a,-20.0,22.0,Yanni Gourde,Winner,Tampa Bay Lightning,Joel Farabee,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:34:18Z,2,16:22,03:38,Shot,Backhand,-66.0,-14.0,Mitchell Stephens,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:34:22Z,2,16:22,03:38,Shot,Wrist Shot,-90.0,-5.0,Mitchell Stephens,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:35:00Z,2,16:23,03:37,Faceoff,n/a,-69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:35:12Z,2,16:26,03:34,Blocked Shot,n/a,-65.0,-8.0,Matt Niskanen,Blocker,Philadelphia Flyers,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:35:35Z,2,16:49,03:11,Giveaway,n/a,98.0,-1.0,Andrei Vasilevskiy,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:35:43Z,2,16:57,03:03,Blocked Shot,n/a,50.0,-7.0,Steven Stamkos,Blocker,Tampa Bay Lightning,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:36:03Z,2,17:17,02:43,Hit,n/a,99.0,-8.0,Sean Couturier,Hitter,Philadelphia Flyers,Jan Rutta,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:36:46Z,2,17:57,02:03,Hit,n/a,13.0,40.0,Michael Raffl,Hitter,Philadelphia Flyers,Jan Rutta,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:37:04Z,2,18:00,02:00,Hit,n/a,-99.0,9.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Pat Maroon,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:37:23Z,2,18:37,01:23,Blocked Shot,n/a,-67.0,-6.0,Mark Friedman,Blocker,Philadelphia Flyers,Anthony Cirelli,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:38:15Z,2,19:27,00:33,Missed Shot,n/a,-64.0,13.0,Yanni Gourde,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:38:23Z,2,19:34,00:26,Shot,Slap Shot,-44.0,10.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:38:45Z,2,19:34,00:26,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:57:46Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:58:09Z,3,00:06,19:54,Faceoff,n/a,20.0,22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:58:31Z,3,00:20,19:40,Shot,Wrist Shot,32.0,-29.0,Jan Rutta,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:58:30Z,3,00:21,19:39,Giveaway,n/a,96.0,-2.0,Carter Hart,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:58:51Z,3,00:21,19:39,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:59:16Z,3,00:34,19:26,Shot,Slap Shot,33.0,-31.0,Jan Rutta,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:59:28Z,3,00:46,19:14,Shot,Slap Shot,33.0,-27.0,Jan Rutta,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:59:37Z,3,00:55,19:05,Shot,Wrist Shot,-68.0,31.0,Travis Konecny,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:00:16Z,3,01:34,18:26,Takeaway,n/a,-97.0,8.0,Nicolas Aube-Kubel,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:00:29Z,3,01:47,18:13,Shot,Wrist Shot,77.0,-15.0,Pat Maroon,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:00:37Z,3,01:47,18:13,Penalty,Hooking,79.0,-11.0,Kevin Hayes,PenaltyOn,Philadelphia Flyers,Pat Maroon,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:01:19Z,3,01:47,18:13,Faceoff,n/a,69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:01:31Z,3,01:54,18:06,Blocked Shot,n/a,63.0,-15.0,Ivan Provorov,Blocker,Philadelphia Flyers,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:03:06Z,3,03:28,16:32,Blocked Shot,n/a,72.0,4.0,Robert Hagg,Blocker,Philadelphia Flyers,Tyler Johnson,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:03:24Z,3,03:46,16:14,Blocked Shot,n/a,-64.0,2.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:03:33Z,3,03:55,16:05,Blocked Shot,n/a,-75.0,-18.0,Kevin Shattenkirk,Blocker,Tampa Bay Lightning,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:03:42Z,3,04:04,15:56,Missed Shot,n/a,55.0,18.0,Carter Verhaeghe,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:03:51Z,3,04:13,15:47,Missed Shot,n/a,-81.0,-17.0,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:04:22Z,3,04:44,15:16,Shot,Tip-In,-79.0,-3.0,Travis Sanheim,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:04:32Z,3,04:48,15:12,Shot,Wrist Shot,-37.0,-26.0,Philippe Myers,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:04:59Z,3,04:48,15:12,Faceoff,n/a,-69.0,-22.0,Scott Laughton,Winner,Philadelphia Flyers,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:05:12Z,3,04:54,15:06,Shot,Wrist Shot,-35.0,27.0,Philippe Myers,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:05:23Z,3,05:05,14:55,Hit,n/a,74.0,40.0,Scott Laughton,Hitter,Philadelphia Flyers,Tyler Johnson,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:05:51Z,3,05:33,14:27,Blocked Shot,n/a,-58.0,14.0,Anthony Cirelli,Blocker,Tampa Bay Lightning,Scott Laughton,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:06:20Z,3,06:02,13:58,Missed Shot,n/a,34.0,24.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:06:29Z,3,06:08,13:52,Giveaway,n/a,63.0,-40.0,Jakub Voracek,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:06:29Z,3,06:11,13:49,Shot,Wrist Shot,56.0,40.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:07:18Z,3,06:13,13:47,Giveaway,n/a,61.0,-4.0,Michael Raffl,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:07:07Z,3,06:26,13:34,Faceoff,n/a,69.0,-22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:08:11Z,3,07:23,12:37,Blocked Shot,n/a,-54.0,-8.0,Carter Verhaeghe,Blocker,Tampa Bay Lightning,Robert Hagg,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:08:19Z,3,07:31,12:29,Shot,Wrist Shot,-35.0,-31.0,Robert Hagg,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:08:21Z,3,07:32,12:28,Blocked Shot,n/a,-87.0,-7.0,Braydon Coburn,Blocker,Tampa Bay Lightning,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:08:25Z,3,07:37,12:23,Blocked Shot,n/a,-53.0,-4.0,Carter Verhaeghe,Blocker,Tampa Bay Lightning,Robert Hagg,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:08:32Z,3,07:40,12:20,Shot,Wrist Shot,31.0,23.0,Yanni Gourde,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:08:54Z,3,08:06,11:54,Shot,Wrist Shot,-57.0,-27.0,Joel Farabee,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:11:06Z,3,08:06,11:54,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:11:19Z,3,08:10,11:50,Missed Shot,n/a,-73.0,-15.0,James van Riemsdyk,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:11:33Z,3,08:24,11:36,Hit,n/a,-39.0,34.0,Philippe Myers,Hitter,Philadelphia Flyers,Alexander Volkov,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:11:52Z,3,08:44,11:16,Hit,n/a,-99.0,13.0,Victor Hedman,Hitter,Tampa Bay Lightning,Jakub Voracek,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:12:20Z,3,09:13,10:47,Hit,n/a,23.0,35.0,Robert Hagg,Hitter,Philadelphia Flyers,Carter Verhaeghe,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:12:40Z,3,09:34,10:26,Blocked Shot,n/a,-60.0,15.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:12:50Z,3,09:41,10:19,Missed Shot,n/a,-87.0,-14.0,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:12:56Z,3,09:50,10:10,Giveaway,n/a,96.0,10.0,Carter Hart,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:15:19Z,3,10:10,09:50,Faceoff,n/a,-69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:15:51Z,3,10:28,09:32,Blocked Shot,n/a,-69.0,-13.0,Erik Cernak,Blocker,Tampa Bay Lightning,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:16:22Z,3,10:58,09:02,Hit,n/a,85.0,-36.0,Claude Giroux,Hitter,Philadelphia Flyers,Anthony Cirelli,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:16:36Z,3,11:11,08:49,Giveaway,n/a,96.0,-26.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:16:47Z,3,11:24,08:36,Blocked Shot,n/a,-79.0,23.0,Jan Rutta,Blocker,Tampa Bay Lightning,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:16:52Z,3,11:27,08:33,Blocked Shot,n/a,-83.0,13.0,Victor Hedman,Blocker,Tampa Bay Lightning,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:17:17Z,3,11:52,08:08,Giveaway,n/a,93.0,-24.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:18:33Z,3,13:10,06:50,Missed Shot,n/a,-35.0,-32.0,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:18:43Z,3,13:20,06:40,Missed Shot,n/a,47.0,8.0,Alex Killorn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:19:26Z,3,13:29,06:31,Faceoff,n/a,69.0,-22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:19:29Z,3,13:33,06:27,Blocked Shot,n/a,67.0,-16.0,Jakub Voracek,Blocker,Philadelphia Flyers,Jan Rutta,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:19:48Z,3,13:35,06:25,Hit,n/a,97.0,-4.0,Michael Raffl,Hitter,Philadelphia Flyers,Yanni Gourde,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:20:02Z,3,13:48,06:12,Hit,n/a,-1.0,20.0,Carter Verhaeghe,Hitter,Tampa Bay Lightning,Philippe Myers,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:20:18Z,3,14:18,05:42,Shot,Wrist Shot,-64.0,-18.0,Kevin Hayes,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:22:15Z,3,14:18,05:42,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:22:36Z,3,14:23,05:37,Hit,n/a,-98.0,-15.0,Travis Konecny,Hitter,Philadelphia Flyers,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:22:48Z,3,14:25,05:35,Penalty,Hi-sticking,-98.0,-19.0,Kevin Shattenkirk,PenaltyOn,Tampa Bay Lightning,Travis Konecny,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:23:27Z,3,14:25,05:35,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:23:49Z,3,14:40,05:20,Shot,Wrist Shot,-81.0,4.0,Jakub Voracek,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:24:10Z,3,14:40,05:20,Faceoff,n/a,-69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:25:51Z,3,14:46,05:14,Shot,Slap Shot,-39.0,31.0,Claude Giroux,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:24:59Z,3,14:55,05:05,Faceoff,n/a,-20.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:26:52Z,3,16:20,03:40,Faceoff,n/a,-20.0,22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:27:09Z,3,16:36,03:24,Shot,Wrist Shot,-55.0,-20.0,Joel Farabee,Shooter,Philadelphia Flyers,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:27:30Z,3,16:58,03:02,Shot,Slap Shot,49.0,-35.0,Jan Rutta,Shooter,Tampa Bay Lightning,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:29:18Z,3,18:43,01:17,Giveaway,n/a,-95.0,-9.0,Brayden Point,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:29:36Z,3,18:49,01:11,Faceoff,n/a,-69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:30:38Z,3,19:31,00:29,Blocked Shot,n/a,67.0,-9.0,Claude Giroux,Blocker,Philadelphia Flyers,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a

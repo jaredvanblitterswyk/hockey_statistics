@@ -1,0 +1,226 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-19T00:38:21Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Frans Nielsen,Winner,Detroit Red Wings,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:38:53Z,1,00:21,19:39,Blocked Shot,n/a,58.0,-36.0,Frans Nielsen,Blocker,Detroit Red Wings,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:39:06Z,1,00:33,19:27,Shot,Slap Shot,36.0,29.0,Brett Kulak,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:39:27Z,1,00:42,19:18,Blocked Shot,n/a,49.0,26.0,Luke Glendening,Blocker,Detroit Red Wings,Brett Kulak,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:39:43Z,1,00:55,19:05,Faceoff,n/a,0.0,0.0,Dylan Larkin,Winner,Detroit Red Wings,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:40:30Z,1,01:38,18:22,Giveaway,n/a,-84.0,26.0,Robby Fabbri,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:41:01Z,1,02:09,17:51,Shot,Wrist Shot,53.0,-11.0,Jeff Petry,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:41:27Z,1,02:11,17:49,Faceoff,n/a,69.0,-22.0,Valtteri Filppula,Winner,Detroit Red Wings,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:41:43Z,1,02:16,17:44,Giveaway,n/a,92.0,-28.0,Trevor Daley,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:42:24Z,1,02:41,17:19,Faceoff,n/a,-69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:42:49Z,1,02:48,17:12,Missed Shot,n/a,-80.0,-3.0,Dylan Larkin,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:44:00Z,1,04:01,15:59,Shot,Wrist Shot,-2.0,41.0,Max Domi,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:44:13Z,1,04:13,15:47,Hit,n/a,-97.0,-13.0,Ben Chiarot,Hitter,Montréal Canadiens,Luke Glendening,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:44:44Z,1,04:19,15:41,Faceoff,n/a,20.0,-22.0,Christoffer Ehn,Winner,Detroit Red Wings,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:45:14Z,1,04:49,15:11,Missed Shot,n/a,42.0,28.0,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:45:21Z,1,04:56,15:04,Hit,n/a,-98.0,-15.0,Adam Erne,Hitter,Detroit Red Wings,Nick Suzuki,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:45:52Z,1,05:26,14:34,Shot,Wrist Shot,-74.0,4.0,Andreas Athanasiou,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:46:01Z,1,05:33,14:27,Blocked Shot,n/a,-65.0,-15.0,Jonathan Drouin,Blocker,Montréal Canadiens,Trevor Daley,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:46:20Z,1,05:54,14:06,Giveaway,n/a,76.0,38.0,Paul Byron,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:46:25Z,1,05:56,14:04,Takeaway,n/a,51.0,29.0,Paul Byron,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:46:25Z,1,05:59,14:01,Goal,Wrist Shot,81.0,6.0,Nate Thompson,Scorer,Montréal Canadiens,Nick Cousins,Assist,Montréal Canadiens,Paul Byron,Assist,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings
+2020-02-19T00:47:18Z,1,05:59,14:01,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:47:42Z,1,06:32,13:28,Hit,n/a,12.0,40.0,Alex Biega,Hitter,Detroit Red Wings,Jordan Weal,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:48:20Z,1,07:10,12:50,Giveaway,n/a,-38.0,-27.0,Darren Helm,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:48:23Z,1,07:14,12:46,Blocked Shot,n/a,51.0,7.0,Mike Green,Blocker,Detroit Red Wings,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:48:41Z,1,07:27,12:33,Blocked Shot,n/a,73.0,-14.0,Madison Bowey,Blocker,Detroit Red Wings,Ilya Kovalchuk,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:50:57Z,1,07:28,12:32,Faceoff,n/a,69.0,-22.0,Nick Suzuki,Winner,Montréal Canadiens,Christoffer Ehn,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:51:05Z,1,07:37,12:23,Shot,Slap Shot,40.0,26.0,Brett Kulak,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:51:20Z,1,07:52,12:08,Giveaway,n/a,-98.0,3.0,Mike Green,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:51:25Z,1,07:57,12:03,Hit,n/a,-71.0,-38.0,Adam Erne,Hitter,Detroit Red Wings,Jeff Petry,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:51:54Z,1,08:24,11:36,Missed Shot,n/a,78.0,0.0,Jonathan Drouin,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:51:56Z,1,08:28,11:32,Hit,n/a,76.0,-40.0,Adam Erne,Hitter,Detroit Red Wings,Jeff Petry,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:53:40Z,1,08:38,11:22,Shot,Wrist Shot,90.0,6.0,Jonathan Drouin,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:52:11Z,1,08:43,11:17,Shot,Deflected,79.0,1.0,Nick Suzuki,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:52:45Z,1,08:44,11:16,Faceoff,n/a,69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:53:30Z,1,09:23,10:37,Hit,n/a,-85.0,-35.0,Robby Fabbri,Hitter,Detroit Red Wings,Phillip Danault,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:53:37Z,1,09:26,10:34,Missed Shot,n/a,-40.0,36.0,Paul Byron,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:55:04Z,1,09:56,10:04,Faceoff,n/a,-69.0,-22.0,Valtteri Filppula,Winner,Detroit Red Wings,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:54:45Z,1,10:03,09:57,Blocked Shot,n/a,-52.0,28.0,Tomas Tatar,Blocker,Montréal Canadiens,Mike Green,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:56:33Z,1,10:04,09:56,Faceoff,n/a,-69.0,22.0,Max Domi,Winner,Montréal Canadiens,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:57:27Z,1,10:09,09:51,Faceoff,n/a,-20.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Artturi Lehkonen,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:58:06Z,1,10:32,09:28,Takeaway,n/a,-94.0,28.0,Frans Nielsen,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:58:53Z,1,11:04,08:56,Faceoff,n/a,-69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:59:08Z,1,11:11,08:49,Hit,n/a,-80.0,39.0,Xavier Ouellet,Hitter,Montréal Canadiens,Robby Fabbri,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:59:48Z,1,11:51,08:09,Takeaway,n/a,-42.0,-21.0,Joel Armia,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T00:59:58Z,1,12:01,07:59,Shot,Snap Shot,-66.0,-39.0,Anthony Mantha,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:00:32Z,1,12:03,07:57,Faceoff,n/a,-69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Christoffer Ehn,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:01:34Z,1,12:33,07:27,Faceoff,n/a,-20.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:02:19Z,1,13:09,06:51,Hit,n/a,-84.0,-36.0,Tomas Tatar,Hitter,Montréal Canadiens,Luke Glendening,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:02:52Z,1,13:42,06:18,Giveaway,n/a,58.0,-14.0,Andreas Athanasiou,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:03:13Z,1,14:03,05:57,Shot,Slap Shot,-42.0,23.0,Madison Bowey,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:03:49Z,1,14:35,05:25,Penalty,Holding,74.0,1.0,Gustav Lindstrom,PenaltyOn,Detroit Red Wings,Joel Armia,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:06:02Z,1,14:35,05:25,Faceoff,n/a,69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:06:27Z,1,15:02,04:58,Giveaway,n/a,20.0,12.0,Nick Cousins,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:06:47Z,1,15:22,04:38,Hit,n/a,98.0,1.0,Alex Biega,Hitter,Detroit Red Wings,Tomas Tatar,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:07:56Z,1,16:03,03:57,Goal,Slap Shot,42.0,-7.0,Jeff Petry,Scorer,Montréal Canadiens,Nick Suzuki,Assist,Montréal Canadiens,Jordan Weal,Assist,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings
+2020-02-19T01:08:13Z,1,16:03,03:57,Faceoff,n/a,0.0,0.0,Max Domi,Winner,Montréal Canadiens,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:11:12Z,1,16:33,03:27,Blocked Shot,n/a,72.0,2.0,Mike Green,Blocker,Detroit Red Wings,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:09:49Z,1,17:38,02:22,Takeaway,n/a,-43.0,30.0,Phillip Danault,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:10:29Z,1,17:58,02:02,Faceoff,n/a,0.0,0.0,Christoffer Ehn,Winner,Detroit Red Wings,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:11:31Z,1,18:55,01:05,Shot,Snap Shot,-45.0,27.0,Gustav Lindstrom,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:12:03Z,1,19:27,00:33,Giveaway,n/a,55.0,10.0,Mike Green,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:12:22Z,1,19:36,00:24,Faceoff,n/a,69.0,22.0,Max Domi,Winner,Montréal Canadiens,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:12:40Z,1,19:38,00:22,Blocked Shot,n/a,71.0,6.0,Robby Fabbri,Blocker,Detroit Red Wings,Ilya Kovalchuk,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:12:43Z,1,19:44,00:16,Hit,n/a,79.0,33.0,Madison Bowey,Hitter,Detroit Red Wings,Artturi Lehkonen,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:12:51Z,1,19:52,00:08,Blocked Shot,n/a,71.0,20.0,Madison Bowey,Blocker,Detroit Red Wings,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:12:55Z,1,19:56,00:04,Giveaway,n/a,93.0,16.0,Dylan Larkin,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:13:04Z,1,19:56,00:04,Shot,Slap Shot,40.0,26.0,Brett Kulak,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:31:32Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:31:51Z,2,00:11,19:49,Blocked Shot,n/a,62.0,27.0,Tomas Tatar,Blocker,Montréal Canadiens,Luke Glendening,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:32:21Z,2,00:41,19:19,Hit,n/a,92.0,-28.0,Darren Helm,Hitter,Detroit Red Wings,Brett Kulak,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:33:03Z,2,01:24,18:36,Goal,Wrist Shot,67.0,-24.0,Robby Fabbri,Scorer,Detroit Red Wings,Anthony Mantha,Assist,Detroit Red Wings,Dylan Larkin,Assist,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens
+2020-02-19T01:33:45Z,2,01:24,18:36,Faceoff,n/a,0.0,0.0,Nick Suzuki,Winner,Montréal Canadiens,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:35:05Z,2,01:44,18:16,Takeaway,n/a,-30.0,-38.0,Tyler Bertuzzi,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:34:57Z,2,01:48,18:12,Faceoff,n/a,20.0,-22.0,Christoffer Ehn,Winner,Detroit Red Wings,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:35:42Z,2,02:28,17:32,Hit,n/a,93.0,-25.0,Adam Erne,Hitter,Detroit Red Wings,Xavier Ouellet,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:36:09Z,2,02:33,17:27,Faceoff,n/a,69.0,22.0,Valtteri Filppula,Winner,Detroit Red Wings,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:36:41Z,2,02:57,17:03,Hit,n/a,86.0,-33.0,Valtteri Filppula,Hitter,Detroit Red Wings,Xavier Ouellet,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:36:50Z,2,03:06,16:54,Missed Shot,n/a,77.0,-13.0,Andreas Athanasiou,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:37:18Z,2,03:09,16:51,Faceoff,n/a,69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Jordan Weal,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:37:33Z,2,03:11,16:49,Blocked Shot,n/a,63.0,-12.0,Phillip Danault,Blocker,Montréal Canadiens,Patrik Nemeth,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:38:10Z,2,03:51,16:09,Hit,n/a,-99.0,13.0,Tomas Tatar,Hitter,Montréal Canadiens,Patrik Nemeth,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:38:31Z,2,04:12,15:48,Hit,n/a,96.0,20.0,Robby Fabbri,Hitter,Detroit Red Wings,Phillip Danault,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:38:48Z,2,04:28,15:32,Giveaway,n/a,33.0,32.0,Robby Fabbri,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:38:58Z,2,04:38,15:22,Shot,Slap Shot,-41.0,-9.0,Ben Chiarot,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:39:45Z,2,05:26,14:34,Giveaway,n/a,-97.0,4.0,Jonathan Bernier,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:40:03Z,2,05:35,14:25,Shot,Wrist Shot,-6.0,-34.0,Mike Green,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:40:25Z,2,05:37,14:23,Faceoff,n/a,69.0,22.0,Robby Fabbri,Winner,Detroit Red Wings,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:40:45Z,2,05:49,14:11,Shot,Deflected,79.0,0.0,Robby Fabbri,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:41:21Z,2,05:51,14:09,Faceoff,n/a,69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Christoffer Ehn,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:41:36Z,2,06:00,14:00,Blocked Shot,n/a,-62.0,-32.0,Gustav Lindstrom,Blocker,Detroit Red Wings,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:43:46Z,2,06:01,13:59,Faceoff,n/a,-69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:44:11Z,2,06:14,13:46,Missed Shot,n/a,-85.0,-24.0,Nick Cousins,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:44:19Z,2,06:27,13:33,Missed Shot,n/a,-45.0,34.0,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:44:25Z,2,06:30,13:30,Shot,Wrist Shot,-70.0,-14.0,Brett Kulak,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:44:33Z,2,06:38,13:22,Shot,Slap Shot,-37.0,35.0,Jeff Petry,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:45:07Z,2,06:39,13:21,Faceoff,n/a,-69.0,22.0,Jordan Weal,Winner,Montréal Canadiens,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:45:16Z,2,06:41,13:19,Shot,Slap Shot,-41.0,28.0,Ben Chiarot,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:45:23Z,2,06:42,13:18,Faceoff,n/a,-69.0,22.0,Frans Nielsen,Winner,Detroit Red Wings,Jordan Weal,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:46:09Z,2,06:59,13:01,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Jordan Weal,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:46:30Z,2,07:07,12:53,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Jordan Weal,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:47:01Z,2,07:13,12:47,Blocked Shot,n/a,80.0,-6.0,Shea Weber,Blocker,Montréal Canadiens,Mike Green,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:47:22Z,2,07:32,12:28,Shot,Wrist Shot,86.0,-4.0,Anthony Mantha,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:47:48Z,2,07:33,12:27,Faceoff,n/a,69.0,-22.0,Andreas Athanasiou,Winner,Detroit Red Wings,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:48:10Z,2,07:41,12:19,Missed Shot,n/a,82.0,27.0,Trevor Daley,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:48:20Z,2,07:51,12:09,Giveaway,n/a,-24.0,35.0,Trevor Daley,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:48:40Z,2,08:11,11:49,Blocked Shot,n/a,59.0,17.0,Xavier Ouellet,Blocker,Montréal Canadiens,Trevor Daley,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:48:49Z,2,08:20,11:40,Hit,n/a,97.0,-16.0,Tyler Bertuzzi,Hitter,Detroit Red Wings,Max Domi,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:49:17Z,2,08:48,11:12,Blocked Shot,n/a,34.0,27.0,Xavier Ouellet,Blocker,Montréal Canadiens,Patrik Nemeth,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:49:48Z,2,09:19,10:41,Giveaway,n/a,47.0,-26.0,Darren Helm,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:50:27Z,2,09:56,10:04,Giveaway,n/a,88.0,20.0,Darren Helm,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:50:31Z,2,10:02,09:58,Shot,Wrist Shot,-66.0,0.0,Nick Cousins,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:50:38Z,2,10:08,09:52,Missed Shot,n/a,-40.0,28.0,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:51:12Z,2,10:18,09:42,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:51:42Z,2,10:50,09:10,Hit,n/a,-96.0,-16.0,Phillip Danault,Hitter,Montréal Canadiens,Patrik Nemeth,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:51:55Z,2,11:03,08:57,Missed Shot,n/a,-63.0,-1.0,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:52:12Z,2,11:20,08:40,Blocked Shot,n/a,80.0,-3.0,Victor Mete,Blocker,Montréal Canadiens,Alex Biega,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:52:27Z,2,11:27,08:33,Shot,Tip-In,77.0,4.0,Anthony Mantha,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:54:29Z,2,11:29,08:31,Faceoff,n/a,69.0,22.0,Valtteri Filppula,Winner,Detroit Red Wings,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:54:55Z,2,11:41,08:19,Giveaway,n/a,69.0,-32.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:55:35Z,2,12:07,07:53,Penalty,Tripping,-74.0,1.0,Gustav Lindstrom,PenaltyOn,Detroit Red Wings,Max Domi,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:56:03Z,2,12:07,07:53,Faceoff,n/a,-69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Jordan Weal,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:56:27Z,2,12:26,07:34,Shot,Slap Shot,-38.0,3.0,Jeff Petry,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:56:33Z,2,12:29,07:31,Blocked Shot,n/a,-80.0,-5.0,Alex Biega,Blocker,Detroit Red Wings,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:56:58Z,2,12:30,07:30,Faceoff,n/a,-69.0,-22.0,Jordan Weal,Winner,Montréal Canadiens,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:57:11Z,2,12:40,07:20,Goal,Wrist Shot,-67.0,19.0,Nick Suzuki,Scorer,Montréal Canadiens,Jordan Weal,Assist,Montréal Canadiens,Tomas Tatar,Assist,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings
+2020-02-19T01:58:05Z,2,12:40,07:20,Faceoff,n/a,0.0,0.0,Nate Thompson,Winner,Montréal Canadiens,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:58:18Z,2,12:53,07:07,Shot,Snap Shot,-38.0,28.0,Shea Weber,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:59:35Z,2,13:42,06:18,Faceoff,n/a,-20.0,-22.0,Valtteri Filppula,Winner,Detroit Red Wings,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:59:42Z,2,13:48,06:12,Shot,Wrist Shot,-25.0,37.0,Trevor Daley,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T01:59:52Z,2,13:50,06:10,Faceoff,n/a,69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:00:35Z,2,14:17,05:43,Missed Shot,n/a,41.0,21.0,Trevor Daley,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:00:39Z,2,14:20,05:40,Hit,n/a,79.0,-37.0,Joel Armia,Hitter,Montréal Canadiens,Tyler Bertuzzi,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:00:58Z,2,14:41,05:19,Shot,Backhand,71.0,2.0,Valtteri Filppula,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:03:26Z,2,14:42,05:18,Faceoff,n/a,69.0,22.0,Christoffer Ehn,Winner,Detroit Red Wings,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:03:25Z,2,14:48,05:12,Missed Shot,n/a,33.0,29.0,Madison Bowey,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:03:38Z,2,15:03,04:57,Hit,n/a,-96.0,-25.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Christoffer Ehn,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:03:46Z,2,15:11,04:49,Giveaway,n/a,-87.0,26.0,Max Domi,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:04:17Z,2,15:42,04:18,Missed Shot,n/a,-89.0,6.0,Phillip Danault,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:04:46Z,2,16:11,03:49,Giveaway,n/a,-61.0,42.0,Tomas Tatar,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:04:54Z,2,16:19,03:41,Shot,Wrist Shot,64.0,31.0,Patrik Nemeth,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:05:30Z,2,16:54,03:06,Takeaway,n/a,-89.0,18.0,Nate Thompson,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:06:06Z,2,17:02,02:58,Faceoff,n/a,-69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:07:05Z,2,18:04,01:56,Hit,n/a,35.0,-38.0,Xavier Ouellet,Hitter,Montréal Canadiens,Valtteri Filppula,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:07:36Z,2,18:35,01:25,Shot,Backhand,-84.0,-6.0,Ilya Kovalchuk,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:08:31Z,2,19:00,01:00,Faceoff,n/a,20.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:09:01Z,2,19:21,00:39,Blocked Shot,n/a,79.0,2.0,Shea Weber,Blocker,Montréal Canadiens,Tyler Bertuzzi,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:09:16Z,2,19:37,00:23,Shot,Snap Shot,81.0,-12.0,Robby Fabbri,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:09:26Z,2,19:39,00:21,Penalty,Tripping,50.0,-4.0,Nate Thompson,PenaltyOn,Montréal Canadiens,Robby Fabbri,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:10:00Z,2,19:39,00:21,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Artturi Lehkonen,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:10:10Z,2,19:42,00:18,Missed Shot,n/a,45.0,-14.0,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:10:20Z,2,19:43,00:17,Faceoff,n/a,69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:10:45Z,2,19:54,00:06,Shot,Slap Shot,42.0,10.0,Anthony Mantha,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:10:57Z,2,19:55,00:05,Shot,Backhand,82.0,-1.0,Luke Glendening,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:11:10Z,2,19:56,00:04,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:29:44Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Dylan Larkin,Winner,Detroit Red Wings,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:30:02Z,3,00:09,19:51,Giveaway,n/a,11.0,-22.0,Dylan Larkin,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:30:40Z,3,00:49,19:11,Blocked Shot,n/a,-70.0,9.0,Ben Chiarot,Blocker,Montréal Canadiens,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:30:57Z,3,01:06,18:54,Shot,Snap Shot,-76.0,0.0,Dylan Larkin,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:31:45Z,3,01:07,18:53,Faceoff,n/a,-69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Paul Byron,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:31:36Z,3,01:15,18:45,Missed Shot,n/a,-37.0,-25.0,Madison Bowey,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:32:35Z,3,02:14,17:46,Giveaway,n/a,-38.0,36.0,Alex Biega,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:32:54Z,3,02:29,17:31,Blocked Shot,n/a,-76.0,0.0,Shea Weber,Blocker,Montréal Canadiens,Frans Nielsen,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:32:56Z,3,02:34,17:26,Hit,n/a,-84.0,-37.0,Frans Nielsen,Hitter,Detroit Red Wings,Brett Kulak,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:33:09Z,3,02:47,17:13,Giveaway,n/a,-47.0,-32.0,Darren Helm,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:33:16Z,3,02:54,17:06,Shot,Wrap-around,-88.0,5.0,Darren Helm,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:33:25Z,3,03:03,16:57,Shot,Backhand,53.0,11.0,Tomas Tatar,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:34:10Z,3,03:13,16:47,Faceoff,n/a,-69.0,22.0,Valtteri Filppula,Winner,Detroit Red Wings,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:34:18Z,3,03:18,16:42,Blocked Shot,n/a,-78.0,6.0,Paul Byron,Blocker,Montréal Canadiens,Andreas Athanasiou,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:35:29Z,3,03:43,16:17,Faceoff,n/a,-20.0,-22.0,Max Domi,Winner,Montréal Canadiens,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:35:25Z,3,03:57,16:03,Blocked Shot,n/a,73.0,3.0,Anthony Mantha,Blocker,Detroit Red Wings,Ilya Kovalchuk,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:36:32Z,3,05:04,14:56,Goal,Backhand,-81.0,3.0,Andreas Athanasiou,Scorer,Detroit Red Wings,Alex Biega,Assist,Detroit Red Wings,Valtteri Filppula,Assist,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens
+2020-02-19T02:37:26Z,3,05:04,14:56,Faceoff,n/a,0.0,0.0,Jordan Weal,Winner,Montréal Canadiens,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:37:52Z,3,05:29,14:31,Giveaway,n/a,86.0,32.0,Mike Green,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:38:34Z,3,05:41,14:19,Faceoff,n/a,69.0,22.0,Christoffer Ehn,Winner,Detroit Red Wings,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:41:14Z,3,06:12,13:48,Faceoff,n/a,-20.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:42:11Z,3,06:23,13:37,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:43:02Z,3,07:08,12:52,Missed Shot,n/a,83.0,-5.0,Ilya Kovalchuk,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:43:08Z,3,07:14,12:46,Missed Shot,n/a,41.0,-3.0,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:43:31Z,3,07:37,12:23,Shot,Slap Shot,38.0,26.0,Shea Weber,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:43:54Z,3,08:01,11:59,Giveaway,n/a,93.0,-28.0,Trevor Daley,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:44:04Z,3,08:10,11:50,Blocked Shot,n/a,75.0,0.0,Trevor Daley,Blocker,Detroit Red Wings,Brett Kulak,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:44:43Z,3,08:11,11:49,Shot,Snap Shot,81.0,4.0,Nick Suzuki,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:49:04Z,3,08:12,11:48,Blocked Shot,n/a,82.0,3.0,Gustav Lindstrom,Blocker,Detroit Red Wings,Nick Suzuki,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:44:29Z,3,08:30,11:30,Shot,Slap Shot,-36.0,-24.0,Patrik Nemeth,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:44:55Z,3,08:31,11:29,Faceoff,n/a,-69.0,-22.0,Jordan Weal,Winner,Montréal Canadiens,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:46:02Z,3,09:28,10:32,Blocked Shot,n/a,-65.0,4.0,Ben Chiarot,Blocker,Montréal Canadiens,Darren Helm,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:46:06Z,3,09:34,10:26,Hit,n/a,-88.0,33.0,Darren Helm,Hitter,Detroit Red Wings,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:46:16Z,3,09:44,10:16,Takeaway,n/a,-12.0,37.0,Andreas Athanasiou,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:46:43Z,3,10:11,09:49,Hit,n/a,38.0,-36.0,Madison Bowey,Hitter,Detroit Red Wings,Nate Thompson,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:46:44Z,3,10:12,09:48,Shot,Backhand,82.0,0.0,Nick Cousins,Shooter,Montréal Canadiens,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:49:04Z,3,10:13,09:47,Faceoff,n/a,69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:49:21Z,3,10:30,09:30,Missed Shot,n/a,66.0,-3.0,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:49:31Z,3,10:41,09:19,Goal,Wrist Shot,-72.0,2.0,Mike Green,Scorer,Detroit Red Wings,Anthony Mantha,Assist,Detroit Red Wings,Dylan Larkin,Assist,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens
+2020-02-19T02:50:36Z,3,10:41,09:19,Faceoff,n/a,0.0,0.0,Nick Suzuki,Winner,Montréal Canadiens,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:50:44Z,3,10:57,09:03,Missed Shot,n/a,82.0,10.0,Nick Suzuki,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:51:01Z,3,11:15,08:45,Shot,Wrist Shot,-69.0,-10.0,Andreas Athanasiou,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:51:09Z,3,11:25,08:35,Missed Shot,n/a,-44.0,-24.0,Alex Biega,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:51:35Z,3,11:35,08:25,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:51:56Z,3,11:42,08:18,Shot,Backhand,-80.0,6.0,Anthony Mantha,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:52:25Z,3,11:44,08:16,Faceoff,n/a,-69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:52:46Z,3,12:04,07:56,Takeaway,n/a,60.0,-15.0,Phillip Danault,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:52:53Z,3,12:12,07:48,Missed Shot,n/a,39.0,-16.0,Brett Kulak,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:53:03Z,3,12:18,07:42,Penalty,Tripping,41.0,35.0,Phillip Danault,PenaltyOn,Montréal Canadiens,Robby Fabbri,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:53:47Z,3,12:18,07:42,Faceoff,n/a,-69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:55:11Z,3,13:19,06:41,Faceoff,n/a,20.0,22.0,Artturi Lehkonen,Winner,Montréal Canadiens,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:55:54Z,3,13:48,06:12,Hit,n/a,-69.0,-39.0,Jeff Petry,Hitter,Montréal Canadiens,Trevor Daley,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:56:28Z,3,14:22,05:38,Shot,Slap Shot,-53.0,-12.0,Dylan Larkin,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:58:41Z,3,14:23,05:37,Faceoff,n/a,-69.0,-22.0,Nick Suzuki,Winner,Montréal Canadiens,Andreas Athanasiou,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:58:56Z,3,14:37,05:23,Giveaway,n/a,11.0,22.0,Patrik Nemeth,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T02:59:04Z,3,14:45,05:15,Goal,Wrist Shot,-71.0,12.0,Andreas Athanasiou,Scorer,Detroit Red Wings,Tyler Bertuzzi,Assist,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a
+2020-02-19T02:59:49Z,3,14:45,05:15,Faceoff,n/a,0.0,0.0,Max Domi,Winner,Montréal Canadiens,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T03:00:05Z,3,15:04,04:56,Giveaway,n/a,92.0,-25.0,Madison Bowey,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T03:00:07Z,3,15:06,04:54,Blocked Shot,n/a,45.0,22.0,Luke Glendening,Blocker,Detroit Red Wings,Brett Kulak,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T03:00:24Z,3,15:14,04:46,Faceoff,n/a,69.0,22.0,Max Domi,Winner,Montréal Canadiens,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T03:00:57Z,3,15:27,04:33,Penalty,Holding,49.0,-27.0,Madison Bowey,PenaltyOn,Detroit Red Wings,Artturi Lehkonen,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T03:01:33Z,3,15:27,04:33,Faceoff,n/a,69.0,-22.0,Jordan Weal,Winner,Montréal Canadiens,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T03:01:56Z,3,15:41,04:19,Takeaway,n/a,38.0,-37.0,Dylan Larkin,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T03:03:33Z,3,17:16,02:44,Penalty,Roughing,30.0,-32.0,Joel Armia,PenaltyOn,Montréal Canadiens,Valtteri Filppula,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T03:04:21Z,3,17:16,02:44,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T03:04:46Z,3,17:35,02:25,Blocked Shot,n/a,63.0,1.0,Dylan Larkin,Blocker,Detroit Red Wings,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T03:04:57Z,3,17:37,02:23,Blocked Shot,n/a,74.0,3.0,Trevor Daley,Blocker,Detroit Red Wings,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T03:05:07Z,3,17:56,02:04,Shot,Wrist Shot,-54.0,-17.0,Dylan Larkin,Shooter,Detroit Red Wings,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T03:05:35Z,3,18:26,01:34,Blocked Shot,n/a,-75.0,-7.0,Shea Weber,Blocker,Montréal Canadiens,Madison Bowey,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-19T03:06:20Z,3,19:10,00:50,Missed Shot,n/a,-84.0,5.0,Tyler Bertuzzi,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,222 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-01T00:07:57Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Steven Stamkos,Winner,Tampa Bay Lightning,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:08:56Z,1,00:42,19:18,Giveaway,n/a,-40.0,41.0,Johan Larsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:08:51Z,1,00:44,19:16,Shot,Wrist Shot,-36.0,34.0,Erik Cernak,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:09:14Z,1,01:07,18:53,Shot,Snap Shot,68.0,2.0,Sam Reinhart,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:09:18Z,1,01:10,18:50,Shot,Wrist Shot,81.0,-6.0,Sam Reinhart,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:09:32Z,1,01:25,18:35,Hit,n/a,-98.0,0.0,Alex Killorn,Hitter,Tampa Bay Lightning,Victor Olofsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:10:19Z,1,02:12,17:48,Hit,n/a,-99.0,12.0,Nikita Kucherov,Hitter,Tampa Bay Lightning,Brandon Montour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:10:53Z,1,02:46,17:14,Hit,n/a,3.0,-40.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Jimmy Vesey,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:11:00Z,1,02:51,17:09,Giveaway,n/a,99.0,4.0,Andrei Vasilevskiy,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:11:16Z,1,03:09,16:51,Hit,n/a,17.0,-42.0,Pat Maroon,Hitter,Tampa Bay Lightning,Curtis Lazar,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:12:16Z,1,04:03,15:57,Penalty,Tripping,72.0,28.0,Steven Stamkos,PenaltyOn,Tampa Bay Lightning,Jack Eichel,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:12:45Z,1,04:03,15:57,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:13:00Z,1,04:16,15:44,Hit,n/a,97.0,1.0,Jack Eichel,Hitter,Buffalo Sabres,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:13:16Z,1,04:34,15:26,Giveaway,n/a,32.0,1.0,Rasmus Dahlin,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:13:31Z,1,04:49,15:11,Giveaway,n/a,61.0,37.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:13:49Z,1,05:07,14:53,Shot,Wrist Shot,35.0,-34.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:14:14Z,1,05:08,14:52,Faceoff,n/a,69.0,-22.0,Kyle Okposo,Winner,Buffalo Sabres,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:14:26Z,1,05:16,14:44,Blocked Shot,n/a,70.0,-8.0,Erik Cernak,Blocker,Tampa Bay Lightning,Conor Sheary,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:14:58Z,1,05:47,14:13,Missed Shot,n/a,62.0,38.0,Brandon Montour,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:15:01Z,1,05:51,14:09,Giveaway,n/a,76.0,-18.0,Kyle Okposo,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:15:35Z,1,06:23,13:37,Shot,Wrist Shot,78.0,-24.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:17:40Z,1,06:24,13:36,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:18:16Z,1,06:56,13:04,Missed Shot,n/a,84.0,-11.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:18:52Z,1,07:05,12:55,Blocked Shot,n/a,-76.0,5.0,Victor Olofsson,Blocker,Buffalo Sabres,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:18:27Z,1,07:06,12:54,Shot,Wrist Shot,-86.0,17.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:19:05Z,1,07:06,12:54,Faceoff,n/a,-69.0,22.0,Tyler Johnson,Winner,Tampa Bay Lightning,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:19:53Z,1,07:36,12:24,Hit,n/a,-64.0,-39.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Yanni Gourde,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:20:05Z,1,07:49,12:11,Shot,Backhand,56.0,-33.0,Conor Sheary,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:20:24Z,1,07:50,12:10,Faceoff,n/a,69.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:20:52Z,1,08:04,11:56,Hit,n/a,91.0,-16.0,Erik Cernak,Hitter,Tampa Bay Lightning,Dalton Smith,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:20:53Z,1,08:07,11:53,Missed Shot,n/a,65.0,11.0,Curtis Lazar,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:22:09Z,1,09:23,10:37,Hit,n/a,-40.0,23.0,Marco Scandella,Hitter,Buffalo Sabres,Alex Killorn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:22:56Z,1,09:52,10:08,Shot,Wrist Shot,43.0,34.0,Jake McCabe,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:22:42Z,1,09:54,10:06,Hit,n/a,98.0,4.0,Luke Schenn,Hitter,Tampa Bay Lightning,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:22:52Z,1,10:06,09:54,Giveaway,n/a,-91.0,-28.0,Nikita Kucherov,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:23:08Z,1,10:22,09:38,Giveaway,n/a,-14.0,4.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:24:00Z,1,10:22,09:38,Blocked Shot,n/a,-79.0,11.0,Jack Eichel,Blocker,Buffalo Sabres,Luke Schenn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:23:11Z,1,10:25,09:35,Shot,Wrist Shot,-73.0,-15.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:24:36Z,1,10:27,09:33,Missed Shot,n/a,-68.0,-5.0,Ondrej Palat,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:23:21Z,1,10:29,09:31,Penalty,Slashing,-77.0,-3.0,Henri Jokiharju,PenaltyOn,Buffalo Sabres,Nikita Kucherov,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:25:14Z,1,10:29,09:31,Faceoff,n/a,-69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:26:06Z,1,11:02,08:58,Hit,n/a,-77.0,-41.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Nikita Kucherov,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:26:11Z,1,11:06,08:54,Missed Shot,n/a,-54.0,21.0,Alex Killorn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:26:23Z,1,11:18,08:42,Missed Shot,n/a,-57.0,5.0,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:26:48Z,1,11:43,08:17,Takeaway,n/a,17.0,-17.0,Zemgus Girgensons,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:26:49Z,1,11:45,08:15,Shot,Wrist Shot,69.0,-15.0,Johan Larsson,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:27:06Z,1,12:01,07:59,Takeaway,n/a,-62.0,-36.0,Brandon Montour,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:27:06Z,1,12:04,07:56,Giveaway,n/a,-31.0,-30.0,Brandon Montour,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:27:20Z,1,12:15,07:45,Missed Shot,n/a,-39.0,3.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:27:55Z,1,12:43,07:17,Missed Shot,n/a,78.0,-8.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:28:23Z,1,12:44,07:16,Faceoff,n/a,69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:28:42Z,1,13:03,06:57,Blocked Shot,n/a,71.0,0.0,Steven Stamkos,Blocker,Tampa Bay Lightning,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:29:02Z,1,13:07,06:53,Faceoff,n/a,69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:29:15Z,1,13:17,06:43,Shot,Wrist Shot,72.0,1.0,Jimmy Vesey,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:29:27Z,1,13:29,06:31,Blocked Shot,n/a,50.0,-4.0,Alex Killorn,Blocker,Tampa Bay Lightning,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:29:47Z,1,13:47,06:13,Giveaway,n/a,69.0,-3.0,Marcus Johansson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:29:52Z,1,13:54,06:06,Takeaway,n/a,-20.0,19.0,Conor Sheary,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:30:16Z,1,14:18,05:42,Blocked Shot,n/a,48.0,-7.0,Ondrej Palat,Blocker,Tampa Bay Lightning,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:30:20Z,1,14:22,05:38,Hit,n/a,99.0,9.0,Victor Hedman,Hitter,Tampa Bay Lightning,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:31:04Z,1,15:03,04:57,Hit,n/a,-97.0,4.0,Brandon Montour,Hitter,Buffalo Sabres,Mitchell Stephens,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:31:09Z,1,15:11,04:49,Missed Shot,n/a,-78.0,22.0,Cedric Paquette,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:31:45Z,1,15:21,04:39,Faceoff,n/a,69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:31:51Z,1,15:30,04:30,Hit,n/a,86.0,36.0,Mitchell Stephens,Hitter,Tampa Bay Lightning,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:31:58Z,1,15:36,04:24,Hit,n/a,87.0,36.0,Curtis Lazar,Hitter,Buffalo Sabres,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:32:32Z,1,16:11,03:49,Giveaway,n/a,7.0,-23.0,Tyler Johnson,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:33:03Z,1,16:42,03:18,Missed Shot,n/a,54.0,-2.0,Conor Sheary,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:33:20Z,1,16:58,03:02,Missed Shot,n/a,73.0,-16.0,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:33:32Z,1,17:10,02:50,Missed Shot,n/a,67.0,-21.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:33:47Z,1,17:25,02:35,Missed Shot,n/a,37.0,36.0,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:34:06Z,1,17:44,02:16,Hit,n/a,-65.0,-40.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Anthony Cirelli,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:34:12Z,1,17:50,02:10,Hit,n/a,-61.0,-41.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Anthony Cirelli,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:35:20Z,1,18:57,01:03,Giveaway,n/a,37.0,9.0,Ryan McDonagh,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:35:20Z,1,18:59,01:01,Hit,n/a,98.0,-18.0,Mikhail Sergachev,Hitter,Tampa Bay Lightning,Conor Sheary,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:35:27Z,1,19:03,00:57,Goal,Slap Shot,70.0,-13.0,Conor Sheary,Scorer,Buffalo Sabres,Curtis Lazar,Assist,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a
+2020-01-01T00:36:17Z,1,19:03,00:57,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:36:31Z,1,19:17,00:43,Shot,Wrist Shot,77.0,-5.0,Sam Reinhart,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:38:32Z,1,19:18,00:42,Faceoff,n/a,69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:39:04Z,1,19:37,00:23,Hit,n/a,-1.0,-41.0,Anthony Cirelli,Hitter,Tampa Bay Lightning,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:39:29Z,1,19:57,00:03,Hit,n/a,99.0,-18.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Alex Killorn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:58:10Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Curtis Lazar,Winner,Buffalo Sabres,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:58:24Z,2,00:06,19:54,Hit,n/a,-32.0,-38.0,Luke Schenn,Hitter,Tampa Bay Lightning,Dalton Smith,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:59:09Z,2,00:08,19:52,Penalty,Roughing,24.0,-13.0,Luke Schenn,PenaltyOn,Tampa Bay Lightning,Dalton Smith,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T00:59:25Z,2,00:08,19:52,Penalty,Roughing,25.0,-17.0,Dalton Smith,PenaltyOn,Buffalo Sabres,Luke Schenn,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:01:15Z,2,00:08,19:52,Faceoff,n/a,69.0,22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:01:37Z,2,00:34,19:26,Shot,Wrist Shot,-40.0,1.0,Brandon Montour,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:02:04Z,2,00:35,19:25,Faceoff,n/a,-69.0,22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:02:35Z,2,01:01,18:59,Blocked Shot,n/a,46.0,17.0,Jack Eichel,Blocker,Buffalo Sabres,Ryan McDonagh,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:02:43Z,2,01:09,18:51,Missed Shot,n/a,41.0,27.0,Ondrej Palat,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:02:53Z,2,01:19,18:41,Hit,n/a,16.0,39.0,Ondrej Palat,Hitter,Tampa Bay Lightning,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:03:47Z,2,02:12,17:48,Goal,Wrist Shot,-66.0,27.0,Marcus Johansson,Scorer,Buffalo Sabres,Conor Sheary,Assist,Buffalo Sabres,Marco Scandella,Assist,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning
+2020-01-01T01:04:51Z,2,02:12,17:48,Faceoff,n/a,0.0,0.0,Marcus Johansson,Winner,Buffalo Sabres,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:04:56Z,2,02:25,17:35,Takeaway,n/a,-55.0,-33.0,Erik Cernak,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:06:00Z,2,03:21,16:39,Penalty,Slashing,-16.0,-41.0,Kyle Okposo,PenaltyOn,Buffalo Sabres,Cedric Paquette,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:06:37Z,2,03:21,16:39,Faceoff,n/a,69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:06:42Z,2,03:26,16:34,Blocked Shot,n/a,51.0,0.0,Johan Larsson,Blocker,Buffalo Sabres,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:06:50Z,2,03:34,16:26,Blocked Shot,n/a,70.0,3.0,Jake McCabe,Blocker,Buffalo Sabres,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:07:09Z,2,03:45,16:15,Giveaway,n/a,71.0,27.0,Steven Stamkos,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:07:12Z,2,03:55,16:05,Shot,Slap Shot,22.0,33.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:07:29Z,2,04:13,15:47,Shot,Wrist Shot,33.0,-34.0,Jake McCabe,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:08:30Z,2,04:48,15:12,Faceoff,n/a,69.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:08:54Z,2,05:04,14:56,Shot,Wrist Shot,75.0,6.0,Brayden Point,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:09:02Z,2,05:08,14:52,Penalty,Tripping,83.0,-7.0,Henri Jokiharju,PenaltyOn,Buffalo Sabres,Brayden Point,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:09:40Z,2,05:08,14:52,Faceoff,n/a,69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:10:02Z,2,05:29,14:31,Shot,Snap Shot,60.0,13.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:10:12Z,2,05:39,14:21,Missed Shot,n/a,71.0,-25.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:11:34Z,2,07:00,13:00,Goal,Slap Shot,61.0,-4.0,Ondrej Palat,Scorer,Tampa Bay Lightning,Tyler Johnson,Assist,Tampa Bay Lightning,Mikhail Sergachev,Assist,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres
+2020-01-01T01:12:17Z,2,07:00,13:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:12:27Z,2,07:09,12:51,Hit,n/a,1.0,40.0,Pat Maroon,Hitter,Tampa Bay Lightning,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:12:37Z,2,07:19,12:41,Shot,Slap Shot,35.0,-20.0,Erik Cernak,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:12:56Z,2,07:38,12:22,Shot,Wrist Shot,-65.0,-36.0,Jack Eichel,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:15:26Z,2,07:39,12:21,Faceoff,n/a,-69.0,-22.0,Marcus Johansson,Winner,Buffalo Sabres,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:15:59Z,2,07:44,12:16,Shot,Wrist Shot,-65.0,-33.0,Conor Sheary,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:17:27Z,2,07:44,12:16,Faceoff,n/a,-69.0,-22.0,Marcus Johansson,Winner,Buffalo Sabres,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:16:25Z,2,07:53,12:07,Shot,Wrist Shot,-45.0,-25.0,Conor Sheary,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:16:47Z,2,08:12,11:48,Goal,Slap Shot,-68.0,19.0,Jimmy Vesey,Scorer,Buffalo Sabres,Marcus Johansson,Assist,Buffalo Sabres,Conor Sheary,Assist,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning
+2020-01-01T01:17:27Z,2,08:12,11:48,Faceoff,n/a,0.0,0.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:17:43Z,2,08:29,11:31,Hit,n/a,46.0,17.0,Mikhail Sergachev,Hitter,Tampa Bay Lightning,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:17:47Z,2,08:34,11:26,Missed Shot,n/a,62.0,-2.0,Alex Killorn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:19:03Z,2,08:34,11:26,Penalty,Fighting,30.0,-3.0,Mikhail Sergachev,PenaltyOn,Tampa Bay Lightning,Jake McCabe,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:19:21Z,2,08:34,11:26,Penalty,Fighting,31.0,3.0,Jake McCabe,PenaltyOn,Buffalo Sabres,Mikhail Sergachev,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:19:21Z,2,08:34,11:26,Penalty,Instigator,25.0,-2.0,Jake McCabe,PenaltyOn,Buffalo Sabres,Mikhail Sergachev,DrewBy,Buffalo Sabres,Kyle Okposo,ServedBy,Tampa Bay Lightning,n/a,n/a,n/a
+2020-01-01T01:19:21Z,2,08:34,11:26,Penalty,Instigator - Misconduct,25.0,-2.0,Jake McCabe,PenaltyOn,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:19:34Z,2,08:34,11:26,Faceoff,n/a,69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:20:14Z,2,09:02,10:58,Missed Shot,n/a,74.0,-12.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:20:35Z,2,09:21,10:39,Shot,Wrist Shot,50.0,-15.0,Alex Killorn,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:20:57Z,2,09:22,10:38,Faceoff,n/a,69.0,-22.0,Tyler Johnson,Winner,Tampa Bay Lightning,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:21:24Z,2,09:37,10:23,Shot,Wrist Shot,73.0,4.0,Pat Maroon,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:21:36Z,2,09:49,10:11,Blocked Shot,n/a,52.0,1.0,Jack Eichel,Blocker,Buffalo Sabres,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:21:51Z,2,09:56,10:04,Goal,Backhand,-77.0,-5.0,Jack Eichel,Scorer,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:22:34Z,2,09:56,10:04,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:23:41Z,2,11:06,08:54,Penalty,Interference,27.0,0.0,Tyler Johnson,PenaltyOn,Tampa Bay Lightning,Conor Sheary,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:26:00Z,2,11:06,08:54,Faceoff,n/a,-69.0,-22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:26:47Z,2,11:58,08:02,Giveaway,n/a,-85.0,21.0,Marcus Johansson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:27:54Z,2,12:59,07:01,Penalty,Hooking,-63.0,-11.0,Marcus Johansson,PenaltyOn,Buffalo Sabres,Cedric Paquette,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:28:30Z,2,12:59,07:01,Faceoff,n/a,69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:28:55Z,2,13:09,06:51,Faceoff,n/a,-20.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:29:25Z,2,13:31,06:29,Shot,Slap Shot,32.0,33.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:29:53Z,2,13:57,06:03,Goal,Wrist Shot,88.0,-8.0,Alex Killorn,Scorer,Tampa Bay Lightning,Brayden Point,Assist,Tampa Bay Lightning,Nikita Kucherov,Assist,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres
+2020-01-01T01:30:42Z,2,13:57,06:03,Faceoff,n/a,0.0,0.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:31:07Z,2,14:23,05:37,Shot,Wrist Shot,69.0,-13.0,Ondrej Palat,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:33:22Z,2,14:24,05:36,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:33:33Z,2,14:32,05:28,Takeaway,n/a,71.0,12.0,Jimmy Vesey,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:33:39Z,2,14:37,05:23,Shot,Wrist Shot,68.0,-6.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:33:57Z,2,14:55,05:05,Shot,Snap Shot,77.0,-22.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:34:55Z,2,15:54,04:06,Hit,n/a,98.0,1.0,Brandon Montour,Hitter,Buffalo Sabres,Pat Maroon,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:35:04Z,2,16:03,03:57,Hit,n/a,71.0,-39.0,Yanni Gourde,Hitter,Tampa Bay Lightning,Marcus Johansson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:35:56Z,2,16:55,03:05,Goal,Wrist Shot,75.0,-3.0,Tyler Johnson,Scorer,Tampa Bay Lightning,Ondrej Palat,Assist,Tampa Bay Lightning,Ryan McDonagh,Assist,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres
+2020-01-01T01:36:38Z,2,16:55,03:05,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:37:02Z,2,17:23,02:37,Hit,n/a,-63.0,-39.0,Erik Cernak,Hitter,Tampa Bay Lightning,Kyle Okposo,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:37:36Z,2,17:56,02:04,Shot,Slap Shot,47.0,37.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:39:10Z,2,19:30,00:30,Shot,Snap Shot,42.0,20.0,Ondrej Palat,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:39:39Z,2,19:59,00:01,Shot,Wrist Shot,47.0,27.0,Cedric Paquette,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:58:11Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Tyler Johnson,Winner,Tampa Bay Lightning,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:59:44Z,3,00:58,19:02,Shot,Slap Shot,-43.0,4.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T01:59:49Z,3,01:01,18:59,Shot,Slap Shot,-75.0,23.0,Erik Cernak,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:00:12Z,3,01:01,18:59,Faceoff,n/a,-69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:00:30Z,3,01:19,18:41,Missed Shot,n/a,-64.0,34.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:01:11Z,3,01:22,18:38,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:02:12Z,3,01:40,18:20,Faceoff,n/a,0.0,0.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:02:04Z,3,02:02,17:58,Shot,Wrist Shot,-72.0,15.0,Mitchell Stephens,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:02:37Z,3,02:03,17:57,Faceoff,n/a,-69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:03:02Z,3,02:23,17:37,Missed Shot,n/a,67.0,27.0,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:03:23Z,3,02:43,17:17,Shot,Wrist Shot,-64.0,-1.0,Brayden Point,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:04:18Z,3,03:38,16:22,Shot,Wrist Shot,50.0,26.0,Marco Scandella,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:04:24Z,3,03:44,16:16,Shot,Wrist Shot,79.0,-2.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:04:34Z,3,03:54,16:06,Shot,Wrist Shot,65.0,0.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:04:49Z,3,04:10,15:50,Shot,Slap Shot,34.0,5.0,Victor Olofsson,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:05:14Z,3,04:35,15:25,Hit,n/a,-83.0,37.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Brandon Montour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:05:37Z,3,04:58,15:02,Hit,n/a,97.0,28.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:05:54Z,3,05:15,14:45,Shot,Wrist Shot,-48.0,2.0,Alex Killorn,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:06:24Z,3,05:45,14:15,Shot,Wrist Shot,50.0,-21.0,Kyle Okposo,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:07:08Z,3,05:47,14:13,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:07:19Z,3,06:00,14:00,Shot,Wrist Shot,-53.0,-22.0,Anthony Cirelli,Shooter,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:09:28Z,3,06:01,13:59,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:09:47Z,3,06:08,13:52,Faceoff,n/a,-69.0,-22.0,Tyler Johnson,Winner,Tampa Bay Lightning,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:10:23Z,3,06:17,13:43,Hit,n/a,-77.0,-39.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Ondrej Palat,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:10:26Z,3,06:20,13:40,Goal,Wrist Shot,-63.0,4.0,Kevin Shattenkirk,Scorer,Tampa Bay Lightning,Tyler Johnson,Assist,Tampa Bay Lightning,Anthony Cirelli,Assist,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres
+2020-01-01T02:11:08Z,3,06:20,13:40,Faceoff,n/a,0.0,0.0,Steven Stamkos,Winner,Tampa Bay Lightning,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:11:28Z,3,06:34,13:26,Blocked Shot,n/a,-74.0,0.0,Henri Jokiharju,Blocker,Buffalo Sabres,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:11:48Z,3,06:46,13:14,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:12:13Z,3,06:51,13:09,Shot,Wrist Shot,41.0,37.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:12:24Z,3,06:51,13:09,Faceoff,n/a,69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:12:41Z,3,06:58,13:02,Hit,n/a,68.0,-40.0,Sam Reinhart,Hitter,Buffalo Sabres,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:13:32Z,3,07:49,12:11,Blocked Shot,n/a,-48.0,14.0,Sam Reinhart,Blocker,Buffalo Sabres,Luke Schenn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:13:53Z,3,08:08,11:52,Goal,Wrist Shot,-73.0,-1.0,Alex Killorn,Scorer,Tampa Bay Lightning,Pat Maroon,Assist,Tampa Bay Lightning,Cedric Paquette,Assist,Tampa Bay Lightning,Linus Ullmark,Goalie,Buffalo Sabres
+2020-01-01T02:14:28Z,3,08:08,11:52,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:14:53Z,3,08:30,11:30,Hit,n/a,-71.0,40.0,Jake McCabe,Hitter,Buffalo Sabres,Mitchell Stephens,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:15:00Z,3,08:37,11:23,Hit,n/a,-98.0,15.0,Johan Larsson,Hitter,Buffalo Sabres,Carter Verhaeghe,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:15:40Z,3,09:18,10:42,Takeaway,n/a,-52.0,-26.0,Jimmy Vesey,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:16:24Z,3,10:02,09:58,Hit,n/a,97.0,22.0,Erik Cernak,Hitter,Tampa Bay Lightning,Curtis Lazar,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:17:06Z,3,10:40,09:20,Blocked Shot,n/a,52.0,0.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Brandon Montour,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:19:16Z,3,10:41,09:19,Faceoff,n/a,69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Sam Reinhart,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:20:18Z,3,11:36,08:24,Hit,n/a,50.0,38.0,Conor Sheary,Hitter,Buffalo Sabres,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:20:50Z,3,12:06,07:54,Blocked Shot,n/a,74.0,-6.0,Carter Verhaeghe,Blocker,Tampa Bay Lightning,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:21:12Z,3,12:07,07:53,Penalty,Delaying Game - Puck over glass,76.0,-35.0,Mikhail Sergachev,PenaltyOn,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:21:30Z,3,12:07,07:53,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:21:54Z,3,12:30,07:30,Shot,Wrist Shot,79.0,10.0,Sam Reinhart,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:22:09Z,3,12:45,07:15,Missed Shot,n/a,72.0,-17.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:22:34Z,3,13:09,06:51,Missed Shot,n/a,65.0,-15.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:22:47Z,3,13:23,06:37,Missed Shot,n/a,72.0,-16.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:23:17Z,3,13:53,06:07,Shot,Wrist Shot,80.0,-3.0,Marcus Johansson,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:25:43Z,3,14:09,05:51,Faceoff,n/a,69.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:26:03Z,3,14:29,05:31,Hit,n/a,-74.0,-40.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Pat Maroon,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:26:56Z,3,15:22,04:38,Hit,n/a,-60.0,41.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:27:24Z,3,15:42,04:18,Penalty,Cross checking,25.0,-37.0,Nikita Kucherov,PenaltyOn,Tampa Bay Lightning,Rasmus Dahlin,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:28:05Z,3,15:42,04:18,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:28:42Z,3,16:14,03:46,Hit,n/a,98.0,-20.0,Erik Cernak,Hitter,Tampa Bay Lightning,Marcus Johansson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:29:14Z,3,16:45,03:15,Blocked Shot,n/a,67.0,-5.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:29:31Z,3,17:03,02:57,Blocked Shot,n/a,55.0,-11.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:30:05Z,3,17:34,02:26,Blocked Shot,n/a,74.0,9.0,Alex Killorn,Blocker,Tampa Bay Lightning,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:31:46Z,3,17:35,02:25,Faceoff,n/a,69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:32:10Z,3,18:00,02:00,Hit,n/a,99.0,-24.0,Jack Eichel,Hitter,Buffalo Sabres,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:32:19Z,3,18:08,01:52,Missed Shot,n/a,-80.0,-32.0,Anthony Cirelli,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:32:29Z,3,18:18,01:42,Missed Shot,n/a,63.0,14.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:32:38Z,3,18:28,01:32,Shot,Tip-In,80.0,0.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:33:10Z,3,18:59,01:01,Hit,n/a,-99.0,15.0,Marcus Johansson,Hitter,Buffalo Sabres,Cedric Paquette,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:33:46Z,3,19:34,00:26,Blocked Shot,n/a,73.0,-1.0,Ryan McDonagh,Blocker,Tampa Bay Lightning,Brandon Montour,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:33:54Z,3,19:43,00:17,Missed Shot,n/a,-34.0,10.0,Steven Stamkos,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:34:38Z,3,19:50,00:10,Faceoff,n/a,69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-01T02:34:54Z,3,19:57,00:03,Goal,Wrist Shot,-47.0,27.0,Anthony Cirelli,Scorer,Tampa Bay Lightning,Alex Killorn,Assist,Tampa Bay Lightning,Steven Stamkos,Assist,Buffalo Sabres,n/a,n/a,n/a
+2020-01-01T02:35:38Z,3,19:57,00:03,Faceoff,n/a,0.0,0.0,Curtis Lazar,Winner,Buffalo Sabres,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a

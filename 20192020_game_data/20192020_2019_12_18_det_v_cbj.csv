@@ -1,0 +1,224 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-18T00:38:03Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Luke Glendening,Winner,Detroit Red Wings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:39:03Z,1,00:23,19:37,Hit,n/a,-99.0,-12.0,Luke Glendening,Hitter,Detroit Red Wings,Seth Jones,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:39:31Z,1,00:51,19:09,Shot,Wrist Shot,33.0,-32.0,David Savard,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:39:57Z,1,01:17,18:43,Giveaway,n/a,63.0,-34.0,Nick Foligno,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:40:27Z,1,01:47,18:13,Shot,Backhand,-85.0,16.0,Robby Fabbri,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:40:56Z,1,01:49,18:11,Faceoff,n/a,-69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:41:15Z,1,02:03,17:57,Hit,n/a,80.0,-37.0,Marko Dano,Hitter,Columbus Blue Jackets,Alex Biega,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:41:24Z,1,02:14,17:46,Hit,n/a,-54.0,41.0,Marko Dano,Hitter,Columbus Blue Jackets,Madison Bowey,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:41:34Z,1,02:17,17:43,Giveaway,n/a,-37.0,-29.0,Kevin Stenlund,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:41:57Z,1,02:47,17:13,Shot,Wrist Shot,-45.0,12.0,Filip Hronek,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:42:17Z,1,02:49,17:11,Faceoff,n/a,-69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Anthony Mantha,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:43:13Z,1,03:33,16:27,Missed Shot,n/a,45.0,4.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:43:23Z,1,03:43,16:17,Missed Shot,n/a,69.0,-23.0,Nick Foligno,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:44:49Z,1,05:11,14:49,Goal,Slap Shot,-65.0,19.0,Adam Erne,Scorer,Detroit Red Wings,Frans Nielsen,Assist,Detroit Red Wings,Brendan Perlini,Assist,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets
+2019-12-18T00:45:34Z,1,05:11,14:49,Faceoff,n/a,0.0,0.0,Luke Glendening,Winner,Detroit Red Wings,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:45:44Z,1,05:19,14:41,Hit,n/a,-97.0,14.0,Darren Helm,Hitter,Detroit Red Wings,David Savard,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:46:10Z,1,05:45,14:15,Hit,n/a,73.0,33.0,Darren Helm,Hitter,Detroit Red Wings,Alexandre Texier,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:46:51Z,1,06:20,13:40,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:47:12Z,1,06:22,13:38,Blocked Shot,n/a,65.0,9.0,Tyler Bertuzzi,Blocker,Detroit Red Wings,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:47:49Z,1,06:41,13:19,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:48:24Z,1,06:49,13:11,Faceoff,n/a,69.0,22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:48:56Z,1,07:20,12:40,Shot,Wrist Shot,83.0,-14.0,Cam Atkinson,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:51:21Z,1,07:42,12:18,Faceoff,n/a,69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:51:35Z,1,07:45,12:15,Shot,Wrist Shot,51.0,-22.0,Zach Werenski,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:51:44Z,1,07:46,12:14,Faceoff,n/a,69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:52:01Z,1,07:49,12:11,Missed Shot,n/a,32.0,-23.0,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:52:05Z,1,07:55,12:05,Hit,n/a,97.0,15.0,Patrik Nemeth,Hitter,Detroit Red Wings,Alexandre Texier,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:52:18Z,1,08:08,11:52,Giveaway,n/a,52.0,-32.0,Filip Zadina,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:53:44Z,1,09:33,10:27,Shot,Wrist Shot,66.0,27.0,Boone Jenner,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:54:24Z,1,10:08,09:52,Hit,n/a,95.0,24.0,Nick Foligno,Hitter,Columbus Blue Jackets,Patrik Nemeth,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:54:23Z,1,10:10,09:50,Blocked Shot,n/a,-62.0,-17.0,Andrew Peeke,Blocker,Columbus Blue Jackets,Mike Green,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:54:34Z,1,10:20,09:40,Giveaway,n/a,89.0,18.0,Darren Helm,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:54:35Z,1,10:23,09:37,Shot,Tip-In,82.0,0.0,Nick Foligno,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:04:35Z,1,10:35,09:25,Blocked Shot,n/a,67.0,-8.0,Mike Green,Blocker,Detroit Red Wings,Seth Jones,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:55:12Z,1,11:02,08:58,Goal,Tip-In,65.0,-1.0,Cam Atkinson,Scorer,Columbus Blue Jackets,Pierre-Luc Dubois,Assist,Columbus Blue Jackets,Seth Jones,Assist,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings
+2019-12-18T00:56:13Z,1,11:02,08:58,Faceoff,n/a,0.0,0.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:58:31Z,1,11:10,08:50,Faceoff,n/a,69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:58:50Z,1,11:15,08:45,Missed Shot,n/a,83.0,10.0,Eric Robinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:59:16Z,1,11:45,08:15,Shot,Wrist Shot,64.0,18.0,Alexandre Texier,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:59:49Z,1,11:46,08:14,Faceoff,n/a,69.0,22.0,Valtteri Filppula,Winner,Detroit Red Wings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:00:10Z,1,11:54,08:06,Faceoff,n/a,69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:00:38Z,1,12:06,07:54,Goal,Wrist Shot,82.0,0.0,Oliver Bjorkstrand,Scorer,Columbus Blue Jackets,Gustav Nyquist,Assist,Columbus Blue Jackets,Boone Jenner,Assist,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings
+2019-12-18T01:01:33Z,1,12:06,07:54,Faceoff,n/a,0.0,0.0,Frans Nielsen,Winner,Detroit Red Wings,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:01:44Z,1,12:22,07:38,Hit,n/a,-97.0,-21.0,Dean Kukan,Hitter,Columbus Blue Jackets,Frans Nielsen,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:02:43Z,1,13:03,06:57,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:03:07Z,1,13:18,06:42,Hit,n/a,-87.0,-33.0,Anthony Mantha,Hitter,Detroit Red Wings,Dean Kukan,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:03:16Z,1,13:25,06:35,Shot,Backhand,-59.0,-36.0,Nick Foligno,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:03:31Z,1,13:43,06:17,Giveaway,n/a,-91.0,11.0,Anthony Mantha,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:04:04Z,1,14:16,05:44,Giveaway,n/a,87.0,16.0,Pierre-Luc Dubois,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:04:19Z,1,14:27,05:33,Giveaway,n/a,60.0,-36.0,Dylan Larkin,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:04:21Z,1,14:32,05:28,Shot,Snap Shot,54.0,-21.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:06:34Z,1,14:32,05:28,Faceoff,n/a,69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:07:20Z,1,14:58,05:02,Penalty,Interference,-50.0,17.0,Marko Dano,PenaltyOn,Columbus Blue Jackets,Frans Nielsen,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:07:53Z,1,14:58,05:02,Faceoff,n/a,-69.0,-22.0,Valtteri Filppula,Winner,Detroit Red Wings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:08:13Z,1,15:20,04:40,Blocked Shot,n/a,-86.0,6.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Valtteri Filppula,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:08:37Z,1,15:46,04:14,Takeaway,n/a,-52.0,-35.0,Seth Jones,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:08:40Z,1,15:48,04:12,Shot,Wrist Shot,-36.0,-38.0,Seth Jones,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:09:37Z,1,16:46,03:14,Giveaway,n/a,-23.0,11.0,Filip Hronek,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:09:50Z,1,16:56,03:04,Blocked Shot,n/a,-68.0,18.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:10:23Z,1,16:59,03:01,Faceoff,n/a,-69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Adam Erne,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:10:40Z,1,17:17,02:43,Goal,Snap Shot,-85.0,11.0,Adam Erne,Scorer,Detroit Red Wings,Luke Glendening,Assist,Detroit Red Wings,Madison Bowey,Assist,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets
+2019-12-18T01:11:43Z,1,17:17,02:43,Faceoff,n/a,0.0,0.0,Boone Jenner,Winner,Columbus Blue Jackets,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:11:56Z,1,17:27,02:33,Giveaway,n/a,-55.0,29.0,Filip Zadina,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:12:18Z,1,17:49,02:11,Hit,n/a,-57.0,-37.0,Seth Jones,Hitter,Columbus Blue Jackets,Robby Fabbri,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:12:27Z,1,17:58,02:02,Shot,Snap Shot,72.0,20.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:12:33Z,1,18:00,02:00,Shot,Wrist Shot,78.0,-6.0,Boone Jenner,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:12:47Z,1,18:19,01:41,Blocked Shot,n/a,69.0,-10.0,Patrik Nemeth,Blocker,Detroit Red Wings,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:13:46Z,1,19:16,00:44,Takeaway,n/a,16.0,2.0,Alexandre Texier,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:14:15Z,1,19:18,00:42,Faceoff,n/a,-20.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:14:42Z,1,19:45,00:15,Hit,n/a,77.0,-40.0,Alex Biega,Hitter,Detroit Red Wings,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:33:16Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Boone Jenner,Winner,Columbus Blue Jackets,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:33:21Z,2,00:06,19:54,Hit,n/a,-47.0,-38.0,Filip Hronek,Hitter,Detroit Red Wings,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:33:42Z,2,00:25,19:35,Shot,Wrist Shot,21.0,-14.0,Andreas Athanasiou,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:34:21Z,2,01:03,18:57,Penalty,Tripping,42.0,-38.0,Nick Foligno,PenaltyOn,Columbus Blue Jackets,Mike Green,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:35:01Z,2,01:03,18:57,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:35:15Z,2,01:30,18:30,Giveaway,n/a,94.0,-15.0,Dylan Larkin,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:35:33Z,2,01:48,18:12,Giveaway,n/a,64.0,-5.0,Zach Werenski,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:35:42Z,2,01:58,18:02,Goal,Deflected,80.0,1.0,Tyler Bertuzzi,Scorer,Detroit Red Wings,Dylan Larkin,Assist,Detroit Red Wings,Filip Hronek,Assist,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets
+2019-12-18T01:36:35Z,2,01:58,18:02,Faceoff,n/a,0.0,0.0,Frans Nielsen,Winner,Detroit Red Wings,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:37:12Z,2,02:36,17:24,Hit,n/a,49.0,-38.0,Adam Erne,Hitter,Detroit Red Wings,Marko Dano,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:37:54Z,2,03:18,16:42,Missed Shot,n/a,67.0,-4.0,Filip Zadina,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:38:20Z,2,03:45,16:15,Hit,n/a,-93.0,29.0,Filip Hronek,Hitter,Detroit Red Wings,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:39:17Z,2,03:50,16:10,Faceoff,n/a,-69.0,22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:39:27Z,2,03:52,16:08,Blocked Shot,n/a,-77.0,7.0,Filip Hronek,Blocker,Detroit Red Wings,Nick Foligno,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:40:23Z,2,04:16,15:44,Faceoff,n/a,-69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Oliver Bjorkstrand,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:40:44Z,2,04:23,15:37,Giveaway,n/a,-86.0,-33.0,Mike Green,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:41:04Z,2,04:43,15:17,Takeaway,n/a,22.0,-2.0,Tyler Bertuzzi,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:41:16Z,2,04:55,15:05,Takeaway,n/a,70.0,38.0,David Savard,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:43:33Z,2,05:01,14:59,Hit,n/a,-91.0,29.0,Mike Green,Hitter,Detroit Red Wings,Oliver Bjorkstrand,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:41:49Z,2,05:28,14:32,Shot,Slap Shot,-37.0,-12.0,Seth Jones,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:41:57Z,2,05:29,14:31,Penalty,Hooking,-70.0,-2.0,Anthony Mantha,PenaltyOn,Detroit Red Wings,David Savard,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:42:35Z,2,05:29,14:31,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:42:34Z,2,05:33,14:27,Shot,Wrist Shot,-57.0,13.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:42:48Z,2,05:34,14:26,Faceoff,n/a,-69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:43:25Z,2,06:03,13:57,Hit,n/a,-75.0,40.0,Patrik Nemeth,Hitter,Detroit Red Wings,Boone Jenner,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:44:18Z,2,06:54,13:06,Goal,Deflected,-66.0,-16.0,Kevin Stenlund,Scorer,Columbus Blue Jackets,Cam Atkinson,Assist,Columbus Blue Jackets,Seth Jones,Assist,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings
+2019-12-18T01:45:08Z,2,06:54,13:06,Faceoff,n/a,0.0,0.0,Riley Nash,Winner,Columbus Blue Jackets,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:45:46Z,2,07:36,12:24,Shot,Wrist Shot,86.0,4.0,Adam Erne,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:46:01Z,2,07:56,12:04,Missed Shot,n/a,64.0,20.0,Filip Hronek,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:47:52Z,2,09:11,10:49,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:47:57Z,2,09:14,10:46,Blocked Shot,n/a,-78.0,-11.0,Dylan Larkin,Blocker,Detroit Red Wings,Gustav Nyquist,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:48:11Z,2,09:20,10:40,Penalty,Tripping,-91.0,20.0,Patrik Nemeth,PenaltyOn,Detroit Red Wings,David Savard,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:50:15Z,2,09:20,10:40,Faceoff,n/a,-69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:03:07Z,2,10:02,09:58,Blocked Shot,n/a,-84.0,5.0,Filip Hronek,Blocker,Detroit Red Wings,Cam Atkinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:51:15Z,2,10:11,09:49,Giveaway,n/a,-76.0,-35.0,Luke Glendening,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:51:18Z,2,10:14,09:46,Missed Shot,n/a,-72.0,7.0,Nick Foligno,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:51:35Z,2,10:31,09:29,Shot,Wrist Shot,-38.0,-10.0,Seth Jones,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:52:12Z,2,11:08,08:52,Giveaway,n/a,-52.0,39.0,Oliver Bjorkstrand,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:52:35Z,2,11:31,08:29,Shot,Snap Shot,-77.0,-11.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:54:52Z,2,11:33,08:27,Missed Shot,n/a,-78.0,1.0,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:52:46Z,2,11:42,08:18,Shot,Snap Shot,-53.0,-18.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:53:02Z,2,11:58,08:02,Takeaway,n/a,14.0,32.0,Alexandre Texier,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:53:08Z,2,12:04,07:56,Missed Shot,n/a,-89.0,6.0,Alexandre Texier,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:53:19Z,2,12:05,07:55,Shot,Wrist Shot,-84.0,-10.0,Riley Nash,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:55:19Z,2,12:06,07:54,Faceoff,n/a,-69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Alexandre Texier,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:56:12Z,2,12:43,07:17,Shot,Snap Shot,-41.0,-23.0,Marko Dano,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:56:24Z,2,12:57,07:03,Shot,Tip-In,-77.0,-2.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:56:53Z,2,12:58,07:02,Faceoff,n/a,-69.0,22.0,Oliver Bjorkstrand,Winner,Columbus Blue Jackets,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:57:19Z,2,13:03,06:57,Shot,Snap Shot,-77.0,34.0,Boone Jenner,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:57:35Z,2,13:05,06:55,Faceoff,n/a,-69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Oliver Bjorkstrand,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:58:30Z,2,13:25,06:35,Takeaway,n/a,93.0,-9.0,Seth Jones,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:59:01Z,2,13:56,06:04,Giveaway,n/a,-64.0,36.0,Filip Zadina,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:59:08Z,2,14:02,05:58,Missed Shot,n/a,-57.0,-3.0,Nick Foligno,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:00:21Z,2,14:59,05:01,Faceoff,n/a,-69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:00:35Z,2,15:03,04:57,Missed Shot,n/a,-55.0,-40.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:01:14Z,2,15:42,04:18,Shot,Wrist Shot,-85.0,10.0,Alexandre Texier,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:01:39Z,2,16:06,03:54,Shot,Slap Shot,-44.0,-24.0,Seth Jones,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:04:19Z,2,16:08,03:52,Faceoff,n/a,-69.0,-22.0,Adam Erne,Winner,Detroit Red Wings,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:04:28Z,2,16:28,03:32,Hit,n/a,-94.0,27.0,Riley Nash,Hitter,Columbus Blue Jackets,Brendan Perlini,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:04:39Z,2,16:39,03:21,Hit,n/a,-96.0,-22.0,Brendan Perlini,Hitter,Detroit Red Wings,Kevin Stenlund,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:05:26Z,2,16:54,03:06,Faceoff,n/a,-20.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:05:57Z,2,17:30,02:30,Hit,n/a,79.0,-38.0,Vladislav Gavrikov,Hitter,Columbus Blue Jackets,Darren Helm,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:06:41Z,2,18:12,01:48,Shot,Snap Shot,-3.0,-13.0,Dean Kukan,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:06:47Z,2,18:20,01:40,Hit,n/a,-90.0,29.0,Nick Foligno,Hitter,Columbus Blue Jackets,Patrik Nemeth,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:06:54Z,2,18:27,01:33,Shot,Snap Shot,-53.0,12.0,Cam Atkinson,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:07:25Z,2,18:28,01:32,Faceoff,n/a,-69.0,22.0,Valtteri Filppula,Winner,Detroit Red Wings,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:07:41Z,2,18:37,01:23,Shot,Wrist Shot,82.0,10.0,Valtteri Filppula,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:08:04Z,2,18:38,01:22,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Anthony Mantha,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:08:31Z,2,18:52,01:08,Penalty,Hi-sticking,42.0,-34.0,Boone Jenner,PenaltyOn,Columbus Blue Jackets,Tyler Bertuzzi,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:09:21Z,2,18:52,01:08,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:11:18Z,2,18:54,01:06,Blocked Shot,n/a,76.0,4.0,Cam Atkinson,Blocker,Columbus Blue Jackets,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:09:20Z,2,19:00,01:00,Shot,Wrist Shot,64.0,-26.0,Filip Hronek,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:09:22Z,2,19:02,00:58,Giveaway,n/a,72.0,4.0,David Savard,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:09:31Z,2,19:09,00:51,Shot,Backhand,83.0,-8.0,Dylan Larkin,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:10:07Z,2,19:47,00:13,Giveaway,n/a,79.0,-36.0,Dylan Larkin,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:10:21Z,2,19:58,00:02,Blocked Shot,n/a,49.0,22.0,Seth Jones,Blocker,Columbus Blue Jackets,Tyler Bertuzzi,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:28:57Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Valtteri Filppula,Winner,Detroit Red Wings,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:29:30Z,3,00:37,19:23,Shot,Snap Shot,-72.0,-2.0,Andreas Athanasiou,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:29:58Z,3,00:39,19:21,Faceoff,n/a,-69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:30:07Z,3,00:45,19:15,Giveaway,n/a,-97.0,11.0,Seth Jones,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:30:07Z,3,00:46,19:14,Missed Shot,n/a,-46.0,22.0,Trevor Daley,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:30:21Z,3,00:59,19:01,Shot,Backhand,75.0,-31.0,Boone Jenner,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:30:40Z,3,01:19,18:41,Goal,Snap Shot,68.0,8.0,Pierre-Luc Dubois,Scorer,Columbus Blue Jackets,Alexandre Texier,Assist,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a
+2019-12-18T02:31:32Z,3,01:19,18:41,Faceoff,n/a,0.0,0.0,Boone Jenner,Winner,Columbus Blue Jackets,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:31:46Z,3,01:37,18:23,Blocked Shot,n/a,78.0,19.0,Mike Green,Blocker,Detroit Red Wings,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:32:08Z,3,01:39,18:21,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:32:15Z,3,01:45,18:15,Missed Shot,n/a,63.0,23.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:32:26Z,3,01:57,18:03,Hit,n/a,94.0,-22.0,Alex Biega,Hitter,Detroit Red Wings,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:32:47Z,3,02:11,17:49,Hit,n/a,97.0,-17.0,Alex Biega,Hitter,Detroit Red Wings,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:33:06Z,3,02:37,17:23,Shot,Snap Shot,70.0,-24.0,Nick Foligno,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:33:46Z,3,02:38,17:22,Faceoff,n/a,69.0,-22.0,Frans Nielsen,Winner,Detroit Red Wings,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:34:08Z,3,03:05,16:55,Missed Shot,n/a,-60.0,4.0,Adam Erne,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:34:14Z,3,03:11,16:49,Giveaway,n/a,-45.0,-37.0,Brendan Perlini,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:34:37Z,3,03:34,16:26,Shot,Wrist Shot,86.0,-22.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:35:04Z,3,03:35,16:25,Faceoff,n/a,69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:35:06Z,3,03:38,16:22,Blocked Shot,n/a,49.0,2.0,Anthony Mantha,Blocker,Detroit Red Wings,Dean Kukan,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:35:17Z,3,03:38,16:22,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:35:41Z,3,03:56,16:04,Giveaway,n/a,-11.0,9.0,Anthony Mantha,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:37:08Z,3,05:22,14:38,Blocked Shot,n/a,-67.0,-5.0,David Savard,Blocker,Columbus Blue Jackets,Andreas Athanasiou,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:37:14Z,3,05:29,14:31,Giveaway,n/a,-39.0,-33.0,Filip Zadina,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:37:27Z,3,05:39,14:21,Hit,n/a,91.0,-27.0,Nick Foligno,Hitter,Columbus Blue Jackets,Patrik Nemeth,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:37:30Z,3,05:45,14:15,Shot,Backhand,-87.0,20.0,Filip Zadina,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:38:12Z,3,06:27,13:33,Giveaway,n/a,40.0,-32.0,Madison Bowey,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:38:27Z,3,06:42,13:18,Hit,n/a,41.0,-37.0,Alex Biega,Hitter,Detroit Red Wings,Seth Jones,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:38:32Z,3,06:47,13:13,Missed Shot,n/a,-76.0,19.0,Brendan Perlini,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:38:43Z,3,06:58,13:02,Hit,n/a,-21.0,-37.0,Adam Erne,Hitter,Detroit Red Wings,Oliver Bjorkstrand,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:38:50Z,3,07:05,12:55,Hit,n/a,-20.0,-37.0,Adam Erne,Hitter,Detroit Red Wings,Oliver Bjorkstrand,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:38:51Z,3,07:06,12:54,Shot,Slap Shot,-39.0,26.0,Mike Green,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:40:54Z,3,07:07,12:53,Faceoff,n/a,-69.0,22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:42:46Z,3,08:44,11:16,Blocked Shot,n/a,83.0,-9.0,Madison Bowey,Blocker,Detroit Red Wings,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:42:50Z,3,08:50,11:10,Hit,n/a,80.0,-38.0,Valtteri Filppula,Hitter,Detroit Red Wings,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:43:34Z,3,08:55,11:05,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:46:47Z,3,10:06,09:54,Faceoff,n/a,-20.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:47:05Z,3,10:13,09:47,Giveaway,n/a,2.0,20.0,Madison Bowey,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:47:17Z,3,10:25,09:35,Shot,Wrist Shot,-44.0,40.0,Tyler Bertuzzi,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:47:23Z,3,10:30,09:30,Shot,Wrist Shot,-63.0,-25.0,Filip Hronek,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:47:29Z,3,10:37,09:23,Hit,n/a,-84.0,35.0,Zach Werenski,Hitter,Columbus Blue Jackets,Tyler Bertuzzi,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:47:42Z,3,10:40,09:20,Giveaway,n/a,-37.0,22.0,Madison Bowey,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:47:38Z,3,10:45,09:15,Shot,Snap Shot,70.0,1.0,Cam Atkinson,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:47:46Z,3,10:53,09:07,Shot,Wrist Shot,84.0,-5.0,Boone Jenner,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:48:19Z,3,10:54,09:06,Shot,Wrist Shot,85.0,-4.0,Boone Jenner,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:48:03Z,3,11:11,08:49,Missed Shot,n/a,35.0,-38.0,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:49:09Z,3,11:30,08:30,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:49:05Z,3,11:38,08:22,Hit,n/a,92.0,-27.0,Oliver Bjorkstrand,Hitter,Columbus Blue Jackets,Darren Helm,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:49:08Z,3,11:39,08:21,Shot,Wrist Shot,61.0,-25.0,Seth Jones,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:49:21Z,3,11:52,08:08,Shot,Wrist Shot,-66.0,-18.0,Valtteri Filppula,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:49:30Z,3,12:01,07:59,Shot,Tip-In,-79.0,-7.0,Valtteri Filppula,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:50:09Z,3,12:42,07:18,Giveaway,n/a,20.0,35.0,Zach Werenski,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:51:00Z,3,13:31,06:29,Takeaway,n/a,95.0,18.0,Mike Green,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:51:16Z,3,13:49,06:11,Shot,Backhand,14.0,-25.0,Dean Kukan,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:52:02Z,3,13:51,06:09,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:51:57Z,3,13:54,06:06,Shot,Snap Shot,33.0,-31.0,Seth Jones,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:52:02Z,3,13:55,06:05,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:54:27Z,3,14:09,05:51,Faceoff,n/a,-20.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Robby Fabbri,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:55:04Z,3,14:16,05:44,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:55:46Z,3,14:23,05:37,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:56:10Z,3,14:37,05:23,Missed Shot,n/a,-54.0,10.0,Tyler Bertuzzi,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:56:37Z,3,15:04,04:56,Shot,Snap Shot,-62.0,-27.0,Dylan Larkin,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:57:20Z,3,15:05,04:55,Faceoff,n/a,-69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:57:40Z,3,15:32,04:28,Shot,Wrist Shot,-38.0,36.0,Madison Bowey,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:58:16Z,3,15:48,04:12,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:58:40Z,3,16:00,04:00,Shot,Wrist Shot,-57.0,40.0,Dylan Larkin,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:58:52Z,3,16:06,03:54,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:59:23Z,3,16:18,03:42,Hit,n/a,-75.0,-37.0,Vladislav Gavrikov,Hitter,Columbus Blue Jackets,Dylan Larkin,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T03:00:04Z,3,16:38,03:22,Faceoff,n/a,-20.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T03:01:28Z,3,17:59,02:01,Shot,Snap Shot,69.0,-26.0,Alexandre Texier,Shooter,Columbus Blue Jackets,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T03:02:03Z,3,18:35,01:25,Missed Shot,n/a,-69.0,0.0,Robby Fabbri,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T03:02:35Z,3,18:40,01:20,Faceoff,n/a,-69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T03:03:18Z,3,19:21,00:39,Blocked Shot,n/a,-79.0,10.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Andreas Athanasiou,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T03:03:39Z,3,19:42,00:18,Shot,Wrist Shot,-76.0,-5.0,Adam Erne,Shooter,Detroit Red Wings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T03:03:44Z,3,19:44,00:16,Giveaway,n/a,-68.0,5.0,Boone Jenner,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T03:03:50Z,3,19:53,00:07,Goal,Wrist Shot,3.0,7.0,Gustav Nyquist,Scorer,Columbus Blue Jackets,Oliver Bjorkstrand,Assist,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T03:04:37Z,3,19:53,00:07,Faceoff,n/a,0.0,0.0,Luke Glendening,Winner,Detroit Red Wings,Alexandre Texier,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a

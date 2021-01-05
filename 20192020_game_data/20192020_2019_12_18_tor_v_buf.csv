@@ -1,0 +1,247 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-18T00:09:15Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:10:55Z,1,00:48,19:12,Takeaway,n/a,97.0,-11.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:11:18Z,1,01:11,18:49,Giveaway,n/a,-50.0,35.0,Pierre Engvall,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:11:59Z,1,01:33,18:27,Faceoff,n/a,-69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:12:23Z,1,01:52,18:08,Missed Shot,n/a,58.0,8.0,Rasmus Asplund,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:12:36Z,1,02:04,17:56,Shot,Snap Shot,60.0,-2.0,Marcus Johansson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:12:58Z,1,02:08,17:52,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:13:19Z,1,02:19,17:41,Hit,n/a,-98.0,-11.0,Dmytro Timashov,Hitter,Toronto Maple Leafs,Brandon Montour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:13:26Z,1,02:27,17:33,Takeaway,n/a,-17.0,33.0,Jason Spezza,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:14:02Z,1,02:27,17:33,Giveaway,n/a,-47.0,15.0,Brandon Montour,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:13:32Z,1,02:30,17:30,Goal,Snap Shot,-62.0,2.0,Frederik Gauthier,Scorer,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:14:08Z,1,02:30,17:30,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:14:35Z,1,02:54,17:06,Blocked Shot,n/a,52.0,12.0,Justin Holl,Blocker,Toronto Maple Leafs,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:14:37Z,1,02:56,17:04,Hit,n/a,34.0,-39.0,Henri Jokiharju,Hitter,Buffalo Sabres,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:15:01Z,1,03:07,16:53,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:15:23Z,1,03:20,16:40,Shot,Wrist Shot,54.0,19.0,Victor Olofsson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:15:36Z,1,03:32,16:28,Shot,Deflected,-76.0,1.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:16:21Z,1,04:16,15:44,Giveaway,n/a,15.0,-2.0,Rasmus Dahlin,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:16:23Z,1,04:16,15:44,Shot,Wrist Shot,-21.0,-22.0,Pierre Engvall,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:16:40Z,1,04:18,15:42,Faceoff,n/a,-69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:17:09Z,1,04:38,15:22,Shot,Snap Shot,51.0,-22.0,Brandon Montour,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:17:15Z,1,04:43,15:17,Takeaway,n/a,95.0,-7.0,Kyle Okposo,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:17:38Z,1,05:07,14:53,Missed Shot,n/a,61.0,-27.0,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:17:48Z,1,05:17,14:43,Takeaway,n/a,77.0,4.0,Marcus Johansson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:17:48Z,1,05:18,14:42,Missed Shot,n/a,62.0,-23.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:18:04Z,1,05:34,14:26,Giveaway,n/a,-43.0,-37.0,Marco Scandella,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:18:31Z,1,06:00,14:00,Hit,n/a,-95.0,21.0,Zach Hyman,Hitter,Toronto Maple Leafs,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:18:44Z,1,06:14,13:46,Missed Shot,n/a,-67.0,11.0,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:18:56Z,1,06:22,13:38,Shot,Tip-In,-85.0,4.0,Zach Hyman,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:20:58Z,1,06:22,13:38,Faceoff,n/a,-69.0,22.0,William Nylander,Winner,Toronto Maple Leafs,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:21:15Z,1,06:29,13:31,Blocked Shot,n/a,-33.0,23.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:21:47Z,1,07:02,12:58,Giveaway,n/a,67.0,-40.0,Travis Dermott,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:22:16Z,1,07:31,12:29,Missed Shot,n/a,-57.0,12.0,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:22:25Z,1,07:33,12:27,Shot,Backhand,-90.0,-21.0,John Tavares,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:22:38Z,1,07:35,12:25,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:22:58Z,1,07:41,12:19,Giveaway,n/a,-51.0,-38.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:23:17Z,1,08:00,12:00,Missed Shot,n/a,75.0,1.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:23:22Z,1,08:05,11:55,Takeaway,n/a,44.0,39.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:23:39Z,1,08:22,11:38,Hit,n/a,-72.0,-32.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:24:03Z,1,08:46,11:14,Hit,n/a,98.0,2.0,Morgan Rielly,Hitter,Toronto Maple Leafs,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:24:14Z,1,08:58,11:02,Hit,n/a,-42.0,-37.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:24:23Z,1,09:06,10:54,Blocked Shot,n/a,-54.0,5.0,Zemgus Girgensons,Blocker,Buffalo Sabres,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:25:00Z,1,09:43,10:17,Blocked Shot,n/a,-49.0,29.0,Rasmus Dahlin,Blocker,Buffalo Sabres,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:25:46Z,1,10:29,09:31,Takeaway,n/a,92.0,30.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:25:58Z,1,10:41,09:19,Giveaway,n/a,-37.0,34.0,Jeff Skinner,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:26:18Z,1,11:01,08:59,Giveaway,n/a,-36.0,27.0,Henri Jokiharju,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:26:28Z,1,11:08,08:52,Shot,Wrist Shot,-45.0,16.0,John Tavares,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:28:14Z,1,11:09,08:51,Faceoff,n/a,-69.0,22.0,Sam Reinhart,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:28:59Z,1,11:16,08:44,Takeaway,n/a,-99.0,5.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:29:01Z,1,11:18,08:42,Missed Shot,n/a,-73.0,2.0,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:29:36Z,1,11:53,08:07,Shot,Wrist Shot,-58.0,-20.0,John Tavares,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:29:57Z,1,11:53,08:07,Faceoff,n/a,-69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:30:19Z,1,12:02,07:58,Faceoff,n/a,69.0,22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:30:47Z,1,12:14,07:46,Shot,Wrist Shot,-76.0,10.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:31:08Z,1,12:14,07:46,Faceoff,n/a,-69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:31:34Z,1,12:32,07:28,Missed Shot,n/a,32.0,25.0,Jake McCabe,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:31:39Z,1,12:38,07:22,Takeaway,n/a,50.0,-22.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:31:45Z,1,12:43,07:17,Takeaway,n/a,-37.0,38.0,Jake McCabe,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:31:49Z,1,12:47,07:13,Shot,Snap Shot,-31.0,5.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:31:56Z,1,12:48,07:12,Shot,Wrist Shot,-81.0,-2.0,Auston Matthews,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:32:17Z,1,12:49,07:11,Faceoff,n/a,-69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:32:38Z,1,12:55,07:05,Blocked Shot,n/a,-70.0,-8.0,Marco Scandella,Blocker,Buffalo Sabres,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:32:50Z,1,13:07,06:53,Blocked Shot,n/a,-79.0,-1.0,Evan Rodrigues,Blocker,Buffalo Sabres,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:33:40Z,1,13:57,06:03,Takeaway,n/a,-29.0,38.0,Rasmus Dahlin,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:34:07Z,1,14:24,05:36,Hit,n/a,92.0,29.0,Justin Holl,Hitter,Toronto Maple Leafs,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:34:12Z,1,14:29,05:31,Blocked Shot,n/a,53.0,-16.0,Zach Hyman,Blocker,Toronto Maple Leafs,Brandon Montour,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:34:19Z,1,14:31,05:29,Shot,Wrist Shot,77.0,5.0,Kyle Okposo,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:36:18Z,1,14:31,05:29,Faceoff,n/a,69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:37:07Z,1,14:55,05:05,Missed Shot,n/a,66.0,-10.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:37:26Z,1,15:13,04:47,Hit,n/a,-47.0,-38.0,Pierre Engvall,Hitter,Toronto Maple Leafs,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:38:07Z,1,15:56,04:04,Giveaway,n/a,-34.0,33.0,Marco Scandella,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:38:19Z,1,16:07,03:53,Hit,n/a,-77.0,-39.0,Henri Jokiharju,Hitter,Buffalo Sabres,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:38:37Z,1,16:26,03:34,Shot,Snap Shot,-62.0,-2.0,Zach Hyman,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:39:31Z,1,17:20,02:40,Missed Shot,n/a,-77.0,21.0,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:39:50Z,1,17:39,02:21,Hit,n/a,-74.0,40.0,Evan Rodrigues,Hitter,Buffalo Sabres,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:39:56Z,1,17:44,02:16,Missed Shot,n/a,-35.0,23.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:39:58Z,1,17:46,02:14,Takeaway,n/a,-43.0,37.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:40:11Z,1,17:59,02:01,Hit,n/a,96.0,-20.0,Jimmy Vesey,Hitter,Buffalo Sabres,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:40:52Z,1,18:40,01:20,Hit,n/a,74.0,-40.0,Frederik Gauthier,Hitter,Toronto Maple Leafs,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:41:00Z,1,18:48,01:12,Blocked Shot,n/a,74.0,8.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Zemgus Girgensons,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:41:23Z,1,19:11,00:49,Giveaway,n/a,49.0,40.0,Alexander Kerfoot,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:41:40Z,1,19:16,00:44,Shot,Wrist Shot,36.0,-12.0,Henri Jokiharju,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:41:32Z,1,19:20,00:40,Takeaway,n/a,97.0,18.0,Jake Muzzin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:42:08Z,1,19:30,00:30,Faceoff,n/a,69.0,-22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:42:19Z,1,19:40,00:20,Giveaway,n/a,91.0,-21.0,Morgan Rielly,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:01:06Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:01:51Z,2,00:38,19:22,Missed Shot,n/a,77.0,12.0,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:02:02Z,2,00:45,19:15,Takeaway,n/a,26.0,-35.0,Jake McCabe,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:02:17Z,2,01:00,19:00,Hit,n/a,-15.0,-40.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:02:26Z,2,01:07,18:53,Hit,n/a,94.0,-15.0,Kasperi Kapanen,Hitter,Toronto Maple Leafs,Marco Scandella,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:02:46Z,2,01:33,18:27,Hit,n/a,-95.0,16.0,Johan Larsson,Hitter,Buffalo Sabres,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:03:00Z,2,01:47,18:13,Shot,Wrist Shot,72.0,-15.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:03:12Z,2,01:59,18:01,Shot,Tip-In,-77.0,-5.0,Jeff Skinner,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:03:41Z,2,02:13,17:47,Faceoff,n/a,69.0,22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:04:11Z,2,02:28,17:32,Hit,n/a,93.0,-20.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Pierre Engvall,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:04:34Z,2,02:52,17:08,Shot,Snap Shot,-50.0,34.0,Evan Rodrigues,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:05:37Z,2,03:55,16:05,Shot,Snap Shot,-32.0,32.0,Brandon Montour,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:05:44Z,2,03:59,16:01,Hit,n/a,-91.0,32.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:06:12Z,2,04:02,15:58,Faceoff,n/a,-69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:06:34Z,2,04:18,15:42,Hit,n/a,-28.0,34.0,Morgan Rielly,Hitter,Toronto Maple Leafs,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:06:47Z,2,04:33,15:27,Giveaway,n/a,-64.0,2.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:06:49Z,2,04:35,15:25,Blocked Shot,n/a,-51.0,21.0,Zach Hyman,Blocker,Toronto Maple Leafs,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:07:04Z,2,04:43,15:17,Missed Shot,n/a,-66.0,1.0,Zemgus Girgensons,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:07:15Z,2,04:47,15:13,Goal,Wrist Shot,62.0,9.0,Auston Matthews,Scorer,Toronto Maple Leafs,Morgan Rielly,Assist,Toronto Maple Leafs,Mitchell Marner,Assist,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres
+2019-12-18T01:07:45Z,2,04:47,15:13,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:08:07Z,2,05:05,14:55,Missed Shot,n/a,55.0,-14.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:08:19Z,2,05:20,14:40,Missed Shot,n/a,-62.0,13.0,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:08:35Z,2,05:39,14:21,Shot,Slap Shot,64.0,21.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:08:40Z,2,05:41,14:19,Shot,Slap Shot,59.0,8.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:09:09Z,2,06:10,13:50,Shot,Snap Shot,-68.0,19.0,Sam Reinhart,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:09:15Z,2,06:17,13:43,Shot,Wrist Shot,60.0,-6.0,Pierre Engvall,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:09:35Z,2,06:23,13:37,Hit,n/a,-98.0,13.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:09:29Z,2,06:30,13:30,Hit,n/a,-97.0,4.0,Sam Reinhart,Hitter,Buffalo Sabres,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:10:24Z,2,07:26,12:34,Hit,n/a,-56.0,39.0,Henri Jokiharju,Hitter,Buffalo Sabres,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:10:57Z,2,07:59,12:01,Shot,Backhand,59.0,20.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:11:03Z,2,08:00,12:00,Hit,n/a,96.0,17.0,John Tavares,Hitter,Toronto Maple Leafs,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:12:36Z,2,09:34,10:26,Shot,Wrist Shot,-57.0,30.0,Victor Olofsson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:14:52Z,2,09:34,10:26,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:15:01Z,2,09:43,10:17,Missed Shot,n/a,-74.0,-2.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:15:23Z,2,10:05,09:55,Shot,Wrist Shot,-61.0,17.0,Victor Olofsson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:15:31Z,2,10:13,09:47,Shot,Backhand,-77.0,-5.0,Victor Olofsson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:15:45Z,2,10:25,09:35,Shot,Wrist Shot,-23.0,1.0,Jack Eichel,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:16:10Z,2,10:48,09:12,Takeaway,n/a,-96.0,17.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:16:11Z,2,10:52,09:08,Shot,Wrist Shot,-31.0,23.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:16:31Z,2,11:09,08:51,Blocked Shot,n/a,-74.0,-6.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Evan Rodrigues,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:16:29Z,2,11:10,08:50,Hit,n/a,33.0,-40.0,Jake McCabe,Hitter,Buffalo Sabres,Kasperi Kapanen,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:16:38Z,2,11:20,08:40,Takeaway,n/a,31.0,30.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:16:50Z,2,11:31,08:29,Hit,n/a,95.0,-24.0,Jake McCabe,Hitter,Buffalo Sabres,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:16:56Z,2,11:33,08:27,Takeaway,n/a,85.0,-30.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:16:56Z,2,11:38,08:22,Missed Shot,n/a,58.0,10.0,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:17:04Z,2,11:39,08:21,Blocked Shot,n/a,-64.0,4.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Conor Sheary,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:17:38Z,2,12:06,07:54,Penalty,Hooking,70.0,19.0,Zemgus Girgensons,PenaltyOn,Buffalo Sabres,Ilya Mikheyev,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:19:22Z,2,12:06,07:54,Faceoff,n/a,69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:19:57Z,2,12:13,07:47,Shot,Wrist Shot,60.0,28.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:20:07Z,2,12:13,07:47,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:20:51Z,2,12:51,07:09,Blocked Shot,n/a,74.0,3.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:21:06Z,2,13:05,06:55,Shot,Slap Shot,34.0,-6.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:21:33Z,2,13:05,06:55,Faceoff,n/a,69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Rasmus Asplund,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:21:57Z,2,13:24,06:36,Shot,Slap Shot,34.0,-1.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:22:23Z,2,13:24,06:36,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Jimmy Vesey,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:23:08Z,2,13:59,06:01,Shot,Tip-In,84.0,1.0,John Tavares,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:23:19Z,2,14:10,05:50,Shot,Wrist Shot,57.0,-7.0,Auston Matthews,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:23:24Z,2,14:15,05:45,Hit,n/a,98.0,-7.0,Marco Scandella,Hitter,Buffalo Sabres,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:23:36Z,2,14:22,05:38,Hit,n/a,91.0,-23.0,Henri Jokiharju,Hitter,Buffalo Sabres,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:24:08Z,2,14:58,05:02,Hit,n/a,-97.0,12.0,Sam Reinhart,Hitter,Buffalo Sabres,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:24:15Z,2,15:06,04:54,Takeaway,n/a,-96.0,9.0,Justin Holl,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:24:23Z,2,15:14,04:46,Takeaway,n/a,34.0,-5.0,Sam Reinhart,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:24:25Z,2,15:15,04:45,Shot,Wrist Shot,-41.0,19.0,Jack Eichel,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:24:40Z,2,15:31,04:29,Blocked Shot,n/a,50.0,1.0,Jake McCabe,Blocker,Buffalo Sabres,Pierre Engvall,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:27:04Z,2,15:55,04:05,Faceoff,n/a,-69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:28:01Z,2,16:34,03:26,Blocked Shot,n/a,-65.0,3.0,John Tavares,Blocker,Toronto Maple Leafs,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:28:05Z,2,16:36,03:24,Missed Shot,n/a,-55.0,24.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:28:31Z,2,16:36,03:24,Faceoff,n/a,-69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:29:15Z,2,17:19,02:41,Hit,n/a,-92.0,-28.0,Marcus Johansson,Hitter,Buffalo Sabres,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:29:37Z,2,17:39,02:21,Goal,Backhand,81.0,-11.0,Auston Matthews,Scorer,Toronto Maple Leafs,William Nylander,Assist,Toronto Maple Leafs,Tyson Barrie,Assist,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres
+2019-12-18T01:30:18Z,2,17:39,02:21,Faceoff,n/a,0.0,0.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:30:49Z,2,18:05,01:55,Shot,Wrist Shot,46.0,39.0,Travis Dermott,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:31:22Z,2,18:05,01:55,Faceoff,n/a,69.0,22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:31:46Z,2,18:24,01:36,Giveaway,n/a,-30.0,-31.0,Jason Spezza,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:31:57Z,2,18:26,01:34,Missed Shot,n/a,-38.0,-15.0,Jake McCabe,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:32:02Z,2,18:40,01:20,Giveaway,n/a,0.0,-28.0,Cody Ceci,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:32:50Z,2,19:27,00:33,Hit,n/a,-72.0,-41.0,Justin Holl,Hitter,Toronto Maple Leafs,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:33:06Z,2,19:40,00:20,Hit,n/a,92.0,-31.0,Brandon Montour,Hitter,Buffalo Sabres,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:33:10Z,2,19:47,00:13,Blocked Shot,n/a,68.0,-2.0,Rasmus Dahlin,Blocker,Buffalo Sabres,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:33:34Z,2,19:47,00:13,Penalty,Holding the stick,66.0,-4.0,John Tavares,PenaltyOn,Toronto Maple Leafs,Brandon Montour,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:33:58Z,2,19:47,00:13,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:52:45Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:53:16Z,3,00:16,19:44,Faceoff,n/a,69.0,22.0,Zach Hyman,Winner,Toronto Maple Leafs,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:54:06Z,3,00:47,19:13,Takeaway,n/a,-84.0,12.0,Victor Olofsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:54:45Z,3,01:29,18:31,Goal,Slap Shot,34.0,1.0,Rasmus Dahlin,Scorer,Buffalo Sabres,Jack Eichel,Assist,Buffalo Sabres,Victor Olofsson,Assist,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-12-18T01:55:26Z,3,01:29,18:31,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:55:37Z,3,01:40,18:20,Hit,n/a,98.0,-14.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:56:20Z,3,02:02,17:58,Faceoff,n/a,20.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:56:41Z,3,02:09,17:51,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:57:31Z,3,02:48,17:12,Shot,Wrist Shot,9.0,39.0,Rasmus Asplund,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:57:29Z,3,02:49,17:11,Hit,n/a,8.0,39.0,Jack Eichel,Hitter,Buffalo Sabres,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:58:01Z,3,03:02,16:58,Faceoff,n/a,-20.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:58:31Z,3,03:11,16:49,Faceoff,n/a,20.0,22.0,Jack Eichel,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:59:06Z,3,03:42,16:18,Shot,Wrist Shot,-75.0,15.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:59:14Z,3,03:50,16:10,Missed Shot,n/a,-67.0,-8.0,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:59:21Z,3,03:57,16:03,Shot,Backhand,-77.0,-6.0,Jake Muzzin,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:59:39Z,3,04:13,15:47,Blocked Shot,n/a,61.0,-3.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Evan Rodrigues,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:59:58Z,3,04:13,15:47,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:00:33Z,3,04:39,15:21,Takeaway,n/a,6.0,-21.0,Jeff Skinner,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:00:38Z,3,04:44,15:16,Shot,Snap Shot,67.0,36.0,Jake McCabe,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:00:46Z,3,04:53,15:07,Shot,Wrist Shot,42.0,-30.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:01:06Z,3,04:58,15:02,Goal,Backhand,-83.0,5.0,Dmytro Timashov,Scorer,Toronto Maple Leafs,Tyson Barrie,Assist,Toronto Maple Leafs,Frederik Gauthier,Assist,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres
+2019-12-18T02:01:32Z,3,04:58,15:02,Faceoff,n/a,0.0,0.0,William Nylander,Winner,Toronto Maple Leafs,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:02:10Z,3,05:31,14:29,Hit,n/a,-97.0,14.0,Henri Jokiharju,Hitter,Buffalo Sabres,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:02:29Z,3,05:54,14:06,Missed Shot,n/a,-73.0,-21.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:03:06Z,3,06:30,13:30,Goal,Wrist Shot,60.0,-12.0,Jack Eichel,Scorer,Buffalo Sabres,Victor Olofsson,Assist,Buffalo Sabres,Sam Reinhart,Assist,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-12-18T02:03:47Z,3,06:30,13:30,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:04:10Z,3,06:50,13:10,Shot,Wrist Shot,-33.0,28.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:04:22Z,3,07:00,13:00,Shot,Wrist Shot,74.0,25.0,Jimmy Vesey,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:06:30Z,3,07:00,13:00,Faceoff,n/a,69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:06:49Z,3,07:07,12:53,Missed Shot,n/a,33.0,-16.0,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:07:14Z,3,07:33,12:27,Blocked Shot,n/a,53.0,-9.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:07:17Z,3,07:35,12:25,Giveaway,n/a,60.0,-35.0,Jake Muzzin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:07:23Z,3,07:41,12:19,Shot,Wrist Shot,81.0,-15.0,Sam Reinhart,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:07:29Z,3,07:47,12:13,Hit,n/a,-97.0,-17.0,Henri Jokiharju,Hitter,Buffalo Sabres,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:07:32Z,3,07:49,12:11,Shot,Wrist Shot,-38.0,-20.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:07:48Z,3,07:49,12:11,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:08:19Z,3,08:15,11:45,Shot,Wrist Shot,50.0,-17.0,Brandon Montour,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:08:41Z,3,08:37,11:23,Hit,n/a,89.0,-24.0,Jeff Skinner,Hitter,Buffalo Sabres,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:09:35Z,3,09:27,10:33,Hit,n/a,31.0,-33.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:10:05Z,3,09:59,10:01,Missed Shot,n/a,-67.0,20.0,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:10:12Z,3,10:04,09:56,Takeaway,n/a,-35.0,-37.0,Victor Olofsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:12:03Z,3,10:06,09:54,Faceoff,n/a,20.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:13:25Z,3,10:47,09:13,Faceoff,n/a,20.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:13:52Z,3,11:09,08:51,Blocked Shot,n/a,80.0,-6.0,Auston Matthews,Blocker,Toronto Maple Leafs,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:14:24Z,3,11:42,08:18,Missed Shot,n/a,-63.0,2.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:15:06Z,3,12:24,07:36,Hit,n/a,-22.0,-29.0,Dmytro Timashov,Hitter,Toronto Maple Leafs,Brandon Montour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:15:13Z,3,12:30,07:30,Shot,Slap Shot,-34.0,-24.0,Travis Dermott,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:15:33Z,3,12:30,07:30,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:15:53Z,3,12:37,07:23,Hit,n/a,-71.0,-38.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Mitchell Marner,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:16:18Z,3,13:01,06:59,Hit,n/a,32.0,-38.0,Brandon Montour,Hitter,Buffalo Sabres,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:16:50Z,3,13:34,06:26,Giveaway,n/a,36.0,39.0,Alexander Kerfoot,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:17:08Z,3,13:51,06:09,Shot,Snap Shot,-49.0,-2.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:17:31Z,3,13:51,06:09,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:17:50Z,3,14:07,05:53,Blocked Shot,n/a,-73.0,-13.0,Evan Rodrigues,Blocker,Buffalo Sabres,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:18:09Z,3,14:26,05:34,Giveaway,n/a,37.0,21.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:18:11Z,3,14:29,05:31,Blocked Shot,n/a,73.0,-6.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Evan Rodrigues,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:18:25Z,3,14:39,05:21,Shot,Wrist Shot,70.0,-5.0,Conor Sheary,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:18:46Z,3,14:41,05:19,Goal,Wrist Shot,82.0,-14.0,Kyle Okposo,Scorer,Buffalo Sabres,Conor Sheary,Assist,Buffalo Sabres,Rasmus Dahlin,Assist,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-12-18T02:19:05Z,3,14:41,05:19,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:19:35Z,3,15:10,04:50,Shot,Slap Shot,32.0,5.0,Henri Jokiharju,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:19:42Z,3,15:16,04:44,Giveaway,n/a,4.0,5.0,Zach Hyman,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:19:48Z,3,15:22,04:38,Shot,Backhand,73.0,12.0,Jack Eichel,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:20:01Z,3,15:31,04:29,Penalty,Holding,53.0,-18.0,Zach Hyman,PenaltyOn,Toronto Maple Leafs,Jack Eichel,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:22:15Z,3,15:31,04:29,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:22:42Z,3,15:57,04:03,Missed Shot,n/a,42.0,-23.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:24:17Z,3,16:13,03:47,Faceoff,n/a,20.0,22.0,Mitchell Marner,Winner,Toronto Maple Leafs,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:24:41Z,3,16:32,03:28,Hit,n/a,34.0,-39.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:24:53Z,3,16:43,03:17,Shot,Wrist Shot,54.0,16.0,Victor Olofsson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:25:37Z,3,17:21,02:39,Takeaway,n/a,33.0,-30.0,Ilya Mikheyev,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:25:38Z,3,17:26,02:34,Goal,Wrist Shot,-83.0,0.0,Ilya Mikheyev,Scorer,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:26:18Z,3,17:26,02:34,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:26:31Z,3,17:39,02:21,Hit,n/a,-61.0,3.0,Henri Jokiharju,Hitter,Buffalo Sabres,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:27:10Z,3,18:18,01:42,Shot,Slap Shot,-77.0,21.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:27:45Z,3,18:25,01:35,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:28:00Z,3,18:37,01:23,Giveaway,n/a,-93.0,-11.0,Rasmus Dahlin,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:28:35Z,3,19:11,00:49,Shot,Wrist Shot,63.0,-29.0,Jack Eichel,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:28:45Z,3,19:22,00:38,Blocked Shot,n/a,-23.0,21.0,Marcus Johansson,Blocker,Buffalo Sabres,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:29:02Z,3,19:38,00:22,Shot,Wrist Shot,78.0,-17.0,Sam Reinhart,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:29:16Z,3,19:53,00:07,Blocked Shot,n/a,54.0,14.0,Cody Ceci,Blocker,Toronto Maple Leafs,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:29:28Z,3,19:56,00:04,Blocked Shot,n/a,74.0,-9.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,272 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-28T04:00:48Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Nathan MacKinnon,Winner,Colorado Avalanche,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:09:47Z,1,00:04,19:56,Giveaway,n/a,26.0,-29.0,Nikita Zadorov,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:10:03Z,1,00:07,19:53,Faceoff,n/a,20.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:10:18Z,1,00:20,19:40,Shot,Snap Shot,77.0,-13.0,Zack Kassian,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:10:35Z,1,00:34,19:26,Takeaway,n/a,-41.0,-36.0,Darnell Nurse,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:10:50Z,1,00:52,19:08,Shot,Wrist Shot,78.0,35.0,Oscar Klefbom,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:10:53Z,1,00:55,19:05,Hit,n/a,98.0,-3.0,Nikita Zadorov,Hitter,Colorado Avalanche,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:11:06Z,1,01:07,18:53,Hit,n/a,16.0,-40.0,Jujhar Khaira,Hitter,Edmonton Oilers,Nikita Zadorov,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:11:12Z,1,01:13,18:47,Giveaway,n/a,-97.0,-5.0,Caleb Jones,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:11:19Z,1,01:19,18:41,Blocked Shot,n/a,-81.0,-5.0,Caleb Jones,Blocker,Edmonton Oilers,J.T. Compher,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:11:25Z,1,01:27,18:33,Shot,Wrist Shot,-55.0,1.0,Nazem Kadri,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:11:48Z,1,01:49,18:11,Blocked Shot,n/a,-67.0,-10.0,Adam Larsson,Blocker,Edmonton Oilers,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:11:58Z,1,01:49,18:11,Faceoff,n/a,-69.0,-22.0,Matt Nieto,Winner,Colorado Avalanche,Sam Gagner,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:12:34Z,1,01:57,18:03,Giveaway,n/a,21.0,3.0,Ian Cole,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:12:37Z,1,02:00,18:00,Shot,Wrist Shot,50.0,-33.0,Sam Gagner,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:12:43Z,1,02:04,17:56,Hit,n/a,80.0,39.0,Ian Cole,Hitter,Colorado Avalanche,Alex Chiasson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:12:59Z,1,02:22,17:38,Hit,n/a,74.0,-40.0,James Neal,Hitter,Edmonton Oilers,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:13:07Z,1,02:30,17:30,Hit,n/a,-86.0,36.0,Adam Larsson,Hitter,Edmonton Oilers,Pierre-Edouard Bellemare,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:13:15Z,1,02:37,17:23,Shot,Tip-In,-74.0,9.0,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:13:41Z,1,02:37,17:23,Faceoff,n/a,-69.0,22.0,Gaetan Haas,Winner,Edmonton Oilers,T.J. Tynan,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:14:06Z,1,02:46,17:14,Hit,n/a,-14.0,40.0,T.J. Tynan,Hitter,Colorado Avalanche,Gaetan Haas,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:14:22Z,1,03:02,16:58,Missed Shot,n/a,-53.0,-13.0,Vladislav Kamenev,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:14:44Z,1,03:24,16:36,Shot,Wrist Shot,-78.0,-24.0,Andre Burakovsky,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:14:56Z,1,03:24,16:36,Faceoff,n/a,-69.0,-22.0,Andre Burakovsky,Winner,Colorado Avalanche,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:15:37Z,1,03:48,16:12,Hit,n/a,29.0,1.0,Joonas Donskoi,Hitter,Colorado Avalanche,Connor McDavid,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:15:54Z,1,04:06,15:54,Shot,Tip-In,-70.0,-8.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:16:43Z,1,04:32,15:28,Faceoff,n/a,-69.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Jujhar Khaira,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:16:59Z,1,04:37,15:23,Shot,Wrist Shot,-39.0,-35.0,Ryan Graves,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:17:33Z,1,04:49,15:11,Faceoff,n/a,-20.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:17:54Z,1,05:03,14:57,Hit,n/a,-95.0,-18.0,Kris Russell,Hitter,Edmonton Oilers,Valeri Nichushkin,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:18:12Z,1,05:21,14:39,Missed Shot,n/a,-80.0,13.0,Matt Nieto,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:18:33Z,1,05:42,14:18,Hit,n/a,-96.0,-26.0,Oscar Klefbom,Hitter,Edmonton Oilers,Vladislav Kamenev,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:19:13Z,1,06:22,13:38,Blocked Shot,n/a,59.0,9.0,T.J. Tynan,Blocker,Colorado Avalanche,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:19:17Z,1,06:26,13:34,Blocked Shot,n/a,65.0,6.0,Samuel Girard,Blocker,Colorado Avalanche,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:19:27Z,1,06:36,13:24,Giveaway,n/a,36.0,34.0,Calle Rosen,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:19:33Z,1,06:42,13:18,Shot,Wrist Shot,-79.0,13.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:19:43Z,1,06:50,13:10,Hit,n/a,-23.0,0.0,Nikita Zadorov,Hitter,Colorado Avalanche,Zack Kassian,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:19:50Z,1,06:59,13:01,Hit,n/a,37.0,-32.0,Zack Kassian,Hitter,Edmonton Oilers,Cale Makar,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:22:07Z,1,07:15,12:45,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:22:25Z,1,07:18,12:42,Giveaway,n/a,-20.0,9.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:22:31Z,1,07:27,12:33,Shot,Wrist Shot,-31.0,39.0,Cale Makar,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:22:36Z,1,07:32,12:28,Takeaway,n/a,-23.0,-1.0,Andre Burakovsky,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:22:41Z,1,07:36,12:24,Takeaway,n/a,-23.0,29.0,Zack Kassian,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:22:48Z,1,07:43,12:17,Missed Shot,n/a,70.0,1.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:23:39Z,1,08:31,11:29,Hit,n/a,-96.0,-9.0,Nazem Kadri,Hitter,Colorado Avalanche,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:23:43Z,1,08:38,11:22,Shot,Wrist Shot,74.0,-12.0,Patrick Russell,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:24:41Z,1,09:36,10:24,Blocked Shot,n/a,67.0,22.0,Cale Makar,Blocker,Colorado Avalanche,Jujhar Khaira,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:24:50Z,1,09:45,10:15,Takeaway,n/a,87.0,-25.0,Calle Rosen,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:25:01Z,1,09:56,10:04,Shot,Wrist Shot,-58.0,1.0,Vladislav Kamenev,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:25:28Z,1,10:10,09:50,Takeaway,n/a,72.0,34.0,Alex Chiasson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:25:55Z,1,10:49,09:11,Blocked Shot,n/a,69.0,3.0,Cale Makar,Blocker,Colorado Avalanche,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:26:16Z,1,11:03,08:57,Giveaway,n/a,86.0,-22.0,Nikita Zadorov,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:26:10Z,1,11:05,08:55,Shot,Wrist Shot,33.0,-22.0,Ethan Bear,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:26:29Z,1,11:24,08:36,Shot,Slap Shot,32.0,-30.0,Ethan Bear,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:26:38Z,1,11:33,08:27,Hit,n/a,-11.0,-39.0,Nazem Kadri,Hitter,Colorado Avalanche,Leon Draisaitl,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:26:48Z,1,11:44,08:16,Giveaway,n/a,46.0,2.0,Caleb Jones,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:26:55Z,1,11:51,08:09,Takeaway,n/a,-60.0,-1.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:27:00Z,1,11:53,08:07,Hit,n/a,-68.0,-38.0,Zack Kassian,Hitter,Edmonton Oilers,Samuel Girard,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:27:04Z,1,11:59,08:01,Blocked Shot,n/a,-69.0,7.0,Oscar Klefbom,Blocker,Edmonton Oilers,Calle Rosen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:27:38Z,1,12:33,07:27,Hit,n/a,32.0,-37.0,Adam Larsson,Hitter,Edmonton Oilers,Pierre-Edouard Bellemare,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:28:02Z,1,12:57,07:03,Missed Shot,n/a,77.0,-6.0,Riley Sheahan,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:28:11Z,1,13:06,06:54,Blocked Shot,n/a,60.0,-25.0,Ian Cole,Blocker,Colorado Avalanche,Jujhar Khaira,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:28:23Z,1,13:17,06:43,Goal,Backhand,79.0,4.0,Jujhar Khaira,Scorer,Edmonton Oilers,Darnell Nurse,Assist,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a
+2019-11-28T03:29:01Z,1,13:17,06:43,Faceoff,n/a,0.0,0.0,James Neal,Winner,Edmonton Oilers,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:29:41Z,1,13:30,06:30,Hit,n/a,94.0,28.0,Nikita Zadorov,Hitter,Colorado Avalanche,James Neal,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:30:07Z,1,13:55,06:05,Takeaway,n/a,-54.0,-38.0,Adam Larsson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:30:12Z,1,14:00,06:00,Hit,n/a,-94.0,25.0,Nazem Kadri,Hitter,Colorado Avalanche,Kris Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:30:18Z,1,14:07,05:53,Shot,Wrist Shot,86.0,-8.0,Zack Kassian,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:30:44Z,1,14:32,05:28,Hit,n/a,-8.0,41.0,Zack Kassian,Hitter,Edmonton Oilers,Ian Cole,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:30:59Z,1,14:45,05:15,Shot,Tip-In,-75.0,0.0,Valeri Nichushkin,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:33:02Z,1,14:45,05:15,Faceoff,n/a,-69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:33:19Z,1,14:50,05:10,Blocked Shot,n/a,-44.0,-3.0,Markus Granlund,Blocker,Edmonton Oilers,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:33:29Z,1,14:57,05:03,Hit,n/a,1.0,-41.0,Matt Nieto,Hitter,Colorado Avalanche,Markus Granlund,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:33:54Z,1,15:25,04:35,Hit,n/a,-98.0,2.0,Pierre-Edouard Bellemare,Hitter,Colorado Avalanche,Kris Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:34:08Z,1,15:39,04:21,Takeaway,n/a,7.0,0.0,Ian Cole,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:34:17Z,1,15:47,04:13,Blocked Shot,n/a,-75.0,0.0,Kris Russell,Blocker,Edmonton Oilers,Ryan Graves,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:34:19Z,1,15:50,04:10,Shot,Wrist Shot,-72.0,-10.0,Tyson Jost,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:34:29Z,1,16:00,04:00,Shot,Wrist Shot,61.0,-38.0,Josh Archibald,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:34:34Z,1,16:04,03:56,Hit,n/a,95.0,-30.0,Jujhar Khaira,Hitter,Edmonton Oilers,J.T. Compher,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:34:50Z,1,16:06,03:54,Penalty,Interference,95.0,-3.0,Josh Archibald,PenaltyOn,Edmonton Oilers,Ian Cole,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:36:45Z,1,16:06,03:54,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:37:03Z,1,16:19,03:41,Giveaway,n/a,-30.0,-24.0,Cale Makar,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:37:20Z,1,16:37,03:23,Giveaway,n/a,37.0,-23.0,Nathan MacKinnon,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:38:11Z,1,17:29,02:31,Blocked Shot,n/a,-59.0,21.0,Oscar Klefbom,Blocker,Edmonton Oilers,Vladislav Kamenev,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:38:12Z,1,17:30,02:30,Takeaway,n/a,-51.0,22.0,Riley Sheahan,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:38:48Z,1,18:06,01:54,Shot,Wrist Shot,-75.0,-23.0,J.T. Compher,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:38:57Z,1,18:13,01:47,Giveaway,n/a,-62.0,41.0,Valeri Nichushkin,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:39:04Z,1,18:22,01:38,Shot,Wrist Shot,75.0,-6.0,Connor McDavid,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:39:11Z,1,18:25,01:35,Shot,Wrist Shot,84.0,-6.0,Connor McDavid,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:39:08Z,1,18:27,01:33,Blocked Shot,n/a,84.0,-3.0,Nikita Zadorov,Blocker,Colorado Avalanche,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:39:23Z,1,18:40,01:20,Missed Shot,n/a,-64.0,9.0,Matt Nieto,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:39:35Z,1,18:52,01:08,Shot,Wrist Shot,-42.0,32.0,Ryan Graves,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:39:58Z,1,18:58,01:02,Faceoff,n/a,-69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:40:18Z,1,19:02,00:58,Shot,Wrist Shot,-39.0,4.0,Samuel Girard,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:40:32Z,1,19:02,00:58,Faceoff,n/a,-69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:40:47Z,1,19:09,00:51,Blocked Shot,n/a,-67.0,1.0,Riley Sheahan,Blocker,Edmonton Oilers,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:41:06Z,1,19:25,00:35,Shot,Wrist Shot,25.0,-35.0,Kris Russell,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:41:43Z,1,19:25,00:35,Faceoff,n/a,20.0,-22.0,Sam Gagner,Winner,Edmonton Oilers,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:42:13Z,1,19:45,00:15,Shot,Backhand,85.0,31.0,Alex Chiasson,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T03:42:29Z,1,19:59,00:01,Shot,Wrist Shot,-48.0,25.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:00:53Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:01:59Z,2,01:07,18:53,Missed Shot,n/a,37.0,1.0,Calle Rosen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:02:11Z,2,01:15,18:45,Hit,n/a,1.0,-40.0,J.T. Compher,Hitter,Colorado Avalanche,Riley Sheahan,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:02:16Z,2,01:24,18:36,Missed Shot,n/a,-30.0,-21.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:02:34Z,2,01:39,18:21,Hit,n/a,66.0,42.0,Nazem Kadri,Hitter,Colorado Avalanche,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:03:32Z,2,02:39,17:21,Hit,n/a,-20.0,-22.0,Ryan Graves,Hitter,Colorado Avalanche,Alex Chiasson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:05:16Z,2,02:45,17:15,Penalty,Elbowing,-8.0,-37.0,Adam Larsson,PenaltyOn,Edmonton Oilers,T.J. Tynan,DrewBy,Edmonton Oilers,Gaetan Haas,ServedBy,Colorado Avalanche,n/a,n/a,n/a
+2019-11-28T04:06:46Z,2,02:45,17:15,Penalty,Game misconduct,-8.0,-36.0,Adam Larsson,PenaltyOn,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:07:40Z,2,02:45,17:15,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:07:53Z,2,03:02,16:58,Takeaway,n/a,98.0,-13.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:08:14Z,2,03:23,16:37,Giveaway,n/a,70.0,-37.0,Andre Burakovsky,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:08:29Z,2,03:39,16:21,Giveaway,n/a,70.0,-37.0,Andre Burakovsky,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:08:56Z,2,04:05,15:55,Hit,n/a,89.0,-34.0,J.T. Compher,Hitter,Colorado Avalanche,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:11:00Z,2,05:04,14:56,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:11:17Z,2,05:15,14:45,Missed Shot,n/a,57.0,8.0,Nazem Kadri,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:11:41Z,2,05:37,14:23,Shot,Wrist Shot,-54.0,-27.0,Andre Burakovsky,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:11:48Z,2,05:40,14:20,Penalty,Tripping,35.0,-23.0,Leon Draisaitl,PenaltyOn,Edmonton Oilers,Cale Makar,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:12:20Z,2,05:40,14:20,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:12:55Z,2,06:01,13:59,Missed Shot,n/a,60.0,19.0,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:13:11Z,2,06:17,13:43,Blocked Shot,n/a,66.0,-4.0,Riley Sheahan,Blocker,Edmonton Oilers,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:13:21Z,2,06:27,13:33,Takeaway,n/a,70.0,36.0,Kris Russell,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:13:29Z,2,06:29,13:31,Giveaway,n/a,80.0,32.0,Kris Russell,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:13:24Z,2,06:30,13:30,Shot,Wrist Shot,45.0,4.0,Cale Makar,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:13:45Z,2,06:51,13:09,Missed Shot,n/a,46.0,17.0,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:14:17Z,2,07:23,12:37,Shot,Slap Shot,40.0,11.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:14:23Z,2,07:29,12:31,Shot,Wrist Shot,80.0,9.0,J.T. Compher,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:14:31Z,2,07:37,12:23,Shot,Wrist Shot,81.0,8.0,J.T. Compher,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:14:34Z,2,07:40,12:20,Shot,Slap Shot,59.0,26.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:14:40Z,2,07:46,12:14,Hit,n/a,70.0,40.0,Ethan Bear,Hitter,Edmonton Oilers,J.T. Compher,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:15:09Z,2,08:14,11:46,Shot,Wrist Shot,63.0,2.0,Vladislav Kamenev,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:17:10Z,2,08:14,11:46,Faceoff,n/a,69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:17:44Z,2,08:19,11:41,Blocked Shot,n/a,59.0,0.0,Connor McDavid,Blocker,Edmonton Oilers,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:17:46Z,2,08:22,11:38,Missed Shot,n/a,70.0,-8.0,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:18:34Z,2,08:44,11:16,Faceoff,n/a,-69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:19:15Z,2,09:09,10:51,Shot,Wrist Shot,65.0,-19.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:19:40Z,2,09:09,10:51,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:20:07Z,2,09:17,10:43,Faceoff,n/a,69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:20:30Z,2,09:28,10:32,Shot,Wrist Shot,33.0,7.0,Samuel Girard,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:20:48Z,2,09:46,10:14,Shot,Wrist Shot,71.0,16.0,Andre Burakovsky,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:21:02Z,2,09:58,10:02,Hit,n/a,-92.0,-32.0,Leon Draisaitl,Hitter,Edmonton Oilers,Joonas Donskoi,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:21:18Z,2,10:16,09:44,Shot,Wrist Shot,-85.0,4.0,James Neal,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:21:41Z,2,10:36,09:24,Missed Shot,n/a,-75.0,14.0,Sam Gagner,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:21:54Z,2,10:50,09:10,Goal,Wrist Shot,61.0,-15.0,Nazem Kadri,Scorer,Colorado Avalanche,Joonas Donskoi,Assist,Colorado Avalanche,Calle Rosen,Assist,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers
+2019-11-28T04:22:36Z,2,10:50,09:10,Faceoff,n/a,0.0,0.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:23:00Z,2,11:08,08:52,Hit,n/a,-43.0,41.0,Nikita Zadorov,Hitter,Colorado Avalanche,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:23:04Z,2,11:10,08:50,Hit,n/a,-94.0,30.0,Ian Cole,Hitter,Colorado Avalanche,Riley Sheahan,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:24:19Z,2,11:22,08:38,Penalty,Interference,-54.0,-28.0,Nikita Zadorov,PenaltyOn,Colorado Avalanche,Josh Archibald,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:24:59Z,2,11:22,08:38,Penalty,Roughing,-55.0,-26.0,Josh Archibald,PenaltyOn,Edmonton Oilers,Nikita Zadorov,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:26:03Z,2,11:22,08:38,Faceoff,n/a,-69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:26:37Z,2,11:56,08:04,Missed Shot,n/a,-53.0,19.0,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:26:44Z,2,12:02,07:58,Giveaway,n/a,-29.0,-38.0,Ethan Bear,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:26:50Z,2,12:09,07:51,Giveaway,n/a,-88.0,11.0,Samuel Girard,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:26:55Z,2,12:15,07:45,Shot,Wrist Shot,-81.0,-22.0,Connor McDavid,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:27:03Z,2,12:23,07:37,Takeaway,n/a,-67.0,-4.0,Cale Makar,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:27:09Z,2,12:28,07:32,Hit,n/a,41.0,-36.0,Darnell Nurse,Hitter,Edmonton Oilers,Nathan MacKinnon,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:27:20Z,2,12:33,07:27,Takeaway,n/a,69.0,24.0,Andre Burakovsky,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:27:15Z,2,12:34,07:26,Shot,Wrist Shot,72.0,12.0,Andre Burakovsky,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:27:37Z,2,12:57,07:03,Blocked Shot,n/a,-70.0,-10.0,Ryan Graves,Blocker,Colorado Avalanche,Zack Kassian,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:28:20Z,2,13:40,06:20,Missed Shot,n/a,78.0,-1.0,Nazem Kadri,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:29:54Z,2,13:52,06:08,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:30:09Z,2,14:06,05:54,Shot,Wrist Shot,-84.0,-26.0,Leon Draisaitl,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:30:20Z,2,14:17,05:43,Blocked Shot,n/a,-59.0,13.0,Joonas Donskoi,Blocker,Colorado Avalanche,Caleb Jones,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:30:32Z,2,14:30,05:30,Shot,Tip-In,76.0,-1.0,Matt Nieto,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:31:16Z,2,15:10,04:50,Penalty,Tripping,-57.0,3.0,Ian Cole,PenaltyOn,Colorado Avalanche,Jujhar Khaira,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:33:28Z,2,15:10,04:50,Faceoff,n/a,-69.0,-22.0,J.T. Compher,Winner,Colorado Avalanche,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:34:35Z,2,15:49,04:11,Takeaway,n/a,-36.0,40.0,Pierre-Edouard Bellemare,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:35:31Z,2,16:44,03:16,Blocked Shot,n/a,71.0,-4.0,Oscar Klefbom,Blocker,Edmonton Oilers,Logan O'Connor,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:35:50Z,2,16:44,03:16,Faceoff,n/a,69.0,-22.0,J.T. Compher,Winner,Colorado Avalanche,Sam Gagner,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:36:27Z,2,17:12,02:48,Shot,Wrist Shot,-33.0,-32.0,Darnell Nurse,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:36:43Z,2,17:25,02:35,Hit,n/a,-53.0,39.0,Samuel Girard,Hitter,Colorado Avalanche,Gaetan Haas,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:37:09Z,2,17:53,02:07,Hit,n/a,-62.0,40.0,Josh Archibald,Hitter,Edmonton Oilers,Samuel Girard,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:37:12Z,2,17:55,02:05,Shot,Wrist Shot,-56.0,40.0,Vladislav Kamenev,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:37:56Z,2,17:55,02:05,Faceoff,n/a,69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:38:11Z,2,18:06,01:54,Faceoff,n/a,-69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:38:38Z,2,18:24,01:36,Giveaway,n/a,-68.0,6.0,Ethan Bear,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:38:43Z,2,18:30,01:30,Shot,Tip-In,28.0,-18.0,Joonas Donskoi,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:39:10Z,2,18:57,01:03,Shot,Snap Shot,72.0,-11.0,Nazem Kadri,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:39:27Z,2,19:13,00:47,Shot,Wrist Shot,-62.0,-17.0,James Neal,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:39:59Z,2,19:45,00:15,Shot,Snap Shot,52.0,22.0,Valeri Nichushkin,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:40:09Z,2,19:46,00:14,Shot,Backhand,80.0,0.0,Matt Nieto,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:40:20Z,2,19:47,00:13,Shot,Wrist Shot,72.0,-2.0,Valeri Nichushkin,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:40:49Z,2,19:47,00:13,Faceoff,n/a,69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T04:40:55Z,2,19:59,00:01,Hit,n/a,-84.0,36.0,Samuel Girard,Hitter,Colorado Avalanche,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:35:49Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Nathan MacKinnon,Winner,Colorado Avalanche,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:00:15Z,3,00:40,19:20,Giveaway,n/a,75.0,41.0,Cale Makar,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:00:05Z,3,00:43,19:17,Shot,Wrist Shot,31.0,19.0,Darnell Nurse,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:00:28Z,3,01:00,19:00,Blocked Shot,n/a,-55.0,1.0,Darnell Nurse,Blocker,Edmonton Oilers,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:00:28Z,3,01:06,18:54,Hit,n/a,-86.0,37.0,Zack Kassian,Hitter,Edmonton Oilers,Nathan MacKinnon,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:00:54Z,3,01:11,18:49,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:01:10Z,3,01:16,18:44,Shot,Slap Shot,-32.0,11.0,Samuel Girard,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:01:24Z,3,01:16,18:44,Faceoff,n/a,-69.0,22.0,Gaetan Haas,Winner,Edmonton Oilers,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:02:10Z,3,01:38,18:22,Shot,Wrist Shot,38.0,33.0,Oscar Klefbom,Shooter,Edmonton Oilers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:02:13Z,3,01:40,18:20,Missed Shot,n/a,83.0,23.0,Patrick Russell,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:02:25Z,3,01:52,18:08,Hit,n/a,20.0,41.0,Ryan Graves,Hitter,Colorado Avalanche,Gaetan Haas,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:03:01Z,3,02:06,17:54,Faceoff,n/a,-69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:03:35Z,3,02:15,17:45,Faceoff,n/a,-69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Sam Gagner,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:03:46Z,3,02:18,17:42,Blocked Shot,n/a,-38.0,-25.0,James Neal,Blocker,Edmonton Oilers,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:04:16Z,3,02:18,17:42,Faceoff,n/a,-69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Sam Gagner,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:04:15Z,3,02:25,17:35,Blocked Shot,n/a,-74.0,-1.0,Darnell Nurse,Blocker,Edmonton Oilers,Ryan Graves,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:04:24Z,3,02:35,17:25,Blocked Shot,n/a,-51.0,-24.0,James Neal,Blocker,Edmonton Oilers,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:04:33Z,3,02:40,17:20,Shot,Wrist Shot,-29.0,-9.0,Ian Cole,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:04:38Z,3,02:46,17:14,Blocked Shot,n/a,76.0,-17.0,Ian Cole,Blocker,Colorado Avalanche,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:04:56Z,3,02:46,17:14,Faceoff,n/a,69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:05:18Z,3,02:55,17:05,Hit,n/a,98.0,12.0,Nikita Zadorov,Hitter,Colorado Avalanche,Zack Kassian,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:05:28Z,3,03:05,16:55,Goal,Snap Shot,-76.0,-9.0,Matt Nieto,Scorer,Colorado Avalanche,Nathan MacKinnon,Assist,Colorado Avalanche,Joonas Donskoi,Assist,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers
+2019-11-28T05:06:20Z,3,03:05,16:55,Faceoff,n/a,0.0,0.0,Gaetan Haas,Winner,Edmonton Oilers,Vladislav Kamenev,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:06:45Z,3,03:24,16:36,Blocked Shot,n/a,82.0,-12.0,Samuel Girard,Blocker,Colorado Avalanche,Josh Archibald,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:07:01Z,3,03:42,16:18,Blocked Shot,n/a,83.0,21.0,Samuel Girard,Blocker,Colorado Avalanche,Markus Granlund,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:07:20Z,3,04:02,15:58,Missed Shot,n/a,-76.0,22.0,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:07:30Z,3,04:05,15:55,Shot,Wrist Shot,-62.0,20.0,Ian Cole,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:07:30Z,3,04:07,15:53,Goal,Wrist Shot,-80.0,-11.0,Nathan MacKinnon,Scorer,Colorado Avalanche,Ian Cole,Assist,Colorado Avalanche,Ryan Graves,Assist,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers
+2019-11-28T05:08:09Z,3,04:07,15:53,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:08:25Z,3,04:19,15:41,Hit,n/a,-10.0,-40.0,Zack Kassian,Hitter,Edmonton Oilers,Matt Nieto,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:08:50Z,3,04:44,15:16,Missed Shot,n/a,-38.0,-27.0,Nikita Zadorov,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:08:59Z,3,04:53,15:07,Hit,n/a,-60.0,-15.0,Nathan MacKinnon,Hitter,Colorado Avalanche,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:09:09Z,3,05:02,14:58,Takeaway,n/a,-91.0,-22.0,Ethan Bear,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:09:11Z,3,05:05,14:55,Shot,Wrist Shot,-49.0,-5.0,Ryan Graves,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:09:27Z,3,05:20,14:40,Hit,n/a,-19.0,25.0,Darnell Nurse,Hitter,Edmonton Oilers,Pierre-Edouard Bellemare,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:09:34Z,3,05:27,14:33,Hit,n/a,-37.0,32.0,Pierre-Edouard Bellemare,Hitter,Colorado Avalanche,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:09:46Z,3,05:35,14:25,Giveaway,n/a,97.0,8.0,Ethan Bear,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:09:46Z,3,05:37,14:23,Goal,Backhand,-77.0,-5.0,Logan O'Connor,Scorer,Colorado Avalanche,Valeri Nichushkin,Assist,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a
+2019-11-28T05:10:33Z,3,05:37,14:23,Faceoff,n/a,0.0,0.0,Riley Sheahan,Winner,Edmonton Oilers,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:10:58Z,3,05:49,14:11,Faceoff,n/a,-69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:11:25Z,3,05:59,14:01,Shot,Wrist Shot,-75.0,-24.0,Nazem Kadri,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:11:48Z,3,05:59,14:01,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Sam Gagner,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:12:07Z,3,06:08,13:52,Hit,n/a,-96.0,20.0,Nazem Kadri,Hitter,Colorado Avalanche,Sam Gagner,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:12:19Z,3,06:17,13:43,Penalty,Tripping,-57.0,-33.0,Kris Russell,PenaltyOn,Edmonton Oilers,Tyson Jost,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:14:43Z,3,06:17,13:43,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:14:52Z,3,06:24,13:36,Blocked Shot,n/a,-64.0,-18.0,Ethan Bear,Blocker,Edmonton Oilers,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:15:32Z,3,07:05,12:55,Missed Shot,n/a,-75.0,14.0,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:15:48Z,3,07:18,12:42,Shot,Wrist Shot,-73.0,-7.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:16:05Z,3,07:37,12:23,Takeaway,n/a,-63.0,-40.0,Cale Makar,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:16:38Z,3,08:11,11:49,Shot,Snap Shot,-71.0,-27.0,J.T. Compher,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:17:57Z,3,08:25,11:35,Penalty,Interference - Goalkeeper,-85.0,1.0,J.T. Compher,PenaltyOn,Colorado Avalanche,Mikko Koskinen,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:18:12Z,3,08:25,11:35,Penalty,Roughing,-86.0,2.0,Darnell Nurse,PenaltyOn,Edmonton Oilers,J.T. Compher,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:18:23Z,3,08:25,11:35,Faceoff,n/a,-20.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:18:47Z,3,08:41,11:19,Missed Shot,n/a,67.0,10.0,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:19:22Z,3,09:17,10:43,Blocked Shot,n/a,-76.0,5.0,Caleb Jones,Blocker,Edmonton Oilers,Calle Rosen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:19:29Z,3,09:23,10:37,Takeaway,n/a,-88.0,-32.0,Joonas Donskoi,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:19:58Z,3,09:52,10:08,Hit,n/a,98.0,8.0,Zack Kassian,Hitter,Edmonton Oilers,Samuel Girard,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:20:08Z,3,10:02,09:58,Shot,Wrist Shot,-60.0,22.0,Calle Rosen,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:22:00Z,3,10:02,09:58,Faceoff,n/a,-69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Sam Gagner,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:23:36Z,3,11:00,09:00,Takeaway,n/a,-52.0,-31.0,Markus Granlund,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:23:42Z,3,11:07,08:53,Hit,n/a,10.0,-35.0,Logan O'Connor,Hitter,Colorado Avalanche,Gaetan Haas,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:24:20Z,3,11:44,08:16,Hit,n/a,67.0,40.0,Patrick Russell,Hitter,Edmonton Oilers,Matt Nieto,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:24:25Z,3,11:49,08:11,Shot,Wrist Shot,-80.0,-6.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:24:44Z,3,12:07,07:53,Blocked Shot,n/a,60.0,-7.0,Cale Makar,Blocker,Colorado Avalanche,Zack Kassian,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:25:12Z,3,12:07,07:53,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Tyson Jost,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:25:55Z,3,12:23,07:37,Takeaway,n/a,-32.0,2.0,J.T. Compher,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:26:19Z,3,12:47,07:13,Hit,n/a,13.0,-40.0,James Neal,Hitter,Edmonton Oilers,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:27:05Z,3,13:34,06:26,Giveaway,n/a,10.0,3.0,Josh Archibald,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:27:15Z,3,13:44,06:16,Hit,n/a,7.0,41.0,Riley Sheahan,Hitter,Edmonton Oilers,Joonas Donskoi,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:27:36Z,3,14:04,05:56,Blocked Shot,n/a,-68.0,-8.0,Riley Sheahan,Blocker,Edmonton Oilers,Calle Rosen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:28:02Z,3,14:30,05:30,Giveaway,n/a,-97.0,3.0,Mikko Koskinen,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:28:10Z,3,14:38,05:22,Shot,Slap Shot,-37.0,-32.0,Nikita Zadorov,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:28:26Z,3,14:54,05:06,Blocked Shot,n/a,-69.0,31.0,Kris Russell,Blocker,Edmonton Oilers,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:28:37Z,3,15:06,04:54,Blocked Shot,n/a,-53.0,2.0,Gaetan Haas,Blocker,Edmonton Oilers,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:29:08Z,3,15:16,04:44,Faceoff,n/a,69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:29:37Z,3,15:34,04:26,Takeaway,n/a,-11.0,5.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:30:16Z,3,16:17,03:43,Takeaway,n/a,-5.0,2.0,Logan O'Connor,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:30:49Z,3,16:50,03:10,Shot,Slap Shot,-55.0,-20.0,Calle Rosen,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:31:19Z,3,17:20,02:40,Missed Shot,n/a,-54.0,11.0,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:31:33Z,3,17:34,02:26,Missed Shot,n/a,-68.0,13.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:31:44Z,3,17:41,02:19,Shot,Wrist Shot,-6.0,-1.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:32:35Z,3,18:36,01:24,Shot,Wrist Shot,-52.0,10.0,J.T. Compher,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:32:53Z,3,18:53,01:07,Missed Shot,n/a,53.0,-10.0,Jujhar Khaira,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:33:16Z,3,19:06,00:54,Penalty,Charging,-97.0,-11.0,Zack Kassian,PenaltyOn,Edmonton Oilers,Nazem Kadri,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:33:16Z,3,19:06,00:54,Penalty,Roughing,-92.0,-11.0,Nazem Kadri,PenaltyOn,Colorado Avalanche,Zack Kassian,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:34:25Z,3,19:06,00:54,Penalty,Roughing,-94.0,-11.0,Zack Kassian,PenaltyOn,Edmonton Oilers,Nazem Kadri,DrewBy,Edmonton Oilers,Gaetan Haas,ServedBy,Colorado Avalanche,n/a,n/a,n/a
+2019-11-28T05:34:39Z,3,19:06,00:54,Faceoff,n/a,-69.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-28T05:34:57Z,3,19:27,00:33,Shot,Tip-In,-76.0,-3.0,Valeri Nichushkin,Shooter,Colorado Avalanche,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a

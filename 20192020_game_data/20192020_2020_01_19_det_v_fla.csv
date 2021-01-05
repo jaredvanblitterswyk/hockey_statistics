@@ -1,0 +1,250 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-19T00:10:02Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:11:02Z,1,00:24,19:36,Blocked Shot,n/a,67.0,-3.0,Luke Glendening,Blocker,Detroit Red Wings,Mike Matheson,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:11:28Z,1,00:48,19:12,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:12:19Z,1,01:18,18:42,Shot,Wrist Shot,79.0,-7.0,Noel Acciari,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:12:26Z,1,01:25,18:35,Shot,Slap Shot,35.0,-4.0,Riley Stillman,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:12:57Z,1,01:43,18:17,Penalty,Roughing,-5.0,41.0,Brett Connolly,PenaltyOn,Florida Panthers,Tyler Bertuzzi,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:13:37Z,1,01:43,18:17,Faceoff,n/a,-69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:14:03Z,1,02:17,17:43,Shot,Snap Shot,80.0,7.0,Frank Vatrano,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:14:28Z,1,02:17,17:43,Faceoff,n/a,69.0,22.0,Noel Acciari,Winner,Florida Panthers,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:15:03Z,1,02:54,17:06,Hit,n/a,-62.0,-39.0,Aaron Ekblad,Hitter,Florida Panthers,Filip Hronek,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:16:03Z,1,03:26,16:34,Faceoff,n/a,-20.0,22.0,Noel Acciari,Winner,Florida Panthers,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:16:18Z,1,03:46,16:14,Missed Shot,n/a,-30.0,12.0,Filip Hronek,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:16:54Z,1,04:22,15:38,Missed Shot,n/a,36.0,-6.0,Josh Brown,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:17:15Z,1,04:42,15:18,Giveaway,n/a,35.0,33.0,Justin Abdelkader,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:17:32Z,1,04:59,15:01,Giveaway,n/a,-12.0,-16.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:18:13Z,1,05:40,14:20,Missed Shot,n/a,-58.0,20.0,Tyler Bertuzzi,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:18:39Z,1,06:07,13:53,Hit,n/a,95.0,-22.0,Colton Sceviour,Hitter,Florida Panthers,Alex Biega,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:18:49Z,1,06:07,13:53,Penalty,Tripping,98.0,-11.0,Mark Pysyk,PenaltyOn,Florida Panthers,Madison Bowey,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:30:21Z,1,06:07,13:53,Faceoff,n/a,-69.0,-22.0,Noel Acciari,Winner,Florida Panthers,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:21:01Z,1,06:15,13:45,Giveaway,n/a,-45.0,38.0,Colton Sceviour,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:21:14Z,1,06:28,13:32,Shot,Slap Shot,-56.0,-21.0,Filip Hronek,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:21:33Z,1,06:28,13:32,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:22:05Z,1,06:57,13:03,Shot,Wrist Shot,-72.0,21.0,Robby Fabbri,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:22:41Z,1,06:58,13:02,Shot,Wrist Shot,-86.0,11.0,Dylan Larkin,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:22:41Z,1,06:59,13:01,Faceoff,n/a,-69.0,22.0,Noel Acciari,Winner,Florida Panthers,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:23:14Z,1,07:39,12:21,Shot,Wrist Shot,-34.0,9.0,Trevor Daley,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:23:19Z,1,07:44,12:16,Missed Shot,n/a,-74.0,-1.0,Valtteri Filppula,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:23:57Z,1,08:19,11:41,Hit,n/a,-81.0,-37.0,Aaron Ekblad,Hitter,Florida Panthers,Luke Glendening,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:24:00Z,1,08:24,11:36,Missed Shot,n/a,-38.0,15.0,Mike Green,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:24:19Z,1,08:36,11:24,Penalty,Hi stick - double minor,-65.0,-40.0,Patrik Nemeth,PenaltyOn,Detroit Red Wings,Aaron Ekblad,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:30:21Z,1,08:36,11:24,Faceoff,n/a,69.0,22.0,Darren Helm,Winner,Detroit Red Wings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:25:23Z,1,08:55,11:05,Shot,Backhand,82.0,-5.0,Jonathan Huberdeau,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:25:35Z,1,09:07,10:53,Missed Shot,n/a,61.0,24.0,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:26:25Z,1,09:58,10:02,Hit,n/a,97.0,19.0,Filip Hronek,Hitter,Detroit Red Wings,Aleksander Barkov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:26:27Z,1,09:59,10:01,Missed Shot,n/a,66.0,1.0,Evgenii Dadonov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:26:43Z,1,10:16,09:44,Shot,Wrist Shot,74.0,0.0,Evgenii Dadonov,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:27:13Z,1,10:45,09:15,Shot,Wrist Shot,79.0,15.0,Brett Connolly,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:27:15Z,1,10:47,09:13,Hit,n/a,99.0,6.0,Alex Biega,Hitter,Detroit Red Wings,Brett Connolly,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:27:52Z,1,11:24,08:36,Shot,Wrist Shot,36.0,-20.0,Vincent Trocheck,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:28:06Z,1,11:38,08:22,Blocked Shot,n/a,64.0,4.0,Alex Biega,Blocker,Detroit Red Wings,Aaron Ekblad,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:28:24Z,1,11:53,08:07,Missed Shot,n/a,64.0,10.0,Vincent Trocheck,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:28:34Z,1,12:06,07:54,Shot,Slap Shot,54.0,-28.0,Aleksander Barkov,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:28:58Z,1,12:06,07:54,Faceoff,n/a,69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:29:25Z,1,12:26,07:34,Shot,Slap Shot,80.0,-31.0,Evgenii Dadonov,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:29:39Z,1,12:37,07:23,Blocked Shot,n/a,75.0,3.0,Filip Hronek,Blocker,Detroit Red Wings,Evgenii Dadonov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:29:53Z,1,12:54,07:06,Shot,Wrist Shot,-74.0,1.0,Alex Biega,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:32:00Z,1,13:02,06:58,Faceoff,n/a,69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:32:35Z,1,13:13,06:47,Shot,Wrap-around,86.0,-6.0,Mark Pysyk,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:32:42Z,1,13:20,06:40,Shot,Wrist Shot,-75.0,-33.0,Justin Abdelkader,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:33:45Z,1,13:20,06:40,Faceoff,n/a,-69.0,-22.0,Adam Erne,Winner,Detroit Red Wings,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:33:51Z,1,13:27,06:33,Takeaway,n/a,-96.0,-6.0,Adam Erne,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:33:59Z,1,13:35,06:25,Hit,n/a,-78.0,39.0,Adam Erne,Hitter,Detroit Red Wings,Vincent Trocheck,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:34:14Z,1,13:42,06:18,Hit,n/a,-21.0,-41.0,Vincent Trocheck,Hitter,Florida Panthers,Valtteri Filppula,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:34:38Z,1,13:47,06:13,Penalty,Fighting,-33.0,-33.0,Vincent Trocheck,PenaltyOn,Florida Panthers,Filip Hronek,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:35:31Z,1,13:47,06:13,Penalty,Instigator,-36.0,-31.0,Filip Hronek,PenaltyOn,Detroit Red Wings,Vincent Trocheck,DrewBy,Detroit Red Wings,Robby Fabbri,ServedBy,Florida Panthers,n/a,n/a,n/a
+2020-01-19T00:35:31Z,1,13:47,06:13,Penalty,Fighting,-41.0,-32.0,Filip Hronek,PenaltyOn,Detroit Red Wings,Vincent Trocheck,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:35:31Z,1,13:47,06:13,Penalty,Instigator - Misconduct,-42.0,-32.0,Filip Hronek,PenaltyOn,Detroit Red Wings,Vincent Trocheck,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:36:42Z,1,13:47,06:13,Faceoff,n/a,69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:36:56Z,1,14:18,05:42,Hit,n/a,97.0,-9.0,Patrik Nemeth,Hitter,Detroit Red Wings,Aleksander Barkov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:37:11Z,1,14:33,05:27,Blocked Shot,n/a,74.0,6.0,Patrik Nemeth,Blocker,Detroit Red Wings,Evgenii Dadonov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:37:21Z,1,14:38,05:22,Shot,Wrist Shot,34.0,-23.0,Keith Yandle,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:37:45Z,1,14:38,05:22,Faceoff,n/a,69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:38:03Z,1,14:59,05:01,Missed Shot,n/a,51.0,-4.0,Aleksander Barkov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:38:45Z,1,15:40,04:20,Shot,Slap Shot,50.0,-7.0,Frank Vatrano,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:39:06Z,1,16:01,03:59,Hit,n/a,-77.0,20.0,Darren Helm,Hitter,Detroit Red Wings,Denis Malgin,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:39:06Z,1,16:02,03:58,Blocked Shot,n/a,-72.0,4.0,Aaron Ekblad,Blocker,Florida Panthers,Robby Fabbri,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:39:26Z,1,16:22,03:38,Shot,Wrist Shot,-82.0,-22.0,Dylan Larkin,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:39:44Z,1,16:40,03:20,Hit,n/a,95.0,23.0,Colton Sceviour,Hitter,Florida Panthers,Patrik Nemeth,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:40:16Z,1,17:10,02:50,Hit,n/a,-94.0,-28.0,Frans Nielsen,Hitter,Detroit Red Wings,Josh Brown,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:40:21Z,1,17:15,02:45,Goal,Wrist Shot,80.0,3.0,Evgenii Dadonov,Scorer,Florida Panthers,Jonathan Huberdeau,Assist,Florida Panthers,Josh Brown,Assist,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings
+2020-01-19T00:41:12Z,1,17:15,02:45,Faceoff,n/a,0.0,0.0,Christoffer Ehn,Winner,Detroit Red Wings,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:41:50Z,1,17:55,02:05,Blocked Shot,n/a,72.0,-13.0,Christoffer Ehn,Blocker,Detroit Red Wings,Brett Connolly,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:42:21Z,1,18:26,01:34,Missed Shot,n/a,73.0,6.0,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:42:29Z,1,18:34,01:26,Missed Shot,n/a,68.0,-10.0,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:43:57Z,1,18:38,01:22,Missed Shot,n/a,60.0,20.0,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:42:40Z,1,18:40,01:20,Goal,Backhand,78.0,4.0,Mark Pysyk,Scorer,Florida Panthers,Aaron Ekblad,Assist,Florida Panthers,Frank Vatrano,Assist,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings
+2020-01-19T00:43:57Z,1,18:40,01:20,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:44:01Z,1,19:17,00:43,Giveaway,n/a,-95.0,-7.0,Anton Stralman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:44:36Z,1,19:52,00:08,Shot,Wrist Shot,82.0,-27.0,Mike Hoffman,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:44:42Z,1,19:57,00:03,Shot,Wrist Shot,36.0,25.0,Aaron Ekblad,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T00:44:45Z,1,19:58,00:02,Giveaway,n/a,82.0,-36.0,Madison Bowey,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:03:18Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:04:07Z,2,00:52,19:08,Giveaway,n/a,-52.0,-16.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:04:14Z,2,00:55,19:05,Blocked Shot,n/a,-49.0,4.0,Dylan Larkin,Blocker,Detroit Red Wings,Aaron Ekblad,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:04:25Z,2,01:03,18:57,Faceoff,n/a,-69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:05:26Z,2,01:15,18:45,Blocked Shot,n/a,74.0,-10.0,Riley Stillman,Blocker,Florida Panthers,Tyler Bertuzzi,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:05:43Z,2,01:32,18:28,Takeaway,n/a,-59.0,-11.0,Darren Helm,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:05:49Z,2,01:38,18:22,Shot,Wrist Shot,50.0,5.0,Darren Helm,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:07:12Z,2,01:40,18:20,Giveaway,n/a,71.0,1.0,Darren Helm,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:06:01Z,2,01:50,18:10,Missed Shot,n/a,-56.0,-27.0,Vincent Trocheck,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:06:14Z,2,02:03,17:57,Blocked Shot,n/a,-72.0,10.0,Adam Erne,Blocker,Detroit Red Wings,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:06:26Z,2,02:14,17:46,Takeaway,n/a,78.0,-36.0,Dylan Larkin,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:06:59Z,2,02:16,17:44,Faceoff,n/a,69.0,-22.0,Brian Boyle,Winner,Florida Panthers,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:07:10Z,2,02:30,17:30,Blocked Shot,n/a,67.0,-8.0,Riley Stillman,Blocker,Florida Panthers,Madison Bowey,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:07:38Z,2,02:58,17:02,Hit,n/a,-77.0,38.0,Mark Pysyk,Hitter,Florida Panthers,Alex Biega,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:07:48Z,2,03:04,16:56,Shot,Wrist Shot,-75.0,14.0,Colton Sceviour,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:07:55Z,2,03:06,16:54,Penalty,Slashing,-78.0,-1.0,Dylan Larkin,PenaltyOn,Detroit Red Wings,Mark Pysyk,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:07:55Z,2,03:06,16:54,Shot,Backhand,-78.0,-2.0,Mark Pysyk,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:08:26Z,2,03:06,16:54,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:08:35Z,2,03:14,16:46,Missed Shot,n/a,-76.0,-4.0,Aleksander Barkov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:08:45Z,2,03:17,16:43,Shot,Wrist Shot,-73.0,29.0,Darren Helm,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:09:00Z,2,03:39,16:21,Blocked Shot,n/a,-77.0,4.0,Patrik Nemeth,Blocker,Detroit Red Wings,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:09:09Z,2,03:49,16:11,Blocked Shot,n/a,-79.0,10.0,Patrik Nemeth,Blocker,Detroit Red Wings,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:09:19Z,2,03:58,16:02,Missed Shot,n/a,-45.0,-31.0,Evgenii Dadonov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:09:38Z,2,04:18,15:42,Giveaway,n/a,-66.0,22.0,Trevor Daley,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:09:41Z,2,04:19,15:41,Takeaway,n/a,-9.0,0.0,Justin Abdelkader,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:09:44Z,2,04:23,15:37,Shot,Backhand,83.0,-9.0,Justin Abdelkader,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:09:54Z,2,04:33,15:27,Missed Shot,n/a,75.0,-32.0,Frans Nielsen,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:10:18Z,2,05:15,14:45,Goal,Wrist Shot,78.0,1.0,Dylan Larkin,Scorer,Detroit Red Wings,Darren Helm,Assist,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a
+2020-01-19T01:11:23Z,2,05:15,14:45,Faceoff,n/a,0.0,0.0,Christoffer Ehn,Winner,Detroit Red Wings,Denis Malgin,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:11:35Z,2,05:30,14:30,Hit,n/a,-68.0,-39.0,Colton Sceviour,Hitter,Florida Panthers,Madison Bowey,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:11:48Z,2,05:38,14:22,Shot,Wrist Shot,-38.0,21.0,Anton Stralman,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:12:02Z,2,05:50,14:10,Penalty,Interference,37.0,34.0,Denis Malgin,PenaltyOn,Florida Panthers,Christoffer Ehn,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:13:33Z,2,05:50,14:10,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:13:10Z,2,05:58,14:02,Shot,Slap Shot,37.0,-26.0,Robby Fabbri,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:13:16Z,2,05:59,14:01,Shot,Wrist Shot,78.0,1.0,Tyler Bertuzzi,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:13:28Z,2,05:59,14:01,Faceoff,n/a,69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Frank Vatrano,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:13:44Z,2,06:02,13:58,Shot,Wrist Shot,34.0,-22.0,Mike Green,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:14:11Z,2,06:02,13:58,Faceoff,n/a,69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:14:08Z,2,06:08,13:52,Missed Shot,n/a,36.0,23.0,Madison Bowey,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:14:14Z,2,06:14,13:46,Shot,Slap Shot,42.0,19.0,Madison Bowey,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:14:24Z,2,06:20,13:40,Faceoff,n/a,20.0,22.0,Robby Fabbri,Winner,Detroit Red Wings,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:15:22Z,2,06:53,13:07,Shot,Slap Shot,38.0,29.0,Madison Bowey,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:15:51Z,2,06:53,13:07,Faceoff,n/a,69.0,22.0,Frans Nielsen,Winner,Detroit Red Wings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:16:25Z,2,07:35,12:25,Blocked Shot,n/a,69.0,-6.0,Aleksander Barkov,Blocker,Florida Panthers,Trevor Daley,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:16:38Z,2,07:48,12:12,Blocked Shot,n/a,64.0,9.0,Mark Pysyk,Blocker,Florida Panthers,Filip Zadina,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:19:26Z,2,07:55,12:05,Faceoff,n/a,69.0,22.0,Vincent Trocheck,Winner,Florida Panthers,Christoffer Ehn,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:19:19Z,2,08:08,11:52,Penalty,Tripping,-91.0,-31.0,Brett Connolly,PenaltyOn,Florida Panthers,Madison Bowey,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:20:09Z,2,08:08,11:52,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:20:33Z,2,08:35,11:25,Shot,Wrist Shot,-73.0,15.0,Colton Sceviour,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:21:11Z,2,09:13,10:47,Giveaway,n/a,84.0,-27.0,Robby Fabbri,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:21:44Z,2,09:46,10:14,Blocked Shot,n/a,55.0,-1.0,Noel Acciari,Blocker,Florida Panthers,Trevor Daley,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:22:29Z,2,10:31,09:29,Missed Shot,n/a,52.0,16.0,Patrik Nemeth,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:22:33Z,2,10:34,09:26,Shot,Slap Shot,51.0,-30.0,Mike Green,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:24:44Z,2,10:34,09:26,Faceoff,n/a,69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:25:18Z,2,10:55,09:05,Blocked Shot,n/a,-60.0,16.0,Darren Helm,Blocker,Detroit Red Wings,Josh Brown,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:25:54Z,2,11:09,08:51,Faceoff,n/a,-20.0,22.0,Vincent Trocheck,Winner,Florida Panthers,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:26:18Z,2,11:31,08:29,Shot,Wrist Shot,-59.0,28.0,Christoffer Ehn,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:26:46Z,2,11:31,08:29,Faceoff,n/a,69.0,-22.0,Tyler Bertuzzi,Winner,Detroit Red Wings,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:27:02Z,2,11:37,08:23,Shot,Slap Shot,39.0,23.0,Trevor Daley,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:27:08Z,2,11:39,08:21,Missed Shot,n/a,72.0,-24.0,Dylan Larkin,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:27:21Z,2,11:54,08:06,Shot,Backhand,-78.0,-25.0,Vincent Trocheck,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:27:51Z,2,11:54,08:06,Faceoff,n/a,-69.0,-22.0,Denis Malgin,Winner,Florida Panthers,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:28:14Z,2,12:12,07:48,Takeaway,n/a,-85.0,29.0,Luke Glendening,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:29:19Z,2,12:34,07:26,Faceoff,n/a,0.0,0.0,Dylan Larkin,Winner,Detroit Red Wings,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:29:22Z,2,12:40,07:20,Faceoff,n/a,0.0,0.0,Brian Boyle,Winner,Florida Panthers,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:30:06Z,2,13:07,06:53,Missed Shot,n/a,-67.0,-24.0,Brian Boyle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:30:10Z,2,13:11,06:49,Missed Shot,n/a,-46.0,33.0,Aaron Ekblad,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:30:11Z,2,13:13,06:47,Hit,n/a,-58.0,-37.0,Adam Erne,Hitter,Detroit Red Wings,Brian Boyle,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:30:17Z,2,13:16,06:44,Shot,Slap Shot,-40.0,-28.0,Mike Matheson,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:30:36Z,2,13:16,06:44,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:30:59Z,2,13:27,06:33,Giveaway,n/a,-51.0,35.0,Evgenii Dadonov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:31:04Z,2,13:33,06:27,Shot,Backhand,-82.0,-9.0,Aleksander Barkov,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:31:12Z,2,13:33,06:27,Faceoff,n/a,-69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:31:51Z,2,13:57,06:03,Hit,n/a,-22.0,38.0,Mike Green,Hitter,Detroit Red Wings,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:34:35Z,2,14:22,05:38,Faceoff,n/a,-20.0,-22.0,Vincent Trocheck,Winner,Florida Panthers,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:35:01Z,2,14:52,05:08,Hit,n/a,-54.0,-38.0,Filip Hronek,Hitter,Detroit Red Wings,Noel Acciari,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:35:08Z,2,14:58,05:02,Blocked Shot,n/a,-76.0,-9.0,Tyler Bertuzzi,Blocker,Detroit Red Wings,Brett Connolly,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:35:30Z,2,15:20,04:40,Missed Shot,n/a,37.0,-23.0,Alex Biega,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:35:57Z,2,15:26,04:34,Shot,Wrist Shot,81.0,4.0,Madison Bowey,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:36:07Z,2,15:27,04:33,Shot,Wrist Shot,82.0,2.0,Madison Bowey,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:53:21Z,2,15:27,04:33,Faceoff,n/a,69.0,22.0,Justin Abdelkader,Winner,Detroit Red Wings,Colton Sceviour,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:36:34Z,2,15:33,04:27,Shot,Tip-In,73.0,7.0,Justin Abdelkader,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:37:24Z,2,16:22,03:38,Hit,n/a,-24.0,-39.0,Christoffer Ehn,Hitter,Detroit Red Wings,Mike Matheson,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:37:40Z,2,16:39,03:21,Shot,Wrist Shot,60.0,-1.0,Robby Fabbri,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:38:10Z,2,16:40,03:20,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:38:19Z,2,16:43,03:17,Missed Shot,n/a,41.0,23.0,Mike Green,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:38:46Z,2,17:10,02:50,Blocked Shot,n/a,-62.0,12.0,Robby Fabbri,Blocker,Detroit Red Wings,Anton Stralman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:39:01Z,2,17:25,02:35,Shot,Slap Shot,-49.0,-29.0,Riley Stillman,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:40:07Z,2,17:56,02:04,Faceoff,n/a,69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Denis Malgin,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:40:18Z,2,18:16,01:44,Shot,Slap Shot,-76.0,-17.0,Mike Hoffman,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:40:47Z,2,18:18,01:42,Shot,Wrist Shot,-75.0,0.0,Denis Malgin,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:40:59Z,2,18:18,01:42,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T01:42:46Z,2,19:49,00:11,Hit,n/a,43.0,38.0,Anton Stralman,Hitter,Florida Panthers,Luke Glendening,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:01:32Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Dylan Larkin,Winner,Detroit Red Wings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:01:39Z,3,00:11,19:49,Hit,n/a,-43.0,-40.0,Evgenii Dadonov,Hitter,Florida Panthers,Patrik Nemeth,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:02:39Z,3,01:12,18:48,Giveaway,n/a,46.0,6.0,Noel Acciari,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:02:50Z,3,01:22,18:38,Hit,n/a,83.0,36.0,Filip Hronek,Hitter,Detroit Red Wings,Vincent Trocheck,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:03:07Z,3,01:35,18:25,Penalty,Interference,-37.0,32.0,Vincent Trocheck,PenaltyOn,Florida Panthers,Filip Hronek,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:04:03Z,3,01:35,18:25,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:04:27Z,3,01:57,18:03,Blocked Shot,n/a,-71.0,12.0,Riley Stillman,Blocker,Florida Panthers,Robby Fabbri,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:05:13Z,3,02:44,17:16,Shot,Wrist Shot,-72.0,20.0,Robby Fabbri,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:05:50Z,3,03:20,16:40,Blocked Shot,n/a,-63.0,-17.0,Anton Stralman,Blocker,Florida Panthers,Filip Hronek,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:06:02Z,3,03:32,16:28,Blocked Shot,n/a,-67.0,7.0,Riley Stillman,Blocker,Florida Panthers,Filip Zadina,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:06:36Z,3,04:04,15:56,Blocked Shot,n/a,-44.0,-13.0,Josh Brown,Blocker,Florida Panthers,Christoffer Ehn,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:07:16Z,3,04:04,15:56,Faceoff,n/a,-69.0,-22.0,Justin Abdelkader,Winner,Detroit Red Wings,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:08:06Z,3,04:26,15:34,Hit,n/a,98.0,-8.0,Mike Hoffman,Hitter,Florida Panthers,Madison Bowey,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:08:35Z,3,04:55,15:05,Giveaway,n/a,41.0,-24.0,Givani Smith,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:09:16Z,3,05:37,14:23,Giveaway,n/a,-97.0,11.0,Mike Matheson,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:09:22Z,3,05:42,14:18,Blocked Shot,n/a,-68.0,10.0,Mike Matheson,Blocker,Florida Panthers,Tyler Bertuzzi,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:12:19Z,3,06:03,13:57,Faceoff,n/a,0.0,0.0,Dylan Larkin,Winner,Detroit Red Wings,Denis Malgin,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:12:54Z,3,06:22,13:38,Hit,n/a,95.0,-22.0,Robby Fabbri,Hitter,Detroit Red Wings,Denis Malgin,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:12:59Z,3,06:28,13:32,Shot,Slap Shot,38.0,-15.0,Anton Stralman,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:13:15Z,3,06:29,13:31,Penalty,Hi-sticking,89.0,-12.0,Denis Malgin,PenaltyOn,Florida Panthers,Robby Fabbri,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:13:50Z,3,06:29,13:31,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Colton Sceviour,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:14:12Z,3,06:50,13:10,Shot,Wrist Shot,49.0,-27.0,Colton Sceviour,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:14:23Z,3,06:50,13:10,Penalty,Tripping,-39.0,-18.0,Dylan Larkin,PenaltyOn,Detroit Red Wings,Noel Acciari,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:14:45Z,3,06:50,13:10,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:15:20Z,3,07:24,12:36,Shot,Slap Shot,41.0,25.0,Aaron Ekblad,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:15:41Z,3,07:25,12:35,Faceoff,n/a,69.0,22.0,Vincent Trocheck,Winner,Florida Panthers,Tyler Bertuzzi,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:16:06Z,3,07:27,12:33,Shot,Wrist Shot,57.0,9.0,Frank Vatrano,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:16:24Z,3,07:27,12:33,Faceoff,n/a,69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:17:34Z,3,07:57,12:03,Faceoff,n/a,20.0,22.0,Colton Sceviour,Winner,Florida Panthers,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:18:00Z,3,08:14,11:46,Shot,Wrist Shot,-75.0,2.0,Frans Nielsen,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:18:05Z,3,08:15,11:45,Shot,Wrist Shot,-82.0,5.0,Frans Nielsen,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:18:32Z,3,08:15,11:45,Faceoff,n/a,-69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:18:39Z,3,08:25,11:35,Shot,Wrist Shot,69.0,0.0,Aleksander Barkov,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:18:43Z,3,08:27,11:33,Shot,Wrist Shot,81.0,2.0,Aleksander Barkov,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:18:52Z,3,08:37,11:23,Shot,Wrist Shot,60.0,12.0,Luke Glendening,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:19:58Z,3,09:15,10:45,Faceoff,n/a,69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:20:55Z,3,09:33,10:27,Faceoff,n/a,20.0,-22.0,Justin Abdelkader,Winner,Detroit Red Wings,Denis Malgin,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:21:06Z,3,09:46,10:14,Shot,Slap Shot,41.0,21.0,Riley Stillman,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:21:21Z,3,10:02,09:58,Missed Shot,n/a,62.0,-12.0,Anton Stralman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:21:33Z,3,10:13,09:47,Hit,n/a,-96.0,-9.0,Riley Stillman,Hitter,Florida Panthers,Justin Abdelkader,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:22:08Z,3,10:48,09:12,Blocked Shot,n/a,-56.0,13.0,Mark Pysyk,Blocker,Florida Panthers,Mike Green,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:24:10Z,3,10:52,09:08,Faceoff,n/a,-20.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:24:21Z,3,11:02,08:58,Hit,n/a,-87.0,-33.0,Aleksander Barkov,Hitter,Florida Panthers,Tyler Bertuzzi,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:24:30Z,3,11:11,08:49,Hit,n/a,-84.0,-37.0,Dylan Larkin,Hitter,Detroit Red Wings,Aleksander Barkov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:24:50Z,3,11:18,08:42,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:25:05Z,3,11:24,08:36,Blocked Shot,n/a,-73.0,6.0,Riley Stillman,Blocker,Florida Panthers,Mike Green,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:25:41Z,3,12:01,07:59,Hit,n/a,89.0,-28.0,Noel Acciari,Hitter,Florida Panthers,Filip Hronek,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:25:50Z,3,12:10,07:50,Blocked Shot,n/a,-48.0,-25.0,Aaron Ekblad,Blocker,Florida Panthers,Filip Hronek,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:25:57Z,3,12:15,07:45,Hit,n/a,7.0,-40.0,Darren Helm,Hitter,Detroit Red Wings,Mike Matheson,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:26:23Z,3,12:43,07:17,Hit,n/a,91.0,-26.0,Frank Vatrano,Hitter,Florida Panthers,Madison Bowey,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:26:40Z,3,12:50,07:10,Penalty,Slashing,32.0,40.0,Alex Biega,PenaltyOn,Detroit Red Wings,Frank Vatrano,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:29:55Z,3,12:50,07:10,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:30:02Z,3,13:05,06:55,Goal,Tip-In,82.0,-4.0,Aleksander Barkov,Scorer,Florida Panthers,Keith Yandle,Assist,Florida Panthers,Jonathan Huberdeau,Assist,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings
+2020-01-19T02:30:47Z,3,13:05,06:55,Faceoff,n/a,0.0,0.0,Brian Boyle,Winner,Florida Panthers,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:31:10Z,3,13:25,06:35,Blocked Shot,n/a,-71.0,2.0,Colton Sceviour,Blocker,Florida Panthers,Mike Green,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:31:18Z,3,13:32,06:28,Hit,n/a,93.0,27.0,Brian Boyle,Hitter,Florida Panthers,Mike Green,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:31:31Z,3,13:45,06:15,Shot,Wrist Shot,68.0,-12.0,Mark Pysyk,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:32:24Z,3,13:45,06:15,Penalty,Unsportsmanlike conduct,-9.0,41.0,Colton Sceviour,PenaltyOn,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:32:52Z,3,13:45,06:15,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:33:35Z,3,14:03,05:57,Faceoff,n/a,-20.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:34:06Z,3,14:29,05:31,Missed Shot,n/a,-52.0,-30.0,Filip Hronek,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:34:33Z,3,14:30,05:30,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Robby Fabbri,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:35:17Z,3,15:11,04:49,Shot,Slap Shot,-80.0,25.0,Robby Fabbri,Shooter,Detroit Red Wings,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:38:27Z,3,16:17,03:43,Faceoff,n/a,-20.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:39:22Z,3,16:39,03:21,Faceoff,n/a,69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:39:35Z,3,16:49,03:11,Blocked Shot,n/a,85.0,-18.0,Madison Bowey,Blocker,Detroit Red Wings,Vincent Trocheck,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:39:42Z,3,16:56,03:04,Takeaway,n/a,39.0,37.0,Vincent Trocheck,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:39:55Z,3,17:09,02:51,Shot,Wrist Shot,74.0,-4.0,Vincent Trocheck,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:40:04Z,3,17:18,02:42,Shot,Wrist Shot,79.0,-15.0,Brett Connolly,Shooter,Florida Panthers,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:40:11Z,3,17:25,02:35,Blocked Shot,n/a,75.0,2.0,Madison Bowey,Blocker,Detroit Red Wings,Noel Acciari,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:40:13Z,3,17:27,02:33,Hit,n/a,43.0,39.0,Adam Erne,Hitter,Detroit Red Wings,Vincent Trocheck,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:41:00Z,3,18:12,01:48,Goal,Wrist Shot,76.0,-4.0,Denis Malgin,Scorer,Florida Panthers,Frank Vatrano,Assist,Florida Panthers,Mike Hoffman,Assist,Detroit Red Wings,n/a,n/a,n/a
+2020-01-19T02:41:40Z,3,18:12,01:48,Faceoff,n/a,0.0,0.0,Brian Boyle,Winner,Florida Panthers,Justin Abdelkader,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:42:05Z,3,18:36,01:24,Giveaway,n/a,94.0,8.0,Madison Bowey,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-19T02:43:27Z,3,19:56,00:04,Hit,n/a,-22.0,-40.0,Robby Fabbri,Hitter,Detroit Red Wings,Mike Hoffman,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a

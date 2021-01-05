@@ -1,0 +1,275 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-17T00:37:58Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Paul Stastny,Winner,Vegas Golden Knights,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:38:13Z,1,00:08,19:52,Hit,n/a,-32.0,37.0,Brady Tkachuk,Hitter,Ottawa Senators,Nate Schmidt,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:38:30Z,1,00:25,19:35,Missed Shot,n/a,-33.0,-26.0,Brayden McNabb,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:38:40Z,1,00:34,19:26,Goal,Wrist Shot,-66.0,6.0,Paul Stastny,Scorer,Vegas Golden Knights,Mark Stone,Assist,Vegas Golden Knights,Nate Schmidt,Assist,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators
+2020-01-17T00:39:22Z,1,00:34,19:26,Faceoff,n/a,0.0,0.0,Chandler Stephenson,Winner,Vegas Golden Knights,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:39:49Z,1,00:47,19:13,Shot,Wrist Shot,-86.0,23.0,Reilly Smith,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:40:16Z,1,01:13,18:47,Giveaway,n/a,-43.0,37.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:40:17Z,1,01:15,18:45,Shot,Wrist Shot,-65.0,22.0,Shea Theodore,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:40:50Z,1,01:36,18:24,Faceoff,n/a,69.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:41:05Z,1,01:42,18:18,Hit,n/a,-7.0,39.0,Dylan DeMelo,Hitter,Ottawa Senators,Tomas Nosek,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:41:23Z,1,01:48,18:12,Faceoff,n/a,-69.0,22.0,Ryan Reaves,Winner,Vegas Golden Knights,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:42:09Z,1,02:06,17:54,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:42:43Z,1,02:29,17:31,Hit,n/a,92.0,-26.0,Filip Chlapik,Hitter,Ottawa Senators,Shea Theodore,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:43:07Z,1,02:52,17:08,Shot,Wrist Shot,-57.0,-9.0,Max Pacioretty,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:43:49Z,1,03:35,16:25,Missed Shot,n/a,-80.0,-5.0,Reilly Smith,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:44:19Z,1,03:39,16:21,Faceoff,n/a,20.0,22.0,Filip Chlapik,Winner,Ottawa Senators,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:44:26Z,1,03:50,16:10,Takeaway,n/a,88.0,-32.0,Scott Sabourin,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:44:39Z,1,04:02,15:58,Hit,n/a,46.0,-37.0,Filip Chlapik,Hitter,Ottawa Senators,Tomas Nosek,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:46:02Z,1,05:26,14:34,Shot,Snap Shot,59.0,26.0,Anthony Duclair,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:46:14Z,1,05:37,14:23,Hit,n/a,96.0,-23.0,Anthony Duclair,Hitter,Ottawa Senators,Brayden McNabb,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:46:32Z,1,05:56,14:04,Takeaway,n/a,-66.0,0.0,Vladislav Namestnikov,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:46:38Z,1,06:01,13:59,Blocked Shot,n/a,73.0,-9.0,Nicolas Hague,Blocker,Vegas Golden Knights,Connor Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:46:43Z,1,06:07,13:53,Hit,n/a,26.0,-37.0,Nicolas Hague,Hitter,Vegas Golden Knights,Brady Tkachuk,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:46:51Z,1,06:15,13:45,Hit,n/a,-91.0,-25.0,Dylan DeMelo,Hitter,Ottawa Senators,Reilly Smith,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:47:06Z,1,06:27,13:33,Shot,Slap Shot,-55.0,-14.0,Nick Holden,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:47:40Z,1,06:28,13:32,Penalty,Hooking,-49.0,-19.0,Connor Brown,PenaltyOn,Ottawa Senators,Jonathan Marchessault,DrewBy,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:49:19Z,1,06:28,13:32,Faceoff,n/a,-69.0,-22.0,Chandler Stephenson,Winner,Vegas Golden Knights,Vladislav Namestnikov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:49:46Z,1,06:34,13:26,Missed Shot,n/a,-83.0,-10.0,Chandler Stephenson,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:50:37Z,1,07:26,12:34,Blocked Shot,n/a,-78.0,-10.0,Nikita Zaitsev,Blocker,Ottawa Senators,Jonathan Marchessault,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:50:46Z,1,07:28,12:32,Shot,Snap Shot,-66.0,15.0,Nicolas Hague,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:50:45Z,1,07:29,12:31,Giveaway,n/a,-59.0,-11.0,Artem Anisimov,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:51:09Z,1,07:55,12:05,Shot,Wrist Shot,-31.0,16.0,Nicolas Hague,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:51:42Z,1,08:31,11:29,Shot,Wrist Shot,-37.0,0.0,Max Pacioretty,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:52:07Z,1,08:32,11:28,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:52:12Z,1,08:34,11:26,Shot,Slap Shot,-31.0,-4.0,Nate Schmidt,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:52:23Z,1,08:35,11:25,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:52:32Z,1,08:41,11:19,Missed Shot,n/a,-51.0,-13.0,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:53:14Z,1,09:25,10:35,Hit,n/a,24.0,-38.0,Filip Chlapik,Hitter,Ottawa Senators,Nick Holden,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:53:20Z,1,09:31,10:29,Takeaway,n/a,-54.0,-4.0,Rudolfs Balcers,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:53:36Z,1,09:47,10:13,Takeaway,n/a,-91.0,-13.0,Alex Tuch,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:53:59Z,1,10:10,09:50,Giveaway,n/a,-76.0,17.0,Colin White,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:54:04Z,1,10:15,09:45,Hit,n/a,-74.0,-38.0,Drake Batherson,Hitter,Ottawa Senators,Nicolas Hague,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:54:17Z,1,10:17,09:43,Shot,Slap Shot,-32.0,-23.0,Ryan Reaves,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:55:58Z,1,10:18,09:42,Faceoff,n/a,-69.0,-22.0,Nicolas Roy,Winner,Vegas Golden Knights,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:56:20Z,1,10:21,09:39,Shot,Wrist Shot,-35.0,20.0,Nicolas Hague,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:56:44Z,1,10:46,09:14,Shot,Wrist Shot,39.0,6.0,Mike Reilly,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:56:52Z,1,10:54,09:06,Shot,Slap Shot,42.0,-18.0,Anthony Duclair,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:57:15Z,1,10:55,09:05,Faceoff,n/a,69.0,-22.0,Chandler Stephenson,Winner,Vegas Golden Knights,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:57:31Z,1,11:08,08:52,Shot,Wrist Shot,-75.0,2.0,Reilly Smith,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:57:58Z,1,11:09,08:51,Faceoff,n/a,-69.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Chandler Stephenson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:59:19Z,1,11:20,08:40,Shot,Slap Shot,-32.0,-25.0,Brayden McNabb,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:59:26Z,1,11:27,08:33,Shot,Slap Shot,43.0,-32.0,Connor Brown,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:59:46Z,1,11:44,08:16,Blocked Shot,n/a,-49.0,-13.0,Connor Brown,Blocker,Ottawa Senators,Nick Holden,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:00:00Z,1,11:51,08:09,Faceoff,n/a,-69.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:00:22Z,1,12:02,07:58,Missed Shot,n/a,-36.0,29.0,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:00:28Z,1,12:07,07:53,Blocked Shot,n/a,-78.0,-4.0,Ron Hainsey,Blocker,Ottawa Senators,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:01:02Z,1,12:41,07:19,Takeaway,n/a,55.0,36.0,Scott Sabourin,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:01:07Z,1,12:46,07:14,Missed Shot,n/a,53.0,-7.0,Filip Chlapik,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:01:09Z,1,12:48,07:12,Hit,n/a,67.0,-38.0,Shea Theodore,Hitter,Vegas Golden Knights,Filip Chlapik,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:01:25Z,1,13:04,06:56,Hit,n/a,-59.0,35.0,Alex Tuch,Hitter,Vegas Golden Knights,Mark Borowiecki,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:01:31Z,1,13:10,06:50,Blocked Shot,n/a,-63.0,-2.0,Filip Chlapik,Blocker,Ottawa Senators,Nicolas Hague,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:01:43Z,1,13:22,06:38,Blocked Shot,n/a,-78.0,-8.0,Nikita Zaitsev,Blocker,Ottawa Senators,Nicolas Hague,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:02:05Z,1,13:44,06:16,Hit,n/a,-91.0,21.0,William Carrier,Hitter,Vegas Golden Knights,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:02:14Z,1,13:53,06:07,Blocked Shot,n/a,-48.0,6.0,Colin White,Blocker,Ottawa Senators,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:02:19Z,1,13:58,06:02,Hit,n/a,-77.0,36.0,Nicolas Roy,Hitter,Vegas Golden Knights,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:02:27Z,1,14:05,05:55,Shot,Wrist Shot,83.0,-10.0,Drake Batherson,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:02:33Z,1,14:12,05:48,Giveaway,n/a,52.0,-33.0,Nick Holden,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:02:54Z,1,14:33,05:27,Shot,Slap Shot,38.0,33.0,Vladislav Namestnikov,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:03:11Z,1,14:39,05:21,Blocked Shot,n/a,51.0,27.0,Ryan Reaves,Blocker,Vegas Golden Knights,Colin White,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:05:11Z,1,14:41,05:19,Faceoff,n/a,69.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Chandler Stephenson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:05:47Z,1,14:58,05:02,Shot,Slap Shot,-36.0,0.0,Nate Schmidt,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:06:11Z,1,14:59,05:01,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Vladislav Namestnikov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:06:32Z,1,15:05,04:55,Blocked Shot,n/a,-74.0,-4.0,Vladislav Namestnikov,Blocker,Ottawa Senators,Brayden McNabb,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:06:37Z,1,15:10,04:50,Hit,n/a,22.0,38.0,Brayden McNabb,Hitter,Vegas Golden Knights,Anthony Duclair,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:06:46Z,1,15:10,04:50,Faceoff,n/a,20.0,22.0,Chris Tierney,Winner,Ottawa Senators,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:07:22Z,1,15:37,04:23,Giveaway,n/a,-11.0,37.0,Vladislav Namestnikov,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:07:32Z,1,15:44,04:16,Hit,n/a,-1.0,-38.0,Scott Sabourin,Hitter,Ottawa Senators,Max Pacioretty,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:07:39Z,1,15:54,04:06,Hit,n/a,-3.0,40.0,Rudolfs Balcers,Hitter,Ottawa Senators,Deryk Engelland,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:07:45Z,1,16:00,04:00,Hit,n/a,77.0,40.0,Deryk Engelland,Hitter,Vegas Golden Knights,Scott Sabourin,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:07:51Z,1,16:06,03:54,Hit,n/a,47.0,39.0,Rudolfs Balcers,Hitter,Ottawa Senators,Cody Eakin,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:08:09Z,1,16:24,03:36,Shot,Wrist Shot,-40.0,25.0,Deryk Engelland,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:08:34Z,1,16:24,03:36,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:08:48Z,1,16:31,03:29,Shot,Wrist Shot,-34.0,-26.0,Nick Holden,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:09:46Z,1,17:25,02:35,Blocked Shot,n/a,53.0,-19.0,Brayden McNabb,Blocker,Vegas Golden Knights,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:10:04Z,1,17:27,02:33,Faceoff,n/a,69.0,-22.0,Chandler Stephenson,Winner,Vegas Golden Knights,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:10:19Z,1,17:35,02:25,Hit,n/a,44.0,39.0,Brady Tkachuk,Hitter,Ottawa Senators,Reilly Smith,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:10:33Z,1,17:48,02:12,Shot,Wrist Shot,52.0,30.0,Brady Tkachuk,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:10:38Z,1,17:53,02:07,Shot,Wrist Shot,56.0,-24.0,Nikita Zaitsev,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:10:49Z,1,18:04,01:56,Blocked Shot,n/a,-74.0,0.0,Mark Borowiecki,Blocker,Ottawa Senators,Nicolas Hague,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:10:51Z,1,18:06,01:54,Hit,n/a,-15.0,39.0,Brady Tkachuk,Hitter,Ottawa Senators,Mark Stone,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:11:29Z,1,18:16,01:44,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Mark Stone,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:11:59Z,1,18:26,01:34,Shot,Wrist Shot,54.0,41.0,Chris Tierney,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:12:34Z,1,19:01,00:59,Giveaway,n/a,3.0,-32.0,Alex Tuch,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:12:46Z,1,19:13,00:47,Shot,Wrist Shot,-54.0,-16.0,Alex Tuch,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:13:00Z,1,19:25,00:35,Giveaway,n/a,55.0,-40.0,Marc-Andre Fleury,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:12:59Z,1,19:26,00:34,Shot,Deflected,82.0,-10.0,Tyler Ennis,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:13:50Z,1,19:56,00:04,Faceoff,n/a,-69.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,Connor Brown,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:32:31Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Paul Stastny,Winner,Vegas Golden Knights,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:32:52Z,2,00:17,19:43,Takeaway,n/a,-98.0,3.0,Artem Anisimov,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:32:58Z,2,00:23,19:37,Shot,Backhand,-69.0,8.0,Brady Tkachuk,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:33:15Z,2,00:39,19:21,Shot,Wrist Shot,84.0,-6.0,Paul Stastny,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:33:28Z,2,00:53,19:07,Missed Shot,n/a,65.0,0.0,Paul Stastny,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:33:57Z,2,01:21,18:39,Shot,Wrist Shot,67.0,-30.0,Reilly Smith,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:34:17Z,2,01:22,18:38,Faceoff,n/a,69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Chandler Stephenson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:34:40Z,2,01:30,18:30,Faceoff,n/a,-20.0,22.0,Chris Tierney,Winner,Ottawa Senators,Chandler Stephenson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:35:17Z,2,01:55,18:05,Giveaway,n/a,92.0,27.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:35:23Z,2,02:00,18:00,Blocked Shot,n/a,40.0,31.0,Anthony Duclair,Blocker,Ottawa Senators,Brayden McNabb,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:35:34Z,2,02:11,17:49,Giveaway,n/a,-36.0,36.0,Reilly Smith,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:35:46Z,2,02:24,17:36,Shot,Wrist Shot,56.0,-3.0,Deryk Engelland,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:36:08Z,2,02:26,17:34,Faceoff,n/a,69.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:36:47Z,2,03:01,16:59,Hit,n/a,31.0,39.0,Dylan DeMelo,Hitter,Ottawa Senators,Cody Eakin,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:37:45Z,2,03:43,16:17,Penalty,Tripping,92.0,10.0,Tomas Nosek,PenaltyOn,Vegas Golden Knights,Tyler Ennis,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:38:18Z,2,03:43,16:17,Faceoff,n/a,-69.0,-22.0,Brady Tkachuk,Winner,Ottawa Senators,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:38:17Z,2,03:51,16:09,Missed Shot,n/a,-47.0,-34.0,Drake Batherson,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:38:52Z,2,04:27,15:33,Giveaway,n/a,-43.0,-38.0,Brady Tkachuk,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:39:17Z,2,04:52,15:08,Missed Shot,n/a,-81.0,2.0,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:39:23Z,2,04:55,15:05,Blocked Shot,n/a,-77.0,-8.0,Mark Stone,Blocker,Vegas Golden Knights,Connor Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:39:38Z,2,05:05,14:55,Giveaway,n/a,-44.0,34.0,Vladislav Namestnikov,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:40:25Z,2,05:59,14:01,Shot,Backhand,-83.0,9.0,Filip Chlapik,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:40:36Z,2,06:10,13:50,Takeaway,n/a,53.0,-39.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:40:54Z,2,06:29,13:31,Shot,Wrist Shot,47.0,-26.0,Nicolas Hague,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:41:02Z,2,06:37,13:23,Hit,n/a,94.0,11.0,Thomas Chabot,Hitter,Ottawa Senators,Reilly Smith,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:41:36Z,2,07:10,12:50,Shot,Backhand,75.0,-14.0,Max Pacioretty,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:41:56Z,2,07:28,12:32,Blocked Shot,n/a,67.0,0.0,Mark Borowiecki,Blocker,Ottawa Senators,Nick Holden,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:43:48Z,2,07:29,12:31,Faceoff,n/a,69.0,22.0,Cody Eakin,Winner,Vegas Golden Knights,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:44:21Z,2,07:39,12:21,Shot,Wrist Shot,-72.0,18.0,Anthony Duclair,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:45:13Z,2,08:08,11:52,Faceoff,n/a,20.0,22.0,Nicolas Roy,Winner,Vegas Golden Knights,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:45:25Z,2,08:18,11:42,Hit,n/a,93.0,10.0,William Carrier,Hitter,Vegas Golden Knights,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:45:25Z,2,08:24,11:36,Hit,n/a,67.0,40.0,William Carrier,Hitter,Vegas Golden Knights,Drake Batherson,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:45:52Z,2,08:45,11:15,Missed Shot,n/a,79.0,1.0,Nicolas Roy,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:46:23Z,2,08:55,11:05,Faceoff,n/a,69.0,22.0,Chandler Stephenson,Winner,Vegas Golden Knights,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:46:30Z,2,09:01,10:59,Blocked Shot,n/a,50.0,0.0,Tyler Ennis,Blocker,Ottawa Senators,Deryk Engelland,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:46:34Z,2,09:06,10:54,Shot,Wrist Shot,82.0,-13.0,Deryk Engelland,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:46:42Z,2,09:13,10:47,Blocked Shot,n/a,66.0,1.0,Dylan DeMelo,Blocker,Ottawa Senators,Jonathan Marchessault,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:46:43Z,2,09:14,10:46,Hit,n/a,88.0,30.0,Dylan DeMelo,Hitter,Ottawa Senators,Jonathan Marchessault,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:46:58Z,2,09:29,10:31,Shot,Wrist Shot,79.0,-29.0,Jonathan Marchessault,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:47:04Z,2,09:35,10:25,Blocked Shot,n/a,53.0,22.0,Drake Batherson,Blocker,Ottawa Senators,Nicolas Hague,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:47:40Z,2,10:11,09:49,Shot,Wrist Shot,-31.0,-32.0,Thomas Chabot,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:49:52Z,2,10:12,09:48,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:50:25Z,2,10:38,09:22,Hit,n/a,-97.0,-9.0,Paul Stastny,Hitter,Vegas Golden Knights,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:50:34Z,2,10:46,09:14,Blocked Shot,n/a,-58.0,1.0,Max Pacioretty,Blocker,Vegas Golden Knights,Ron Hainsey,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:50:52Z,2,10:47,09:13,Faceoff,n/a,-69.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:51:28Z,2,10:56,09:04,Giveaway,n/a,-21.0,12.0,Tomas Nosek,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:51:52Z,2,11:27,08:33,Hit,n/a,91.0,-33.0,Tomas Nosek,Hitter,Vegas Golden Knights,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:51:58Z,2,11:34,08:26,Shot,Wrist Shot,39.0,32.0,Tomas Nosek,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:52:19Z,2,11:35,08:25,Faceoff,n/a,69.0,22.0,Colin White,Winner,Ottawa Senators,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:53:00Z,2,12:04,07:56,Shot,Snap Shot,-58.0,17.0,Drake Batherson,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:53:17Z,2,12:21,07:39,Missed Shot,n/a,69.0,18.0,William Carrier,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:53:33Z,2,12:37,07:23,Hit,n/a,50.0,-37.0,Filip Chlapik,Hitter,Ottawa Senators,Chandler Stephenson,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:53:41Z,2,12:43,07:17,Shot,Slap Shot,36.0,15.0,Jonathan Marchessault,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:53:58Z,2,13:01,06:59,Shot,Tip-In,60.0,2.0,Chandler Stephenson,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:54:34Z,2,13:38,06:22,Giveaway,n/a,-96.0,-8.0,Nick Holden,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:54:36Z,2,13:40,06:20,Shot,Snap Shot,-60.0,-18.0,Vladislav Namestnikov,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:54:44Z,2,13:48,06:12,Hit,n/a,-54.0,-37.0,Chandler Stephenson,Hitter,Vegas Golden Knights,Vladislav Namestnikov,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:54:49Z,2,13:50,06:10,Shot,Wrist Shot,-78.0,-17.0,Connor Brown,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:55:20Z,2,14:22,05:38,Hit,n/a,95.0,-15.0,Paul Stastny,Hitter,Vegas Golden Knights,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:57:20Z,2,14:27,05:33,Faceoff,n/a,-20.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:58:00Z,2,14:48,05:12,Shot,Snap Shot,59.0,17.0,Mark Stone,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:58:13Z,2,14:59,05:01,Blocked Shot,n/a,55.0,10.0,Artem Anisimov,Blocker,Ottawa Senators,Mark Stone,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:58:20Z,2,15:01,04:59,Missed Shot,n/a,57.0,-16.0,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:58:33Z,2,15:21,04:39,Hit,n/a,99.0,-9.0,Mark Borowiecki,Hitter,Ottawa Senators,Paul Stastny,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:58:51Z,2,15:28,04:32,Hit,n/a,-55.0,5.0,Max Pacioretty,Hitter,Vegas Golden Knights,Artem Anisimov,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:58:53Z,2,15:37,04:23,Shot,Wrist Shot,-61.0,39.0,Dylan DeMelo,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:59:11Z,2,15:38,04:22,Faceoff,n/a,-69.0,22.0,Cody Eakin,Winner,Vegas Golden Knights,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:59:33Z,2,15:53,04:07,Shot,Snap Shot,39.0,19.0,Nick Holden,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:00:02Z,2,15:54,04:06,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:00:41Z,2,16:24,03:36,Shot,Wrap-around,86.0,10.0,Deryk Engelland,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:00:53Z,2,16:38,03:22,Shot,Snap Shot,59.0,3.0,Nicolas Roy,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:01:06Z,2,16:51,03:09,Shot,Deflected,79.0,0.0,Nick Holden,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:01:31Z,2,17:10,02:50,Hit,n/a,-82.0,37.0,Shea Theodore,Hitter,Vegas Golden Knights,Tyler Ennis,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:02:08Z,2,17:53,02:07,Shot,Wrist Shot,57.0,-9.0,Jonathan Marchessault,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:02:13Z,2,17:58,02:02,Giveaway,n/a,61.0,-7.0,Nate Schmidt,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:02:25Z,2,18:10,01:50,Missed Shot,n/a,-85.0,8.0,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:02:35Z,2,18:20,01:40,Hit,n/a,-96.0,16.0,Brayden McNabb,Hitter,Vegas Golden Knights,Rudolfs Balcers,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:02:43Z,2,18:28,01:32,Missed Shot,n/a,-36.0,-15.0,Filip Chlapik,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:03:03Z,2,18:48,01:12,Hit,n/a,31.0,-32.0,Scott Sabourin,Hitter,Ottawa Senators,Deryk Engelland,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:03:10Z,2,18:51,01:09,Shot,Tip-In,81.0,-13.0,Max Pacioretty,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:03:27Z,2,18:55,01:05,Goal,Wrap-around,85.0,7.0,Mark Stone,Scorer,Vegas Golden Knights,Max Pacioretty,Assist,Vegas Golden Knights,Paul Stastny,Assist,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators
+2020-01-17T02:03:51Z,2,18:55,01:05,Faceoff,n/a,0.0,0.0,Cody Eakin,Winner,Vegas Golden Knights,Connor Brown,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:04:12Z,2,19:16,00:44,Shot,Wrist Shot,-54.0,-22.0,Thomas Chabot,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:04:25Z,2,19:28,00:32,Shot,Wrist Shot,63.0,3.0,Tomas Nosek,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:04:57Z,2,20:00,00:00,Hit,n/a,97.0,5.0,William Carrier,Hitter,Vegas Golden Knights,Mark Borowiecki,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:23:23Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Paul Stastny,Winner,Vegas Golden Knights,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:23:54Z,3,00:27,19:33,Shot,Snap Shot,-66.0,14.0,Paul Stastny,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:24:03Z,3,00:36,19:24,Shot,Wrist Shot,-59.0,-10.0,Nick Holden,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:24:48Z,3,01:22,18:38,Hit,n/a,96.0,18.0,Vladislav Namestnikov,Hitter,Ottawa Senators,Brayden McNabb,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:25:17Z,3,01:51,18:09,Missed Shot,n/a,45.0,1.0,Filip Chlapik,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:25:36Z,3,02:09,17:51,Missed Shot,n/a,80.0,2.0,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:25:46Z,3,02:19,17:41,Shot,Wrist Shot,-76.0,11.0,Alex Tuch,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:26:11Z,3,02:20,17:40,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:26:45Z,3,02:54,17:06,Giveaway,n/a,98.0,8.0,Marc-Andre Fleury,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:26:55Z,3,03:02,16:58,Hit,n/a,-77.0,-36.0,Ryan Reaves,Hitter,Vegas Golden Knights,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:27:02Z,3,03:11,16:49,Missed Shot,n/a,53.0,-1.0,Connor Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:27:15Z,3,03:25,16:35,Hit,n/a,75.0,-39.0,Brayden McNabb,Hitter,Vegas Golden Knights,Colin White,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:27:20Z,3,03:28,16:32,Shot,Wrap-around,89.0,5.0,Connor Brown,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:27:32Z,3,03:29,16:31,Shot,Wrist Shot,81.0,2.0,Brady Tkachuk,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:27:56Z,3,03:30,16:30,Faceoff,n/a,69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:28:07Z,3,03:38,16:22,Hit,n/a,84.0,-34.0,Brady Tkachuk,Hitter,Ottawa Senators,Max Pacioretty,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:28:34Z,3,03:40,16:20,Faceoff,n/a,0.0,0.0,Vladislav Namestnikov,Winner,Ottawa Senators,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:28:42Z,3,03:51,16:09,Hit,n/a,89.0,26.0,Anthony Duclair,Hitter,Ottawa Senators,Shea Theodore,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:28:51Z,3,04:00,16:00,Hit,n/a,1.0,-40.0,Colin White,Hitter,Ottawa Senators,Max Pacioretty,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:29:20Z,3,04:25,15:35,Penalty,Hooking,-29.0,-36.0,Reilly Smith,PenaltyOn,Vegas Golden Knights,Thomas Chabot,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:29:58Z,3,04:25,15:35,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:30:05Z,3,04:33,15:27,Shot,Wrist Shot,41.0,15.0,Mike Reilly,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:30:18Z,3,04:45,15:15,Shot,Slap Shot,43.0,-28.0,Connor Brown,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:30:34Z,3,05:02,14:58,Giveaway,n/a,36.0,-21.0,Brayden McNabb,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:30:40Z,3,05:07,14:53,Hit,n/a,55.0,36.0,Connor Brown,Hitter,Ottawa Senators,Cody Eakin,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:31:22Z,3,05:47,14:13,Giveaway,n/a,-4.0,2.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:31:25Z,3,05:50,14:10,Goal,Wrist Shot,-67.0,-5.0,Chandler Stephenson,Scorer,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:32:14Z,3,05:50,14:10,Faceoff,n/a,0.0,0.0,Colin White,Winner,Ottawa Senators,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:32:53Z,3,06:38,13:22,Blocked Shot,n/a,-48.0,-14.0,Mike Reilly,Blocker,Ottawa Senators,Tomas Nosek,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:33:01Z,3,06:45,13:15,Giveaway,n/a,-77.0,-20.0,Alex Tuch,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:33:04Z,3,06:48,13:12,Hit,n/a,40.0,-38.0,Nicolas Hague,Hitter,Vegas Golden Knights,Connor Brown,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:33:12Z,3,06:50,13:10,Goal,Slap Shot,84.0,-18.0,Vladislav Namestnikov,Scorer,Ottawa Senators,Chris Tierney,Assist,Ottawa Senators,Connor Brown,Assist,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights
+2020-01-17T02:34:07Z,3,06:50,13:10,Faceoff,n/a,0.0,0.0,Filip Chlapik,Winner,Ottawa Senators,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:34:05Z,3,06:57,13:03,Faceoff,n/a,-69.0,22.0,Filip Chlapik,Winner,Ottawa Senators,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:34:44Z,3,07:22,12:38,Hit,n/a,7.0,39.0,William Carrier,Hitter,Vegas Golden Knights,Mark Borowiecki,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:34:53Z,3,07:32,12:28,Hit,n/a,-38.0,-40.0,Ron Hainsey,Hitter,Ottawa Senators,Tomas Nosek,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:35:14Z,3,07:54,12:06,Hit,n/a,94.0,-22.0,Nicolas Hague,Hitter,Vegas Golden Knights,Brady Tkachuk,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:35:25Z,3,08:04,11:56,Shot,Slap Shot,34.0,33.0,Thomas Chabot,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:37:37Z,3,08:06,11:54,Faceoff,n/a,69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:37:44Z,3,08:14,11:46,Hit,n/a,2.0,-38.0,Brady Tkachuk,Hitter,Ottawa Senators,Max Pacioretty,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:38:14Z,3,08:43,11:17,Hit,n/a,31.0,-35.0,Nick Holden,Hitter,Vegas Golden Knights,Drake Batherson,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:38:29Z,3,08:44,11:16,Faceoff,n/a,20.0,-22.0,Chandler Stephenson,Winner,Vegas Golden Knights,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:38:52Z,3,08:54,11:06,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Chandler Stephenson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:39:16Z,3,09:03,10:57,Hit,n/a,34.0,-37.0,Brayden McNabb,Hitter,Vegas Golden Knights,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:39:23Z,3,09:03,10:57,Shot,Wrist Shot,56.0,-19.0,Anthony Duclair,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:39:43Z,3,09:04,10:56,Faceoff,n/a,69.0,-22.0,Colin White,Winner,Ottawa Senators,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:40:14Z,3,09:20,10:40,Takeaway,n/a,-97.0,2.0,William Carrier,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:40:13Z,3,09:23,10:37,Goal,Snap Shot,-78.0,9.0,Ryan Reaves,Scorer,Vegas Golden Knights,William Carrier,Assist,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a
+2020-01-17T02:40:49Z,3,09:23,10:37,Faceoff,n/a,0.0,0.0,Filip Chlapik,Winner,Ottawa Senators,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:41:06Z,3,09:40,10:20,Takeaway,n/a,99.0,-2.0,Nicolas Hague,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:41:16Z,3,09:49,10:11,Blocked Shot,n/a,70.0,13.0,Deryk Engelland,Blocker,Vegas Golden Knights,Filip Chlapik,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:41:39Z,3,09:49,10:11,Faceoff,n/a,69.0,22.0,Brady Tkachuk,Winner,Ottawa Senators,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:41:52Z,3,09:58,10:02,Missed Shot,n/a,65.0,2.0,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:42:22Z,3,10:28,09:32,Giveaway,n/a,-49.0,23.0,Ron Hainsey,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:42:52Z,3,10:58,09:02,Takeaway,n/a,-50.0,-13.0,Anthony Duclair,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:43:03Z,3,11:05,08:55,Blocked Shot,n/a,66.0,5.0,Nate Schmidt,Blocker,Vegas Golden Knights,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:43:05Z,3,11:08,08:52,Penalty,Tripping,78.0,-26.0,Nate Schmidt,PenaltyOn,Vegas Golden Knights,Anthony Duclair,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:45:00Z,3,11:08,08:52,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:45:16Z,3,11:18,08:42,Blocked Shot,n/a,73.0,8.0,Brayden McNabb,Blocker,Vegas Golden Knights,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:45:33Z,3,11:35,08:25,Blocked Shot,n/a,73.0,-1.0,Brayden McNabb,Blocker,Vegas Golden Knights,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:45:49Z,3,11:47,08:13,Shot,Wrist Shot,92.0,24.0,Deryk Engelland,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:46:13Z,3,12:15,07:45,Shot,Snap Shot,64.0,33.0,Anthony Duclair,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:46:22Z,3,12:24,07:36,Missed Shot,n/a,55.0,20.0,Anthony Duclair,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:46:29Z,3,12:30,07:30,Goal,Snap Shot,77.0,-2.0,Connor Brown,Scorer,Ottawa Senators,Colin White,Assist,Ottawa Senators,Thomas Chabot,Assist,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights
+2020-01-17T02:47:17Z,3,12:30,07:30,Faceoff,n/a,0.0,0.0,Filip Chlapik,Winner,Ottawa Senators,Tomas Nosek,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:47:23Z,3,12:40,07:20,Shot,Snap Shot,-78.0,19.0,Jonathan Marchessault,Shooter,Vegas Golden Knights,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:47:29Z,3,12:46,07:14,Hit,n/a,-81.0,-37.0,Tomas Nosek,Hitter,Vegas Golden Knights,Filip Chlapik,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:47:50Z,3,13:08,06:52,Giveaway,n/a,-57.0,29.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:48:00Z,3,13:18,06:42,Giveaway,n/a,-43.0,36.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:48:37Z,3,13:30,06:30,Faceoff,n/a,20.0,22.0,Nicolas Roy,Winner,Vegas Golden Knights,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:49:08Z,3,14:03,05:57,Hit,n/a,18.0,39.0,Ryan Reaves,Hitter,Vegas Golden Knights,Mark Borowiecki,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:50:35Z,3,15:30,04:30,Takeaway,n/a,7.0,-35.0,Tomas Nosek,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:51:02Z,3,15:57,04:03,Shot,Wrist Shot,83.0,27.0,Mark Borowiecki,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:51:30Z,3,16:25,03:35,Shot,Backhand,83.0,3.0,Brady Tkachuk,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:51:48Z,3,16:39,03:21,Penalty,Hooking,83.0,0.0,Reilly Smith,PenaltyOn,Vegas Golden Knights,Brady Tkachuk,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:54:02Z,3,16:39,03:21,Faceoff,n/a,69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:54:27Z,3,17:04,02:56,Blocked Shot,n/a,82.0,2.0,Deryk Engelland,Blocker,Vegas Golden Knights,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:55:15Z,3,17:49,02:11,Blocked Shot,n/a,44.0,6.0,Chandler Stephenson,Blocker,Vegas Golden Knights,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:55:29Z,3,17:50,02:10,Faceoff,n/a,69.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:55:50Z,3,18:03,01:57,Shot,Wrist Shot,77.0,6.0,Vladislav Namestnikov,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:56:19Z,3,18:04,01:56,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:56:30Z,3,18:11,01:49,Missed Shot,n/a,35.0,19.0,Anthony Duclair,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:56:36Z,3,18:17,01:43,Shot,Snap Shot,52.0,28.0,Anthony Duclair,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:57:07Z,3,18:18,01:42,Shot,Wrist Shot,86.0,5.0,Vladislav Namestnikov,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:57:30Z,3,18:19,01:41,Faceoff,n/a,69.0,22.0,Cody Eakin,Winner,Vegas Golden Knights,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:57:38Z,3,18:30,01:30,Missed Shot,n/a,37.0,-18.0,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:57:54Z,3,18:46,01:14,Blocked Shot,n/a,69.0,5.0,Deryk Engelland,Blocker,Vegas Golden Knights,Anthony Duclair,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:58:38Z,3,19:30,00:30,Missed Shot,n/a,35.0,33.0,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:58:48Z,3,19:39,00:21,Missed Shot,n/a,40.0,-29.0,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:58:50Z,3,19:41,00:19,Hit,n/a,90.0,29.0,Tyler Ennis,Hitter,Ottawa Senators,Nick Holden,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:58:59Z,3,19:51,00:09,Shot,Wrist Shot,81.0,11.0,Tyler Ennis,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:59:04Z,3,19:55,00:05,Shot,Wrap-around,88.0,-5.0,Tyler Ennis,Shooter,Ottawa Senators,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a

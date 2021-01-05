@@ -1,0 +1,289 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-15T00:08:07Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:08:54Z,1,00:16,19:44,Faceoff,n/a,-20.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:09:23Z,1,00:32,19:28,Shot,Wrist Shot,-60.0,-12.0,Dustin Brown,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:09:31Z,1,00:39,19:21,Shot,Snap Shot,-62.0,-10.0,Dustin Brown,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:09:53Z,1,00:40,19:20,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:10:04Z,1,00:45,19:15,Hit,n/a,-85.0,-38.0,Austin Wagner,Hitter,Los Angeles Kings,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:10:14Z,1,00:55,19:05,Blocked Shot,n/a,-67.0,-14.0,Justin Schultz,Blocker,Pittsburgh Penguins,Blake Lizotte,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:10:21Z,1,00:59,19:01,Shot,Slap Shot,-50.0,35.0,Matt Roy,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:10:20Z,1,01:02,18:58,Hit,n/a,-99.0,11.0,Jack Johnson,Hitter,Pittsburgh Penguins,Austin Wagner,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:10:50Z,1,01:32,18:28,Hit,n/a,0.0,-41.0,Jared McCann,Hitter,Pittsburgh Penguins,Joakim Ryan,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:10:57Z,1,01:38,18:22,Hit,n/a,-91.0,-32.0,Kyle Clifford,Hitter,Los Angeles Kings,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:11:18Z,1,01:51,18:09,Hit,n/a,59.0,-40.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Joakim Ryan,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:11:24Z,1,02:06,17:54,Hit,n/a,-23.0,-41.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Kyle Clifford,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:11:32Z,1,02:14,17:46,Giveaway,n/a,2.0,3.0,Sam Lafferty,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:11:47Z,1,02:20,17:40,Takeaway,n/a,-63.0,-1.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:11:42Z,1,02:23,17:37,Blocked Shot,n/a,60.0,16.0,Kurtis MacDermid,Blocker,Los Angeles Kings,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:11:55Z,1,02:37,17:23,Shot,Snap Shot,38.0,10.0,Kris Letang,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:12:16Z,1,02:58,17:02,Hit,n/a,-53.0,-40.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Anze Kopitar,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:12:51Z,1,03:33,16:27,Shot,Wrist Shot,-37.0,31.0,Matt Roy,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:13:14Z,1,03:37,16:23,Faceoff,n/a,-69.0,-22.0,Blake Lizotte,Winner,Los Angeles Kings,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:13:36Z,1,03:51,16:09,Shot,Snap Shot,-45.0,-20.0,Blake Lizotte,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:13:50Z,1,03:57,16:03,Hit,n/a,-71.0,-40.0,Blake Lizotte,Hitter,Los Angeles Kings,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:13:51Z,1,04:07,15:53,Shot,Tip-In,-78.0,-5.0,Blake Lizotte,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:14:01Z,1,04:16,15:44,Giveaway,n/a,-69.0,-14.0,Marcus Pettersson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:14:01Z,1,04:16,15:44,Blocked Shot,n/a,-51.0,-10.0,Jake Guentzel,Blocker,Pittsburgh Penguins,Joakim Ryan,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:14:35Z,1,04:50,15:10,Hit,n/a,93.0,30.0,Kyle Clifford,Hitter,Los Angeles Kings,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:14:53Z,1,05:08,14:52,Shot,Wrist Shot,-51.0,22.0,Trevor Lewis,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:15:00Z,1,05:15,14:45,Missed Shot,n/a,-47.0,-29.0,Jeff Carter,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:15:09Z,1,05:25,14:35,Takeaway,n/a,-97.0,-2.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:15:17Z,1,05:30,14:30,Shot,Snap Shot,63.0,1.0,Stefan Noesen,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:15:49Z,1,05:31,14:29,Faceoff,n/a,69.0,-22.0,Michael Amadio,Winner,Los Angeles Kings,Jake Guentzel,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:15:53Z,1,05:40,14:20,Shot,Snap Shot,54.0,4.0,Bryan Rust,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:16:12Z,1,05:59,14:01,Shot,Slap Shot,41.0,29.0,Justin Schultz,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:16:17Z,1,06:04,13:56,Blocked Shot,n/a,73.0,5.0,Matt Roy,Blocker,Los Angeles Kings,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:16:48Z,1,06:35,13:25,Missed Shot,n/a,-35.0,32.0,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:17:30Z,1,07:17,12:43,Hit,n/a,21.0,-41.0,Kurtis MacDermid,Hitter,Los Angeles Kings,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:17:59Z,1,07:46,12:14,Shot,Snap Shot,39.0,-9.0,Jared McCann,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:18:18Z,1,08:05,11:55,Shot,Backhand,-73.0,9.0,Austin Wagner,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:18:30Z,1,08:16,11:44,Hit,n/a,98.0,17.0,Joseph Blandisi,Hitter,Pittsburgh Penguins,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:18:31Z,1,08:17,11:43,Shot,Tip-In,63.0,10.0,Sam Lafferty,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:20:37Z,1,08:18,11:42,Faceoff,n/a,69.0,22.0,Jake Guentzel,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:21:15Z,1,08:40,11:20,Penalty,Tripping,34.0,-39.0,Alex Iafallo,PenaltyOn,Los Angeles Kings,John Marino,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:21:48Z,1,08:40,11:20,Faceoff,n/a,69.0,22.0,Jake Guentzel,Winner,Pittsburgh Penguins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:22:18Z,1,08:55,11:05,Shot,Slap Shot,44.0,-19.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:22:31Z,1,09:02,10:58,Missed Shot,n/a,65.0,-9.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:22:40Z,1,09:17,10:43,Blocked Shot,n/a,75.0,6.0,Joakim Ryan,Blocker,Los Angeles Kings,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:22:44Z,1,09:22,10:38,Takeaway,n/a,36.0,-36.0,Tyler Toffoli,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:22:55Z,1,09:29,10:31,Shot,Backhand,-79.0,-5.0,Tyler Toffoli,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:23:17Z,1,09:54,10:06,Hit,n/a,29.0,30.0,Sean Walker,Hitter,Los Angeles Kings,Dominik Kahun,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:23:31Z,1,10:09,09:51,Blocked Shot,n/a,59.0,-16.0,Kurtis MacDermid,Blocker,Los Angeles Kings,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:24:31Z,1,11:09,08:51,Hit,n/a,82.0,-39.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:24:42Z,1,11:19,08:41,Hit,n/a,99.0,-11.0,Matt Roy,Hitter,Los Angeles Kings,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:27:00Z,1,11:20,08:40,Faceoff,n/a,69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Jake Guentzel,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:27:11Z,1,11:29,08:31,Takeaway,n/a,36.0,33.0,Jake Guentzel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:27:15Z,1,11:33,08:27,Takeaway,n/a,51.0,2.0,Drew Doughty,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:27:48Z,1,11:38,08:22,Faceoff,n/a,-20.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:28:10Z,1,11:51,08:09,Giveaway,n/a,-75.0,42.0,Marcus Pettersson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:28:38Z,1,12:27,07:33,Hit,n/a,98.0,18.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:28:54Z,1,12:44,07:16,Blocked Shot,n/a,64.0,-10.0,Joakim Ryan,Blocker,Los Angeles Kings,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:29:28Z,1,13:03,06:57,Hit,n/a,-33.0,7.0,Kris Letang,Hitter,Pittsburgh Penguins,Blake Lizotte,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:29:22Z,1,13:08,06:52,Goal,Snap Shot,-73.0,10.0,Austin Wagner,Scorer,Los Angeles Kings,Adrian Kempe,Assist,Los Angeles Kings,Blake Lizotte,Assist,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins
+2019-12-15T00:30:07Z,1,13:08,06:52,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Alex Galchenyuk,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:30:24Z,1,13:21,06:39,Shot,Snap Shot,37.0,25.0,Jack Johnson,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:33:52Z,1,13:27,06:33,Faceoff,n/a,20.0,22.0,Jake Guentzel,Winner,Pittsburgh Penguins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:34:17Z,1,13:53,06:07,Missed Shot,n/a,61.0,19.0,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:34:24Z,1,14:01,05:59,Shot,Snap Shot,55.0,32.0,Dominik Simon,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:34:32Z,1,14:05,05:55,Blocked Shot,n/a,-71.0,30.0,Jack Johnson,Blocker,Pittsburgh Penguins,Jeff Carter,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:36:43Z,1,14:07,05:53,Faceoff,n/a,-69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:37:00Z,1,14:17,05:43,Hit,n/a,-96.0,16.0,Matt Luff,Hitter,Los Angeles Kings,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:37:12Z,1,14:29,05:31,Hit,n/a,99.0,-9.0,Jared McCann,Hitter,Pittsburgh Penguins,Drew Doughty,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:37:22Z,1,14:39,05:21,Blocked Shot,n/a,81.0,-7.0,Drew Doughty,Blocker,Los Angeles Kings,Zach Aston-Reese,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:37:31Z,1,14:48,05:12,Hit,n/a,-96.0,-21.0,Michael Amadio,Hitter,Los Angeles Kings,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:38:05Z,1,14:52,05:08,Faceoff,n/a,-69.0,22.0,Jake Guentzel,Winner,Pittsburgh Penguins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:38:20Z,1,15:08,04:52,Shot,Snap Shot,-62.0,-10.0,Adrian Kempe,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:38:39Z,1,15:09,04:51,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:38:54Z,1,15:13,04:47,Shot,Snap Shot,-36.0,29.0,Matt Roy,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:39:03Z,1,15:14,04:46,Faceoff,n/a,-69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:39:28Z,1,15:22,04:38,Giveaway,n/a,5.0,-37.0,Kurtis MacDermid,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:39:39Z,1,15:41,04:19,Hit,n/a,66.0,40.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:39:48Z,1,15:50,04:10,Shot,Wrist Shot,-70.0,10.0,Dustin Brown,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:41:00Z,1,17:01,02:59,Hit,n/a,1.0,-39.0,Joseph Blandisi,Hitter,Pittsburgh Penguins,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:41:08Z,1,17:10,02:50,Shot,Wrist Shot,-48.0,-18.0,Trevor Lewis,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:41:17Z,1,17:19,02:41,Takeaway,n/a,-41.0,25.0,Dominik Simon,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:42:00Z,1,18:00,02:00,Goal,Backhand,-78.0,4.0,Tyler Toffoli,Scorer,Los Angeles Kings,Sean Walker,Assist,Los Angeles Kings,Matt Luff,Assist,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins
+2019-12-15T00:42:37Z,1,18:00,02:00,Faceoff,n/a,0.0,0.0,Michael Amadio,Winner,Los Angeles Kings,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:42:56Z,1,18:07,01:53,Faceoff,n/a,0.0,0.0,Jared McCann,Winner,Pittsburgh Penguins,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:43:21Z,1,18:21,01:39,Takeaway,n/a,3.0,39.0,Matt Luff,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:43:40Z,1,18:36,01:24,Shot,Snap Shot,36.0,-25.0,Chad Ruhwedel,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:43:58Z,1,18:37,01:23,Faceoff,n/a,69.0,-22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:44:59Z,1,19:27,00:33,Missed Shot,n/a,-58.0,-16.0,Anze Kopitar,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:46:00Z,1,19:52,00:08,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:04:51Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jeff Carter,Winner,Los Angeles Kings,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:05:30Z,2,00:45,19:15,Missed Shot,n/a,39.0,24.0,Ben Hutton,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:06:18Z,2,01:32,18:28,Blocked Shot,n/a,-47.0,23.0,Alex Iafallo,Blocker,Los Angeles Kings,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:06:19Z,2,01:33,18:27,Hit,n/a,-97.0,-2.0,Matt Roy,Hitter,Los Angeles Kings,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:06:27Z,2,01:36,18:24,Hit,n/a,-90.0,35.0,Alex Galchenyuk,Hitter,Pittsburgh Penguins,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:06:33Z,2,01:37,18:23,Blocked Shot,n/a,-51.0,19.0,Alex Iafallo,Blocker,Los Angeles Kings,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:06:48Z,2,01:38,18:22,Faceoff,n/a,-69.0,22.0,Blake Lizotte,Winner,Los Angeles Kings,Dominik Simon,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:07:38Z,2,02:18,17:42,Blocked Shot,n/a,75.0,7.0,Chad Ruhwedel,Blocker,Pittsburgh Penguins,Michael Amadio,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:07:56Z,2,02:19,17:41,Faceoff,n/a,69.0,22.0,Stefan Noesen,Winner,Pittsburgh Penguins,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:08:15Z,2,02:28,17:32,Hit,n/a,0.0,-40.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Drew Doughty,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:08:21Z,2,02:34,17:26,Hit,n/a,-98.0,-3.0,Stefan Noesen,Hitter,Pittsburgh Penguins,Joakim Ryan,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:08:35Z,2,02:44,17:16,Shot,Wrist Shot,52.0,31.0,Joakim Ryan,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:08:57Z,2,02:45,17:15,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:09:19Z,2,02:51,17:09,Giveaway,n/a,85.0,37.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:09:32Z,2,03:11,16:49,Hit,n/a,-99.0,-9.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:09:47Z,2,03:27,16:33,Blocked Shot,n/a,68.0,27.0,Kris Letang,Blocker,Pittsburgh Penguins,Alex Iafallo,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:09:56Z,2,03:31,16:29,Goal,Snap Shot,-62.0,-6.0,Bryan Rust,Scorer,Pittsburgh Penguins,Jake Guentzel,Assist,Pittsburgh Penguins,Kris Letang,Assist,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings
+2019-12-15T01:10:39Z,2,03:31,16:29,Faceoff,n/a,0.0,0.0,Jeff Carter,Winner,Los Angeles Kings,Dominik Simon,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:11:20Z,2,03:53,16:07,Faceoff,n/a,-69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Jake Guentzel,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:11:58Z,2,04:06,15:54,Hit,n/a,-67.0,41.0,Jake Guentzel,Hitter,Pittsburgh Penguins,Kyle Clifford,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:12:06Z,2,04:13,15:47,Blocked Shot,n/a,73.0,-14.0,Kris Letang,Blocker,Pittsburgh Penguins,Kyle Clifford,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:12:20Z,2,04:17,15:43,Shot,Wrist Shot,74.0,-12.0,Sean Walker,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:12:46Z,2,04:18,15:42,Penalty,Slashing,81.0,-5.0,Kyle Clifford,PenaltyOn,Los Angeles Kings,Tristan Jarry,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:13:11Z,2,04:18,15:42,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:13:40Z,2,04:39,15:21,Missed Shot,n/a,-70.0,15.0,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:14:18Z,2,04:54,15:06,Faceoff,n/a,69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Adrian Kempe,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:15:34Z,2,05:51,14:09,Penalty,Boarding,-72.0,39.0,Zach Aston-Reese,PenaltyOn,Pittsburgh Penguins,Ben Hutton,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:16:21Z,2,05:51,14:09,Faceoff,n/a,69.0,22.0,Blake Lizotte,Winner,Los Angeles Kings,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:16:33Z,2,06:05,13:55,Blocked Shot,n/a,76.0,3.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Trevor Lewis,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:16:38Z,2,06:11,13:49,Hit,n/a,-98.0,-1.0,Drew Doughty,Hitter,Los Angeles Kings,Jake Guentzel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:16:44Z,2,06:16,13:44,Hit,n/a,-98.0,-4.0,Sean Walker,Hitter,Los Angeles Kings,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:17:23Z,2,06:55,13:05,Shot,Slap Shot,38.0,-24.0,Drew Doughty,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:17:56Z,2,06:56,13:04,Faceoff,n/a,69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:18:22Z,2,07:14,12:46,Shot,Snap Shot,43.0,-2.0,Adrian Kempe,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:18:41Z,2,07:15,12:45,Faceoff,n/a,69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:18:54Z,2,07:19,12:41,Blocked Shot,n/a,65.0,-12.0,Brandon Tanev,Blocker,Pittsburgh Penguins,Michael Amadio,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:19:05Z,2,07:30,12:30,Shot,Wrist Shot,87.0,10.0,Blake Lizotte,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:19:17Z,2,07:34,12:26,Penalty,Interference,88.0,-9.0,Jack Johnson,PenaltyOn,Pittsburgh Penguins,Tyler Toffoli,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:20:03Z,2,07:34,12:26,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:20:11Z,2,07:49,12:11,Shot,Slap Shot,43.0,14.0,Tyler Toffoli,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:20:30Z,2,08:05,11:55,Shot,Snap Shot,63.0,14.0,Adrian Kempe,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:20:56Z,2,08:06,11:54,Faceoff,n/a,69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:21:30Z,2,08:35,11:25,Shot,Slap Shot,36.0,-25.0,Drew Doughty,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:21:38Z,2,08:44,11:16,Missed Shot,n/a,42.0,-3.0,Anze Kopitar,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:21:43Z,2,08:48,11:12,Hit,n/a,96.0,22.0,Kris Letang,Hitter,Pittsburgh Penguins,Alex Iafallo,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:22:05Z,2,09:10,10:50,Blocked Shot,n/a,52.0,-6.0,Brandon Tanev,Blocker,Pittsburgh Penguins,Anze Kopitar,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:23:10Z,2,09:39,10:21,Faceoff,n/a,69.0,-22.0,Trevor Lewis,Winner,Los Angeles Kings,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:23:21Z,2,09:41,10:19,Blocked Shot,n/a,58.0,-16.0,Zach Aston-Reese,Blocker,Pittsburgh Penguins,Kyle Clifford,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:25:35Z,2,09:42,10:18,Faceoff,n/a,69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:28:15Z,2,09:45,10:15,Hit,n/a,99.0,-8.0,Trevor Lewis,Hitter,Los Angeles Kings,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:25:38Z,2,09:49,10:11,Giveaway,n/a,33.0,-40.0,Jake Guentzel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:28:41Z,2,09:51,10:09,Hit,n/a,92.0,32.0,Jack Johnson,Hitter,Pittsburgh Penguins,Trevor Lewis,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:29:03Z,2,09:55,10:05,Hit,n/a,93.0,-31.0,Jake Guentzel,Hitter,Pittsburgh Penguins,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:26:04Z,2,10:12,09:48,Hit,n/a,99.0,-14.0,Trevor Lewis,Hitter,Los Angeles Kings,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:26:10Z,2,10:22,09:38,Blocked Shot,n/a,55.0,-11.0,Bryan Rust,Blocker,Pittsburgh Penguins,Kyle Clifford,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:26:24Z,2,10:35,09:25,Missed Shot,n/a,64.0,23.0,Austin Wagner,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:26:31Z,2,10:42,09:18,Shot,Snap Shot,52.0,28.0,Blake Lizotte,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:26:47Z,2,10:59,09:01,Missed Shot,n/a,37.0,-14.0,Matt Roy,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:26:57Z,2,11:08,08:52,Hit,n/a,-28.0,4.0,Matt Roy,Hitter,Los Angeles Kings,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:27:02Z,2,11:13,08:47,Hit,n/a,36.0,-40.0,Jack Johnson,Hitter,Pittsburgh Penguins,Blake Lizotte,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:27:38Z,2,11:49,08:11,Hit,n/a,-33.0,-42.0,Drew Doughty,Hitter,Los Angeles Kings,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:27:45Z,2,11:50,08:10,Shot,Snap Shot,-62.0,11.0,John Marino,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:29:49Z,2,11:51,08:09,Faceoff,n/a,-69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:30:24Z,2,12:13,07:47,Hit,n/a,18.0,39.0,Dustin Brown,Hitter,Los Angeles Kings,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:31:43Z,2,13:32,06:28,Shot,Backhand,76.0,-30.0,Austin Wagner,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:31:58Z,2,13:47,06:13,Hit,n/a,-65.0,14.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Kurtis MacDermid,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:32:28Z,2,14:17,05:43,Hit,n/a,-17.0,39.0,Kyle Clifford,Hitter,Los Angeles Kings,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:32:32Z,2,14:21,05:39,Hit,n/a,-66.0,-41.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:32:37Z,2,14:26,05:34,Hit,n/a,-15.0,-40.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Trevor Lewis,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:32:43Z,2,14:32,05:28,Hit,n/a,92.0,31.0,Trevor Lewis,Hitter,Los Angeles Kings,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:32:44Z,2,14:33,05:27,Shot,Wrist Shot,60.0,18.0,Jeff Carter,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:33:25Z,2,15:14,04:46,Missed Shot,n/a,36.0,-25.0,Drew Doughty,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:33:50Z,2,15:39,04:21,Takeaway,n/a,-69.0,10.0,Tyler Toffoli,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:34:00Z,2,15:49,04:11,Missed Shot,n/a,69.0,-12.0,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:34:12Z,2,16:01,03:59,Hit,n/a,11.0,-41.0,Stefan Noesen,Hitter,Pittsburgh Penguins,Tyler Toffoli,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:34:28Z,2,16:12,03:48,Hit,n/a,49.0,39.0,Kurtis MacDermid,Hitter,Los Angeles Kings,Joseph Blandisi,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:34:36Z,2,16:12,03:48,Penalty,Holding,-68.0,39.0,Tyler Toffoli,PenaltyOn,Los Angeles Kings,Sam Lafferty,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:36:42Z,2,16:12,03:48,Faceoff,n/a,-69.0,-22.0,Blake Lizotte,Winner,Los Angeles Kings,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:36:49Z,2,16:19,03:41,Shot,Wrist Shot,-57.0,33.0,Blake Lizotte,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:37:06Z,2,16:36,03:24,Shot,Snap Shot,-38.0,12.0,Kris Letang,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:37:33Z,2,16:41,03:19,Penalty,Hi-sticking,-86.0,5.0,Joakim Ryan,PenaltyOn,Los Angeles Kings,Jake Guentzel,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:38:01Z,2,16:41,03:19,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:38:25Z,2,16:56,03:04,Shot,Snap Shot,-59.0,13.0,Justin Schultz,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:39:06Z,2,17:36,02:24,Goal,Wrist Shot,-70.0,3.0,Bryan Rust,Scorer,Pittsburgh Penguins,Jake Guentzel,Assist,Pittsburgh Penguins,Kris Letang,Assist,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings
+2019-12-15T01:39:55Z,2,17:36,02:24,Faceoff,n/a,0.0,0.0,Dominik Kahun,Winner,Pittsburgh Penguins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:40:32Z,2,18:10,01:50,Giveaway,n/a,-74.0,-20.0,Justin Schultz,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:41:53Z,2,19:30,00:30,Hit,n/a,86.0,32.0,Anze Kopitar,Hitter,Los Angeles Kings,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:00:49Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Alex Iafallo,Winner,Los Angeles Kings,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:01:21Z,3,00:10,19:50,Blocked Shot,n/a,-79.0,16.0,Justin Schultz,Blocker,Pittsburgh Penguins,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:01:34Z,3,00:13,19:47,Blocked Shot,n/a,-43.0,-29.0,Teddy Blueger,Blocker,Pittsburgh Penguins,Joakim Ryan,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:01:55Z,3,00:35,19:25,Penalty,Hooking,82.0,39.0,Alex Galchenyuk,PenaltyOn,Pittsburgh Penguins,Drew Doughty,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:02:49Z,3,00:35,19:25,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:03:38Z,3,01:07,18:53,Takeaway,n/a,-89.0,7.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:04:36Z,3,02:13,17:47,Hit,n/a,-64.0,40.0,Jack Johnson,Hitter,Pittsburgh Penguins,Michael Amadio,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:04:41Z,3,02:18,17:42,Giveaway,n/a,-96.0,0.0,Tyler Toffoli,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:05:03Z,3,02:40,17:20,Missed Shot,n/a,40.0,6.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:05:12Z,3,02:49,17:11,Giveaway,n/a,-6.0,-2.0,Kyle Clifford,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:05:43Z,3,03:20,16:40,Hit,n/a,65.0,-41.0,Trevor Lewis,Hitter,Los Angeles Kings,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:06:22Z,3,03:46,16:14,Faceoff,n/a,20.0,22.0,Blake Lizotte,Winner,Los Angeles Kings,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:06:49Z,3,04:00,16:00,Hit,n/a,-86.0,-36.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Blake Lizotte,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:07:37Z,3,04:05,15:55,Penalty,Fighting,-78.0,-13.0,Sam Lafferty,PenaltyOn,Pittsburgh Penguins,Adrian Kempe,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:07:48Z,3,04:05,15:55,Penalty,Fighting,-64.0,-11.0,Adrian Kempe,PenaltyOn,Los Angeles Kings,Sam Lafferty,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:08:47Z,3,04:05,15:55,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:09:25Z,3,04:24,15:36,Giveaway,n/a,-99.0,5.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:09:35Z,3,04:34,15:26,Missed Shot,n/a,-34.0,-7.0,Joakim Ryan,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:10:01Z,3,05:00,15:00,Hit,n/a,98.0,-11.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Drew Doughty,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:10:42Z,3,05:09,14:51,Faceoff,n/a,69.0,22.0,Dominik Kahun,Winner,Pittsburgh Penguins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:11:12Z,3,05:14,14:46,Faceoff,n/a,69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Dominik Simon,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:11:24Z,3,05:20,14:40,Giveaway,n/a,96.0,21.0,Kurtis MacDermid,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:12:08Z,3,06:04,13:56,Hit,n/a,98.0,-6.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:12:39Z,3,06:34,13:26,Hit,n/a,97.0,-8.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Anze Kopitar,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:12:46Z,3,06:41,13:19,Hit,n/a,-50.0,37.0,Kris Letang,Hitter,Pittsburgh Penguins,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:13:02Z,3,06:58,13:02,Hit,n/a,-83.0,-36.0,Jeff Carter,Hitter,Los Angeles Kings,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:13:41Z,3,07:36,12:24,Blocked Shot,n/a,45.0,10.0,Austin Wagner,Blocker,Los Angeles Kings,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:13:51Z,3,07:46,12:14,Shot,Wrist Shot,-21.0,28.0,Jeff Carter,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:13:57Z,3,07:53,12:07,Hit,n/a,20.0,-40.0,Kurtis MacDermid,Hitter,Los Angeles Kings,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:14:35Z,3,08:30,11:30,Hit,n/a,-30.0,-40.0,Justin Schultz,Hitter,Pittsburgh Penguins,Alex Iafallo,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:14:40Z,3,08:35,11:25,Hit,n/a,-76.0,39.0,Anze Kopitar,Hitter,Los Angeles Kings,Stefan Noesen,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:14:54Z,3,08:49,11:11,Hit,n/a,-84.0,37.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Anze Kopitar,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:15:22Z,3,09:17,10:43,Hit,n/a,16.0,40.0,Dustin Brown,Hitter,Los Angeles Kings,Alex Galchenyuk,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:16:39Z,3,09:25,10:35,Shot,Wrist Shot,53.0,-12.0,Bryan Rust,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:15:35Z,3,09:26,10:34,Goal,Tip-In,79.0,1.0,Teddy Blueger,Scorer,Pittsburgh Penguins,Bryan Rust,Assist,Pittsburgh Penguins,Kris Letang,Assist,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings
+2019-12-15T03:18:31Z,3,09:26,10:34,Faceoff,n/a,0.0,0.0,Jared McCann,Winner,Pittsburgh Penguins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:16:58Z,3,09:48,10:12,Shot,Wrist Shot,55.0,3.0,Jared McCann,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:19:28Z,3,10:10,09:50,Faceoff,n/a,-20.0,-22.0,Stefan Noesen,Winner,Pittsburgh Penguins,Tyler Toffoli,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:20:15Z,3,10:38,09:22,Shot,Slap Shot,22.0,-36.0,Stefan Noesen,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:20:18Z,3,10:42,09:18,Hit,n/a,76.0,-15.0,Stefan Noesen,Hitter,Pittsburgh Penguins,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:20:30Z,3,10:53,09:07,Shot,Snap Shot,-64.0,12.0,Sean Walker,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:20:32Z,3,10:55,09:05,Blocked Shot,n/a,-73.0,2.0,Jack Johnson,Blocker,Pittsburgh Penguins,Michael Amadio,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:20:33Z,3,10:57,09:03,Shot,Wrist Shot,-79.0,5.0,Austin Wagner,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:21:01Z,3,10:58,09:02,Penalty,Unsportsmanlike conduct,-78.0,20.0,Joseph Blandisi,PenaltyOn,Pittsburgh Penguins,Austin Wagner,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:21:16Z,3,10:58,09:02,Penalty,Unsportsmanlike conduct,-80.0,16.0,Austin Wagner,PenaltyOn,Los Angeles Kings,Joseph Blandisi,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:21:32Z,3,10:58,09:02,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:21:41Z,3,11:05,08:55,Shot,Snap Shot,-59.0,-27.0,Drew Doughty,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:21:58Z,3,11:06,08:54,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:22:24Z,3,11:28,08:32,Shot,Wrist Shot,-78.0,-2.0,Anze Kopitar,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:22:34Z,3,11:29,08:31,Penalty,PS - Slash on breakaway,-76.0,0.0,Kris Letang,PenaltyOn,Pittsburgh Penguins,Anze Kopitar,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:23:46Z,3,11:29,08:31,Shot,Backhand,-77.0,4.0,Anze Kopitar,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:26:31Z,3,11:29,08:31,Faceoff,n/a,-69.0,22.0,Blake Lizotte,Winner,Los Angeles Kings,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:26:44Z,3,11:35,08:25,Blocked Shot,n/a,-50.0,-4.0,Jake Guentzel,Blocker,Pittsburgh Penguins,Sean Walker,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:27:08Z,3,11:56,08:04,Shot,Wrist Shot,48.0,-7.0,Jared McCann,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:27:16Z,3,11:58,08:02,Goal,Backhand,80.0,-3.0,Jack Johnson,Scorer,Pittsburgh Penguins,Jared McCann,Assist,Pittsburgh Penguins,Jake Guentzel,Assist,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings
+2019-12-15T02:27:59Z,3,11:58,08:02,Faceoff,n/a,0.0,0.0,Jeff Carter,Winner,Los Angeles Kings,Dominik Simon,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:28:14Z,3,12:13,07:47,Hit,n/a,-55.0,-41.0,Chad Ruhwedel,Hitter,Pittsburgh Penguins,Joakim Ryan,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:28:24Z,3,12:25,07:35,Shot,Wrist Shot,-37.0,-9.0,Joakim Ryan,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:28:29Z,3,12:30,07:30,Hit,n/a,-84.0,-37.0,Dominik Simon,Hitter,Pittsburgh Penguins,Joakim Ryan,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:28:47Z,3,12:48,07:12,Missed Shot,n/a,84.0,-22.0,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:28:58Z,3,12:59,07:01,Hit,n/a,-91.0,-35.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:29:08Z,3,13:10,06:50,Hit,n/a,51.0,41.0,Matt Roy,Hitter,Los Angeles Kings,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:29:31Z,3,13:32,06:28,Shot,Wrist Shot,-85.0,-25.0,Dustin Brown,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:29:52Z,3,13:54,06:06,Takeaway,n/a,62.0,-17.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:30:03Z,3,14:04,05:56,Missed Shot,n/a,53.0,14.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:30:06Z,3,14:07,05:53,Hit,n/a,74.0,-40.0,Jared McCann,Hitter,Pittsburgh Penguins,Adrian Kempe,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:30:27Z,3,14:14,05:46,Shot,Backhand,-88.0,8.0,Blake Lizotte,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:32:22Z,3,14:15,05:45,Faceoff,n/a,-69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:32:37Z,3,14:21,05:39,Hit,n/a,-48.0,-42.0,Joakim Ryan,Hitter,Los Angeles Kings,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:33:18Z,3,14:58,05:02,Shot,Slap Shot,-61.0,21.0,Jeff Carter,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:33:25Z,3,15:00,05:00,Goal,Snap Shot,-65.0,-13.0,Kyle Clifford,Scorer,Los Angeles Kings,Jeff Carter,Assist,Los Angeles Kings,Drew Doughty,Assist,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins
+2019-12-15T02:34:15Z,3,15:00,05:00,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:34:16Z,3,15:05,04:55,Hit,n/a,-1.0,41.0,Jake Guentzel,Hitter,Pittsburgh Penguins,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:35:17Z,3,16:07,03:53,Shot,Wrist Shot,-54.0,-19.0,Kyle Clifford,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:36:26Z,3,16:10,03:50,Giveaway,n/a,-71.0,18.0,Zach Aston-Reese,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:35:37Z,3,16:20,03:40,Shot,Backhand,-80.0,5.0,Tyler Toffoli,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:35:52Z,3,16:23,03:37,Goal,Wrist Shot,-80.0,1.0,Michael Amadio,Scorer,Los Angeles Kings,Sean Walker,Assist,Los Angeles Kings,Tyler Toffoli,Assist,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins
+2019-12-15T02:37:03Z,3,16:23,03:37,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:37:23Z,3,17:12,02:48,Missed Shot,n/a,-66.0,-4.0,Anze Kopitar,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:38:05Z,3,17:51,02:09,Hit,n/a,-39.0,-37.0,Kyle Clifford,Hitter,Los Angeles Kings,Dominik Kahun,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:39:03Z,3,17:55,02:05,Faceoff,n/a,-69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Adrian Kempe,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:39:28Z,3,18:01,01:59,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:39:53Z,3,18:13,01:47,Missed Shot,n/a,-36.0,32.0,Matt Roy,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:39:58Z,3,18:17,01:43,Hit,n/a,-99.0,12.0,Austin Wagner,Hitter,Los Angeles Kings,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:40:31Z,3,18:51,01:09,Hit,n/a,-66.0,40.0,Jack Johnson,Hitter,Pittsburgh Penguins,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:40:39Z,3,18:59,01:01,Giveaway,n/a,-52.0,-39.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:40:45Z,3,19:04,00:56,Shot,Wrist Shot,-36.0,-3.0,Joakim Ryan,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:41:03Z,3,19:26,00:34,Giveaway,n/a,44.0,-27.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:41:17Z,3,19:35,00:25,Blocked Shot,n/a,72.0,2.0,Drew Doughty,Blocker,Los Angeles Kings,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:41:27Z,3,19:46,00:14,Hit,n/a,74.0,-40.0,Jeff Carter,Hitter,Los Angeles Kings,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:43:54Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Jared McCann,Winner,Pittsburgh Penguins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:45:02Z,4,00:54,04:06,Takeaway,n/a,76.0,-10.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:45:12Z,4,01:05,03:55,Takeaway,n/a,-98.0,-1.0,Anze Kopitar,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:45:48Z,4,01:40,03:20,Shot,Wrist Shot,-41.0,13.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:46:09Z,4,02:02,02:58,Shot,Wrist Shot,-70.0,-10.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:46:37Z,4,02:30,02:30,Blocked Shot,n/a,63.0,2.0,Jake Guentzel,Blocker,Pittsburgh Penguins,Austin Wagner,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:46:55Z,4,02:48,02:12,Shot,Snap Shot,-64.0,6.0,Bryan Rust,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:47:02Z,4,02:55,02:05,Shot,Wrist Shot,-81.0,5.0,Bryan Rust,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:47:13Z,4,03:01,01:59,Shot,Wrist Shot,-81.0,-22.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:47:12Z,4,03:05,01:55,Hit,n/a,45.0,-38.0,Dustin Brown,Hitter,Los Angeles Kings,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:47:41Z,4,03:34,01:26,Shot,Wrist Shot,-60.0,14.0,Dominik Simon,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:48:39Z,4,03:49,01:11,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:51:56Z,5,00:00,00:00,Missed Shot,n/a,62.0,26.0,Jake Guentzel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:52:20Z,5,00:00,00:00,Missed Shot,n/a,-79.0,3.0,Michael Amadio,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:52:34Z,5,00:00,00:00,Shot,Wrist Shot,74.0,-3.0,Kris Letang,Shooter,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:52:58Z,5,00:00,00:00,Missed Shot,n/a,-68.0,-2.0,Tyler Toffoli,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:53:17Z,5,00:00,00:00,Missed Shot,n/a,66.0,-8.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:53:39Z,5,00:00,00:00,Shot,Wrist Shot,-66.0,5.0,Anze Kopitar,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:54:02Z,5,00:00,00:00,Goal,Backhand,79.0,5.0,Bryan Rust,Scorer,Pittsburgh Penguins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:55:08Z,5,00:00,00:00,Missed Shot,n/a,-63.0,-2.0,Adrian Kempe,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

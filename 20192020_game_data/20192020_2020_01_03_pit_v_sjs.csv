@@ -1,0 +1,262 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-03T00:08:04Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Tomas Hertl,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:08:40Z,1,00:14,19:46,Shot,Wrist Shot,-76.0,16.0,Logan Couture,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:08:48Z,1,00:23,19:37,Giveaway,n/a,-31.0,19.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:08:52Z,1,00:25,19:35,Blocked Shot,n/a,56.0,9.0,Patrick Marleau,Blocker,San Jose Sharks,Alex Galchenyuk,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:09:13Z,1,00:25,19:35,Faceoff,n/a,69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:09:33Z,1,00:41,19:19,Hit,n/a,-46.0,41.0,Timo Meier,Hitter,San Jose Sharks,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:09:44Z,1,00:53,19:07,Blocked Shot,n/a,-46.0,-17.0,Patric Hornqvist,Blocker,Pittsburgh Penguins,Brenden Dillon,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:10:09Z,1,01:17,18:43,Hit,n/a,97.0,-18.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:10:15Z,1,01:23,18:37,Shot,Wrist Shot,41.0,-6.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:10:40Z,1,01:23,18:37,Faceoff,n/a,69.0,-22.0,Joe Thornton,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:11:08Z,1,01:49,18:11,Takeaway,n/a,-14.0,12.0,Joe Thornton,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:11:27Z,1,02:09,17:51,Giveaway,n/a,53.0,5.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:12:09Z,1,02:48,17:12,Goal,Tip-In,-79.0,7.0,Tomas Hertl,Scorer,San Jose Sharks,Brent Burns,Assist,San Jose Sharks,Joel Kellman,Assist,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins
+2020-01-03T00:12:46Z,1,02:48,17:12,Faceoff,n/a,0.0,0.0,Jared McCann,Winner,Pittsburgh Penguins,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:13:03Z,1,03:06,16:54,Hit,n/a,-98.0,-17.0,Patrick Marleau,Hitter,San Jose Sharks,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:14:18Z,1,03:57,16:03,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:14:51Z,1,04:29,15:31,Hit,n/a,-14.0,35.0,Jack Johnson,Hitter,Pittsburgh Penguins,Timo Meier,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:15:01Z,1,04:38,15:22,Hit,n/a,-74.0,-40.0,Timo Meier,Hitter,San Jose Sharks,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:15:26Z,1,04:52,15:08,Giveaway,n/a,97.0,-1.0,Aaron Dell,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:15:17Z,1,04:55,15:05,Takeaway,n/a,74.0,39.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:15:33Z,1,05:11,14:49,Takeaway,n/a,-97.0,-1.0,Juuso Riikola,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:16:22Z,1,05:25,14:35,Faceoff,n/a,69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:16:22Z,1,05:26,14:34,Missed Shot,n/a,66.0,20.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:16:28Z,1,05:39,14:21,Hit,n/a,52.0,-41.0,Melker Karlsson,Hitter,San Jose Sharks,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:16:35Z,1,05:47,14:13,Hit,n/a,56.0,-39.0,Radim Simek,Hitter,San Jose Sharks,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:17:13Z,1,06:25,13:35,Missed Shot,n/a,36.0,27.0,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:17:41Z,1,06:52,13:08,Shot,Snap Shot,63.0,18.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:18:01Z,1,06:52,13:08,Hit,n/a,95.0,-13.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Marc-Edouard Vlasic,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:17:44Z,1,06:55,13:05,Giveaway,n/a,62.0,39.0,Timo Meier,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:18:05Z,1,07:06,12:54,Hit,n/a,35.0,39.0,Barclay Goodrow,Hitter,San Jose Sharks,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:18:25Z,1,07:34,12:26,Blocked Shot,n/a,78.0,8.0,Brenden Dillon,Blocker,San Jose Sharks,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:20:21Z,1,07:35,12:25,Faceoff,n/a,69.0,22.0,Kevin Labanc,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:21:09Z,1,07:58,12:02,Blocked Shot,n/a,73.0,6.0,Kevin Labanc,Blocker,San Jose Sharks,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:21:23Z,1,08:13,11:47,Shot,Wrist Shot,8.0,-38.0,Kris Letang,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:21:31Z,1,08:20,11:40,Hit,n/a,-76.0,41.0,Stefan Noesen,Hitter,San Jose Sharks,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:21:43Z,1,08:29,11:31,Blocked Shot,n/a,-49.0,-16.0,Kris Letang,Blocker,Pittsburgh Penguins,Melker Karlsson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:22:04Z,1,08:30,11:30,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:22:17Z,1,08:35,11:25,Shot,Snap Shot,-76.0,-13.0,Joel Kellman,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:22:28Z,1,08:36,11:24,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:22:51Z,1,08:50,11:10,Hit,n/a,-98.0,-19.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Stefan Noesen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:23:19Z,1,09:15,10:45,Shot,Backhand,82.0,-27.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:24:21Z,1,10:10,09:50,Blocked Shot,n/a,62.0,-22.0,Barclay Goodrow,Blocker,San Jose Sharks,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:26:16Z,1,10:11,09:49,Faceoff,n/a,69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:26:55Z,1,10:18,09:42,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:27:23Z,1,10:31,09:29,Hit,n/a,-99.0,-9.0,Timo Meier,Hitter,San Jose Sharks,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:28:00Z,1,11:08,08:52,Shot,Snap Shot,-72.0,12.0,Timo Meier,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:28:26Z,1,11:34,08:26,Blocked Shot,n/a,-59.0,14.0,Dominik Kahun,Blocker,Pittsburgh Penguins,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:28:41Z,1,11:49,08:11,Missed Shot,n/a,-72.0,-11.0,Joe Thornton,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:28:43Z,1,11:51,08:09,Hit,n/a,-89.0,34.0,Joseph Blandisi,Hitter,Pittsburgh Penguins,Kevin Labanc,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:28:50Z,1,11:57,08:03,Shot,Wrist Shot,-83.0,15.0,Kevin Labanc,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:29:21Z,1,12:01,07:59,Faceoff,n/a,-69.0,22.0,Melker Karlsson,Winner,San Jose Sharks,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:29:41Z,1,12:07,07:53,Hit,n/a,-36.0,37.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:30:16Z,1,12:52,07:08,Shot,Snap Shot,-38.0,28.0,Erik Karlsson,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:30:25Z,1,13:01,06:59,Shot,Wrist Shot,74.0,7.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:30:34Z,1,13:07,06:53,Shot,Backhand,80.0,-2.0,Jared McCann,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:30:43Z,1,13:10,06:50,Shot,Snap Shot,64.0,-24.0,Dominik Simon,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:31:00Z,1,13:11,06:49,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:31:17Z,1,13:17,06:43,Shot,Wrist Shot,37.0,-26.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:31:37Z,1,13:22,06:38,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:31:55Z,1,13:26,06:34,Shot,Snap Shot,48.0,18.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:32:24Z,1,13:50,06:10,Blocked Shot,n/a,46.0,28.0,Barclay Goodrow,Blocker,San Jose Sharks,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:32:24Z,1,13:53,06:07,Shot,Wrist Shot,58.0,5.0,Bryan Rust,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:32:44Z,1,14:14,05:46,Blocked Shot,n/a,69.0,2.0,Radim Simek,Blocker,San Jose Sharks,Sam Lafferty,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:35:05Z,1,14:14,05:46,Faceoff,n/a,69.0,-22.0,Joe Thornton,Winner,San Jose Sharks,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:35:47Z,1,14:42,05:18,Shot,Snap Shot,38.0,-18.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:36:18Z,1,14:43,05:17,Faceoff,n/a,69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:36:45Z,1,15:10,04:50,Missed Shot,n/a,35.0,15.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:37:26Z,1,15:24,04:36,Faceoff,n/a,-20.0,-22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:38:02Z,1,15:58,04:02,Shot,Slap Shot,37.0,-16.0,Chad Ruhwedel,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:38:09Z,1,16:04,03:56,Missed Shot,n/a,74.0,4.0,Sam Lafferty,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:38:41Z,1,16:36,03:24,Shot,Snap Shot,-77.0,25.0,Evander Kane,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:38:51Z,1,16:42,03:18,Shot,Wrist Shot,-17.0,30.0,Jack Johnson,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:39:03Z,1,16:51,03:09,Goal,Wrist Shot,63.0,6.0,Patric Hornqvist,Scorer,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:39:43Z,1,16:51,03:09,Faceoff,n/a,0.0,0.0,Joe Thornton,Winner,San Jose Sharks,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:40:38Z,1,17:51,02:09,Goal,Wrist Shot,-65.0,-5.0,Logan Couture,Scorer,San Jose Sharks,Patrick Marleau,Assist,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a
+2020-01-03T00:41:15Z,1,17:51,02:09,Faceoff,n/a,0.0,0.0,Barclay Goodrow,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:41:36Z,1,17:56,02:04,Faceoff,n/a,69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:41:55Z,1,18:04,01:56,Takeaway,n/a,-22.0,-38.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:42:02Z,1,18:08,01:52,Shot,Wrist Shot,79.0,15.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:42:20Z,1,18:09,01:51,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:42:47Z,1,18:27,01:33,Hit,n/a,83.0,-37.0,Brent Burns,Hitter,San Jose Sharks,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:42:55Z,1,18:34,01:26,Hit,n/a,-90.0,34.0,Tomas Hertl,Hitter,San Jose Sharks,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:43:38Z,1,19:17,00:43,Hit,n/a,97.0,16.0,Dominik Simon,Hitter,Pittsburgh Penguins,Radim Simek,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T00:44:29Z,1,19:57,00:03,Faceoff,n/a,20.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Kevin Labanc,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:03:18Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:03:41Z,2,00:25,19:35,Shot,Tip-In,-64.0,-11.0,Bryan Rust,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:04:05Z,2,00:25,19:35,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:04:39Z,2,00:55,19:05,Giveaway,n/a,-95.0,9.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:04:43Z,2,00:59,19:01,Missed Shot,n/a,-40.0,21.0,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:04:56Z,2,01:12,18:48,Blocked Shot,n/a,66.0,-14.0,Patric Hornqvist,Blocker,Pittsburgh Penguins,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:05:12Z,2,01:26,18:34,Shot,Wrist Shot,37.0,15.0,Mario Ferraro,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:05:56Z,2,01:27,18:33,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Marcus Sorensen,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:06:25Z,2,01:40,18:20,Shot,Wrist Shot,96.0,-17.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:06:22Z,2,01:42,18:18,Hit,n/a,-93.0,-32.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Marcus Sorensen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:07:01Z,2,01:53,18:07,Faceoff,n/a,20.0,22.0,Joel Kellman,Winner,San Jose Sharks,Joseph Blandisi,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:07:35Z,2,02:21,17:39,Shot,Snap Shot,40.0,13.0,Marc-Edouard Vlasic,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:07:57Z,2,02:43,17:17,Shot,Backhand,-71.0,-5.0,Bryan Rust,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:08:26Z,2,03:12,16:48,Hit,n/a,92.0,31.0,Patrick Marleau,Hitter,San Jose Sharks,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:08:35Z,2,03:21,16:39,Blocked Shot,n/a,75.0,7.0,John Marino,Blocker,Pittsburgh Penguins,Brenden Dillon,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:08:46Z,2,03:29,16:31,Shot,Wrist Shot,-50.0,17.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:09:05Z,2,03:30,16:30,Faceoff,n/a,-69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:09:39Z,2,03:44,16:16,Takeaway,n/a,-29.0,-5.0,Dominik Simon,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:09:32Z,2,03:45,16:15,Missed Shot,n/a,-50.0,-3.0,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:09:46Z,2,03:52,16:08,Shot,Wrist Shot,-57.0,26.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:10:11Z,2,03:53,16:07,Faceoff,n/a,-69.0,22.0,Joe Thornton,Winner,San Jose Sharks,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:10:40Z,2,04:23,15:37,Hit,n/a,-97.0,-24.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:11:47Z,2,05:27,14:33,Shot,Slap Shot,36.0,31.0,Marc-Edouard Vlasic,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:12:14Z,2,05:28,14:32,Faceoff,n/a,69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:12:28Z,2,05:37,14:23,Missed Shot,n/a,45.0,-28.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:12:30Z,2,05:39,14:21,Hit,n/a,59.0,40.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Brenden Dillon,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:12:52Z,2,06:01,13:59,Blocked Shot,n/a,74.0,-4.0,John Marino,Blocker,Pittsburgh Penguins,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:13:07Z,2,06:16,13:44,Hit,n/a,35.0,-39.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Barclay Goodrow,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:13:32Z,2,06:41,13:19,Hit,n/a,8.0,-39.0,Evander Kane,Hitter,San Jose Sharks,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:14:03Z,2,06:47,13:13,Faceoff,n/a,-69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:18:21Z,2,07:02,12:58,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:17:22Z,2,07:17,12:43,Shot,Wrist Shot,-31.0,5.0,Kris Letang,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:17:23Z,2,07:19,12:41,Shot,Tip-In,-80.0,-8.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:17:37Z,2,07:20,12:40,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:18:13Z,2,07:35,12:25,Hit,n/a,-97.0,3.0,Erik Karlsson,Hitter,San Jose Sharks,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:18:21Z,2,07:37,12:23,Missed Shot,n/a,-55.0,4.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:18:21Z,2,08:02,11:58,Hit,n/a,68.0,40.0,Tomas Hertl,Hitter,San Jose Sharks,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:18:37Z,2,08:19,11:41,Shot,Slap Shot,52.0,-32.0,Melker Karlsson,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:19:06Z,2,08:23,11:37,Hit,n/a,87.0,-36.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Stefan Noesen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:25:38Z,2,08:29,11:31,Hit,n/a,94.0,30.0,Chad Ruhwedel,Hitter,Pittsburgh Penguins,Joel Kellman,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:18:47Z,2,08:30,11:30,Shot,Wrist Shot,62.0,20.0,Joel Kellman,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:19:00Z,2,08:31,11:29,Hit,n/a,72.0,40.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Stefan Noesen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:18:49Z,2,08:32,11:28,Hit,n/a,84.0,38.0,Chad Ruhwedel,Hitter,Pittsburgh Penguins,Joel Kellman,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:19:18Z,2,08:47,11:13,Hit,n/a,79.0,40.0,Barclay Goodrow,Hitter,San Jose Sharks,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:19:37Z,2,08:52,11:08,Faceoff,n/a,20.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:20:02Z,2,09:00,11:00,Faceoff,n/a,-20.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:21:28Z,2,09:44,10:16,Faceoff,n/a,69.0,22.0,Joe Thornton,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:22:20Z,2,09:55,10:05,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:22:29Z,2,10:06,09:54,Shot,Snap Shot,-64.0,25.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:23:00Z,2,10:38,09:22,Hit,n/a,87.0,36.0,Stefan Noesen,Hitter,San Jose Sharks,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:23:16Z,2,10:54,09:06,Shot,Wrist Shot,12.0,4.0,Stefan Noesen,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:23:29Z,2,11:02,08:58,Blocked Shot,n/a,50.0,-11.0,Dominik Kahun,Blocker,Pittsburgh Penguins,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:23:40Z,2,11:18,08:42,Hit,n/a,-94.0,26.0,Joseph Blandisi,Hitter,Pittsburgh Penguins,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:23:53Z,2,11:30,08:30,Hit,n/a,98.0,-6.0,Logan Couture,Hitter,San Jose Sharks,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:24:04Z,2,11:42,08:18,Missed Shot,n/a,-40.0,-35.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:24:08Z,2,11:45,08:15,Hit,n/a,-90.0,30.0,Radim Simek,Hitter,San Jose Sharks,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:24:22Z,2,11:56,08:04,Shot,Wrist Shot,-36.0,35.0,Jared McCann,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:26:15Z,2,11:57,08:03,Faceoff,n/a,-69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:27:08Z,2,12:12,07:48,Faceoff,n/a,20.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:27:34Z,2,12:25,07:35,Hit,n/a,22.0,40.0,Timo Meier,Hitter,San Jose Sharks,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:28:37Z,2,12:25,07:35,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:29:06Z,2,12:47,07:13,Blocked Shot,n/a,-50.0,22.0,Tomas Hertl,Blocker,San Jose Sharks,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:29:13Z,2,12:51,07:09,Shot,Wrist Shot,58.0,-29.0,Patrick Marleau,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:29:43Z,2,12:52,07:08,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:30:00Z,2,13:07,06:53,Shot,Wrist Shot,56.0,20.0,Kevin Labanc,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:30:12Z,2,13:17,06:43,Hit,n/a,25.0,-40.0,Brent Burns,Hitter,San Jose Sharks,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:30:40Z,2,13:25,06:35,Faceoff,n/a,-69.0,-22.0,Alex Galchenyuk,Winner,Pittsburgh Penguins,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:30:59Z,2,13:32,06:28,Blocked Shot,n/a,-52.0,-16.0,Kevin Labanc,Blocker,San Jose Sharks,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:31:07Z,2,13:40,06:20,Hit,n/a,1.0,41.0,Kevin Labanc,Hitter,San Jose Sharks,Juuso Riikola,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:31:17Z,2,13:50,06:10,Takeaway,n/a,-38.0,3.0,Stefan Noesen,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:31:27Z,2,14:00,06:00,Shot,Wrist Shot,56.0,11.0,Melker Karlsson,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:31:54Z,2,14:27,05:33,Missed Shot,n/a,34.0,30.0,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:32:08Z,2,14:38,05:22,Takeaway,n/a,-54.0,-11.0,Stefan Noesen,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:33:03Z,2,15:36,04:24,Hit,n/a,-97.0,21.0,Dominik Simon,Hitter,Pittsburgh Penguins,Erik Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:35:22Z,2,15:44,04:16,Faceoff,n/a,-20.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:36:12Z,2,16:14,03:46,Blocked Shot,n/a,69.0,-7.0,Juuso Riikola,Blocker,Pittsburgh Penguins,Evander Kane,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:36:20Z,2,16:17,03:43,Penalty,Interference,0.0,30.0,Evgeni Malkin,PenaltyOn,Pittsburgh Penguins,Barclay Goodrow,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:36:46Z,2,16:17,03:43,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:37:15Z,2,16:24,03:36,Giveaway,n/a,92.0,-29.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:37:20Z,2,16:29,03:31,Giveaway,n/a,46.0,39.0,Evander Kane,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:37:17Z,2,16:37,03:23,Shot,Snap Shot,-56.0,0.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:38:22Z,2,17:03,02:57,Penalty,Tripping,17.0,-22.0,Barclay Goodrow,PenaltyOn,San Jose Sharks,Zach Aston-Reese,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:38:31Z,2,17:03,02:57,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:39:00Z,2,17:32,02:28,Blocked Shot,n/a,49.0,13.0,John Marino,Blocker,Pittsburgh Penguins,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:39:09Z,2,17:41,02:19,Takeaway,n/a,65.0,40.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:39:24Z,2,17:56,02:04,Shot,Snap Shot,74.0,4.0,Erik Karlsson,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:40:28Z,2,19:00,01:00,Hit,n/a,-32.0,-41.0,Radim Simek,Hitter,San Jose Sharks,Alex Galchenyuk,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:40:40Z,2,19:09,00:51,Goal,Wrist Shot,-79.0,-5.0,Patric Hornqvist,Scorer,Pittsburgh Penguins,Bryan Rust,Assist,Pittsburgh Penguins,Alex Galchenyuk,Assist,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks
+2020-01-03T01:41:37Z,2,19:09,00:51,Faceoff,n/a,0.0,0.0,Tomas Hertl,Winner,San Jose Sharks,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:42:04Z,2,19:35,00:25,Shot,Wrist Shot,-63.0,-11.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:42:09Z,2,19:40,00:20,Hit,n/a,-88.0,31.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Tomas Hertl,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T01:42:14Z,2,19:45,00:15,Hit,n/a,-81.0,-39.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Brenden Dillon,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:01:02Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Tomas Hertl,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:01:13Z,3,00:09,19:51,Shot,Slap Shot,-37.0,-26.0,Logan Couture,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:01:25Z,3,00:10,19:50,Faceoff,n/a,-69.0,-22.0,Alex Galchenyuk,Winner,Pittsburgh Penguins,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:02:27Z,3,00:56,19:04,Hit,n/a,-78.0,-39.0,Kris Letang,Hitter,Pittsburgh Penguins,Tomas Hertl,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:02:40Z,3,00:59,19:01,Giveaway,n/a,-88.0,-25.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:02:32Z,3,01:01,18:59,Shot,Wrist Shot,-52.0,-8.0,Patrick Marleau,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:02:58Z,3,01:26,18:34,Takeaway,n/a,-71.0,7.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:03:04Z,3,01:32,18:28,Takeaway,n/a,6.0,-28.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:03:07Z,3,01:35,18:25,Shot,Snap Shot,58.0,2.0,Dominik Simon,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:03:30Z,3,01:58,18:02,Hit,n/a,-46.0,6.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Evander Kane,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:03:34Z,3,01:59,18:01,Takeaway,n/a,-63.0,-10.0,Dominik Simon,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:04:01Z,3,02:29,17:31,Hit,n/a,72.0,-40.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Radim Simek,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:04:13Z,3,02:30,17:30,Takeaway,n/a,36.0,-22.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:05:13Z,3,03:42,16:18,Giveaway,n/a,-97.0,11.0,Stefan Noesen,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:05:18Z,3,03:43,16:17,Shot,Snap Shot,52.0,18.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:05:31Z,3,03:47,16:13,Faceoff,n/a,69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:06:00Z,3,04:04,15:56,Giveaway,n/a,79.0,-23.0,Brenden Dillon,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:06:06Z,3,04:06,15:54,Blocked Shot,n/a,69.0,3.0,Brent Burns,Blocker,San Jose Sharks,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:06:14Z,3,04:17,15:43,Shot,Backhand,-80.0,14.0,Logan Couture,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:06:34Z,3,04:25,15:35,Blocked Shot,n/a,-68.0,21.0,Kris Letang,Blocker,Pittsburgh Penguins,Logan Couture,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:07:10Z,3,04:49,15:11,Shot,Wrist Shot,-55.0,-13.0,Timo Meier,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:07:21Z,3,04:50,15:10,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Evander Kane,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:07:44Z,3,04:59,15:01,Hit,n/a,4.0,41.0,Timo Meier,Hitter,San Jose Sharks,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:07:59Z,3,05:04,14:56,Hit,n/a,98.0,-6.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:08:22Z,3,05:28,14:32,Hit,n/a,91.0,-32.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Barclay Goodrow,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:08:58Z,3,05:58,14:02,Faceoff,n/a,-69.0,-22.0,Joe Thornton,Winner,San Jose Sharks,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:09:19Z,3,06:04,13:56,Blocked Shot,n/a,-72.0,-1.0,John Marino,Blocker,Pittsburgh Penguins,Erik Karlsson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:09:24Z,3,06:14,13:46,Penalty,Tripping,-84.0,3.0,Joe Thornton,PenaltyOn,San Jose Sharks,John Marino,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:11:26Z,3,06:14,13:46,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:11:58Z,3,06:37,13:23,Missed Shot,n/a,47.0,-20.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:12:19Z,3,06:58,13:02,Takeaway,n/a,56.0,39.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:12:38Z,3,06:59,13:01,Giveaway,n/a,50.0,40.0,Tomas Hertl,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:12:31Z,3,07:10,12:50,Shot,Wrist Shot,78.0,-9.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:12:37Z,3,07:16,12:44,Shot,Tip-In,72.0,-1.0,Jared McCann,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:12:51Z,3,07:30,12:30,Shot,Slap Shot,42.0,-18.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:12:56Z,3,07:35,12:25,Hit,n/a,54.0,39.0,Bryan Rust,Hitter,Pittsburgh Penguins,Logan Couture,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:13:00Z,3,07:39,12:21,Shot,Snap Shot,52.0,-10.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:13:53Z,3,08:32,11:28,Shot,Backhand,75.0,1.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:14:00Z,3,08:34,11:26,Shot,Wrist Shot,73.0,-10.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:14:56Z,3,09:35,10:25,Missed Shot,n/a,76.0,19.0,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:15:02Z,3,09:41,10:19,Missed Shot,n/a,38.0,-27.0,Chad Ruhwedel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:15:12Z,3,09:51,10:09,Shot,Wrist Shot,-86.0,-23.0,Timo Meier,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:15:27Z,3,10:06,09:54,Giveaway,n/a,47.0,-19.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:15:39Z,3,10:08,09:52,Giveaway,n/a,43.0,-15.0,Tomas Hertl,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:16:03Z,3,10:42,09:18,Blocked Shot,n/a,61.0,-13.0,Brenden Dillon,Blocker,San Jose Sharks,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:16:26Z,3,10:51,09:09,Hit,n/a,-45.0,40.0,Jared McCann,Hitter,Pittsburgh Penguins,Marcus Sorensen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:16:23Z,3,11:01,08:59,Shot,Slap Shot,-42.0,30.0,Brent Burns,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:18:25Z,3,11:02,08:58,Faceoff,n/a,-69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:32:16Z,3,11:20,08:40,Shot,Tip-In,-79.0,-1.0,Timo Meier,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:19:07Z,3,11:22,08:38,Shot,Wrist Shot,-36.0,-23.0,Brenden Dillon,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:19:10Z,3,11:26,08:34,Hit,n/a,-62.0,42.0,Barclay Goodrow,Hitter,San Jose Sharks,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:19:37Z,3,11:52,08:08,Hit,n/a,-97.0,24.0,Timo Meier,Hitter,San Jose Sharks,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:20:01Z,3,12:17,07:43,Blocked Shot,n/a,-68.0,-10.0,Kris Letang,Blocker,Pittsburgh Penguins,Patrick Marleau,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:20:23Z,3,12:38,07:22,Shot,Wrist Shot,-83.0,-8.0,Tomas Hertl,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:20:53Z,3,13:08,06:52,Shot,Wrist Shot,72.0,-6.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:21:14Z,3,13:15,06:45,Faceoff,n/a,69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:21:37Z,3,13:17,06:43,Shot,Wrist Shot,61.0,17.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:21:56Z,3,13:18,06:42,Faceoff,n/a,69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:22:40Z,3,13:28,06:32,Faceoff,n/a,0.0,0.0,Joe Thornton,Winner,San Jose Sharks,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:23:07Z,3,13:35,06:25,Faceoff,n/a,69.0,22.0,Joe Thornton,Winner,San Jose Sharks,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:23:51Z,3,14:08,05:52,Blocked Shot,n/a,71.0,-12.0,Brenden Dillon,Blocker,San Jose Sharks,Teddy Blueger,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:25:51Z,3,14:09,05:51,Faceoff,n/a,69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:27:01Z,3,14:36,05:24,Faceoff,n/a,-20.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:27:29Z,3,15:07,04:53,Missed Shot,n/a,54.0,36.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:27:41Z,3,15:18,04:42,Hit,n/a,-98.0,-8.0,Evander Kane,Hitter,San Jose Sharks,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:27:45Z,3,15:22,04:38,Hit,n/a,-77.0,39.0,Timo Meier,Hitter,San Jose Sharks,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:28:42Z,3,15:49,04:11,Faceoff,n/a,-69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:29:03Z,3,16:07,03:53,Shot,Snap Shot,-36.0,21.0,Brent Burns,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:29:13Z,3,16:17,03:43,Shot,Wrist Shot,-36.0,-7.0,Logan Couture,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:29:18Z,3,16:23,03:37,Missed Shot,n/a,-37.0,33.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:30:08Z,3,17:12,02:48,Blocked Shot,n/a,58.0,2.0,Barclay Goodrow,Blocker,San Jose Sharks,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:30:43Z,3,17:16,02:44,Faceoff,n/a,69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:31:26Z,3,17:30,02:30,Faceoff,n/a,69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:31:39Z,3,17:34,02:26,Shot,Wrist Shot,91.0,23.0,Erik Karlsson,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:32:01Z,3,17:52,02:08,Giveaway,n/a,56.0,41.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:32:09Z,3,18:10,01:50,Missed Shot,n/a,33.0,28.0,Juuso Riikola,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:32:16Z,3,18:17,01:43,Missed Shot,n/a,41.0,34.0,Juuso Riikola,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:32:47Z,3,18:21,01:39,Faceoff,n/a,69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:33:48Z,3,19:08,00:52,Shot,Wrap-around,88.0,-6.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:36:51Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:37:45Z,4,00:46,04:14,Penalty,Tripping,73.0,-17.0,Kris Letang,PenaltyOn,Pittsburgh Penguins,Logan Couture,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:39:03Z,4,00:46,04:14,Faceoff,n/a,69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:40:03Z,4,01:32,03:28,Shot,Snap Shot,73.0,-19.0,Logan Couture,Shooter,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:40:26Z,4,01:33,03:27,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Evander Kane,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:41:06Z,4,02:02,02:58,Goal,Slap Shot,54.0,5.0,Brent Burns,Scorer,San Jose Sharks,Joe Thornton,Assist,San Jose Sharks,Kevin Labanc,Assist,San Jose Sharks,Tristan Jarry,Goalie,Pittsburgh Penguins

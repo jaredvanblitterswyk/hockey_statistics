@@ -1,0 +1,276 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-23T01:10:43Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:12:05Z,1,00:29,19:31,Shot,Wrist Shot,39.0,-31.0,Ryan Ellis,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:12:11Z,1,00:31,19:29,Shot,Wrist Shot,70.0,2.0,Colin Blackwell,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:12:11Z,1,00:33,19:27,Goal,Wrist Shot,80.0,-5.0,Ryan Johansen,Scorer,Nashville Predators,Colin Blackwell,Assist,Nashville Predators,Ryan Ellis,Assist,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets
+2020-02-23T01:14:32Z,1,00:33,19:27,Faceoff,n/a,0.0,0.0,Craig Smith,Winner,Nashville Predators,Nathan Gerbe,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:13:26Z,1,01:10,18:50,Missed Shot,n/a,41.0,-29.0,Dante Fabbro,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:13:45Z,1,01:29,18:31,Hit,n/a,-63.0,-38.0,Boone Jenner,Hitter,Columbus Blue Jackets,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:14:44Z,1,02:06,17:54,Faceoff,n/a,0.0,0.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:15:01Z,1,02:13,17:47,Faceoff,n/a,20.0,22.0,Calle Jarnkrok,Winner,Nashville Predators,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:15:48Z,1,02:33,17:27,Faceoff,n/a,69.0,22.0,Calle Jarnkrok,Winner,Nashville Predators,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:16:52Z,1,03:11,16:49,Shot,Wrist Shot,61.0,22.0,Roman Josi,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:16:59Z,1,03:19,16:41,Takeaway,n/a,-15.0,-38.0,Roman Josi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:17:13Z,1,03:32,16:28,Missed Shot,n/a,35.0,26.0,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:17:28Z,1,03:32,16:28,Faceoff,n/a,69.0,22.0,Kyle Turris,Winner,Nashville Predators,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:17:44Z,1,03:35,16:25,Shot,Wrist Shot,54.0,17.0,Rocco Grimaldi,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:17:50Z,1,03:35,16:25,Faceoff,n/a,69.0,22.0,Craig Smith,Winner,Nashville Predators,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:18:20Z,1,03:39,16:21,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:18:46Z,1,03:56,16:04,Missed Shot,n/a,-38.0,26.0,Markus Nutivaara,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:18:55Z,1,04:00,16:00,Shot,Wrap-around,-82.0,8.0,Nathan Gerbe,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:19:12Z,1,04:00,16:00,Faceoff,n/a,-69.0,22.0,Colton Sissons,Winner,Nashville Predators,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:20:17Z,1,04:39,15:21,Faceoff,n/a,-20.0,-22.0,Matt Duchene,Winner,Nashville Predators,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:20:48Z,1,05:03,14:57,Blocked Shot,n/a,62.0,15.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:21:07Z,1,05:03,14:57,Faceoff,n/a,69.0,22.0,Colin Blackwell,Winner,Nashville Predators,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:21:28Z,1,05:10,14:50,Shot,Wrist Shot,92.0,-8.0,Austin Watson,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:21:35Z,1,05:16,14:44,Shot,Wrist Shot,-58.0,-10.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:22:04Z,1,05:17,14:43,Faceoff,n/a,-69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:22:29Z,1,05:36,14:24,Shot,Wrist Shot,-76.0,-21.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:22:51Z,1,05:41,14:19,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:23:12Z,1,05:59,14:01,Hit,n/a,-75.0,-38.0,Dante Fabbro,Hitter,Nashville Predators,David Savard,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:23:32Z,1,06:07,13:53,Takeaway,n/a,8.0,37.0,Stefan Matteau,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:23:33Z,1,06:21,13:39,Missed Shot,n/a,70.0,-33.0,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:24:03Z,1,06:51,13:09,Giveaway,n/a,-37.0,-37.0,Juuse Saros,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:24:56Z,1,07:23,12:37,Missed Shot,n/a,73.0,2.0,Colton Sissons,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:24:49Z,1,07:37,12:23,Missed Shot,n/a,60.0,17.0,Mikael Granlund,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:25:05Z,1,07:53,12:07,Blocked Shot,n/a,-71.0,-14.0,Roman Josi,Blocker,Nashville Predators,Kevin Stenlund,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:25:42Z,1,08:30,11:30,Takeaway,n/a,36.0,35.0,Zach Werenski,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:26:16Z,1,08:57,11:03,Shot,Deflected,12.0,-25.0,Stefan Matteau,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:26:32Z,1,08:58,11:02,Faceoff,n/a,-69.0,-22.0,Kyle Turris,Winner,Nashville Predators,Nathan Gerbe,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:27:01Z,1,09:19,10:41,Shot,Slap Shot,42.0,18.0,Jarred Tinordi,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:27:17Z,1,09:32,10:28,Missed Shot,n/a,75.0,8.0,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:27:43Z,1,10:02,09:58,Shot,Wrist Shot,-37.0,-25.0,Scott Harrington,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:30:02Z,1,10:02,09:58,Faceoff,n/a,-69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:30:14Z,1,10:15,09:45,Shot,Snap Shot,-37.0,-26.0,Markus Nutivaara,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:30:21Z,1,10:22,09:38,Missed Shot,n/a,-38.0,-17.0,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:30:24Z,1,10:25,09:35,Takeaway,n/a,-68.0,37.0,Filip Forsberg,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:30:31Z,1,10:31,09:29,Goal,Wrist Shot,79.0,-15.0,Mikael Granlund,Scorer,Nashville Predators,Filip Forsberg,Assist,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a
+2020-02-23T01:31:17Z,1,10:31,09:29,Faceoff,n/a,0.0,0.0,Matt Duchene,Winner,Nashville Predators,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:32:24Z,1,11:47,08:13,Blocked Shot,n/a,50.0,-6.0,Stefan Matteau,Blocker,Columbus Blue Jackets,Yannick Weber,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:32:44Z,1,12:07,07:53,Missed Shot,n/a,39.0,25.0,Jarred Tinordi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:34:37Z,1,12:19,07:41,Faceoff,n/a,20.0,22.0,Ryan Johansen,Winner,Nashville Predators,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:35:11Z,1,12:25,07:35,Shot,Wrist Shot,44.0,-31.0,Ryan Ellis,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:35:18Z,1,12:26,07:34,Faceoff,n/a,69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:35:41Z,1,12:35,07:25,Shot,Snap Shot,39.0,27.0,Ryan Ellis,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:35:55Z,1,12:49,07:11,Giveaway,n/a,61.0,-38.0,Elvis Merzlikins,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:36:09Z,1,13:03,06:57,Shot,Snap Shot,51.0,29.0,Roman Josi,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:36:13Z,1,13:07,06:53,Giveaway,n/a,38.0,38.0,Austin Watson,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:36:48Z,1,13:42,06:18,Giveaway,n/a,-53.0,-1.0,Dante Fabbro,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:36:52Z,1,13:46,06:14,Shot,Slap Shot,-50.0,31.0,Nick Foligno,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:38:32Z,1,13:48,06:12,Blocked Shot,n/a,-77.0,-1.0,Mattias Ekholm,Blocker,Nashville Predators,Gustav Nyquist,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:37:21Z,1,14:11,05:49,Shot,Deflected,79.0,-23.0,Filip Forsberg,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:39:14Z,1,14:11,05:49,Faceoff,n/a,69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:39:49Z,1,14:20,05:40,Giveaway,n/a,39.0,-1.0,Zach Werenski,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:39:51Z,1,14:23,05:37,Shot,Wrist Shot,59.0,-3.0,Matt Duchene,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:39:57Z,1,14:29,05:31,Blocked Shot,n/a,74.0,-7.0,David Savard,Blocker,Columbus Blue Jackets,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:40:08Z,1,14:39,05:21,Hit,n/a,21.0,-35.0,Zach Werenski,Hitter,Columbus Blue Jackets,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:40:33Z,1,14:41,05:19,Faceoff,n/a,20.0,-22.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:40:39Z,1,14:47,05:13,Hit,n/a,7.0,39.0,Jarred Tinordi,Hitter,Nashville Predators,Emil Bemstrom,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:40:47Z,1,14:54,05:06,Hit,n/a,-81.0,-35.0,Calvin Thurkauf,Hitter,Columbus Blue Jackets,Yannick Weber,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:41:28Z,1,15:11,04:49,Faceoff,n/a,20.0,-22.0,Nick Foligno,Winner,Columbus Blue Jackets,Mikael Granlund,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:42:16Z,1,15:43,04:17,Shot,Slap Shot,51.0,13.0,Colton Sissons,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:42:24Z,1,15:45,04:15,Penalty,Slashing,-28.0,-15.0,Pierre-Luc Dubois,PenaltyOn,Columbus Blue Jackets,Roman Josi,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:43:01Z,1,15:45,04:15,Faceoff,n/a,69.0,22.0,Mikael Granlund,Winner,Nashville Predators,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:43:12Z,1,15:54,04:06,Shot,Snap Shot,59.0,22.0,Kyle Turris,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:43:18Z,1,16:01,03:59,Shot,Wrist Shot,37.0,23.0,Roman Josi,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:44:41Z,1,17:24,02:36,Shot,Slap Shot,49.0,24.0,Ryan Ellis,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:45:37Z,1,18:20,01:40,Giveaway,n/a,44.0,-18.0,Jarred Tinordi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:45:42Z,1,18:25,01:35,Shot,Wrist Shot,-61.0,21.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:46:13Z,1,18:56,01:04,Missed Shot,n/a,-83.0,-26.0,Calvin Thurkauf,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:46:18Z,1,19:00,01:00,Blocked Shot,n/a,-70.0,-7.0,Austin Watson,Blocker,Nashville Predators,Riley Nash,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:46:45Z,1,19:27,00:33,Hit,n/a,-93.0,25.0,Riley Nash,Hitter,Columbus Blue Jackets,Ryan Ellis,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:46:57Z,1,19:39,00:21,Shot,Wrist Shot,-72.0,-22.0,Boone Jenner,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:47:07Z,1,19:49,00:11,Missed Shot,n/a,-73.0,-22.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:47:14Z,1,19:55,00:05,Blocked Shot,n/a,56.0,14.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T01:47:16Z,1,19:58,00:02,Hit,n/a,97.0,17.0,David Savard,Hitter,Columbus Blue Jackets,Rocco Grimaldi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:05:38Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:06:09Z,2,00:18,19:42,Shot,Wrist Shot,37.0,26.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:06:14Z,2,00:23,19:37,Takeaway,n/a,61.0,-39.0,Nick Foligno,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:06:20Z,2,00:28,19:32,Blocked Shot,n/a,49.0,-17.0,Colin Blackwell,Blocker,Nashville Predators,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:06:30Z,2,00:39,19:21,Giveaway,n/a,-32.0,22.0,Vladislav Gavrikov,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:07:02Z,2,00:55,19:05,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:07:57Z,2,00:59,19:01,Shot,Wrist Shot,79.0,-3.0,Nathan Gerbe,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:07:14Z,2,01:00,19:00,Shot,Wrist Shot,79.0,-4.0,Nathan Gerbe,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:07:18Z,2,01:00,19:00,Goal,Backhand,78.0,-3.0,Boone Jenner,Scorer,Columbus Blue Jackets,Nathan Gerbe,Assist,Columbus Blue Jackets,Stefan Matteau,Assist,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators
+2020-02-23T02:07:57Z,2,01:00,19:00,Faceoff,n/a,0.0,0.0,Kyle Turris,Winner,Nashville Predators,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:08:05Z,2,01:18,18:42,Hit,n/a,70.0,38.0,Nathan Gerbe,Hitter,Columbus Blue Jackets,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:08:10Z,2,01:21,18:39,Shot,Wrist Shot,65.0,-1.0,Nathan Gerbe,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:08:34Z,2,01:21,18:39,Faceoff,n/a,69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:09:09Z,2,01:58,18:02,Blocked Shot,n/a,55.0,-20.0,Filip Forsberg,Blocker,Nashville Predators,Scott Harrington,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:09:20Z,2,02:09,17:51,Shot,Wrist Shot,78.0,-26.0,Riley Nash,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:09:54Z,2,02:09,17:51,Faceoff,n/a,69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:09:55Z,2,02:14,17:46,Hit,n/a,72.0,38.0,Nick Foligno,Hitter,Columbus Blue Jackets,Austin Watson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:10:08Z,2,02:27,17:33,Blocked Shot,n/a,-72.0,-12.0,David Savard,Blocker,Columbus Blue Jackets,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:10:11Z,2,02:30,17:30,Hit,n/a,-74.0,-38.0,David Savard,Hitter,Columbus Blue Jackets,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:10:20Z,2,02:39,17:21,Shot,Wrist Shot,-60.0,-29.0,Roman Josi,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:10:35Z,2,02:54,17:06,Shot,Wrist Shot,3.0,-9.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:10:38Z,2,02:58,17:02,Hit,n/a,74.0,37.0,Pierre-Luc Dubois,Hitter,Columbus Blue Jackets,Yannick Weber,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:11:17Z,2,03:36,16:24,Shot,Wrist Shot,-82.0,-22.0,Viktor Arvidsson,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:11:38Z,2,03:58,16:02,Missed Shot,n/a,-67.0,-27.0,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:11:42Z,2,04:01,15:59,Takeaway,n/a,-97.0,7.0,Zach Werenski,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:11:58Z,2,04:18,15:42,Giveaway,n/a,84.0,33.0,Yannick Weber,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:12:06Z,2,04:25,15:35,Shot,Slap Shot,35.0,-26.0,Andrew Peeke,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:12:14Z,2,04:29,15:31,Shot,Wrist Shot,39.0,29.0,Scott Harrington,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:12:43Z,2,04:40,15:20,Faceoff,n/a,69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:12:54Z,2,04:45,15:15,Shot,Slap Shot,60.0,-28.0,Eric Robinson,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:13:01Z,2,04:50,15:10,Goal,Snap Shot,60.0,0.0,Eric Robinson,Scorer,Columbus Blue Jackets,Jakob Lilja,Assist,Columbus Blue Jackets,Vladislav Gavrikov,Assist,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators
+2020-02-23T02:13:42Z,2,04:50,15:10,Faceoff,n/a,0.0,0.0,Boone Jenner,Winner,Columbus Blue Jackets,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:13:53Z,2,05:05,14:55,Shot,Backhand,67.0,-32.0,Boone Jenner,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:14:15Z,2,05:26,14:34,Shot,Snap Shot,-37.0,-27.0,Mattias Ekholm,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:14:21Z,2,05:32,14:28,Missed Shot,n/a,-76.0,-22.0,Mikael Granlund,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:14:55Z,2,06:06,13:54,Hit,n/a,-10.0,-1.0,Craig Smith,Hitter,Nashville Predators,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:15:49Z,2,06:08,13:52,Hit,n/a,-7.0,3.0,David Savard,Hitter,Columbus Blue Jackets,Kyle Turris,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:15:01Z,2,06:12,13:48,Blocked Shot,n/a,-76.0,11.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:15:07Z,2,06:19,13:41,Shot,Wrist Shot,-77.0,13.0,Craig Smith,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:17:00Z,2,06:23,13:37,Faceoff,n/a,20.0,-22.0,Matt Duchene,Winner,Nashville Predators,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:17:27Z,2,06:27,13:33,Giveaway,n/a,23.0,-1.0,Jarred Tinordi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:17:41Z,2,06:42,13:18,Blocked Shot,n/a,81.0,-6.0,Yannick Weber,Blocker,Nashville Predators,Markus Nutivaara,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:17:49Z,2,06:46,13:14,Shot,Slap Shot,39.0,28.0,Zach Werenski,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:17:54Z,2,06:55,13:05,Takeaway,n/a,-64.0,38.0,Zach Werenski,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:18:40Z,2,07:41,12:19,Shot,Slap Shot,-40.0,-25.0,Roman Josi,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:19:35Z,2,07:49,12:11,Faceoff,n/a,-69.0,22.0,Colton Sissons,Winner,Nashville Predators,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:19:49Z,2,08:06,11:54,Shot,Wrist Shot,81.0,-20.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:19:58Z,2,08:15,11:45,Blocked Shot,n/a,59.0,-5.0,Filip Forsberg,Blocker,Nashville Predators,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:20:23Z,2,08:40,11:20,Giveaway,n/a,74.0,16.0,David Savard,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:20:45Z,2,09:02,10:58,Missed Shot,n/a,-68.0,-22.0,Rocco Grimaldi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:21:23Z,2,09:40,10:20,Blocked Shot,n/a,-74.0,9.0,Boone Jenner,Blocker,Columbus Blue Jackets,Jarred Tinordi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:21:28Z,2,09:45,10:15,Giveaway,n/a,-35.0,15.0,Boone Jenner,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:21:37Z,2,09:54,10:06,Blocked Shot,n/a,-75.0,8.0,Markus Nutivaara,Blocker,Columbus Blue Jackets,Yannick Weber,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:21:46Z,2,10:03,09:57,Missed Shot,n/a,-69.0,32.0,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:22:02Z,2,10:13,09:47,Missed Shot,n/a,4.0,31.0,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:22:38Z,2,10:14,09:46,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:23:34Z,2,10:59,09:01,Blocked Shot,n/a,-66.0,2.0,Scott Harrington,Blocker,Columbus Blue Jackets,Calle Jarnkrok,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:23:49Z,2,11:15,08:45,Missed Shot,n/a,73.0,-13.0,Eric Robinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:23:58Z,2,11:24,08:36,Shot,Wrist Shot,85.0,-8.0,Jakob Lilja,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:24:19Z,2,11:45,08:15,Shot,Wrist Shot,-63.0,16.0,Colton Sissons,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:24:27Z,2,11:52,08:08,Shot,Wrist Shot,54.0,20.0,Boone Jenner,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:24:32Z,2,11:55,08:05,Shot,Wrist Shot,87.0,30.0,Boone Jenner,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:26:32Z,2,11:55,08:05,Faceoff,n/a,69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:28:18Z,2,13:20,06:40,Giveaway,n/a,0.0,-33.0,Craig Smith,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:28:21Z,2,13:23,06:37,Blocked Shot,n/a,79.0,-15.0,Andrew Peeke,Blocker,Columbus Blue Jackets,Jarred Tinordi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:28:34Z,2,13:36,06:24,Hit,n/a,94.0,-25.0,Stefan Matteau,Hitter,Columbus Blue Jackets,Jarred Tinordi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:28:54Z,2,13:56,06:04,Hit,n/a,85.0,33.0,Boone Jenner,Hitter,Columbus Blue Jackets,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:29:27Z,2,14:29,05:31,Shot,Wrist Shot,-64.0,-19.0,Calle Jarnkrok,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:31:22Z,2,14:30,05:30,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Mikael Granlund,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:32:06Z,2,14:41,05:19,Giveaway,n/a,-9.0,-19.0,Nathan Gerbe,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:32:13Z,2,14:48,05:12,Shot,Backhand,-77.0,-5.0,Colton Sissons,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:32:20Z,2,14:54,05:06,Shot,Wrist Shot,-78.0,-13.0,Colton Sissons,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:32:50Z,2,14:54,05:06,Faceoff,n/a,-69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Mikael Granlund,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:33:35Z,2,15:26,04:34,Takeaway,n/a,10.0,-38.0,Kevin Stenlund,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:33:41Z,2,15:31,04:29,Shot,Wrist Shot,38.0,16.0,Scott Harrington,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:33:58Z,2,15:49,04:11,Blocked Shot,n/a,-80.0,-6.0,David Savard,Blocker,Columbus Blue Jackets,Jarred Tinordi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:34:28Z,2,16:19,03:41,Giveaway,n/a,40.0,-38.0,Juuse Saros,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:34:31Z,2,16:22,03:38,Blocked Shot,n/a,71.0,-21.0,Jarred Tinordi,Blocker,Nashville Predators,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:34:49Z,2,16:39,03:21,Hit,n/a,96.0,8.0,Pierre-Luc Dubois,Hitter,Columbus Blue Jackets,Jarred Tinordi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:35:00Z,2,16:50,03:10,Blocked Shot,n/a,69.0,0.0,Matt Duchene,Blocker,Nashville Predators,Nick Foligno,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:35:21Z,2,17:08,02:52,Penalty,Delaying Game - Puck over glass,40.0,25.0,Viktor Arvidsson,PenaltyOn,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:36:18Z,2,17:08,02:52,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:36:30Z,2,17:21,02:39,Goal,Wrist Shot,61.0,-27.0,Emil Bemstrom,Scorer,Columbus Blue Jackets,Markus Nutivaara,Assist,Columbus Blue Jackets,David Savard,Assist,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators
+2020-02-23T02:37:14Z,2,17:21,02:39,Faceoff,n/a,0.0,0.0,Riley Nash,Winner,Columbus Blue Jackets,Colin Blackwell,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:37:55Z,2,17:50,02:10,Hit,n/a,-4.0,-38.0,Eric Robinson,Hitter,Columbus Blue Jackets,Mattias Ekholm,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:38:28Z,2,17:52,02:08,Faceoff,n/a,0.0,0.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:38:39Z,2,18:11,01:49,Missed Shot,n/a,68.0,-2.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:38:52Z,2,18:23,01:37,Giveaway,n/a,-32.0,-35.0,Craig Smith,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:39:26Z,2,18:55,01:05,Giveaway,n/a,-64.0,-37.0,David Savard,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:39:26Z,2,18:57,01:03,Goal,Deflected,-81.0,5.0,Colton Sissons,Scorer,Nashville Predators,Filip Forsberg,Assist,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a
+2020-02-23T02:40:19Z,2,18:57,01:03,Faceoff,n/a,0.0,0.0,Riley Nash,Winner,Columbus Blue Jackets,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:40:29Z,2,19:16,00:44,Hit,n/a,90.0,30.0,Riley Nash,Hitter,Columbus Blue Jackets,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:40:57Z,2,19:43,00:17,Giveaway,n/a,35.0,-9.0,Austin Watson,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:40:59Z,2,19:46,00:14,Shot,Wrist Shot,59.0,-15.0,Nick Foligno,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:41:07Z,2,19:53,00:07,Blocked Shot,n/a,70.0,9.0,Ryan Ellis,Blocker,Nashville Predators,Gustav Nyquist,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T02:41:15Z,2,20:00,00:00,Shot,Wrist Shot,-65.0,-16.0,Austin Watson,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:00:56Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Kyle Turris,Winner,Nashville Predators,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:00:13Z,3,00:13,19:47,Takeaway,n/a,44.0,35.0,Craig Smith,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:00:10Z,3,00:16,19:44,Shot,Wrist Shot,71.0,-8.0,Rocco Grimaldi,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:00:27Z,3,00:33,19:27,Missed Shot,n/a,-39.0,-26.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:00:44Z,3,00:49,19:11,Missed Shot,n/a,-52.0,30.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:01:22Z,3,01:27,18:33,Hit,n/a,73.0,39.0,Austin Watson,Hitter,Nashville Predators,Zach Werenski,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:01:30Z,3,01:35,18:25,Shot,Wrist Shot,-63.0,16.0,Boone Jenner,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:01:54Z,3,01:35,18:25,Faceoff,n/a,-69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Mikael Granlund,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:02:04Z,3,01:39,18:21,Shot,Wrist Shot,-42.0,13.0,Andrew Peeke,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:03:00Z,3,02:36,17:24,Takeaway,n/a,6.0,39.0,Roman Josi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:03:05Z,3,02:40,17:20,Blocked Shot,n/a,70.0,18.0,Kevin Stenlund,Blocker,Columbus Blue Jackets,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:03:39Z,3,03:14,16:46,Blocked Shot,n/a,71.0,7.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:04:02Z,3,03:37,16:23,Shot,Deflected,-74.0,1.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:04:34Z,3,03:37,16:23,Faceoff,n/a,-69.0,-22.0,Kyle Turris,Winner,Nashville Predators,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:05:09Z,3,04:02,15:58,Hit,n/a,-37.0,-39.0,Nick Foligno,Hitter,Columbus Blue Jackets,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:05:15Z,3,04:08,15:52,Missed Shot,n/a,77.0,-17.0,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:05:44Z,3,04:37,15:23,Blocked Shot,n/a,-55.0,12.0,Austin Watson,Blocker,Nashville Predators,Andrew Peeke,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:05:57Z,3,04:37,15:23,Faceoff,n/a,-69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:06:20Z,3,04:50,15:10,Hit,n/a,71.0,40.0,Andrew Peeke,Hitter,Columbus Blue Jackets,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:06:51Z,3,05:18,14:42,Blocked Shot,n/a,-76.0,-11.0,Ryan Ellis,Blocker,Nashville Predators,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:07:12Z,3,05:42,14:18,Blocked Shot,n/a,-83.0,-8.0,Ryan Ellis,Blocker,Nashville Predators,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:07:20Z,3,05:50,14:10,Shot,Slap Shot,-70.0,-19.0,Jakob Lilja,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:09:50Z,3,06:05,13:55,Faceoff,n/a,20.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:10:22Z,3,06:32,13:28,Penalty,Hooking,-90.0,23.0,Colton Sissons,PenaltyOn,Nashville Predators,Pierre-Luc Dubois,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:10:58Z,3,06:32,13:28,Faceoff,n/a,-69.0,-22.0,Kyle Turris,Winner,Nashville Predators,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:11:18Z,3,06:54,13:06,Blocked Shot,n/a,-77.0,-10.0,Mattias Ekholm,Blocker,Nashville Predators,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:11:41Z,3,07:17,12:43,Shot,Wrist Shot,-59.0,21.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:12:07Z,3,07:17,12:43,Faceoff,n/a,-69.0,22.0,Nick Foligno,Winner,Columbus Blue Jackets,Calle Jarnkrok,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:12:22Z,3,07:26,12:34,Shot,Wrist Shot,-73.0,16.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:12:26Z,3,07:30,12:30,Shot,Wrap-around,-87.0,7.0,Nick Foligno,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:12:32Z,3,07:31,12:29,Shot,Slap Shot,-63.0,-21.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:12:41Z,3,07:32,12:28,Faceoff,n/a,-69.0,-22.0,Calle Jarnkrok,Winner,Nashville Predators,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:13:44Z,3,08:21,11:39,Giveaway,n/a,-31.0,-26.0,Kyle Turris,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:13:49Z,3,08:27,11:33,Shot,Wrist Shot,-62.0,-26.0,Zach Werenski,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:14:33Z,3,09:10,10:50,Blocked Shot,n/a,68.0,14.0,David Savard,Blocker,Columbus Blue Jackets,Dante Fabbro,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:15:11Z,3,09:49,10:11,Shot,Wrist Shot,-77.0,-27.0,Stefan Matteau,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:15:40Z,3,09:50,10:10,Faceoff,n/a,-69.0,-22.0,Nathan Gerbe,Winner,Columbus Blue Jackets,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:16:51Z,3,10:44,09:16,Missed Shot,n/a,-40.0,30.0,Markus Nutivaara,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:16:57Z,3,10:50,09:10,Hit,n/a,4.0,-39.0,Nick Foligno,Hitter,Columbus Blue Jackets,Matt Duchene,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:17:29Z,3,11:22,08:38,Blocked Shot,n/a,-73.0,-15.0,Colin Blackwell,Blocker,Nashville Predators,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:20:12Z,3,12:09,07:51,Faceoff,n/a,-69.0,-22.0,Colton Sissons,Winner,Nashville Predators,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:20:49Z,3,12:15,07:45,Faceoff,n/a,-20.0,22.0,Colton Sissons,Winner,Nashville Predators,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:21:33Z,3,12:48,07:12,Shot,Wrist Shot,70.0,-25.0,Colton Sissons,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:21:43Z,3,12:58,07:02,Shot,Wrist Shot,-17.0,1.0,Boone Jenner,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:22:38Z,3,13:21,06:39,Faceoff,n/a,20.0,-22.0,Matt Duchene,Winner,Nashville Predators,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:23:23Z,3,13:41,06:19,Faceoff,n/a,20.0,22.0,Kyle Turris,Winner,Nashville Predators,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:24:05Z,3,14:13,05:47,Blocked Shot,n/a,52.0,0.0,Nick Foligno,Blocker,Columbus Blue Jackets,Rocco Grimaldi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:24:46Z,3,14:53,05:07,Hit,n/a,98.0,-4.0,David Savard,Hitter,Columbus Blue Jackets,Matt Duchene,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:24:58Z,3,15:06,04:54,Shot,Wrist Shot,45.0,21.0,Roman Josi,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:25:05Z,3,15:12,04:48,Blocked Shot,n/a,57.0,10.0,Boone Jenner,Blocker,Columbus Blue Jackets,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:25:37Z,3,15:45,04:15,Blocked Shot,n/a,80.0,1.0,David Savard,Blocker,Columbus Blue Jackets,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:26:24Z,3,16:31,03:29,Giveaway,n/a,-33.0,39.0,Jarred Tinordi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:26:43Z,3,16:50,03:10,Shot,Wrist Shot,71.0,17.0,Filip Forsberg,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:26:50Z,3,16:57,03:03,Shot,Slap Shot,54.0,6.0,Mikael Granlund,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:26:53Z,3,17:01,02:59,Hit,n/a,58.0,-29.0,Eric Robinson,Hitter,Columbus Blue Jackets,Ryan Ellis,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:27:27Z,3,17:12,02:48,Faceoff,n/a,69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:28:03Z,3,17:40,02:20,Blocked Shot,n/a,43.0,20.0,Riley Nash,Blocker,Columbus Blue Jackets,Ryan Ellis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:28:22Z,3,18:03,01:57,Blocked Shot,n/a,77.0,-10.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Austin Watson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:28:54Z,3,18:03,01:57,Faceoff,n/a,69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:29:13Z,3,18:16,01:44,Shot,Wrist Shot,46.0,12.0,Colin Blackwell,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:30:02Z,3,19:03,00:57,Missed Shot,n/a,47.0,-27.0,Ryan Ellis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:30:27Z,3,19:28,00:32,Shot,Slap Shot,37.0,21.0,Roman Josi,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:30:58Z,3,19:29,00:31,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:33:49Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:34:50Z,4,00:56,04:04,Hit,n/a,-96.0,18.0,Pierre-Luc Dubois,Hitter,Columbus Blue Jackets,Mattias Ekholm,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:35:30Z,4,01:36,03:24,Shot,Wrist Shot,77.0,-17.0,Nathan Gerbe,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:35:41Z,4,01:47,03:13,Shot,Wrist Shot,68.0,17.0,Nathan Gerbe,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:36:08Z,4,01:48,03:12,Faceoff,n/a,69.0,22.0,Kyle Turris,Winner,Nashville Predators,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:36:29Z,4,02:06,02:54,Missed Shot,n/a,-71.0,26.0,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:37:09Z,4,02:47,02:13,Blocked Shot,n/a,-60.0,0.0,Zach Werenski,Blocker,Columbus Blue Jackets,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:37:19Z,4,02:56,02:04,Shot,Wrist Shot,71.0,15.0,Zach Werenski,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:37:46Z,4,02:57,02:03,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:38:16Z,4,03:21,01:39,Hit,n/a,-70.0,38.0,Markus Nutivaara,Hitter,Columbus Blue Jackets,Filip Forsberg,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:38:24Z,4,03:29,01:31,Missed Shot,n/a,-81.0,16.0,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:38:52Z,4,03:57,01:03,Blocked Shot,n/a,61.0,16.0,Mikael Granlund,Blocker,Nashville Predators,Nathan Gerbe,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:39:08Z,4,04:13,00:47,Shot,Wrist Shot,-72.0,21.0,Matt Duchene,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:39:30Z,4,04:13,00:47,Faceoff,n/a,-69.0,22.0,Kyle Turris,Winner,Nashville Predators,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:40:13Z,4,04:42,00:18,Hit,n/a,-93.0,24.0,Nick Foligno,Hitter,Columbus Blue Jackets,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:40:24Z,4,04:53,00:07,Blocked Shot,n/a,55.0,-13.0,Viktor Arvidsson,Blocker,Nashville Predators,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:42:14Z,5,00:00,00:00,Goal,Wrist Shot,-74.0,1.0,Pierre-Luc Dubois,Scorer,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:42:40Z,5,00:00,00:00,Goal,Wrist Shot,73.0,-1.0,Filip Forsberg,Scorer,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:43:24Z,5,00:00,00:00,Shot,Wrist Shot,-81.0,0.0,Stefan Matteau,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:43:41Z,5,00:00,00:00,Shot,Wrist Shot,85.0,8.0,Matt Duchene,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:44:04Z,5,00:00,00:00,Shot,Wrist Shot,-76.0,2.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:44:32Z,5,00:00,00:00,Shot,Wrist Shot,72.0,2.0,Kyle Turris,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:45:01Z,5,00:00,00:00,Goal,Wrist Shot,-76.0,2.0,Gustav Nyquist,Scorer,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:45:33Z,5,00:00,00:00,Goal,Wrist Shot,73.0,3.0,Ryan Ellis,Scorer,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:46:05Z,5,00:00,00:00,Shot,Backhand,-81.0,5.0,Nathan Gerbe,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:46:33Z,5,00:00,00:00,Shot,Backhand,79.0,-2.0,Roman Josi,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:47:01Z,5,00:00,00:00,Shot,Wrist Shot,-78.0,2.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:47:29Z,5,00:00,00:00,Shot,Wrist Shot,75.0,0.0,Ryan Johansen,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:47:56Z,5,00:00,00:00,Shot,Wrist Shot,-72.0,6.0,Boone Jenner,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:48:25Z,5,00:00,00:00,Shot,Wrist Shot,69.0,2.0,Calle Jarnkrok,Shooter,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:48:52Z,5,00:00,00:00,Shot,Backhand,-83.0,-4.0,Riley Nash,Shooter,Columbus Blue Jackets,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T03:49:18Z,5,00:00,00:00,Goal,Backhand,81.0,6.0,Rocco Grimaldi,Scorer,Nashville Predators,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a

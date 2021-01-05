@@ -1,0 +1,238 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-15T00:12:21Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:12:46Z,1,00:15,19:45,Missed Shot,n/a,68.0,-7.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:13:07Z,1,00:34,19:26,Shot,Snap Shot,36.0,1.0,Kris Letang,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:13:33Z,1,00:35,19:25,Faceoff,n/a,69.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:13:50Z,1,00:55,19:05,Hit,n/a,-70.0,-38.0,Chad Ruhwedel,Hitter,Pittsburgh Penguins,Marcus Foligno,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:13:55Z,1,01:00,19:00,Hit,n/a,-97.0,-13.0,Chad Ruhwedel,Hitter,Pittsburgh Penguins,Jonas Brodin,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:14:22Z,1,01:27,18:33,Hit,n/a,-97.0,-16.0,Jason Zucker,Hitter,Minnesota Wild,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:14:52Z,1,01:58,18:02,Missed Shot,n/a,-53.0,-17.0,Jason Zucker,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:15:01Z,1,02:06,17:54,Hit,n/a,-65.0,-39.0,Andrew Agozzino,Hitter,Pittsburgh Penguins,Mats Zuccarello,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:16:47Z,1,03:31,16:29,Faceoff,n/a,-20.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:17:08Z,1,03:48,16:12,Shot,Snap Shot,-47.0,5.0,Luke Kunin,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:17:41Z,1,04:24,15:36,Shot,Wrist Shot,-82.0,26.0,Jared Spurgeon,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:18:03Z,1,04:27,15:33,Faceoff,n/a,-69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:18:52Z,1,04:42,15:18,Faceoff,n/a,69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:19:15Z,1,04:50,15:10,Faceoff,n/a,69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:19:26Z,1,04:54,15:06,Shot,Wrist Shot,36.0,6.0,Kris Letang,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:19:41Z,1,04:55,15:05,Faceoff,n/a,69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:19:51Z,1,05:00,15:00,Giveaway,n/a,98.0,6.0,Ryan Suter,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:20:00Z,1,05:05,14:55,Shot,Wrist Shot,80.0,24.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:20:21Z,1,05:06,14:54,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Ryan Hartman,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:21:20Z,1,05:34,14:26,Faceoff,n/a,-69.0,-22.0,Mikko Koivu,Winner,Minnesota Wild,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:21:30Z,1,05:40,14:20,Blocked Shot,n/a,-43.0,16.0,Dominik Kahun,Blocker,Pittsburgh Penguins,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:21:44Z,1,05:51,14:09,Shot,Wrist Shot,-60.0,-34.0,Mikko Koivu,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:22:06Z,1,05:52,14:08,Faceoff,n/a,-69.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Andrew Agozzino,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:22:21Z,1,05:57,14:03,Shot,Wrist Shot,-32.0,-6.0,Luke Kunin,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:22:59Z,1,06:35,13:25,Hit,n/a,-56.0,-40.0,Marcus Foligno,Hitter,Minnesota Wild,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:23:25Z,1,07:02,12:58,Blocked Shot,n/a,-53.0,28.0,Zach Aston-Reese,Blocker,Pittsburgh Penguins,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:23:37Z,1,07:14,12:46,Hit,n/a,74.0,-40.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Ryan Suter,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:23:43Z,1,07:19,12:41,Shot,Wrist Shot,-54.0,17.0,Matt Dumba,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:23:44Z,1,07:20,12:40,Hit,n/a,-94.0,29.0,Jack Johnson,Hitter,Pittsburgh Penguins,Matt Dumba,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:24:05Z,1,07:28,12:32,Penalty,Hi-sticking,-6.0,35.0,Matt Dumba,PenaltyOn,Minnesota Wild,Zach Aston-Reese,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:26:11Z,1,07:28,12:32,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:26:22Z,1,07:39,12:21,Missed Shot,n/a,72.0,5.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:26:28Z,1,07:45,12:15,Shot,Wrist Shot,86.0,-21.0,Marcus Foligno,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:26:42Z,1,07:57,12:03,Goal,Backhand,81.0,3.0,Evgeni Malkin,Scorer,Pittsburgh Penguins,Bryan Rust,Assist,Pittsburgh Penguins,Sidney Crosby,Assist,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild
+2020-01-15T00:27:28Z,1,07:57,12:03,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:27:46Z,1,08:14,11:46,Hit,n/a,98.0,4.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Jonas Brodin,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:28:26Z,1,08:50,11:10,Hit,n/a,63.0,41.0,Matt Dumba,Hitter,Minnesota Wild,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:28:51Z,1,09:19,10:41,Missed Shot,n/a,72.0,-13.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:29:26Z,1,09:54,10:06,Hit,n/a,27.0,-42.0,Chad Ruhwedel,Hitter,Pittsburgh Penguins,Mikko Koivu,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:29:39Z,1,10:05,09:55,Missed Shot,n/a,-55.0,-3.0,Zach Parise,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:29:55Z,1,10:09,09:51,Penalty,Holding,-94.0,-28.0,Kevin Fiala,PenaltyOn,Minnesota Wild,Chad Ruhwedel,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:32:00Z,1,10:09,09:51,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:32:16Z,1,10:23,09:37,Giveaway,n/a,94.0,21.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:32:38Z,1,10:23,09:37,Faceoff,n/a,69.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:33:56Z,1,11:00,09:00,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:34:20Z,1,11:09,08:51,Missed Shot,n/a,73.0,6.0,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:34:42Z,1,11:31,08:29,Shot,Wrist Shot,87.0,-6.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:34:54Z,1,11:43,08:17,Hit,n/a,57.0,40.0,Jared Spurgeon,Hitter,Minnesota Wild,Sidney Crosby,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:35:13Z,1,12:02,07:58,Missed Shot,n/a,63.0,3.0,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:35:21Z,1,12:10,07:50,Shot,Wrist Shot,-32.0,-18.0,Jordan Greenway,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:35:37Z,1,12:26,07:34,Giveaway,n/a,-96.0,21.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:36:21Z,1,13:10,06:50,Shot,Slap Shot,38.0,27.0,Jack Johnson,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:37:04Z,1,13:34,06:26,Faceoff,n/a,20.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Andrew Agozzino,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:37:29Z,1,13:44,06:16,Penalty,Interference,-37.0,-9.0,Andrew Agozzino,PenaltyOn,Pittsburgh Penguins,Marcus Foligno,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:37:58Z,1,13:44,06:16,Faceoff,n/a,-69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:38:09Z,1,13:48,06:12,Shot,Snap Shot,-40.0,-6.0,Ryan Suter,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:38:17Z,1,13:49,06:11,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:39:20Z,1,14:14,05:46,Faceoff,n/a,-20.0,22.0,Mikko Koivu,Winner,Minnesota Wild,Zach Aston-Reese,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:39:42Z,1,14:42,05:18,Blocked Shot,n/a,-68.0,1.0,John Marino,Blocker,Pittsburgh Penguins,Jared Spurgeon,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:39:59Z,1,14:59,05:01,Shot,Slap Shot,-54.0,20.0,Kevin Fiala,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:40:05Z,1,15:04,04:56,Missed Shot,n/a,-44.0,-13.0,Jared Spurgeon,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:40:21Z,1,15:20,04:40,Blocked Shot,n/a,-66.0,6.0,John Marino,Blocker,Pittsburgh Penguins,Jonas Brodin,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:40:24Z,1,15:23,04:37,Takeaway,n/a,-89.0,-24.0,Marcus Pettersson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:41:26Z,1,16:25,03:35,Hit,n/a,-63.0,41.0,Marcus Foligno,Hitter,Minnesota Wild,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:41:42Z,1,16:41,03:19,Takeaway,n/a,-57.0,-24.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:41:53Z,1,16:43,03:17,Giveaway,n/a,-63.0,-9.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:42:53Z,1,17:52,02:08,Giveaway,n/a,-98.0,5.0,Matt Dumba,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:43:00Z,1,17:57,02:03,Goal,Wrist Shot,80.0,2.0,Jared McCann,Scorer,Pittsburgh Penguins,Dominik Simon,Assist,Pittsburgh Penguins,John Marino,Assist,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild
+2020-01-15T00:43:54Z,1,17:57,02:03,Faceoff,n/a,0.0,0.0,Andrew Agozzino,Winner,Pittsburgh Penguins,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:44:17Z,1,18:28,01:32,Hit,n/a,-50.0,-40.0,Carson Soucy,Hitter,Minnesota Wild,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:44:27Z,1,18:39,01:21,Takeaway,n/a,-28.0,-9.0,Eric Staal,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:44:36Z,1,18:41,01:19,Shot,Wrist Shot,-78.0,12.0,Mats Zuccarello,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:46:31Z,1,18:42,01:18,Faceoff,n/a,-69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:47:46Z,1,19:20,00:40,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:48:16Z,1,19:30,00:30,Penalty,Hi-sticking,-99.0,-9.0,Marcus Foligno,PenaltyOn,Minnesota Wild,Marcus Pettersson,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:48:37Z,1,19:30,00:30,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Luke Kunin,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:49:06Z,1,19:38,00:22,Shot,Wrist Shot,77.0,-11.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:49:06Z,1,19:56,00:04,Blocked Shot,n/a,79.0,-12.0,Ryan Suter,Blocker,Minnesota Wild,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T00:49:06Z,1,19:59,00:01,Missed Shot,n/a,63.0,25.0,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:07:40Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:08:26Z,2,00:51,19:09,Hit,n/a,-85.0,-35.0,Carson Soucy,Hitter,Minnesota Wild,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:08:36Z,2,01:00,19:00,Shot,Slap Shot,-76.0,23.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:08:59Z,2,01:23,18:37,Missed Shot,n/a,-50.0,-2.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:09:42Z,2,02:07,17:53,Giveaway,n/a,73.0,39.0,Chad Ruhwedel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:09:50Z,2,02:15,17:45,Giveaway,n/a,98.0,-4.0,Mikko Koivu,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:10:00Z,2,02:24,17:36,Hit,n/a,-82.0,38.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Jonas Brodin,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:10:24Z,2,02:40,17:20,Giveaway,n/a,-71.0,-28.0,Matt Dumba,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:10:00Z,2,02:43,17:17,Shot,Wrist Shot,-60.0,39.0,Zach Parise,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:10:48Z,2,03:13,16:47,Shot,Wrist Shot,-87.0,15.0,Kris Letang,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:11:34Z,2,03:59,16:01,Giveaway,n/a,-37.0,-35.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:11:42Z,2,04:06,15:54,Shot,Wrist Shot,84.0,20.0,Mats Zuccarello,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:11:46Z,2,04:11,15:49,Hit,n/a,97.0,1.0,Jack Johnson,Hitter,Pittsburgh Penguins,Mats Zuccarello,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:11:52Z,2,04:17,15:43,Hit,n/a,43.0,-41.0,Jack Johnson,Hitter,Pittsburgh Penguins,Jared Spurgeon,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:12:02Z,2,04:27,15:33,Missed Shot,n/a,40.0,32.0,Carson Soucy,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:12:20Z,2,04:44,15:16,Shot,Snap Shot,-38.0,29.0,Chad Ruhwedel,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:13:15Z,2,05:14,14:46,Faceoff,n/a,-20.0,22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Alex Galchenyuk,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:13:57Z,2,05:51,14:09,Hit,n/a,-13.0,-40.0,Luke Kunin,Hitter,Minnesota Wild,Andrew Agozzino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:14:40Z,2,06:34,13:26,Shot,Wrist Shot,-82.0,17.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:14:55Z,2,06:49,13:11,Shot,Slap Shot,-32.0,-16.0,Chad Ruhwedel,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:15:10Z,2,07:04,12:56,Hit,n/a,99.0,-9.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Carson Soucy,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:15:36Z,2,07:30,12:30,Takeaway,n/a,52.0,-36.0,Jason Zucker,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:15:41Z,2,07:35,12:25,Shot,Wrist Shot,59.0,19.0,Eric Staal,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:16:31Z,2,08:25,11:35,Hit,n/a,99.0,0.0,Jordan Greenway,Hitter,Minnesota Wild,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:16:37Z,2,08:27,11:33,Takeaway,n/a,93.0,-26.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:16:55Z,2,08:47,11:13,Giveaway,n/a,96.0,-25.0,Juuso Riikola,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:16:56Z,2,08:48,11:12,Blocked Shot,n/a,73.0,-4.0,Juuso Riikola,Blocker,Pittsburgh Penguins,Jared Spurgeon,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:16:58Z,2,08:48,11:12,Hit,n/a,99.0,-21.0,Victor Rask,Hitter,Minnesota Wild,Juuso Riikola,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:19:13Z,2,08:49,11:11,Faceoff,n/a,69.0,-22.0,Luke Kunin,Winner,Minnesota Wild,Andrew Agozzino,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:20:07Z,2,09:05,10:55,Faceoff,n/a,-69.0,22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:20:10Z,2,09:12,10:48,Shot,Wrist Shot,-82.0,12.0,Ryan Suter,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:20:16Z,2,09:18,10:42,Hit,n/a,97.0,18.0,Marcus Foligno,Hitter,Minnesota Wild,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:20:40Z,2,09:42,10:18,Hit,n/a,98.0,-2.0,Marcus Foligno,Hitter,Minnesota Wild,Juuso Riikola,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:20:46Z,2,09:49,10:11,Hit,n/a,82.0,38.0,Joel Eriksson Ek,Hitter,Minnesota Wild,Sidney Crosby,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:20:51Z,2,09:52,10:08,Shot,Wrist Shot,-21.0,-5.0,Jared McCann,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:21:15Z,2,09:53,10:07,Faceoff,n/a,-69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:21:38Z,2,10:03,09:57,Shot,Slap Shot,-36.0,32.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:23:49Z,2,10:04,09:56,Faceoff,n/a,-69.0,22.0,Mikko Koivu,Winner,Minnesota Wild,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:24:41Z,2,10:52,09:08,Shot,Wrist Shot,-42.0,21.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:24:51Z,2,11:02,08:58,Shot,Wrist Shot,-12.0,-10.0,Matt Dumba,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:25:03Z,2,11:14,08:46,Hit,n/a,-51.0,-41.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Mats Zuccarello,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:25:20Z,2,11:30,08:30,Blocked Shot,n/a,75.0,3.0,Kris Letang,Blocker,Pittsburgh Penguins,Carson Soucy,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:26:11Z,2,12:22,07:38,Takeaway,n/a,-35.0,-33.0,Ryan Hartman,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:26:15Z,2,12:26,07:34,Shot,Wrist Shot,65.0,5.0,Victor Rask,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:26:44Z,2,12:44,07:16,Shot,Tip-In,81.0,11.0,Victor Rask,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:26:57Z,2,13:08,06:52,Blocked Shot,n/a,75.0,5.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Marcus Foligno,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:27:04Z,2,13:12,06:48,Missed Shot,n/a,35.0,37.0,Ryan Suter,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:27:31Z,2,13:23,06:37,Faceoff,n/a,-69.0,22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:28:01Z,2,13:42,06:18,Shot,Wrist Shot,-83.0,-10.0,Kris Letang,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:28:23Z,2,13:43,06:17,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:28:46Z,2,13:59,06:01,Giveaway,n/a,86.0,-2.0,Tristan Jarry,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:28:54Z,2,14:04,05:56,Goal,Snap Shot,-63.0,-3.0,Bryan Rust,Scorer,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Dominik Kahun,Assist,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild
+2020-01-15T01:29:34Z,2,14:04,05:56,Faceoff,n/a,0.0,0.0,Eric Staal,Winner,Minnesota Wild,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:30:12Z,2,14:18,05:42,Penalty,Hi-sticking,-81.0,4.0,Mats Zuccarello,PenaltyOn,Minnesota Wild,Brandon Tanev,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:32:08Z,2,14:18,05:42,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:32:17Z,2,14:24,05:36,Giveaway,n/a,-31.0,-19.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:32:25Z,2,14:32,05:28,Hit,n/a,73.0,40.0,Kris Letang,Hitter,Pittsburgh Penguins,Joel Eriksson Ek,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:33:00Z,2,14:41,05:19,Faceoff,n/a,-20.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Ryan Hartman,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:33:18Z,2,14:58,05:02,Blocked Shot,n/a,-47.0,-15.0,Ryan Hartman,Blocker,Minnesota Wild,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:33:29Z,2,15:05,04:55,Goal,Tip-In,-67.0,-22.0,Evgeni Malkin,Scorer,Pittsburgh Penguins,Kris Letang,Assist,Pittsburgh Penguins,Sidney Crosby,Assist,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild
+2020-01-15T01:34:11Z,2,15:05,04:55,Faceoff,n/a,0.0,0.0,Eric Staal,Winner,Minnesota Wild,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:34:26Z,2,15:17,04:43,Hit,n/a,98.0,0.0,Jason Zucker,Hitter,Minnesota Wild,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:34:49Z,2,15:40,04:20,Shot,Snap Shot,-57.0,9.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:34:56Z,2,15:47,04:13,Blocked Shot,n/a,-69.0,7.0,Mats Zuccarello,Blocker,Minnesota Wild,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:35:28Z,2,16:03,03:57,Hit,n/a,-68.0,40.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Jonas Brodin,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:36:05Z,2,16:54,03:06,Hit,n/a,10.0,40.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Kevin Fiala,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:36:26Z,2,17:17,02:43,Goal,Wrist Shot,79.0,6.0,Zach Parise,Scorer,Minnesota Wild,Kevin Fiala,Assist,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a
+2020-01-15T01:37:11Z,2,17:17,02:43,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:37:19Z,2,17:26,02:34,Hit,n/a,74.0,-38.0,Luke Kunin,Hitter,Minnesota Wild,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:37:35Z,2,17:43,02:17,Missed Shot,n/a,-67.0,-15.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:37:44Z,2,17:50,02:10,Shot,Snap Shot,50.0,-16.0,Luke Kunin,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:38:23Z,2,17:51,02:09,Faceoff,n/a,69.0,-22.0,Ryan Hartman,Winner,Minnesota Wild,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:38:53Z,2,18:28,01:32,Hit,n/a,6.0,-31.0,Jordan Greenway,Hitter,Minnesota Wild,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:38:58Z,2,18:28,01:32,Shot,Wrist Shot,78.0,1.0,Ryan Hartman,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:39:02Z,2,18:36,01:24,Hit,n/a,98.0,-3.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Jordan Greenway,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:40:02Z,2,19:11,00:49,Faceoff,n/a,69.0,22.0,Eric Staal,Winner,Minnesota Wild,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:40:50Z,2,19:56,00:04,Shot,Wrist Shot,-37.0,-17.0,Eric Staal,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:40:56Z,2,19:58,00:02,Hit,n/a,87.0,36.0,Zach Parise,Hitter,Minnesota Wild,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:59:19Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:59:41Z,3,00:22,19:38,Hit,n/a,-79.0,39.0,Jack Johnson,Hitter,Pittsburgh Penguins,Kevin Fiala,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:00:05Z,3,00:46,19:14,Giveaway,n/a,13.0,37.0,Kevin Fiala,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:01:00Z,3,01:41,18:19,Giveaway,n/a,86.0,35.0,Teddy Blueger,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:01:09Z,3,01:50,18:10,Giveaway,n/a,-98.0,14.0,Juuso Riikola,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:01:23Z,3,02:04,17:56,Hit,n/a,-78.0,23.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Luke Kunin,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:01:32Z,3,02:11,17:49,Hit,n/a,-87.0,30.0,Marcus Foligno,Hitter,Minnesota Wild,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:01:44Z,3,02:15,17:45,Goal,Wrist Shot,-79.0,1.0,Marcus Foligno,Scorer,Minnesota Wild,Joel Eriksson Ek,Assist,Minnesota Wild,Luke Kunin,Assist,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins
+2020-01-15T02:02:22Z,3,02:15,17:45,Faceoff,n/a,0.0,0.0,Andrew Agozzino,Winner,Pittsburgh Penguins,Victor Rask,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:02:48Z,3,02:49,17:11,Hit,n/a,-61.0,39.0,Andrew Agozzino,Hitter,Pittsburgh Penguins,Ryan Hartman,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:02:55Z,3,02:55,17:05,Shot,Wrist Shot,51.0,-22.0,Kris Letang,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:02:55Z,3,02:57,17:03,Missed Shot,n/a,79.0,3.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:03:06Z,3,02:58,17:02,Shot,Wrist Shot,85.0,-7.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:03:33Z,3,02:59,17:01,Faceoff,n/a,69.0,-22.0,Mikko Koivu,Winner,Minnesota Wild,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:03:49Z,3,03:11,16:49,Shot,Snap Shot,62.0,5.0,Jared McCann,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:04:09Z,3,03:19,16:41,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:04:29Z,3,03:26,16:34,Shot,Slap Shot,33.0,28.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:04:53Z,3,03:51,16:09,Hit,n/a,59.0,41.0,Evgeni Malkin,Hitter,Pittsburgh Penguins,Kevin Fiala,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:05:24Z,3,04:22,15:38,Hit,n/a,-88.0,36.0,Jack Johnson,Hitter,Pittsburgh Penguins,Ryan Donato,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:05:34Z,3,04:32,15:28,Hit,n/a,-95.0,-26.0,Eric Staal,Hitter,Minnesota Wild,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:05:38Z,3,04:36,15:24,Hit,n/a,-99.0,18.0,Ryan Donato,Hitter,Minnesota Wild,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:06:19Z,3,05:17,14:43,Hit,n/a,-97.0,-13.0,Marcus Foligno,Hitter,Minnesota Wild,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:06:41Z,3,05:39,14:21,Blocked Shot,n/a,73.0,-3.0,Luke Kunin,Blocker,Minnesota Wild,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:06:47Z,3,05:44,14:16,Hit,n/a,-54.0,40.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Joel Eriksson Ek,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:09:20Z,3,06:15,13:45,Faceoff,n/a,69.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:09:46Z,3,06:29,13:31,Hit,n/a,69.0,39.0,Jonas Brodin,Hitter,Minnesota Wild,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:09:54Z,3,06:37,13:23,Missed Shot,n/a,72.0,-8.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:10:05Z,3,06:48,13:12,Takeaway,n/a,35.0,40.0,Jonas Brodin,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:10:21Z,3,07:04,12:56,Giveaway,n/a,99.0,0.0,Devan Dubnyk,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:10:46Z,3,07:27,12:33,Hit,n/a,-50.0,40.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Ryan Donato,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:11:00Z,3,07:41,12:19,Goal,Backhand,75.0,-7.0,Sidney Crosby,Scorer,Pittsburgh Penguins,Jared McCann,Assist,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a
+2020-01-15T02:11:52Z,3,07:41,12:19,Faceoff,n/a,0.0,0.0,Ryan Donato,Winner,Minnesota Wild,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:12:11Z,3,07:48,12:12,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Ryan Donato,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:12:29Z,3,07:57,12:03,Giveaway,n/a,94.0,30.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:12:46Z,3,08:14,11:46,Giveaway,n/a,98.0,-2.0,Devan Dubnyk,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:12:56Z,3,08:20,11:40,Goal,Wrist Shot,80.0,5.0,Dominik Simon,Scorer,Pittsburgh Penguins,Sidney Crosby,Assist,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a
+2020-01-15T02:13:46Z,3,08:20,11:40,Faceoff,n/a,0.0,0.0,Ryan Hartman,Winner,Minnesota Wild,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:14:07Z,3,08:50,11:10,Blocked Shot,n/a,-73.0,9.0,Chad Ruhwedel,Blocker,Pittsburgh Penguins,Jared Spurgeon,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:14:12Z,3,08:55,11:05,Hit,n/a,-98.0,9.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Ryan Hartman,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:14:28Z,3,09:10,10:50,Missed Shot,n/a,41.0,28.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:00Z,3,09:10,10:50,Faceoff,n/a,0.0,0.0,Joel Eriksson Ek,Winner,Minnesota Wild,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:25Z,3,09:34,10:26,Shot,Wrist Shot,-81.0,-25.0,Luke Kunin,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:32Z,3,09:41,10:19,Shot,Wrist Shot,16.0,24.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:47Z,3,09:56,10:04,Shot,Slap Shot,-37.0,27.0,Matt Dumba,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:16:22Z,3,10:18,09:42,Shot,Wrist Shot,-80.0,3.0,Zach Parise,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:18:25Z,3,10:19,09:41,Faceoff,n/a,-69.0,22.0,Mikko Koivu,Winner,Minnesota Wild,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:19:01Z,3,10:29,09:31,Giveaway,n/a,9.0,32.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:19:15Z,3,10:43,09:17,Shot,Wrist Shot,70.0,-31.0,Kris Letang,Shooter,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:19:31Z,3,10:59,09:01,Takeaway,n/a,4.0,5.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:20:05Z,3,11:33,08:27,Giveaway,n/a,97.0,4.0,Carson Soucy,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:20:15Z,3,11:43,08:17,Hit,n/a,98.0,-7.0,Carson Soucy,Hitter,Minnesota Wild,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:20:56Z,3,11:44,08:16,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Ryan Hartman,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:21:08Z,3,12:03,07:57,Giveaway,n/a,-46.0,-20.0,Jordan Greenway,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:21:33Z,3,12:28,07:32,Giveaway,n/a,-60.0,37.0,Ryan Hartman,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:23:59Z,3,12:30,07:30,Missed Shot,n/a,67.0,8.0,Dominik Kahun,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:18Z,3,12:54,07:06,Faceoff,n/a,-69.0,-22.0,Andrew Agozzino,Winner,Pittsburgh Penguins,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:46Z,3,13:06,06:54,Missed Shot,n/a,56.0,-28.0,Andrew Agozzino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:58Z,3,13:07,06:53,Faceoff,n/a,69.0,-22.0,Andrew Agozzino,Winner,Pittsburgh Penguins,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:23:18Z,3,13:26,06:34,Hit,n/a,-96.0,-9.0,Luke Kunin,Hitter,Minnesota Wild,Andrew Agozzino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:23:31Z,3,13:39,06:21,Hit,n/a,-98.0,-7.0,Joel Eriksson Ek,Hitter,Minnesota Wild,Andrew Agozzino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:23:57Z,3,13:56,06:04,Giveaway,n/a,34.0,-29.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:24:18Z,3,13:59,06:01,Faceoff,n/a,-20.0,22.0,Mikko Koivu,Winner,Minnesota Wild,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:25:11Z,3,14:21,05:39,Faceoff,n/a,69.0,22.0,Mikko Koivu,Winner,Minnesota Wild,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:26:23Z,3,15:24,04:36,Missed Shot,n/a,-69.0,-18.0,Jason Zucker,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:26:35Z,3,15:36,04:24,Shot,Wrist Shot,-36.0,4.0,Eric Staal,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:29:26Z,3,16:21,03:39,Faceoff,n/a,20.0,-22.0,Andrew Agozzino,Winner,Pittsburgh Penguins,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:29:47Z,3,16:37,03:23,Hit,n/a,-96.0,-23.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Luke Kunin,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:30:10Z,3,16:57,03:03,Goal,Snap Shot,69.0,-11.0,Alex Galchenyuk,Scorer,Pittsburgh Penguins,Andrew Agozzino,Assist,Pittsburgh Penguins,Patric Hornqvist,Assist,Pittsburgh Penguins,Devan Dubnyk,Goalie,Minnesota Wild
+2020-01-15T02:30:52Z,3,16:57,03:03,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:31:49Z,3,17:29,02:31,Faceoff,n/a,69.0,22.0,Mikko Koivu,Winner,Minnesota Wild,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:32:25Z,3,17:50,02:10,Penalty,Hi-sticking,-64.0,35.0,Jared McCann,PenaltyOn,Pittsburgh Penguins,Ryan Donato,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:32:56Z,3,17:50,02:10,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:33:08Z,3,18:01,01:59,Giveaway,n/a,-63.0,8.0,Jason Zucker,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:33:26Z,3,18:18,01:42,Takeaway,n/a,-6.0,-8.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:33:31Z,3,18:23,01:37,Missed Shot,n/a,75.0,6.0,Teddy Blueger,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:34:51Z,3,19:42,00:18,Shot,Wrist Shot,-57.0,-8.0,Mikko Koivu,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:34:59Z,3,19:46,00:14,Shot,Wrist Shot,-70.0,6.0,Ryan Donato,Shooter,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:35:14Z,3,19:47,00:13,Goal,Backhand,-75.0,1.0,Zach Parise,Scorer,Minnesota Wild,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:48:26Z,3,19:47,00:13,Faceoff,n/a,0.0,0.0,Andrew Agozzino,Winner,Pittsburgh Penguins,Ryan Hartman,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a

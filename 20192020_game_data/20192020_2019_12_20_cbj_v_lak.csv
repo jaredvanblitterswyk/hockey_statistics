@@ -1,0 +1,249 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-20T00:08:17Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:09:40Z,1,00:26,19:34,Faceoff,n/a,-69.0,-22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Adrian Kempe,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:10:00Z,1,00:34,19:26,Hit,n/a,-97.0,2.0,Austin Wagner,Hitter,Los Angeles Kings,Zach Werenski,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:10:09Z,1,00:42,19:18,Shot,Slap Shot,-44.0,-20.0,Ben Hutton,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:10:31Z,1,00:42,19:18,Goal,Wrist Shot,-84.0,-1.0,Adrian Kempe,Scorer,Los Angeles Kings,Ben Hutton,Assist,Los Angeles Kings,Matt Roy,Assist,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets
+2019-12-20T00:10:46Z,1,00:42,19:18,Faceoff,n/a,0.0,0.0,Boone Jenner,Winner,Columbus Blue Jackets,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:11:18Z,1,00:55,19:05,Shot,Snap Shot,-68.0,22.0,Jeff Carter,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:11:27Z,1,00:56,19:04,Faceoff,n/a,-69.0,22.0,Gustav Nyquist,Winner,Columbus Blue Jackets,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:12:39Z,1,01:51,18:09,Takeaway,n/a,60.0,39.0,Pierre-Luc Dubois,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:12:43Z,1,01:54,18:06,Blocked Shot,n/a,65.0,2.0,Alex Iafallo,Blocker,Los Angeles Kings,Alexandre Texier,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:12:45Z,1,01:54,18:06,Penalty,Holding,80.0,38.0,Kurtis MacDermid,PenaltyOn,Los Angeles Kings,Pierre-Luc Dubois,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:13:22Z,1,01:54,18:06,Faceoff,n/a,69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:13:54Z,1,02:27,17:33,Blocked Shot,n/a,-58.0,10.0,Zach Werenski,Blocker,Columbus Blue Jackets,Tyler Toffoli,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:14:24Z,1,02:55,17:05,Goal,Slap Shot,43.0,-21.0,Zach Werenski,Scorer,Columbus Blue Jackets,Gustav Nyquist,Assist,Columbus Blue Jackets,Pierre-Luc Dubois,Assist,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings
+2019-12-20T00:15:08Z,1,02:55,17:05,Faceoff,n/a,0.0,0.0,Riley Nash,Winner,Columbus Blue Jackets,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:15:38Z,1,03:12,16:48,Blocked Shot,n/a,-56.0,5.0,Scott Harrington,Blocker,Columbus Blue Jackets,Tyler Toffoli,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:16:19Z,1,03:29,16:31,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:16:52Z,1,03:56,16:04,Hit,n/a,13.0,-40.0,Nick Foligno,Hitter,Columbus Blue Jackets,Drew Doughty,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:17:04Z,1,03:56,16:04,Giveaway,n/a,18.0,-38.0,Drew Doughty,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:16:58Z,1,04:01,15:59,Missed Shot,n/a,56.0,5.0,Cam Atkinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:19:48Z,1,04:11,15:49,Hit,n/a,-98.0,-1.0,Dustin Brown,Hitter,Los Angeles Kings,Zach Werenski,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:17:18Z,1,04:21,15:39,Hit,n/a,12.0,-39.0,Nick Foligno,Hitter,Columbus Blue Jackets,Kurtis MacDermid,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:17:35Z,1,04:28,15:32,Faceoff,n/a,0.0,0.0,Boone Jenner,Winner,Columbus Blue Jackets,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:17:59Z,1,04:42,15:18,Shot,Snap Shot,46.0,0.0,Dean Kukan,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:18:32Z,1,05:15,14:45,Missed Shot,n/a,80.0,5.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:18:39Z,1,05:22,14:38,Hit,n/a,51.0,-38.0,Sean Walker,Hitter,Los Angeles Kings,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:19:03Z,1,05:45,14:15,Missed Shot,n/a,-85.0,-15.0,Jeff Carter,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:20:07Z,1,06:49,13:11,Blocked Shot,n/a,-65.0,-13.0,Seth Jones,Blocker,Columbus Blue Jackets,Joakim Ryan,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:20:27Z,1,07:09,12:51,Hit,n/a,55.0,31.0,Nick Foligno,Hitter,Columbus Blue Jackets,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:20:45Z,1,07:28,12:32,Giveaway,n/a,80.0,30.0,Joakim Ryan,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:20:54Z,1,07:36,12:24,Blocked Shot,n/a,62.0,-7.0,Michael Amadio,Blocker,Los Angeles Kings,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:21:50Z,1,08:33,11:27,Hit,n/a,-37.0,-16.0,Gabriel Carlsson,Hitter,Columbus Blue Jackets,Adrian Kempe,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:21:56Z,1,08:38,11:22,Blocked Shot,n/a,-54.0,18.0,Boone Jenner,Blocker,Columbus Blue Jackets,Adrian Kempe,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:22:05Z,1,08:47,11:13,Takeaway,n/a,-55.0,32.0,Oliver Bjorkstrand,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:22:09Z,1,08:47,11:13,Shot,Wrist Shot,-37.0,-33.0,Ben Hutton,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:22:14Z,1,08:56,11:04,Hit,n/a,-15.0,-39.0,Eric Robinson,Hitter,Columbus Blue Jackets,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:22:26Z,1,09:07,10:53,Shot,Backhand,84.0,-12.0,Eric Robinson,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:22:35Z,1,09:08,10:52,Shot,Wrist Shot,85.0,-6.0,Eric Robinson,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:24:44Z,1,09:09,10:51,Faceoff,n/a,69.0,-22.0,Nikolai Prokhorkin,Winner,Los Angeles Kings,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:25:14Z,1,09:29,10:31,Shot,Wrist Shot,39.0,-22.0,Dean Kukan,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:25:32Z,1,09:30,10:30,Faceoff,n/a,69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:26:28Z,1,10:14,09:46,Shot,Wrist Shot,86.0,-6.0,Nick Foligno,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:26:58Z,1,10:44,09:16,Shot,Snap Shot,66.0,0.0,Marko Dano,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:27:05Z,1,10:49,09:11,Giveaway,n/a,69.0,36.0,Marko Dano,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:27:42Z,1,11:28,08:32,Takeaway,n/a,-92.0,-19.0,Adrian Kempe,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:28:15Z,1,11:49,08:11,Blocked Shot,n/a,73.0,6.0,Joakim Ryan,Blocker,Los Angeles Kings,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:30:29Z,1,11:51,08:09,Faceoff,n/a,69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:30:36Z,1,12:01,07:59,Hit,n/a,-37.0,-39.0,Gabriel Carlsson,Hitter,Columbus Blue Jackets,Nikolai Prokhorkin,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:31:10Z,1,12:16,07:44,Faceoff,n/a,-69.0,22.0,Nick Foligno,Winner,Columbus Blue Jackets,Trevor Lewis,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:31:58Z,1,12:37,07:23,Shot,Wrist Shot,62.0,10.0,Alexander Wennberg,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:31:59Z,1,12:38,07:22,Hit,n/a,82.0,39.0,Drew Doughty,Hitter,Los Angeles Kings,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:32:27Z,1,13:06,06:54,Giveaway,n/a,-22.0,12.0,Dustin Brown,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:32:52Z,1,13:31,06:29,Takeaway,n/a,-15.0,-4.0,Oliver Bjorkstrand,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:33:03Z,1,13:42,06:18,Hit,n/a,-67.0,-38.0,Seth Jones,Hitter,Columbus Blue Jackets,Austin Wagner,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:33:30Z,1,14:09,05:51,Missed Shot,n/a,-44.0,-19.0,Ben Hutton,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:34:11Z,1,14:49,05:11,Blocked Shot,n/a,-57.0,5.0,Kevin Stenlund,Blocker,Columbus Blue Jackets,Drew Doughty,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:35:10Z,1,15:48,04:12,Hit,n/a,44.0,39.0,Matt Roy,Hitter,Los Angeles Kings,Dean Kukan,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:35:18Z,1,15:57,04:03,Missed Shot,n/a,60.0,-13.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:35:25Z,1,16:04,03:56,Hit,n/a,-39.0,-38.0,Seth Jones,Hitter,Columbus Blue Jackets,Alex Iafallo,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:35:48Z,1,16:26,03:34,Shot,Snap Shot,-59.0,-9.0,Alex Iafallo,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:37:41Z,1,16:26,03:34,Faceoff,n/a,-69.0,-22.0,Blake Lizotte,Winner,Los Angeles Kings,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:38:10Z,1,16:35,03:25,Missed Shot,n/a,-43.0,-24.0,Ben Hutton,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:38:15Z,1,16:40,03:20,Shot,Slap Shot,-42.0,22.0,Matt Roy,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:38:25Z,1,16:51,03:09,Blocked Shot,n/a,-54.0,9.0,Scott Harrington,Blocker,Columbus Blue Jackets,Austin Wagner,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:38:36Z,1,16:56,03:04,Penalty,Hooking,-87.0,-31.0,Gabriel Carlsson,PenaltyOn,Columbus Blue Jackets,Blake Lizotte,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:39:13Z,1,16:56,03:04,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:39:48Z,1,17:33,02:27,Shot,Snap Shot,-50.0,9.0,Drew Doughty,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:40:03Z,1,17:33,02:27,Faceoff,n/a,-69.0,-22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:40:25Z,1,17:46,02:14,Shot,Wrist Shot,-75.0,-20.0,Anze Kopitar,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:41:01Z,1,18:20,01:40,Shot,Snap Shot,-50.0,18.0,Michael Amadio,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:41:27Z,1,18:21,01:39,Faceoff,n/a,-69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:41:52Z,1,18:37,01:23,Faceoff,n/a,0.0,0.0,Jeff Carter,Winner,Los Angeles Kings,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:42:37Z,1,19:07,00:53,Hit,n/a,98.0,9.0,Sean Walker,Hitter,Los Angeles Kings,Riley Nash,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:42:48Z,1,19:18,00:42,Blocked Shot,n/a,51.0,-14.0,Michael Amadio,Blocker,Los Angeles Kings,Dean Kukan,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T00:43:24Z,1,19:55,00:05,Giveaway,n/a,97.0,-5.0,Oliver Bjorkstrand,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:02:18Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:03:21Z,2,00:53,19:07,Penalty,Delaying Game - Puck over glass,86.0,32.0,Seth Jones,PenaltyOn,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:04:06Z,2,00:53,19:07,Faceoff,n/a,69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:04:28Z,2,01:18,18:42,Shot,Wrist Shot,72.0,9.0,Blake Lizotte,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:04:37Z,2,01:27,18:33,Hit,n/a,98.0,0.0,Vladislav Gavrikov,Hitter,Columbus Blue Jackets,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:04:43Z,2,01:33,18:27,Missed Shot,n/a,40.0,24.0,Sean Walker,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:04:56Z,2,01:46,18:14,Giveaway,n/a,34.0,-33.0,Michael Amadio,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:05:16Z,2,02:06,17:54,Hit,n/a,26.0,-38.0,Gabriel Carlsson,Hitter,Columbus Blue Jackets,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:06:16Z,2,03:04,16:56,Shot,Snap Shot,-58.0,21.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:06:39Z,2,03:05,16:55,Faceoff,n/a,-69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Nikolai Prokhorkin,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:06:51Z,2,03:17,16:43,Hit,n/a,-56.0,-36.0,Trevor Lewis,Hitter,Los Angeles Kings,Dean Kukan,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:07:05Z,2,03:31,16:29,Missed Shot,n/a,-75.0,-18.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:07:33Z,2,03:33,16:27,Faceoff,n/a,-69.0,22.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:07:45Z,2,03:40,16:20,Blocked Shot,n/a,-62.0,9.0,Ben Hutton,Blocker,Los Angeles Kings,Eric Robinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:10:08Z,2,03:48,16:12,Shot,Slap Shot,34.0,35.0,Ben Hutton,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:08:23Z,2,03:51,16:09,Faceoff,n/a,69.0,22.0,Blake Lizotte,Winner,Los Angeles Kings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:08:35Z,2,04:01,15:59,Missed Shot,n/a,76.0,2.0,Blake Lizotte,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:08:41Z,2,04:10,15:50,Shot,Wrist Shot,39.0,-22.0,Matt Roy,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:09:25Z,2,04:51,15:09,Shot,Backhand,-21.0,9.0,Dean Kukan,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:09:35Z,2,04:52,15:08,Faceoff,n/a,-69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:10:02Z,2,05:09,14:51,Hit,n/a,98.0,8.0,Alex Iafallo,Hitter,Los Angeles Kings,Zach Werenski,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:10:29Z,2,05:13,14:47,Faceoff,n/a,-20.0,22.0,Nikolai Prokhorkin,Winner,Los Angeles Kings,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:11:30Z,2,06:11,13:49,Blocked Shot,n/a,-56.0,14.0,Joakim Ryan,Blocker,Los Angeles Kings,Cam Atkinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:11:52Z,2,06:33,13:27,Blocked Shot,n/a,-65.0,20.0,Ben Hutton,Blocker,Los Angeles Kings,Kevin Stenlund,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:14:13Z,2,06:52,13:08,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:14:42Z,2,07:09,12:51,Giveaway,n/a,97.0,-19.0,Austin Wagner,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:14:55Z,2,07:23,12:37,Takeaway,n/a,99.0,2.0,Seth Jones,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:15:05Z,2,07:31,12:29,Shot,Backhand,86.0,-18.0,Seth Jones,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:15:38Z,2,08:05,11:55,Missed Shot,n/a,-73.0,-2.0,Cam Atkinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:15:44Z,2,08:05,11:55,Penalty,Hooking,-69.0,2.0,Sean Walker,PenaltyOn,Los Angeles Kings,Cam Atkinson,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:16:34Z,2,08:05,11:55,Faceoff,n/a,-69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:17:06Z,2,08:32,11:28,Shot,Tip-In,-82.0,4.0,Boone Jenner,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:17:25Z,2,08:32,11:28,Faceoff,n/a,-69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:18:07Z,2,08:55,11:05,Shot,Snap Shot,-67.0,2.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:18:28Z,2,09:16,10:44,Shot,Snap Shot,-69.0,-4.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:19:33Z,2,10:20,09:40,Blocked Shot,n/a,-61.0,2.0,Adrian Kempe,Blocker,Los Angeles Kings,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:22:08Z,2,10:38,09:22,Faceoff,n/a,20.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Trevor Lewis,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:22:52Z,2,10:44,09:16,Faceoff,n/a,0.0,0.0,Jeff Carter,Winner,Los Angeles Kings,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:23:26Z,2,11:14,08:46,Shot,Wrist Shot,20.0,-24.0,Jeff Carter,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:23:30Z,2,11:16,08:44,Goal,Wrist Shot,65.0,-1.0,Jeff Carter,Scorer,Los Angeles Kings,Trevor Lewis,Assist,Los Angeles Kings,Kyle Clifford,Assist,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets
+2019-12-20T01:24:08Z,2,11:16,08:44,Faceoff,n/a,0.0,0.0,Michael Amadio,Winner,Los Angeles Kings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:24:28Z,2,11:32,08:28,Hit,n/a,87.0,-35.0,Nikolai Prokhorkin,Hitter,Los Angeles Kings,Scott Harrington,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:24:35Z,2,11:37,08:23,Blocked Shot,n/a,72.0,1.0,Boone Jenner,Blocker,Columbus Blue Jackets,Nikolai Prokhorkin,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:24:53Z,2,11:37,08:23,Faceoff,n/a,69.0,22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Nikolai Prokhorkin,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:25:16Z,2,11:54,08:06,Hit,n/a,-37.0,-40.0,Matt Roy,Hitter,Los Angeles Kings,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:25:44Z,2,12:00,08:00,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:26:28Z,2,12:28,07:32,Missed Shot,n/a,43.0,-23.0,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:26:44Z,2,12:29,07:31,Faceoff,n/a,69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:27:24Z,2,12:35,07:25,Faceoff,n/a,-20.0,-22.0,Blake Lizotte,Winner,Los Angeles Kings,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:27:50Z,2,12:45,07:15,Shot,Backhand,-75.0,15.0,Dean Kukan,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:28:14Z,2,12:50,07:10,Faceoff,n/a,-69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:28:37Z,2,13:06,06:54,Blocked Shot,n/a,-72.0,-3.0,Ben Hutton,Blocker,Los Angeles Kings,Eric Robinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:28:49Z,2,13:14,06:46,Giveaway,n/a,62.0,13.0,Zach Werenski,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:29:00Z,2,13:27,06:33,Takeaway,n/a,-96.0,-3.0,Pierre-Luc Dubois,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:29:02Z,2,13:31,06:29,Missed Shot,n/a,-56.0,8.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:29:20Z,2,13:46,06:14,Missed Shot,n/a,26.0,-28.0,Trevor Lewis,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:29:41Z,2,13:47,06:13,Faceoff,n/a,69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:30:00Z,2,14:01,05:59,Hit,n/a,-98.0,3.0,Nikolai Prokhorkin,Hitter,Los Angeles Kings,Scott Harrington,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:30:24Z,2,14:11,05:49,Hit,n/a,-98.0,-7.0,Joakim Ryan,Hitter,Los Angeles Kings,Kevin Stenlund,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:30:24Z,2,14:22,05:38,Hit,n/a,-40.0,39.0,Marko Dano,Hitter,Columbus Blue Jackets,Joakim Ryan,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:32:21Z,2,14:26,05:34,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:33:15Z,2,14:48,05:12,Shot,Wrist Shot,-56.0,13.0,Boone Jenner,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:33:39Z,2,14:48,05:12,Faceoff,n/a,-69.0,22.0,Blake Lizotte,Winner,Los Angeles Kings,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:34:01Z,2,15:07,04:53,Hit,n/a,62.0,40.0,Austin Wagner,Hitter,Los Angeles Kings,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:34:18Z,2,15:23,04:37,Hit,n/a,-96.0,-18.0,Kevin Stenlund,Hitter,Columbus Blue Jackets,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:34:28Z,2,15:34,04:26,Hit,n/a,97.0,-13.0,Adrian Kempe,Hitter,Los Angeles Kings,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:34:37Z,2,15:41,04:19,Giveaway,n/a,-22.0,32.0,Pierre-Luc Dubois,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:34:44Z,2,15:47,04:13,Giveaway,n/a,-31.0,-3.0,Adrian Kempe,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:35:17Z,2,16:22,03:38,Missed Shot,n/a,-62.0,11.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:35:19Z,2,16:24,03:36,Hit,n/a,-73.0,-39.0,Eric Robinson,Hitter,Columbus Blue Jackets,Kurtis MacDermid,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:39:17Z,2,16:41,03:19,Shot,Wrist Shot,-82.0,5.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:35:39Z,2,16:43,03:17,Shot,Deflected,-47.0,23.0,Alexandre Texier,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:35:45Z,2,16:45,03:15,Penalty,Hooking,-79.0,11.0,Sean Walker,PenaltyOn,Los Angeles Kings,Pierre-Luc Dubois,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:36:39Z,2,16:45,03:15,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:37:41Z,2,17:40,02:20,Blocked Shot,n/a,-59.0,4.0,Anze Kopitar,Blocker,Los Angeles Kings,Seth Jones,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:38:12Z,2,18:08,01:52,Shot,Snap Shot,-62.0,22.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:38:34Z,2,18:09,01:51,Faceoff,n/a,-69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:39:12Z,2,18:41,01:19,Giveaway,n/a,-43.0,-20.0,Zach Werenski,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:39:25Z,2,18:50,01:10,Hit,n/a,85.0,-37.0,Boone Jenner,Hitter,Columbus Blue Jackets,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:39:25Z,2,18:56,01:04,Hit,n/a,97.0,-17.0,Tyler Toffoli,Hitter,Los Angeles Kings,Zach Werenski,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:40:13Z,2,19:14,00:46,Faceoff,n/a,-69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Nikolai Prokhorkin,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:40:18Z,2,19:20,00:40,Blocked Shot,n/a,-69.0,6.0,Trevor Lewis,Blocker,Los Angeles Kings,Seth Jones,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:40:30Z,2,19:32,00:28,Shot,Snap Shot,-41.0,-24.0,Dean Kukan,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:41:04Z,2,19:36,00:24,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T01:41:28Z,2,19:59,00:01,Shot,Wrist Shot,-45.0,21.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:00:01Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:01:15Z,3,00:49,19:11,Faceoff,n/a,69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Alexandre Texier,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:01:40Z,3,00:59,19:01,Hit,n/a,55.0,-40.0,Eric Robinson,Hitter,Columbus Blue Jackets,Joakim Ryan,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:02:28Z,3,01:47,18:13,Hit,n/a,97.0,7.0,Riley Nash,Hitter,Columbus Blue Jackets,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:02:43Z,3,01:59,18:01,Takeaway,n/a,99.0,6.0,Ben Hutton,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:02:43Z,3,02:01,17:59,Hit,n/a,97.0,-9.0,Nick Foligno,Hitter,Columbus Blue Jackets,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:03:50Z,3,03:07,16:53,Takeaway,n/a,-96.0,19.0,Nikolai Prokhorkin,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:03:52Z,3,03:10,16:50,Shot,Backhand,-74.0,1.0,Michael Amadio,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:04:24Z,3,03:11,16:49,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:04:43Z,3,03:21,16:39,Shot,Snap Shot,59.0,1.0,Dean Kukan,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:05:13Z,3,03:51,16:09,Shot,Wrist Shot,-55.0,23.0,Michael Amadio,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:05:17Z,3,03:54,16:06,Shot,Slap Shot,-40.0,-25.0,Ben Hutton,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:05:43Z,3,03:55,16:05,Faceoff,n/a,-69.0,-22.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Nikolai Prokhorkin,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:06:16Z,3,04:11,15:49,Faceoff,n/a,69.0,-22.0,Trevor Lewis,Winner,Los Angeles Kings,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:06:59Z,3,04:19,15:41,Faceoff,n/a,69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:07:24Z,3,04:27,15:33,Blocked Shot,n/a,76.0,5.0,Jeff Carter,Blocker,Los Angeles Kings,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:07:57Z,3,04:47,15:13,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:08:22Z,3,04:57,15:03,Takeaway,n/a,98.0,-1.0,Boone Jenner,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:08:29Z,3,05:05,14:55,Shot,Snap Shot,42.0,18.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:09:14Z,3,05:28,14:32,Faceoff,n/a,69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:09:26Z,3,05:35,14:25,Blocked Shot,n/a,54.0,-13.0,Kyle Clifford,Blocker,Los Angeles Kings,Seth Jones,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:09:39Z,3,05:39,14:21,Faceoff,n/a,69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:10:31Z,3,06:07,13:53,Hit,n/a,71.0,38.0,Anze Kopitar,Hitter,Los Angeles Kings,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:10:54Z,3,06:29,13:31,Giveaway,n/a,99.0,5.0,Pierre-Luc Dubois,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:11:01Z,3,06:36,13:24,Hit,n/a,-98.0,-9.0,Austin Wagner,Hitter,Los Angeles Kings,Scott Harrington,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:11:12Z,3,06:46,13:14,Shot,Snap Shot,-41.0,-17.0,Kurtis MacDermid,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:13:05Z,3,06:46,13:14,Faceoff,n/a,-69.0,-22.0,Michael Amadio,Winner,Los Angeles Kings,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:13:34Z,3,06:53,13:07,Shot,Snap Shot,-38.0,-26.0,Kurtis MacDermid,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:13:43Z,3,06:53,13:07,Faceoff,n/a,-69.0,-22.0,Michael Amadio,Winner,Los Angeles Kings,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:14:42Z,3,07:40,12:20,Missed Shot,n/a,-56.0,3.0,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:14:55Z,3,07:53,12:07,Shot,Snap Shot,-43.0,-22.0,Joakim Ryan,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:15:27Z,3,07:53,12:07,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:15:33Z,3,07:58,12:02,Blocked Shot,n/a,-69.0,-3.0,Zach Werenski,Blocker,Columbus Blue Jackets,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:15:42Z,3,08:05,11:55,Shot,Slap Shot,-41.0,-5.0,Joakim Ryan,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:16:05Z,3,08:05,11:55,Faceoff,n/a,-69.0,-22.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:16:27Z,3,08:11,11:49,Blocked Shot,n/a,-59.0,15.0,Eric Robinson,Blocker,Columbus Blue Jackets,Drew Doughty,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:16:22Z,3,08:13,11:47,Shot,Wrist Shot,-77.0,9.0,Kyle Clifford,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:17:06Z,3,08:13,11:47,Faceoff,n/a,-69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:17:03Z,3,08:32,11:28,Missed Shot,n/a,85.0,-6.0,Nick Foligno,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:17:19Z,3,08:46,11:14,Missed Shot,n/a,69.0,-10.0,Nick Foligno,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:17:24Z,3,08:46,11:14,Penalty,Holding,51.0,-28.0,Jeff Carter,PenaltyOn,Los Angeles Kings,Nick Foligno,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:17:59Z,3,08:46,11:14,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:18:46Z,3,09:34,10:26,Blocked Shot,n/a,70.0,13.0,Drew Doughty,Blocker,Los Angeles Kings,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:18:54Z,3,09:41,10:19,Shot,Wrist Shot,41.0,-5.0,Zach Werenski,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:19:16Z,3,09:41,10:19,Faceoff,n/a,69.0,-22.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:19:36Z,3,09:55,10:05,Hit,n/a,86.0,36.0,Kurtis MacDermid,Hitter,Los Angeles Kings,Kevin Stenlund,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:20:28Z,3,10:44,09:16,Hit,n/a,97.0,-11.0,Ben Hutton,Hitter,Los Angeles Kings,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:20:32Z,3,10:47,09:13,Hit,n/a,98.0,7.0,Matt Roy,Hitter,Los Angeles Kings,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:20:32Z,3,10:49,09:11,Blocked Shot,n/a,67.0,7.0,Adrian Kempe,Blocker,Los Angeles Kings,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:22:27Z,3,10:49,09:11,Faceoff,n/a,69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:23:09Z,3,11:01,08:59,Blocked Shot,n/a,67.0,2.0,Anze Kopitar,Blocker,Los Angeles Kings,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:23:19Z,3,11:12,08:48,Takeaway,n/a,15.0,36.0,Anze Kopitar,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:23:24Z,3,11:16,08:44,Missed Shot,n/a,-47.0,13.0,Anze Kopitar,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:24:05Z,3,11:58,08:02,Missed Shot,n/a,60.0,3.0,Alexander Wennberg,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:25:05Z,3,12:31,07:29,Faceoff,n/a,69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:25:14Z,3,12:40,07:20,Hit,n/a,31.0,-38.0,Adrian Kempe,Hitter,Los Angeles Kings,Seth Jones,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:25:43Z,3,13:08,06:52,Takeaway,n/a,21.0,-32.0,Austin Wagner,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:25:47Z,3,13:12,06:48,Missed Shot,n/a,-51.0,-24.0,Austin Wagner,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:26:27Z,3,13:29,06:31,Faceoff,n/a,-20.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:26:40Z,3,13:46,06:14,Hit,n/a,91.0,-28.0,Drew Doughty,Hitter,Los Angeles Kings,Vladislav Gavrikov,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:27:05Z,3,13:52,06:08,Shot,Wrist Shot,6.0,18.0,Trevor Lewis,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:27:15Z,3,13:57,06:03,Faceoff,n/a,20.0,22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:27:54Z,3,14:33,05:27,Shot,Wrist Shot,-42.0,-20.0,Alex Iafallo,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:28:03Z,3,14:42,05:18,Hit,n/a,-22.0,-40.0,Nikolai Prokhorkin,Hitter,Los Angeles Kings,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:28:41Z,3,15:20,04:40,Blocked Shot,n/a,-71.0,9.0,Dean Kukan,Blocker,Columbus Blue Jackets,Drew Doughty,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:29:19Z,3,15:59,04:01,Hit,n/a,-98.0,3.0,Austin Wagner,Hitter,Los Angeles Kings,Riley Nash,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:31:23Z,3,16:08,03:52,Faceoff,n/a,20.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:31:57Z,3,16:20,03:40,Giveaway,n/a,96.0,2.0,Jack Campbell,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:31:58Z,3,16:24,03:36,Blocked Shot,n/a,65.0,-7.0,Anze Kopitar,Blocker,Los Angeles Kings,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:32:08Z,3,16:34,03:26,Takeaway,n/a,70.0,6.0,Dustin Brown,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:32:36Z,3,16:39,03:21,Faceoff,n/a,-20.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:33:05Z,3,17:04,02:56,Takeaway,n/a,-51.0,22.0,Eric Robinson,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:33:39Z,3,17:37,02:23,Hit,n/a,87.0,33.0,Oliver Bjorkstrand,Hitter,Columbus Blue Jackets,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:34:06Z,3,18:03,01:57,Shot,Snap Shot,56.0,-2.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:34:19Z,3,18:03,01:57,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:34:57Z,3,18:17,01:43,Goal,Backhand,79.0,0.0,Boone Jenner,Scorer,Columbus Blue Jackets,Zach Werenski,Assist,Columbus Blue Jackets,Oliver Bjorkstrand,Assist,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings
+2019-12-20T02:35:36Z,3,18:17,01:43,Faceoff,n/a,0.0,0.0,Riley Nash,Winner,Columbus Blue Jackets,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:36:01Z,3,18:41,01:19,Hit,n/a,-96.0,10.0,Austin Wagner,Hitter,Los Angeles Kings,Vladislav Gavrikov,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:36:15Z,3,18:54,01:06,Takeaway,n/a,-8.0,-38.0,Riley Nash,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:36:42Z,3,19:21,00:39,Takeaway,n/a,94.0,-4.0,Nick Foligno,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:36:49Z,3,19:25,00:35,Shot,Wrist Shot,40.0,2.0,Austin Wagner,Shooter,Los Angeles Kings,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:37:29Z,3,19:38,00:22,Faceoff,n/a,69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:38:00Z,3,19:45,00:15,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:38:30Z,3,19:56,00:04,Shot,Backhand,75.0,0.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:38:52Z,3,19:56,00:04,Faceoff,n/a,69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:41:01Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:41:52Z,4,00:44,04:16,Takeaway,n/a,34.0,39.0,Oliver Bjorkstrand,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:42:21Z,4,01:11,03:49,Goal,Snap Shot,-71.0,-1.0,Pierre-Luc Dubois,Scorer,Columbus Blue Jackets,Gustav Nyquist,Assist,Columbus Blue Jackets,Seth Jones,Assist,Columbus Blue Jackets,Jack Campbell,Goalie,Los Angeles Kings

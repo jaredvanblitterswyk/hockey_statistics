@@ -1,0 +1,259 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-03-01T00:01:28Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:10:04Z,1,00:09,19:51,Faceoff,n/a,-69.0,-22.0,Noel Acciari,Winner,Florida Panthers,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:10:40Z,1,00:24,19:36,Missed Shot,n/a,-85.0,27.0,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:11:02Z,1,00:46,19:14,Giveaway,n/a,-41.0,19.0,Alex Nylander,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:11:23Z,1,00:51,19:09,Faceoff,n/a,20.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:11:45Z,1,01:11,18:49,Giveaway,n/a,-80.0,38.0,Corey Crawford,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:12:22Z,1,01:48,18:12,Missed Shot,n/a,-77.0,10.0,MacKenzie Weegar,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:12:50Z,1,02:14,17:46,Shot,Snap Shot,40.0,-26.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:12:58Z,1,02:15,17:45,Faceoff,n/a,69.0,-22.0,Lucas Wallmark,Winner,Florida Panthers,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:13:23Z,1,02:26,17:34,Takeaway,n/a,72.0,38.0,Mike Matheson,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:13:36Z,1,02:31,17:29,Takeaway,n/a,-20.0,40.0,Mark Pysyk,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:13:31Z,1,02:34,17:26,Hit,n/a,-52.0,35.0,Lucas Carlsson,Hitter,Chicago Blackhawks,Mark Pysyk,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:14:41Z,1,03:39,16:21,Hit,n/a,95.0,-7.0,Ryan Carpenter,Hitter,Chicago Blackhawks,MacKenzie Weegar,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:14:45Z,1,03:48,16:12,Shot,Wrist Shot,-62.0,26.0,Colton Sceviour,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:14:57Z,1,04:00,16:00,Giveaway,n/a,45.0,38.0,Anton Stralman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:15:02Z,1,04:05,15:55,Takeaway,n/a,9.0,-39.0,Mike Hoffman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:15:06Z,1,04:07,15:53,Goal,Backhand,-78.0,0.0,Mike Hoffman,Scorer,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:15:45Z,1,04:07,15:53,Faceoff,n/a,0.0,0.0,Dylan Strome,Winner,Chicago Blackhawks,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:16:20Z,1,04:45,15:15,Shot,Snap Shot,76.0,-19.0,Patrick Kane,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:16:32Z,1,04:57,15:03,Giveaway,n/a,63.0,-39.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:16:35Z,1,05:01,14:59,Blocked Shot,n/a,67.0,14.0,MacKenzie Weegar,Blocker,Florida Panthers,Alex Nylander,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:16:38Z,1,05:03,14:57,Giveaway,n/a,68.0,41.0,Alex Nylander,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:17:21Z,1,05:46,14:14,Hit,n/a,16.0,-41.0,Frank Vatrano,Hitter,Florida Panthers,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:17:29Z,1,05:54,14:06,Blocked Shot,n/a,46.0,30.0,Lucas Wallmark,Blocker,Florida Panthers,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:17:36Z,1,06:02,13:58,Missed Shot,n/a,44.0,-19.0,Adam Boqvist,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:18:14Z,1,06:26,13:34,Penalty,Holding,84.0,27.0,MacKenzie Weegar,PenaltyOn,Florida Panthers,Brandon Saad,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:19:51Z,1,06:26,13:34,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:20:38Z,1,06:53,13:07,Blocked Shot,n/a,55.0,-6.0,Erik Haula,Blocker,Florida Panthers,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:21:08Z,1,07:22,12:38,Blocked Shot,n/a,58.0,-3.0,Lucas Wallmark,Blocker,Florida Panthers,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:21:52Z,1,08:07,11:53,Missed Shot,n/a,68.0,14.0,Kirby Dach,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:22:49Z,1,09:01,10:59,Shot,Snap Shot,41.0,-19.0,Connor Murphy,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:23:31Z,1,09:02,10:58,Faceoff,n/a,69.0,-22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:23:34Z,1,09:16,10:44,Takeaway,n/a,30.0,-30.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:24:06Z,1,09:19,10:41,Faceoff,n/a,20.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:25:52Z,1,11:10,08:50,Shot,Slap Shot,41.0,-22.0,Slater Koekkoek,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:26:00Z,1,11:18,08:42,Blocked Shot,n/a,69.0,13.0,Mike Matheson,Blocker,Florida Panthers,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:26:10Z,1,11:28,08:32,Shot,Snap Shot,64.0,-2.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:26:42Z,1,11:57,08:03,Shot,Snap Shot,72.0,-23.0,Aaron Ekblad,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:28:37Z,1,11:58,08:02,Faceoff,n/a,-69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Lucas Wallmark,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:29:18Z,1,12:18,07:42,Shot,Backhand,82.0,-5.0,Matthew Highmore,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:29:12Z,1,12:19,07:41,Shot,Slap Shot,33.0,-25.0,Connor Murphy,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:29:27Z,1,12:21,07:39,Giveaway,n/a,54.0,-4.0,Lucas Wallmark,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:29:18Z,1,12:22,07:38,Shot,Slap Shot,39.0,-26.0,Connor Murphy,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:29:54Z,1,12:23,07:37,Faceoff,n/a,69.0,-22.0,Erik Haula,Winner,Florida Panthers,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:30:11Z,1,12:39,07:21,Missed Shot,n/a,-42.0,-15.0,Anton Stralman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:30:25Z,1,12:54,07:06,Goal,Tip-In,78.0,3.0,Jonathan Toews,Scorer,Chicago Blackhawks,Adam Boqvist,Assist,Chicago Blackhawks,Dominik Kubalik,Assist,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers
+2020-02-29T23:30:56Z,1,12:54,07:06,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:31:38Z,1,13:26,06:34,Penalty,Hooking,26.0,16.0,Jonathan Huberdeau,PenaltyOn,Florida Panthers,Slater Koekkoek,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:32:02Z,1,13:26,06:34,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:32:32Z,1,13:58,06:02,Shot,Wrist Shot,83.0,28.0,Patrick Kane,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:32:37Z,1,14:03,05:57,Missed Shot,n/a,58.0,20.0,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:33:45Z,1,14:48,05:12,Faceoff,n/a,20.0,-22.0,Erik Haula,Winner,Florida Panthers,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:34:16Z,1,15:17,04:43,Blocked Shot,n/a,78.0,5.0,Noel Acciari,Blocker,Florida Panthers,Brandon Saad,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:36:16Z,1,15:36,04:24,Faceoff,n/a,-20.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:37:09Z,1,16:04,03:56,Blocked Shot,n/a,40.0,27.0,Evgenii Dadonov,Blocker,Florida Panthers,Matthew Highmore,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:37:49Z,1,16:17,03:43,Faceoff,n/a,-20.0,22.0,Colton Sceviour,Winner,Florida Panthers,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:38:53Z,1,16:48,03:12,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:39:12Z,1,17:12,02:48,Shot,Slap Shot,36.0,-21.0,Slater Koekkoek,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:39:21Z,1,17:13,02:47,Penalty,Hi-sticking,84.0,-6.0,Erik Haula,PenaltyOn,Florida Panthers,Dominik Kubalik,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:39:55Z,1,17:13,02:47,Faceoff,n/a,69.0,22.0,Noel Acciari,Winner,Florida Panthers,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:40:40Z,1,17:56,02:04,Shot,Slap Shot,33.0,25.0,Duncan Keith,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:40:50Z,1,18:07,01:53,Shot,Slap Shot,46.0,40.0,Colton Sceviour,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:41:42Z,1,18:59,01:01,Takeaway,n/a,26.0,-12.0,Colton Sceviour,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:41:46Z,1,19:01,00:59,Giveaway,n/a,11.0,-4.0,Colton Sceviour,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:41:54Z,1,19:09,00:51,Giveaway,n/a,49.0,35.0,MacKenzie Weegar,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:41:59Z,1,19:15,00:45,Shot,Snap Shot,55.0,29.0,Olli Maatta,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:42:27Z,1,19:43,00:17,Hit,n/a,93.0,-19.0,Riley Stillman,Hitter,Florida Panthers,Matthew Highmore,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:42:32Z,1,19:47,00:13,Missed Shot,n/a,84.0,-33.0,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:42:40Z,1,19:54,00:06,Giveaway,n/a,36.0,-4.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:42:40Z,1,19:54,00:06,Shot,Tip-In,79.0,2.0,Matthew Highmore,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-29T23:42:46Z,1,19:56,00:04,Hit,n/a,65.0,-38.0,Riley Stillman,Hitter,Florida Panthers,Matthew Highmore,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:02:09Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Erik Haula,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:01:54Z,2,00:07,19:53,Faceoff,n/a,69.0,-22.0,Erik Haula,Winner,Florida Panthers,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:02:07Z,2,00:11,19:49,Shot,Slap Shot,39.0,-25.0,Aaron Ekblad,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:02:28Z,2,00:21,19:39,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Erik Haula,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:03:10Z,2,00:52,19:08,Blocked Shot,n/a,77.0,-4.0,Duncan Keith,Blocker,Chicago Blackhawks,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:03:28Z,2,01:11,18:49,Blocked Shot,n/a,68.0,-7.0,Drake Caggiula,Blocker,Chicago Blackhawks,Evgenii Dadonov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:03:44Z,2,01:23,18:37,Hit,n/a,94.0,-18.0,Olli Maatta,Hitter,Chicago Blackhawks,Jonathan Huberdeau,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:03:53Z,2,01:33,18:27,Shot,Snap Shot,-70.0,-14.0,Drake Caggiula,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:04:17Z,2,01:34,18:26,Faceoff,n/a,-69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Lucas Wallmark,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:04:38Z,2,01:44,18:16,Shot,Snap Shot,-67.0,-18.0,Matthew Highmore,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:05:20Z,2,02:27,17:33,Shot,Backhand,-85.0,7.0,Ryan Carpenter,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:21:09Z,2,02:33,17:27,Shot,Slap Shot,-48.0,22.0,Patrick Kane,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:05:29Z,2,02:36,17:24,Shot,Wrist Shot,-82.0,-26.0,Patrick Kane,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:05:37Z,2,02:45,17:15,Blocked Shot,n/a,-80.0,-9.0,Frank Vatrano,Blocker,Florida Panthers,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:06:00Z,2,02:47,17:13,Missed Shot,n/a,-31.0,17.0,Lucas Carlsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:05:46Z,2,02:54,17:06,Hit,n/a,-12.0,-41.0,Frank Vatrano,Hitter,Florida Panthers,Lucas Carlsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:05:58Z,2,03:05,16:55,Takeaway,n/a,-30.0,-32.0,Kirby Dach,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:06:07Z,2,03:10,16:50,Hit,n/a,-10.0,38.0,Dominic Toninato,Hitter,Florida Panthers,Lucas Carlsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:06:19Z,2,03:26,16:34,Shot,Snap Shot,-40.0,-15.0,Jonathan Toews,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:06:50Z,2,03:57,16:03,Blocked Shot,n/a,55.0,3.0,Adam Boqvist,Blocker,Chicago Blackhawks,Brett Connolly,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:06:53Z,2,04:01,15:59,Giveaway,n/a,31.0,32.0,Adam Boqvist,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:07:05Z,2,04:12,15:48,Shot,Snap Shot,53.0,12.0,Erik Haula,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:07:14Z,2,04:21,15:39,Hit,n/a,16.0,-40.0,Erik Haula,Hitter,Florida Panthers,Dylan Strome,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:08:16Z,2,05:23,14:37,Shot,Snap Shot,80.0,0.0,Evgenii Dadonov,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:08:55Z,2,05:48,14:12,Faceoff,n/a,69.0,22.0,Lucas Wallmark,Winner,Florida Panthers,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:09:18Z,2,05:55,14:05,Blocked Shot,n/a,75.0,5.0,Connor Murphy,Blocker,Chicago Blackhawks,Mark Pysyk,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:09:30Z,2,05:57,14:03,Shot,Snap Shot,41.0,21.0,Connor Murphy,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:09:43Z,2,05:59,14:01,Shot,Tip-In,79.0,-4.0,Kirby Dach,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:09:49Z,2,05:59,14:01,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Lucas Wallmark,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:10:11Z,2,06:05,13:55,Hit,n/a,93.0,-32.0,Frank Vatrano,Hitter,Florida Panthers,Lucas Carlsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:10:22Z,2,06:21,13:39,Goal,Tip-In,-78.0,2.0,Drake Caggiula,Scorer,Chicago Blackhawks,Connor Murphy,Assist,Chicago Blackhawks,Jonathan Toews,Assist,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers
+2020-03-01T00:11:22Z,2,06:21,13:39,Faceoff,n/a,0.0,0.0,Dominic Toninato,Winner,Florida Panthers,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:11:30Z,2,06:28,13:32,Hit,n/a,83.0,34.0,Adam Boqvist,Hitter,Chicago Blackhawks,Colton Sceviour,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:13:28Z,2,06:32,13:28,Faceoff,n/a,69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:14:03Z,2,07:03,12:57,Giveaway,n/a,55.0,40.0,Ryan Carpenter,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:14:31Z,2,07:31,12:29,Hit,n/a,35.0,41.0,Drake Caggiula,Hitter,Chicago Blackhawks,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:15:15Z,2,08:09,11:51,Penalty,Interference,-23.0,-27.0,Olli Maatta,PenaltyOn,Chicago Blackhawks,Mike Hoffman,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:15:45Z,2,08:09,11:51,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:15:59Z,2,08:21,11:39,Shot,Slap Shot,63.0,-24.0,Mike Hoffman,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:16:08Z,2,08:30,11:30,Blocked Shot,n/a,66.0,-15.0,Duncan Keith,Blocker,Chicago Blackhawks,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:16:13Z,2,08:34,11:26,Takeaway,n/a,89.0,-9.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:16:15Z,2,08:37,11:23,Giveaway,n/a,92.0,-17.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:16:30Z,2,08:52,11:08,Giveaway,n/a,73.0,35.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:16:30Z,2,08:52,11:08,Shot,Snap Shot,61.0,-24.0,Keith Yandle,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:17:05Z,2,09:25,10:35,Shot,Slap Shot,58.0,-22.0,Mike Hoffman,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:17:32Z,2,09:26,10:34,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Erik Haula,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:18:01Z,2,09:50,10:10,Shot,Slap Shot,41.0,21.0,Aaron Ekblad,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:18:23Z,2,09:51,10:09,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:18:35Z,2,10:00,10:00,Missed Shot,n/a,60.0,-24.0,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:18:46Z,2,10:11,09:49,Shot,Wrap-around,90.0,-7.0,Aleksander Barkov,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:19:17Z,2,10:13,09:47,Penalty,Tripping,96.0,-14.0,Duncan Keith,PenaltyOn,Chicago Blackhawks,Aleksander Barkov,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:20:57Z,2,10:13,09:47,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:21:49Z,2,11:03,08:57,Shot,Snap Shot,79.0,12.0,Jonathan Huberdeau,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:22:21Z,2,11:35,08:25,Missed Shot,n/a,59.0,21.0,Jonathan Huberdeau,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:22:31Z,2,11:45,08:15,Missed Shot,n/a,60.0,-18.0,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:22:46Z,2,12:01,07:59,Missed Shot,n/a,64.0,-20.0,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:23:23Z,2,12:37,07:23,Shot,Snap Shot,58.0,26.0,Frank Vatrano,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:23:35Z,2,12:50,07:10,Blocked Shot,n/a,-53.0,-5.0,Aaron Ekblad,Blocker,Florida Panthers,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:23:43Z,2,12:52,07:08,Hit,n/a,-76.0,-38.0,MacKenzie Weegar,Hitter,Florida Panthers,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:24:25Z,2,13:40,06:20,Shot,Wrist Shot,57.0,-24.0,Colton Sceviour,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:25:04Z,2,14:16,05:44,Blocked Shot,n/a,-68.0,-4.0,Dominic Toninato,Blocker,Florida Panthers,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:26:15Z,2,15:02,04:58,Faceoff,n/a,-69.0,-22.0,Lucas Wallmark,Winner,Florida Panthers,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:27:08Z,2,15:45,04:15,Shot,Wrist Shot,-35.0,-14.0,Olli Maatta,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:29:27Z,2,15:46,04:14,Faceoff,n/a,-69.0,-22.0,Noel Acciari,Winner,Florida Panthers,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:30:24Z,2,16:47,03:13,Takeaway,n/a,65.0,-35.0,Mike Hoffman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:30:24Z,2,16:49,03:11,Shot,Snap Shot,79.0,-26.0,Mike Hoffman,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:30:54Z,2,16:50,03:10,Faceoff,n/a,69.0,-22.0,Colton Sceviour,Winner,Florida Panthers,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:31:20Z,2,17:15,02:45,Blocked Shot,n/a,-65.0,0.0,Mike Matheson,Blocker,Florida Panthers,Ryan Carpenter,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:31:48Z,2,17:42,02:18,Hit,n/a,56.0,39.0,Colton Sceviour,Hitter,Florida Panthers,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:09Z,2,18:03,01:57,Shot,Snap Shot,41.0,-15.0,Erik Haula,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:20Z,2,18:14,01:46,Missed Shot,n/a,72.0,-2.0,Colton Sceviour,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:28Z,2,18:22,01:38,Blocked Shot,n/a,66.0,3.0,Ryan Carpenter,Blocker,Chicago Blackhawks,Aaron Ekblad,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:44Z,2,18:34,01:26,Shot,Backhand,62.0,4.0,Aaron Ekblad,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:33:17Z,2,18:35,01:25,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Lucas Wallmark,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:33:48Z,2,18:43,01:17,Faceoff,n/a,69.0,22.0,Erik Haula,Winner,Florida Panthers,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:34:14Z,2,18:50,01:10,Missed Shot,n/a,33.0,29.0,MacKenzie Weegar,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:34:24Z,2,19:00,01:00,Giveaway,n/a,-69.0,41.0,Sergei Bobrovsky,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:35:24Z,2,19:58,00:02,Shot,Backhand,84.0,22.0,MacKenzie Weegar,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:54:02Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Erik Haula,Winner,Florida Panthers,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:54:16Z,3,00:08,19:52,Faceoff,n/a,69.0,22.0,Noel Acciari,Winner,Florida Panthers,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:54:37Z,3,00:13,19:47,Takeaway,n/a,7.0,-4.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:54:44Z,3,00:23,19:37,Giveaway,n/a,44.0,18.0,Aaron Ekblad,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:55:44Z,3,01:11,18:49,Penalty,Hi-sticking,82.0,-34.0,Kirby Dach,PenaltyOn,Chicago Blackhawks,Riley Stillman,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:56:08Z,3,01:11,18:49,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:56:18Z,3,01:19,18:41,Shot,Snap Shot,-63.0,-24.0,Jonathan Huberdeau,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:56:20Z,3,01:22,18:38,Takeaway,n/a,-40.0,19.0,Mike Hoffman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:56:59Z,3,01:40,18:20,Faceoff,n/a,-69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:57:20Z,3,01:47,18:13,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:57:45Z,3,02:04,17:56,Missed Shot,n/a,-64.0,-18.0,Jonathan Huberdeau,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:58:05Z,3,02:24,17:36,Shot,Snap Shot,-54.0,24.0,Mike Hoffman,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:58:24Z,3,02:43,17:17,Shot,Snap Shot,-77.0,26.0,Mike Hoffman,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:58:39Z,3,02:58,17:02,Giveaway,n/a,-59.0,3.0,Keith Yandle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:58:43Z,3,02:59,17:01,Blocked Shot,n/a,-78.0,-8.0,Olli Maatta,Blocker,Chicago Blackhawks,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:58:47Z,3,03:00,17:00,Giveaway,n/a,-50.0,-4.0,Olli Maatta,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:59:09Z,3,03:00,17:00,Faceoff,n/a,-69.0,-22.0,Erik Haula,Winner,Florida Panthers,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:59:21Z,3,03:09,16:51,Missed Shot,n/a,-88.0,26.0,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:59:26Z,3,03:14,16:46,Giveaway,n/a,-47.0,-29.0,Kirby Dach,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:59:31Z,3,03:19,16:41,Shot,Snap Shot,-83.0,17.0,Brett Connolly,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:59:38Z,3,03:25,16:35,Missed Shot,n/a,-35.0,-23.0,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:59:46Z,3,03:26,16:34,Shot,Slap Shot,-66.0,17.0,Erik Haula,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:00:15Z,3,03:27,16:33,Faceoff,n/a,-69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Colton Sceviour,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:00:43Z,3,03:57,16:03,Giveaway,n/a,-44.0,-5.0,Colton Sceviour,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:00:55Z,3,04:09,15:51,Hit,n/a,90.0,29.0,Dylan Strome,Hitter,Chicago Blackhawks,Dominic Toninato,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:01:01Z,3,04:15,15:45,Shot,Backhand,-58.0,-39.0,Noel Acciari,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:01:22Z,3,04:18,15:42,Shot,Slap Shot,-75.0,2.0,Noel Acciari,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:01:28Z,3,04:19,15:41,Faceoff,n/a,-69.0,-22.0,Erik Haula,Winner,Florida Panthers,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:02:26Z,3,04:23,15:37,Shot,Tip-In,-79.0,-3.0,Noel Acciari,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:02:26Z,3,04:24,15:36,Shot,Wrap-around,-80.0,4.0,Erik Haula,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:01:54Z,3,04:25,15:35,Shot,Tip-In,-78.0,-1.0,Noel Acciari,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:02:09Z,3,04:26,15:34,Faceoff,n/a,-69.0,-22.0,Erik Haula,Winner,Florida Panthers,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:02:58Z,3,05:04,14:56,Giveaway,n/a,-30.0,15.0,Olli Maatta,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:03:14Z,3,05:17,14:43,Shot,Snap Shot,64.0,5.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:03:35Z,3,05:18,14:42,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Alex DeBrincat,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:03:56Z,3,05:28,14:32,Blocked Shot,n/a,68.0,11.0,Aleksander Barkov,Blocker,Florida Panthers,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:04:39Z,3,06:10,13:50,Missed Shot,n/a,59.0,-6.0,Lucas Carlsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:04:44Z,3,06:15,13:45,Missed Shot,n/a,76.0,-5.0,Kirby Dach,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:06:50Z,3,06:16,13:44,Faceoff,n/a,20.0,22.0,Lucas Wallmark,Winner,Florida Panthers,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:07:03Z,3,06:27,13:33,Shot,Snap Shot,-79.0,-5.0,Lucas Wallmark,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:07:52Z,3,07:15,12:45,Missed Shot,n/a,-59.0,-16.0,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:07:57Z,3,07:21,12:39,Hit,n/a,-35.0,38.0,Drake Caggiula,Hitter,Chicago Blackhawks,Aaron Ekblad,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:08:01Z,3,07:23,12:37,Shot,Snap Shot,62.0,6.0,Dylan Strome,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:08:29Z,3,07:24,12:36,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:08:47Z,3,07:41,12:19,Takeaway,n/a,89.0,26.0,MacKenzie Weegar,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:09:01Z,3,07:55,12:05,Hit,n/a,-60.0,39.0,Erik Haula,Hitter,Florida Panthers,Patrick Kane,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:09:08Z,3,08:02,11:58,Blocked Shot,n/a,71.0,-4.0,MacKenzie Weegar,Blocker,Florida Panthers,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:09:57Z,3,08:51,11:09,Giveaway,n/a,-58.0,-21.0,Dominic Toninato,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:10:23Z,3,09:16,10:44,Shot,Wrist Shot,-58.0,-40.0,Keith Yandle,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:10:52Z,3,09:17,10:43,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:11:18Z,3,09:40,10:20,Hit,n/a,-78.0,-39.0,Connor Murphy,Hitter,Chicago Blackhawks,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:03Z,3,09:41,10:19,Hit,n/a,-85.0,-35.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:03Z,3,09:44,10:16,Hit,n/a,-81.0,36.0,Matthew Highmore,Hitter,Chicago Blackhawks,Aaron Ekblad,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:03Z,3,09:50,10:10,Giveaway,n/a,-41.0,24.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:03Z,3,10:26,09:34,Missed Shot,n/a,46.0,3.0,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:14:06Z,3,10:34,09:26,Faceoff,n/a,-20.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:14:53Z,3,11:01,08:59,Giveaway,n/a,10.0,35.0,Dominik Kubalik,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:15:04Z,3,11:17,08:43,Shot,Snap Shot,-20.0,-35.0,Erik Haula,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:15:48Z,3,11:19,08:41,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:15:48Z,3,11:36,08:24,Blocked Shot,n/a,-71.0,-14.0,Kirby Dach,Blocker,Chicago Blackhawks,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:15:58Z,3,11:40,08:20,Hit,n/a,-82.0,-37.0,Connor Murphy,Hitter,Chicago Blackhawks,Mike Hoffman,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:16:05Z,3,11:52,08:08,Shot,Snap Shot,-84.0,-35.0,Keith Yandle,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:16:54Z,3,11:53,08:07,Faceoff,n/a,-69.0,-22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Lucas Wallmark,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:17:07Z,3,12:10,07:50,Missed Shot,n/a,78.0,4.0,Ryan Carpenter,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:17:59Z,3,12:35,07:25,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:18:26Z,3,12:40,07:20,Faceoff,n/a,-20.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:18:43Z,3,12:52,07:08,Giveaway,n/a,93.0,15.0,Dominik Kubalik,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:19:32Z,3,13:10,06:50,Faceoff,n/a,69.0,22.0,Colton Sceviour,Winner,Florida Panthers,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:22:50Z,3,14:27,05:33,Faceoff,n/a,20.0,-22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:24:16Z,3,15:40,04:20,Missed Shot,n/a,62.0,12.0,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:24:33Z,3,15:47,04:13,Takeaway,n/a,35.0,39.0,Aaron Ekblad,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:24:34Z,3,15:57,04:03,Shot,Slap Shot,-70.0,8.0,Erik Haula,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:25:05Z,3,16:28,03:32,Hit,n/a,-54.0,42.0,Olli Maatta,Hitter,Chicago Blackhawks,Brett Connolly,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:25:45Z,3,17:05,02:55,Giveaway,n/a,11.0,-19.0,Evgenii Dadonov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:26:02Z,3,17:26,02:34,Missed Shot,n/a,64.0,-5.0,Drake Caggiula,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:26:12Z,3,17:36,02:24,Blocked Shot,n/a,-71.0,-13.0,Connor Murphy,Blocker,Chicago Blackhawks,Evgenii Dadonov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:26:44Z,3,18:08,01:52,Hit,n/a,99.0,-15.0,Jonathan Huberdeau,Hitter,Florida Panthers,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:26:53Z,3,18:17,01:43,Takeaway,n/a,16.0,-17.0,David Kampf,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:27:10Z,3,18:32,01:28,Goal,Snap Shot,-66.0,19.0,Mike Matheson,Scorer,Florida Panthers,Mike Hoffman,Assist,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a
+2020-03-01T01:28:12Z,3,18:32,01:28,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:28:26Z,3,18:46,01:14,Takeaway,n/a,-22.0,-11.0,Dominic Toninato,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:28:32Z,3,18:51,01:09,Shot,Snap Shot,-82.0,6.0,Dominic Toninato,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:28:41Z,3,19:00,01:00,Takeaway,n/a,-33.0,4.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:30:39Z,3,19:32,00:28,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:31:22Z,3,19:48,00:12,Faceoff,n/a,20.0,-22.0,Lucas Wallmark,Winner,Florida Panthers,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:43:38Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:34:04Z,4,00:14,04:46,Giveaway,n/a,20.0,2.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:34:37Z,4,00:47,04:13,Blocked Shot,n/a,-71.0,11.0,Aleksander Barkov,Blocker,Florida Panthers,Brandon Saad,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:35:46Z,4,01:01,03:59,Faceoff,n/a,69.0,-22.0,Noel Acciari,Winner,Florida Panthers,Brandon Saad,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:35:40Z,4,01:12,03:48,Giveaway,n/a,23.0,40.0,Keith Yandle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:35:55Z,4,01:26,03:34,Shot,Wrist Shot,64.0,-21.0,Mike Hoffman,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:36:38Z,4,02:08,02:52,Shot,Snap Shot,-79.0,-7.0,Jonathan Toews,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:37:16Z,4,02:11,02:49,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:37:33Z,4,02:29,02:31,Missed Shot,n/a,-62.0,-2.0,Adam Boqvist,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:38:05Z,4,03:01,01:59,Shot,Slap Shot,-71.0,20.0,Brandon Saad,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:38:20Z,4,03:16,01:44,Shot,Slap Shot,-44.0,31.0,Duncan Keith,Shooter,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:38:56Z,4,03:52,01:08,Takeaway,n/a,74.0,-40.0,Evgenii Dadonov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:39:04Z,4,04:00,01:00,Missed Shot,n/a,84.0,-8.0,Evgenii Dadonov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:39:12Z,4,04:08,00:52,Shot,Snap Shot,81.0,3.0,Mike Matheson,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:39:19Z,4,04:14,00:46,Takeaway,n/a,86.0,-28.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:39:23Z,4,04:18,00:42,Shot,Wrist Shot,73.0,-23.0,Aleksander Barkov,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:39:35Z,4,04:30,00:30,Takeaway,n/a,16.0,-32.0,Erik Haula,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:39:44Z,4,04:35,00:25,Shot,Wrist Shot,64.0,3.0,Mike Matheson,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:41:34Z,4,04:36,00:24,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:41:55Z,4,04:59,00:01,Missed Shot,n/a,48.0,-13.0,Jonathan Huberdeau,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:55:01Z,5,00:00,00:00,Shot,Slap Shot,-73.0,0.0,Frank Vatrano,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:55:21Z,5,00:00,00:00,Goal,Backhand,78.0,4.0,Jonathan Toews,Scorer,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:56:37Z,5,00:00,00:00,Shot,Snap Shot,-64.0,2.0,Mike Hoffman,Shooter,Florida Panthers,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:56:52Z,5,00:00,00:00,Goal,Wrist Shot,76.0,4.0,Patrick Kane,Scorer,Chicago Blackhawks,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a

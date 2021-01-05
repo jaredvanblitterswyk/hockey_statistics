@@ -1,0 +1,282 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-19T23:20:11Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Colin White,Winner,Ottawa Senators,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:21:02Z,1,00:22,19:38,Hit,n/a,-96.0,-21.0,Vladislav Namestnikov,Hitter,Ottawa Senators,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:21:10Z,1,00:30,19:30,Hit,n/a,50.0,-39.0,Mark Borowiecki,Hitter,Ottawa Senators,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:21:16Z,1,00:36,19:24,Hit,n/a,85.0,37.0,Lawson Crouse,Hitter,Arizona Coyotes,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:22:29Z,1,01:50,18:10,Hit,n/a,-96.0,-15.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Anthony Duclair,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:22:33Z,1,01:54,18:06,Shot,Slap Shot,-36.0,-28.0,Erik Brannstrom,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:22:55Z,1,02:16,17:44,Hit,n/a,-97.0,-18.0,Scott Sabourin,Hitter,Ottawa Senators,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:23:09Z,1,02:25,17:35,Blocked Shot,n/a,-74.0,-15.0,Jason Demers,Blocker,Arizona Coyotes,Scott Sabourin,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:23:35Z,1,02:28,17:32,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:24:08Z,1,02:37,17:23,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:24:26Z,1,02:51,17:09,Hit,n/a,87.0,-37.0,Brady Tkachuk,Hitter,Ottawa Senators,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:24:49Z,1,03:14,16:46,Blocked Shot,n/a,70.0,0.0,Nikita Zaitsev,Blocker,Ottawa Senators,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:25:13Z,1,03:39,16:21,Shot,Wrist Shot,-21.0,-39.0,Mark Borowiecki,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:25:23Z,1,03:48,16:12,Giveaway,n/a,-78.0,-3.0,Jakob Chychrun,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:25:37Z,1,04:02,15:58,Missed Shot,n/a,-38.0,-35.0,Mark Borowiecki,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:26:20Z,1,04:22,15:38,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Jordan Szwarz,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:26:38Z,1,04:28,15:32,Blocked Shot,n/a,43.0,9.0,Scott Sabourin,Blocker,Ottawa Senators,Kyle Capobianco,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:26:35Z,1,04:29,15:31,Hit,n/a,34.0,6.0,Scott Sabourin,Hitter,Ottawa Senators,Kyle Capobianco,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:27:08Z,1,04:49,15:11,Penalty,Hooking,52.0,-40.0,Jordan Szwarz,PenaltyOn,Ottawa Senators,Jason Demers,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:27:39Z,1,04:49,15:11,Faceoff,n/a,69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:28:24Z,1,05:33,14:27,Missed Shot,n/a,43.0,28.0,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:29:01Z,1,06:09,13:51,Shot,Snap Shot,38.0,-26.0,Jakob Chychrun,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:29:57Z,1,06:12,13:48,Faceoff,n/a,69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:30:54Z,1,07:09,12:51,Goal,Wrist Shot,34.0,20.0,Kyle Capobianco,Scorer,Arizona Coyotes,Vinnie Hinostroza,Assist,Arizona Coyotes,Alex Goligoski,Assist,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators
+2019-10-19T23:31:38Z,1,07:09,12:51,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:33:34Z,1,07:14,12:46,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:34:02Z,1,07:25,12:35,Blocked Shot,n/a,83.0,-7.0,Thomas Chabot,Blocker,Ottawa Senators,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:34:20Z,1,07:48,12:12,Shot,Wrist Shot,84.0,-25.0,Brad Richardson,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:35:00Z,1,08:08,11:52,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:35:10Z,1,08:14,11:46,Takeaway,n/a,-95.0,19.0,Tyler Ennis,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:35:25Z,1,08:29,11:31,Shot,Wrist Shot,62.0,10.0,Clayton Keller,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:35:43Z,1,08:32,11:28,Goal,Wrist Shot,79.0,2.0,Oliver Ekman-Larsson,Scorer,Arizona Coyotes,Clayton Keller,Assist,Arizona Coyotes,Derek Stepan,Assist,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators
+2019-10-19T23:36:27Z,1,08:32,11:28,Faceoff,n/a,0.0,0.0,Jordan Szwarz,Winner,Ottawa Senators,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:36:22Z,1,08:46,11:14,Hit,n/a,47.0,-40.0,Nick Paul,Hitter,Ottawa Senators,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:36:34Z,1,08:58,11:02,Giveaway,n/a,44.0,-38.0,Nick Paul,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:36:42Z,1,09:06,10:54,Missed Shot,n/a,46.0,-24.0,Ilya Lyubushkin,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:36:52Z,1,09:15,10:45,Blocked Shot,n/a,57.0,0.0,Jordan Szwarz,Blocker,Ottawa Senators,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:36:52Z,1,09:17,10:43,Blocked Shot,n/a,78.0,4.0,Mark Borowiecki,Blocker,Ottawa Senators,Kyle Capobianco,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:37:14Z,1,09:19,10:41,Faceoff,n/a,69.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Jordan Szwarz,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:37:39Z,1,09:30,10:30,Blocked Shot,n/a,74.0,4.0,Mark Borowiecki,Blocker,Ottawa Senators,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:37:48Z,1,09:39,10:21,Hit,n/a,98.0,-9.0,Christian Fischer,Hitter,Arizona Coyotes,Colin White,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:38:13Z,1,09:42,10:18,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:38:43Z,1,10:04,09:56,Blocked Shot,n/a,68.0,-4.0,Nikita Zaitsev,Blocker,Ottawa Senators,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:40:30Z,1,10:05,09:55,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:41:06Z,1,10:15,09:45,Shot,Wrist Shot,38.0,-1.0,Alex Goligoski,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:41:15Z,1,10:22,09:38,Shot,Wrist Shot,51.0,-25.0,Alex Goligoski,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:41:50Z,1,10:22,09:38,Faceoff,n/a,69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Vinnie Hinostroza,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:42:10Z,1,10:45,09:15,Missed Shot,n/a,75.0,4.0,Brad Richardson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:42:13Z,1,10:48,09:12,Hit,n/a,98.0,12.0,Brad Richardson,Hitter,Arizona Coyotes,Connor Brown,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:42:24Z,1,10:58,09:02,Shot,Wrist Shot,-65.0,-13.0,Tyler Ennis,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:42:36Z,1,11:10,08:50,Giveaway,n/a,-90.0,29.0,Brad Richardson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:43:05Z,1,11:14,08:46,Faceoff,n/a,-20.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:43:21Z,1,11:32,08:28,Hit,n/a,97.0,9.0,Nikita Zaitsev,Hitter,Ottawa Senators,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:43:53Z,1,12:02,07:58,Missed Shot,n/a,37.0,4.0,Ilya Lyubushkin,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:44:08Z,1,12:19,07:41,Hit,n/a,55.0,40.0,Ron Hainsey,Hitter,Ottawa Senators,Lawson Crouse,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:44:34Z,1,12:44,07:16,Hit,n/a,49.0,39.0,Lawson Crouse,Hitter,Arizona Coyotes,Scott Sabourin,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:45:01Z,1,12:45,07:15,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:45:17Z,1,12:52,07:08,Hit,n/a,62.0,-41.0,Colin White,Hitter,Ottawa Senators,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:45:36Z,1,13:11,06:49,Missed Shot,n/a,74.0,3.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:46:02Z,1,13:37,06:23,Giveaway,n/a,56.0,-36.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:46:40Z,1,14:14,05:46,Blocked Shot,n/a,68.0,7.0,Thomas Chabot,Blocker,Ottawa Senators,Michael Grabner,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:47:08Z,1,14:43,05:17,Missed Shot,n/a,-42.0,-27.0,Ron Hainsey,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:48:02Z,1,15:37,04:23,Missed Shot,n/a,-41.0,-28.0,Nick Paul,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:48:27Z,1,15:44,04:16,Missed Shot,n/a,45.0,-14.0,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:48:27Z,1,15:48,04:12,Blocked Shot,n/a,59.0,8.0,Nikita Zaitsev,Blocker,Ottawa Senators,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:50:26Z,1,16:11,03:49,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:51:04Z,1,16:30,03:30,Penalty,Hooking,96.0,-9.0,Colin White,PenaltyOn,Ottawa Senators,Michael Grabner,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:51:37Z,1,16:30,03:30,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:51:50Z,1,16:50,03:10,Missed Shot,n/a,36.0,-30.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:52:36Z,1,17:36,02:24,Missed Shot,n/a,-37.0,17.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:52:52Z,1,17:50,02:10,Shot,Wrist Shot,25.0,-26.0,Connor Brown,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:53:26Z,1,18:26,01:34,Blocked Shot,n/a,69.0,8.0,Nikita Zaitsev,Blocker,Ottawa Senators,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:54:02Z,1,18:43,01:17,Faceoff,n/a,69.0,22.0,Colin White,Winner,Ottawa Senators,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:54:44Z,1,19:15,00:45,Shot,Wrist Shot,-78.0,-18.0,Tyler Ennis,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:54:58Z,1,19:29,00:31,Shot,Wrist Shot,58.0,5.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-19T23:55:09Z,1,19:40,00:20,Hit,n/a,-94.0,-24.0,Bobby Ryan,Hitter,Ottawa Senators,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:14:28Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:14:37Z,2,00:04,19:56,Faceoff,n/a,-20.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:14:55Z,2,00:12,19:48,Hit,n/a,-32.0,-40.0,Christian Fischer,Hitter,Arizona Coyotes,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:15:11Z,2,00:29,19:31,Hit,n/a,98.0,-16.0,Brady Tkachuk,Hitter,Ottawa Senators,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:15:20Z,2,00:36,19:24,Missed Shot,n/a,38.0,29.0,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:15:21Z,2,00:38,19:22,Shot,Wrist Shot,79.0,-33.0,Nikita Zaitsev,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:15:50Z,2,01:05,18:55,Missed Shot,n/a,34.0,34.0,Erik Brannstrom,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:16:02Z,2,01:16,18:44,Blocked Shot,n/a,75.0,3.0,Christian Fischer,Blocker,Arizona Coyotes,Erik Brannstrom,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:16:31Z,2,01:17,18:43,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:16:51Z,2,01:37,18:23,Missed Shot,n/a,-42.0,-24.0,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:17:00Z,2,01:45,18:15,Takeaway,n/a,69.0,35.0,Michael Grabner,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:17:04Z,2,01:49,18:11,Giveaway,n/a,74.0,33.0,Michael Grabner,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:17:40Z,2,02:24,17:36,Blocked Shot,n/a,-86.0,12.0,Nikita Zaitsev,Blocker,Ottawa Senators,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:17:41Z,2,02:24,17:36,Shot,Wrist Shot,-60.0,10.0,Phil Kessel,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:18:14Z,2,02:26,17:34,Shot,Snap Shot,-77.0,-1.0,Derek Stepan,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:18:20Z,2,02:27,17:33,Faceoff,n/a,-69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:18:32Z,2,02:49,17:11,Blocked Shot,n/a,76.0,6.0,Kyle Capobianco,Blocker,Arizona Coyotes,Connor Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:19:00Z,2,03:18,16:42,Blocked Shot,n/a,-66.0,-14.0,Scott Sabourin,Blocker,Ottawa Senators,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:19:09Z,2,03:26,16:34,Hit,n/a,90.0,33.0,Scott Sabourin,Hitter,Ottawa Senators,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:19:20Z,2,03:36,16:24,Hit,n/a,66.0,-39.0,Nick Paul,Hitter,Ottawa Senators,Nick Schmaltz,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:19:56Z,2,03:45,16:15,Faceoff,n/a,-20.0,-22.0,Lawson Crouse,Winner,Arizona Coyotes,Vladislav Namestnikov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:20:37Z,2,04:02,15:58,Blocked Shot,n/a,70.0,1.0,Alex Goligoski,Blocker,Arizona Coyotes,Vladislav Namestnikov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:20:49Z,2,04:20,15:40,Shot,Wrist Shot,63.0,13.0,Anthony Duclair,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:21:28Z,2,04:56,15:04,Shot,Slap Shot,34.0,17.0,Thomas Chabot,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:21:52Z,2,04:57,15:03,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:22:31Z,2,05:31,14:29,Shot,Slap Shot,-37.0,-30.0,Jakob Chychrun,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:22:38Z,2,05:38,14:22,Hit,n/a,-97.0,-12.0,Nikita Zaitsev,Hitter,Ottawa Senators,Phil Kessel,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:22:50Z,2,05:50,14:10,Giveaway,n/a,-56.0,-40.0,Connor Brown,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:23:01Z,2,06:01,13:59,Hit,n/a,78.0,-40.0,Jordan Szwarz,Hitter,Ottawa Senators,Kyle Capobianco,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:23:18Z,2,06:15,13:45,Missed Shot,n/a,15.0,-34.0,Dylan DeMelo,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:25:15Z,2,06:16,13:44,Faceoff,n/a,69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:25:48Z,2,06:39,13:21,Blocked Shot,n/a,-64.0,1.0,Nikita Zaitsev,Blocker,Ottawa Senators,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:25:53Z,2,06:42,13:18,Hit,n/a,-28.0,39.0,Christian Dvorak,Hitter,Arizona Coyotes,Colin White,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:26:11Z,2,07:02,12:58,Blocked Shot,n/a,63.0,11.0,Alex Goligoski,Blocker,Arizona Coyotes,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:26:28Z,2,07:14,12:46,Blocked Shot,n/a,-65.0,8.0,Thomas Chabot,Blocker,Ottawa Senators,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:27:37Z,2,07:56,12:04,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:28:28Z,2,08:06,11:54,Hit,n/a,-95.0,-27.0,Carl Soderberg,Hitter,Arizona Coyotes,Ron Hainsey,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:28:28Z,2,08:28,11:32,Faceoff,n/a,-69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:28:45Z,2,08:39,11:21,Hit,n/a,99.0,12.0,Brady Tkachuk,Hitter,Ottawa Senators,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:29:21Z,2,08:41,11:19,Hit,n/a,97.0,0.0,Jakob Chychrun,Hitter,Arizona Coyotes,Connor Brown,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:28:51Z,2,08:45,11:15,Shot,Wrist Shot,77.0,3.0,Colin White,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:29:24Z,2,08:52,11:08,Faceoff,n/a,-69.0,-22.0,Colin White,Winner,Ottawa Senators,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:29:53Z,2,09:00,11:00,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:30:14Z,2,09:08,10:52,Blocked Shot,n/a,-57.0,24.0,Vladislav Namestnikov,Blocker,Ottawa Senators,Jason Demers,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:30:39Z,2,09:33,10:27,Missed Shot,n/a,-76.0,2.0,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:30:46Z,2,09:38,10:22,Hit,n/a,-40.0,-39.0,Dylan DeMelo,Hitter,Ottawa Senators,Nick Schmaltz,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:30:57Z,2,09:39,10:21,Shot,Wrist Shot,-54.0,16.0,Brad Richardson,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:30:57Z,2,09:40,10:20,Goal,Wrist Shot,-73.0,-16.0,Conor Garland,Scorer,Arizona Coyotes,Brad Richardson,Assist,Arizona Coyotes,Nick Schmaltz,Assist,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators
+2019-10-20T00:31:34Z,2,09:40,10:20,Faceoff,n/a,0.0,0.0,Jordan Szwarz,Winner,Ottawa Senators,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:32:00Z,2,10:16,09:44,Blocked Shot,n/a,-60.0,15.0,Thomas Chabot,Blocker,Ottawa Senators,Michael Grabner,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:32:39Z,2,10:55,09:05,Missed Shot,n/a,38.0,-33.0,Bobby Ryan,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:33:01Z,2,11:16,08:44,Takeaway,n/a,-82.0,-37.0,Erik Brannstrom,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:33:49Z,2,11:23,08:37,Faceoff,n/a,-69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:33:46Z,2,11:31,08:29,Blocked Shot,n/a,-44.0,-36.0,Connor Brown,Blocker,Ottawa Senators,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:34:14Z,2,11:57,08:03,Takeaway,n/a,-35.0,37.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:34:25Z,2,12:10,07:50,Hit,n/a,30.0,40.0,Brady Tkachuk,Hitter,Ottawa Senators,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:34:35Z,2,12:20,07:40,Shot,Wrist Shot,56.0,9.0,Brady Tkachuk,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:34:41Z,2,12:25,07:35,Hit,n/a,-26.0,39.0,Mark Borowiecki,Hitter,Ottawa Senators,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:34:57Z,2,12:42,07:18,Shot,Wrist Shot,43.0,15.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:34:58Z,2,12:43,07:17,Hit,n/a,84.0,-37.0,Anthony Duclair,Hitter,Ottawa Senators,Kyle Capobianco,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:35:15Z,2,13:00,07:00,Blocked Shot,n/a,50.0,7.0,Ilya Lyubushkin,Blocker,Arizona Coyotes,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:35:41Z,2,13:25,06:35,Hit,n/a,99.0,-19.0,Nick Paul,Hitter,Ottawa Senators,Jason Demers,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:36:18Z,2,13:46,06:14,Penalty,Unsportsmanlike conduct,15.0,39.0,Anthony Duclair,PenaltyOn,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:38:38Z,2,13:46,06:14,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:38:49Z,2,14:13,05:47,Shot,Tip-In,-79.0,-2.0,Christian Dvorak,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:39:33Z,2,14:29,05:31,Takeaway,n/a,40.0,36.0,Jean-Gabriel Pageau,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:39:08Z,2,14:30,05:30,Shot,Slap Shot,41.0,5.0,Mark Borowiecki,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:39:40Z,2,14:31,05:29,Faceoff,n/a,69.0,22.0,Vladislav Namestnikov,Winner,Ottawa Senators,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:40:10Z,2,15:06,04:54,Missed Shot,n/a,-61.0,14.0,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:40:42Z,2,15:07,04:53,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:41:04Z,2,15:20,04:40,Penalty,Holding the stick,-24.0,-40.0,Phil Kessel,PenaltyOn,Arizona Coyotes,Nikita Zaitsev,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:41:36Z,2,15:20,04:40,Faceoff,n/a,69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:41:50Z,2,15:34,04:26,Hit,n/a,43.0,-38.0,Tyler Ennis,Hitter,Ottawa Senators,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:42:28Z,2,16:12,03:48,Giveaway,n/a,37.0,37.0,Brad Richardson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:43:05Z,2,16:50,03:10,Missed Shot,n/a,43.0,-17.0,Colin White,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:43:27Z,2,17:11,02:49,Shot,Snap Shot,39.0,-17.0,Thomas Chabot,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:43:57Z,2,17:12,02:48,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:46:15Z,2,17:30,02:30,Faceoff,n/a,20.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:46:42Z,2,17:46,02:14,Takeaway,n/a,-72.0,10.0,Vinnie Hinostroza,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:46:47Z,2,17:51,02:09,Blocked Shot,n/a,-63.0,8.0,Bobby Ryan,Blocker,Ottawa Senators,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:47:02Z,2,18:06,01:54,Takeaway,n/a,11.0,38.0,Jason Demers,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:47:21Z,2,18:14,01:46,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:47:46Z,2,18:27,01:33,Giveaway,n/a,-75.0,-26.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:47:56Z,2,18:35,01:25,Hit,n/a,23.0,40.0,Tyler Ennis,Hitter,Ottawa Senators,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:48:10Z,2,18:49,01:11,Missed Shot,n/a,-78.0,10.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:48:37Z,2,19:10,00:50,Faceoff,n/a,-69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:49:36Z,2,19:13,00:47,Blocked Shot,n/a,-73.0,0.0,Thomas Chabot,Blocker,Ottawa Senators,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:49:36Z,2,19:19,00:41,Faceoff,n/a,20.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:49:49Z,2,19:26,00:34,Faceoff,n/a,69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:50:25Z,2,19:32,00:28,Shot,Wrist Shot,36.0,19.0,Mark Borowiecki,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:50:39Z,2,19:33,00:27,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:51:18Z,2,19:35,00:25,Penalty,Hi stick - double minor,60.0,19.0,Connor Brown,PenaltyOn,Ottawa Senators,Christian Fischer,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:51:47Z,2,19:35,00:25,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:52:02Z,2,19:46,00:14,Missed Shot,n/a,-78.0,4.0,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:52:02Z,2,19:47,00:13,Shot,Wrist Shot,-77.0,3.0,Christian Dvorak,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T00:52:06Z,2,19:52,00:08,Shot,Wrist Shot,64.0,-17.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:10:49Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:10:54Z,3,00:13,19:47,Shot,Slap Shot,32.0,26.0,Ron Hainsey,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:11:11Z,3,00:27,19:33,Shot,Wrist Shot,84.0,18.0,Christian Dvorak,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:11:28Z,3,00:28,19:32,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:11:40Z,3,00:35,19:25,Blocked Shot,n/a,-62.0,16.0,Oliver Ekman-Larsson,Blocker,Arizona Coyotes,Jean-Gabriel Pageau,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:12:03Z,3,00:59,19:01,Shot,Wrist Shot,75.0,-20.0,Derek Stepan,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:12:24Z,3,01:18,18:42,Goal,Wrist Shot,59.0,7.0,Carl Soderberg,Scorer,Arizona Coyotes,Conor Garland,Assist,Arizona Coyotes,Alex Goligoski,Assist,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators
+2019-10-20T01:13:24Z,3,01:18,18:42,Faceoff,n/a,0.0,0.0,Carl Soderberg,Winner,Arizona Coyotes,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:13:31Z,3,01:45,18:15,Giveaway,n/a,-29.0,33.0,Carl Soderberg,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:14:35Z,3,02:39,17:21,Blocked Shot,n/a,74.0,9.0,Dylan DeMelo,Blocker,Ottawa Senators,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:14:50Z,3,02:40,17:20,Faceoff,n/a,69.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:15:08Z,3,02:54,17:06,Giveaway,n/a,31.0,36.0,Alex Goligoski,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:15:12Z,3,02:58,17:02,Goal,Wrist Shot,-73.0,-6.0,Vladislav Namestnikov,Scorer,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:15:56Z,3,02:58,17:02,Faceoff,n/a,0.0,0.0,Vinnie Hinostroza,Winner,Arizona Coyotes,Anthony Duclair,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:16:17Z,3,03:11,16:49,Shot,Wrist Shot,61.0,4.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:16:37Z,3,03:12,16:48,Faceoff,n/a,69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:16:53Z,3,03:23,16:37,Missed Shot,n/a,37.0,10.0,Kyle Capobianco,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:16:56Z,3,03:26,16:34,Hit,n/a,-14.0,-41.0,Vinnie Hinostroza,Hitter,Arizona Coyotes,Brady Tkachuk,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:17:26Z,3,03:27,16:33,Faceoff,n/a,-20.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:17:27Z,3,03:33,16:27,Giveaway,n/a,-29.0,-39.0,Colin White,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:17:40Z,3,03:33,16:27,Penalty,Interference,-66.0,-41.0,Ilya Lyubushkin,PenaltyOn,Arizona Coyotes,Colin White,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:18:16Z,3,03:33,16:27,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:18:08Z,3,03:40,16:20,Shot,Wrist Shot,-40.0,-17.0,Thomas Chabot,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:18:42Z,3,04:08,15:52,Goal,Wrist Shot,-72.0,0.0,Chris Tierney,Scorer,Ottawa Senators,Thomas Chabot,Assist,Ottawa Senators,Craig Anderson,Assist,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes
+2019-10-20T01:19:35Z,3,04:08,15:52,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:19:37Z,3,04:13,15:47,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:20:22Z,3,04:31,15:29,Missed Shot,n/a,-42.0,-30.0,Erik Brannstrom,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:20:26Z,3,04:36,15:24,Hit,n/a,-55.0,38.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:20:37Z,3,04:47,15:13,Blocked Shot,n/a,-60.0,7.0,Conor Garland,Blocker,Arizona Coyotes,Ron Hainsey,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:20:52Z,3,05:01,14:59,Shot,Wrist Shot,-49.0,-31.0,Erik Brannstrom,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:21:16Z,3,05:02,14:58,Faceoff,n/a,-69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:21:51Z,3,05:23,14:37,Shot,Wrist Shot,-79.0,4.0,Vladislav Namestnikov,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:22:26Z,3,05:57,14:03,Missed Shot,n/a,34.0,-21.0,Ilya Lyubushkin,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:22:33Z,3,06:03,13:57,Shot,Slap Shot,33.0,7.0,Kyle Capobianco,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:24:41Z,3,06:04,13:56,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:24:53Z,3,06:18,13:42,Shot,Backhand,-81.0,-3.0,Tyler Ennis,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:25:23Z,3,06:20,13:40,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:26:02Z,3,06:57,13:03,Shot,Wrist Shot,5.0,35.0,Bobby Ryan,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:26:20Z,3,07:16,12:44,Giveaway,n/a,88.0,29.0,Erik Brannstrom,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:26:30Z,3,07:26,12:34,Hit,n/a,55.0,-41.0,Nick Paul,Hitter,Ottawa Senators,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:26:40Z,3,07:36,12:24,Blocked Shot,n/a,59.0,7.0,Erik Brannstrom,Blocker,Ottawa Senators,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:26:44Z,3,07:40,12:20,Hit,n/a,-62.0,40.0,Scott Sabourin,Hitter,Ottawa Senators,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:27:04Z,3,07:58,12:02,Shot,Backhand,-83.0,-9.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:27:12Z,3,08:08,11:52,Hit,n/a,-89.0,33.0,Jakob Chychrun,Hitter,Arizona Coyotes,Brady Tkachuk,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:27:28Z,3,08:24,11:36,Hit,n/a,-94.0,27.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:27:45Z,3,08:33,11:27,Giveaway,n/a,-77.0,-38.0,Connor Brown,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:28:02Z,3,08:59,11:01,Missed Shot,n/a,-46.0,12.0,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:28:26Z,3,09:20,10:40,Shot,Wrist Shot,-80.0,-33.0,Anthony Duclair,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:29:22Z,3,09:21,10:39,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:29:27Z,3,09:28,10:32,Shot,Wrist Shot,-56.0,-32.0,Thomas Chabot,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:29:44Z,3,09:34,10:26,Missed Shot,n/a,-75.0,-9.0,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:29:45Z,3,09:46,10:14,Shot,Wrist Shot,77.0,15.0,Lawson Crouse,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:30:11Z,3,10:12,09:48,Hit,n/a,9.0,12.0,Lawson Crouse,Hitter,Arizona Coyotes,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:30:26Z,3,10:27,09:33,Shot,Wrist Shot,35.0,-30.0,Jason Demers,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:32:20Z,3,10:28,09:32,Faceoff,n/a,69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:33:09Z,3,10:56,09:04,Missed Shot,n/a,80.0,11.0,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:33:17Z,3,11:02,08:58,Shot,Backhand,-59.0,29.0,Vladislav Namestnikov,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:33:48Z,3,11:03,08:57,Faceoff,n/a,-69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:33:52Z,3,11:07,08:53,Takeaway,n/a,-43.0,26.0,Michael Grabner,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:33:57Z,3,11:12,08:48,Shot,Backhand,77.0,-7.0,Michael Grabner,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:34:18Z,3,11:33,08:27,Missed Shot,n/a,-42.0,30.0,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:34:20Z,3,11:34,08:26,Blocked Shot,n/a,-58.0,-24.0,Brad Richardson,Blocker,Arizona Coyotes,Erik Brannstrom,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:34:57Z,3,12:11,07:49,Hit,n/a,98.0,-17.0,Chris Tierney,Hitter,Ottawa Senators,Phil Kessel,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:34:58Z,3,12:13,07:47,Missed Shot,n/a,78.0,-4.0,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:35:12Z,3,12:26,07:34,Hit,n/a,-59.0,-40.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Chris Tierney,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:35:20Z,3,12:35,07:25,Blocked Shot,n/a,-79.0,6.0,Ilya Lyubushkin,Blocker,Arizona Coyotes,Dylan DeMelo,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:35:31Z,3,12:45,07:15,Missed Shot,n/a,-42.0,-11.0,Bobby Ryan,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:35:31Z,3,12:47,07:13,Hit,n/a,-92.0,-32.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:35:46Z,3,13:23,06:37,Shot,Backhand,3.0,-29.0,Colin White,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:36:39Z,3,13:25,06:35,Faceoff,n/a,-69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:35:46Z,3,13:32,06:28,Shot,Wrist Shot,-75.0,-32.0,Thomas Chabot,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:35:46Z,3,13:33,06:27,Shot,Wrist Shot,-50.0,-21.0,Brady Tkachuk,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:37:05Z,3,13:52,06:08,Takeaway,n/a,8.0,4.0,Nick Schmaltz,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:37:10Z,3,13:58,06:02,Missed Shot,n/a,79.0,-22.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:36:28Z,3,14:02,05:58,Missed Shot,n/a,-58.0,-34.0,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:37:59Z,3,14:45,05:15,Missed Shot,n/a,-54.0,5.0,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:38:11Z,3,14:56,05:04,Shot,Wrist Shot,-53.0,28.0,Chris Tierney,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:38:28Z,3,15:16,04:44,Shot,Wrist Shot,-11.0,-16.0,Ron Hainsey,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:38:36Z,3,15:23,04:37,Giveaway,n/a,-57.0,-34.0,Carl Soderberg,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:38:44Z,3,15:32,04:28,Blocked Shot,n/a,53.0,-12.0,Mark Borowiecki,Blocker,Ottawa Senators,Ilya Lyubushkin,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:38:59Z,3,15:45,04:15,Shot,Wrist Shot,-62.0,11.0,Vladislav Namestnikov,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:39:07Z,3,15:54,04:06,Hit,n/a,-91.0,26.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Anthony Duclair,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:39:18Z,3,16:06,03:54,Shot,Wrist Shot,62.0,12.0,Clayton Keller,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:39:18Z,3,16:10,03:50,Takeaway,n/a,-6.0,-39.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:39:30Z,3,16:17,03:43,Giveaway,n/a,75.0,-9.0,Vinnie Hinostroza,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:39:46Z,3,16:29,03:31,Missed Shot,n/a,-43.0,26.0,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:39:53Z,3,16:31,03:29,Blocked Shot,n/a,-47.0,-27.0,Clayton Keller,Blocker,Arizona Coyotes,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:40:04Z,3,16:40,03:20,Missed Shot,n/a,65.0,5.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:39:58Z,3,16:46,03:14,Hit,n/a,97.0,7.0,Conor Garland,Hitter,Arizona Coyotes,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:40:24Z,3,16:48,03:12,Missed Shot,n/a,67.0,-1.0,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:40:28Z,3,17:11,02:49,Shot,Wrist Shot,80.0,-4.0,Conor Garland,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:42:40Z,3,17:12,02:48,Faceoff,n/a,69.0,-22.0,Nick Schmaltz,Winner,Arizona Coyotes,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:42:48Z,3,17:19,02:41,Shot,Tip-In,81.0,-8.0,Conor Garland,Shooter,Arizona Coyotes,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:43:03Z,3,17:32,02:28,Takeaway,n/a,51.0,2.0,Nick Schmaltz,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:43:06Z,3,17:36,02:24,Missed Shot,n/a,61.0,-2.0,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:43:16Z,3,17:44,02:16,Shot,Wrist Shot,-58.0,-20.0,Brady Tkachuk,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:43:33Z,3,17:45,02:15,Shot,Wrist Shot,-84.0,-6.0,Connor Brown,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:43:46Z,3,17:46,02:14,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:44:01Z,3,17:57,02:03,Hit,n/a,-67.0,-40.0,Brad Richardson,Hitter,Arizona Coyotes,Jean-Gabriel Pageau,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:44:26Z,3,18:17,01:43,Blocked Shot,n/a,-78.0,14.0,Oliver Ekman-Larsson,Blocker,Arizona Coyotes,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:44:40Z,3,18:29,01:31,Missed Shot,n/a,-98.0,-4.0,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:45:12Z,3,18:34,01:26,Faceoff,n/a,-69.0,22.0,Colin White,Winner,Ottawa Senators,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:45:23Z,3,18:49,01:11,Shot,Wrist Shot,-44.0,-30.0,Thomas Chabot,Shooter,Ottawa Senators,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:45:38Z,3,19:03,00:57,Takeaway,n/a,-28.0,40.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:45:51Z,3,19:05,00:55,Goal,Wrist Shot,49.0,22.0,Lawson Crouse,Scorer,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:46:25Z,3,19:05,00:55,Faceoff,n/a,0.0,0.0,Jordan Szwarz,Winner,Ottawa Senators,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:46:46Z,3,19:30,00:30,Giveaway,n/a,-60.0,37.0,Kyle Capobianco,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:47:01Z,3,19:45,00:15,Blocked Shot,n/a,-45.0,-25.0,Erik Brannstrom,Blocker,Ottawa Senators,Christian Fischer,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T01:47:25Z,3,19:55,00:05,Faceoff,n/a,-69.0,-22.0,Nick Paul,Winner,Ottawa Senators,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a

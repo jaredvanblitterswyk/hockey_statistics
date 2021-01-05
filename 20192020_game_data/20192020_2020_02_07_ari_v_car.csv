@@ -1,0 +1,243 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-07T02:08:26Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:09:03Z,1,00:11,19:49,Shot,Tip-In,-1.0,7.0,Derek Stepan,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:09:07Z,1,00:15,19:45,Hit,n/a,97.0,7.0,Lawson Crouse,Hitter,Arizona Coyotes,Erik Haula,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:09:14Z,1,00:22,19:38,Giveaway,n/a,14.0,4.0,Jordan Oesterle,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:09:52Z,1,00:33,19:27,Faceoff,n/a,20.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:10:07Z,1,00:46,19:14,Shot,Wrist Shot,-82.0,-19.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:10:13Z,1,00:52,19:08,Giveaway,n/a,-67.0,-12.0,Jordan Staal,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:11:05Z,1,01:15,18:45,Faceoff,n/a,20.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:11:23Z,1,01:39,18:21,Missed Shot,n/a,35.0,-25.0,Niklas Hjalmarsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:11:27Z,1,01:44,18:16,Takeaway,n/a,51.0,38.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:11:36Z,1,01:50,18:10,Penalty,Hooking,-51.0,7.0,Niklas Hjalmarsson,PenaltyOn,Arizona Coyotes,Andrei Svechnikov,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:12:24Z,1,01:50,18:10,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:12:39Z,1,02:24,17:36,Hit,n/a,-65.0,40.0,Jakob Chychrun,Hitter,Arizona Coyotes,Justin Williams,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:13:03Z,1,02:49,17:11,Shot,Wrist Shot,-60.0,-32.0,Erik Haula,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:13:27Z,1,02:50,17:10,Faceoff,n/a,-69.0,-22.0,Erik Haula,Winner,Carolina Hurricanes,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:13:55Z,1,03:17,16:43,Takeaway,n/a,-19.0,-13.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:15:08Z,1,03:55,16:05,Faceoff,n/a,-20.0,-22.0,Nick Schmaltz,Winner,Arizona Coyotes,Teuvo Teravainen,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:15:14Z,1,04:05,15:55,Shot,Wrist Shot,-33.0,32.0,Aaron Ness,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:15:29Z,1,04:09,15:51,Penalty,Hooking,57.0,0.0,Joel Edmundson,PenaltyOn,Carolina Hurricanes,Nick Schmaltz,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:16:11Z,1,04:09,15:51,Faceoff,n/a,69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:16:09Z,1,04:24,15:36,Shot,Wrist Shot,46.0,16.0,Taylor Hall,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:16:19Z,1,04:27,15:33,Shot,Wrist Shot,25.0,-37.0,Brock McGinn,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:16:47Z,1,05:02,14:58,Shot,Wrist Shot,56.0,14.0,Taylor Hall,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:16:52Z,1,05:07,14:53,Takeaway,n/a,55.0,39.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:17:01Z,1,05:15,14:45,Missed Shot,n/a,-81.0,6.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:17:23Z,1,05:32,14:28,Faceoff,n/a,20.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:19:17Z,1,07:00,13:00,Hit,n/a,97.0,-2.0,Christian Fischer,Hitter,Arizona Coyotes,Jake Gardiner,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:20:13Z,1,07:56,12:04,Shot,Wrist Shot,86.0,-18.0,Derek Stepan,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:20:22Z,1,08:05,11:55,Missed Shot,n/a,-45.0,-29.0,Haydn Fleury,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:20:29Z,1,08:09,11:51,Missed Shot,n/a,-69.0,-2.0,Jordan Staal,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:20:29Z,1,08:13,11:47,Hit,n/a,-70.0,37.0,Lawson Crouse,Hitter,Arizona Coyotes,Joel Edmundson,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:20:49Z,1,08:32,11:28,Shot,Wrist Shot,-35.0,-28.0,Haydn Fleury,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:22:59Z,1,08:33,11:27,Faceoff,n/a,-69.0,-22.0,Vinnie Hinostroza,Winner,Arizona Coyotes,Ryan Dzingel,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:23:28Z,1,08:52,11:08,Hit,n/a,-96.0,2.0,Lucas Wallmark,Hitter,Carolina Hurricanes,Aaron Ness,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:23:48Z,1,09:12,10:48,Takeaway,n/a,50.0,-4.0,Ryan Dzingel,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:23:56Z,1,09:21,10:39,Shot,Slap Shot,-36.0,-9.0,Jake Gardiner,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:24:20Z,1,09:45,10:15,Shot,Slap Shot,-38.0,18.0,Brett Pesce,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:24:30Z,1,09:54,10:06,Shot,Wrist Shot,61.0,16.0,Christian Dvorak,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:25:04Z,1,10:28,09:32,Blocked Shot,n/a,81.0,6.0,Jaccob Slavin,Blocker,Carolina Hurricanes,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:25:08Z,1,10:32,09:28,Hit,n/a,80.0,36.0,Brad Richardson,Hitter,Arizona Coyotes,Nino Niederreiter,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:25:18Z,1,10:42,09:18,Missed Shot,n/a,36.0,26.0,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:25:26Z,1,10:48,09:12,Blocked Shot,n/a,79.0,4.0,Teuvo Teravainen,Blocker,Carolina Hurricanes,Christian Fischer,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:27:34Z,1,10:49,09:11,Faceoff,n/a,69.0,22.0,Taylor Hall,Winner,Arizona Coyotes,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:27:53Z,1,10:59,09:01,Hit,n/a,39.0,-42.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Brock McGinn,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:28:23Z,1,11:30,08:30,Giveaway,n/a,-17.0,35.0,Trevor van Riemsdyk,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:29:35Z,1,11:35,08:25,Hit,n/a,98.0,5.0,Jaccob Slavin,Hitter,Carolina Hurricanes,Brad Richardson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:28:39Z,1,11:45,08:15,Shot,Wrist Shot,49.0,3.0,Carl Soderberg,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:28:46Z,1,11:49,08:11,Shot,Backhand,84.0,8.0,Brad Richardson,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:29:14Z,1,11:50,08:10,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:29:21Z,1,11:57,08:03,Shot,Slap Shot,40.0,-10.0,Alex Goligoski,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:29:33Z,1,12:00,08:00,Faceoff,n/a,69.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:29:53Z,1,12:11,07:49,Missed Shot,n/a,-42.0,6.0,Sebastian Aho,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:30:46Z,1,13:04,06:56,Hit,n/a,50.0,39.0,Martin Necas,Hitter,Carolina Hurricanes,Vinnie Hinostroza,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:30:53Z,1,13:11,06:49,Shot,Slap Shot,-50.0,-35.0,Martin Necas,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:31:26Z,1,13:41,06:19,Missed Shot,n/a,49.0,10.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:31:50Z,1,13:43,06:17,Faceoff,n/a,69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:32:06Z,1,13:56,06:04,Giveaway,n/a,-98.0,0.0,Niklas Hjalmarsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:33:22Z,1,14:18,05:42,Giveaway,n/a,-31.0,40.0,Joel Edmundson,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:34:45Z,1,14:23,05:37,Blocked Shot,n/a,77.0,2.0,Haydn Fleury,Blocker,Carolina Hurricanes,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:32:44Z,1,14:34,05:26,Blocked Shot,n/a,49.0,-12.0,Nino Niederreiter,Blocker,Carolina Hurricanes,Ilya Lyubushkin,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:32:51Z,1,14:40,05:20,Hit,n/a,86.0,-32.0,Conor Garland,Hitter,Arizona Coyotes,Teuvo Teravainen,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:33:01Z,1,14:50,05:10,Hit,n/a,45.0,-41.0,Haydn Fleury,Hitter,Carolina Hurricanes,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:33:11Z,1,15:00,05:00,Takeaway,n/a,10.0,38.0,Brad Richardson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:33:17Z,1,15:06,04:54,Hit,n/a,96.0,-22.0,Joel Edmundson,Hitter,Carolina Hurricanes,Carl Soderberg,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:33:39Z,1,15:28,04:32,Blocked Shot,n/a,-65.0,-6.0,Jakob Chychrun,Blocker,Arizona Coyotes,Justin Williams,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:34:21Z,1,15:35,04:25,Faceoff,n/a,69.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:34:20Z,1,15:45,04:15,Goal,Wrist Shot,36.0,-10.0,Alex Goligoski,Scorer,Arizona Coyotes,Derek Stepan,Assist,Arizona Coyotes,Lawson Crouse,Assist,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes
+2020-02-07T02:35:10Z,1,15:45,04:15,Faceoff,n/a,0.0,0.0,Lucas Wallmark,Winner,Carolina Hurricanes,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:36:01Z,1,16:28,03:32,Blocked Shot,n/a,75.0,8.0,Martin Necas,Blocker,Carolina Hurricanes,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:38:12Z,1,16:29,03:31,Faceoff,n/a,69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:38:38Z,1,16:36,03:24,Faceoff,n/a,69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:39:12Z,1,16:54,03:06,Hit,n/a,17.0,36.0,Jordan Staal,Hitter,Carolina Hurricanes,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:39:52Z,1,17:34,02:26,Blocked Shot,n/a,-56.0,13.0,Jakob Chychrun,Blocker,Arizona Coyotes,Brock McGinn,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:40:11Z,1,17:53,02:07,Shot,Wrist Shot,-52.0,-36.0,Jake Gardiner,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:40:57Z,1,17:55,02:05,Hit,n/a,-82.0,-3.0,Justin Williams,Hitter,Carolina Hurricanes,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:40:40Z,1,18:02,01:58,Faceoff,n/a,-69.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:40:52Z,1,18:13,01:47,Hit,n/a,-63.0,38.0,Andrei Svechnikov,Hitter,Carolina Hurricanes,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:42:16Z,1,19:12,00:48,Giveaway,n/a,69.0,14.0,Martin Necas,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:42:16Z,1,19:36,00:24,Missed Shot,n/a,-53.0,30.0,Martin Necas,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:42:37Z,1,19:56,00:04,Missed Shot,n/a,-73.0,-3.0,Ryan Dzingel,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T02:42:40Z,1,19:58,00:02,Missed Shot,n/a,-83.0,-15.0,Jordan Staal,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:01:37Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:01:41Z,2,00:25,19:35,Shot,Wrist Shot,56.0,-3.0,Jordan Staal,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:02:18Z,2,00:30,19:30,Faceoff,n/a,69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:03:26Z,2,00:39,19:21,Giveaway,n/a,72.0,-36.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:02:18Z,2,00:42,19:18,Blocked Shot,n/a,73.0,-3.0,Lawson Crouse,Blocker,Arizona Coyotes,Brett Pesce,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:02:51Z,2,01:14,18:46,Shot,Wrist Shot,40.0,1.0,Brett Pesce,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:03:26Z,2,01:19,18:41,Faceoff,n/a,20.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Justin Williams,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:03:37Z,2,01:30,18:30,Shot,Wrist Shot,-84.0,6.0,Conor Garland,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:03:46Z,2,01:31,18:29,Shot,Wrist Shot,-83.0,7.0,Conor Garland,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:04:09Z,2,01:38,18:22,Faceoff,n/a,-69.0,-22.0,Nick Schmaltz,Winner,Arizona Coyotes,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:04:30Z,2,01:58,18:02,Shot,Slap Shot,43.0,25.0,Lucas Wallmark,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:04:58Z,2,01:59,18:01,Faceoff,n/a,69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Brock McGinn,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:05:15Z,2,02:06,17:54,Hit,n/a,-6.0,39.0,Haydn Fleury,Hitter,Carolina Hurricanes,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:05:35Z,2,02:19,17:41,Penalty,Hi-sticking,79.0,-34.0,Justin Williams,PenaltyOn,Carolina Hurricanes,Aaron Ness,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:06:25Z,2,02:19,17:41,Faceoff,n/a,-69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:06:50Z,2,02:44,17:16,Shot,Wrist Shot,-86.0,-9.0,Phil Kessel,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:08:06Z,2,04:01,15:59,Missed Shot,n/a,-45.0,9.0,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:08:16Z,2,04:05,15:55,Shot,Tip-In,-81.0,3.0,Christian Dvorak,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:08:24Z,2,04:06,15:54,Goal,Wrist Shot,-84.0,6.0,Christian Dvorak,Scorer,Arizona Coyotes,Nick Schmaltz,Assist,Arizona Coyotes,Alex Goligoski,Assist,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes
+2020-02-07T03:09:14Z,2,04:06,15:54,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:09:21Z,2,04:32,15:28,Blocked Shot,n/a,77.0,3.0,Niklas Hjalmarsson,Blocker,Arizona Coyotes,Brett Pesce,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:09:42Z,2,04:37,15:23,Shot,Wrist Shot,7.0,9.0,Derek Stepan,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:09:57Z,2,04:38,15:22,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:10:16Z,2,04:53,15:07,Giveaway,n/a,3.0,8.0,Alex Goligoski,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:10:26Z,2,05:01,14:59,Hit,n/a,89.0,25.0,Christian Dvorak,Hitter,Arizona Coyotes,Jordan Staal,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:10:34Z,2,05:05,14:55,Missed Shot,n/a,39.0,6.0,Haydn Fleury,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:10:43Z,2,05:06,14:54,Goal,Wrist Shot,87.0,-9.0,Andrei Svechnikov,Scorer,Carolina Hurricanes,Haydn Fleury,Assist,Carolina Hurricanes,Joel Edmundson,Assist,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes
+2020-02-07T03:11:18Z,2,05:06,14:54,Faceoff,n/a,0.0,0.0,Warren Foegele,Winner,Carolina Hurricanes,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:11:36Z,2,05:11,14:49,Faceoff,n/a,0.0,0.0,Carl Soderberg,Winner,Arizona Coyotes,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:12:09Z,2,05:31,14:29,Shot,Slap Shot,54.0,-30.0,Joel Edmundson,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:12:22Z,2,05:32,14:28,Shot,Wrist Shot,76.0,3.0,Jordan Staal,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:13:17Z,2,06:37,13:23,Shot,Wrist Shot,83.0,14.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:15:38Z,2,06:38,13:22,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:15:52Z,2,06:55,13:05,Hit,n/a,95.0,-27.0,Lawson Crouse,Hitter,Arizona Coyotes,Justin Williams,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:16:24Z,2,07:03,12:57,Faceoff,n/a,69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:16:36Z,2,07:10,12:50,Blocked Shot,n/a,76.0,2.0,Aaron Ness,Blocker,Arizona Coyotes,Brett Pesce,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:16:51Z,2,07:25,12:35,Hit,n/a,78.0,-16.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Andrei Svechnikov,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:17:00Z,2,07:27,12:33,Shot,Wrist Shot,78.0,-3.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:17:28Z,2,08:01,11:59,Hit,n/a,-97.0,-2.0,Jordan Staal,Hitter,Carolina Hurricanes,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:17:48Z,2,08:21,11:39,Hit,n/a,-47.0,19.0,Joel Edmundson,Hitter,Carolina Hurricanes,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:17:57Z,2,08:31,11:29,Blocked Shot,n/a,86.0,-8.0,Jakob Chychrun,Blocker,Arizona Coyotes,Jordan Staal,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:18:26Z,2,08:53,11:07,Hit,n/a,48.0,-40.0,Jakob Chychrun,Hitter,Arizona Coyotes,Trevor van Riemsdyk,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:18:30Z,2,09:00,11:00,Goal,Slap Shot,59.0,3.0,Jaccob Slavin,Scorer,Carolina Hurricanes,Ryan Dzingel,Assist,Carolina Hurricanes,Trevor van Riemsdyk,Assist,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes
+2020-02-07T03:19:14Z,2,09:00,11:00,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Martin Necas,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:20:04Z,2,09:42,10:18,Shot,Wrist Shot,78.0,-6.0,Ryan Dzingel,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:20:26Z,2,09:56,10:04,Blocked Shot,n/a,42.0,-6.0,Nick Schmaltz,Blocker,Arizona Coyotes,Jake Gardiner,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:20:39Z,2,09:57,10:03,Faceoff,n/a,20.0,-22.0,Erik Haula,Winner,Carolina Hurricanes,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:20:54Z,2,10:09,09:51,Shot,Wrist Shot,4.0,17.0,Erik Haula,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:21:01Z,2,10:16,09:44,Hit,n/a,60.0,37.0,Justin Williams,Hitter,Carolina Hurricanes,Vinnie Hinostroza,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:21:30Z,2,10:43,09:17,Shot,Wrist Shot,62.0,26.0,Justin Williams,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:23:39Z,2,10:43,09:17,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:23:58Z,2,10:50,09:10,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:24:30Z,2,10:53,09:07,Giveaway,n/a,69.0,41.0,Alex Goligoski,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:24:21Z,2,11:00,09:00,Shot,Tip-In,80.0,-1.0,Sebastian Aho,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:24:31Z,2,11:01,08:59,Goal,Wrist Shot,87.0,-6.0,Andrei Svechnikov,Scorer,Carolina Hurricanes,Sebastian Aho,Assist,Carolina Hurricanes,Trevor van Riemsdyk,Assist,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes
+2020-02-07T03:25:00Z,2,11:01,08:59,Faceoff,n/a,0.0,0.0,Warren Foegele,Winner,Carolina Hurricanes,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:25:19Z,2,11:17,08:43,Shot,Wrist Shot,44.0,-11.0,Warren Foegele,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:25:59Z,2,11:56,08:04,Hit,n/a,23.0,-38.0,Christian Fischer,Hitter,Arizona Coyotes,Martin Necas,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:26:10Z,2,12:07,07:53,Hit,n/a,76.0,-41.0,Martin Necas,Hitter,Carolina Hurricanes,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:26:19Z,2,12:16,07:44,Blocked Shot,n/a,-64.0,20.0,Brett Pesce,Blocker,Carolina Hurricanes,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:26:41Z,2,12:20,07:40,Faceoff,n/a,-69.0,22.0,Nick Schmaltz,Winner,Arizona Coyotes,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:27:01Z,2,12:28,07:32,Missed Shot,n/a,-49.0,29.0,Ilya Lyubushkin,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:27:16Z,2,12:29,07:31,Faceoff,n/a,-69.0,22.0,Vinnie Hinostroza,Winner,Arizona Coyotes,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:27:54Z,2,12:46,07:14,Penalty,Holding,-90.0,12.0,Joel Edmundson,PenaltyOn,Carolina Hurricanes,Clayton Keller,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:28:53Z,2,12:46,07:14,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:29:50Z,2,13:53,06:07,Shot,Wrist Shot,-54.0,22.0,Conor Garland,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:30:09Z,2,14:12,05:48,Missed Shot,n/a,-56.0,-17.0,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:30:25Z,2,14:16,05:44,Giveaway,n/a,-40.0,38.0,Jordan Oesterle,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:30:38Z,2,14:41,05:19,Missed Shot,n/a,-62.0,10.0,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:30:44Z,2,14:47,05:13,Shot,Slap Shot,-40.0,7.0,Alex Goligoski,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:33:05Z,2,14:48,05:12,Faceoff,n/a,-69.0,22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:33:38Z,2,14:59,05:01,Penalty,Boarding,2.0,38.0,Brad Richardson,PenaltyOn,Arizona Coyotes,Lucas Wallmark,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:34:30Z,2,14:59,05:01,Faceoff,n/a,69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:34:28Z,2,15:08,04:52,Blocked Shot,n/a,38.0,23.0,Jordan Oesterle,Blocker,Arizona Coyotes,Jaccob Slavin,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:35:09Z,2,15:50,04:10,Blocked Shot,n/a,69.0,-13.0,Jordan Oesterle,Blocker,Arizona Coyotes,Teuvo Teravainen,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:35:19Z,2,15:58,04:02,Shot,Wrist Shot,-52.0,-27.0,Lawson Crouse,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:36:27Z,2,17:03,02:57,Penalty,Hooking,-85.0,8.0,Jake Gardiner,PenaltyOn,Carolina Hurricanes,Taylor Hall,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:37:10Z,2,17:03,02:57,Faceoff,n/a,-69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:37:49Z,2,17:44,02:16,Shot,Wrist Shot,-66.0,9.0,Carl Soderberg,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:38:39Z,2,18:35,01:25,Missed Shot,n/a,-78.0,6.0,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:39:15Z,2,19:10,00:50,Blocked Shot,n/a,-66.0,-11.0,Brett Pesce,Blocker,Carolina Hurricanes,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:39:27Z,2,19:22,00:38,Missed Shot,n/a,-76.0,29.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:40:02Z,2,19:57,00:03,Shot,Wrist Shot,-50.0,-29.0,Jordan Oesterle,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:40:19Z,2,19:59,00:01,Shot,Wrist Shot,-81.0,23.0,Conor Garland,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:01:16Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T03:59:07Z,3,00:29,19:31,Shot,Wrist Shot,-42.0,-26.0,Jordan Staal,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:01:16Z,3,00:30,19:30,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:01:16Z,3,00:55,19:05,Giveaway,n/a,97.0,3.0,Taylor Hall,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:00:04Z,3,01:02,18:58,Shot,Backhand,-82.0,7.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:00:12Z,3,01:03,18:57,Goal,Wrist Shot,-83.0,-6.0,Sebastian Aho,Scorer,Carolina Hurricanes,Andrei Svechnikov,Assist,Carolina Hurricanes,Teuvo Teravainen,Assist,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes
+2020-02-07T04:00:43Z,3,01:03,18:57,Faceoff,n/a,0.0,0.0,Lucas Wallmark,Winner,Carolina Hurricanes,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:00:59Z,3,01:09,18:51,Faceoff,n/a,-20.0,22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:01:44Z,3,01:46,18:14,Hit,n/a,56.0,39.0,Vinnie Hinostroza,Hitter,Arizona Coyotes,Martin Necas,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:01:45Z,3,01:48,18:12,Shot,Wrist Shot,37.0,30.0,Aaron Ness,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:02:07Z,3,01:49,18:11,Faceoff,n/a,69.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Justin Williams,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:02:57Z,3,02:19,17:41,Missed Shot,n/a,47.0,-10.0,Ilya Lyubushkin,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:02:59Z,3,02:21,17:39,Takeaway,n/a,61.0,37.0,Christian Fischer,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:03:04Z,3,02:21,17:39,Giveaway,n/a,76.0,38.0,Joel Edmundson,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:03:15Z,3,02:23,17:37,Shot,Backhand,81.0,0.0,Brad Richardson,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:03:15Z,3,02:23,17:37,Shot,Backhand,83.0,-1.0,Brad Richardson,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:03:15Z,3,02:24,17:36,Shot,Backhand,79.0,0.0,Brad Richardson,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:03:44Z,3,02:25,17:35,Faceoff,n/a,69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:03:48Z,3,02:33,17:27,Hit,n/a,97.0,-17.0,Lawson Crouse,Hitter,Arizona Coyotes,Jaccob Slavin,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:04:06Z,3,02:51,17:09,Shot,Wrist Shot,7.0,40.0,Lawson Crouse,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:04:42Z,3,03:27,16:33,Goal,Tip-In,82.0,-6.0,Conor Garland,Scorer,Arizona Coyotes,Jakob Chychrun,Assist,Arizona Coyotes,Taylor Hall,Assist,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes
+2020-02-07T04:05:11Z,3,03:27,16:33,Faceoff,n/a,0.0,0.0,Sebastian Aho,Winner,Carolina Hurricanes,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:05:49Z,3,03:49,16:11,Blocked Shot,n/a,-75.0,-10.0,Ilya Lyubushkin,Blocker,Arizona Coyotes,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:06:08Z,3,04:07,15:53,Shot,Wrist Shot,61.0,27.0,Nick Schmaltz,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:06:31Z,3,04:08,15:52,Faceoff,n/a,69.0,22.0,Nick Schmaltz,Winner,Arizona Coyotes,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:07:43Z,3,04:41,15:19,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:08:23Z,3,05:21,14:39,Giveaway,n/a,-78.0,36.0,Jordan Oesterle,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:08:25Z,3,05:23,14:37,Shot,Slap Shot,-62.0,37.0,Justin Williams,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:08:48Z,3,05:46,14:14,Shot,Backhand,78.0,3.0,Carl Soderberg,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:08:57Z,3,05:55,14:05,Hit,n/a,-65.0,39.0,Jakob Chychrun,Hitter,Arizona Coyotes,Jake Gardiner,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:09:26Z,3,06:19,13:41,Hit,n/a,97.0,-19.0,Brad Richardson,Hitter,Arizona Coyotes,Jake Gardiner,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:09:36Z,3,06:31,13:29,Hit,n/a,97.0,20.0,Jake Gardiner,Hitter,Carolina Hurricanes,Phil Kessel,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:10:51Z,3,06:33,13:27,Hit,n/a,97.0,-4.0,Derek Stepan,Hitter,Arizona Coyotes,Andrei Svechnikov,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:09:44Z,3,06:41,13:19,Blocked Shot,n/a,47.0,-20.0,Sebastian Aho,Blocker,Carolina Hurricanes,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:09:54Z,3,06:52,13:08,Hit,n/a,92.0,17.0,Lawson Crouse,Hitter,Arizona Coyotes,Brett Pesce,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:10:02Z,3,07:00,13:00,Shot,Wrist Shot,-66.0,0.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:12:58Z,3,07:33,12:27,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:13:13Z,3,07:51,12:09,Missed Shot,n/a,-59.0,15.0,Lucas Wallmark,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:13:20Z,3,07:55,12:05,Hit,n/a,-83.0,-38.0,Niklas Hjalmarsson,Hitter,Arizona Coyotes,Lucas Wallmark,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:13:30Z,3,08:07,11:53,Shot,Backhand,39.0,32.0,Christian Fischer,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:14:14Z,3,08:08,11:52,Faceoff,n/a,69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:14:12Z,3,08:19,11:41,Shot,Wrist Shot,-57.0,-19.0,Nino Niederreiter,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:14:22Z,3,08:29,11:31,Blocked Shot,n/a,-68.0,-6.0,Ilya Lyubushkin,Blocker,Arizona Coyotes,Haydn Fleury,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:14:31Z,3,08:38,11:22,Shot,Wrist Shot,49.0,-21.0,Taylor Hall,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:15:10Z,3,09:17,10:43,Hit,n/a,-89.0,21.0,Jakob Chychrun,Hitter,Arizona Coyotes,Brock McGinn,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:15:47Z,3,09:22,10:38,Faceoff,n/a,69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:16:39Z,3,10:10,09:50,Hit,n/a,-88.0,-33.0,Alex Goligoski,Hitter,Arizona Coyotes,Lucas Wallmark,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:17:19Z,3,10:52,09:08,Giveaway,n/a,40.0,-39.0,Nino Niederreiter,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:17:35Z,3,11:08,08:52,Missed Shot,n/a,-41.0,11.0,Warren Foegele,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:18:43Z,3,12:16,07:44,Missed Shot,n/a,46.0,1.0,Lawson Crouse,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:18:54Z,3,12:20,07:40,Giveaway,n/a,70.0,40.0,Phil Kessel,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:19:28Z,3,12:28,07:32,Shot,Wrist Shot,-78.0,25.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:20:59Z,3,12:28,07:32,Faceoff,n/a,-69.0,22.0,Erik Haula,Winner,Carolina Hurricanes,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:21:32Z,3,12:57,07:03,Hit,n/a,98.0,1.0,Jaccob Slavin,Hitter,Carolina Hurricanes,Carl Soderberg,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:21:50Z,3,13:03,06:57,Takeaway,n/a,59.0,23.0,Brad Richardson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:21:49Z,3,13:15,06:45,Blocked Shot,n/a,64.0,-6.0,Justin Williams,Blocker,Carolina Hurricanes,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:23:01Z,3,14:25,05:35,Blocked Shot,n/a,61.0,-12.0,Haydn Fleury,Blocker,Carolina Hurricanes,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:25:13Z,3,14:38,05:22,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:25:39Z,3,15:01,04:59,Blocked Shot,n/a,-52.0,-20.0,Christian Fischer,Blocker,Arizona Coyotes,Haydn Fleury,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:26:05Z,3,15:27,04:33,Hit,n/a,96.0,8.0,Sebastian Aho,Hitter,Carolina Hurricanes,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:26:58Z,3,16:15,03:45,Penalty,Boarding,-93.0,-7.0,Lucas Wallmark,PenaltyOn,Carolina Hurricanes,Aaron Ness,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:27:46Z,3,16:15,03:45,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:28:11Z,3,16:36,03:24,Blocked Shot,n/a,60.0,-6.0,Jordan Staal,Blocker,Carolina Hurricanes,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:29:36Z,3,16:41,03:19,Blocked Shot,n/a,78.0,1.0,Trevor van Riemsdyk,Blocker,Carolina Hurricanes,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:28:41Z,3,17:06,02:54,Shot,Tip-In,80.0,0.0,Conor Garland,Shooter,Arizona Coyotes,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:28:57Z,3,17:22,02:38,Blocked Shot,n/a,77.0,1.0,Brett Pesce,Blocker,Carolina Hurricanes,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:29:01Z,3,17:26,02:34,Giveaway,n/a,45.0,21.0,Jordan Oesterle,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:29:48Z,3,18:12,01:48,Missed Shot,n/a,78.0,-4.0,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:29:54Z,3,18:19,01:41,Missed Shot,n/a,56.0,-5.0,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:30:35Z,3,18:59,01:01,Blocked Shot,n/a,-49.0,33.0,Taylor Hall,Blocker,Arizona Coyotes,Jordan Staal,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:30:54Z,3,19:02,00:58,Giveaway,n/a,-98.0,-6.0,Jordan Oesterle,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:30:53Z,3,19:17,00:43,Blocked Shot,n/a,70.0,7.0,Trevor van Riemsdyk,Blocker,Carolina Hurricanes,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:30:59Z,3,19:23,00:37,Takeaway,n/a,24.0,28.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:31:04Z,3,19:26,00:34,Goal,Wrist Shot,-78.0,1.0,Sebastian Aho,Scorer,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:31:56Z,3,19:26,00:34,Faceoff,n/a,0.0,0.0,Vinnie Hinostroza,Winner,Arizona Coyotes,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:32:05Z,3,19:36,00:24,Hit,n/a,-1.0,40.0,Justin Williams,Hitter,Carolina Hurricanes,Aaron Ness,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-07T04:32:23Z,3,19:48,00:12,Faceoff,n/a,69.0,22.0,Erik Haula,Winner,Carolina Hurricanes,Vinnie Hinostroza,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a

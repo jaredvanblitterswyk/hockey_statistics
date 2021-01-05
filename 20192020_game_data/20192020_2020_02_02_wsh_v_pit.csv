@@ -1,0 +1,311 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-02T17:35:05Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:35:51Z,1,00:26,19:34,Hit,n/a,-94.0,5.0,Nicklas Backstrom,Hitter,Washington Capitals,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:36:00Z,1,00:34,19:26,Shot,Snap Shot,45.0,0.0,Jared McCann,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:36:10Z,1,00:35,19:25,Penalty,Slashing,-5.0,21.0,Alex Ovechkin,PenaltyOn,Washington Capitals,Jared McCann,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:36:49Z,1,00:35,19:25,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:37:36Z,1,01:23,18:37,Takeaway,n/a,97.0,-10.0,Radko Gudas,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:37:58Z,1,01:44,18:16,Hit,n/a,-54.0,-2.0,Sidney Crosby,Hitter,Pittsburgh Penguins,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:38:17Z,1,02:03,17:57,Giveaway,n/a,95.0,7.0,Ilya Samsonov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:38:41Z,1,02:28,17:32,Blocked Shot,n/a,66.0,-28.0,Michal Kempny,Blocker,Washington Capitals,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:38:57Z,1,02:43,17:17,Shot,Wrist Shot,-76.0,1.0,Garnet Hathaway,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:39:30Z,1,02:44,17:16,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:39:50Z,1,03:05,16:55,Missed Shot,n/a,-38.0,29.0,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:39:58Z,1,03:12,16:48,Shot,Wrist Shot,61.0,37.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:40:19Z,1,03:13,16:47,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:40:37Z,1,03:24,16:36,Missed Shot,n/a,78.0,-4.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:40:42Z,1,03:28,16:32,Blocked Shot,n/a,-71.0,27.0,Jack Johnson,Blocker,Pittsburgh Penguins,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:41:08Z,1,03:29,16:31,Faceoff,n/a,-69.0,22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:41:29Z,1,03:42,16:18,Blocked Shot,n/a,65.0,18.0,Radko Gudas,Blocker,Washington Capitals,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:41:32Z,1,03:44,16:16,Hit,n/a,56.0,-39.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:41:48Z,1,04:01,15:59,Missed Shot,n/a,-37.0,20.0,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:41:50Z,1,04:03,15:57,Hit,n/a,-58.0,-40.0,Anthony Angello,Hitter,Pittsburgh Penguins,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:41:50Z,1,04:05,15:55,Blocked Shot,n/a,-75.0,-2.0,Jack Johnson,Blocker,Pittsburgh Penguins,Brendan Leipsic,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:41:56Z,1,04:08,15:52,Missed Shot,n/a,-77.0,5.0,Nic Dowd,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:42:46Z,1,04:09,15:51,Penalty,Roughing,-89.0,-21.0,Jack Johnson,PenaltyOn,Pittsburgh Penguins,Garnet Hathaway,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:43:03Z,1,04:09,15:51,Penalty,Roughing,-89.0,-18.0,Garnet Hathaway,PenaltyOn,Washington Capitals,Jack Johnson,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:43:29Z,1,04:09,15:51,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:43:31Z,1,04:21,15:39,Giveaway,n/a,88.0,32.0,Michal Kempny,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:44:09Z,1,05:05,14:55,Takeaway,n/a,-74.0,-15.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:44:16Z,1,05:13,14:47,Shot,Backhand,43.0,-9.0,Kris Letang,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:44:28Z,1,05:24,14:36,Shot,Wrist Shot,45.0,-20.0,Justin Schultz,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:44:57Z,1,05:25,14:35,Faceoff,n/a,69.0,-22.0,Brandon Tanev,Winner,Pittsburgh Penguins,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:45:26Z,1,05:42,14:18,Penalty,Tripping,-30.0,-1.0,John Marino,PenaltyOn,Pittsburgh Penguins,Lars Eller,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:46:17Z,1,05:42,14:18,Faceoff,n/a,-69.0,22.0,T.J. Oshie,Winner,Washington Capitals,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:46:17Z,1,05:48,14:12,Takeaway,n/a,-35.0,37.0,Teddy Blueger,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:46:21Z,1,05:51,14:09,Hit,n/a,-30.0,37.0,John Carlson,Hitter,Washington Capitals,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:47:02Z,1,06:11,13:49,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:47:10Z,1,06:19,13:41,Blocked Shot,n/a,-76.0,8.0,Jack Johnson,Blocker,Pittsburgh Penguins,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:47:48Z,1,06:57,13:03,Giveaway,n/a,-31.0,-37.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:47:57Z,1,07:04,12:56,Hit,n/a,-69.0,-40.0,Jack Johnson,Hitter,Pittsburgh Penguins,T.J. Oshie,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:48:26Z,1,07:35,12:25,Hit,n/a,-95.0,16.0,Chad Ruhwedel,Hitter,Pittsburgh Penguins,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:48:45Z,1,07:54,12:06,Hit,n/a,-91.0,32.0,Evgeny Kuznetsov,Hitter,Washington Capitals,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:48:57Z,1,08:06,11:54,Hit,n/a,74.0,-13.0,Radko Gudas,Hitter,Washington Capitals,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:49:02Z,1,08:11,11:49,Giveaway,n/a,-30.0,30.0,Brendan Leipsic,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:49:08Z,1,08:14,11:46,Hit,n/a,-19.0,-28.0,Radko Gudas,Hitter,Washington Capitals,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:49:38Z,1,08:18,11:42,Penalty,Interference,-4.0,39.0,Lars Eller,PenaltyOn,Washington Capitals,Patric Hornqvist,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:51:47Z,1,08:18,11:42,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:52:02Z,1,08:21,11:39,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:52:24Z,1,08:33,11:27,Shot,Wrist Shot,83.0,7.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:52:45Z,1,08:34,11:26,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:53:02Z,1,08:42,11:18,Blocked Shot,n/a,67.0,4.0,Nic Dowd,Blocker,Washington Capitals,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:53:17Z,1,08:59,11:01,Shot,Wrist Shot,93.0,-28.0,Jonas Siegenthaler,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:53:34Z,1,09:16,10:44,Hit,n/a,97.0,1.0,Nick Jensen,Hitter,Washington Capitals,Sidney Crosby,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:53:39Z,1,09:17,10:43,Takeaway,n/a,33.0,24.0,Garnet Hathaway,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:53:40Z,1,09:21,10:39,Missed Shot,n/a,46.0,5.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:53:55Z,1,09:37,10:23,Shot,Snap Shot,57.0,-8.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:54:09Z,1,09:51,10:09,Shot,Wrist Shot,88.0,-12.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:54:14Z,1,09:56,10:04,Hit,n/a,92.0,-28.0,Evgeni Malkin,Hitter,Pittsburgh Penguins,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:54:25Z,1,10:07,09:53,Blocked Shot,n/a,49.0,22.0,Tom Wilson,Blocker,Washington Capitals,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:54:45Z,1,10:27,09:33,Missed Shot,n/a,-67.0,-32.0,Richard Panik,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:54:53Z,1,10:32,09:28,Blocked Shot,n/a,-67.0,-9.0,Justin Schultz,Blocker,Pittsburgh Penguins,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:55:20Z,1,10:36,09:24,Takeaway,n/a,-56.0,-41.0,Richard Panik,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:55:03Z,1,10:38,09:22,Goal,Wrist Shot,-58.0,14.0,Lars Eller,Scorer,Washington Capitals,Richard Panik,Assist,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a
+2020-02-02T17:55:51Z,1,10:38,09:22,Faceoff,n/a,0.0,0.0,Evgeny Kuznetsov,Winner,Washington Capitals,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:56:00Z,1,10:51,09:09,Hit,n/a,-94.0,26.0,Evgeny Kuznetsov,Hitter,Washington Capitals,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:56:17Z,1,11:08,08:52,Shot,Wrist Shot,71.0,36.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:56:31Z,1,11:22,08:38,Hit,n/a,-68.0,39.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:56:57Z,1,11:46,08:14,Goal,Snap Shot,54.0,25.0,Sam Lafferty,Scorer,Pittsburgh Penguins,Alex Galchenyuk,Assist,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a
+2020-02-02T17:57:47Z,1,11:46,08:14,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:58:20Z,1,12:13,07:47,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:58:32Z,1,12:20,07:40,Giveaway,n/a,96.0,6.0,Michal Kempny,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T17:58:36Z,1,12:22,07:38,Hit,n/a,55.0,-39.0,Alex Ovechkin,Hitter,Washington Capitals,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:01:04Z,1,12:25,07:35,Faceoff,n/a,69.0,-22.0,Lars Eller,Winner,Washington Capitals,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:01:18Z,1,12:40,07:20,Goal,Tip-In,83.0,-6.0,Patric Hornqvist,Scorer,Pittsburgh Penguins,John Marino,Assist,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals
+2020-02-02T18:01:59Z,1,12:40,07:20,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Brendan Leipsic,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:02:29Z,1,13:01,06:59,Shot,Backhand,-82.0,-22.0,Nic Dowd,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:02:32Z,1,13:04,06:56,Hit,n/a,-91.0,-22.0,Garnet Hathaway,Hitter,Washington Capitals,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:02:41Z,1,13:13,06:47,Hit,n/a,-32.0,37.0,Garnet Hathaway,Hitter,Washington Capitals,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:03:14Z,1,13:32,06:28,Shot,Wrist Shot,-82.0,34.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:03:30Z,1,13:35,06:25,Faceoff,n/a,-69.0,22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:03:40Z,1,13:40,06:20,Hit,n/a,-38.0,-41.0,Anthony Angello,Hitter,Pittsburgh Penguins,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:03:45Z,1,13:45,06:15,Giveaway,n/a,41.0,32.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:03:47Z,1,13:47,06:13,Shot,Wrist Shot,56.0,31.0,Sam Lafferty,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:03:51Z,1,13:51,06:09,Hit,n/a,77.0,40.0,Evgeny Kuznetsov,Hitter,Washington Capitals,Sam Lafferty,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:03:56Z,1,13:56,06:04,Giveaway,n/a,35.0,35.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:04:17Z,1,14:17,05:43,Shot,Tip-In,-75.0,1.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:04:36Z,1,14:36,05:24,Hit,n/a,-66.0,40.0,Alex Ovechkin,Hitter,Washington Capitals,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:04:51Z,1,14:51,05:09,Blocked Shot,n/a,64.0,-11.0,Alex Ovechkin,Blocker,Washington Capitals,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:05:24Z,1,15:25,04:35,Hit,n/a,62.0,-34.0,Evgeni Malkin,Hitter,Pittsburgh Penguins,John Carlson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:05:36Z,1,15:36,04:24,Hit,n/a,-34.0,37.0,John Carlson,Hitter,Washington Capitals,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:06:36Z,1,16:11,03:49,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:07:01Z,1,16:28,03:32,Blocked Shot,n/a,-65.0,2.0,John Marino,Blocker,Pittsburgh Penguins,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:07:16Z,1,16:43,03:17,Giveaway,n/a,79.0,8.0,Nicklas Backstrom,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:07:17Z,1,16:44,03:16,Blocked Shot,n/a,48.0,-10.0,Tom Wilson,Blocker,Washington Capitals,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:07:25Z,1,16:52,03:08,Shot,Slap Shot,46.0,23.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:07:32Z,1,16:57,03:03,Shot,Wrist Shot,-62.0,38.0,Alex Ovechkin,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:07:31Z,1,16:58,03:02,Hit,n/a,-94.0,1.0,Tom Wilson,Hitter,Washington Capitals,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:07:43Z,1,17:05,02:55,Penalty,Holding the stick,-70.0,-13.0,Dominik Simon,PenaltyOn,Pittsburgh Penguins,Lars Eller,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:09:54Z,1,17:05,02:55,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:10:33Z,1,17:22,02:38,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:11:39Z,1,18:22,01:38,Blocked Shot,n/a,-50.0,27.0,Brandon Tanev,Blocker,Pittsburgh Penguins,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:12:00Z,1,18:23,01:37,Faceoff,n/a,-69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:12:21Z,1,18:29,01:31,Shot,Snap Shot,-67.0,7.0,Tom Wilson,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:12:42Z,1,18:49,01:11,Takeaway,n/a,-38.0,34.0,Marcus Pettersson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:13:09Z,1,19:17,00:43,Shot,Backhand,-77.0,-4.0,Alex Ovechkin,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:13:28Z,1,19:35,00:25,Hit,n/a,-96.0,7.0,Nic Dowd,Hitter,Washington Capitals,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:13:33Z,1,19:37,00:23,Giveaway,n/a,-97.0,8.0,Jack Johnson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:13:46Z,1,19:52,00:08,Hit,n/a,-98.0,24.0,Brendan Leipsic,Hitter,Washington Capitals,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:13:52Z,1,19:58,00:02,Shot,Snap Shot,-47.0,-10.0,Michal Kempny,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:32:21Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:32:31Z,2,00:05,19:55,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:32:54Z,2,00:14,19:46,Hit,n/a,-44.0,-38.0,Tom Wilson,Hitter,Washington Capitals,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:32:59Z,2,00:20,19:40,Hit,n/a,-95.0,14.0,Jared McCann,Hitter,Pittsburgh Penguins,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:33:10Z,2,00:31,19:29,Shot,Wrist Shot,46.0,-23.0,Tom Wilson,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:33:20Z,2,00:33,19:27,Blocked Shot,n/a,80.0,7.0,Kris Letang,Blocker,Pittsburgh Penguins,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:33:25Z,2,00:46,19:14,Shot,Slap Shot,-65.0,23.0,Jared McCann,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:33:53Z,2,01:14,18:46,Shot,Slap Shot,-45.0,-27.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:34:00Z,2,01:21,18:39,Missed Shot,n/a,82.0,23.0,Carl Hagelin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:34:07Z,2,01:27,18:33,Shot,Wrist Shot,36.0,-29.0,Nick Jensen,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:34:38Z,2,01:57,18:03,Shot,Slap Shot,51.0,22.0,T.J. Oshie,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:35:03Z,2,01:58,18:02,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:35:20Z,2,02:14,17:46,Giveaway,n/a,96.0,-1.0,Matt Murray,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:35:28Z,2,02:18,17:42,Hit,n/a,99.0,2.0,Brandon Tanev,Hitter,Pittsburgh Penguins,T.J. Oshie,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:35:43Z,2,02:37,17:23,Shot,Wrist Shot,-54.0,34.0,Sam Lafferty,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:35:47Z,2,02:41,17:19,Giveaway,n/a,-35.0,-29.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:36:08Z,2,03:01,16:59,Shot,Wrist Shot,-81.0,0.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:36:30Z,2,03:03,16:57,Shot,Backhand,-79.0,4.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:36:30Z,2,03:04,16:56,Shot,Backhand,-83.0,-10.0,Chad Ruhwedel,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:36:49Z,2,03:17,16:43,Penalty,Slashing,-75.0,-2.0,Jonas Siegenthaler,PenaltyOn,Washington Capitals,Alex Galchenyuk,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:37:24Z,2,03:17,16:43,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:37:34Z,2,03:27,16:33,Blocked Shot,n/a,-78.0,2.0,Michal Kempny,Blocker,Washington Capitals,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:37:50Z,2,03:41,16:19,Shot,Wrist Shot,-82.0,-10.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:37:50Z,2,03:42,16:18,Shot,Backhand,-85.0,5.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:37:50Z,2,03:43,16:17,Shot,Wrist Shot,-86.0,5.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:38:11Z,2,03:44,16:16,Missed Shot,n/a,-83.0,11.0,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:38:28Z,2,03:45,16:15,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:39:08Z,2,04:18,15:42,Missed Shot,n/a,-55.0,30.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:39:46Z,2,04:50,15:10,Missed Shot,n/a,-80.0,-6.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:40:09Z,2,05:19,14:41,Missed Shot,n/a,68.0,-21.0,Carl Hagelin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:40:30Z,2,05:32,14:28,Missed Shot,n/a,35.0,30.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:40:27Z,2,05:37,14:23,Hit,n/a,61.0,-38.0,Jack Johnson,Hitter,Pittsburgh Penguins,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:40:40Z,2,05:40,14:20,Blocked Shot,n/a,48.0,24.0,Teddy Blueger,Blocker,Pittsburgh Penguins,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:40:45Z,2,05:55,14:05,Hit,n/a,99.0,-10.0,Tom Wilson,Hitter,Washington Capitals,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:40:52Z,2,06:02,13:58,Shot,Wrist Shot,-80.0,-20.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:40:58Z,2,06:08,13:52,Blocked Shot,n/a,-33.0,27.0,Alex Ovechkin,Blocker,Washington Capitals,Chad Ruhwedel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:41:06Z,2,06:16,13:44,Hit,n/a,-57.0,39.0,Dmitry Orlov,Hitter,Washington Capitals,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:41:22Z,2,06:32,13:28,Blocked Shot,n/a,73.0,7.0,John Marino,Blocker,Pittsburgh Penguins,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:41:31Z,2,06:41,13:19,Shot,Backhand,81.0,-2.0,Jakub Vrana,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:44:57Z,2,07:32,12:28,Faceoff,n/a,20.0,-22.0,Lars Eller,Winner,Washington Capitals,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:44:54Z,2,07:40,12:20,Blocked Shot,n/a,68.0,19.0,Justin Schultz,Blocker,Pittsburgh Penguins,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:45:11Z,2,07:58,12:02,Takeaway,n/a,38.0,6.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:45:16Z,2,08:03,11:57,Missed Shot,n/a,67.0,15.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:45:33Z,2,08:12,11:48,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:45:51Z,2,08:15,11:45,Hit,n/a,87.0,36.0,Tom Wilson,Hitter,Washington Capitals,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:45:58Z,2,08:22,11:38,Giveaway,n/a,35.0,24.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:46:36Z,2,08:31,11:29,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:46:48Z,2,08:37,11:23,Shot,Wrist Shot,36.0,4.0,Jonas Siegenthaler,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:47:29Z,2,08:49,11:11,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:48:20Z,2,09:34,10:26,Hit,n/a,-62.0,27.0,Michal Kempny,Hitter,Washington Capitals,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:48:31Z,2,09:45,10:15,Shot,Snap Shot,57.0,31.0,Michal Kempny,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:48:49Z,2,09:46,10:14,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:50:07Z,2,10:51,09:09,Blocked Shot,n/a,72.0,-15.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:50:14Z,2,10:57,09:03,Missed Shot,n/a,53.0,37.0,Richard Panik,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:50:18Z,2,11:01,08:59,Hit,n/a,96.0,-14.0,Richard Panik,Hitter,Washington Capitals,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:50:34Z,2,11:18,08:42,Shot,Snap Shot,43.0,-28.0,Carl Hagelin,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:53:17Z,2,11:27,08:33,Faceoff,n/a,69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:53:05Z,2,11:34,08:26,Shot,Wrist Shot,59.0,28.0,Michal Kempny,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:53:08Z,2,11:37,08:23,Hit,n/a,87.0,36.0,Nic Dowd,Hitter,Washington Capitals,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:53:14Z,2,11:39,08:21,Giveaway,n/a,90.0,24.0,Marcus Pettersson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:53:44Z,2,11:41,08:19,Faceoff,n/a,69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:53:48Z,2,11:49,08:11,Giveaway,n/a,-95.0,9.0,Michal Kempny,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:53:58Z,2,11:57,08:03,Shot,Wrist Shot,-80.0,-19.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:54:08Z,2,11:59,08:01,Goal,Backhand,-78.0,-3.0,Dominik Simon,Scorer,Pittsburgh Penguins,Sidney Crosby,Assist,Pittsburgh Penguins,Jared McCann,Assist,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals
+2020-02-02T18:54:43Z,2,11:59,08:01,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:54:59Z,2,12:13,07:47,Hit,n/a,-91.0,26.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:56:02Z,2,12:42,07:18,Faceoff,n/a,-20.0,-22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:56:24Z,2,13:08,06:52,Hit,n/a,-4.0,-35.0,Radko Gudas,Hitter,Washington Capitals,Anthony Angello,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:56:42Z,2,13:25,06:35,Shot,Backhand,81.0,-8.0,Jakub Vrana,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:56:56Z,2,13:27,06:33,Penalty,Interference,-16.0,39.0,Sidney Crosby,PenaltyOn,Pittsburgh Penguins,T.J. Oshie,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:57:49Z,2,13:27,06:33,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:58:48Z,2,14:39,05:21,Shot,Wrist Shot,-37.0,-13.0,Bryan Rust,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:58:49Z,2,14:40,05:20,Giveaway,n/a,-68.0,-1.0,Ilya Samsonov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:59:00Z,2,14:41,05:19,Shot,Backhand,-71.0,-2.0,Bryan Rust,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:59:29Z,2,14:42,05:18,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:59:30Z,2,14:45,05:15,Shot,Slap Shot,-32.0,-6.0,Jack Johnson,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T18:59:42Z,2,14:46,05:14,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:00:17Z,2,15:14,04:46,Missed Shot,n/a,85.0,-13.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:00:30Z,2,15:27,04:33,Blocked Shot,n/a,83.0,22.0,Jack Johnson,Blocker,Pittsburgh Penguins,Brendan Leipsic,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:00:41Z,2,15:38,04:22,Hit,n/a,-96.0,-4.0,Dmitry Orlov,Hitter,Washington Capitals,Sidney Crosby,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:01:02Z,2,15:43,04:17,Penalty,Too many men on the ice,-39.0,34.0,Brendan Leipsic,PenaltyOn,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:02:59Z,2,15:43,04:17,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:04:18Z,2,16:55,03:05,Blocked Shot,n/a,-56.0,-20.0,Lars Eller,Blocker,Washington Capitals,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:04:23Z,2,17:00,03:00,Takeaway,n/a,-54.0,9.0,Carl Hagelin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:04:38Z,2,17:14,02:46,Takeaway,n/a,49.0,38.0,Nic Dowd,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:05:51Z,2,18:28,01:32,Takeaway,n/a,3.0,23.0,Chad Ruhwedel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:07:05Z,2,19:41,00:19,Missed Shot,n/a,42.0,-37.0,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:07:36Z,2,19:46,00:14,Faceoff,n/a,20.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:07:45Z,2,19:58,00:02,Shot,Backhand,-24.0,22.0,Jared McCann,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:26:14Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:26:31Z,3,00:08,19:52,Hit,n/a,-93.0,29.0,Tom Wilson,Hitter,Washington Capitals,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:26:34Z,3,00:12,19:48,Blocked Shot,n/a,-72.0,4.0,Jack Johnson,Blocker,Pittsburgh Penguins,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:26:40Z,3,00:14,19:46,Missed Shot,n/a,-84.0,-30.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:26:45Z,3,00:17,19:43,Penalty,Cross checking,-78.0,5.0,Kris Letang,PenaltyOn,Pittsburgh Penguins,Tom Wilson,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:27:00Z,3,00:17,19:43,Penalty,Hi-sticking,-80.0,13.0,Tom Wilson,PenaltyOn,Washington Capitals,Kris Letang,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:27:43Z,3,00:17,19:43,Faceoff,n/a,-69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:27:53Z,3,00:36,19:24,Takeaway,n/a,-46.0,-30.0,Michal Kempny,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:28:00Z,3,00:41,19:19,Hit,n/a,-96.0,10.0,Evgeni Malkin,Hitter,Pittsburgh Penguins,Alex Ovechkin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:28:24Z,3,01:07,18:53,Blocked Shot,n/a,-69.0,2.0,Justin Schultz,Blocker,Pittsburgh Penguins,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:28:31Z,3,01:14,18:46,Hit,n/a,-55.0,-41.0,Jared McCann,Hitter,Pittsburgh Penguins,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:28:49Z,3,01:32,18:28,Shot,Wrist Shot,-76.0,-11.0,Dmitry Orlov,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:29:04Z,3,01:47,18:13,Takeaway,n/a,35.0,30.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:29:07Z,3,01:49,18:11,Missed Shot,n/a,83.0,-3.0,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:29:27Z,3,01:54,18:06,Penalty,Slashing,54.0,9.0,Dmitry Orlov,PenaltyOn,Washington Capitals,Sidney Crosby,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:30:39Z,3,01:54,18:06,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:30:46Z,3,02:02,17:58,Blocked Shot,n/a,62.0,-12.0,Jonas Siegenthaler,Blocker,Washington Capitals,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:30:57Z,3,02:13,17:47,Hit,n/a,20.0,-38.0,Sidney Crosby,Hitter,Pittsburgh Penguins,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:31:28Z,3,02:17,17:43,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:32:29Z,3,02:45,17:15,Faceoff,n/a,20.0,22.0,Nic Dowd,Winner,Washington Capitals,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:32:37Z,3,02:58,17:02,Giveaway,n/a,3.0,36.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:34:31Z,3,04:13,15:47,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:34:39Z,3,04:17,15:43,Hit,n/a,40.0,37.0,Tom Wilson,Hitter,Washington Capitals,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:34:47Z,3,04:24,15:36,Missed Shot,n/a,-83.0,-19.0,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:34:51Z,3,04:26,15:34,Hit,n/a,-94.0,7.0,Tom Wilson,Hitter,Washington Capitals,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:35:02Z,3,04:40,15:20,Blocked Shot,n/a,-63.0,3.0,Chad Ruhwedel,Blocker,Pittsburgh Penguins,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:35:05Z,3,04:43,15:17,Hit,n/a,-68.0,-40.0,Tom Wilson,Hitter,Washington Capitals,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:35:11Z,3,04:48,15:12,Blocked Shot,n/a,-78.0,12.0,Zach Aston-Reese,Blocker,Pittsburgh Penguins,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:35:33Z,3,05:05,14:55,Blocked Shot,n/a,-75.0,4.0,Chad Ruhwedel,Blocker,Pittsburgh Penguins,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:35:33Z,3,05:09,14:51,Shot,Wrist Shot,-75.0,2.0,T.J. Oshie,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:36:07Z,3,05:10,14:50,Faceoff,n/a,-69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:36:15Z,3,05:18,14:42,Shot,Wrist Shot,-36.0,-28.0,Dmitry Orlov,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:36:17Z,3,05:20,14:40,Giveaway,n/a,-75.0,8.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:36:18Z,3,05:21,14:39,Shot,Wrist Shot,-79.0,-10.0,Jakub Vrana,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:36:36Z,3,05:39,14:21,Hit,n/a,-59.0,-37.0,T.J. Oshie,Hitter,Washington Capitals,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:36:47Z,3,05:50,14:10,Giveaway,n/a,-96.0,-7.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:36:55Z,3,05:56,14:04,Giveaway,n/a,-54.0,10.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:36:59Z,3,06:00,14:00,Goal,Backhand,-78.0,-2.0,Evgeny Kuznetsov,Scorer,Washington Capitals,Jakub Vrana,Assist,Washington Capitals,Nick Jensen,Assist,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins
+2020-02-02T19:37:49Z,3,06:00,14:00,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:37:55Z,3,06:11,13:49,Hit,n/a,-53.0,-40.0,Carl Hagelin,Hitter,Washington Capitals,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:38:12Z,3,06:29,13:31,Giveaway,n/a,-91.0,17.0,Jack Johnson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:38:23Z,3,06:40,13:20,Hit,n/a,-50.0,39.0,Jack Johnson,Hitter,Pittsburgh Penguins,Carl Hagelin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:38:50Z,3,07:06,12:54,Hit,n/a,-95.0,10.0,Nicklas Backstrom,Hitter,Washington Capitals,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:38:57Z,3,07:14,12:46,Hit,n/a,-14.0,36.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Jonas Siegenthaler,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:39:03Z,3,07:20,12:40,Missed Shot,n/a,-46.0,35.0,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:39:10Z,3,07:27,12:33,Shot,Wrist Shot,-36.0,20.0,Radko Gudas,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:39:31Z,3,07:48,12:12,Hit,n/a,-79.0,36.0,Jakub Vrana,Hitter,Washington Capitals,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:39:39Z,3,07:56,12:04,Hit,n/a,36.0,2.0,Dmitry Orlov,Hitter,Washington Capitals,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:39:57Z,3,08:14,11:46,Hit,n/a,-10.0,-40.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Evgeny Kuznetsov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:42:56Z,3,09:01,10:59,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:43:15Z,3,09:10,10:50,Shot,Wrist Shot,-48.0,34.0,John Carlson,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:43:25Z,3,09:12,10:48,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:43:47Z,3,09:15,10:45,Hit,n/a,-68.0,38.0,Tom Wilson,Hitter,Washington Capitals,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:44:05Z,3,09:33,10:27,Hit,n/a,-93.0,-24.0,Tom Wilson,Hitter,Washington Capitals,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:44:10Z,3,09:38,10:22,Hit,n/a,-45.0,-31.0,Tom Wilson,Hitter,Washington Capitals,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:44:14Z,3,09:42,10:18,Missed Shot,n/a,-83.0,-20.0,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:44:26Z,3,09:54,10:06,Shot,Slap Shot,-36.0,-4.0,John Carlson,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:44:34Z,3,09:59,10:01,Hit,n/a,-17.0,-40.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:44:40Z,3,10:08,09:52,Hit,n/a,-93.0,-23.0,Richard Panik,Hitter,Washington Capitals,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:44:44Z,3,10:11,09:49,Shot,Wrist Shot,14.0,-29.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:44:47Z,3,10:15,09:45,Hit,n/a,99.0,-7.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:45:06Z,3,10:18,09:42,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:45:21Z,3,10:22,09:38,Hit,n/a,97.0,3.0,Evgeni Malkin,Hitter,Pittsburgh Penguins,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:45:31Z,3,10:32,09:28,Shot,Wrist Shot,80.0,-5.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:45:43Z,3,10:41,09:19,Penalty,Hi-sticking,-19.0,-11.0,Carl Hagelin,PenaltyOn,Washington Capitals,Chad Ruhwedel,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:47:54Z,3,10:41,09:19,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:48:30Z,3,11:07,08:53,Hit,n/a,53.0,-36.0,Garnet Hathaway,Hitter,Washington Capitals,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:48:48Z,3,11:26,08:34,Shot,Wrist Shot,67.0,-13.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:48:56Z,3,11:34,08:26,Hit,n/a,-37.0,40.0,Kris Letang,Hitter,Pittsburgh Penguins,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:49:12Z,3,11:50,08:10,Giveaway,n/a,30.0,20.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:49:20Z,3,11:58,08:02,Hit,n/a,-46.0,-36.0,Jared McCann,Hitter,Pittsburgh Penguins,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:49:40Z,3,12:17,07:43,Takeaway,n/a,10.0,-32.0,Michal Kempny,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:49:43Z,3,12:21,07:39,Blocked Shot,n/a,-71.0,-10.0,Justin Schultz,Blocker,Pittsburgh Penguins,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:50:14Z,3,12:51,07:09,Giveaway,n/a,-98.0,8.0,Marcus Pettersson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:50:28Z,3,13:06,06:54,Shot,Wrist Shot,-35.0,31.0,Alex Ovechkin,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:50:58Z,3,13:07,06:53,Faceoff,n/a,-69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:51:08Z,3,13:12,06:48,Giveaway,n/a,-50.0,40.0,Nicklas Backstrom,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:51:20Z,3,13:25,06:35,Shot,Backhand,96.0,-23.0,Dominik Simon,Shooter,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:51:29Z,3,13:34,06:26,Blocked Shot,n/a,-75.0,4.0,Jack Johnson,Blocker,Pittsburgh Penguins,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:51:38Z,3,13:42,06:18,Shot,Wrist Shot,-81.0,19.0,Alex Ovechkin,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:51:46Z,3,13:48,06:12,Shot,Wrist Shot,-60.0,25.0,John Carlson,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:51:47Z,3,13:52,06:08,Hit,n/a,-96.0,7.0,Alex Ovechkin,Hitter,Washington Capitals,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:52:17Z,3,13:57,06:03,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:52:28Z,3,14:06,05:54,Missed Shot,n/a,-77.0,-5.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:52:30Z,3,14:08,05:52,Hit,n/a,-96.0,11.0,Tom Wilson,Hitter,Washington Capitals,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:52:38Z,3,14:16,05:44,Blocked Shot,n/a,-77.0,-2.0,Jack Johnson,Blocker,Pittsburgh Penguins,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:53:06Z,3,14:21,05:39,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:53:43Z,3,14:40,05:20,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:55:24Z,3,16:04,03:56,Hit,n/a,-93.0,27.0,Alex Ovechkin,Hitter,Washington Capitals,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:55:41Z,3,16:21,03:39,Missed Shot,n/a,-83.0,-21.0,Carl Hagelin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:55:49Z,3,16:29,03:31,Missed Shot,n/a,-81.0,-10.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:56:13Z,3,16:52,03:08,Hit,n/a,98.0,-2.0,John Carlson,Hitter,Washington Capitals,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:56:29Z,3,17:08,02:52,Hit,n/a,20.0,38.0,Richard Panik,Hitter,Washington Capitals,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:56:35Z,3,17:14,02:46,Hit,n/a,15.0,-37.0,Dmitry Orlov,Hitter,Washington Capitals,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:56:49Z,3,17:27,02:33,Goal,Wrist Shot,56.0,-2.0,Brandon Tanev,Scorer,Pittsburgh Penguins,Teddy Blueger,Assist,Pittsburgh Penguins,Zach Aston-Reese,Assist,Pittsburgh Penguins,Ilya Samsonov,Goalie,Washington Capitals
+2020-02-02T19:57:44Z,3,17:27,02:33,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:58:01Z,3,17:42,02:18,Goal,Snap Shot,-66.0,-4.0,Lars Eller,Scorer,Washington Capitals,Carl Hagelin,Assist,Washington Capitals,Radko Gudas,Assist,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins
+2020-02-02T19:58:49Z,3,17:42,02:18,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:59:03Z,3,17:56,02:04,Hit,n/a,-81.0,-35.0,Richard Panik,Hitter,Washington Capitals,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:59:36Z,3,18:28,01:32,Missed Shot,n/a,-35.0,31.0,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:59:47Z,3,18:39,01:21,Hit,n/a,-97.0,-2.0,Tom Wilson,Hitter,Washington Capitals,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T19:59:56Z,3,18:48,01:12,Blocked Shot,n/a,-56.0,4.0,Zach Aston-Reese,Blocker,Pittsburgh Penguins,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T20:00:28Z,3,18:49,01:11,Faceoff,n/a,-69.0,22.0,T.J. Oshie,Winner,Washington Capitals,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T20:00:43Z,3,18:53,01:07,Faceoff,n/a,-69.0,22.0,T.J. Oshie,Winner,Washington Capitals,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T20:00:59Z,3,18:57,01:03,Giveaway,n/a,-89.0,18.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T20:01:11Z,3,19:07,00:53,Giveaway,n/a,-94.0,10.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T20:01:14Z,3,19:09,00:51,Blocked Shot,n/a,-45.0,3.0,Teddy Blueger,Blocker,Pittsburgh Penguins,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T20:02:17Z,3,19:10,00:50,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T20:03:03Z,3,19:20,00:40,Shot,Slap Shot,-35.0,2.0,John Carlson,Shooter,Washington Capitals,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T20:03:11Z,3,19:21,00:39,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T20:03:57Z,3,19:34,00:26,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T20:04:16Z,3,19:41,00:19,Takeaway,n/a,-92.0,28.0,Jack Johnson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T20:04:28Z,3,19:53,00:07,Giveaway,n/a,-20.0,10.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

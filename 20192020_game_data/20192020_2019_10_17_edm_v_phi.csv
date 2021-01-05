@@ -1,0 +1,312 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-17T01:45:42Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Riley Sheahan,Winner,Edmonton Oilers,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:46:35Z,1,00:10,19:50,Hit,n/a,88.0,36.0,Claude Giroux,Hitter,Philadelphia Flyers,Riley Sheahan,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:46:46Z,1,00:23,19:37,Takeaway,n/a,38.0,17.0,Patrick Russell,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:46:58Z,1,00:33,19:27,Hit,n/a,99.0,12.0,Jujhar Khaira,Hitter,Edmonton Oilers,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:47:04Z,1,00:38,19:22,Giveaway,n/a,96.0,13.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:47:07Z,1,00:41,19:19,Hit,n/a,91.0,14.0,Patrick Russell,Hitter,Edmonton Oilers,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:47:36Z,1,01:13,18:47,Giveaway,n/a,44.0,35.0,Oskar Lindblom,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:47:45Z,1,01:13,18:47,Goal,Slap Shot,71.0,-15.0,Leon Draisaitl,Scorer,Edmonton Oilers,Connor McDavid,Assist,Edmonton Oilers,Oscar Klefbom,Assist,Edmonton Oilers,Carter Hart,Goalie,Philadelphia Flyers
+2019-10-17T01:48:36Z,1,01:13,18:47,Faceoff,n/a,0.0,0.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:48:34Z,1,01:22,18:38,Giveaway,n/a,88.0,-5.0,Scott Laughton,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:48:34Z,1,01:24,18:36,Shot,Wrist Shot,-28.0,30.0,Oscar Klefbom,Shooter,Edmonton Oilers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:48:42Z,1,01:31,18:29,Shot,Wrist Shot,69.0,13.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:48:50Z,1,01:34,18:26,Blocked Shot,n/a,77.0,2.0,Travis Sanheim,Blocker,Philadelphia Flyers,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:49:12Z,1,02:01,17:59,Hit,n/a,-73.0,42.0,Matt Benning,Hitter,Edmonton Oilers,Carsen Twarynski,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:49:21Z,1,02:08,17:52,Giveaway,n/a,-42.0,39.0,Tomas Jurco,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:49:59Z,1,02:17,17:43,Faceoff,n/a,20.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:50:05Z,1,02:24,17:36,Takeaway,n/a,4.0,21.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:50:16Z,1,02:31,17:29,Penalty,Hooking,-76.0,17.0,Ethan Bear,PenaltyOn,Edmonton Oilers,Sean Couturier,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:50:16Z,1,02:31,17:29,Missed Shot,n/a,-79.0,14.0,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:51:02Z,1,02:31,17:29,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:51:26Z,1,03:10,16:50,Shot,Wrist Shot,-85.0,13.0,Sean Couturier,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:51:39Z,1,03:23,16:37,Missed Shot,n/a,-37.0,8.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:51:59Z,1,03:43,16:17,Blocked Shot,n/a,-74.0,-5.0,Kris Russell,Blocker,Edmonton Oilers,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:52:04Z,1,03:48,16:12,Hit,n/a,-58.0,-40.0,Travis Konecny,Hitter,Philadelphia Flyers,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:52:11Z,1,03:51,16:09,Shot,Wrist Shot,-83.0,-13.0,Sean Couturier,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:52:23Z,1,04:07,15:53,Shot,Snap Shot,-42.0,3.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:52:29Z,1,04:13,15:47,Shot,Slap Shot,-52.0,-8.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:52:45Z,1,04:29,15:31,Shot,Slap Shot,-36.0,2.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:53:21Z,1,05:05,14:55,Hit,n/a,65.0,40.0,Oskar Lindblom,Hitter,Philadelphia Flyers,Leon Draisaitl,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:54:44Z,1,05:58,14:02,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:55:03Z,1,06:05,13:55,Giveaway,n/a,31.0,-3.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:55:10Z,1,06:12,13:48,Hit,n/a,-48.0,40.0,Zack Kassian,Hitter,Edmonton Oilers,Scott Laughton,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:55:28Z,1,06:30,13:30,Shot,Slap Shot,35.0,24.0,Brandon Manning,Shooter,Edmonton Oilers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:55:33Z,1,06:35,13:25,Takeaway,n/a,29.0,-35.0,Matt Benning,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:55:39Z,1,06:41,13:19,Hit,n/a,97.0,-9.0,Zack Kassian,Hitter,Edmonton Oilers,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:55:46Z,1,06:48,13:12,Giveaway,n/a,-78.0,0.0,Matt Benning,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:55:51Z,1,06:50,13:10,Missed Shot,n/a,-63.0,4.0,Oskar Lindblom,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:58:22Z,1,06:50,13:10,Faceoff,n/a,-69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Tyler Pitlick,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:58:13Z,1,06:54,13:06,Giveaway,n/a,-87.0,34.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:58:39Z,1,07:09,12:51,Penalty,Hooking,-44.0,-37.0,Markus Granlund,PenaltyOn,Edmonton Oilers,Shayne Gostisbehere,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:59:20Z,1,07:09,12:51,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:59:19Z,1,07:17,12:43,Missed Shot,n/a,-33.0,-3.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T01:59:29Z,1,07:26,12:34,Missed Shot,n/a,-81.0,-22.0,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:00:04Z,1,07:26,12:34,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:00:07Z,1,07:35,12:25,Shot,Snap Shot,-60.0,18.0,Claude Giroux,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:00:18Z,1,07:36,12:24,Goal,Snap Shot,-78.0,-15.0,Jakub Voracek,Scorer,Philadelphia Flyers,Claude Giroux,Assist,Philadelphia Flyers,Sean Couturier,Assist,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers
+2019-10-17T02:00:50Z,1,07:36,12:24,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:02:03Z,1,08:15,11:45,Faceoff,n/a,-20.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:02:31Z,1,08:38,11:22,Giveaway,n/a,-93.0,3.0,Mikko Koskinen,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:02:34Z,1,08:43,11:17,Blocked Shot,n/a,-76.0,8.0,Oscar Klefbom,Blocker,Edmonton Oilers,Justin Braun,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:03:09Z,1,09:14,10:46,Takeaway,n/a,-25.0,-19.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:03:44Z,1,09:22,10:38,Faceoff,n/a,-20.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:03:58Z,1,09:42,10:18,Blocked Shot,n/a,-63.0,-22.0,Patrick Russell,Blocker,Edmonton Oilers,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:04:53Z,1,09:50,10:10,Faceoff,n/a,-69.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:05:16Z,1,09:58,10:02,Missed Shot,n/a,-74.0,2.0,Oskar Lindblom,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:05:26Z,1,10:08,09:52,Hit,n/a,-31.0,-40.0,Darnell Nurse,Hitter,Edmonton Oilers,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:05:39Z,1,10:15,09:45,Shot,Snap Shot,67.0,21.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:07:59Z,1,10:16,09:44,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:08:21Z,1,10:43,09:17,Giveaway,n/a,-92.0,-25.0,Ethan Bear,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:09:03Z,1,11:25,08:35,Takeaway,n/a,-70.0,-15.0,Kris Russell,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:09:14Z,1,11:36,08:24,Hit,n/a,99.0,9.0,Zack Kassian,Hitter,Edmonton Oilers,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:09:27Z,1,11:49,08:11,Hit,n/a,-94.0,-26.0,Ivan Provorov,Hitter,Philadelphia Flyers,Matt Benning,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:09:33Z,1,11:55,08:05,Hit,n/a,-98.0,13.0,Leon Draisaitl,Hitter,Edmonton Oilers,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:09:42Z,1,12:04,07:56,Takeaway,n/a,60.0,24.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:10:05Z,1,12:26,07:34,Shot,Snap Shot,55.0,-16.0,Josh Archibald,Shooter,Edmonton Oilers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:10:41Z,1,12:26,07:34,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Markus Granlund,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:10:57Z,1,12:44,07:16,Giveaway,n/a,-40.0,40.0,Tomas Jurco,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:11:22Z,1,13:10,06:50,Hit,n/a,12.0,-40.0,Travis Konecny,Hitter,Philadelphia Flyers,Patrick Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:11:46Z,1,13:12,06:48,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:12:52Z,1,13:40,06:20,Faceoff,n/a,20.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:13:09Z,1,13:51,06:09,Giveaway,n/a,98.0,2.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:13:19Z,1,14:02,05:58,Giveaway,n/a,96.0,-9.0,Zack Kassian,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:13:50Z,1,14:33,05:27,Takeaway,n/a,-97.0,16.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:13:53Z,1,14:35,05:25,Shot,Wrap-around,-82.0,-5.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:14:03Z,1,14:37,05:23,Shot,Wrist Shot,-81.0,7.0,Kevin Hayes,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:14:23Z,1,14:52,05:08,Goal,Snap Shot,66.0,9.0,Ethan Bear,Scorer,Edmonton Oilers,James Neal,Assist,Edmonton Oilers,Ryan Nugent-Hopkins,Assist,Edmonton Oilers,Carter Hart,Goalie,Philadelphia Flyers
+2019-10-17T02:15:10Z,1,14:52,05:08,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:15:23Z,1,15:11,04:49,Blocked Shot,n/a,75.0,14.0,Claude Giroux,Blocker,Philadelphia Flyers,Riley Sheahan,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:15:54Z,1,15:39,04:21,Blocked Shot,n/a,-65.0,-8.0,Oscar Klefbom,Blocker,Edmonton Oilers,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:16:09Z,1,15:57,04:03,Shot,Snap Shot,-65.0,-33.0,Connor Bunnaman,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:18:19Z,1,15:58,04:02,Faceoff,n/a,-69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:18:38Z,1,16:13,03:47,Shot,Snap Shot,79.0,-16.0,Ethan Bear,Shooter,Edmonton Oilers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:18:48Z,1,16:24,03:36,Giveaway,n/a,57.0,-39.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:19:01Z,1,16:36,03:24,Giveaway,n/a,-95.0,9.0,Ethan Bear,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:19:36Z,1,16:47,03:13,Faceoff,n/a,0.0,0.0,Markus Granlund,Winner,Edmonton Oilers,Connor Bunnaman,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:19:43Z,1,16:55,03:05,Hit,n/a,-26.0,-40.0,Carsen Twarynski,Hitter,Philadelphia Flyers,Matt Benning,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:20:04Z,1,17:18,02:42,Hit,n/a,-74.0,-40.0,Carsen Twarynski,Hitter,Philadelphia Flyers,Matt Benning,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:20:22Z,1,17:36,02:24,Takeaway,n/a,0.0,28.0,Riley Sheahan,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:20:35Z,1,17:49,02:11,Hit,n/a,-98.0,3.0,Kris Russell,Hitter,Edmonton Oilers,Michael Raffl,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:20:41Z,1,17:52,02:08,Giveaway,n/a,-95.0,3.0,Michael Raffl,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:20:52Z,1,18:06,01:54,Giveaway,n/a,62.0,-40.0,Jakub Voracek,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:21:10Z,1,18:24,01:36,Giveaway,n/a,97.0,16.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:21:14Z,1,18:28,01:32,Blocked Shot,n/a,54.0,6.0,Shayne Gostisbehere,Blocker,Philadelphia Flyers,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:21:19Z,1,18:31,01:29,Giveaway,n/a,88.0,-30.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:21:25Z,1,18:39,01:21,Hit,n/a,84.0,-35.0,Robert Hagg,Hitter,Philadelphia Flyers,Alex Chiasson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:21:48Z,1,19:01,00:59,Giveaway,n/a,60.0,-20.0,James van Riemsdyk,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:22:03Z,1,19:12,00:48,Shot,Wrist Shot,-15.0,1.0,Sean Couturier,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:22:30Z,1,19:24,00:36,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:22:38Z,1,19:28,00:32,Takeaway,n/a,-98.0,1.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:22:45Z,1,19:34,00:26,Takeaway,n/a,-19.0,23.0,James van Riemsdyk,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:23:06Z,1,19:52,00:08,Shot,Wrist Shot,-39.0,28.0,Kevin Hayes,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:24:04Z,1,19:53,00:07,Shot,Backhand,-73.0,-33.0,Matt Niskanen,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:23:28Z,1,19:54,00:06,Shot,Wrist Shot,-82.0,-4.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:24:31Z,1,19:56,00:04,Shot,Wrist Shot,-81.0,-2.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:24:48Z,1,19:58,00:02,Shot,Wrist Shot,-81.0,0.0,Michael Raffl,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:42:13Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Riley Sheahan,Winner,Edmonton Oilers,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:43:02Z,2,00:20,19:40,Faceoff,n/a,69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:43:18Z,2,00:38,19:22,Takeaway,n/a,-1.0,7.0,Oskar Lindblom,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:43:39Z,2,00:59,19:01,Shot,Snap Shot,70.0,13.0,Jakub Voracek,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:44:07Z,2,01:04,18:56,Faceoff,n/a,69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:44:24Z,2,01:08,18:52,Missed Shot,n/a,38.0,2.0,Travis Sanheim,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:44:46Z,2,01:34,18:26,Takeaway,n/a,74.0,-37.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:44:51Z,2,01:35,18:25,Giveaway,n/a,72.0,-41.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:44:48Z,2,01:37,18:23,Missed Shot,n/a,42.0,-33.0,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:44:53Z,2,01:39,18:21,Shot,Snap Shot,59.0,0.0,Travis Sanheim,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:45:25Z,2,01:43,18:17,Faceoff,n/a,69.0,22.0,Scott Laughton,Winner,Philadelphia Flyers,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:45:30Z,2,01:54,18:06,Blocked Shot,n/a,73.0,7.0,Kris Russell,Blocker,Edmonton Oilers,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:45:43Z,2,02:07,17:53,Giveaway,n/a,91.0,36.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:45:56Z,2,02:19,17:41,Hit,n/a,97.0,-4.0,Connor McDavid,Hitter,Edmonton Oilers,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:46:12Z,2,02:35,17:25,Shot,Backhand,79.0,-29.0,Scott Laughton,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:46:19Z,2,02:38,17:22,Shot,Wrist Shot,76.0,2.0,Michael Raffl,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:46:19Z,2,02:39,17:21,Blocked Shot,n/a,86.0,3.0,Kris Russell,Blocker,Edmonton Oilers,James van Riemsdyk,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:46:44Z,2,03:07,16:53,Hit,n/a,26.0,42.0,Matt Benning,Hitter,Edmonton Oilers,Carsen Twarynski,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:46:49Z,2,03:11,16:49,Hit,n/a,86.0,-35.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Brandon Manning,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:46:58Z,2,03:22,16:38,Giveaway,n/a,33.0,0.0,Alex Chiasson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:47:12Z,2,03:34,16:26,Giveaway,n/a,-41.0,41.0,Connor Bunnaman,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:47:15Z,2,03:36,16:24,Shot,Snap Shot,-76.0,-17.0,James Neal,Shooter,Edmonton Oilers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:47:27Z,2,03:44,16:16,Missed Shot,n/a,-41.0,-26.0,Brandon Manning,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:47:58Z,2,04:21,15:39,Blocked Shot,n/a,77.0,-17.0,Ethan Bear,Blocker,Edmonton Oilers,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:48:48Z,2,04:38,15:22,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:48:58Z,2,04:44,15:16,Giveaway,n/a,-99.0,10.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:49:01Z,2,04:48,15:12,Blocked Shot,n/a,-78.0,3.0,Robert Hagg,Blocker,Philadelphia Flyers,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:49:16Z,2,05:01,14:59,Blocked Shot,n/a,65.0,2.0,Darnell Nurse,Blocker,Edmonton Oilers,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:49:30Z,2,05:17,14:43,Hit,n/a,-64.0,41.0,Robert Hagg,Hitter,Philadelphia Flyers,Zack Kassian,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:49:51Z,2,05:37,14:23,Shot,Deflected,33.0,34.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:50:13Z,2,05:39,14:21,Faceoff,n/a,69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:50:45Z,2,06:00,14:00,Missed Shot,n/a,-54.0,37.0,Patrick Russell,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:50:56Z,2,06:11,13:49,Hit,n/a,75.0,41.0,Scott Laughton,Hitter,Philadelphia Flyers,Riley Sheahan,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:51:17Z,2,06:32,13:28,Hit,n/a,-95.0,27.0,Justin Braun,Hitter,Philadelphia Flyers,Patrick Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:51:24Z,2,06:39,13:21,Giveaway,n/a,-93.0,-26.0,Connor Bunnaman,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:51:32Z,2,06:48,13:12,Missed Shot,n/a,-73.0,7.0,Alex Chiasson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:51:41Z,2,06:57,13:03,Giveaway,n/a,-67.0,41.0,James van Riemsdyk,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:52:08Z,2,07:24,12:36,Hit,n/a,-48.0,-40.0,James Neal,Hitter,Edmonton Oilers,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:52:22Z,2,07:34,12:26,Shot,Wrist Shot,59.0,37.0,Kevin Hayes,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:52:19Z,2,07:35,12:25,Hit,n/a,98.0,7.0,Oskar Lindblom,Hitter,Philadelphia Flyers,Brandon Manning,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:53:01Z,2,08:16,11:44,Shot,Snap Shot,-64.0,24.0,Tomas Jurco,Shooter,Edmonton Oilers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:55:40Z,2,08:16,11:44,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Markus Granlund,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:55:25Z,2,08:22,11:38,Missed Shot,n/a,-61.0,17.0,Josh Archibald,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:55:32Z,2,08:27,11:33,Blocked Shot,n/a,-70.0,-12.0,Ivan Provorov,Blocker,Philadelphia Flyers,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:56:25Z,2,09:14,10:46,Takeaway,n/a,21.0,39.0,Kris Russell,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:56:40Z,2,09:37,10:23,Giveaway,n/a,-5.0,8.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:57:13Z,2,09:40,10:20,Faceoff,n/a,0.0,0.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:58:36Z,2,11:03,08:57,Hit,n/a,48.0,-40.0,Tomas Jurco,Hitter,Edmonton Oilers,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:58:41Z,2,11:07,08:53,Hit,n/a,87.0,37.0,Darnell Nurse,Hitter,Edmonton Oilers,Connor Bunnaman,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:58:42Z,2,11:07,08:53,Takeaway,n/a,37.0,-33.0,Tyler Pitlick,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:59:04Z,2,11:31,08:29,Giveaway,n/a,-15.0,30.0,Markus Granlund,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:59:11Z,2,11:39,08:21,Blocked Shot,n/a,67.0,2.0,Markus Granlund,Blocker,Edmonton Oilers,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:59:26Z,2,11:47,08:13,Missed Shot,n/a,66.0,-1.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:01:16Z,2,11:49,08:11,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:02:13Z,2,12:12,07:48,Shot,Slap Shot,57.0,3.0,Sean Couturier,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:02:21Z,2,12:19,07:41,Giveaway,n/a,93.0,-19.0,Kris Russell,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:02:23Z,2,12:22,07:38,Shot,Snap Shot,48.0,-33.0,Sean Couturier,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:02:40Z,2,12:34,07:26,Goal,Snap Shot,-76.0,7.0,Connor McDavid,Scorer,Edmonton Oilers,Kris Russell,Assist,Edmonton Oilers,Oscar Klefbom,Assist,Edmonton Oilers,Carter Hart,Goalie,Philadelphia Flyers
+2019-10-17T03:03:26Z,2,12:34,07:26,Faceoff,n/a,0.0,0.0,Riley Sheahan,Winner,Edmonton Oilers,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:04:03Z,2,12:50,07:10,Faceoff,n/a,-20.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:04:33Z,2,13:05,06:55,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:05:03Z,2,13:13,06:47,Giveaway,n/a,-11.0,40.0,Jakub Voracek,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:05:18Z,2,13:23,06:37,Blocked Shot,n/a,-62.0,-25.0,Justin Braun,Blocker,Philadelphia Flyers,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:05:46Z,2,13:27,06:33,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:06:02Z,2,13:41,06:19,Missed Shot,n/a,67.0,-19.0,Robert Hagg,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:06:02Z,2,13:48,06:12,Blocked Shot,n/a,-79.0,10.0,Robert Hagg,Blocker,Philadelphia Flyers,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:06:20Z,2,13:59,06:01,Shot,Snap Shot,-59.0,7.0,Kris Russell,Shooter,Edmonton Oilers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:06:26Z,2,14:00,06:00,Penalty,Hooking,-84.0,-6.0,Sean Couturier,PenaltyOn,Philadelphia Flyers,Zack Kassian,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:07:08Z,2,14:00,06:00,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:07:13Z,2,14:12,05:48,Shot,Slap Shot,-40.0,-1.0,Oscar Klefbom,Shooter,Edmonton Oilers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:07:15Z,2,14:14,05:46,Giveaway,n/a,-92.0,32.0,James Neal,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:07:37Z,2,14:32,05:28,Goal,Snap Shot,-58.0,-11.0,Ryan Nugent-Hopkins,Scorer,Edmonton Oilers,Leon Draisaitl,Assist,Edmonton Oilers,Connor McDavid,Assist,Edmonton Oilers,Carter Hart,Goalie,Philadelphia Flyers
+2019-10-17T03:08:30Z,2,14:32,05:28,Faceoff,n/a,0.0,0.0,Connor Bunnaman,Winner,Philadelphia Flyers,Markus Granlund,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:10:44Z,2,14:36,05:24,Faceoff,n/a,-20.0,22.0,Markus Granlund,Winner,Edmonton Oilers,Connor Bunnaman,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:11:55Z,2,15:06,04:54,Penalty,Hi-sticking,-36.0,40.0,Carsen Twarynski,PenaltyOn,Philadelphia Flyers,Tomas Jurco,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:12:41Z,2,15:06,04:54,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:12:30Z,2,15:23,04:37,Shot,Snap Shot,-65.0,-7.0,Leon Draisaitl,Shooter,Edmonton Oilers,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:12:37Z,2,15:30,04:30,Blocked Shot,n/a,-70.0,5.0,Tyler Pitlick,Blocker,Philadelphia Flyers,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:13:31Z,2,16:19,03:41,Shot,Wrist Shot,-77.0,9.0,James Neal,Shooter,Edmonton Oilers,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:13:37Z,2,16:21,03:39,Shot,Wrist Shot,-77.0,-5.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:13:53Z,2,16:24,03:36,Giveaway,n/a,-85.0,-1.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:13:53Z,2,16:26,03:34,Goal,Backhand,-81.0,-7.0,Leon Draisaitl,Scorer,Edmonton Oilers,Connor McDavid,Assist,Edmonton Oilers,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a
+2019-10-17T03:17:27Z,2,16:26,03:34,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:17:39Z,2,16:39,03:21,Giveaway,n/a,-25.0,-24.0,Shayne Gostisbehere,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:17:45Z,2,16:46,03:14,Hit,n/a,-98.0,0.0,Shayne Gostisbehere,Hitter,Philadelphia Flyers,Riley Sheahan,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:17:59Z,2,16:58,03:02,Giveaway,n/a,-97.0,2.0,Robert Hagg,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:17:59Z,2,17:00,03:00,Hit,n/a,-97.0,2.0,Robert Hagg,Hitter,Philadelphia Flyers,Riley Sheahan,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:18:17Z,2,17:18,02:42,Missed Shot,n/a,-39.0,-27.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:18:46Z,2,17:47,02:13,Hit,n/a,83.0,35.0,Sean Couturier,Hitter,Philadelphia Flyers,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:19:05Z,2,18:04,01:56,Giveaway,n/a,-97.0,2.0,James Neal,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:19:18Z,2,18:18,01:42,Shot,Snap Shot,64.0,-16.0,Travis Konecny,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:20:40Z,2,18:19,01:41,Faceoff,n/a,20.0,22.0,Scott Laughton,Winner,Philadelphia Flyers,Markus Granlund,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:20:53Z,2,18:28,01:32,Hit,n/a,98.0,-5.0,Scott Laughton,Hitter,Philadelphia Flyers,Kris Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:21:00Z,2,18:35,01:25,Shot,Snap Shot,38.0,-25.0,Matt Niskanen,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:21:07Z,2,18:37,01:23,Shot,Snap Shot,83.0,-7.0,Scott Laughton,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:21:12Z,2,18:38,01:22,Giveaway,n/a,91.0,-27.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:21:50Z,2,18:43,01:17,Faceoff,n/a,20.0,-22.0,Connor Bunnaman,Winner,Philadelphia Flyers,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:22:47Z,2,19:15,00:45,Faceoff,n/a,20.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:23:04Z,2,19:30,00:30,Giveaway,n/a,-98.0,1.0,Shayne Gostisbehere,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:23:21Z,2,19:46,00:14,Hit,n/a,-87.0,-36.0,Robert Hagg,Hitter,Philadelphia Flyers,Patrick Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:42:10Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:42:16Z,3,00:09,19:51,Giveaway,n/a,38.0,-34.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:42:24Z,3,00:17,19:43,Hit,n/a,98.0,-11.0,Jujhar Khaira,Hitter,Edmonton Oilers,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:42:34Z,3,00:27,19:33,Shot,Wrist Shot,-65.0,18.0,Travis Sanheim,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:42:41Z,3,00:30,19:30,Shot,Wrist Shot,-74.0,-2.0,Sean Couturier,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:42:46Z,3,00:40,19:20,Takeaway,n/a,-35.0,-28.0,Claude Giroux,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:43:07Z,3,00:45,19:15,Penalty,Hooking,-18.0,-39.0,Patrick Russell,PenaltyOn,Edmonton Oilers,Claude Giroux,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:44:07Z,3,00:45,19:15,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:44:22Z,3,01:07,18:53,Faceoff,n/a,-20.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:44:33Z,3,01:17,18:43,Blocked Shot,n/a,-59.0,-14.0,Kris Russell,Blocker,Edmonton Oilers,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:44:48Z,3,01:28,18:32,Giveaway,n/a,-97.0,1.0,Mikko Koskinen,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:44:56Z,3,01:36,18:24,Shot,Slap Shot,-42.0,1.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:45:16Z,3,01:38,18:22,Faceoff,n/a,-69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:45:28Z,3,01:44,18:16,Shot,Snap Shot,-70.0,-22.0,Jakub Voracek,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:45:43Z,3,01:54,18:06,Shot,Snap Shot,-34.0,-27.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:45:43Z,3,01:56,18:04,Shot,Wrist Shot,-77.0,-4.0,Sean Couturier,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:46:07Z,3,01:57,18:03,Faceoff,n/a,-69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:46:26Z,3,02:17,17:43,Giveaway,n/a,-54.0,-21.0,Oskar Lindblom,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:46:48Z,3,02:39,17:21,Hit,n/a,-96.0,-10.0,Ethan Bear,Hitter,Edmonton Oilers,Kevin Hayes,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:46:57Z,3,02:48,17:12,Shot,Tip-In,-76.0,3.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:47:06Z,3,02:55,17:05,Missed Shot,n/a,-24.0,39.0,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:47:16Z,3,03:06,16:54,Shot,Snap Shot,70.0,-20.0,Patrick Russell,Shooter,Edmonton Oilers,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:50:11Z,3,03:35,16:25,Giveaway,n/a,-94.0,5.0,Michael Raffl,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:47:53Z,3,03:40,16:20,Goal,Slap Shot,36.0,19.0,Brandon Manning,Scorer,Edmonton Oilers,Connor McDavid,Assist,Edmonton Oilers,Zack Kassian,Assist,Edmonton Oilers,Brian Elliott,Goalie,Philadelphia Flyers
+2019-10-17T03:48:39Z,3,03:40,16:20,Faceoff,n/a,0.0,0.0,Markus Granlund,Winner,Edmonton Oilers,Connor Bunnaman,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:49:10Z,3,04:12,15:48,Missed Shot,n/a,55.0,-24.0,Matt Benning,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:49:48Z,3,04:32,15:28,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:50:22Z,3,04:58,15:02,Takeaway,n/a,46.0,39.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:50:30Z,3,05:07,14:53,Giveaway,n/a,-98.0,17.0,Darnell Nurse,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:50:37Z,3,05:13,14:47,Takeaway,n/a,-20.0,21.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:51:08Z,3,05:45,14:15,Hit,n/a,-7.0,-40.0,Jujhar Khaira,Hitter,Edmonton Oilers,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:51:24Z,3,06:01,13:59,Hit,n/a,96.0,-4.0,Patrick Russell,Hitter,Edmonton Oilers,Shayne Gostisbehere,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:51:32Z,3,06:09,13:51,Blocked Shot,n/a,73.0,0.0,Robert Hagg,Blocker,Philadelphia Flyers,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:51:53Z,3,06:29,13:31,Takeaway,n/a,11.0,39.0,Scott Laughton,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:52:02Z,3,06:38,13:22,Giveaway,n/a,-94.0,23.0,Matt Benning,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:52:06Z,3,06:43,13:17,Giveaway,n/a,-63.0,-1.0,Zack Kassian,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:52:09Z,3,06:44,13:16,Shot,Wrist Shot,-79.0,7.0,Scott Laughton,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:54:21Z,3,06:53,13:07,Faceoff,n/a,-69.0,22.0,Connor Bunnaman,Winner,Philadelphia Flyers,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:54:44Z,3,06:59,13:01,Blocked Shot,n/a,-49.0,4.0,Leon Draisaitl,Blocker,Edmonton Oilers,Justin Braun,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:55:01Z,3,07:16,12:44,Hit,n/a,72.0,42.0,Oscar Klefbom,Hitter,Edmonton Oilers,Carsen Twarynski,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:55:21Z,3,07:36,12:24,Takeaway,n/a,22.0,-37.0,Claude Giroux,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:56:00Z,3,08:15,11:45,Shot,Snap Shot,-60.0,-28.0,Travis Sanheim,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:56:06Z,3,08:21,11:39,Blocked Shot,n/a,-72.0,11.0,Ethan Bear,Blocker,Edmonton Oilers,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:56:19Z,3,08:23,11:37,Penalty,Boarding,-44.0,41.0,Markus Granlund,PenaltyOn,Edmonton Oilers,Travis Konecny,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:57:21Z,3,08:23,11:37,Faceoff,n/a,-20.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:57:39Z,3,08:35,11:25,Hit,n/a,-93.0,29.0,Matt Niskanen,Hitter,Philadelphia Flyers,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:57:58Z,3,08:59,11:01,Shot,Tip-In,-79.0,-4.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:58:07Z,3,09:08,10:52,Blocked Shot,n/a,-71.0,-5.0,Kris Russell,Blocker,Edmonton Oilers,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:58:43Z,3,09:44,10:16,Giveaway,n/a,-47.0,22.0,Shayne Gostisbehere,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:59:05Z,3,10:06,09:54,Hit,n/a,-74.0,-39.0,Matt Benning,Hitter,Edmonton Oilers,Claude Giroux,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:59:21Z,3,10:22,09:38,Hit,n/a,-40.0,-40.0,Josh Archibald,Hitter,Edmonton Oilers,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:59:28Z,3,10:29,09:31,Blocked Shot,n/a,-76.0,0.0,Kris Russell,Blocker,Edmonton Oilers,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:59:28Z,3,10:29,09:31,Hit,n/a,-84.0,-37.0,Josh Archibald,Hitter,Edmonton Oilers,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:59:42Z,3,10:37,09:23,Missed Shot,n/a,-44.0,27.0,Justin Braun,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:59:52Z,3,10:43,09:17,Blocked Shot,n/a,-72.0,6.0,Matt Benning,Blocker,Edmonton Oilers,Scott Laughton,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:02:17Z,3,10:50,09:10,Faceoff,n/a,0.0,0.0,Markus Granlund,Winner,Edmonton Oilers,Connor Bunnaman,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:02:04Z,3,10:56,09:04,Hit,n/a,3.0,41.0,Robert Hagg,Hitter,Philadelphia Flyers,Tomas Jurco,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:02:29Z,3,11:17,08:43,Hit,n/a,77.0,39.0,Robert Hagg,Hitter,Philadelphia Flyers,Tomas Jurco,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:02:35Z,3,11:26,08:34,Hit,n/a,97.0,11.0,Robert Hagg,Hitter,Philadelphia Flyers,Tomas Jurco,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:03:07Z,3,11:38,08:22,Faceoff,n/a,-20.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:03:19Z,3,11:46,08:14,Shot,Snap Shot,-65.0,5.0,Scott Laughton,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:03:25Z,3,11:55,08:05,Takeaway,n/a,-91.0,-6.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:03:28Z,3,11:56,08:04,Giveaway,n/a,-92.0,-4.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:03:27Z,3,11:57,08:03,Blocked Shot,n/a,-76.0,-1.0,Oscar Klefbom,Blocker,Edmonton Oilers,James van Riemsdyk,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:03:55Z,3,12:27,07:33,Hit,n/a,-95.0,26.0,Brandon Manning,Hitter,Edmonton Oilers,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:04:27Z,3,12:59,07:01,Shot,Slap Shot,-45.0,-26.0,Jakub Voracek,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:05:35Z,3,13:36,06:24,Faceoff,n/a,0.0,0.0,Riley Sheahan,Winner,Edmonton Oilers,Connor Bunnaman,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:05:53Z,3,13:44,06:16,Faceoff,n/a,20.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Connor Bunnaman,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:06:29Z,3,14:11,05:49,Takeaway,n/a,94.0,-1.0,Riley Sheahan,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:06:36Z,3,14:13,05:47,Shot,Snap Shot,72.0,27.0,Darnell Nurse,Shooter,Edmonton Oilers,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:06:45Z,3,14:16,05:44,Shot,Wrist Shot,81.0,5.0,Patrick Russell,Shooter,Edmonton Oilers,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:08:55Z,3,14:17,05:43,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Markus Granlund,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:09:41Z,3,14:32,05:28,Faceoff,n/a,20.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:09:58Z,3,14:48,05:12,Takeaway,n/a,-46.0,-26.0,Scott Laughton,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:10:02Z,3,14:52,05:08,Giveaway,n/a,-36.0,-16.0,Scott Laughton,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:10:23Z,3,15:10,04:50,Shot,Wrist Shot,-44.0,-27.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:10:58Z,3,15:11,04:49,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:10:58Z,3,15:17,04:43,Shot,Tip-In,-84.0,-6.0,Kevin Hayes,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:11:09Z,3,15:20,04:40,Goal,Tip-In,-76.0,0.0,Oskar Lindblom,Scorer,Philadelphia Flyers,Jakub Voracek,Assist,Philadelphia Flyers,Justin Braun,Assist,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers
+2019-10-17T04:11:48Z,3,15:20,04:40,Faceoff,n/a,0.0,0.0,Riley Sheahan,Winner,Edmonton Oilers,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:12:05Z,3,15:34,04:26,Takeaway,n/a,49.0,42.0,Riley Sheahan,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:12:27Z,3,15:56,04:04,Shot,Wrist Shot,-35.0,-7.0,Sean Couturier,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:12:34Z,3,15:58,04:02,Shot,Backhand,-78.0,-1.0,Travis Konecny,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:12:57Z,3,16:12,03:48,Shot,Wrist Shot,-10.0,2.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:13:17Z,3,16:13,03:47,Faceoff,n/a,-69.0,-22.0,Connor Bunnaman,Winner,Philadelphia Flyers,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:13:25Z,3,16:25,03:35,Takeaway,n/a,-55.0,-39.0,Tyler Pitlick,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:13:58Z,3,16:49,03:11,Hit,n/a,-38.0,-40.0,Connor Bunnaman,Hitter,Philadelphia Flyers,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:13:58Z,3,16:51,03:09,Penalty,Holding,-44.0,-40.0,Darnell Nurse,PenaltyOn,Edmonton Oilers,Connor Bunnaman,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:14:54Z,3,16:51,03:09,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:14:51Z,3,16:57,03:03,Shot,Snap Shot,-52.0,-15.0,Jakub Voracek,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:15:26Z,3,17:31,02:29,Missed Shot,n/a,-41.0,27.0,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:15:33Z,3,17:35,02:25,Shot,Slap Shot,-51.0,-27.0,Jakub Voracek,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:15:44Z,3,17:36,02:24,Penalty,Too many men on the ice,-23.0,37.0,Jujhar Khaira,PenaltyOn,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:16:01Z,3,17:36,02:24,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:16:19Z,3,17:42,02:18,Goal,Slap Shot,-54.0,22.0,Jakub Voracek,Scorer,Philadelphia Flyers,Ivan Provorov,Assist,Philadelphia Flyers,Claude Giroux,Assist,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers
+2019-10-17T04:17:13Z,3,17:42,02:18,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:17:39Z,3,18:16,01:44,Giveaway,n/a,-68.0,-1.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:17:46Z,3,18:23,01:37,Shot,Slap Shot,-39.0,23.0,Claude Giroux,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:17:53Z,3,18:25,01:35,Shot,Wrist Shot,-77.0,1.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:17:58Z,3,18:28,01:32,Shot,Wrist Shot,-77.0,1.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:18:03Z,3,18:31,01:29,Missed Shot,n/a,-71.0,16.0,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:18:25Z,3,19:01,00:59,Takeaway,n/a,-44.0,36.0,Michael Raffl,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:18:27Z,3,19:03,00:57,Shot,Snap Shot,-63.0,26.0,Michael Raffl,Shooter,Philadelphia Flyers,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:18:41Z,3,19:11,00:49,Blocked Shot,n/a,-72.0,6.0,Darnell Nurse,Blocker,Edmonton Oilers,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:19:07Z,3,19:43,00:17,Blocked Shot,n/a,-72.0,-12.0,Kris Russell,Blocker,Edmonton Oilers,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:19:26Z,3,19:53,00:07,Blocked Shot,n/a,-45.0,24.0,Kris Russell,Blocker,Edmonton Oilers,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a

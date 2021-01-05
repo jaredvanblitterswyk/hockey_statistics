@@ -1,0 +1,265 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-11T00:42:00Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Tyler Johnson,Winner,Tampa Bay Lightning,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:42:59Z,1,00:14,19:46,Missed Shot,n/a,46.0,-15.0,Liam Foudy,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:43:57Z,1,00:16,19:44,Shot,Wrist Shot,86.0,33.0,Zach Werenski,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:43:13Z,1,00:29,19:31,Hit,n/a,13.0,40.0,Boone Jenner,Hitter,Columbus Blue Jackets,Victor Hedman,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:43:15Z,1,00:31,19:29,Shot,Wrist Shot,-46.0,-13.0,Anthony Cirelli,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:43:46Z,1,00:34,19:26,Faceoff,n/a,-69.0,-22.0,Nick Foligno,Winner,Columbus Blue Jackets,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:44:25Z,1,01:04,18:56,Blocked Shot,n/a,-59.0,19.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:44:34Z,1,01:13,18:47,Blocked Shot,n/a,-78.0,6.0,David Savard,Blocker,Columbus Blue Jackets,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:44:40Z,1,01:19,18:41,Hit,n/a,-57.0,-36.0,Ondrej Palat,Hitter,Tampa Bay Lightning,Oliver Bjorkstrand,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:44:48Z,1,01:27,18:33,Shot,Wrist Shot,64.0,5.0,Nick Foligno,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:45:02Z,1,01:29,18:31,Penalty,Roughing,95.0,-20.0,Kevin Shattenkirk,PenaltyOn,Tampa Bay Lightning,Pierre-Luc Dubois,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:45:02Z,1,01:29,18:31,Penalty,Slashing,95.0,-22.0,Pierre-Luc Dubois,PenaltyOn,Columbus Blue Jackets,Kevin Shattenkirk,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:46:15Z,1,01:29,18:31,Faceoff,n/a,20.0,-22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Emil Bemstrom,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:46:34Z,1,01:39,18:21,Missed Shot,n/a,-53.0,38.0,Yanni Gourde,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:46:59Z,1,02:04,17:56,Hit,n/a,95.0,1.0,Erik Cernak,Hitter,Tampa Bay Lightning,Emil Bemstrom,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:47:27Z,1,02:29,17:31,Goal,Tip-In,-82.0,-6.0,Nikita Kucherov,Scorer,Tampa Bay Lightning,Mikhail Sergachev,Assist,Tampa Bay Lightning,Brayden Point,Assist,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets
+2020-02-11T00:48:01Z,1,02:29,17:31,Faceoff,n/a,0.0,0.0,Nick Foligno,Winner,Columbus Blue Jackets,Alex Killorn,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:48:31Z,1,02:47,17:13,Hit,n/a,61.0,-35.0,David Savard,Hitter,Columbus Blue Jackets,Anthony Cirelli,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:48:37Z,1,02:54,17:06,Hit,n/a,95.0,-25.0,Braydon Coburn,Hitter,Tampa Bay Lightning,David Savard,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:48:43Z,1,02:58,17:02,Hit,n/a,56.0,40.0,Nick Foligno,Hitter,Columbus Blue Jackets,Alex Killorn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:49:22Z,1,03:39,16:21,Shot,Wrist Shot,-61.0,37.0,Erik Cernak,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:49:29Z,1,03:46,16:14,Takeaway,n/a,17.0,-10.0,Victor Hedman,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:49:43Z,1,04:00,16:00,Hit,n/a,-11.0,39.0,Eric Robinson,Hitter,Columbus Blue Jackets,Mathieu Joseph,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:49:48Z,1,04:04,15:56,Hit,n/a,-99.0,4.0,Pat Maroon,Hitter,Tampa Bay Lightning,Andrew Peeke,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:50:00Z,1,04:16,15:44,Hit,n/a,94.0,28.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Riley Nash,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:50:00Z,1,04:17,15:43,Blocked Shot,n/a,82.0,4.0,Braydon Coburn,Blocker,Tampa Bay Lightning,Riley Nash,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:50:09Z,1,04:25,15:35,Hit,n/a,97.0,-18.0,Riley Nash,Hitter,Columbus Blue Jackets,Braydon Coburn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:50:32Z,1,04:49,15:11,Takeaway,n/a,-86.0,8.0,Kevin Stenlund,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:50:50Z,1,05:03,14:57,Hit,n/a,9.0,-37.0,Yanni Gourde,Hitter,Tampa Bay Lightning,Kevin Stenlund,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:51:40Z,1,05:56,14:04,Hit,n/a,-97.0,16.0,Alex Killorn,Hitter,Tampa Bay Lightning,Vladislav Gavrikov,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:52:03Z,1,06:20,13:40,Hit,n/a,32.0,-39.0,Luke Schenn,Hitter,Tampa Bay Lightning,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:52:18Z,1,06:35,13:25,Giveaway,n/a,87.0,-6.0,Scott Harrington,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:52:47Z,1,07:03,12:57,Hit,n/a,-90.0,-26.0,Mathieu Joseph,Hitter,Tampa Bay Lightning,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:52:51Z,1,07:07,12:53,Hit,n/a,-75.0,41.0,Pat Maroon,Hitter,Tampa Bay Lightning,Scott Harrington,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:53:01Z,1,07:18,12:42,Shot,Snap Shot,60.0,20.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:55:02Z,1,07:19,12:41,Faceoff,n/a,69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:55:50Z,1,07:54,12:06,Hit,n/a,-57.0,-39.0,Markus Nutivaara,Hitter,Columbus Blue Jackets,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:56:11Z,1,08:15,11:45,Blocked Shot,n/a,-74.0,-8.0,Markus Nutivaara,Blocker,Columbus Blue Jackets,Braydon Coburn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:56:28Z,1,08:32,11:28,Hit,n/a,-41.0,-39.0,Oliver Bjorkstrand,Hitter,Columbus Blue Jackets,Braydon Coburn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:56:59Z,1,09:03,10:57,Takeaway,n/a,-10.0,32.0,Eric Robinson,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:57:16Z,1,09:20,10:40,Hit,n/a,94.0,-26.0,Riley Nash,Hitter,Columbus Blue Jackets,Pat Maroon,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:57:46Z,1,09:50,10:10,Shot,Wrist Shot,-38.0,34.0,Erik Cernak,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:57:57Z,1,10:00,10:00,Hit,n/a,-96.0,6.0,David Savard,Hitter,Columbus Blue Jackets,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:58:12Z,1,10:16,09:44,Shot,Wrist Shot,77.0,-16.0,Sonny Milano,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:59:11Z,1,11:13,08:47,Hit,n/a,-97.0,17.0,Gustav Nyquist,Hitter,Columbus Blue Jackets,Alex Killorn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T00:59:30Z,1,11:34,08:26,Shot,Wrist Shot,-50.0,-15.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:01:36Z,1,11:35,08:25,Faceoff,n/a,-69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:01:59Z,1,11:44,08:16,Takeaway,n/a,-69.0,42.0,Ondrej Palat,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:02:29Z,1,11:59,08:01,Faceoff,n/a,-69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:02:41Z,1,12:03,07:57,Shot,Wrist Shot,-37.0,-27.0,Victor Hedman,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:02:46Z,1,12:08,07:52,Shot,Wrist Shot,-48.0,31.0,Erik Cernak,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:02:49Z,1,12:11,07:49,Blocked Shot,n/a,-62.0,6.0,David Savard,Blocker,Columbus Blue Jackets,Alex Killorn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:03:00Z,1,12:22,07:38,Shot,Wrist Shot,-82.0,-9.0,Erik Cernak,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:03:19Z,1,12:41,07:19,Shot,Wrist Shot,-59.0,31.0,Luke Schenn,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:03:46Z,1,12:50,07:10,Faceoff,n/a,-69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:03:59Z,1,12:55,07:05,Giveaway,n/a,-95.0,23.0,Scott Harrington,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:04:06Z,1,13:02,06:58,Hit,n/a,90.0,31.0,Eric Robinson,Hitter,Columbus Blue Jackets,Luke Schenn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:04:22Z,1,13:18,06:42,Missed Shot,n/a,-63.0,-11.0,Mitchell Stephens,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:04:58Z,1,13:43,06:17,Shot,Wrist Shot,33.0,31.0,Nathan Gerbe,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:05:12Z,1,13:59,06:01,Faceoff,n/a,69.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:05:40Z,1,14:13,05:47,Hit,n/a,51.0,39.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Emil Bemstrom,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:06:08Z,1,14:41,05:19,Shot,Wrist Shot,-65.0,-24.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:06:23Z,1,14:55,05:05,Shot,Wrist Shot,-49.0,-26.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:08:05Z,1,14:57,05:03,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:08:51Z,1,15:08,04:52,Giveaway,n/a,-49.0,40.0,Ondrej Palat,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:08:56Z,1,15:13,04:47,Hit,n/a,-97.0,13.0,Ondrej Palat,Hitter,Tampa Bay Lightning,David Savard,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:09:30Z,1,15:14,04:46,Faceoff,n/a,-69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:10:02Z,1,15:37,04:23,Hit,n/a,-3.0,-39.0,Boone Jenner,Hitter,Columbus Blue Jackets,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:10:33Z,1,16:07,03:53,Shot,Snap Shot,45.0,35.0,Zach Werenski,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:11:25Z,1,16:10,03:50,Blocked Shot,n/a,84.0,5.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:10:57Z,1,16:31,03:29,Hit,n/a,96.0,-8.0,Nick Foligno,Hitter,Columbus Blue Jackets,Victor Hedman,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:11:22Z,1,16:54,03:06,Hit,n/a,-10.0,36.0,Vladislav Gavrikov,Hitter,Columbus Blue Jackets,Yanni Gourde,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:11:52Z,1,16:56,03:04,Faceoff,n/a,69.0,-22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:11:59Z,1,17:01,02:59,Shot,Wrist Shot,36.0,-33.0,Andrew Peeke,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:12:12Z,1,17:01,02:59,Faceoff,n/a,69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:12:37Z,1,17:10,02:50,Penalty,Roughing,57.0,-38.0,Luke Schenn,PenaltyOn,Tampa Bay Lightning,Nathan Gerbe,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:12:37Z,1,17:10,02:50,Penalty,Roughing,94.0,-21.0,Pat Maroon,PenaltyOn,Tampa Bay Lightning,Andrew Peeke,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:12:37Z,1,17:10,02:50,Penalty,Cross checking,98.0,-21.0,Nathan Gerbe,PenaltyOn,Columbus Blue Jackets,Luke Schenn,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:14:36Z,1,17:10,02:50,Faceoff,n/a,20.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:15:36Z,1,17:34,02:26,Penalty,Illegal check to head,93.0,-31.0,Nick Foligno,PenaltyOn,Columbus Blue Jackets,Erik Cernak,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:15:37Z,1,17:34,02:26,Faceoff,n/a,-69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:16:13Z,1,17:54,02:06,Missed Shot,n/a,72.0,27.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:16:17Z,1,17:58,02:02,Missed Shot,n/a,76.0,-10.0,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:16:57Z,1,18:38,01:22,Shot,Wrist Shot,54.0,9.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:17:40Z,1,19:21,00:39,Shot,Wrist Shot,-67.0,-10.0,Anthony Cirelli,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:17:43Z,1,19:23,00:37,Missed Shot,n/a,-71.0,13.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:17:51Z,1,19:32,00:28,Missed Shot,n/a,-63.0,18.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:18:05Z,1,19:45,00:15,Takeaway,n/a,-13.0,-36.0,Boone Jenner,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:36:51Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:37:14Z,2,00:17,19:43,Missed Shot,n/a,33.0,-24.0,Erik Cernak,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:37:29Z,2,00:32,19:28,Giveaway,n/a,36.0,28.0,Victor Hedman,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:38:24Z,2,01:01,18:59,Faceoff,n/a,-20.0,22.0,Nick Foligno,Winner,Columbus Blue Jackets,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:38:41Z,2,01:16,18:44,Hit,n/a,-57.0,39.0,Nick Foligno,Hitter,Columbus Blue Jackets,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:38:56Z,2,01:21,18:39,Penalty,Holding,2.0,-34.0,Pierre-Luc Dubois,PenaltyOn,Columbus Blue Jackets,Mikhail Sergachev,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:39:33Z,2,01:21,18:39,Faceoff,n/a,69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:40:02Z,2,01:45,18:15,Hit,n/a,50.0,39.0,David Savard,Hitter,Columbus Blue Jackets,Alex Killorn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:40:06Z,2,01:49,18:11,Hit,n/a,94.0,22.0,Alex Killorn,Hitter,Tampa Bay Lightning,David Savard,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:40:11Z,2,01:54,18:06,Missed Shot,n/a,-26.0,2.0,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:40:31Z,2,02:14,17:46,Giveaway,n/a,68.0,31.0,Alex Killorn,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:40:36Z,2,02:19,17:41,Giveaway,n/a,53.0,-37.0,Nikita Kucherov,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:40:42Z,2,02:25,17:35,Shot,Snap Shot,-83.0,0.0,Riley Nash,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:40:42Z,2,02:26,17:34,Shot,Backhand,-88.0,6.0,Riley Nash,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:41:06Z,2,02:49,17:11,Missed Shot,n/a,-62.0,-16.0,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:41:15Z,2,02:58,17:02,Hit,n/a,40.0,-39.0,Boone Jenner,Hitter,Columbus Blue Jackets,Ondrej Palat,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:41:34Z,2,03:17,16:43,Shot,Slap Shot,34.0,1.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:42:01Z,2,03:44,16:16,Goal,Backhand,-81.0,-7.0,Oliver Bjorkstrand,Scorer,Columbus Blue Jackets,Pierre-Luc Dubois,Assist,Columbus Blue Jackets,Emil Bemstrom,Assist,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning
+2020-02-11T01:42:54Z,2,03:44,16:16,Faceoff,n/a,0.0,0.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:43:03Z,2,03:59,16:01,Missed Shot,n/a,31.0,-32.0,Luke Schenn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:43:24Z,2,03:59,16:01,Faceoff,n/a,69.0,-22.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:43:46Z,2,04:10,15:50,Hit,n/a,-32.0,39.0,Braydon Coburn,Hitter,Tampa Bay Lightning,Kevin Stenlund,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:43:52Z,2,04:13,15:47,Hit,n/a,-95.0,16.0,Eric Robinson,Hitter,Columbus Blue Jackets,Luke Schenn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:43:56Z,2,04:20,15:40,Missed Shot,n/a,31.0,-14.0,Carter Verhaeghe,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:44:09Z,2,04:33,15:27,Hit,n/a,99.0,-15.0,Yanni Gourde,Hitter,Tampa Bay Lightning,Andrew Peeke,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:44:23Z,2,04:47,15:13,Shot,Wrist Shot,-50.0,-36.0,Boone Jenner,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:44:28Z,2,04:52,15:08,Takeaway,n/a,-79.0,-35.0,Liam Foudy,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:44:35Z,2,04:58,15:02,Hit,n/a,-8.0,13.0,Zach Werenski,Hitter,Columbus Blue Jackets,Mathieu Joseph,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:44:50Z,2,05:06,14:54,Giveaway,n/a,-94.0,9.0,Curtis McElhinney,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:45:11Z,2,05:35,14:25,Hit,n/a,-63.0,-41.0,Oliver Bjorkstrand,Hitter,Columbus Blue Jackets,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:45:15Z,2,05:39,14:21,Shot,Wrist Shot,-55.0,12.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:45:48Z,2,05:40,14:20,Faceoff,n/a,-69.0,22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:46:52Z,2,06:24,13:36,Faceoff,n/a,-69.0,22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:47:18Z,2,06:38,13:22,Shot,Wrist Shot,-78.0,18.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:50:02Z,2,06:39,13:21,Faceoff,n/a,-69.0,22.0,Nick Foligno,Winner,Columbus Blue Jackets,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:50:02Z,2,06:41,13:19,Blocked Shot,n/a,-72.0,19.0,Brayden Point,Blocker,Tampa Bay Lightning,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:49:41Z,2,06:44,13:16,Shot,Deflected,-69.0,5.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:49:53Z,2,06:57,13:03,Hit,n/a,11.0,-22.0,Pierre-Luc Dubois,Hitter,Columbus Blue Jackets,Nikita Kucherov,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:50:03Z,2,07:08,12:52,Hit,n/a,95.0,-25.0,Nick Foligno,Hitter,Columbus Blue Jackets,Nikita Kucherov,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:50:10Z,2,07:14,12:46,Missed Shot,n/a,-54.0,26.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:50:25Z,2,07:29,12:31,Blocked Shot,n/a,-83.0,3.0,Luke Schenn,Blocker,Tampa Bay Lightning,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:50:32Z,2,07:36,12:24,Shot,Wrist Shot,-84.0,-15.0,Zach Werenski,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:50:48Z,2,07:50,12:10,Blocked Shot,n/a,-69.0,7.0,Braydon Coburn,Blocker,Tampa Bay Lightning,Gustav Nyquist,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:50:48Z,2,07:51,12:09,Penalty,Roughing,-81.0,5.0,Luke Schenn,PenaltyOn,Tampa Bay Lightning,Oliver Bjorkstrand,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:51:56Z,2,07:51,12:09,Faceoff,n/a,-69.0,-22.0,Nick Foligno,Winner,Columbus Blue Jackets,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:52:04Z,2,07:58,12:02,Blocked Shot,n/a,-72.0,-9.0,Erik Cernak,Blocker,Tampa Bay Lightning,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:52:40Z,2,08:34,11:26,Blocked Shot,n/a,-70.0,-14.0,Erik Cernak,Blocker,Tampa Bay Lightning,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:53:08Z,2,09:02,10:58,Shot,Wrist Shot,-69.0,26.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:53:45Z,2,09:02,10:58,Faceoff,n/a,-69.0,22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:54:11Z,2,09:42,10:18,Shot,Backhand,-75.0,-19.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:55:14Z,2,10:00,10:00,Faceoff,n/a,-20.0,-22.0,Nathan Gerbe,Winner,Columbus Blue Jackets,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:55:18Z,2,10:16,09:44,Shot,Wrist Shot,-67.0,-36.0,Eric Robinson,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:55:38Z,2,10:36,09:24,Shot,Wrist Shot,70.0,-18.0,Ondrej Palat,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:57:50Z,2,10:37,09:23,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Ondrej Palat,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:58:13Z,2,10:48,09:12,Hit,n/a,98.0,-12.0,David Savard,Hitter,Columbus Blue Jackets,Ondrej Palat,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:58:22Z,2,10:59,09:01,Shot,Wrist Shot,-62.0,-24.0,Liam Foudy,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:58:38Z,2,11:12,08:48,Giveaway,n/a,-50.0,-36.0,Kevin Shattenkirk,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:58:42Z,2,11:18,08:42,Shot,Wrist Shot,-69.0,-6.0,Liam Foudy,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:59:29Z,2,11:18,08:42,Faceoff,n/a,-69.0,-22.0,Nick Foligno,Winner,Columbus Blue Jackets,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:59:34Z,2,11:23,08:37,Missed Shot,n/a,-73.0,1.0,Nick Foligno,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T01:59:49Z,2,11:38,08:22,Hit,n/a,93.0,-28.0,Anthony Cirelli,Hitter,Tampa Bay Lightning,Andrew Peeke,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:00:03Z,2,11:51,08:09,Shot,Snap Shot,33.0,20.0,Anthony Cirelli,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:00:07Z,2,11:55,08:05,Hit,n/a,86.0,37.0,Tyler Johnson,Hitter,Tampa Bay Lightning,Scott Harrington,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:00:14Z,2,12:03,07:57,Shot,Wrist Shot,63.0,6.0,Tyler Johnson,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:00:21Z,2,12:10,07:50,Missed Shot,n/a,62.0,21.0,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:00:30Z,2,12:19,07:41,Hit,n/a,80.0,39.0,Pierre-Luc Dubois,Hitter,Columbus Blue Jackets,Victor Hedman,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:00:56Z,2,12:45,07:15,Takeaway,n/a,-76.0,3.0,Victor Hedman,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:01:03Z,2,12:52,07:08,Hit,n/a,-30.0,-40.0,Luke Schenn,Hitter,Tampa Bay Lightning,Kevin Stenlund,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:01:08Z,2,12:57,07:03,Hit,n/a,-97.0,-13.0,Luke Schenn,Hitter,Tampa Bay Lightning,Kevin Stenlund,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:01:20Z,2,13:08,06:52,Takeaway,n/a,-29.0,-22.0,Sonny Milano,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:01:23Z,2,13:12,06:48,Takeaway,n/a,-23.0,-20.0,Yanni Gourde,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:01:56Z,2,13:21,06:39,Penalty,Hooking,56.0,-20.0,Carter Verhaeghe,PenaltyOn,Tampa Bay Lightning,Kevin Stenlund,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:02:37Z,2,13:21,06:39,Faceoff,n/a,-69.0,-22.0,Nick Foligno,Winner,Columbus Blue Jackets,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:02:37Z,2,13:41,06:19,Takeaway,n/a,-38.0,10.0,Anthony Cirelli,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:02:45Z,2,13:49,06:11,Shot,Wrist Shot,34.0,-27.0,Erik Cernak,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:03:13Z,2,14:16,05:44,Blocked Shot,n/a,-74.0,4.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:03:38Z,2,14:16,05:44,Faceoff,n/a,-69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:04:03Z,2,14:39,05:21,Blocked Shot,n/a,-54.0,19.0,Yanni Gourde,Blocker,Tampa Bay Lightning,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:04:14Z,2,14:50,05:10,Missed Shot,n/a,-64.0,13.0,Sonny Milano,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:04:31Z,2,15:07,04:53,Takeaway,n/a,-86.0,26.0,Yanni Gourde,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:05:24Z,2,16:00,04:00,Blocked Shot,n/a,-67.0,4.0,Victor Hedman,Blocker,Tampa Bay Lightning,Riley Nash,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:05:28Z,2,16:04,03:56,Shot,Wrist Shot,-55.0,9.0,Eric Robinson,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:05:36Z,2,16:12,03:48,Takeaway,n/a,34.0,-4.0,Vladislav Gavrikov,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:05:51Z,2,16:25,03:35,Missed Shot,n/a,-38.0,38.0,Andrew Peeke,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:05:58Z,2,16:32,03:28,Penalty,Hi-sticking,13.0,14.0,Pierre-Luc Dubois,PenaltyOn,Columbus Blue Jackets,Brayden Point,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:08:22Z,2,16:32,03:28,Faceoff,n/a,69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:08:28Z,2,16:44,03:16,Hit,n/a,98.0,-13.0,David Savard,Hitter,Columbus Blue Jackets,Alex Killorn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:08:39Z,2,16:55,03:05,Shot,Wrist Shot,43.0,-20.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:08:57Z,2,17:12,02:48,Missed Shot,n/a,37.0,-5.0,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:09:06Z,2,17:22,02:38,Giveaway,n/a,69.0,-39.0,Nikita Kucherov,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:09:31Z,2,17:47,02:13,Hit,n/a,42.0,-38.0,Gustav Nyquist,Hitter,Columbus Blue Jackets,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:09:58Z,2,18:14,01:46,Giveaway,n/a,78.0,-38.0,Pat Maroon,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:10:05Z,2,18:21,01:39,Blocked Shot,n/a,-68.0,12.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Nathan Gerbe,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:10:32Z,2,18:47,01:13,Blocked Shot,n/a,60.0,6.0,Boone Jenner,Blocker,Columbus Blue Jackets,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:10:43Z,2,18:59,01:01,Missed Shot,n/a,55.0,28.0,Mathieu Joseph,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:10:54Z,2,19:09,00:51,Giveaway,n/a,81.0,30.0,Mitchell Stephens,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:11:19Z,2,19:34,00:26,Missed Shot,n/a,-62.0,13.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:11:36Z,2,19:51,00:09,Shot,Wrist Shot,-52.0,-36.0,Sonny Milano,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:11:43Z,2,19:58,00:02,Hit,n/a,-95.0,13.0,Braydon Coburn,Hitter,Tampa Bay Lightning,Oliver Bjorkstrand,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:30:24Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Boone Jenner,Winner,Columbus Blue Jackets,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:31:07Z,3,00:44,19:16,Missed Shot,n/a,65.0,38.0,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:32:01Z,3,01:38,18:22,Missed Shot,n/a,-38.0,-22.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:33:43Z,3,02:52,17:08,Faceoff,n/a,0.0,0.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:34:07Z,3,02:58,17:02,Faceoff,n/a,0.0,0.0,Riley Nash,Winner,Columbus Blue Jackets,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:34:33Z,3,03:12,16:48,Giveaway,n/a,40.0,-4.0,Markus Nutivaara,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:35:07Z,3,03:47,16:13,Hit,n/a,-98.0,10.0,Riley Nash,Hitter,Columbus Blue Jackets,Carter Verhaeghe,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:35:07Z,3,03:47,16:13,Shot,Snap Shot,-67.0,35.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:35:30Z,3,04:10,15:50,Blocked Shot,n/a,46.0,-20.0,Alex Killorn,Blocker,Tampa Bay Lightning,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:35:32Z,3,04:12,15:48,Hit,n/a,97.0,-6.0,Liam Foudy,Hitter,Columbus Blue Jackets,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:35:43Z,3,04:20,15:40,Blocked Shot,n/a,-50.0,-3.0,David Savard,Blocker,Columbus Blue Jackets,Tyler Johnson,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:36:18Z,3,04:21,15:39,Faceoff,n/a,-69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:36:40Z,3,04:28,15:32,Shot,Wrist Shot,-85.0,10.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:37:06Z,3,04:29,15:31,Faceoff,n/a,-69.0,22.0,Nick Foligno,Winner,Columbus Blue Jackets,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:37:32Z,3,04:51,15:09,Hit,n/a,-39.0,-40.0,Pierre-Luc Dubois,Hitter,Columbus Blue Jackets,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:37:59Z,3,05:20,14:40,Hit,n/a,99.0,6.0,Oliver Bjorkstrand,Hitter,Columbus Blue Jackets,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:38:16Z,3,05:37,14:23,Hit,n/a,-57.0,40.0,Sonny Milano,Hitter,Columbus Blue Jackets,Mathieu Joseph,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:38:30Z,3,05:52,14:08,Blocked Shot,n/a,44.0,15.0,Mathieu Joseph,Blocker,Tampa Bay Lightning,Scott Harrington,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:39:06Z,3,06:27,13:33,Shot,Wrist Shot,-8.0,2.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:39:37Z,3,06:57,13:03,Hit,n/a,-86.0,37.0,Markus Nutivaara,Hitter,Columbus Blue Jackets,Yanni Gourde,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:41:29Z,3,06:57,13:03,Faceoff,n/a,-69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:42:00Z,3,07:05,12:55,Takeaway,n/a,20.0,12.0,Erik Cernak,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:42:12Z,3,07:21,12:39,Hit,n/a,97.0,-10.0,Gustav Nyquist,Hitter,Columbus Blue Jackets,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:42:17Z,3,07:27,12:33,Blocked Shot,n/a,-75.0,13.0,Boone Jenner,Blocker,Columbus Blue Jackets,Anthony Cirelli,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:42:26Z,3,07:36,12:24,Blocked Shot,n/a,-69.0,-3.0,Gustav Nyquist,Blocker,Columbus Blue Jackets,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:42:44Z,3,07:54,12:06,Hit,n/a,-98.0,4.0,David Savard,Hitter,Columbus Blue Jackets,Tyler Johnson,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:43:33Z,3,07:59,12:01,Faceoff,n/a,-69.0,22.0,Nick Foligno,Winner,Columbus Blue Jackets,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:44:05Z,3,08:07,11:53,Faceoff,n/a,-69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:44:20Z,3,08:11,11:49,Shot,Wrist Shot,-62.0,-20.0,Victor Hedman,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:44:29Z,3,08:20,11:40,Shot,Wrist Shot,-42.0,8.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:44:37Z,3,08:28,11:32,Shot,Wrist Shot,-55.0,37.0,Brayden Point,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:44:54Z,3,08:46,11:14,Takeaway,n/a,21.0,-38.0,Oliver Bjorkstrand,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:45:37Z,3,09:28,10:32,Hit,n/a,-98.0,-8.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Scott Harrington,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:46:07Z,3,09:58,10:02,Giveaway,n/a,54.0,39.0,Yanni Gourde,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:46:08Z,3,09:59,10:01,Shot,Wrist Shot,62.0,5.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:46:40Z,3,10:32,09:28,Hit,n/a,4.0,-39.0,Carter Verhaeghe,Hitter,Tampa Bay Lightning,Eric Robinson,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:47:09Z,3,11:00,09:00,Shot,Wrist Shot,-37.0,-24.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:49:21Z,3,11:01,08:59,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:49:41Z,3,11:20,08:40,Shot,Backhand,71.0,-4.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:50:10Z,3,11:25,08:35,Faceoff,n/a,69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:50:57Z,3,11:59,08:01,Shot,Wrist Shot,62.0,-5.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:51:02Z,3,12:06,07:54,Giveaway,n/a,34.0,-37.0,Oliver Bjorkstrand,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:51:15Z,3,12:20,07:40,Blocked Shot,n/a,68.0,-4.0,Luke Schenn,Blocker,Tampa Bay Lightning,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:51:27Z,3,12:27,07:33,Shot,Wrist Shot,45.0,-10.0,Zach Werenski,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:51:53Z,3,12:27,07:33,Faceoff,n/a,69.0,-22.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:52:01Z,3,12:29,07:31,Shot,Wrist Shot,54.0,-11.0,Sonny Milano,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:52:08Z,3,12:30,07:30,Faceoff,n/a,69.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:52:36Z,3,12:37,07:23,Faceoff,n/a,-20.0,-22.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:52:50Z,3,12:48,07:12,Hit,n/a,-96.0,-24.0,Mathieu Joseph,Hitter,Tampa Bay Lightning,Scott Harrington,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:53:02Z,3,13:00,07:00,Hit,n/a,-63.0,40.0,Sonny Milano,Hitter,Columbus Blue Jackets,Cedric Paquette,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:53:03Z,3,13:02,06:58,Blocked Shot,n/a,-71.0,12.0,Scott Harrington,Blocker,Columbus Blue Jackets,Luke Schenn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:53:52Z,3,13:50,06:10,Hit,n/a,-29.0,41.0,Nathan Gerbe,Hitter,Columbus Blue Jackets,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:56:27Z,3,14:11,05:49,Faceoff,n/a,-20.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:56:40Z,3,14:27,05:33,Shot,Slap Shot,39.0,34.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:56:44Z,3,14:31,05:29,Missed Shot,n/a,57.0,-11.0,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:57:21Z,3,15:08,04:52,Shot,Wrist Shot,-77.0,-13.0,Anthony Cirelli,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:58:09Z,3,15:56,04:04,Giveaway,n/a,-75.0,39.0,David Savard,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:58:28Z,3,16:15,03:45,Shot,Backhand,-78.0,-3.0,Brayden Point,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:58:51Z,3,16:35,03:25,Hit,n/a,98.0,20.0,Nathan Gerbe,Hitter,Columbus Blue Jackets,Luke Schenn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:58:54Z,3,16:40,03:20,Shot,Snap Shot,-6.0,36.0,Scott Harrington,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:59:02Z,3,16:49,03:11,Shot,Slap Shot,76.0,-30.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:59:32Z,3,16:50,03:10,Faceoff,n/a,69.0,-22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T02:59:42Z,3,16:59,03:01,Shot,Wrist Shot,-48.0,29.0,Yanni Gourde,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:00:11Z,3,17:28,02:32,Giveaway,n/a,96.0,-12.0,Mikhail Sergachev,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:01:09Z,3,18:25,01:35,Blocked Shot,n/a,-75.0,12.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Tyler Johnson,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:01:11Z,3,18:28,01:32,Giveaway,n/a,-74.0,11.0,Nick Foligno,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:01:47Z,3,18:31,01:29,Missed Shot,n/a,-44.0,20.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:02:05Z,3,18:32,01:28,Faceoff,n/a,-69.0,-22.0,Nick Foligno,Winner,Columbus Blue Jackets,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:02:20Z,3,18:42,01:18,Shot,Snap Shot,-52.0,30.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:02:44Z,3,18:42,01:18,Faceoff,n/a,-69.0,22.0,Nick Foligno,Winner,Columbus Blue Jackets,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:03:11Z,3,19:02,00:58,Shot,Wrist Shot,31.0,12.0,Zach Werenski,Shooter,Columbus Blue Jackets,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:03:58Z,3,19:14,00:46,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:04:33Z,3,19:29,00:31,Giveaway,n/a,94.0,-27.0,Boone Jenner,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:04:51Z,3,19:47,00:13,Hit,n/a,-27.0,38.0,Gustav Nyquist,Hitter,Columbus Blue Jackets,Anthony Cirelli,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:07:30Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Nick Foligno,Winner,Columbus Blue Jackets,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:08:21Z,4,00:29,04:31,Takeaway,n/a,98.0,2.0,Brayden Point,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-11T03:08:25Z,4,00:31,04:29,Goal,Snap Shot,83.0,-16.0,Nikita Kucherov,Scorer,Tampa Bay Lightning,Victor Hedman,Assist,Tampa Bay Lightning,Brayden Point,Assist,Tampa Bay Lightning,Elvis Merzlikins,Goalie,Columbus Blue Jackets

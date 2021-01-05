@@ -1,0 +1,249 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-03-01T01:08:03Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:09:29Z,1,00:10,19:50,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:09:41Z,1,00:16,19:44,Giveaway,n/a,-52.0,36.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:09:46Z,1,00:21,19:39,Takeaway,n/a,-40.0,-36.0,Clayton Keller,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:10:00Z,1,00:33,19:27,Missed Shot,n/a,87.0,-10.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:10:26Z,1,00:37,19:23,Faceoff,n/a,-20.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:10:36Z,1,00:45,19:15,Giveaway,n/a,-85.0,31.0,Jordan Oesterle,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:11:32Z,1,01:24,18:36,Faceoff,n/a,0.0,0.0,Curtis Lazar,Winner,Buffalo Sabres,Barrett Hayton,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:11:42Z,1,01:29,18:31,Hit,n/a,-26.0,23.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Wayne Simmonds,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:01Z,1,01:49,18:11,Shot,Wrist Shot,-75.0,4.0,Wayne Simmonds,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:09Z,1,01:56,18:04,Hit,n/a,-85.0,-36.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Jeff Skinner,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:28Z,1,02:15,17:45,Giveaway,n/a,39.0,-24.0,Colin Miller,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:48Z,1,02:35,17:25,Missed Shot,n/a,76.0,5.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:54Z,1,02:41,17:19,Missed Shot,n/a,36.0,33.0,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:13:20Z,1,03:07,16:53,Shot,Wrist Shot,-39.0,-24.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:13:42Z,1,03:29,16:31,Shot,Wrist Shot,-52.0,23.0,Victor Olofsson,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:13:45Z,1,03:32,16:28,Hit,n/a,-18.0,-41.0,Derek Stepan,Hitter,Arizona Coyotes,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:14:25Z,1,04:05,15:55,Penalty,Hi-sticking,52.0,17.0,Rasmus Dahlin,PenaltyOn,Buffalo Sabres,Clayton Keller,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:15:07Z,1,04:05,15:55,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:15:19Z,1,04:20,15:40,Blocked Shot,n/a,67.0,-3.0,Zemgus Girgensons,Blocker,Buffalo Sabres,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:15:21Z,1,04:22,15:38,Shot,Wrist Shot,-80.0,-3.0,Curtis Lazar,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:16:05Z,1,04:50,15:10,Blocked Shot,n/a,61.0,-12.0,Jake McCabe,Blocker,Buffalo Sabres,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:16:23Z,1,04:51,15:09,Faceoff,n/a,69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:17:10Z,1,05:41,14:19,Shot,Wrist Shot,71.0,10.0,Phil Kessel,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:17:46Z,1,06:17,13:43,Giveaway,n/a,51.0,40.0,Phil Kessel,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:17:52Z,1,06:23,13:37,Hit,n/a,-87.0,31.0,Jordan Oesterle,Hitter,Arizona Coyotes,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:18:08Z,1,06:39,13:21,Giveaway,n/a,60.0,39.0,Colin Miller,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:18:16Z,1,06:47,13:13,Blocked Shot,n/a,86.0,-15.0,Colin Miller,Blocker,Buffalo Sabres,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:18:20Z,1,06:51,13:09,Shot,Wrist Shot,77.0,13.0,Taylor Hall,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:18:47Z,1,07:18,12:42,Giveaway,n/a,39.0,-24.0,Nick Schmaltz,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:18:56Z,1,07:27,12:33,Giveaway,n/a,-50.0,-38.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:19:09Z,1,07:40,12:20,Hit,n/a,97.0,-4.0,Jake McCabe,Hitter,Buffalo Sabres,Carl Soderberg,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:19:10Z,1,07:41,12:19,Shot,Wrist Shot,85.0,-27.0,Brad Richardson,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:19:33Z,1,07:59,12:01,Goal,Wrist Shot,-82.0,-6.0,Marcus Johansson,Scorer,Buffalo Sabres,Dominik Kahun,Assist,Buffalo Sabres,Jake McCabe,Assist,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes
+2020-03-01T01:20:21Z,1,07:59,12:01,Faceoff,n/a,0.0,0.0,Curtis Lazar,Winner,Buffalo Sabres,Barrett Hayton,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:20:32Z,1,08:11,11:49,Takeaway,n/a,-97.0,15.0,Jeff Skinner,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:20:45Z,1,08:24,11:36,Giveaway,n/a,46.0,22.0,Conor Garland,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:20:53Z,1,08:32,11:28,Missed Shot,n/a,-55.0,-28.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:20:59Z,1,08:38,11:22,Hit,n/a,3.0,39.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Barrett Hayton,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:21:09Z,1,08:43,11:17,Goal,Tip-In,-81.0,1.0,Jeff Skinner,Scorer,Buffalo Sabres,Wayne Simmonds,Assist,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a
+2020-03-01T01:21:51Z,1,08:43,11:17,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:22:12Z,1,08:59,11:01,Hit,n/a,98.0,3.0,Lawson Crouse,Hitter,Arizona Coyotes,Rasmus Dahlin,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:22:31Z,1,09:28,10:32,Hit,n/a,-97.0,-8.0,Niklas Hjalmarsson,Hitter,Arizona Coyotes,Kyle Okposo,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:22:36Z,1,09:33,10:27,Hit,n/a,-74.0,42.0,Lawson Crouse,Hitter,Arizona Coyotes,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:23:08Z,1,09:40,10:20,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:23:47Z,1,10:22,09:38,Blocked Shot,n/a,65.0,-20.0,Jake McCabe,Blocker,Buffalo Sabres,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:24:12Z,1,10:23,09:37,Penalty,Tripping,37.0,18.0,Victor Olofsson,PenaltyOn,Buffalo Sabres,Oliver Ekman-Larsson,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:26:05Z,1,10:23,09:37,Faceoff,n/a,69.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:26:37Z,1,10:55,09:05,Hit,n/a,42.0,-39.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:27:43Z,1,12:01,07:59,Shot,Deflected,81.0,-4.0,Clayton Keller,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:28:16Z,1,12:33,07:27,Shot,Tip-In,76.0,3.0,Carl Soderberg,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:30:51Z,1,12:53,07:07,Faceoff,n/a,69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:31:31Z,1,13:13,06:47,Penalty,Slashing,-83.0,12.0,Niklas Hjalmarsson,PenaltyOn,Arizona Coyotes,Jimmy Vesey,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:32:16Z,1,13:13,06:47,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:32:35Z,1,13:36,06:24,Shot,Snap Shot,-76.0,26.0,Victor Olofsson,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:32:56Z,1,13:57,06:03,Missed Shot,n/a,-76.0,2.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:33:04Z,1,14:05,05:55,Missed Shot,n/a,-79.0,25.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:33:13Z,1,14:14,05:46,Shot,Snap Shot,76.0,-2.0,Lawson Crouse,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:34:30Z,1,14:57,05:03,Faceoff,n/a,-20.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:34:31Z,1,15:02,04:58,Shot,Wrist Shot,-54.0,-20.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:34:55Z,1,15:25,04:35,Shot,Deflected,-81.0,6.0,Marcus Johansson,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:37:15Z,1,15:26,04:34,Faceoff,n/a,-69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:37:21Z,1,15:40,04:20,Giveaway,n/a,-78.0,35.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:37:58Z,1,16:17,03:43,Shot,Slap Shot,58.0,21.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:38:10Z,1,16:30,03:30,Shot,Wrist Shot,43.0,-36.0,Jason Demers,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:38:26Z,1,16:46,03:14,Takeaway,n/a,3.0,-24.0,Jason Demers,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:38:44Z,1,16:55,03:05,Faceoff,n/a,69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:39:09Z,1,17:08,02:52,Hit,n/a,94.0,25.0,Kyle Okposo,Hitter,Buffalo Sabres,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:39:46Z,1,17:34,02:26,Giveaway,n/a,97.0,-2.0,Rasmus Dahlin,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:39:50Z,1,17:50,02:10,Hit,n/a,98.0,-16.0,Lawson Crouse,Hitter,Arizona Coyotes,Rasmus Dahlin,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:40:08Z,1,18:07,01:53,Hit,n/a,78.0,-40.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:40:28Z,1,18:28,01:32,Hit,n/a,0.0,-40.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:40:29Z,1,18:28,01:32,Blocked Shot,n/a,65.0,-1.0,Sam Reinhart,Blocker,Buffalo Sabres,Lawson Crouse,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:40:52Z,1,18:51,01:09,Missed Shot,n/a,71.0,-3.0,Brad Richardson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:41:01Z,1,19:00,01:00,Blocked Shot,n/a,48.0,-11.0,Curtis Lazar,Blocker,Buffalo Sabres,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:41:12Z,1,19:11,00:49,Hit,n/a,-77.0,39.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Curtis Lazar,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:41:43Z,1,19:30,00:30,Faceoff,n/a,20.0,22.0,Barrett Hayton,Winner,Arizona Coyotes,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:01:05Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:01:04Z,2,00:06,19:54,Hit,n/a,1.0,40.0,Vinnie Hinostroza,Hitter,Arizona Coyotes,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:01:11Z,2,00:13,19:47,Giveaway,n/a,89.0,27.0,Niklas Hjalmarsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:01:16Z,2,00:18,19:42,Blocked Shot,n/a,50.0,-22.0,Derek Stepan,Blocker,Arizona Coyotes,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:01:36Z,2,00:37,19:23,Takeaway,n/a,45.0,39.0,Niklas Hjalmarsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:01:58Z,2,01:00,19:00,Missed Shot,n/a,64.0,-6.0,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:02:23Z,2,01:25,18:35,Hit,n/a,99.0,16.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:02:31Z,2,01:33,18:27,Shot,Wrist Shot,55.0,-18.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:02:52Z,2,01:54,18:06,Hit,n/a,42.0,-40.0,Wayne Simmonds,Hitter,Buffalo Sabres,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:02:59Z,2,02:01,17:59,Missed Shot,n/a,-82.0,11.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:03:11Z,2,02:13,17:47,Missed Shot,n/a,-36.0,-22.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:03:24Z,2,02:20,17:40,Goal,Wrist Shot,-80.0,2.0,Jordan Oesterle,Scorer,Arizona Coyotes,Clayton Keller,Assist,Arizona Coyotes,Oliver Ekman-Larsson,Assist,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres
+2020-03-01T02:04:08Z,2,02:20,17:40,Faceoff,n/a,0.0,0.0,Marcus Johansson,Winner,Buffalo Sabres,Conor Garland,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:04:22Z,2,02:39,17:21,Blocked Shot,n/a,-53.0,19.0,Jimmy Vesey,Blocker,Buffalo Sabres,Jason Demers,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:04:48Z,2,03:05,16:55,Shot,Wrist Shot,-83.0,7.0,Jordan Oesterle,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:05:10Z,2,03:12,16:48,Blocked Shot,n/a,-40.0,3.0,Jimmy Vesey,Blocker,Buffalo Sabres,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:05:27Z,2,03:13,16:47,Goal,Wrist Shot,-79.0,0.0,Phil Kessel,Scorer,Arizona Coyotes,Alex Goligoski,Assist,Arizona Coyotes,Jordan Oesterle,Assist,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres
+2020-03-01T02:05:46Z,2,03:13,16:47,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:05:56Z,2,03:25,16:35,Hit,n/a,-9.0,-41.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Carl Soderberg,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:05:56Z,2,03:27,16:33,Hit,n/a,-26.0,41.0,Nick Schmaltz,Hitter,Arizona Coyotes,Victor Olofsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:06:22Z,2,03:53,16:07,Missed Shot,n/a,36.0,25.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:06:39Z,2,04:03,15:57,Shot,Wrist Shot,85.0,23.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:07:04Z,2,04:04,15:56,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Zemgus Girgensons,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:07:19Z,2,04:12,15:48,Hit,n/a,57.0,-40.0,Kyle Okposo,Hitter,Buffalo Sabres,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:07:31Z,2,04:14,15:46,Giveaway,n/a,35.0,35.0,Ilya Lyubushkin,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:07:39Z,2,04:20,15:40,Hit,n/a,49.0,-41.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:07:46Z,2,04:23,15:37,Hit,n/a,68.0,-41.0,Kyle Okposo,Hitter,Buffalo Sabres,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:07:54Z,2,04:47,15:13,Missed Shot,n/a,-77.0,-1.0,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:08:01Z,2,04:55,15:05,Shot,Slap Shot,-46.0,1.0,Clayton Keller,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:08:06Z,2,05:00,15:00,Hit,n/a,-1.0,-40.0,Kyle Okposo,Hitter,Buffalo Sabres,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:08:14Z,2,05:05,14:55,Shot,Slap Shot,44.0,-4.0,Kyle Okposo,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:08:49Z,2,05:06,14:54,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:09:02Z,2,05:19,14:41,Shot,Wrist Shot,-22.0,-27.0,Derek Stepan,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:09:14Z,2,05:31,14:29,Shot,Wrap-around,-83.0,7.0,Lawson Crouse,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:09:31Z,2,05:48,14:12,Hit,n/a,95.0,-24.0,Alex Goligoski,Hitter,Arizona Coyotes,Wayne Simmonds,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:10:01Z,2,06:18,13:42,Hit,n/a,98.0,-18.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Marcus Johansson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:11:03Z,2,07:20,12:40,Hit,n/a,-11.0,-28.0,Colin Miller,Hitter,Buffalo Sabres,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:11:09Z,2,07:26,12:34,Giveaway,n/a,-95.0,0.0,Jonas Johansson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:11:16Z,2,07:29,12:31,Missed Shot,n/a,-67.0,1.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:11:26Z,2,07:30,12:30,Goal,Wrist Shot,-81.0,-7.0,Clayton Keller,Scorer,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:12:14Z,2,07:30,12:30,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:12:06Z,2,07:40,12:20,Hit,n/a,97.0,12.0,Jordan Oesterle,Hitter,Arizona Coyotes,Zemgus Girgensons,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:12:18Z,2,07:52,12:08,Hit,n/a,51.0,40.0,Jordan Oesterle,Hitter,Arizona Coyotes,Zemgus Girgensons,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:12:41Z,2,08:15,11:45,Shot,Slap Shot,37.0,-9.0,Henri Jokiharju,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:13:04Z,2,08:33,11:27,Blocked Shot,n/a,48.0,-1.0,Clayton Keller,Blocker,Arizona Coyotes,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:13:01Z,2,08:35,11:25,Hit,n/a,41.0,-39.0,Kyle Okposo,Hitter,Buffalo Sabres,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:13:30Z,2,09:04,10:56,Missed Shot,n/a,-38.0,-11.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:14:13Z,2,09:19,10:41,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:14:43Z,2,09:43,10:17,Shot,Wrist Shot,38.0,-34.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:14:55Z,2,09:53,10:07,Shot,Wrist Shot,-68.0,14.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:14:57Z,2,09:54,10:06,Shot,Wrist Shot,-78.0,3.0,Ilya Lyubushkin,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:17:34Z,2,09:55,10:05,Faceoff,n/a,-69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:17:35Z,2,10:01,09:59,Faceoff,n/a,-20.0,-22.0,Kyle Okposo,Winner,Buffalo Sabres,Vinnie Hinostroza,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:18:16Z,2,10:13,09:47,Blocked Shot,n/a,-82.0,8.0,Brandon Montour,Blocker,Buffalo Sabres,Lawson Crouse,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:18:31Z,2,10:32,09:28,Blocked Shot,n/a,62.0,0.0,Jordan Oesterle,Blocker,Arizona Coyotes,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:19:06Z,2,11:09,08:51,Hit,n/a,56.0,-41.0,Marcus Johansson,Hitter,Buffalo Sabres,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:19:08Z,2,11:11,08:49,Shot,Wrist Shot,51.0,-10.0,Marcus Johansson,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:19:08Z,2,11:23,08:37,Blocked Shot,n/a,74.0,-3.0,Ilya Lyubushkin,Blocker,Arizona Coyotes,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:19:41Z,2,11:43,08:17,Shot,Wrist Shot,19.0,37.0,Dominik Kahun,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:22:28Z,2,11:48,08:12,Faceoff,n/a,-20.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Taylor Hall,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:22:29Z,2,11:59,08:01,Shot,Wrist Shot,-54.0,-2.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:22:45Z,2,12:15,07:45,Takeaway,n/a,87.0,29.0,Niklas Hjalmarsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:23:03Z,2,12:33,07:27,Hit,n/a,-61.0,33.0,Brad Richardson,Hitter,Arizona Coyotes,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:23:14Z,2,12:44,07:16,Hit,n/a,-90.0,-33.0,Colin Miller,Hitter,Buffalo Sabres,Nick Schmaltz,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:23:32Z,2,13:02,06:58,Shot,Wrist Shot,12.0,-27.0,Sam Reinhart,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:23:57Z,2,13:27,06:33,Shot,Slap Shot,32.0,-21.0,Colin Miller,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:24:25Z,2,13:55,06:05,Missed Shot,n/a,-48.0,8.0,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:24:34Z,2,14:04,05:56,Blocked Shot,n/a,-78.0,-9.0,Colin Miller,Blocker,Buffalo Sabres,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:24:43Z,2,14:13,05:47,Missed Shot,n/a,53.0,5.0,Dominik Kahun,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:25:16Z,2,14:46,05:14,Shot,Wrist Shot,43.0,-30.0,Jake McCabe,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:27:38Z,2,14:47,05:13,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:27:55Z,2,14:53,05:07,Missed Shot,n/a,35.0,3.0,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:28:01Z,2,14:59,05:01,Missed Shot,n/a,37.0,6.0,Jake McCabe,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:28:09Z,2,15:07,04:53,Hit,n/a,55.0,-40.0,Jack Eichel,Hitter,Buffalo Sabres,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:28:26Z,2,15:24,04:36,Shot,Slap Shot,-50.0,-28.0,Niklas Hjalmarsson,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:28:39Z,2,15:28,04:32,Blocked Shot,n/a,-83.0,11.0,Henri Jokiharju,Blocker,Buffalo Sabres,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:29:35Z,2,16:31,03:29,Takeaway,n/a,-95.0,9.0,Rasmus Dahlin,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:29:35Z,2,16:33,03:27,Takeaway,n/a,-94.0,13.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:29:48Z,2,16:44,03:16,Blocked Shot,n/a,-54.0,-5.0,Rasmus Dahlin,Blocker,Buffalo Sabres,Lawson Crouse,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:29:56Z,2,16:45,03:15,Shot,Snap Shot,-67.0,0.0,Lawson Crouse,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:30:35Z,2,16:46,03:14,Faceoff,n/a,-69.0,-22.0,Barrett Hayton,Winner,Arizona Coyotes,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:31:28Z,2,17:49,02:11,Shot,Wrist Shot,-78.0,-13.0,Carl Soderberg,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:31:38Z,2,17:58,02:02,Missed Shot,n/a,37.0,-6.0,Dominik Kahun,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:32:00Z,2,18:21,01:39,Hit,n/a,-37.0,-40.0,Henri Jokiharju,Hitter,Buffalo Sabres,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:33:13Z,2,18:56,01:04,Faceoff,n/a,69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:33:19Z,2,19:00,01:00,Shot,Tip-In,78.0,1.0,Wayne Simmonds,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:33:29Z,2,19:01,00:59,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:33:53Z,2,19:18,00:42,Missed Shot,n/a,-19.0,-8.0,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:53:09Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:53:16Z,3,00:09,19:51,Hit,n/a,-99.0,0.0,Jack Eichel,Hitter,Buffalo Sabres,Derek Stepan,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:53:31Z,3,00:15,19:45,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Jeff Skinner,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:53:53Z,3,00:29,19:31,Missed Shot,n/a,-45.0,5.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:54:02Z,3,00:38,19:22,Missed Shot,n/a,-40.0,-11.0,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:54:13Z,3,00:44,19:16,Shot,Tip-In,-56.0,-16.0,Jeff Skinner,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:54:37Z,3,00:45,19:15,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:06:11Z,3,01:19,18:41,Blocked Shot,n/a,-55.0,37.0,Oliver Ekman-Larsson,Blocker,Arizona Coyotes,Zemgus Girgensons,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:55:57Z,3,02:04,17:56,Giveaway,n/a,32.0,33.0,Jordan Oesterle,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:56:34Z,3,02:30,17:30,Hit,n/a,92.0,-31.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Barrett Hayton,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:05:39Z,3,02:49,17:11,Hit,n/a,59.0,40.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Nick Schmaltz,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:56:51Z,3,02:58,17:02,Takeaway,n/a,-30.0,6.0,Brad Richardson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:57:01Z,3,03:08,16:52,Hit,n/a,90.0,34.0,Jake McCabe,Hitter,Buffalo Sabres,Carl Soderberg,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:57:08Z,3,03:14,16:46,Blocked Shot,n/a,73.0,8.0,Jimmy Vesey,Blocker,Buffalo Sabres,Brad Richardson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:57:50Z,3,03:57,16:03,Missed Shot,n/a,-45.0,-6.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:58:00Z,3,04:06,15:54,Hit,n/a,-88.0,33.0,Clayton Keller,Hitter,Arizona Coyotes,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:58:09Z,3,04:16,15:44,Shot,Wrist Shot,50.0,13.0,Derek Stepan,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:58:15Z,3,04:22,15:38,Takeaway,n/a,3.0,25.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:06:45Z,3,04:24,15:36,Takeaway,n/a,-92.0,29.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:58:40Z,3,04:47,15:13,Hit,n/a,1.0,25.0,Colin Miller,Hitter,Buffalo Sabres,Lawson Crouse,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:02:25Z,3,04:53,15:07,Takeaway,n/a,39.0,37.0,Vinnie Hinostroza,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:58:48Z,3,04:54,15:06,Hit,n/a,51.0,38.0,Lawson Crouse,Hitter,Arizona Coyotes,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:58:53Z,3,05:00,15:00,Hit,n/a,96.0,-15.0,Alex Goligoski,Hitter,Arizona Coyotes,Kyle Okposo,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:58:59Z,3,05:05,14:55,Hit,n/a,97.0,-11.0,Lawson Crouse,Hitter,Arizona Coyotes,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:59:01Z,3,05:06,14:54,Shot,Wrist Shot,69.0,39.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:59:49Z,3,05:07,14:53,Faceoff,n/a,69.0,22.0,Barrett Hayton,Winner,Arizona Coyotes,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:59:59Z,3,05:15,14:45,Hit,n/a,98.0,0.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Barrett Hayton,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:00:17Z,3,05:33,14:27,Missed Shot,n/a,85.0,26.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:00:33Z,3,05:48,14:12,Shot,Slap Shot,-37.0,0.0,Henri Jokiharju,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:01:07Z,3,05:49,14:11,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:01:43Z,3,05:57,14:03,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:01:52Z,3,06:03,13:57,Missed Shot,n/a,-45.0,20.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:04:27Z,3,06:27,13:33,Faceoff,n/a,-20.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:04:53Z,3,06:51,13:09,Giveaway,n/a,37.0,-32.0,Jake McCabe,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:05:18Z,3,06:52,13:08,Faceoff,n/a,20.0,-22.0,Marcus Johansson,Winner,Buffalo Sabres,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:05:51Z,3,06:59,13:01,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:06:30Z,3,07:31,12:29,Missed Shot,n/a,85.0,23.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:06:45Z,3,07:46,12:14,Missed Shot,n/a,39.0,-25.0,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:06:50Z,3,07:51,12:09,Hit,n/a,93.0,26.0,Christian Dvorak,Hitter,Arizona Coyotes,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:07:30Z,3,08:31,11:29,Shot,Wrist Shot,72.0,-2.0,Derek Stepan,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:08:04Z,3,08:33,11:27,Faceoff,n/a,69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Barrett Hayton,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:08:41Z,3,09:17,10:43,Takeaway,n/a,-84.0,35.0,Conor Garland,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:08:44Z,3,09:19,10:41,Shot,Wrist Shot,-33.0,31.0,Conor Garland,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:08:56Z,3,09:31,10:29,Blocked Shot,n/a,-79.0,-10.0,Ilya Lyubushkin,Blocker,Arizona Coyotes,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:09:01Z,3,09:36,10:24,Hit,n/a,-78.0,39.0,Jeff Skinner,Hitter,Buffalo Sabres,Brad Richardson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:09:22Z,3,09:58,10:02,Hit,n/a,5.0,-42.0,Kyle Okposo,Hitter,Buffalo Sabres,Brad Richardson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:10:04Z,3,10:39,09:21,Takeaway,n/a,38.0,-26.0,Clayton Keller,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:10:14Z,3,10:50,09:10,Shot,Tip-In,81.0,-3.0,Clayton Keller,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:10:18Z,3,10:54,09:06,Hit,n/a,94.0,-28.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:10:21Z,3,10:57,09:03,Blocked Shot,n/a,77.0,2.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:11:05Z,3,11:41,08:19,Hit,n/a,98.0,-8.0,Lawson Crouse,Hitter,Arizona Coyotes,Brandon Montour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:12:19Z,3,12:25,07:35,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Barrett Hayton,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:13:35Z,3,13:38,06:22,Giveaway,n/a,94.0,7.0,Jonas Johansson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:13:42Z,3,13:40,06:20,Giveaway,n/a,85.0,-34.0,Christian Dvorak,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:13:49Z,3,13:53,06:07,Hit,n/a,-13.0,-36.0,Jason Demers,Hitter,Arizona Coyotes,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:14:01Z,3,13:59,06:01,Goal,Wrist Shot,74.0,14.0,Clayton Keller,Scorer,Arizona Coyotes,Jason Demers,Assist,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a
+2020-03-01T03:14:57Z,3,13:59,06:01,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:15:03Z,3,14:19,05:41,Hit,n/a,-41.0,-39.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Vinnie Hinostroza,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:15:13Z,3,14:28,05:32,Shot,Wrist Shot,63.0,-12.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:15:24Z,3,14:40,05:20,Hit,n/a,59.0,40.0,Wayne Simmonds,Hitter,Buffalo Sabres,Vinnie Hinostroza,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:15:30Z,3,14:46,05:14,Shot,Wrist Shot,84.0,11.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:18:02Z,3,14:54,05:06,Faceoff,n/a,-20.0,-22.0,Marcus Johansson,Winner,Buffalo Sabres,Barrett Hayton,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:19:12Z,3,15:37,04:23,Faceoff,n/a,-69.0,-22.0,Jeff Skinner,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:19:54Z,3,16:25,03:35,Shot,Slap Shot,52.0,-18.0,Taylor Hall,Shooter,Arizona Coyotes,Jonas Johansson,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:19:57Z,3,16:28,03:32,Hit,n/a,98.0,-18.0,Jack Eichel,Hitter,Buffalo Sabres,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:20:26Z,3,16:57,03:03,Blocked Shot,n/a,-57.0,-9.0,Taylor Hall,Blocker,Arizona Coyotes,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:20:33Z,3,17:04,02:56,Hit,n/a,-84.0,-37.0,Jordan Oesterle,Hitter,Arizona Coyotes,Brandon Montour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:21:18Z,3,17:45,02:15,Blocked Shot,n/a,-78.0,7.0,Derek Stepan,Blocker,Arizona Coyotes,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:22:24Z,3,17:46,02:14,Penalty,Hooking,-75.0,-31.0,Niklas Hjalmarsson,PenaltyOn,Arizona Coyotes,Sam Reinhart,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:23:16Z,3,17:46,02:14,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:24:16Z,3,18:21,01:39,Blocked Shot,n/a,-13.0,1.0,Rasmus Dahlin,Blocker,Buffalo Sabres,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:26:26Z,3,18:43,01:17,Faceoff,n/a,20.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:26:46Z,3,19:04,00:56,Blocked Shot,n/a,-71.0,-11.0,Alex Goligoski,Blocker,Arizona Coyotes,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:27:01Z,3,19:05,00:55,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:27:15Z,3,19:15,00:45,Shot,Slap Shot,-53.0,33.0,Marcus Johansson,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:27:19Z,3,19:18,00:42,Shot,Slap Shot,-47.0,-27.0,Jack Eichel,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:27:37Z,3,19:19,00:41,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:29:10Z,3,19:33,00:27,Shot,Wrist Shot,-67.0,23.0,Jeff Skinner,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:27:59Z,3,19:34,00:26,Shot,Wrist Shot,-78.0,1.0,Wayne Simmonds,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:28:00Z,3,19:35,00:25,Shot,Wrist Shot,-80.0,4.0,Wayne Simmonds,Shooter,Buffalo Sabres,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:28:12Z,3,19:40,00:20,Goal,Wrist Shot,-97.0,9.0,Oliver Ekman-Larsson,Scorer,Arizona Coyotes,Brad Richardson,Assist,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:28:51Z,3,19:40,00:20,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T03:29:10Z,3,19:59,00:01,Faceoff,n/a,-69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Jimmy Vesey,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a

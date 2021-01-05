@@ -1,0 +1,242 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-30T03:13:14Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:13:49Z,1,00:18,19:42,Missed Shot,n/a,43.0,14.0,Hampus Lindholm,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:14:02Z,1,00:30,19:30,Giveaway,n/a,-97.0,14.0,Hampus Lindholm,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:14:09Z,1,00:37,19:23,Shot,Wrist Shot,-67.0,13.0,Conor Garland,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:14:15Z,1,00:44,19:16,Giveaway,n/a,-47.0,-24.0,Christian Dvorak,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:14:16Z,1,00:44,19:16,Hit,n/a,-31.0,-39.0,Max Jones,Hitter,Anaheim Ducks,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:14:19Z,1,00:44,19:16,Missed Shot,n/a,45.0,-23.0,Ondrej Kase,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:14:31Z,1,00:59,19:01,Shot,Wrist Shot,-49.0,-7.0,Clayton Keller,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:14:56Z,1,01:24,18:36,Giveaway,n/a,30.0,30.0,Jakob Silfverberg,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:15:14Z,1,01:42,18:18,Shot,Backhand,79.0,5.0,Troy Terry,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:15:25Z,1,01:43,18:17,Faceoff,n/a,69.0,22.0,Nick Ritchie,Winner,Anaheim Ducks,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:16:07Z,1,02:04,17:56,Hit,n/a,32.0,-38.0,Michael Del Zotto,Hitter,Anaheim Ducks,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:16:25Z,1,02:12,17:48,Giveaway,n/a,-45.0,-39.0,Vinnie Hinostroza,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:16:31Z,1,02:27,17:33,Blocked Shot,n/a,67.0,-8.0,Oliver Ekman-Larsson,Blocker,Arizona Coyotes,Derek Grant,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:16:53Z,1,02:49,17:11,Shot,Wrist Shot,54.0,-16.0,Nicolas Deslauriers,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:16:57Z,1,02:50,17:10,Hit,n/a,46.0,40.0,Carter Rowney,Hitter,Anaheim Ducks,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:17:31Z,1,03:27,16:33,Shot,Slap Shot,-42.0,-33.0,Jakob Chychrun,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:17:38Z,1,03:34,16:26,Missed Shot,n/a,-77.0,-8.0,Christian Fischer,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:18:18Z,1,04:14,15:46,Shot,Wrist Shot,-82.0,-10.0,Jason Demers,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:18:56Z,1,04:52,15:08,Hit,n/a,88.0,-29.0,Rickard Rakell,Hitter,Anaheim Ducks,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:18:57Z,1,04:54,15:06,Missed Shot,n/a,86.0,-13.0,Rickard Rakell,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:19:05Z,1,05:02,14:58,Shot,Tip-In,78.0,4.0,Jakob Silfverberg,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:19:12Z,1,05:09,14:51,Blocked Shot,n/a,76.0,1.0,Nick Schmaltz,Blocker,Arizona Coyotes,Ryan Getzlaf,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:19:32Z,1,05:29,14:31,Giveaway,n/a,91.0,15.0,Jakob Chychrun,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:19:40Z,1,05:36,14:24,Giveaway,n/a,10.0,-38.0,Alex Goligoski,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:19:47Z,1,05:39,14:21,Goal,Tip-In,68.0,9.0,Adam Henrique,Scorer,Anaheim Ducks,Troy Terry,Assist,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a
+2020-01-30T03:20:36Z,1,05:39,14:21,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:21:01Z,1,06:12,13:48,Hit,n/a,-42.0,-39.0,Jason Demers,Hitter,Arizona Coyotes,Ondrej Kase,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:21:11Z,1,06:15,13:45,Hit,n/a,-66.0,-39.0,Carter Rowney,Hitter,Anaheim Ducks,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:21:20Z,1,06:31,13:29,Giveaway,n/a,-37.0,14.0,Hampus Lindholm,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:21:24Z,1,06:34,13:26,Hit,n/a,-82.0,-35.0,Carter Rowney,Hitter,Anaheim Ducks,Derek Stepan,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:21:27Z,1,06:35,13:25,Blocked Shot,n/a,-50.0,-12.0,Nicolas Deslauriers,Blocker,Anaheim Ducks,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:23:53Z,1,06:36,13:24,Faceoff,n/a,-69.0,-22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:24:07Z,1,07:00,13:00,Giveaway,n/a,75.0,-36.0,Ryan Getzlaf,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:24:18Z,1,07:18,12:42,Goal,Wrist Shot,-68.0,0.0,Vinnie Hinostroza,Scorer,Arizona Coyotes,Lawson Crouse,Assist,Arizona Coyotes,Nick Schmaltz,Assist,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks
+2020-01-30T03:24:57Z,1,07:18,12:42,Faceoff,n/a,0.0,0.0,Nick Schmaltz,Winner,Arizona Coyotes,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:25:56Z,1,08:00,12:00,Hit,n/a,-38.0,-39.0,Troy Terry,Hitter,Anaheim Ducks,Carl Soderberg,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:25:37Z,1,08:01,11:59,Hit,n/a,-97.0,3.0,Christian Fischer,Hitter,Arizona Coyotes,Cam Fowler,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:26:14Z,1,08:36,11:24,Shot,Wrist Shot,68.0,1.0,Cam Fowler,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:26:49Z,1,08:37,11:23,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:26:48Z,1,08:45,11:15,Blocked Shot,n/a,71.0,-3.0,Jordan Oesterle,Blocker,Arizona Coyotes,Hampus Lindholm,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:26:49Z,1,08:46,11:14,Hit,n/a,83.0,-37.0,Jordan Oesterle,Hitter,Arizona Coyotes,Carter Rowney,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:26:54Z,1,08:51,11:09,Giveaway,n/a,52.0,-22.0,Taylor Hall,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:26:59Z,1,08:55,11:05,Missed Shot,n/a,78.0,2.0,Carter Rowney,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:27:11Z,1,09:08,10:52,Missed Shot,n/a,-79.0,-7.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:27:43Z,1,09:38,10:22,Shot,Slap Shot,-39.0,-25.0,Alex Goligoski,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:28:08Z,1,09:39,10:21,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:28:12Z,1,09:43,10:17,Missed Shot,n/a,-47.0,-21.0,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:28:54Z,1,10:25,09:35,Shot,Wrist Shot,85.0,17.0,Rickard Rakell,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:28:59Z,1,10:30,09:30,Giveaway,n/a,45.0,15.0,Vinnie Hinostroza,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:29:19Z,1,10:50,09:10,Missed Shot,n/a,-61.0,14.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:29:30Z,1,10:56,09:04,Penalty,Tripping,-96.0,-3.0,Michael Del Zotto,PenaltyOn,Anaheim Ducks,Vinnie Hinostroza,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:31:30Z,1,10:56,09:04,Faceoff,n/a,-69.0,-22.0,Derek Grant,Winner,Anaheim Ducks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:31:58Z,1,11:15,08:45,Shot,Backhand,78.0,-3.0,Derek Grant,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:32:57Z,1,12:19,07:41,Missed Shot,n/a,-79.0,20.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:33:06Z,1,12:28,07:32,Shot,Wrist Shot,75.0,3.0,Max Jones,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:33:22Z,1,12:44,07:16,Takeaway,n/a,1.0,33.0,Ondrej Kase,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:33:40Z,1,13:01,06:59,Shot,Slap Shot,42.0,-23.0,Jakob Silfverberg,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:33:56Z,1,13:02,06:58,Penalty,Tripping,-58.0,39.0,Carl Soderberg,PenaltyOn,Arizona Coyotes,Hampus Lindholm,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:34:25Z,1,13:02,06:58,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:34:25Z,1,13:10,06:50,Missed Shot,n/a,52.0,-29.0,Ryan Getzlaf,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:35:12Z,1,13:56,06:04,Shot,Wrist Shot,-78.0,12.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:35:20Z,1,13:59,06:01,Penalty,Holding,2.0,30.0,Jakob Silfverberg,PenaltyOn,Anaheim Ducks,Lawson Crouse,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:36:03Z,1,13:59,06:01,Faceoff,n/a,-69.0,-22.0,Clayton Keller,Winner,Arizona Coyotes,Ondrej Kase,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:36:30Z,1,14:06,05:54,Shot,Slap Shot,-42.0,22.0,Jakob Chychrun,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:36:46Z,1,14:22,05:38,Blocked Shot,n/a,69.0,3.0,Jordan Oesterle,Blocker,Arizona Coyotes,Sam Steel,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:36:53Z,1,14:30,05:30,Missed Shot,n/a,44.0,15.0,Erik Gudbranson,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:37:02Z,1,14:39,05:21,Shot,Snap Shot,-55.0,-23.0,Jakob Chychrun,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:37:27Z,1,15:03,04:57,Shot,Tip-In,-79.0,-6.0,Christian Dvorak,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:37:32Z,1,15:08,04:52,Shot,Wrist Shot,-68.0,-1.0,Phil Kessel,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:37:40Z,1,15:16,04:44,Missed Shot,n/a,-78.0,-1.0,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:37:59Z,1,15:35,04:25,Hit,n/a,-57.0,-39.0,Erik Gudbranson,Hitter,Anaheim Ducks,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:38:04Z,1,15:40,04:20,Takeaway,n/a,-96.0,3.0,Conor Garland,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:38:28Z,1,16:04,03:56,Hit,n/a,-77.0,-39.0,Michael Del Zotto,Hitter,Anaheim Ducks,Carl Soderberg,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:38:37Z,1,16:09,03:51,Goal,Tip-In,80.0,-1.0,Adam Henrique,Scorer,Anaheim Ducks,Ondrej Kase,Assist,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a
+2020-01-30T03:39:21Z,1,16:09,03:51,Faceoff,n/a,0.0,0.0,Nick Schmaltz,Winner,Arizona Coyotes,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:39:39Z,1,16:31,03:29,Shot,Wrist Shot,80.0,-6.0,Adam Henrique,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:39:42Z,1,16:32,03:28,Shot,Tip-In,82.0,5.0,Nick Ritchie,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:42:02Z,1,16:32,03:28,Faceoff,n/a,69.0,22.0,Adam Henrique,Winner,Anaheim Ducks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:42:46Z,1,16:54,03:06,Blocked Shot,n/a,-71.0,-2.0,Cam Fowler,Blocker,Anaheim Ducks,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:43:13Z,1,16:56,03:04,Faceoff,n/a,-69.0,-22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:43:06Z,1,17:13,02:47,Hit,n/a,97.0,2.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Jakob Silfverberg,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:44:04Z,1,17:46,02:14,Faceoff,n/a,-20.0,22.0,Derek Grant,Winner,Anaheim Ducks,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:44:14Z,1,17:58,02:02,Hit,n/a,87.0,-36.0,Alex Goligoski,Hitter,Arizona Coyotes,Carter Rowney,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:44:31Z,1,18:12,01:48,Missed Shot,n/a,40.0,0.0,Michael Del Zotto,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:45:00Z,1,18:13,01:47,Faceoff,n/a,69.0,-22.0,Lawson Crouse,Winner,Arizona Coyotes,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:45:54Z,1,18:39,01:21,Faceoff,n/a,69.0,22.0,Nick Schmaltz,Winner,Arizona Coyotes,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:46:24Z,1,18:59,01:01,Hit,n/a,27.0,38.0,Hampus Lindholm,Hitter,Anaheim Ducks,Vinnie Hinostroza,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:47:04Z,1,19:12,00:48,Hit,n/a,98.0,5.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Sam Steel,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:47:11Z,1,19:13,00:47,Penalty,Tripping,89.0,35.0,Max Jones,PenaltyOn,Anaheim Ducks,Jason Demers,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:47:28Z,1,19:13,00:47,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:47:26Z,1,19:22,00:38,Shot,Snap Shot,-56.0,19.0,Taylor Hall,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:47:40Z,1,19:23,00:37,Faceoff,n/a,-69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Carter Rowney,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T03:48:18Z,1,19:41,00:19,Hit,n/a,-26.0,-40.0,Josh Manson,Hitter,Anaheim Ducks,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:08:02Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Grant,Winner,Anaheim Ducks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:09:09Z,2,01:25,18:35,Shot,Slap Shot,73.0,-13.0,Nick Schmaltz,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:09:27Z,2,01:43,18:17,Takeaway,n/a,42.0,40.0,Nick Schmaltz,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:10:26Z,2,02:42,17:18,Shot,Wrist Shot,82.0,-4.0,Derek Stepan,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:10:45Z,2,03:01,16:59,Shot,Tip-In,-64.0,-1.0,Ryan Getzlaf,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:11:06Z,2,03:22,16:38,Shot,Snap Shot,-80.0,19.0,Rickard Rakell,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:11:36Z,2,03:51,16:09,Giveaway,n/a,47.0,-20.0,Josh Manson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:11:39Z,2,03:52,16:08,Shot,Snap Shot,47.0,-9.0,Clayton Keller,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:12:01Z,2,03:53,16:07,Faceoff,n/a,69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Max Jones,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:12:23Z,2,04:04,15:56,Giveaway,n/a,61.0,2.0,Max Jones,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:12:40Z,2,04:21,15:39,Giveaway,n/a,-89.0,31.0,Jakob Chychrun,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:13:36Z,2,05:17,14:43,Shot,Wrist Shot,-85.0,14.0,Nicolas Deslauriers,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:25:24Z,2,05:19,14:41,Missed Shot,n/a,-86.0,9.0,Nicolas Deslauriers,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:13:45Z,2,05:25,14:35,Goal,Slap Shot,-40.0,-15.0,Hampus Lindholm,Scorer,Anaheim Ducks,Derek Grant,Assist,Anaheim Ducks,Nicolas Deslauriers,Assist,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes
+2020-01-30T04:14:32Z,2,05:25,14:35,Faceoff,n/a,0.0,0.0,Adam Henrique,Winner,Anaheim Ducks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:14:36Z,2,05:34,14:26,Shot,Wrist Shot,-82.0,-20.0,Nick Ritchie,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:14:48Z,2,05:46,14:14,Shot,Wrist Shot,-81.0,11.0,Adam Henrique,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:14:52Z,2,05:51,14:09,Missed Shot,n/a,-79.0,1.0,Adam Henrique,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:15:31Z,2,05:57,14:03,Faceoff,n/a,-69.0,22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:15:39Z,2,06:08,13:52,Missed Shot,n/a,-36.0,24.0,Josh Manson,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:15:44Z,2,06:13,13:47,Giveaway,n/a,-60.0,-19.0,Ryan Getzlaf,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:18:32Z,2,06:14,13:46,Faceoff,n/a,20.0,-22.0,Adam Henrique,Winner,Anaheim Ducks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:18:29Z,2,06:51,13:09,Missed Shot,n/a,37.0,-34.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:18:39Z,2,06:56,13:04,Hit,n/a,59.0,-39.0,Alex Goligoski,Hitter,Arizona Coyotes,Rickard Rakell,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:18:37Z,2,06:59,13:01,Takeaway,n/a,67.0,-38.0,Ryan Getzlaf,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:18:45Z,2,07:06,12:54,Takeaway,n/a,-3.0,-8.0,Taylor Hall,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:18:50Z,2,07:11,12:49,Blocked Shot,n/a,-71.0,-1.0,Alex Goligoski,Blocker,Arizona Coyotes,Jakob Silfverberg,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:19:50Z,2,07:34,12:26,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:20:28Z,2,08:21,11:39,Giveaway,n/a,40.0,13.0,Phil Kessel,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:20:38Z,2,08:31,11:29,Missed Shot,n/a,-61.0,-11.0,Sam Steel,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:21:01Z,2,08:54,11:06,Takeaway,n/a,65.0,9.0,Jacob Larsson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:21:12Z,2,09:04,10:56,Blocked Shot,n/a,-78.0,15.0,Oliver Ekman-Larsson,Blocker,Arizona Coyotes,Carter Rowney,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:21:18Z,2,09:10,10:50,Giveaway,n/a,-59.0,7.0,Derek Grant,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:22:28Z,2,09:54,10:06,Faceoff,n/a,-69.0,22.0,Lawson Crouse,Winner,Arizona Coyotes,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:22:38Z,2,10:05,09:55,Hit,n/a,32.0,37.0,Vinnie Hinostroza,Hitter,Arizona Coyotes,Josh Manson,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:22:57Z,2,10:23,09:37,Missed Shot,n/a,-83.0,-6.0,Rickard Rakell,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:23:03Z,2,10:29,09:31,Blocked Shot,n/a,-76.0,12.0,Lawson Crouse,Blocker,Arizona Coyotes,Ryan Getzlaf,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:23:47Z,2,11:13,08:47,Giveaway,n/a,58.0,10.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:23:56Z,2,11:21,08:39,Shot,Wrist Shot,-77.0,9.0,Ondrej Kase,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:26:08Z,2,11:22,08:38,Faceoff,n/a,-69.0,22.0,Derek Grant,Winner,Anaheim Ducks,Christian Fischer,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:26:24Z,2,11:33,08:27,Shot,Slap Shot,62.0,15.0,Christian Fischer,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:26:32Z,2,11:36,08:24,Hit,n/a,97.0,16.0,Christian Fischer,Hitter,Arizona Coyotes,Nicolas Deslauriers,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:27:23Z,2,12:31,07:29,Giveaway,n/a,-93.0,23.0,Jakob Chychrun,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:27:29Z,2,12:37,07:23,Takeaway,n/a,-68.0,38.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:28:10Z,2,12:51,07:09,Faceoff,n/a,-69.0,22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:28:20Z,2,12:57,07:03,Missed Shot,n/a,-55.0,12.0,Ryan Getzlaf,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:28:36Z,2,13:12,06:48,Takeaway,n/a,35.0,-23.0,Hampus Lindholm,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:28:41Z,2,13:17,06:43,Shot,Snap Shot,-71.0,-12.0,Jakob Silfverberg,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:28:45Z,2,13:19,06:41,Shot,Tip-In,-79.0,0.0,Jakob Silfverberg,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:29:42Z,2,13:19,06:41,Faceoff,n/a,-69.0,22.0,Sam Steel,Winner,Anaheim Ducks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:29:49Z,2,13:49,06:11,Missed Shot,n/a,-76.0,29.0,Josh Manson,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:30:12Z,2,14:12,05:48,Giveaway,n/a,82.0,-31.0,Josh Manson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:30:16Z,2,14:16,05:44,Shot,Wrist Shot,39.0,-30.0,Jason Demers,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:30:17Z,2,14:17,05:43,Hit,n/a,40.0,40.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Ondrej Kase,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:32:56Z,2,14:33,05:27,Faceoff,n/a,69.0,22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:33:08Z,2,14:59,05:01,Hit,n/a,-28.0,-20.0,Rickard Rakell,Hitter,Anaheim Ducks,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:34:01Z,2,15:44,04:16,Faceoff,n/a,-69.0,-22.0,Derek Grant,Winner,Anaheim Ducks,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:34:26Z,2,15:49,04:11,Missed Shot,n/a,-43.0,-21.0,Jacob Larsson,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:34:40Z,2,16:01,03:59,Goal,Backhand,85.0,-6.0,Lawson Crouse,Scorer,Arizona Coyotes,Nick Schmaltz,Assist,Arizona Coyotes,Vinnie Hinostroza,Assist,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks
+2020-01-30T04:35:38Z,2,16:01,03:59,Faceoff,n/a,0.0,0.0,Adam Henrique,Winner,Anaheim Ducks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:35:58Z,2,16:33,03:27,Blocked Shot,n/a,62.0,13.0,Troy Terry,Blocker,Anaheim Ducks,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:36:03Z,2,16:35,03:25,Shot,Wrist Shot,63.0,18.0,Taylor Hall,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:37:07Z,2,16:36,03:24,Penalty,Roughing,98.0,11.0,Nick Ritchie,PenaltyOn,Anaheim Ducks,Taylor Hall,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:38:37Z,2,16:36,03:24,Faceoff,n/a,69.0,22.0,Nick Schmaltz,Winner,Arizona Coyotes,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:38:49Z,2,16:41,03:19,Blocked Shot,n/a,70.0,-8.0,Carter Rowney,Blocker,Anaheim Ducks,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:39:09Z,2,17:02,02:58,Hit,n/a,46.0,41.0,Erik Gudbranson,Hitter,Anaheim Ducks,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:39:26Z,2,17:18,02:42,Blocked Shot,n/a,69.0,8.0,Erik Gudbranson,Blocker,Anaheim Ducks,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:39:41Z,2,17:34,02:26,Hit,n/a,54.0,-37.0,Cam Fowler,Hitter,Anaheim Ducks,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:41:08Z,2,18:49,01:11,Hit,n/a,97.0,-22.0,Lawson Crouse,Hitter,Arizona Coyotes,Josh Manson,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:41:46Z,2,18:51,01:09,Penalty,Interference,-96.0,11.0,Nick Ritchie,PenaltyOn,Anaheim Ducks,Jakob Chychrun,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:43:08Z,2,18:51,01:09,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:43:04Z,2,18:59,01:01,Shot,Snap Shot,44.0,-33.0,Taylor Hall,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:43:08Z,2,19:00,01:00,Shot,Wrist Shot,81.0,-5.0,Conor Garland,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:43:09Z,2,19:00,01:00,Shot,Tip-In,82.0,-4.0,Conor Garland,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:44:25Z,2,19:00,01:00,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:43:42Z,2,19:09,00:51,Shot,Wrist Shot,57.0,-5.0,Carter Rowney,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:44:23Z,2,19:11,00:49,Takeaway,n/a,-88.0,11.0,Derek Grant,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:43:47Z,2,19:12,00:48,Shot,Backhand,-79.0,10.0,Derek Grant,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:44:08Z,2,19:14,00:46,Goal,Wrist Shot,-77.0,-3.0,Carter Rowney,Scorer,Anaheim Ducks,Derek Grant,Assist,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a
+2020-01-30T04:44:55Z,2,19:14,00:46,Faceoff,n/a,0.0,0.0,Carl Soderberg,Winner,Arizona Coyotes,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:45:45Z,2,19:47,00:13,Faceoff,n/a,-69.0,-22.0,Nick Schmaltz,Winner,Arizona Coyotes,Carter Rowney,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T04:45:54Z,2,19:59,00:01,Missed Shot,n/a,66.0,-13.0,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:04:41Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Grant,Winner,Anaheim Ducks,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:05:31Z,3,00:51,19:09,Shot,Snap Shot,-63.0,21.0,Nick Schmaltz,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:05:35Z,3,00:56,19:04,Blocked Shot,n/a,-77.0,2.0,Carter Rowney,Blocker,Anaheim Ducks,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:05:58Z,3,01:17,18:43,Shot,Snap Shot,67.0,-27.0,Jakob Silfverberg,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:06:11Z,3,01:18,18:42,Faceoff,n/a,69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:07:04Z,3,01:44,18:16,Hit,n/a,-29.0,-27.0,Ryan Getzlaf,Hitter,Anaheim Ducks,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:06:49Z,3,01:51,18:09,Takeaway,n/a,-63.0,-39.0,Josh Manson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:06:56Z,3,01:58,18:02,Shot,Backhand,80.0,3.0,Rickard Rakell,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:07:19Z,3,02:20,17:40,Missed Shot,n/a,-51.0,-27.0,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:07:50Z,3,02:41,17:19,Missed Shot,n/a,-72.0,7.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:08:08Z,3,03:09,16:51,Giveaway,n/a,-97.0,2.0,John Gibson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:08:13Z,3,03:14,16:46,Shot,Wrist Shot,-52.0,-23.0,Jakob Chychrun,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:08:18Z,3,03:19,16:41,Missed Shot,n/a,-42.0,-31.0,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:08:53Z,3,03:28,16:32,Faceoff,n/a,-69.0,-22.0,Sam Steel,Winner,Anaheim Ducks,Christian Fischer,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:09:42Z,3,03:58,16:02,Shot,Tip-In,-76.0,0.0,Christian Fischer,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:09:56Z,3,04:12,15:48,Missed Shot,n/a,88.0,-8.0,Derek Grant,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:10:12Z,3,04:28,15:32,Hit,n/a,-30.0,-20.0,Nicolas Deslauriers,Hitter,Anaheim Ducks,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:10:21Z,3,04:37,15:23,Takeaway,n/a,-53.0,-31.0,Cam Fowler,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:10:57Z,3,05:12,14:48,Shot,Slap Shot,38.0,0.0,Ryan Getzlaf,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:11:26Z,3,05:13,14:47,Faceoff,n/a,69.0,22.0,Adam Henrique,Winner,Anaheim Ducks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:11:33Z,3,05:20,14:40,Blocked Shot,n/a,51.0,7.0,Phil Kessel,Blocker,Arizona Coyotes,Hampus Lindholm,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:11:39Z,3,05:26,14:34,Hit,n/a,87.0,30.0,Adam Henrique,Hitter,Anaheim Ducks,Derek Stepan,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:11:53Z,3,05:40,14:20,Hit,n/a,88.0,32.0,Nick Ritchie,Hitter,Anaheim Ducks,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:12:19Z,3,06:03,13:57,Blocked Shot,n/a,-66.0,26.0,Jacob Larsson,Blocker,Anaheim Ducks,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:12:28Z,3,06:14,13:46,Takeaway,n/a,-15.0,11.0,Ondrej Kase,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:12:33Z,3,06:20,13:40,Shot,Tip-In,80.0,-2.0,Sam Steel,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:12:40Z,3,06:27,13:33,Missed Shot,n/a,73.0,13.0,Max Jones,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:12:59Z,3,06:32,13:28,Penalty,Interference,-89.0,-15.0,Nick Schmaltz,PenaltyOn,Arizona Coyotes,Michael Del Zotto,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:15:04Z,3,06:32,13:28,Faceoff,n/a,69.0,-22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:15:30Z,3,06:48,13:12,Shot,Tip-In,-70.0,-15.0,Derek Stepan,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:15:51Z,3,07:24,12:36,Shot,Slap Shot,-59.0,19.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:15:54Z,3,07:28,12:32,Hit,n/a,-34.0,-40.0,Ryan Getzlaf,Hitter,Anaheim Ducks,Lawson Crouse,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:16:13Z,3,07:47,12:13,Missed Shot,n/a,80.0,0.0,Jakob Silfverberg,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:17:01Z,3,08:35,11:25,Giveaway,n/a,72.0,0.0,Ondrej Kase,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:17:42Z,3,09:15,10:45,Takeaway,n/a,-39.0,4.0,Derek Grant,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:18:25Z,3,09:59,10:01,Hit,n/a,65.0,39.0,Jason Demers,Hitter,Arizona Coyotes,Hampus Lindholm,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:18:54Z,3,10:28,09:32,Shot,Wrist Shot,-14.0,17.0,Max Jones,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:19:22Z,3,10:55,09:05,Shot,Wrist Shot,84.0,11.0,Troy Terry,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:22:26Z,3,11:39,08:21,Faceoff,n/a,-20.0,22.0,Derek Grant,Winner,Anaheim Ducks,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:22:31Z,3,11:55,08:05,Takeaway,n/a,51.0,38.0,Vinnie Hinostroza,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:23:04Z,3,11:58,08:02,Faceoff,n/a,-20.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:23:25Z,3,12:20,07:40,Missed Shot,n/a,-43.0,-24.0,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:24:03Z,3,12:57,07:03,Blocked Shot,n/a,-83.0,19.0,Cam Fowler,Blocker,Anaheim Ducks,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:24:26Z,3,13:21,06:39,Missed Shot,n/a,-44.0,26.0,Jason Demers,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:24:27Z,3,13:21,06:39,Hit,n/a,-94.0,-27.0,Conor Garland,Hitter,Arizona Coyotes,Sam Steel,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:24:33Z,3,13:28,06:32,Blocked Shot,n/a,-65.0,-27.0,Ondrej Kase,Blocker,Anaheim Ducks,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:24:48Z,3,13:42,06:18,Blocked Shot,n/a,-62.0,-1.0,Sam Steel,Blocker,Anaheim Ducks,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:24:54Z,3,13:48,06:12,Giveaway,n/a,-83.0,-24.0,Ondrej Kase,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:25:01Z,3,13:55,06:05,Shot,Backhand,-84.0,34.0,Josh Manson,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:25:11Z,3,14:05,05:55,Missed Shot,n/a,-51.0,0.0,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:25:41Z,3,14:36,05:24,Hit,n/a,56.0,40.0,Rickard Rakell,Hitter,Anaheim Ducks,Vinnie Hinostroza,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:26:07Z,3,15:01,04:59,Blocked Shot,n/a,-66.0,-24.0,Adam Henrique,Blocker,Anaheim Ducks,Michael Grabner,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:26:22Z,3,15:17,04:43,Missed Shot,n/a,-60.0,-26.0,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:27:11Z,3,15:51,04:09,Penalty,Tripping,-47.0,-26.0,Clayton Keller,PenaltyOn,Arizona Coyotes,Josh Manson,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:29:09Z,3,15:51,04:09,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:29:27Z,3,16:14,03:46,Blocked Shot,n/a,36.0,-34.0,Michael Grabner,Blocker,Arizona Coyotes,Hampus Lindholm,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:29:42Z,3,16:30,03:30,Hit,n/a,97.0,-10.0,Jason Demers,Hitter,Arizona Coyotes,Jakob Silfverberg,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:30:19Z,3,17:06,02:54,Missed Shot,n/a,86.0,9.0,Ondrej Kase,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:31:10Z,3,17:57,02:03,Blocked Shot,n/a,-83.0,13.0,Michael Del Zotto,Blocker,Anaheim Ducks,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:31:47Z,3,18:34,01:26,Missed Shot,n/a,23.0,28.0,Max Jones,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:31:53Z,3,18:36,01:24,Blocked Shot,n/a,77.0,-11.0,Clayton Keller,Blocker,Arizona Coyotes,Derek Grant,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:31:59Z,3,18:37,01:23,Penalty,Slashing,-32.0,34.0,Conor Garland,PenaltyOn,Arizona Coyotes,Max Jones,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:32:47Z,3,18:37,01:23,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Jakob Silfverberg,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:33:47Z,3,19:22,00:38,Giveaway,n/a,71.0,34.0,Niklas Hjalmarsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-30T05:33:56Z,3,19:31,00:29,Shot,Backhand,83.0,7.0,Jakob Silfverberg,Shooter,Anaheim Ducks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a

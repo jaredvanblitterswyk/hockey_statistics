@@ -1,0 +1,229 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-28T23:07:40Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Carl Soderberg,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:08:39Z,1,00:19,19:41,Shot,Deflected,81.0,0.0,Victor Olofsson,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:08:49Z,1,00:29,19:31,Hit,n/a,17.0,-34.0,Christian Fischer,Hitter,Arizona Coyotes,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:08:52Z,1,00:31,19:29,Missed Shot,n/a,32.0,36.0,John Gilmour,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:08:57Z,1,00:37,19:23,Takeaway,n/a,-1.0,30.0,Christian Dvorak,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:09:04Z,1,00:44,19:16,Giveaway,n/a,-54.0,-35.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:09:23Z,1,01:03,18:57,Shot,Wrist Shot,63.0,-4.0,Jeff Skinner,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:09:34Z,1,01:14,18:46,Giveaway,n/a,-19.0,-4.0,Marcus Johansson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:09:38Z,1,01:18,18:42,Shot,Wrist Shot,-49.0,-39.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:09:50Z,1,01:30,18:30,Hit,n/a,-94.0,-20.0,Michael Grabner,Hitter,Arizona Coyotes,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:10:06Z,1,01:40,18:20,Shot,Snap Shot,-37.0,-34.0,Derek Stepan,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:10:30Z,1,02:09,17:51,Blocked Shot,n/a,59.0,-16.0,Nick Schmaltz,Blocker,Arizona Coyotes,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:11:08Z,1,02:10,17:50,Faceoff,n/a,-69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:12:05Z,1,03:12,16:48,Hit,n/a,93.0,-20.0,Jakob Chychrun,Hitter,Arizona Coyotes,Conor Sheary,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:12:22Z,1,03:24,16:36,Missed Shot,n/a,68.0,10.0,Conor Sheary,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:12:31Z,1,03:28,16:32,Penalty,Tripping,88.0,21.0,Lawson Crouse,PenaltyOn,Arizona Coyotes,Evan Rodrigues,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:13:00Z,1,03:28,16:32,Faceoff,n/a,69.0,-22.0,Sam Reinhart,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:13:13Z,1,03:31,16:29,Goal,Slap Shot,53.0,14.0,Jack Eichel,Scorer,Buffalo Sabres,Jeff Skinner,Assist,Buffalo Sabres,Sam Reinhart,Assist,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes
+2019-10-28T23:13:43Z,1,03:31,16:29,Faceoff,n/a,0.0,0.0,Nick Schmaltz,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:14:08Z,1,03:55,16:05,Blocked Shot,n/a,81.0,-4.0,Jakob Chychrun,Blocker,Arizona Coyotes,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:14:45Z,1,04:09,15:51,Shot,Snap Shot,53.0,34.0,Henri Jokiharju,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:14:54Z,1,04:11,15:49,Faceoff,n/a,69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:15:23Z,1,04:39,15:21,Hit,n/a,58.0,-37.0,Colin Miller,Hitter,Buffalo Sabres,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:16:01Z,1,05:17,14:43,Hit,n/a,-96.0,-12.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Lawson Crouse,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:16:11Z,1,05:28,14:32,Takeaway,n/a,-96.0,-18.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:16:26Z,1,05:41,14:19,Shot,Deflected,-82.0,2.0,Lawson Crouse,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:16:52Z,1,05:42,14:18,Faceoff,n/a,-69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:17:17Z,1,06:04,13:56,Missed Shot,n/a,67.0,19.0,Zemgus Girgensons,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:17:35Z,1,06:22,13:38,Hit,n/a,3.0,-36.0,Jakob Chychrun,Hitter,Arizona Coyotes,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:17:55Z,1,06:42,13:18,Giveaway,n/a,-80.0,-15.0,Colin Miller,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:18:27Z,1,06:49,13:11,Faceoff,n/a,-69.0,22.0,Nick Schmaltz,Winner,Arizona Coyotes,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:18:34Z,1,06:53,13:07,Missed Shot,n/a,-50.0,25.0,Barrett Hayton,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:19:00Z,1,07:14,12:46,Shot,Slap Shot,-37.0,-32.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:21:04Z,1,07:16,12:44,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:21:33Z,1,07:30,12:30,Shot,Snap Shot,-45.0,-8.0,Phil Kessel,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:22:01Z,1,07:32,12:28,Faceoff,n/a,-69.0,-22.0,Vladimir Sobotka,Winner,Buffalo Sabres,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:22:21Z,1,07:36,12:24,Faceoff,n/a,-69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Vladimir Sobotka,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:23:08Z,1,07:57,12:03,Hit,n/a,-86.0,-33.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:22:51Z,1,07:59,12:01,Hit,n/a,-91.0,-29.0,Lawson Crouse,Hitter,Arizona Coyotes,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:23:38Z,1,08:30,11:30,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:23:50Z,1,08:34,11:26,Shot,Wrist Shot,-33.0,29.0,Ilya Lyubushkin,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:23:56Z,1,08:40,11:20,Shot,Wrist Shot,-82.0,1.0,Derek Stepan,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:24:22Z,1,09:07,10:53,Missed Shot,n/a,63.0,15.0,Johan Larsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:24:33Z,1,09:15,10:45,Shot,Snap Shot,33.0,-33.0,Henri Jokiharju,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:24:58Z,1,09:23,10:37,Faceoff,n/a,-20.0,-22.0,Nick Schmaltz,Winner,Arizona Coyotes,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:25:18Z,1,09:39,10:21,Shot,Deflected,-62.0,11.0,Conor Garland,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:25:46Z,1,10:03,09:57,Shot,Wrist Shot,-60.0,-15.0,Barrett Hayton,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:25:51Z,1,10:09,09:51,Hit,n/a,-2.0,-38.0,Evan Rodrigues,Hitter,Buffalo Sabres,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:26:14Z,1,10:35,09:25,Missed Shot,n/a,-60.0,23.0,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:26:26Z,1,10:46,09:14,Giveaway,n/a,-93.0,-14.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:26:29Z,1,10:49,09:11,Giveaway,n/a,-84.0,-28.0,Clayton Keller,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:26:44Z,1,11:04,08:56,Shot,Wrap-around,-87.0,5.0,Carl Soderberg,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:28:53Z,1,11:04,08:56,Faceoff,n/a,-69.0,-22.0,Vladimir Sobotka,Winner,Buffalo Sabres,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:29:17Z,1,11:16,08:44,Goal,Wrist Shot,76.0,-11.0,Jeff Skinner,Scorer,Buffalo Sabres,Marcus Johansson,Assist,Buffalo Sabres,Vladimir Sobotka,Assist,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes
+2019-10-28T23:30:03Z,1,11:16,08:44,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:30:15Z,1,11:29,08:31,Takeaway,n/a,53.0,32.0,Sam Reinhart,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:30:18Z,1,11:32,08:28,Shot,Slap Shot,37.0,-33.0,Henri Jokiharju,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:30:41Z,1,11:33,08:27,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Vinnie Hinostroza,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:31:01Z,1,11:44,08:16,Missed Shot,n/a,62.0,-30.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:31:18Z,1,12:01,07:59,Giveaway,n/a,87.0,-28.0,Victor Olofsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:31:21Z,1,12:04,07:56,Giveaway,n/a,96.0,-18.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:31:21Z,1,12:06,07:54,Giveaway,n/a,50.0,13.0,Sam Reinhart,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:31:49Z,1,12:11,07:49,Faceoff,n/a,-20.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:32:54Z,1,12:53,07:07,Faceoff,n/a,-69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:34:32Z,1,14:25,05:35,Hit,n/a,12.0,-38.0,Jakob Chychrun,Hitter,Arizona Coyotes,Vladimir Sobotka,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:34:49Z,1,14:43,05:17,Giveaway,n/a,96.0,13.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:35:05Z,1,14:54,05:06,Hit,n/a,-69.0,40.0,Michael Grabner,Hitter,Arizona Coyotes,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:35:29Z,1,15:23,04:37,Hit,n/a,-96.0,-8.0,Colin Miller,Hitter,Buffalo Sabres,Barrett Hayton,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:35:50Z,1,15:44,04:16,Shot,Deflected,82.0,0.0,Johan Larsson,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:38:13Z,1,15:53,04:07,Blocked Shot,n/a,-73.0,12.0,Johan Larsson,Blocker,Buffalo Sabres,Christian Fischer,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:38:13Z,1,15:55,04:05,Faceoff,n/a,-69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:38:56Z,1,16:33,03:27,Blocked Shot,n/a,-65.0,-24.0,Jake McCabe,Blocker,Buffalo Sabres,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:39:38Z,1,17:15,02:45,Blocked Shot,n/a,-44.0,-17.0,Henri Jokiharju,Blocker,Buffalo Sabres,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:39:54Z,1,17:24,02:36,Missed Shot,n/a,-85.0,-27.0,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:40:08Z,1,17:45,02:15,Shot,Deflected,29.0,9.0,Victor Olofsson,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:40:15Z,1,17:51,02:09,Giveaway,n/a,53.0,7.0,Aaron Ness,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:40:20Z,1,17:57,02:03,Missed Shot,n/a,42.0,13.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:40:37Z,1,18:14,01:46,Shot,Deflected,77.0,-3.0,Jack Eichel,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:40:49Z,1,18:16,01:44,Shot,Wrist Shot,80.0,7.0,Sam Reinhart,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:41:02Z,1,18:19,01:41,Missed Shot,n/a,33.0,14.0,John Gilmour,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:41:14Z,1,18:50,01:10,Goal,Snap Shot,-87.0,22.0,Conor Garland,Scorer,Arizona Coyotes,Barrett Hayton,Assist,Arizona Coyotes,Oliver Ekman-Larsson,Assist,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres
+2019-10-28T23:41:54Z,1,18:50,01:10,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:42:12Z,1,19:02,00:58,Shot,Slap Shot,-61.0,39.0,Christian Fischer,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:42:31Z,1,19:21,00:39,Hit,n/a,-93.0,-24.0,Colin Miller,Hitter,Buffalo Sabres,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:42:42Z,1,19:32,00:28,Shot,Wrist Shot,-49.0,7.0,Carl Soderberg,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-28T23:43:01Z,1,19:51,00:09,Hit,n/a,-94.0,-8.0,Lawson Crouse,Hitter,Arizona Coyotes,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:01:31Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Carl Soderberg,Winner,Arizona Coyotes,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:02:06Z,2,00:20,19:40,Blocked Shot,n/a,68.0,-14.0,Colin Miller,Blocker,Buffalo Sabres,Christian Fischer,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:02:09Z,2,00:24,19:36,Hit,n/a,17.0,39.0,Lawson Crouse,Hitter,Arizona Coyotes,Marcus Johansson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:02:26Z,2,00:40,19:20,Takeaway,n/a,0.0,-34.0,Jake McCabe,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:03:07Z,2,01:03,18:57,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:03:23Z,2,01:09,18:51,Shot,Wrist Shot,-38.0,-38.0,Jake McCabe,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:03:56Z,2,01:39,18:21,Takeaway,n/a,-3.0,39.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:04:10Z,2,01:52,18:08,Shot,Snap Shot,14.0,-9.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:04:31Z,2,02:17,17:43,Missed Shot,n/a,62.0,19.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:05:13Z,2,02:55,17:05,Giveaway,n/a,-36.0,-35.0,John Gilmour,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:05:22Z,2,03:02,16:58,Missed Shot,n/a,72.0,26.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:05:42Z,2,03:28,16:32,Blocked Shot,n/a,-77.0,4.0,Jakob Chychrun,Blocker,Arizona Coyotes,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:06:01Z,2,03:47,16:13,Shot,Wrist Shot,49.0,-38.0,Phil Kessel,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:06:39Z,2,04:25,15:35,Hit,n/a,-96.0,-6.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Jeff Skinner,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:07:20Z,2,04:36,15:24,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:07:43Z,2,04:55,15:05,Giveaway,n/a,-85.0,32.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:08:03Z,2,05:15,14:45,Shot,Wrist Shot,-46.0,34.0,Sam Reinhart,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:08:24Z,2,05:36,14:24,Missed Shot,n/a,34.0,28.0,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:08:41Z,2,05:53,14:07,Shot,Wrist Shot,70.0,-9.0,Barrett Hayton,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:09:09Z,2,05:55,14:05,Faceoff,n/a,69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:09:26Z,2,06:07,13:53,Shot,Wrist Shot,-51.0,-27.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:09:40Z,2,06:20,13:40,Shot,Snap Shot,-35.0,22.0,Henri Jokiharju,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:09:59Z,2,06:39,13:21,Shot,Snap Shot,-67.0,2.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:10:18Z,2,06:58,13:02,Shot,Wrist Shot,-36.0,32.0,Jake McCabe,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:10:57Z,2,07:09,12:51,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:11:51Z,2,08:02,11:58,Missed Shot,n/a,-68.0,30.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:12:27Z,2,08:38,11:22,Hit,n/a,-73.0,-36.0,Alex Goligoski,Hitter,Arizona Coyotes,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:12:29Z,2,08:41,11:19,Shot,Snap Shot,-39.0,21.0,Colin Miller,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:13:07Z,2,09:10,10:50,Faceoff,n/a,69.0,22.0,Evan Rodrigues,Winner,Buffalo Sabres,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:13:39Z,2,09:26,10:34,Hit,n/a,-28.0,-39.0,Jason Demers,Hitter,Arizona Coyotes,John Gilmour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:14:12Z,2,10:00,10:00,Hit,n/a,-41.0,-29.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Marcus Johansson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:14:29Z,2,10:17,09:43,Hit,n/a,89.0,-28.0,Christian Fischer,Hitter,Arizona Coyotes,Rasmus Dahlin,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:14:56Z,2,10:43,09:17,Shot,Slap Shot,31.0,12.0,Michael Grabner,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:15:19Z,2,11:07,08:53,Shot,Deflected,-85.0,-5.0,Johan Larsson,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:18:42Z,2,11:11,08:49,Faceoff,n/a,-20.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:19:39Z,2,12:09,07:51,Hit,n/a,30.0,-35.0,Alex Goligoski,Hitter,Arizona Coyotes,John Gilmour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:19:55Z,2,12:23,07:37,Shot,Wrist Shot,50.0,13.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:21:48Z,2,12:24,07:36,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:22:42Z,2,13:00,07:00,Takeaway,n/a,96.0,-2.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:22:45Z,2,13:03,06:57,Giveaway,n/a,92.0,-17.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:23:04Z,2,13:16,06:44,Hit,n/a,-9.0,35.0,Victor Olofsson,Hitter,Buffalo Sabres,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:23:07Z,2,13:25,06:35,Shot,Wrist Shot,55.0,19.0,Conor Garland,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:23:37Z,2,13:55,06:05,Shot,Wrist Shot,73.0,18.0,Barrett Hayton,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:24:26Z,2,14:44,05:16,Shot,Wrist Shot,84.0,22.0,Aaron Ness,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:24:34Z,2,14:52,05:08,Missed Shot,n/a,58.0,-39.0,Ilya Lyubushkin,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:24:49Z,2,15:03,04:57,Penalty,Tripping,82.0,3.0,Carter Hutton,PenaltyOn,Buffalo Sabres,Christian Fischer,DrewBy,Buffalo Sabres,Jeff Skinner,ServedBy,Arizona Coyotes,n/a,n/a,n/a
+2019-10-29T00:26:29Z,2,15:03,04:57,Faceoff,n/a,69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:27:45Z,2,15:53,04:07,Shot,Snap Shot,81.0,0.0,Christian Dvorak,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:27:48Z,2,15:56,04:04,Hit,n/a,95.0,-19.0,Derek Stepan,Hitter,Arizona Coyotes,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:28:25Z,2,16:32,03:28,Goal,Deflected,82.0,-1.0,Carl Soderberg,Scorer,Arizona Coyotes,Conor Garland,Assist,Arizona Coyotes,Alex Goligoski,Assist,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres
+2019-10-29T00:29:12Z,2,16:32,03:28,Faceoff,n/a,0.0,0.0,Carl Soderberg,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:29:45Z,2,16:55,03:05,Missed Shot,n/a,-52.0,-38.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:30:07Z,2,16:58,03:02,Shot,Snap Shot,-35.0,37.0,Colin Miller,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:29:56Z,2,17:04,02:56,Penalty,Hooking,21.0,-32.0,Rasmus Dahlin,PenaltyOn,Buffalo Sabres,Lawson Crouse,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:30:31Z,2,17:04,02:56,Faceoff,n/a,69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:31:03Z,2,17:33,02:27,Shot,Deflected,81.0,2.0,Phil Kessel,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:31:14Z,2,17:45,02:15,Shot,Wrist Shot,61.0,26.0,Phil Kessel,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:31:36Z,2,18:06,01:54,Hit,n/a,62.0,40.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Phil Kessel,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:31:44Z,2,18:13,01:47,Shot,Backhand,76.0,0.0,Clayton Keller,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:32:17Z,2,18:14,01:46,Faceoff,n/a,69.0,22.0,Vladimir Sobotka,Winner,Buffalo Sabres,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:32:29Z,2,18:26,01:34,Shot,Backhand,83.0,-7.0,Conor Garland,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:33:04Z,2,18:59,01:01,Blocked Shot,n/a,71.0,-18.0,John Gilmour,Blocker,Buffalo Sabres,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:33:32Z,2,18:59,01:01,Faceoff,n/a,69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:33:54Z,2,19:19,00:41,Shot,Wrist Shot,31.0,5.0,Clayton Keller,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:34:16Z,2,19:38,00:22,Blocked Shot,n/a,79.0,-5.0,Jake McCabe,Blocker,Buffalo Sabres,Jason Demers,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:34:26Z,2,19:52,00:08,Missed Shot,n/a,-77.0,3.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:34:30Z,2,19:55,00:05,Hit,n/a,-55.0,37.0,Sam Reinhart,Hitter,Buffalo Sabres,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:53:04Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Carl Soderberg,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:54:09Z,3,00:07,19:53,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:54:13Z,3,00:29,19:31,Missed Shot,n/a,-81.0,19.0,Lawson Crouse,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:55:16Z,3,01:18,18:42,Faceoff,n/a,69.0,22.0,Casey Mittelstadt,Winner,Buffalo Sabres,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:55:30Z,3,01:22,18:38,Missed Shot,n/a,81.0,0.0,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:56:25Z,3,01:22,18:38,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:55:51Z,3,01:23,18:37,Blocked Shot,n/a,75.0,-1.0,Aaron Ness,Blocker,Arizona Coyotes,Casey Mittelstadt,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:56:32Z,3,01:47,18:13,Penalty,Hooking,37.0,-16.0,Vinnie Hinostroza,PenaltyOn,Arizona Coyotes,Casey Mittelstadt,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:57:05Z,3,01:47,18:13,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:57:08Z,3,01:57,18:03,Missed Shot,n/a,48.0,31.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:57:30Z,3,02:19,17:41,Missed Shot,n/a,69.0,-5.0,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:58:12Z,3,03:02,16:58,Shot,Wrist Shot,51.0,3.0,Jeff Skinner,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:58:21Z,3,03:11,16:49,Blocked Shot,n/a,75.0,-12.0,Alex Goligoski,Blocker,Arizona Coyotes,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:58:56Z,3,03:45,16:15,Giveaway,n/a,41.0,-37.0,Marcus Johansson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T00:59:56Z,3,04:46,15:14,Hit,n/a,-19.0,38.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:00:03Z,3,04:50,15:10,Blocked Shot,n/a,70.0,16.0,Phil Kessel,Blocker,Arizona Coyotes,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:00:33Z,3,04:50,15:10,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:01:12Z,3,05:08,14:52,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:01:23Z,3,05:13,14:47,Missed Shot,n/a,-50.0,-24.0,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:01:30Z,3,05:20,14:40,Shot,Deflected,-81.0,2.0,Clayton Keller,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:01:43Z,3,05:33,14:27,Shot,Wrist Shot,-39.0,-34.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:01:52Z,3,05:43,14:17,Shot,Snap Shot,-59.0,-35.0,Phil Kessel,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:02:28Z,3,06:18,13:42,Shot,Snap Shot,61.0,37.0,John Gilmour,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:03:00Z,3,06:50,13:10,Shot,Snap Shot,48.0,-2.0,Conor Sheary,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:04:47Z,3,06:50,13:10,Faceoff,n/a,69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:05:19Z,3,06:56,13:04,Hit,n/a,91.0,-31.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Casey Mittelstadt,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:06:21Z,3,07:29,12:31,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:07:31Z,3,08:33,11:27,Shot,Snap Shot,-59.0,40.0,Ilya Lyubushkin,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:08:14Z,3,09:17,10:43,Shot,Wrist Shot,-77.0,-6.0,Derek Stepan,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:08:49Z,3,09:18,10:42,Faceoff,n/a,-69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Sam Reinhart,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:09:12Z,3,09:30,10:30,Missed Shot,n/a,-80.0,9.0,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:09:25Z,3,09:42,10:18,Shot,Slap Shot,-44.0,-33.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:09:38Z,3,09:43,10:17,Shot,Wrist Shot,-82.0,-1.0,Lawson Crouse,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:09:54Z,3,09:44,10:16,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:11:16Z,3,10:56,09:04,Shot,Wrist Shot,-4.0,35.0,Ilya Lyubushkin,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:13:36Z,3,10:57,09:03,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:15:08Z,3,12:34,07:26,Shot,Slap Shot,-33.0,-36.0,Jakob Chychrun,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:15:25Z,3,12:35,07:25,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Lawson Crouse,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:16:10Z,3,13:03,06:57,Shot,Slap Shot,38.0,-28.0,Colin Miller,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:16:20Z,3,13:13,06:47,Missed Shot,n/a,35.0,2.0,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:17:06Z,3,14:00,06:00,Missed Shot,n/a,79.0,-3.0,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:17:13Z,3,14:07,05:53,Blocked Shot,n/a,78.0,-5.0,Derek Stepan,Blocker,Arizona Coyotes,Jake McCabe,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:17:17Z,3,14:10,05:50,Hit,n/a,56.0,-37.0,Derek Stepan,Hitter,Arizona Coyotes,Vladimir Sobotka,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:17:22Z,3,14:16,05:44,Hit,n/a,92.0,-27.0,Derek Stepan,Hitter,Arizona Coyotes,Marcus Johansson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:18:25Z,3,15:18,04:42,Shot,Wrist Shot,-35.0,6.0,Michael Grabner,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:18:40Z,3,15:20,04:40,Shot,Wrist Shot,-80.0,0.0,Christian Dvorak,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:19:03Z,3,15:56,04:04,Shot,Backhand,-83.0,-4.0,Christian Fischer,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:21:25Z,3,16:22,03:38,Faceoff,n/a,-69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:21:52Z,3,16:27,03:33,Blocked Shot,n/a,-68.0,-5.0,Sam Reinhart,Blocker,Buffalo Sabres,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:22:10Z,3,16:42,03:18,Shot,Backhand,-83.0,11.0,Carl Soderberg,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:22:33Z,3,16:43,03:17,Faceoff,n/a,-69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:23:37Z,3,17:37,02:23,Shot,Backhand,-82.0,-4.0,Nick Schmaltz,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:24:02Z,3,17:37,02:23,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Kyle Okposo,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:24:47Z,3,17:46,02:14,Faceoff,n/a,20.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:25:13Z,3,18:13,01:47,Missed Shot,n/a,71.0,-5.0,Johan Larsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:25:21Z,3,18:17,01:43,Hit,n/a,89.0,30.0,Johan Larsson,Hitter,Buffalo Sabres,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:25:47Z,3,18:19,01:41,Faceoff,n/a,69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:26:03Z,3,18:32,01:28,Shot,Slap Shot,52.0,2.0,Victor Olofsson,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:26:09Z,3,18:38,01:22,Shot,Wrist Shot,77.0,-15.0,Sam Reinhart,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:26:39Z,3,19:08,00:52,Shot,Wrist Shot,-60.0,-1.0,Clayton Keller,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:26:49Z,3,19:10,00:50,Blocked Shot,n/a,-85.0,-7.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:29:51Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:30:26Z,4,00:19,04:41,Missed Shot,n/a,-58.0,3.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:30:37Z,4,00:30,04:30,Shot,Wrist Shot,62.0,-2.0,Phil Kessel,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:31:42Z,4,01:34,03:26,Takeaway,n/a,-19.0,-31.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:32:17Z,4,02:10,02:50,Hit,n/a,-97.0,22.0,Clayton Keller,Hitter,Arizona Coyotes,Victor Olofsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:34:01Z,4,03:54,01:06,Missed Shot,n/a,44.0,-1.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:34:33Z,4,04:24,00:36,Missed Shot,n/a,-60.0,-12.0,Casey Mittelstadt,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:35:01Z,4,04:52,00:08,Missed Shot,n/a,-79.0,-6.0,Casey Mittelstadt,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:35:07Z,4,04:55,00:05,Missed Shot,n/a,-78.0,-1.0,Casey Mittelstadt,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:37:21Z,5,00:00,00:00,Missed Shot,n/a,76.0,3.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:37:50Z,5,00:00,00:00,Shot,Backhand,-85.0,-5.0,Conor Garland,Shooter,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:38:15Z,5,00:00,00:00,Shot,Wrist Shot,79.0,0.0,Sam Reinhart,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:38:44Z,5,00:00,00:00,Goal,Wrist Shot,-72.0,1.0,Nick Schmaltz,Scorer,Arizona Coyotes,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T01:39:17Z,5,00:00,00:00,Shot,Backhand,83.0,-5.0,Casey Mittelstadt,Shooter,Buffalo Sabres,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a

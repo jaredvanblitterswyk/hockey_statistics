@@ -1,0 +1,276 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-21T00:09:22Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:09:52Z,1,00:22,19:38,Giveaway,n/a,-36.0,35.0,Roope Hintz,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:09:55Z,1,00:25,19:35,Takeaway,n/a,-84.0,22.0,Esa Lindell,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:10:03Z,1,00:34,19:26,Hit,n/a,90.0,-30.0,Joe Pavelski,Hitter,Dallas Stars,Mike Matheson,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:10:38Z,1,01:09,18:51,Shot,Snap Shot,47.0,19.0,Corey Perry,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:11:04Z,1,01:34,18:26,Shot,Wrist Shot,-87.0,-27.0,Vincent Trocheck,Shooter,Florida Panthers,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:11:16Z,1,01:47,18:13,Hit,n/a,98.0,-7.0,Tyler Seguin,Hitter,Dallas Stars,Anton Stralman,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:11:34Z,1,02:05,17:55,Blocked Shot,n/a,-75.0,-17.0,Justin Dowling,Blocker,Dallas Stars,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:11:40Z,1,02:05,17:55,Hit,n/a,-97.0,-19.0,Mike Hoffman,Hitter,Florida Panthers,Taylor Fedun,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:11:50Z,1,02:19,17:41,Shot,Slap Shot,-42.0,22.0,Josh Brown,Shooter,Florida Panthers,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:12:15Z,1,02:19,17:41,Faceoff,n/a,-69.0,22.0,Radek Faksa,Winner,Dallas Stars,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:12:41Z,1,02:45,17:15,Takeaway,n/a,-41.0,-40.0,Miro Heiskanen,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:12:52Z,1,02:55,17:05,Giveaway,n/a,93.0,-8.0,Keith Yandle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:12:53Z,1,02:56,17:04,Blocked Shot,n/a,77.0,2.0,Keith Yandle,Blocker,Florida Panthers,Radek Faksa,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:13:01Z,1,03:04,16:56,Shot,Slap Shot,41.0,-24.0,Miro Heiskanen,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:13:08Z,1,03:11,16:49,Hit,n/a,-16.0,-39.0,Esa Lindell,Hitter,Dallas Stars,Dominic Toninato,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:13:38Z,1,03:42,16:18,Missed Shot,n/a,-36.0,8.0,MacKenzie Weegar,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:13:58Z,1,04:00,16:00,Shot,Snap Shot,-43.0,-14.0,Frank Vatrano,Shooter,Florida Panthers,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:14:05Z,1,04:01,15:59,Penalty,Slashing,-62.0,-3.0,Jason Dickinson,PenaltyOn,Dallas Stars,Frank Vatrano,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:14:51Z,1,04:01,15:59,Faceoff,n/a,-69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:15:12Z,1,04:35,15:25,Blocked Shot,n/a,-75.0,4.0,Miro Heiskanen,Blocker,Dallas Stars,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:15:32Z,1,04:37,15:23,Goal,Wrist Shot,-82.0,-14.0,Jonathan Huberdeau,Scorer,Florida Panthers,Aleksander Barkov,Assist,Florida Panthers,Evgenii Dadonov,Assist,Florida Panthers,Ben Bishop,Goalie,Dallas Stars
+2019-12-21T00:15:57Z,1,04:37,15:23,Faceoff,n/a,0.0,0.0,Roope Hintz,Winner,Dallas Stars,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:16:12Z,1,04:53,15:07,Hit,n/a,59.0,-40.0,Mattias Janmark,Hitter,Dallas Stars,Mike Matheson,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:16:18Z,1,04:59,15:01,Shot,Snap Shot,-47.0,-1.0,Anton Stralman,Shooter,Florida Panthers,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:16:26Z,1,05:07,14:53,Missed Shot,n/a,-64.0,0.0,Anton Stralman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:16:47Z,1,05:26,14:34,Shot,Snap Shot,-47.0,-23.0,John Klingberg,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:17:13Z,1,05:26,14:34,Faceoff,n/a,-69.0,-22.0,Brian Boyle,Winner,Florida Panthers,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:17:26Z,1,05:36,14:24,Blocked Shot,n/a,-60.0,-3.0,John Klingberg,Blocker,Dallas Stars,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:17:37Z,1,05:40,14:20,Faceoff,n/a,-69.0,22.0,Brian Boyle,Winner,Florida Panthers,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:18:05Z,1,05:50,14:10,Hit,n/a,-87.0,-33.0,Justin Dowling,Hitter,Dallas Stars,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:18:10Z,1,05:55,14:05,Missed Shot,n/a,-74.0,41.0,Brian Boyle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:18:30Z,1,06:15,13:45,Takeaway,n/a,23.0,-10.0,Tyler Seguin,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:20:52Z,1,06:26,13:34,Faceoff,n/a,20.0,-22.0,Dominic Toninato,Winner,Florida Panthers,Blake Comeau,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:21:13Z,1,06:45,13:15,Hit,n/a,-17.0,-40.0,Colton Sceviour,Hitter,Florida Panthers,Blake Comeau,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:21:21Z,1,06:54,13:06,Blocked Shot,n/a,47.0,-7.0,Colton Sceviour,Blocker,Florida Panthers,Blake Comeau,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:21:43Z,1,07:16,12:44,Giveaway,n/a,84.0,-19.0,Denis Gurianov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:22:02Z,1,07:21,12:39,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:22:27Z,1,07:38,12:22,Hit,n/a,-45.0,-42.0,Andrej Sekera,Hitter,Dallas Stars,Mike Matheson,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:22:35Z,1,07:47,12:13,Missed Shot,n/a,-67.0,15.0,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:22:50Z,1,08:02,11:58,Takeaway,n/a,-40.0,37.0,Brett Connolly,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:22:59Z,1,08:11,11:49,Hit,n/a,-97.0,16.0,Frank Vatrano,Hitter,Florida Panthers,Andrej Sekera,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:23:03Z,1,08:11,11:49,Hit,n/a,-33.0,41.0,Brett Connolly,Hitter,Florida Panthers,Jason Dickinson,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:23:16Z,1,08:28,11:32,Takeaway,n/a,6.0,30.0,Roope Hintz,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:23:19Z,1,08:31,11:29,Shot,Snap Shot,49.0,-20.0,Joe Pavelski,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:23:29Z,1,08:41,11:19,Giveaway,n/a,-39.0,-9.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:23:54Z,1,09:06,10:54,Missed Shot,n/a,-55.0,-1.0,Aaron Ekblad,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:24:49Z,1,10:01,09:59,Shot,Tip-In,-74.0,4.0,Evgenii Dadonov,Shooter,Florida Panthers,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:25:06Z,1,10:18,09:42,Blocked Shot,n/a,-60.0,24.0,Andrej Sekera,Blocker,Dallas Stars,Mark Pysyk,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:25:13Z,1,10:20,09:40,Hit,n/a,-95.0,28.0,John Klingberg,Hitter,Dallas Stars,Dominic Toninato,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:25:20Z,1,10:27,09:33,Giveaway,n/a,-99.0,13.0,Colton Sceviour,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:25:20Z,1,10:27,09:33,Giveaway,n/a,-87.0,12.0,Andrew Cogliano,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:25:20Z,1,10:28,09:32,Shot,Tip-In,-73.0,8.0,Colton Sceviour,Shooter,Florida Panthers,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:25:30Z,1,10:29,09:31,Shot,Slap Shot,-78.0,2.0,Dominic Toninato,Shooter,Florida Panthers,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:25:20Z,1,10:30,09:30,Shot,Slap Shot,-80.0,1.0,Dominic Toninato,Shooter,Florida Panthers,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:25:20Z,1,10:31,09:29,Shot,Wrap-around,-85.0,8.0,Dominic Toninato,Shooter,Florida Panthers,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:37:11Z,1,10:34,09:26,Shot,Backhand,-79.0,-5.0,Mark Pysyk,Shooter,Florida Panthers,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:26:02Z,1,11:14,08:46,Shot,Snap Shot,66.0,-19.0,Taylor Fedun,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:26:32Z,1,11:20,08:40,Faceoff,n/a,69.0,-22.0,Joe Pavelski,Winner,Dallas Stars,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:26:43Z,1,11:30,08:30,Missed Shot,n/a,81.0,37.0,Mattias Janmark,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:27:05Z,1,11:51,08:09,Takeaway,n/a,98.0,25.0,Roope Hintz,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:27:12Z,1,11:58,08:02,Takeaway,n/a,99.0,-13.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:27:34Z,1,12:20,07:40,Giveaway,n/a,31.0,-26.0,Mike Matheson,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:28:25Z,1,13:10,06:50,Goal,Wrist Shot,74.0,-1.0,Denis Gurianov,Scorer,Dallas Stars,Corey Perry,Assist,Dallas Stars,John Klingberg,Assist,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers
+2019-12-21T00:29:04Z,1,13:10,06:50,Faceoff,n/a,0.0,0.0,Radek Faksa,Winner,Dallas Stars,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:29:57Z,1,14:02,05:58,Blocked Shot,n/a,48.0,-17.0,MacKenzie Weegar,Blocker,Florida Panthers,Corey Perry,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:30:09Z,1,14:12,05:48,Blocked Shot,n/a,70.0,12.0,Mark Pysyk,Blocker,Florida Panthers,Esa Lindell,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:30:29Z,1,14:34,05:26,Takeaway,n/a,-49.0,-20.0,Denis Gurianov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:30:40Z,1,14:43,05:17,Shot,Wrist Shot,-54.0,-18.0,Colton Sceviour,Shooter,Florida Panthers,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:33:08Z,1,14:43,05:17,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:33:23Z,1,14:48,05:12,Goal,Tip-In,-40.0,23.0,Anton Stralman,Scorer,Florida Panthers,Frank Vatrano,Assist,Florida Panthers,Aleksander Barkov,Assist,Florida Panthers,Ben Bishop,Goalie,Dallas Stars
+2019-12-21T00:33:59Z,1,14:48,05:12,Faceoff,n/a,0.0,0.0,Justin Dowling,Winner,Dallas Stars,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:37:41Z,1,16:09,03:51,Faceoff,n/a,0.0,0.0,Radek Faksa,Winner,Dallas Stars,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:37:57Z,1,16:21,03:39,Shot,Wrist Shot,9.0,-34.0,Taylor Fedun,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:38:02Z,1,16:26,03:34,Giveaway,n/a,39.0,27.0,Keith Yandle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:38:52Z,1,17:06,02:54,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:39:39Z,1,17:09,02:51,Faceoff,n/a,69.0,22.0,Vincent Trocheck,Winner,Florida Panthers,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:39:42Z,1,17:19,02:41,Hit,n/a,-37.0,30.0,Noel Acciari,Hitter,Florida Panthers,Esa Lindell,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:39:46Z,1,17:24,02:36,Hit,n/a,79.0,40.0,Jason Dickinson,Hitter,Dallas Stars,Anton Stralman,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:40:41Z,1,18:18,01:42,Shot,Snap Shot,-66.0,40.0,Aaron Ekblad,Shooter,Florida Panthers,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:41:22Z,1,18:57,01:03,Giveaway,n/a,-53.0,-9.0,John Klingberg,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:41:23Z,1,18:58,01:02,Shot,Wrist Shot,-50.0,1.0,Mark Pysyk,Shooter,Florida Panthers,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:41:51Z,1,18:59,01:01,Faceoff,n/a,-69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:42:22Z,1,19:15,00:45,Hit,n/a,46.0,40.0,Joe Pavelski,Hitter,Dallas Stars,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:42:38Z,1,19:32,00:28,Takeaway,n/a,-32.0,41.0,Anton Stralman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:43:02Z,1,19:55,00:05,Hit,n/a,-94.0,-25.0,Noel Acciari,Hitter,Florida Panthers,Esa Lindell,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:43:07Z,1,19:56,00:04,Hit,n/a,-99.0,-7.0,Vincent Trocheck,Hitter,Florida Panthers,Miro Heiskanen,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:01:48Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Blake Comeau,Winner,Dallas Stars,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:02:07Z,2,00:13,19:47,Giveaway,n/a,86.0,-35.0,Ben Bishop,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:02:29Z,2,00:34,19:26,Hit,n/a,-13.0,19.0,Radek Faksa,Hitter,Dallas Stars,Mike Matheson,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:02:42Z,2,00:48,19:12,Hit,n/a,-11.0,-39.0,Noel Acciari,Hitter,Florida Panthers,Jason Dickinson,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:02:53Z,2,00:59,19:01,Giveaway,n/a,53.0,-24.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:03:00Z,2,01:06,18:54,Takeaway,n/a,-40.0,9.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:03:20Z,2,01:21,18:39,Goal,Wrist Shot,84.0,-8.0,Vincent Trocheck,Scorer,Florida Panthers,Jonathan Huberdeau,Assist,Florida Panthers,Noel Acciari,Assist,Florida Panthers,Ben Bishop,Goalie,Dallas Stars
+2019-12-21T01:04:00Z,2,01:21,18:39,Faceoff,n/a,0.0,0.0,Tyler Seguin,Winner,Dallas Stars,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:04:23Z,2,01:42,18:18,Missed Shot,n/a,-69.0,9.0,Jamie Benn,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:04:28Z,2,01:51,18:09,Hit,n/a,-95.0,-22.0,Jamie Benn,Hitter,Dallas Stars,Aaron Ekblad,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:04:34Z,2,01:57,18:03,Missed Shot,n/a,43.0,-18.0,Brian Boyle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:04:40Z,2,02:03,17:57,Giveaway,n/a,39.0,-35.0,Taylor Fedun,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:05:13Z,2,02:34,17:26,Shot,Snap Shot,-39.0,-16.0,Andrej Sekera,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:05:39Z,2,02:34,17:26,Faceoff,n/a,-69.0,-22.0,Joe Pavelski,Winner,Dallas Stars,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:06:03Z,2,02:40,17:20,Shot,Snap Shot,-33.0,-26.0,John Klingberg,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:06:12Z,2,02:47,17:13,Blocked Shot,n/a,-72.0,3.0,Mark Pysyk,Blocker,Florida Panthers,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:06:23Z,2,02:52,17:08,Goal,Snap Shot,71.0,22.0,Colton Sceviour,Scorer,Florida Panthers,Dominic Toninato,Assist,Florida Panthers,Mike Matheson,Assist,Florida Panthers,Ben Bishop,Goalie,Dallas Stars
+2019-12-21T01:07:42Z,2,02:52,17:08,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Blake Comeau,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:08:02Z,2,03:05,16:55,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:08:26Z,2,03:12,16:48,Blocked Shot,n/a,75.0,6.0,Esa Lindell,Blocker,Dallas Stars,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:08:45Z,2,03:33,16:27,Hit,n/a,-88.0,-36.0,Blake Comeau,Hitter,Dallas Stars,Josh Brown,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:08:52Z,2,03:39,16:21,Shot,Snap Shot,-59.0,23.0,Miro Heiskanen,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:09:15Z,2,03:39,16:21,Faceoff,n/a,-69.0,22.0,Vincent Trocheck,Winner,Florida Panthers,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:09:41Z,2,03:57,16:03,Hit,n/a,-89.0,-32.0,Jason Dickinson,Hitter,Dallas Stars,Josh Brown,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:10:16Z,2,04:01,15:59,Faceoff,n/a,-20.0,-22.0,Jamie Benn,Winner,Dallas Stars,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:10:28Z,2,04:05,15:55,Shot,Snap Shot,-52.0,25.0,Tyler Seguin,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:36:58Z,2,04:10,15:50,Shot,Snap Shot,-66.0,-13.0,Justin Dowling,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:10:37Z,2,04:12,15:48,Giveaway,n/a,-80.0,-13.0,Aaron Ekblad,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:10:42Z,2,04:20,15:40,Hit,n/a,58.0,-13.0,Miro Heiskanen,Hitter,Dallas Stars,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:10:48Z,2,04:26,15:34,Hit,n/a,79.0,-34.0,Brian Boyle,Hitter,Florida Panthers,Esa Lindell,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:10:54Z,2,04:32,15:28,Takeaway,n/a,-78.0,37.0,MacKenzie Weegar,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:10:57Z,2,04:35,15:25,Giveaway,n/a,-83.0,-36.0,MacKenzie Weegar,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:11:01Z,2,04:39,15:21,Giveaway,n/a,-83.0,-35.0,Esa Lindell,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:11:32Z,2,05:10,14:50,Hit,n/a,90.0,-33.0,Colton Sceviour,Hitter,Florida Panthers,Esa Lindell,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:11:42Z,2,05:18,14:42,Shot,Snap Shot,47.0,-18.0,Anton Stralman,Shooter,Florida Panthers,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:12:07Z,2,05:18,14:42,Faceoff,n/a,69.0,-22.0,Dominic Toninato,Winner,Florida Panthers,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:12:24Z,2,05:31,14:29,Takeaway,n/a,71.0,34.0,Radek Faksa,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:12:59Z,2,06:03,13:57,Shot,Tip-In,-72.0,9.0,Radek Faksa,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:13:10Z,2,06:18,13:42,Hit,n/a,-89.0,-31.0,Corey Perry,Hitter,Dallas Stars,Anton Stralman,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:13:32Z,2,06:40,13:20,Hit,n/a,-50.0,-41.0,Jason Dickinson,Hitter,Dallas Stars,Frank Vatrano,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:13:37Z,2,06:45,13:15,Giveaway,n/a,34.0,-40.0,Corey Perry,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:13:42Z,2,06:49,13:11,Giveaway,n/a,14.0,-31.0,Esa Lindell,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:14:21Z,2,07:26,12:34,Goal,Tip-In,77.0,3.0,Noel Acciari,Scorer,Florida Panthers,Vincent Trocheck,Assist,Florida Panthers,Jonathan Huberdeau,Assist,Florida Panthers,Ben Bishop,Goalie,Dallas Stars
+2019-12-21T01:15:06Z,2,07:26,12:34,Faceoff,n/a,0.0,0.0,Vincent Trocheck,Winner,Florida Panthers,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:15:27Z,2,07:40,12:20,Takeaway,n/a,93.0,-17.0,Joe Pavelski,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:15:38Z,2,07:58,12:02,Goal,Wrist Shot,77.0,19.0,Noel Acciari,Scorer,Florida Panthers,Vincent Trocheck,Assist,Florida Panthers,Jonathan Huberdeau,Assist,Florida Panthers,Ben Bishop,Goalie,Dallas Stars
+2019-12-21T01:16:32Z,2,07:58,12:02,Faceoff,n/a,0.0,0.0,Brian Boyle,Winner,Florida Panthers,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:17:02Z,2,08:21,11:39,Hit,n/a,-93.0,16.0,Radek Faksa,Hitter,Dallas Stars,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:17:50Z,2,09:05,10:55,Hit,n/a,-47.0,-40.0,Josh Brown,Hitter,Florida Panthers,Corey Perry,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:17:51Z,2,09:07,10:53,Shot,Snap Shot,-86.0,-6.0,Denis Gurianov,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:20:23Z,2,09:07,10:53,Faceoff,n/a,-69.0,-22.0,Dominic Toninato,Winner,Florida Panthers,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:21:04Z,2,09:42,10:18,Faceoff,n/a,0.0,0.0,Tyler Seguin,Winner,Dallas Stars,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:22:08Z,2,10:45,09:15,Shot,Wrist Shot,-79.0,11.0,Mattias Janmark,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:22:29Z,2,10:53,09:07,Penalty,Interference,-35.0,-40.0,Brett Connolly,PenaltyOn,Florida Panthers,Roope Hintz,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:24:35Z,2,10:53,09:07,Faceoff,n/a,-69.0,22.0,Joe Pavelski,Winner,Dallas Stars,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:24:57Z,2,11:20,08:40,Takeaway,n/a,-7.0,21.0,Noel Acciari,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:25:25Z,2,11:25,08:35,Penalty,PS - Hooking on breakaway,64.0,1.0,John Klingberg,PenaltyOn,Dallas Stars,Noel Acciari,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:25:26Z,2,11:25,08:35,Goal,Wrist Shot,79.0,0.0,Noel Acciari,Scorer,Florida Panthers,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:27:17Z,2,11:25,08:35,Faceoff,n/a,0.0,0.0,Radek Faksa,Winner,Dallas Stars,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:28:03Z,2,12:10,07:50,Blocked Shot,n/a,-78.0,-13.0,Aaron Ekblad,Blocker,Florida Panthers,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:28:40Z,2,12:11,07:49,Faceoff,n/a,-69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:28:42Z,2,12:21,07:39,Takeaway,n/a,-34.0,-36.0,Tyler Seguin,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:29:07Z,2,12:42,07:18,Shot,Tip-In,-77.0,-4.0,Blake Comeau,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:29:07Z,2,12:43,07:17,Shot,Snap Shot,-77.0,0.0,Andrew Cogliano,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:29:25Z,2,13:04,06:56,Shot,Snap Shot,65.0,17.0,Brett Connolly,Shooter,Florida Panthers,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:29:54Z,2,13:29,06:31,Blocked Shot,n/a,-45.0,17.0,Colton Sceviour,Blocker,Florida Panthers,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:30:25Z,2,13:30,06:30,Faceoff,n/a,-69.0,22.0,Joe Pavelski,Winner,Dallas Stars,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:30:43Z,2,13:51,06:09,Takeaway,n/a,-8.0,19.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:30:49Z,2,13:58,06:02,Hit,n/a,36.0,24.0,Jamie Oleksiak,Hitter,Dallas Stars,Noel Acciari,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:31:05Z,2,14:13,05:47,Takeaway,n/a,-89.0,16.0,Keith Yandle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:33:25Z,2,14:28,05:32,Faceoff,n/a,-69.0,-22.0,Jamie Benn,Winner,Dallas Stars,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:33:52Z,2,14:32,05:28,Blocked Shot,n/a,-63.0,-4.0,Mark Pysyk,Blocker,Florida Panthers,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:34:12Z,2,14:53,05:07,Shot,Snap Shot,-76.0,-16.0,Miro Heiskanen,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:34:26Z,2,15:07,04:53,Giveaway,n/a,-68.0,35.0,Sergei Bobrovsky,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:34:38Z,2,15:19,04:41,Missed Shot,n/a,-46.0,-12.0,Justin Dowling,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:35:05Z,2,15:24,04:36,Penalty,Tripping,-91.0,30.0,Keith Yandle,PenaltyOn,Florida Panthers,Tyler Seguin,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:35:25Z,2,15:24,04:36,Faceoff,n/a,-69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:35:27Z,2,15:32,04:28,Shot,Slap Shot,-51.0,26.0,Denis Gurianov,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:35:37Z,2,15:40,04:20,Blocked Shot,n/a,-77.0,7.0,Noel Acciari,Blocker,Florida Panthers,Denis Gurianov,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:35:45Z,2,15:48,04:12,Shot,Slap Shot,-41.0,-18.0,Anton Stralman,Shooter,Florida Panthers,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:35:54Z,2,15:59,04:01,Missed Shot,n/a,-57.0,-16.0,Denis Gurianov,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:36:02Z,2,16:04,03:56,Shot,Snap Shot,-41.0,3.0,Miro Heiskanen,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:36:28Z,2,16:05,03:55,Faceoff,n/a,-69.0,22.0,Joe Pavelski,Winner,Dallas Stars,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:36:58Z,2,16:38,03:22,Goal,Slap Shot,-66.0,-23.0,Tyler Seguin,Scorer,Dallas Stars,Esa Lindell,Assist,Dallas Stars,Roope Hintz,Assist,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers
+2019-12-21T01:37:42Z,2,16:38,03:22,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:37:53Z,2,16:55,03:05,Takeaway,n/a,60.0,40.0,Jason Dickinson,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:38:38Z,2,17:40,02:20,Blocked Shot,n/a,51.0,-7.0,Radek Faksa,Blocker,Dallas Stars,Brett Connolly,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:38:54Z,2,17:56,02:04,Giveaway,n/a,-75.0,12.0,Mattias Janmark,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:39:01Z,2,18:03,01:57,Missed Shot,n/a,59.0,1.0,Evgenii Dadonov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:39:08Z,2,18:04,01:56,Penalty,Holding,82.0,2.0,Andrej Sekera,PenaltyOn,Dallas Stars,Evgenii Dadonov,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:39:57Z,2,18:04,01:56,Faceoff,n/a,69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:39:52Z,2,18:11,01:49,Takeaway,n/a,31.0,-23.0,Jason Dickinson,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:40:00Z,2,18:17,01:43,Blocked Shot,n/a,-73.0,-3.0,Keith Yandle,Blocker,Florida Panthers,Jason Dickinson,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:40:39Z,2,18:55,01:05,Missed Shot,n/a,73.0,27.0,Aleksander Barkov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:41:14Z,2,18:56,01:04,Faceoff,n/a,69.0,22.0,Brian Boyle,Winner,Florida Panthers,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:42:08Z,2,19:50,00:10,Shot,Slap Shot,61.0,27.0,Brett Connolly,Shooter,Florida Panthers,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:42:43Z,2,19:51,00:09,Faceoff,n/a,69.0,22.0,Joe Pavelski,Winner,Dallas Stars,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:42:59Z,2,19:58,00:02,Shot,Slap Shot,97.0,-11.0,Esa Lindell,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:01:54Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:02:32Z,3,00:41,19:19,Blocked Shot,n/a,-78.0,8.0,Andrew Cogliano,Blocker,Dallas Stars,Aleksander Barkov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:03:26Z,3,00:45,19:15,Faceoff,n/a,-69.0,-22.0,Vincent Trocheck,Winner,Florida Panthers,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:03:16Z,3,00:49,19:11,Shot,Slap Shot,-37.0,-29.0,Mike Matheson,Shooter,Florida Panthers,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:03:21Z,3,00:51,19:09,Shot,Wrap-around,-85.0,6.0,Jonathan Huberdeau,Shooter,Florida Panthers,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:03:51Z,3,00:53,19:07,Faceoff,n/a,-69.0,22.0,Vincent Trocheck,Winner,Florida Panthers,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:03:47Z,3,00:57,19:03,Blocked Shot,n/a,-68.0,13.0,Joe Pavelski,Blocker,Dallas Stars,Jonathan Huberdeau,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:04:13Z,3,01:23,18:37,Takeaway,n/a,49.0,38.0,Jamie Oleksiak,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:04:21Z,3,01:31,18:29,Giveaway,n/a,-67.0,-8.0,Vincent Trocheck,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:04:41Z,3,01:37,18:23,Shot,Tip-In,-42.0,20.0,Noel Acciari,Shooter,Florida Panthers,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:04:33Z,3,01:40,18:20,Faceoff,n/a,-69.0,22.0,Brian Boyle,Winner,Florida Panthers,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:04:59Z,3,01:43,18:17,Shot,Snap Shot,-38.0,21.0,Aaron Ekblad,Shooter,Florida Panthers,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:05:48Z,3,01:44,18:16,Faceoff,n/a,-69.0,22.0,Brian Boyle,Winner,Florida Panthers,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:05:39Z,3,02:05,17:55,Hit,n/a,37.0,38.0,MacKenzie Weegar,Hitter,Florida Panthers,Radek Faksa,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:05:52Z,3,02:17,17:43,Shot,Wrist Shot,-63.0,-19.0,Mike Hoffman,Shooter,Florida Panthers,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:06:17Z,3,02:18,17:42,Penalty,Cross checking,-64.0,-29.0,Corey Perry,PenaltyOn,Dallas Stars,Mike Hoffman,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:06:42Z,3,02:18,17:42,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:06:40Z,3,02:22,17:38,Blocked Shot,n/a,-70.0,-9.0,Esa Lindell,Blocker,Dallas Stars,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:06:52Z,3,02:23,17:37,Faceoff,n/a,-69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:07:33Z,3,02:27,17:33,Penalty,Tripping,-71.0,-37.0,Jonathan Huberdeau,PenaltyOn,Florida Panthers,Miro Heiskanen,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:07:47Z,3,02:27,17:33,Faceoff,n/a,69.0,22.0,Vincent Trocheck,Winner,Florida Panthers,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:08:02Z,3,02:42,17:18,Missed Shot,n/a,53.0,-20.0,Denis Gurianov,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:08:16Z,3,02:56,17:04,Shot,Snap Shot,64.0,14.0,Denis Gurianov,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:08:59Z,3,03:40,16:20,Hit,n/a,-41.0,37.0,Jamie Benn,Hitter,Dallas Stars,Anton Stralman,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:09:07Z,3,03:48,16:12,Takeaway,n/a,69.0,33.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:09:13Z,3,03:52,16:08,Shot,Snap Shot,92.0,-10.0,Aleksander Barkov,Shooter,Florida Panthers,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:10:10Z,3,04:51,15:09,Giveaway,n/a,76.0,39.0,Aaron Ekblad,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:10:14Z,3,04:55,15:05,Hit,n/a,98.0,-16.0,MacKenzie Weegar,Hitter,Florida Panthers,Blake Comeau,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:10:24Z,3,04:55,15:05,Giveaway,n/a,76.0,-5.0,Aaron Ekblad,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:10:21Z,3,05:02,14:58,Shot,Slap Shot,42.0,-16.0,Taylor Fedun,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:11:08Z,3,05:20,14:40,Faceoff,n/a,20.0,-22.0,Dominic Toninato,Winner,Florida Panthers,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:11:16Z,3,05:33,14:27,Giveaway,n/a,-56.0,40.0,Anton Khudobin,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:11:42Z,3,05:41,14:19,Faceoff,n/a,-69.0,-22.0,Jason Dickinson,Winner,Dallas Stars,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:12:38Z,3,06:11,13:49,Faceoff,n/a,-69.0,22.0,Jason Dickinson,Winner,Dallas Stars,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:13:14Z,3,06:29,13:31,Faceoff,n/a,-69.0,22.0,Jason Dickinson,Winner,Dallas Stars,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:13:57Z,3,06:59,13:01,Giveaway,n/a,97.0,16.0,Mike Matheson,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:13:57Z,3,07:03,12:57,Goal,Wrist Shot,76.0,12.0,Tyler Seguin,Scorer,Dallas Stars,Joe Pavelski,Assist,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a
+2019-12-21T02:14:50Z,3,07:03,12:57,Faceoff,n/a,0.0,0.0,Brian Boyle,Winner,Florida Panthers,Justin Dowling,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:15:10Z,3,07:09,12:51,Faceoff,n/a,69.0,-22.0,Joe Pavelski,Winner,Dallas Stars,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:15:16Z,3,07:16,12:44,Shot,Slap Shot,38.0,3.0,Tyler Seguin,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:15:16Z,3,07:29,12:31,Hit,n/a,97.0,15.0,Joe Pavelski,Hitter,Dallas Stars,MacKenzie Weegar,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:15:53Z,3,07:52,12:08,Giveaway,n/a,97.0,4.0,Roope Hintz,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:16:19Z,3,08:16,11:44,Shot,Backhand,85.0,-6.0,Jamie Benn,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:18:40Z,3,08:18,11:42,Faceoff,n/a,69.0,-22.0,Dominic Toninato,Winner,Florida Panthers,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:18:58Z,3,08:31,11:29,Hit,n/a,-95.0,-27.0,Dominic Toninato,Hitter,Florida Panthers,Esa Lindell,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:19:07Z,3,08:40,11:20,Giveaway,n/a,51.0,34.0,Mike Matheson,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:19:23Z,3,08:56,11:04,Blocked Shot,n/a,49.0,2.0,Dominic Toninato,Blocker,Florida Panthers,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:19:47Z,3,09:19,10:41,Hit,n/a,94.0,21.0,Blake Comeau,Hitter,Dallas Stars,Josh Brown,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:19:53Z,3,09:25,10:35,Giveaway,n/a,93.0,25.0,Blake Comeau,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:19:58Z,3,09:30,10:30,Takeaway,n/a,-83.0,30.0,Miro Heiskanen,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:20:01Z,3,09:33,10:27,Takeaway,n/a,-79.0,24.0,Frank Vatrano,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:20:15Z,3,09:47,10:13,Takeaway,n/a,40.0,-35.0,Frank Vatrano,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:20:22Z,3,09:53,10:07,Shot,Snap Shot,-40.0,-23.0,Frank Vatrano,Shooter,Florida Panthers,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:21:02Z,3,09:54,10:06,Faceoff,n/a,-69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:21:00Z,3,10:03,09:57,Giveaway,n/a,-89.0,15.0,Andrej Sekera,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:21:05Z,3,10:05,09:55,Shot,Slap Shot,-34.0,32.0,Aaron Ekblad,Shooter,Florida Panthers,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:23:08Z,3,10:06,09:54,Faceoff,n/a,-69.0,22.0,Vincent Trocheck,Winner,Florida Panthers,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:23:47Z,3,10:35,09:25,Penalty,Tripping,96.0,7.0,Corey Perry,PenaltyOn,Dallas Stars,Aaron Ekblad,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:24:25Z,3,10:35,09:25,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:24:39Z,3,10:54,09:06,Missed Shot,n/a,-59.0,30.0,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:25:02Z,3,11:17,08:43,Missed Shot,n/a,-50.0,19.0,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:25:35Z,3,11:49,08:11,Blocked Shot,n/a,-74.0,-1.0,Andrej Sekera,Blocker,Dallas Stars,Jonathan Huberdeau,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:26:26Z,3,12:41,07:19,Missed Shot,n/a,-64.0,5.0,Brian Boyle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:26:40Z,3,12:55,07:05,Hit,n/a,-67.0,-42.0,Jamie Oleksiak,Hitter,Dallas Stars,Vincent Trocheck,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:26:47Z,3,13:02,06:58,Goal,Snap Shot,77.0,-15.0,Jamie Benn,Scorer,Dallas Stars,Miro Heiskanen,Assist,Dallas Stars,Corey Perry,Assist,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers
+2019-12-21T02:28:01Z,3,13:02,06:58,Faceoff,n/a,0.0,0.0,Joe Pavelski,Winner,Dallas Stars,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:28:34Z,3,13:34,06:26,Shot,Slap Shot,44.0,18.0,Taylor Fedun,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:29:12Z,3,13:34,06:26,Faceoff,n/a,69.0,22.0,Noel Acciari,Winner,Florida Panthers,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:31:35Z,3,14:10,05:50,Faceoff,n/a,-20.0,-22.0,Vincent Trocheck,Winner,Florida Panthers,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:32:03Z,3,14:29,05:31,Hit,n/a,-85.0,33.0,Jamie Oleksiak,Hitter,Dallas Stars,Jonathan Huberdeau,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:32:07Z,3,14:29,05:31,Hit,n/a,-85.0,33.0,Radek Faksa,Hitter,Dallas Stars,Noel Acciari,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:32:33Z,3,14:59,05:01,Giveaway,n/a,-66.0,38.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:32:57Z,3,15:23,04:37,Missed Shot,n/a,-48.0,8.0,Brian Boyle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:33:18Z,3,15:44,04:16,Giveaway,n/a,32.0,8.0,Brian Boyle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:33:45Z,3,16:00,04:00,Faceoff,n/a,69.0,22.0,Jamie Benn,Winner,Dallas Stars,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:34:15Z,3,16:14,03:46,Blocked Shot,n/a,78.0,12.0,Anton Stralman,Blocker,Florida Panthers,Jason Dickinson,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:34:25Z,3,16:24,03:36,Blocked Shot,n/a,77.0,11.0,Dominic Toninato,Blocker,Florida Panthers,Jamie Benn,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:35:04Z,3,17:03,02:57,Shot,Wrist Shot,79.0,-5.0,Joe Pavelski,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:35:32Z,3,17:31,02:29,Giveaway,n/a,40.0,-8.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:35:36Z,3,17:35,02:25,Blocked Shot,n/a,69.0,-11.0,MacKenzie Weegar,Blocker,Florida Panthers,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:35:43Z,3,17:41,02:19,Shot,Slap Shot,77.0,10.0,Jamie Oleksiak,Shooter,Dallas Stars,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:36:21Z,3,17:42,02:18,Faceoff,n/a,69.0,22.0,Jamie Benn,Winner,Dallas Stars,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:36:25Z,3,17:50,02:10,Missed Shot,n/a,75.0,21.0,Corey Perry,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:36:56Z,3,18:21,01:39,Giveaway,n/a,99.0,-8.0,Sergei Bobrovsky,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:37:05Z,3,18:28,01:32,Blocked Shot,n/a,83.0,13.0,Vincent Trocheck,Blocker,Florida Panthers,Andrej Sekera,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:37:29Z,3,18:54,01:06,Shot,Slap Shot,-82.0,-8.0,Mike Hoffman,Shooter,Florida Panthers,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:38:00Z,3,18:54,01:06,Faceoff,n/a,-69.0,-22.0,Brian Boyle,Winner,Florida Panthers,Justin Dowling,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:38:05Z,3,19:02,00:58,Giveaway,n/a,-54.0,7.0,Brian Boyle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:38:28Z,3,19:07,00:53,Faceoff,n/a,20.0,-22.0,Justin Dowling,Winner,Dallas Stars,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:38:59Z,3,19:32,00:28,Takeaway,n/a,-42.0,36.0,Colton Sceviour,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

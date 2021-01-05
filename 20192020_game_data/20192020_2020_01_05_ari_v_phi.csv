@@ -1,0 +1,257 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-05T01:08:18Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:09:23Z,1,00:13,19:47,Shot,Wrist Shot,-7.0,24.0,Phil Kessel,Shooter,Arizona Coyotes,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:09:36Z,1,00:14,19:46,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:10:33Z,1,01:03,18:57,Shot,Backhand,-85.0,26.0,Kevin Hayes,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:10:37Z,1,01:07,18:53,Giveaway,n/a,-64.0,-37.0,Conor Garland,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:10:42Z,1,01:12,18:48,Hit,n/a,-97.0,2.0,Kevin Hayes,Hitter,Philadelphia Flyers,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:11:06Z,1,01:37,18:23,Missed Shot,n/a,-60.0,1.0,Tyler Pitlick,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:11:18Z,1,01:47,18:13,Shot,Wrist Shot,-72.0,0.0,Tyler Pitlick,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:11:40Z,1,01:50,18:10,Faceoff,n/a,-69.0,-22.0,Michael Raffl,Winner,Philadelphia Flyers,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:12:07Z,1,01:59,18:01,Shot,Wrist Shot,-73.0,-17.0,Tyler Pitlick,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:12:26Z,1,02:00,18:00,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:12:37Z,1,02:15,17:45,Giveaway,n/a,-91.0,26.0,Jason Demers,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:12:48Z,1,02:29,17:31,Shot,Wrist Shot,64.0,-29.0,Christian Fischer,Shooter,Arizona Coyotes,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:12:58Z,1,02:35,17:25,Blocked Shot,n/a,73.0,-10.0,Travis Sanheim,Blocker,Philadelphia Flyers,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:13:07Z,1,02:37,17:23,Blocked Shot,n/a,79.0,0.0,Travis Sanheim,Blocker,Philadelphia Flyers,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:13:23Z,1,03:05,16:55,Hit,n/a,-3.0,41.0,Joel Farabee,Hitter,Philadelphia Flyers,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:13:38Z,1,03:20,16:40,Hit,n/a,95.0,-24.0,Lawson Crouse,Hitter,Arizona Coyotes,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:14:40Z,1,04:21,15:39,Hit,n/a,-22.0,39.0,Kevin Hayes,Hitter,Philadelphia Flyers,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:14:45Z,1,04:26,15:34,Giveaway,n/a,72.0,37.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:14:52Z,1,04:29,15:31,Takeaway,n/a,29.0,19.0,Conor Garland,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:15:07Z,1,04:40,15:20,Hit,n/a,-82.0,-34.0,Kevin Hayes,Hitter,Philadelphia Flyers,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:15:19Z,1,04:42,15:18,Faceoff,n/a,-69.0,-22.0,Michael Raffl,Winner,Philadelphia Flyers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:15:30Z,1,04:48,15:12,Blocked Shot,n/a,-75.0,-14.0,Christian Dvorak,Blocker,Arizona Coyotes,Travis Sanheim,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:16:36Z,1,05:13,14:47,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:16:38Z,1,05:16,14:44,Hit,n/a,-38.0,-41.0,Christian Fischer,Hitter,Arizona Coyotes,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:16:49Z,1,05:27,14:33,Shot,Wrist Shot,64.0,-12.0,Derek Stepan,Shooter,Arizona Coyotes,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:16:52Z,1,05:27,14:33,Missed Shot,n/a,-39.0,-35.0,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:16:57Z,1,05:35,14:25,Hit,n/a,-18.0,36.0,Christian Fischer,Hitter,Arizona Coyotes,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:17:14Z,1,05:41,14:19,Penalty,Holding the stick,-10.0,35.0,Sean Couturier,PenaltyOn,Philadelphia Flyers,Christian Fischer,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:17:59Z,1,05:41,14:19,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:18:39Z,1,05:58,14:02,Faceoff,n/a,69.0,22.0,Scott Laughton,Winner,Philadelphia Flyers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:18:39Z,1,07:02,12:58,Shot,Wrist Shot,51.0,23.0,Taylor Hall,Shooter,Arizona Coyotes,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:19:41Z,1,07:03,12:57,Giveaway,n/a,98.0,-2.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:26:55Z,1,07:04,12:56,Blocked Shot,n/a,85.0,-5.0,Ivan Provorov,Blocker,Philadelphia Flyers,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:19:46Z,1,07:08,12:52,Shot,Wrist Shot,75.0,12.0,Taylor Hall,Shooter,Arizona Coyotes,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:19:57Z,1,07:19,12:41,Missed Shot,n/a,83.0,-16.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:19:57Z,1,07:51,12:09,Giveaway,n/a,7.0,14.0,Justin Braun,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:23:09Z,1,08:12,11:48,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:23:26Z,1,08:31,11:29,Giveaway,n/a,-64.0,37.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:23:29Z,1,08:34,11:26,Giveaway,n/a,-92.0,22.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:23:39Z,1,08:44,11:16,Hit,n/a,-51.0,-41.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Philippe Myers,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:23:50Z,1,08:53,11:07,Giveaway,n/a,-94.0,20.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:25:30Z,1,09:45,10:15,Giveaway,n/a,-93.0,-20.0,Ilya Lyubushkin,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:25:36Z,1,10:41,09:19,Hit,n/a,-44.0,40.0,Matt Niskanen,Hitter,Philadelphia Flyers,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:27:32Z,1,10:43,09:17,Faceoff,n/a,0.0,0.0,Carl Soderberg,Winner,Arizona Coyotes,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:27:59Z,1,10:58,09:02,Hit,n/a,73.0,-39.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:28:12Z,1,11:10,08:50,Shot,Wrist Shot,52.0,-32.0,Ilya Lyubushkin,Shooter,Arizona Coyotes,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:28:41Z,1,11:17,08:43,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:29:20Z,1,11:43,08:17,Blocked Shot,n/a,-36.0,-6.0,Oliver Ekman-Larsson,Blocker,Arizona Coyotes,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:30:36Z,1,11:44,08:16,Blocked Shot,n/a,-81.0,1.0,Oliver Ekman-Larsson,Blocker,Arizona Coyotes,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:29:55Z,1,11:51,08:09,Faceoff,n/a,-69.0,-22.0,Vinnie Hinostroza,Winner,Arizona Coyotes,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:30:21Z,1,12:07,07:53,Hit,n/a,-25.0,39.0,Travis Konecny,Hitter,Philadelphia Flyers,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:30:34Z,1,12:20,07:40,Missed Shot,n/a,-55.0,-24.0,James van Riemsdyk,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:30:35Z,1,12:21,07:39,Giveaway,n/a,-2.0,-2.0,Justin Braun,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:30:44Z,1,12:30,07:30,Blocked Shot,n/a,-75.0,-6.0,Jakob Chychrun,Blocker,Arizona Coyotes,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:30:59Z,1,12:33,07:27,Goal,Wrist Shot,49.0,34.0,Brad Richardson,Scorer,Arizona Coyotes,Jakob Chychrun,Assist,Arizona Coyotes,Vinnie Hinostroza,Assist,Arizona Coyotes,Carter Hart,Goalie,Philadelphia Flyers
+2020-01-05T01:31:46Z,1,12:33,07:27,Faceoff,n/a,0.0,0.0,Taylor Hall,Winner,Arizona Coyotes,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:31:55Z,1,12:41,07:19,Shot,Tip-In,81.0,0.0,Christian Dvorak,Shooter,Arizona Coyotes,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:32:08Z,1,12:53,07:07,Shot,Wrist Shot,-41.0,-26.0,Scott Laughton,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:32:43Z,1,12:54,07:06,Faceoff,n/a,-69.0,-22.0,Michael Raffl,Winner,Philadelphia Flyers,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:32:51Z,1,12:58,07:02,Shot,Slap Shot,-34.0,-3.0,Ivan Provorov,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:33:25Z,1,13:30,06:30,Goal,Wrist Shot,37.0,1.0,Jordan Oesterle,Scorer,Arizona Coyotes,Ilya Lyubushkin,Assist,Arizona Coyotes,Nick Schmaltz,Assist,Arizona Coyotes,Carter Hart,Goalie,Philadelphia Flyers
+2020-01-05T01:34:13Z,1,13:30,06:30,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:34:14Z,1,13:44,06:16,Hit,n/a,-92.0,-28.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Jakub Voracek,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:35:33Z,1,13:49,06:11,Giveaway,n/a,-95.0,9.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:34:23Z,1,13:52,06:08,Missed Shot,n/a,-36.0,4.0,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:34:40Z,1,13:58,06:02,Hit,n/a,-84.0,35.0,Lawson Crouse,Hitter,Arizona Coyotes,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:34:51Z,1,14:18,05:42,Shot,Wrist Shot,-51.0,7.0,Travis Konecny,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:37:13Z,1,14:19,05:41,Faceoff,n/a,-69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:37:34Z,1,14:50,05:10,Shot,Wrist Shot,60.0,4.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:38:11Z,1,15:22,04:38,Shot,Tip-In,82.0,1.0,Christian Dvorak,Shooter,Arizona Coyotes,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:38:34Z,1,15:23,04:37,Penalty,Roughing,81.0,1.0,Travis Sanheim,PenaltyOn,Philadelphia Flyers,Taylor Hall,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:39:14Z,1,15:23,04:37,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:39:43Z,1,15:49,04:11,Blocked Shot,n/a,74.0,-6.0,Ivan Provorov,Blocker,Philadelphia Flyers,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:40:04Z,1,16:15,03:45,Goal,Snap Shot,63.0,-3.0,Clayton Keller,Scorer,Arizona Coyotes,Taylor Hall,Assist,Arizona Coyotes,Phil Kessel,Assist,Arizona Coyotes,Carter Hart,Goalie,Philadelphia Flyers
+2020-01-05T01:41:25Z,1,16:15,03:45,Faceoff,n/a,0.0,0.0,Carl Soderberg,Winner,Arizona Coyotes,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:41:45Z,1,16:41,03:19,Shot,Slap Shot,-38.0,31.0,Justin Braun,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:41:46Z,1,16:42,03:18,Hit,n/a,-63.0,-40.0,Carl Soderberg,Hitter,Arizona Coyotes,Nicolas Aube-Kubel,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:41:59Z,1,16:53,03:07,Shot,Backhand,-58.0,-34.0,Tyler Pitlick,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:42:48Z,1,16:54,03:06,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:42:38Z,1,16:59,03:01,Shot,Wrist Shot,-42.0,23.0,Philippe Myers,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:42:53Z,1,17:00,03:00,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:43:15Z,1,17:12,02:48,Hit,n/a,13.0,-40.0,Brad Richardson,Hitter,Arizona Coyotes,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:43:42Z,1,17:24,02:36,Penalty,Interference,-4.0,-13.0,Vinnie Hinostroza,PenaltyOn,Arizona Coyotes,Travis Sanheim,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:44:10Z,1,17:24,02:36,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:44:54Z,1,18:17,01:43,Shot,Wrist Shot,-34.0,-16.0,Jakub Voracek,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:45:49Z,1,18:40,01:20,Takeaway,n/a,-66.0,1.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:46:04Z,1,19:27,00:33,Giveaway,n/a,-49.0,-16.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:46:23Z,1,19:46,00:14,Giveaway,n/a,-11.0,-38.0,Carl Soderberg,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T01:46:33Z,1,19:56,00:04,Hit,n/a,-66.0,-40.0,Kevin Hayes,Hitter,Philadelphia Flyers,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:05:08Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:05:34Z,2,00:30,19:30,Giveaway,n/a,31.0,16.0,Conor Garland,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:06:22Z,2,01:17,18:43,Giveaway,n/a,44.0,-38.0,Alex Goligoski,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:06:52Z,2,01:43,18:17,Blocked Shot,n/a,68.0,12.0,Nick Schmaltz,Blocker,Arizona Coyotes,Tyler Pitlick,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:06:51Z,2,01:44,18:16,Missed Shot,n/a,88.0,-22.0,Tyler Pitlick,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:07:06Z,2,01:51,18:09,Shot,Backhand,83.0,7.0,Michael Raffl,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:07:34Z,2,01:59,18:01,Faceoff,n/a,69.0,-22.0,Scott Laughton,Winner,Philadelphia Flyers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:07:57Z,2,02:06,17:54,Blocked Shot,n/a,44.0,-16.0,Vinnie Hinostroza,Blocker,Arizona Coyotes,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:08:02Z,2,02:11,17:49,Hit,n/a,-1.0,40.0,Andy Andreoff,Hitter,Philadelphia Flyers,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:08:28Z,2,02:22,17:38,Shot,Wrist Shot,53.0,3.0,Joel Farabee,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:08:46Z,2,02:23,17:37,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:09:40Z,2,02:31,17:29,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:10:54Z,2,02:48,17:12,Faceoff,n/a,69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:10:56Z,2,02:56,17:04,Hit,n/a,57.0,40.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:11:20Z,2,03:12,16:48,Takeaway,n/a,-60.0,-25.0,Justin Braun,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:11:45Z,2,03:14,16:46,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:11:56Z,2,03:28,16:32,Missed Shot,n/a,-78.0,-14.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:12:31Z,2,04:02,15:58,Shot,Wrist Shot,-44.0,12.0,Clayton Keller,Shooter,Arizona Coyotes,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:13:04Z,2,04:03,15:57,Faceoff,n/a,-69.0,22.0,Scott Laughton,Winner,Philadelphia Flyers,Vinnie Hinostroza,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:13:05Z,2,04:10,15:50,Hit,n/a,47.0,-40.0,Andy Andreoff,Hitter,Philadelphia Flyers,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:13:24Z,2,04:11,15:49,Faceoff,n/a,0.0,0.0,Scott Laughton,Winner,Philadelphia Flyers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:13:36Z,2,04:14,15:46,Hit,n/a,7.0,41.0,Travis Sanheim,Hitter,Philadelphia Flyers,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:13:43Z,2,04:21,15:39,Hit,n/a,95.0,29.0,Scott Laughton,Hitter,Philadelphia Flyers,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:13:46Z,2,04:24,15:36,Hit,n/a,92.0,27.0,Andy Andreoff,Hitter,Philadelphia Flyers,Brad Richardson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:14:15Z,2,04:36,15:24,Penalty,Interference,33.0,38.0,Scott Laughton,PenaltyOn,Philadelphia Flyers,Jordan Oesterle,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:14:45Z,2,04:36,15:24,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:16:09Z,2,05:10,14:50,Giveaway,n/a,-81.0,-36.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:16:48Z,2,06:12,13:48,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:17:21Z,2,06:39,13:21,Shot,Wrist Shot,-65.0,31.0,Nick Schmaltz,Shooter,Arizona Coyotes,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:19:29Z,2,06:40,13:20,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:19:55Z,2,07:07,12:53,Hit,n/a,2.0,39.0,Claude Giroux,Hitter,Philadelphia Flyers,Jason Demers,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:20:21Z,2,07:31,12:29,Blocked Shot,n/a,70.0,9.0,Christian Fischer,Blocker,Arizona Coyotes,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:21:00Z,2,08:10,11:50,Shot,Wrist Shot,85.0,-6.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:21:28Z,2,08:11,11:49,Faceoff,n/a,69.0,22.0,Michael Raffl,Winner,Philadelphia Flyers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:21:36Z,2,08:16,11:44,Blocked Shot,n/a,32.0,0.0,Ilya Lyubushkin,Blocker,Arizona Coyotes,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:21:44Z,2,08:18,11:42,Penalty,Hooking,66.0,3.0,Christian Dvorak,PenaltyOn,Arizona Coyotes,Nicolas Aube-Kubel,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:22:19Z,2,08:18,11:42,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:22:38Z,2,08:44,11:16,Giveaway,n/a,88.0,-21.0,Claude Giroux,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:24:00Z,2,10:05,09:55,Shot,Wrist Shot,75.0,-1.0,Kevin Hayes,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:24:34Z,2,10:06,09:54,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:24:46Z,2,10:18,09:42,Shot,Slap Shot,-54.0,-22.0,Lawson Crouse,Shooter,Arizona Coyotes,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:25:01Z,2,10:33,09:27,Hit,n/a,95.0,-28.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:25:11Z,2,10:40,09:20,Shot,Slap Shot,41.0,1.0,Philippe Myers,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:27:14Z,2,10:41,09:19,Faceoff,n/a,69.0,22.0,Michael Raffl,Winner,Philadelphia Flyers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:27:26Z,2,10:47,09:13,Shot,Wrist Shot,38.0,10.0,Travis Sanheim,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:27:34Z,2,10:48,09:12,Penalty,Hooking,84.0,-8.0,Jordan Oesterle,PenaltyOn,Arizona Coyotes,Nicolas Aube-Kubel,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:28:12Z,2,10:48,09:12,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:28:27Z,2,11:12,08:48,Blocked Shot,n/a,67.0,-10.0,Oliver Ekman-Larsson,Blocker,Arizona Coyotes,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:28:42Z,2,11:28,08:32,Giveaway,n/a,-21.0,-15.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:28:47Z,2,11:33,08:27,Shot,Slap Shot,-41.0,5.0,Jason Demers,Shooter,Arizona Coyotes,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:29:33Z,2,12:19,07:41,Missed Shot,n/a,39.0,-22.0,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:29:36Z,2,12:21,07:39,Takeaway,n/a,67.0,39.0,Brad Richardson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:29:41Z,2,12:22,07:38,Penalty,Hooking,72.0,39.0,Claude Giroux,PenaltyOn,Philadelphia Flyers,Brad Richardson,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:30:29Z,2,12:22,07:38,Faceoff,n/a,-69.0,22.0,Scott Laughton,Winner,Philadelphia Flyers,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:30:57Z,2,12:43,07:17,Blocked Shot,n/a,77.0,-4.0,Alex Goligoski,Blocker,Arizona Coyotes,Justin Braun,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:31:53Z,2,13:38,06:22,Takeaway,n/a,73.0,38.0,Taylor Hall,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:32:18Z,2,13:42,06:18,Faceoff,n/a,-20.0,22.0,Nick Schmaltz,Winner,Arizona Coyotes,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:32:31Z,2,13:48,06:12,Blocked Shot,n/a,-59.0,-20.0,Philippe Myers,Blocker,Philadelphia Flyers,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:32:53Z,2,14:10,05:50,Blocked Shot,n/a,-67.0,1.0,Travis Sanheim,Blocker,Philadelphia Flyers,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:33:02Z,2,14:19,05:41,Missed Shot,n/a,-48.0,9.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:33:05Z,2,14:22,05:38,Blocked Shot,n/a,-71.0,1.0,Joel Farabee,Blocker,Philadelphia Flyers,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:33:19Z,2,14:31,05:29,Blocked Shot,n/a,-66.0,4.0,Philippe Myers,Blocker,Philadelphia Flyers,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:35:31Z,2,14:32,05:28,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:35:36Z,2,14:42,05:18,Missed Shot,n/a,-63.0,9.0,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:35:56Z,2,14:45,05:15,Faceoff,n/a,20.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:36:16Z,2,14:55,05:05,Giveaway,n/a,94.0,24.0,Jason Demers,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:36:21Z,2,15:00,05:00,Missed Shot,n/a,38.0,28.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:36:23Z,2,15:02,04:58,Hit,n/a,94.0,-26.0,Lawson Crouse,Hitter,Arizona Coyotes,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:36:37Z,2,15:10,04:50,Shot,Slap Shot,32.0,7.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:37:22Z,2,15:12,04:48,Faceoff,n/a,69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:37:23Z,2,15:31,04:29,Missed Shot,n/a,-79.0,-7.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:38:23Z,2,16:32,03:28,Giveaway,n/a,-60.0,-29.0,Jordan Oesterle,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:38:51Z,2,16:42,03:18,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:39:03Z,2,16:47,03:13,Shot,Slap Shot,-42.0,32.0,Jason Demers,Shooter,Arizona Coyotes,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:39:32Z,2,16:48,03:12,Faceoff,n/a,-69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:39:49Z,2,17:08,02:52,Hit,n/a,94.0,-28.0,Scott Laughton,Hitter,Philadelphia Flyers,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:39:57Z,2,17:13,02:47,Hit,n/a,95.0,26.0,Andy Andreoff,Hitter,Philadelphia Flyers,Jason Demers,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:40:04Z,2,17:14,02:46,Blocked Shot,n/a,77.0,11.0,Jason Demers,Blocker,Arizona Coyotes,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:40:21Z,2,17:26,02:34,Penalty,Hooking,-66.0,4.0,Scott Laughton,PenaltyOn,Philadelphia Flyers,Conor Garland,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:40:55Z,2,17:26,02:34,Faceoff,n/a,-69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:41:25Z,2,17:58,02:02,Giveaway,n/a,-93.0,15.0,Nick Schmaltz,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:42:02Z,2,18:08,01:52,Faceoff,n/a,20.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:42:14Z,2,18:23,01:37,Takeaway,n/a,14.0,38.0,Michael Raffl,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:42:42Z,2,18:51,01:09,Giveaway,n/a,-78.0,-38.0,Clayton Keller,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:43:46Z,2,19:53,00:07,Giveaway,n/a,49.0,38.0,Travis Konecny,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:43:53Z,2,19:59,00:01,Goal,Backhand,-69.0,7.0,Lawson Crouse,Scorer,Arizona Coyotes,Derek Stepan,Assist,Arizona Coyotes,Alex Goligoski,Assist,Arizona Coyotes,Brian Elliott,Goalie,Philadelphia Flyers
+2020-01-05T02:44:55Z,2,19:59,00:01,Faceoff,n/a,0.0,0.0,Scott Laughton,Winner,Philadelphia Flyers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:44:55Z,2,20:00,00:00,Penalty,Roughing,12.0,19.0,Vinnie Hinostroza,PenaltyOn,Arizona Coyotes,Travis Konecny,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T02:44:55Z,2,20:00,00:00,Penalty,Roughing,11.0,22.0,Travis Konecny,PenaltyOn,Philadelphia Flyers,Vinnie Hinostroza,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:05:23Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:05:09Z,3,00:23,19:37,Missed Shot,n/a,-70.0,-30.0,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:05:14Z,3,00:32,19:28,Takeaway,n/a,-11.0,39.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:06:14Z,3,01:32,18:28,Missed Shot,n/a,-62.0,-13.0,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:06:53Z,3,01:56,18:04,Hit,n/a,54.0,-29.0,Justin Braun,Hitter,Philadelphia Flyers,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:06:40Z,3,01:58,18:02,Hit,n/a,85.0,-35.0,Michael Raffl,Hitter,Philadelphia Flyers,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:07:17Z,3,02:35,17:25,Hit,n/a,98.0,3.0,Matt Niskanen,Hitter,Philadelphia Flyers,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:07:19Z,3,02:37,17:23,Missed Shot,n/a,82.0,11.0,Christian Fischer,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:07:35Z,3,02:53,17:07,Hit,n/a,-23.0,40.0,Matt Niskanen,Hitter,Philadelphia Flyers,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:07:49Z,3,03:00,17:00,Goal,Wrist Shot,-61.0,7.0,Tyler Pitlick,Scorer,Philadelphia Flyers,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:08:35Z,3,03:00,17:00,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:09:11Z,3,03:53,16:07,Hit,n/a,58.0,-9.0,Clayton Keller,Hitter,Arizona Coyotes,Kevin Hayes,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:09:23Z,3,04:06,15:54,Hit,n/a,49.0,-40.0,Michael Raffl,Hitter,Philadelphia Flyers,Nick Schmaltz,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:09:42Z,3,04:26,15:34,Takeaway,n/a,90.0,19.0,Nick Schmaltz,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:09:48Z,3,04:27,15:33,Goal,Wrist Shot,69.0,5.0,Clayton Keller,Scorer,Arizona Coyotes,Nick Schmaltz,Assist,Arizona Coyotes,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a
+2020-01-05T03:10:30Z,3,04:27,15:33,Faceoff,n/a,0.0,0.0,Scott Laughton,Winner,Philadelphia Flyers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:10:37Z,3,04:40,15:20,Giveaway,n/a,-97.0,-20.0,Ilya Lyubushkin,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:10:38Z,3,04:42,15:18,Missed Shot,n/a,-68.0,-35.0,Andy Andreoff,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:11:00Z,3,04:49,15:11,Shot,Wrist Shot,-65.0,-35.0,Scott Laughton,Shooter,Philadelphia Flyers,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:11:20Z,3,04:50,15:10,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:11:35Z,3,04:52,15:08,Shot,Wrist Shot,-53.0,-13.0,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:11:47Z,3,04:53,15:07,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:12:34Z,3,05:03,14:57,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:12:34Z,3,05:08,14:52,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:13:11Z,3,05:32,14:28,Missed Shot,n/a,-44.0,6.0,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:13:14Z,3,05:35,14:25,Hit,n/a,-80.0,-40.0,Brad Richardson,Hitter,Arizona Coyotes,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:13:51Z,3,05:40,14:20,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:14:11Z,3,05:44,14:16,Giveaway,n/a,98.0,-11.0,Justin Braun,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:14:17Z,3,06:02,13:58,Blocked Shot,n/a,59.0,-15.0,Shayne Gostisbehere,Blocker,Philadelphia Flyers,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:14:44Z,3,06:30,13:30,Missed Shot,n/a,73.0,24.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:15:49Z,3,07:32,12:28,Missed Shot,n/a,36.0,31.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:18:04Z,3,07:33,12:27,Faceoff,n/a,69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:18:25Z,3,08:05,11:55,Hit,n/a,-91.0,31.0,Jakob Chychrun,Hitter,Arizona Coyotes,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:18:35Z,3,08:16,11:44,Missed Shot,n/a,57.0,-26.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:19:10Z,3,08:46,11:14,Goal,Wrist Shot,-89.0,15.0,Justin Braun,Scorer,Philadelphia Flyers,Sean Couturier,Assist,Philadelphia Flyers,Shayne Gostisbehere,Assist,Philadelphia Flyers,Adin Hill,Goalie,Arizona Coyotes
+2020-01-05T03:20:07Z,3,08:46,11:14,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:20:12Z,3,09:06,10:54,Hit,n/a,86.0,34.0,Christian Fischer,Hitter,Arizona Coyotes,Philippe Myers,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:20:45Z,3,09:38,10:22,Shot,Slap Shot,-83.0,-4.0,Joel Farabee,Shooter,Philadelphia Flyers,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:21:50Z,3,09:39,10:21,Faceoff,n/a,-69.0,-22.0,Michael Raffl,Winner,Philadelphia Flyers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:22:50Z,3,10:50,09:10,Takeaway,n/a,21.0,-30.0,Travis Konecny,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:22:59Z,3,10:54,09:06,Takeaway,n/a,6.0,-27.0,Nick Schmaltz,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:23:00Z,3,10:56,09:04,Shot,Wrist Shot,83.0,-9.0,Clayton Keller,Shooter,Arizona Coyotes,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:25:23Z,3,10:57,09:03,Faceoff,n/a,69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:25:43Z,3,11:15,08:45,Hit,n/a,-71.0,-39.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:25:46Z,3,11:39,08:21,Blocked Shot,n/a,72.0,11.0,James van Riemsdyk,Blocker,Philadelphia Flyers,Lawson Crouse,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:26:26Z,3,12:16,07:44,Missed Shot,n/a,78.0,-4.0,Christian Fischer,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:26:41Z,3,12:34,07:26,Hit,n/a,98.0,15.0,Vinnie Hinostroza,Hitter,Arizona Coyotes,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:27:08Z,3,13:01,06:59,Hit,n/a,-98.0,7.0,Christian Dvorak,Hitter,Arizona Coyotes,Andy Andreoff,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:27:18Z,3,13:11,06:49,Missed Shot,n/a,-41.0,29.0,Philippe Myers,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:28:03Z,3,13:16,06:44,Faceoff,n/a,20.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:28:54Z,3,14:12,05:48,Blocked Shot,n/a,-74.0,2.0,Jakob Chychrun,Blocker,Arizona Coyotes,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:29:15Z,3,14:37,05:23,Hit,n/a,-96.0,-23.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:29:20Z,3,14:41,05:19,Shot,Backhand,-73.0,-1.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:29:57Z,3,15:19,04:41,Giveaway,n/a,-50.0,38.0,Shayne Gostisbehere,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:32:30Z,3,15:35,04:25,Faceoff,n/a,-20.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:32:41Z,3,15:41,04:19,Faceoff,n/a,-20.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:33:08Z,3,16:06,03:54,Shot,Wrist Shot,-81.0,-24.0,Sean Couturier,Shooter,Philadelphia Flyers,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:33:13Z,3,16:11,03:49,Hit,n/a,-73.0,-40.0,Lawson Crouse,Hitter,Arizona Coyotes,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:33:27Z,3,16:19,03:41,Shot,Wrist Shot,-82.0,-7.0,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:33:55Z,3,16:39,03:21,Penalty,Tripping,-37.0,5.0,Phil Kessel,PenaltyOn,Arizona Coyotes,Sean Couturier,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:34:30Z,3,16:39,03:21,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:34:57Z,3,16:42,03:18,Faceoff,n/a,-69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:35:17Z,3,16:57,03:03,Missed Shot,n/a,-82.0,6.0,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:35:37Z,3,17:16,02:44,Missed Shot,n/a,-45.0,-26.0,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:35:43Z,3,17:22,02:38,Missed Shot,n/a,-80.0,5.0,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:36:08Z,3,17:36,02:24,Goal,Wrist Shot,-20.0,-20.0,Derek Stepan,Scorer,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:36:41Z,3,17:36,02:24,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:37:18Z,3,18:18,01:42,Shot,Slap Shot,-51.0,-5.0,Travis Sanheim,Shooter,Philadelphia Flyers,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:37:32Z,3,18:31,01:29,Shot,Wrist Shot,-54.0,-11.0,Travis Sanheim,Shooter,Philadelphia Flyers,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:37:57Z,3,18:32,01:28,Faceoff,n/a,-69.0,-22.0,Scott Laughton,Winner,Philadelphia Flyers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:38:07Z,3,18:40,01:20,Shot,Wrist Shot,-46.0,-28.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:38:15Z,3,18:48,01:12,Hit,n/a,-79.0,37.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Joel Farabee,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:38:23Z,3,18:56,01:04,Shot,Wrist Shot,-74.0,-5.0,Michael Raffl,Shooter,Philadelphia Flyers,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:38:33Z,3,19:05,00:55,Hit,n/a,-88.0,-31.0,Joel Farabee,Hitter,Philadelphia Flyers,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:39:34Z,3,19:40,00:20,Faceoff,n/a,69.0,22.0,Andy Andreoff,Winner,Philadelphia Flyers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:39:45Z,3,19:45,00:15,Shot,Snap Shot,70.0,13.0,Clayton Keller,Shooter,Arizona Coyotes,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-05T03:40:00Z,3,19:46,00:14,Faceoff,n/a,69.0,22.0,Andy Andreoff,Winner,Philadelphia Flyers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a

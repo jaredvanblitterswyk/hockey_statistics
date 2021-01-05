@@ -1,0 +1,270 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-29T23:08:36Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:09:11Z,1,00:18,19:42,Shot,Wrist Shot,75.0,27.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:09:18Z,1,00:22,19:38,Shot,Wrist Shot,62.0,-9.0,Dominik Simon,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:09:25Z,1,00:31,19:29,Missed Shot,n/a,-60.0,-19.0,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:09:34Z,1,00:41,19:19,Shot,Snap Shot,17.0,-14.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:09:53Z,1,00:59,19:01,Blocked Shot,n/a,76.0,10.0,Sean Couturier,Blocker,Philadelphia Flyers,Teddy Blueger,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:09:55Z,1,01:02,18:58,Hit,n/a,67.0,-39.0,Oskar Lindblom,Hitter,Philadelphia Flyers,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:10:17Z,1,01:14,18:46,Hit,n/a,6.0,35.0,Sean Couturier,Hitter,Philadelphia Flyers,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:10:34Z,1,01:15,18:45,Faceoff,n/a,20.0,22.0,Michael Raffl,Winner,Philadelphia Flyers,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:10:43Z,1,01:21,18:39,Hit,n/a,-36.0,-41.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Robert Hagg,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:10:56Z,1,01:23,18:37,Hit,n/a,-58.0,40.0,Michael Raffl,Hitter,Philadelphia Flyers,Alex Galchenyuk,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:11:31Z,1,01:26,18:34,Faceoff,n/a,-69.0,22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:12:16Z,1,01:33,18:27,Faceoff,n/a,-69.0,-22.0,Michael Raffl,Winner,Philadelphia Flyers,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:12:48Z,1,01:38,18:22,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:13:02Z,1,01:44,18:16,Blocked Shot,n/a,-63.0,-10.0,Nick Bjugstad,Blocker,Pittsburgh Penguins,Robert Hagg,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:13:10Z,1,01:53,18:07,Blocked Shot,n/a,-63.0,19.0,Brian Dumoulin,Blocker,Pittsburgh Penguins,James van Riemsdyk,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:13:22Z,1,02:02,17:58,Missed Shot,n/a,69.0,-16.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:14:17Z,1,02:59,17:01,Hit,n/a,-29.0,-41.0,Jake Guentzel,Hitter,Pittsburgh Penguins,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:14:37Z,1,03:19,16:41,Shot,Backhand,-72.0,9.0,Michael Raffl,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:14:43Z,1,03:26,16:34,Blocked Shot,n/a,-77.0,-10.0,Sidney Crosby,Blocker,Pittsburgh Penguins,Michael Raffl,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:15:37Z,1,03:54,16:06,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:16:15Z,1,04:06,15:54,Faceoff,n/a,0.0,0.0,Tyler Pitlick,Winner,Philadelphia Flyers,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:17:24Z,1,05:01,14:59,Shot,Wrist Shot,74.0,-11.0,Bryan Rust,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:17:33Z,1,05:08,14:52,Shot,Wrist Shot,-38.0,22.0,Claude Giroux,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:17:52Z,1,05:10,14:50,Faceoff,n/a,-69.0,22.0,Jakub Voracek,Winner,Philadelphia Flyers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:18:54Z,1,05:18,14:42,Faceoff,n/a,-20.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:19:16Z,1,05:36,14:24,Shot,Wrist Shot,-5.0,-7.0,Claude Giroux,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:19:47Z,1,05:45,14:15,Faceoff,n/a,20.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:19:56Z,1,05:55,14:05,Hit,n/a,98.0,-9.0,Bryan Rust,Hitter,Pittsburgh Penguins,Robert Hagg,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:20:09Z,1,05:55,14:05,Giveaway,n/a,75.0,-39.0,Michael Raffl,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:20:02Z,1,05:57,14:03,Goal,Snap Shot,34.0,-25.0,Justin Schultz,Scorer,Pittsburgh Penguins,Dominik Kahun,Assist,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a
+2019-10-29T23:20:50Z,1,05:57,14:03,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:21:00Z,1,06:08,13:52,Hit,n/a,-17.0,-30.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:21:13Z,1,06:21,13:39,Takeaway,n/a,34.0,31.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:21:50Z,1,06:53,13:07,Missed Shot,n/a,86.0,23.0,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:22:09Z,1,07:17,12:43,Shot,Wrist Shot,-44.0,18.0,Claude Giroux,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:22:24Z,1,07:32,12:28,Shot,Wrist Shot,43.0,-16.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:22:37Z,1,07:45,12:15,Missed Shot,n/a,57.0,-17.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:22:55Z,1,08:03,11:57,Hit,n/a,98.0,18.0,Bryan Rust,Hitter,Pittsburgh Penguins,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:23:07Z,1,08:13,11:47,Goal,Wrist Shot,78.0,3.0,Jared McCann,Scorer,Pittsburgh Penguins,Dominik Kahun,Assist,Pittsburgh Penguins,Bryan Rust,Assist,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers
+2019-10-29T23:23:52Z,1,08:13,11:47,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:24:14Z,1,08:22,11:38,Faceoff,n/a,69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:24:52Z,1,08:46,11:14,Goal,Snap Shot,68.0,-9.0,Dominik Simon,Scorer,Pittsburgh Penguins,Sidney Crosby,Assist,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a
+2019-10-29T23:25:34Z,1,08:46,11:14,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:25:59Z,1,08:51,11:09,Faceoff,n/a,-69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:26:22Z,1,09:08,10:52,Hit,n/a,41.0,40.0,Robert Hagg,Hitter,Philadelphia Flyers,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:26:30Z,1,09:16,10:44,Giveaway,n/a,51.0,-11.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:26:36Z,1,09:22,10:38,Missed Shot,n/a,-44.0,13.0,James van Riemsdyk,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:26:50Z,1,09:29,10:31,Penalty,Tripping,80.0,-8.0,Robert Hagg,PenaltyOn,Philadelphia Flyers,Teddy Blueger,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:28:56Z,1,09:29,10:31,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:30:00Z,1,10:07,09:53,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:30:32Z,1,10:36,09:24,Takeaway,n/a,36.0,28.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:30:42Z,1,10:42,09:18,Hit,n/a,-2.0,-42.0,Kris Letang,Hitter,Pittsburgh Penguins,Oskar Lindblom,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:31:01Z,1,11:05,08:55,Hit,n/a,60.0,-40.0,Michael Raffl,Hitter,Philadelphia Flyers,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:31:46Z,1,11:47,08:13,Shot,Wrist Shot,42.0,-16.0,John Marino,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:33:40Z,1,11:48,08:12,Faceoff,n/a,69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:34:14Z,1,11:59,08:01,Shot,Tip-In,77.0,-1.0,Dominik Simon,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:34:18Z,1,12:04,07:56,Shot,Backhand,80.0,3.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:34:56Z,1,12:41,07:19,Hit,n/a,-41.0,-41.0,Matt Niskanen,Hitter,Philadelphia Flyers,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:35:15Z,1,12:47,07:13,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:35:56Z,1,13:13,06:47,Hit,n/a,-52.0,-38.0,Nick Bjugstad,Hitter,Pittsburgh Penguins,Kevin Hayes,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:36:05Z,1,13:13,06:47,Hit,n/a,-85.0,-36.0,Joel Farabee,Hitter,Philadelphia Flyers,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:36:03Z,1,13:20,06:40,Blocked Shot,n/a,-74.0,3.0,Justin Schultz,Blocker,Pittsburgh Penguins,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:36:15Z,1,13:33,06:27,Hit,n/a,94.0,27.0,Robert Hagg,Hitter,Philadelphia Flyers,Nick Bjugstad,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:36:58Z,1,13:49,06:11,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:37:08Z,1,13:57,06:03,Hit,n/a,-10.0,37.0,Chris Stewart,Hitter,Philadelphia Flyers,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:37:15Z,1,14:02,05:58,Goal,Snap Shot,85.0,-23.0,Sidney Crosby,Scorer,Pittsburgh Penguins,Dominik Simon,Assist,Pittsburgh Penguins,Kris Letang,Assist,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers
+2019-10-29T23:37:50Z,1,14:02,05:58,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:38:15Z,1,14:27,05:33,Giveaway,n/a,39.0,-16.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:38:29Z,1,14:40,05:20,Shot,Snap Shot,50.0,8.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:39:03Z,1,15:15,04:45,Hit,n/a,-37.0,-41.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:39:56Z,1,15:57,04:03,Hit,n/a,80.0,40.0,Nick Bjugstad,Hitter,Pittsburgh Penguins,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:40:32Z,1,16:04,03:56,Hit,n/a,-74.0,-39.0,Michael Raffl,Hitter,Philadelphia Flyers,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:40:19Z,1,16:16,03:44,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:40:55Z,1,16:35,03:25,Shot,Tip-In,76.0,-6.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:41:03Z,1,16:43,03:17,Shot,Wrist Shot,40.0,-24.0,Kris Letang,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:42:49Z,1,16:44,03:16,Faceoff,n/a,69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Patric Hornqvist,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:43:50Z,1,17:12,02:48,Blocked Shot,n/a,-68.0,-8.0,Justin Schultz,Blocker,Pittsburgh Penguins,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:43:54Z,1,17:16,02:44,Hit,n/a,-55.0,40.0,Matt Niskanen,Hitter,Philadelphia Flyers,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:44:18Z,1,17:26,02:34,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:44:39Z,1,17:29,02:31,Shot,Wrist Shot,-61.0,-35.0,Robert Hagg,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:45:02Z,1,17:30,02:30,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:45:10Z,1,17:34,02:26,Hit,n/a,-95.0,-29.0,John Marino,Hitter,Pittsburgh Penguins,Joel Farabee,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:45:16Z,1,17:39,02:21,Hit,n/a,-90.0,-29.0,Joel Farabee,Hitter,Philadelphia Flyers,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:45:34Z,1,17:58,02:02,Hit,n/a,-26.0,41.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Shayne Gostisbehere,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:45:35Z,1,17:59,02:01,Blocked Shot,n/a,-70.0,11.0,Jack Johnson,Blocker,Pittsburgh Penguins,Joel Farabee,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:46:01Z,1,18:11,01:49,Shot,Wrist Shot,77.0,5.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:45:54Z,1,18:18,01:42,Missed Shot,n/a,44.0,10.0,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:46:51Z,1,18:29,01:31,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:46:41Z,1,18:32,01:28,Hit,n/a,-99.0,-7.0,Chris Stewart,Hitter,Philadelphia Flyers,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:46:58Z,1,18:51,01:09,Hit,n/a,-92.0,-29.0,Chris Stewart,Hitter,Philadelphia Flyers,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:47:36Z,1,19:29,00:31,Giveaway,n/a,34.0,37.0,Brian Dumoulin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:47:40Z,1,19:32,00:28,Takeaway,n/a,3.0,35.0,Dominik Simon,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:47:47Z,1,19:39,00:21,Hit,n/a,14.0,38.0,Matt Niskanen,Hitter,Philadelphia Flyers,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:48:19Z,1,19:56,00:04,Penalty,Too many men on the ice,-21.0,41.0,Patric Hornqvist,PenaltyOn,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:49:00Z,1,19:56,00:04,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-29T23:49:10Z,1,19:59,00:01,Shot,Wrist Shot,-80.0,-7.0,Joel Farabee,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:07:37Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:08:10Z,2,00:32,19:28,Hit,n/a,80.0,-40.0,James van Riemsdyk,Hitter,Philadelphia Flyers,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:08:59Z,2,01:20,18:40,Shot,Wrist Shot,76.0,1.0,Sean Couturier,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:09:05Z,2,01:27,18:33,Hit,n/a,71.0,-42.0,Dominik Simon,Hitter,Pittsburgh Penguins,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:09:21Z,2,01:43,18:17,Shot,Slap Shot,38.0,3.0,Ivan Provorov,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:09:35Z,2,01:57,18:03,Missed Shot,n/a,50.0,-13.0,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:09:42Z,2,02:03,17:57,Missed Shot,n/a,45.0,36.0,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:10:07Z,2,02:28,17:32,Hit,n/a,98.0,7.0,Michael Raffl,Hitter,Philadelphia Flyers,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:10:15Z,2,02:36,17:24,Hit,n/a,-91.0,32.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Robert Hagg,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:10:35Z,2,02:49,17:11,Penalty,Hooking,-74.0,16.0,Robert Hagg,PenaltyOn,Philadelphia Flyers,Patric Hornqvist,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:11:06Z,2,02:49,17:11,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:11:24Z,2,03:03,16:57,Missed Shot,n/a,-80.0,-4.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:11:35Z,2,03:14,16:46,Missed Shot,n/a,-79.0,-6.0,Jake Guentzel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:12:20Z,2,03:59,16:01,Giveaway,n/a,-56.0,35.0,Oskar Lindblom,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:12:42Z,2,04:21,15:39,Giveaway,n/a,64.0,-8.0,Matt Murray,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:12:45Z,2,04:24,15:36,Missed Shot,n/a,62.0,35.0,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:13:28Z,2,05:08,14:52,Hit,n/a,-31.0,-40.0,Jack Johnson,Hitter,Pittsburgh Penguins,Michael Raffl,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:13:38Z,2,05:17,14:43,Shot,Wrist Shot,-79.0,1.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:13:41Z,2,05:20,14:40,Hit,n/a,-89.0,-35.0,Justin Braun,Hitter,Philadelphia Flyers,Alex Galchenyuk,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:13:58Z,2,05:32,14:28,Blocked Shot,n/a,-73.0,-6.0,Travis Konecny,Blocker,Philadelphia Flyers,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:13:57Z,2,05:37,14:23,Giveaway,n/a,31.0,41.0,Travis Konecny,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:14:14Z,2,05:42,14:18,Hit,n/a,-94.0,-14.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Robert Hagg,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:14:28Z,2,05:51,14:09,Shot,Wrist Shot,67.0,13.0,Robert Hagg,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:14:46Z,2,05:52,14:08,Faceoff,n/a,69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:14:55Z,2,05:59,14:01,Hit,n/a,46.0,-41.0,Robert Hagg,Hitter,Philadelphia Flyers,Dominik Kahun,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:15:16Z,2,06:20,13:40,Shot,Wrist Shot,-61.0,-6.0,Jared McCann,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:15:47Z,2,06:51,13:09,Giveaway,n/a,-59.0,-27.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:16:05Z,2,07:09,12:51,Hit,n/a,-66.0,39.0,Matt Niskanen,Hitter,Philadelphia Flyers,Sidney Crosby,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:16:21Z,2,07:25,12:35,Hit,n/a,-31.0,-41.0,Chris Stewart,Hitter,Philadelphia Flyers,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:16:27Z,2,07:28,12:32,Hit,n/a,-67.0,-37.0,Matt Niskanen,Hitter,Philadelphia Flyers,Sidney Crosby,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:16:25Z,2,07:29,12:31,Shot,Wrist Shot,-79.0,-5.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:18:38Z,2,07:31,12:29,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:18:49Z,2,07:43,12:17,Shot,Wrist Shot,63.0,10.0,Travis Sanheim,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:18:57Z,2,07:50,12:10,Shot,Wrist Shot,37.0,-17.0,Justin Braun,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:19:03Z,2,07:54,12:06,Shot,Backhand,87.0,-10.0,Oskar Lindblom,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:19:11Z,2,07:55,12:05,Shot,Wrist Shot,78.0,-5.0,Claude Giroux,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:19:34Z,2,07:56,12:04,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:19:43Z,2,08:03,11:57,Shot,Wrist Shot,64.0,-38.0,Travis Konecny,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:19:56Z,2,08:16,11:44,Shot,Snap Shot,-47.0,-5.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:20:04Z,2,08:24,11:36,Hit,n/a,-40.0,-41.0,Kevin Hayes,Hitter,Philadelphia Flyers,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:20:06Z,2,08:26,11:34,Shot,Wrist Shot,51.0,-19.0,Kevin Hayes,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:20:14Z,2,08:34,11:26,Hit,n/a,72.0,-41.0,Travis Konecny,Hitter,Philadelphia Flyers,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:20:30Z,2,08:50,11:10,Takeaway,n/a,53.0,-19.0,Zach Aston-Reese,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:20:35Z,2,08:55,11:05,Hit,n/a,-2.0,-38.0,Kevin Hayes,Hitter,Philadelphia Flyers,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:21:42Z,2,10:02,09:58,Giveaway,n/a,31.0,40.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:21:57Z,2,10:08,09:52,Penalty,Hooking,-37.0,-4.0,Jakub Voracek,PenaltyOn,Philadelphia Flyers,Sidney Crosby,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:24:02Z,2,10:08,09:52,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:24:37Z,2,10:16,09:44,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:25:15Z,2,10:35,09:25,Missed Shot,n/a,-35.0,11.0,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:25:32Z,2,10:52,09:08,Shot,Wrist Shot,55.0,35.0,Kevin Hayes,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:26:16Z,2,11:32,08:28,Penalty,Interference,-21.0,1.0,Sidney Crosby,PenaltyOn,Pittsburgh Penguins,Sean Couturier,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:27:04Z,2,11:32,08:28,Faceoff,n/a,69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:27:12Z,2,11:47,08:13,Takeaway,n/a,33.0,25.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:28:12Z,2,12:47,07:13,Hit,n/a,79.0,40.0,John Marino,Hitter,Pittsburgh Penguins,Joel Farabee,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:28:27Z,2,12:59,07:01,Shot,Snap Shot,46.0,-16.0,Jakub Voracek,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:28:34Z,2,13:03,06:57,Shot,Backhand,83.0,-7.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:28:52Z,2,13:04,06:56,Faceoff,n/a,69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:29:05Z,2,13:11,06:49,Giveaway,n/a,99.0,6.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:29:47Z,2,13:53,06:07,Hit,n/a,97.0,18.0,Brian Dumoulin,Hitter,Pittsburgh Penguins,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:29:52Z,2,13:59,06:01,Hit,n/a,63.0,-40.0,Kris Letang,Hitter,Pittsburgh Penguins,Michael Raffl,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:30:08Z,2,14:06,05:54,Takeaway,n/a,61.0,-15.0,Michael Raffl,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:30:49Z,2,14:08,05:52,Blocked Shot,n/a,64.0,-6.0,Kris Letang,Blocker,Pittsburgh Penguins,Mikhail Vorobyev,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:32:15Z,2,14:09,05:51,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:32:54Z,2,14:39,05:21,Shot,Snap Shot,-38.0,16.0,Justin Schultz,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:33:17Z,2,14:40,05:20,Faceoff,n/a,-69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:33:36Z,2,14:56,05:04,Hit,n/a,88.0,35.0,Travis Konecny,Hitter,Philadelphia Flyers,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:34:11Z,2,15:00,05:00,Faceoff,n/a,20.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:34:28Z,2,15:14,04:46,Hit,n/a,44.0,42.0,Robert Hagg,Hitter,Philadelphia Flyers,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:34:55Z,2,15:41,04:19,Shot,Wrist Shot,-55.0,1.0,Brian Dumoulin,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:35:05Z,2,15:51,04:09,Shot,Snap Shot,76.0,-5.0,Mikhail Vorobyev,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:35:34Z,2,16:20,03:40,Hit,n/a,87.0,-38.0,Michael Raffl,Hitter,Philadelphia Flyers,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:35:36Z,2,16:20,03:40,Shot,Wrist Shot,76.0,30.0,Justin Schultz,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:36:36Z,2,16:21,03:39,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:36:25Z,2,16:27,03:33,Shot,Wrist Shot,-53.0,-8.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:36:37Z,2,16:37,03:23,Shot,Tip-In,-71.0,1.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:36:50Z,2,16:40,03:20,Goal,Wrist Shot,-77.0,-2.0,Jake Guentzel,Scorer,Pittsburgh Penguins,Sidney Crosby,Assist,Pittsburgh Penguins,Dominik Simon,Assist,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers
+2019-10-30T00:37:33Z,2,16:40,03:20,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:38:00Z,2,16:52,03:08,Faceoff,n/a,-69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:38:13Z,2,16:54,03:06,Shot,Slap Shot,-39.0,10.0,John Marino,Shooter,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:38:33Z,2,16:55,03:05,Faceoff,n/a,-69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Joel Farabee,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:38:55Z,2,17:00,03:00,Goal,Tip-In,-66.0,-9.0,Zach Aston-Reese,Scorer,Pittsburgh Penguins,Jack Johnson,Assist,Pittsburgh Penguins,Brandon Tanev,Assist,Pittsburgh Penguins,Brian Elliott,Goalie,Philadelphia Flyers
+2019-10-30T00:39:36Z,2,17:00,03:00,Faceoff,n/a,0.0,0.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:40:09Z,2,17:30,02:30,Blocked Shot,n/a,-52.0,11.0,Michael Raffl,Blocker,Philadelphia Flyers,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:40:18Z,2,17:38,02:22,Takeaway,n/a,15.0,18.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:40:40Z,2,18:01,01:59,Takeaway,n/a,71.0,23.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:40:46Z,2,18:06,01:54,Hit,n/a,60.0,31.0,Kris Letang,Hitter,Pittsburgh Penguins,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:41:02Z,2,18:12,01:48,Takeaway,n/a,18.0,-8.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:41:10Z,2,18:20,01:40,Shot,Tip-In,80.0,-3.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:41:28Z,2,18:21,01:39,Shot,Backhand,88.0,6.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:41:44Z,2,18:22,01:38,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Zach Aston-Reese,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:42:49Z,2,19:13,00:47,Hit,n/a,99.0,19.0,Kevin Hayes,Hitter,Philadelphia Flyers,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:43:25Z,2,19:34,00:26,Hit,n/a,99.0,3.0,Jack Johnson,Hitter,Pittsburgh Penguins,Joel Farabee,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T00:44:28Z,2,19:40,00:20,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:03:41Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:03:53Z,3,00:09,19:51,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:04:23Z,3,00:34,19:26,Shot,Slap Shot,35.0,7.0,Brian Dumoulin,Shooter,Pittsburgh Penguins,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:05:02Z,3,01:13,18:47,Giveaway,n/a,74.0,40.0,Zach Aston-Reese,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:05:23Z,3,01:21,18:39,Hit,n/a,-98.0,-2.0,Justin Schultz,Hitter,Pittsburgh Penguins,Joel Farabee,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:05:14Z,3,01:23,18:37,Hit,n/a,-98.0,-11.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:05:17Z,3,01:28,18:32,Shot,Slap Shot,-34.0,3.0,Kevin Hayes,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:05:31Z,3,01:30,18:30,Hit,n/a,-60.0,41.0,Joel Farabee,Hitter,Philadelphia Flyers,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:05:50Z,3,01:57,18:03,Goal,Snap Shot,-64.0,10.0,Oskar Lindblom,Scorer,Philadelphia Flyers,Sean Couturier,Assist,Philadelphia Flyers,Shayne Gostisbehere,Assist,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins
+2019-10-30T01:06:29Z,3,01:57,18:03,Faceoff,n/a,0.0,0.0,Jared McCann,Winner,Pittsburgh Penguins,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:06:56Z,3,02:29,17:31,Blocked Shot,n/a,70.0,-11.0,Mikhail Vorobyev,Blocker,Philadelphia Flyers,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:07:20Z,3,02:40,17:20,Giveaway,n/a,-75.0,-41.0,Michael Raffl,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:07:36Z,3,02:56,17:04,Faceoff,n/a,69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Jake Guentzel,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:08:07Z,3,03:14,16:46,Blocked Shot,n/a,68.0,10.0,Matt Niskanen,Blocker,Philadelphia Flyers,Jake Guentzel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:08:34Z,3,03:15,16:45,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:08:48Z,3,03:22,16:38,Missed Shot,n/a,34.0,6.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:09:04Z,3,03:28,16:32,Giveaway,n/a,95.0,14.0,Shayne Gostisbehere,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:09:24Z,3,03:50,16:10,Hit,n/a,97.0,9.0,Robert Hagg,Hitter,Philadelphia Flyers,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:09:43Z,3,04:17,15:43,Hit,n/a,-97.0,17.0,Oskar Lindblom,Hitter,Philadelphia Flyers,Nick Bjugstad,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:09:50Z,3,04:24,15:36,Blocked Shot,n/a,-54.0,-1.0,Nick Bjugstad,Blocker,Pittsburgh Penguins,Travis Sanheim,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:10:15Z,3,04:45,15:15,Penalty,Tripping,97.0,-7.0,Nick Bjugstad,PenaltyOn,Pittsburgh Penguins,Sean Couturier,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:10:37Z,3,04:45,15:15,Faceoff,n/a,-69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:11:03Z,3,05:04,14:56,Blocked Shot,n/a,-69.0,8.0,Brian Dumoulin,Blocker,Pittsburgh Penguins,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:11:13Z,3,05:14,14:46,Blocked Shot,n/a,74.0,6.0,Shayne Gostisbehere,Blocker,Philadelphia Flyers,Teddy Blueger,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:12:14Z,3,06:15,13:45,Blocked Shot,n/a,-64.0,10.0,Brian Dumoulin,Blocker,Pittsburgh Penguins,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:13:09Z,3,07:10,12:50,Hit,n/a,-62.0,-40.0,John Marino,Hitter,Pittsburgh Penguins,Michael Raffl,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:13:47Z,3,07:48,12:12,Blocked Shot,n/a,-58.0,3.0,Justin Schultz,Blocker,Pittsburgh Penguins,James van Riemsdyk,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:13:55Z,3,07:56,12:04,Shot,Wrap-around,-86.0,6.0,Claude Giroux,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:15:13Z,3,08:02,11:58,Missed Shot,n/a,-45.0,32.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:16:05Z,3,08:03,11:57,Faceoff,n/a,-69.0,22.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:16:44Z,3,08:29,11:31,Missed Shot,n/a,-47.0,-23.0,Robert Hagg,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:16:56Z,3,08:31,11:29,Hit,n/a,-79.0,40.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:17:04Z,3,08:41,11:19,Giveaway,n/a,-36.0,39.0,Mikhail Vorobyev,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:17:11Z,3,08:56,11:04,Hit,n/a,99.0,0.0,Travis Sanheim,Hitter,Philadelphia Flyers,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:17:24Z,3,09:09,10:51,Missed Shot,n/a,-74.0,9.0,Oskar Lindblom,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:17:27Z,3,09:12,10:48,Hit,n/a,-76.0,-39.0,Sean Couturier,Hitter,Philadelphia Flyers,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:17:46Z,3,09:31,10:29,Takeaway,n/a,37.0,8.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:17:59Z,3,09:44,10:16,Giveaway,n/a,42.0,-20.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:18:21Z,3,10:07,09:53,Blocked Shot,n/a,-74.0,-4.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:20:33Z,3,10:27,09:33,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:21:54Z,3,10:56,09:04,Penalty,Roughing,98.0,5.0,Zach Aston-Reese,PenaltyOn,Pittsburgh Penguins,Justin Braun,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:23:02Z,3,10:56,09:04,Penalty,Roughing,98.0,6.0,Justin Braun,PenaltyOn,Philadelphia Flyers,Zach Aston-Reese,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:23:26Z,3,10:56,09:04,Faceoff,n/a,69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:23:38Z,3,11:08,08:52,Shot,Snap Shot,75.0,23.0,Kris Letang,Shooter,Pittsburgh Penguins,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:24:04Z,3,11:09,08:51,Faceoff,n/a,69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:24:27Z,3,11:32,08:28,Blocked Shot,n/a,67.0,6.0,Shayne Gostisbehere,Blocker,Philadelphia Flyers,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:24:46Z,3,11:51,08:09,Takeaway,n/a,80.0,-20.0,Shayne Gostisbehere,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:25:33Z,3,12:37,07:23,Shot,Snap Shot,-67.0,-6.0,Sean Couturier,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:25:47Z,3,12:52,07:08,Hit,n/a,-89.0,-33.0,Matt Niskanen,Hitter,Philadelphia Flyers,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:26:02Z,3,13:01,06:59,Shot,Wrist Shot,80.0,-5.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:26:20Z,3,13:08,06:52,Shot,Wrist Shot,-59.0,-19.0,Travis Sanheim,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:26:40Z,3,13:09,06:51,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:26:43Z,3,13:10,06:50,Shot,Backhand,-65.0,-17.0,Claude Giroux,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:26:44Z,3,13:17,06:43,Hit,n/a,33.0,39.0,Travis Sanheim,Hitter,Philadelphia Flyers,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:27:46Z,3,14:19,05:41,Shot,Slap Shot,-57.0,18.0,Jakub Voracek,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:28:11Z,3,14:45,05:15,Shot,Slap Shot,-39.0,2.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:28:23Z,3,14:54,05:06,Giveaway,n/a,-87.0,27.0,Jakub Voracek,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:29:11Z,3,14:54,05:06,Penalty,Interference,1.0,-12.0,John Marino,PenaltyOn,Pittsburgh Penguins,Claude Giroux,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:30:09Z,3,14:54,05:06,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:30:57Z,3,15:18,04:42,Shot,Snap Shot,-51.0,19.0,Travis Konecny,Shooter,Philadelphia Flyers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:31:04Z,3,15:25,04:35,Missed Shot,n/a,-48.0,16.0,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:31:11Z,3,15:32,04:28,Takeaway,n/a,-45.0,30.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:31:34Z,3,15:51,04:09,Blocked Shot,n/a,-71.0,-1.0,Jack Johnson,Blocker,Pittsburgh Penguins,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:31:46Z,3,15:52,04:08,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Brandon Tanev,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:32:57Z,3,16:40,03:20,Giveaway,n/a,87.0,7.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:33:12Z,3,16:44,03:16,Giveaway,n/a,96.0,22.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:33:48Z,3,17:05,02:55,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:34:58Z,3,18:10,01:50,Hit,n/a,-75.0,-40.0,Jared McCann,Hitter,Pittsburgh Penguins,Mikhail Vorobyev,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:35:17Z,3,18:30,01:30,Shot,Wrist Shot,3.0,23.0,Jared McCann,Shooter,Pittsburgh Penguins,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:35:13Z,3,18:33,01:27,Takeaway,n/a,-57.0,35.0,Zach Aston-Reese,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:35:34Z,3,18:55,01:05,Hit,n/a,-95.0,-25.0,Kevin Hayes,Hitter,Philadelphia Flyers,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:35:48Z,3,18:57,01:03,Hit,n/a,-98.0,2.0,Brian Dumoulin,Hitter,Pittsburgh Penguins,Joel Farabee,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:35:54Z,3,19:14,00:46,Shot,Backhand,68.0,10.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:35:57Z,3,19:17,00:43,Hit,n/a,99.0,21.0,Robert Hagg,Hitter,Philadelphia Flyers,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:36:02Z,3,19:21,00:39,Shot,Wrist Shot,38.0,30.0,Jack Johnson,Shooter,Pittsburgh Penguins,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:36:10Z,3,19:26,00:34,Shot,Backhand,77.0,2.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:36:34Z,3,19:49,00:11,Shot,Wrist Shot,55.0,-33.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T01:36:47Z,3,19:53,00:07,Goal,Wrist Shot,67.0,10.0,Dominik Kahun,Scorer,Pittsburgh Penguins,Patric Hornqvist,Assist,Pittsburgh Penguins,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a
+2019-10-30T01:37:20Z,3,19:53,00:07,Faceoff,n/a,0.0,0.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a

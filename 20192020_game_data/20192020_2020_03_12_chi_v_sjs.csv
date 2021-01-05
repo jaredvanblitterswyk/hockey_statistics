@@ -1,0 +1,285 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-03-12T00:10:45Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Joe Thornton,Winner,San Jose Sharks,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:11:09Z,1,00:09,19:51,Faceoff,n/a,-69.0,22.0,Joe Thornton,Winner,San Jose Sharks,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:11:48Z,1,00:38,19:22,Blocked Shot,n/a,77.0,-11.0,Duncan Keith,Blocker,Chicago Blackhawks,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:12:08Z,1,00:58,19:02,Giveaway,n/a,93.0,-27.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:12:14Z,1,01:04,18:56,Shot,Wrist Shot,81.0,-2.0,Evander Kane,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:12:32Z,1,01:20,18:40,Missed Shot,n/a,86.0,-27.0,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:12:39Z,1,01:21,18:39,Shot,Wrist Shot,84.0,-5.0,Evander Kane,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:12:48Z,1,01:22,18:38,Faceoff,n/a,69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:13:04Z,1,01:26,18:34,Hit,n/a,86.0,-34.0,Stefan Noesen,Hitter,San Jose Sharks,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:13:14Z,1,01:37,18:23,Hit,n/a,-74.0,-39.0,Joel Kellman,Hitter,San Jose Sharks,Dylan Strome,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:13:24Z,1,01:46,18:14,Hit,n/a,97.0,19.0,Joel Kellman,Hitter,San Jose Sharks,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:13:35Z,1,01:57,18:03,Hit,n/a,-74.0,2.0,Brent Burns,Hitter,San Jose Sharks,Alex DeBrincat,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:13:54Z,1,02:16,17:44,Shot,Wrist Shot,-67.0,7.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:14:01Z,1,02:23,17:37,Hit,n/a,82.0,36.0,Lean Bergmann,Hitter,San Jose Sharks,Nicolas Beaudin,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:14:36Z,1,02:59,17:01,Blocked Shot,n/a,49.0,-15.0,Lucas Carlsson,Blocker,Chicago Blackhawks,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:14:48Z,1,03:10,16:50,Giveaway,n/a,-88.0,-24.0,Ryan Carpenter,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:15:13Z,1,03:35,16:25,Blocked Shot,n/a,66.0,-12.0,Matthew Highmore,Blocker,Chicago Blackhawks,Tim Heed,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:16:02Z,1,04:23,15:37,Shot,Backhand,-80.0,20.0,Slater Koekkoek,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:16:25Z,1,04:24,15:36,Faceoff,n/a,-69.0,22.0,Joel Kellman,Winner,San Jose Sharks,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:16:44Z,1,04:35,15:25,Shot,Wrist Shot,58.0,-12.0,Joel Kellman,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:16:48Z,1,04:39,15:21,Shot,Wrist Shot,74.0,0.0,Stefan Noesen,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:16:52Z,1,04:43,15:17,Takeaway,n/a,-15.0,-3.0,Melker Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:16:56Z,1,04:47,15:13,Shot,Slap Shot,-67.0,-29.0,Nicolas Beaudin,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:17:01Z,1,04:52,15:08,Shot,Wrist Shot,-83.0,-20.0,Nicolas Beaudin,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:17:03Z,1,04:54,15:06,Giveaway,n/a,-66.0,41.0,Melker Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:17:11Z,1,05:02,14:58,Blocked Shot,n/a,-56.0,1.0,Stefan Noesen,Blocker,San Jose Sharks,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:17:38Z,1,05:29,14:31,Hit,n/a,-81.0,-36.0,Lucas Carlsson,Hitter,Chicago Blackhawks,Kevin Labanc,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:17:48Z,1,05:39,14:21,Shot,Wrist Shot,76.0,-2.0,Noah Gregor,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:18:21Z,1,05:39,14:21,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:18:40Z,1,05:54,14:06,Shot,Wrist Shot,-60.0,-35.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:18:40Z,1,05:54,14:06,Giveaway,n/a,-73.0,-35.0,Marc-Edouard Vlasic,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:18:49Z,1,05:54,14:06,Faceoff,n/a,-69.0,-22.0,Antti Suomela,Winner,San Jose Sharks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:20:08Z,1,06:55,13:05,Takeaway,n/a,96.0,-21.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:20:20Z,1,07:07,12:53,Hit,n/a,-90.0,-32.0,Brandon Davidson,Hitter,San Jose Sharks,Matthew Highmore,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:20:34Z,1,07:21,12:39,Shot,Slap Shot,-68.0,-21.0,Lucas Carlsson,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:21:01Z,1,07:48,12:12,Takeaway,n/a,-50.0,37.0,Kirby Dach,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:21:02Z,1,07:49,12:11,Shot,Wrist Shot,-64.0,0.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:21:09Z,1,07:56,12:04,Blocked Shot,n/a,-65.0,7.0,Radim Simek,Blocker,San Jose Sharks,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:21:54Z,1,08:41,11:19,Shot,Tip-In,-70.0,2.0,Patrick Kane,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:21:55Z,1,08:42,11:18,Hit,n/a,-88.0,-32.0,Brent Burns,Hitter,San Jose Sharks,Alex Nylander,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:22:10Z,1,08:44,11:16,Hit,n/a,-98.0,-23.0,Alex Nylander,Hitter,Chicago Blackhawks,Tim Heed,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:22:18Z,1,08:51,11:09,Shot,Wrist Shot,94.0,-6.0,Noah Gregor,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:22:06Z,1,08:52,11:08,Shot,Wrist Shot,81.0,-7.0,Evander Kane,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:22:06Z,1,08:53,11:07,Shot,Wrist Shot,84.0,-4.0,Kevin Labanc,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:22:31Z,1,08:55,11:05,Penalty,Tripping,98.0,-3.0,Dylan Strome,PenaltyOn,Chicago Blackhawks,Evander Kane,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:23:58Z,1,08:55,11:05,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Evander Kane,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:24:54Z,1,09:10,10:50,Shot,Wrist Shot,41.0,-21.0,Kevin Labanc,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:25:07Z,1,09:10,10:50,Penalty,Hi-sticking,68.0,3.0,Ryan Carpenter,PenaltyOn,Chicago Blackhawks,Joe Thornton,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:25:36Z,1,09:10,10:50,Faceoff,n/a,69.0,22.0,Evander Kane,Winner,San Jose Sharks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:26:09Z,1,09:18,10:42,Shot,Slap Shot,42.0,-2.0,Brent Burns,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:26:14Z,1,09:24,10:36,Blocked Shot,n/a,59.0,8.0,Connor Murphy,Blocker,Chicago Blackhawks,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:26:39Z,1,09:49,10:11,Blocked Shot,n/a,72.0,6.0,Connor Murphy,Blocker,Chicago Blackhawks,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:26:46Z,1,09:56,10:04,Shot,Slap Shot,40.0,-6.0,Timo Meier,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:27:15Z,1,10:25,09:35,Missed Shot,n/a,66.0,19.0,Joe Thornton,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:27:32Z,1,10:41,09:19,Shot,Wrist Shot,82.0,15.0,Kevin Labanc,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:27:41Z,1,10:49,09:11,Goal,Tip-In,74.0,-1.0,Evander Kane,Scorer,San Jose Sharks,Joe Thornton,Assist,San Jose Sharks,Timo Meier,Assist,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks
+2020-03-12T00:28:26Z,1,10:49,09:11,Faceoff,n/a,0.0,0.0,Joel Kellman,Winner,San Jose Sharks,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:28:37Z,1,11:00,09:00,Shot,Wrist Shot,55.0,32.0,Joel Kellman,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:28:38Z,1,11:01,08:59,Giveaway,n/a,84.0,0.0,Corey Crawford,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:28:44Z,1,11:07,08:53,Missed Shot,n/a,49.0,-31.0,Tim Heed,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:29:04Z,1,11:27,08:33,Hit,n/a,82.0,38.0,Stefan Noesen,Hitter,San Jose Sharks,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:29:09Z,1,11:31,08:29,Shot,Wrist Shot,-66.0,31.0,Alex Nylander,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:29:23Z,1,11:35,08:25,Giveaway,n/a,98.0,-12.0,Joel Kellman,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:29:59Z,1,11:59,08:01,Hit,n/a,-23.0,41.0,Joel Kellman,Hitter,San Jose Sharks,Alex Nylander,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:30:04Z,1,12:27,07:33,Shot,Wrist Shot,-67.0,1.0,Brandon Saad,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:30:12Z,1,12:35,07:25,Takeaway,n/a,-34.0,5.0,Brandon Saad,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:30:18Z,1,12:41,07:19,Missed Shot,n/a,-78.0,11.0,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:30:27Z,1,12:50,07:10,Missed Shot,n/a,-37.0,22.0,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:30:32Z,1,12:55,07:05,Blocked Shot,n/a,-73.0,2.0,Radim Simek,Blocker,San Jose Sharks,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:30:49Z,1,12:58,07:02,Faceoff,n/a,-69.0,22.0,Dylan Gambrell,Winner,San Jose Sharks,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:31:05Z,1,13:05,06:55,Giveaway,n/a,-74.0,37.0,Brandon Davidson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:31:31Z,1,13:31,06:29,Shot,Wrist Shot,-40.0,-1.0,Connor Murphy,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:33:33Z,1,13:32,06:28,Faceoff,n/a,-69.0,22.0,Joe Thornton,Winner,San Jose Sharks,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:33:55Z,1,13:44,06:16,Giveaway,n/a,-90.0,-33.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:34:28Z,1,14:17,05:43,Hit,n/a,-94.0,29.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Nikolai Knyzhov,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:35:02Z,1,14:41,05:19,Faceoff,n/a,69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Evander Kane,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:35:25Z,1,14:48,05:12,Hit,n/a,67.0,-41.0,Noah Gregor,Hitter,San Jose Sharks,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:35:38Z,1,15:01,04:59,Shot,Wrist Shot,-64.0,-25.0,Patrick Kane,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:35:48Z,1,15:11,04:49,Hit,n/a,84.0,36.0,Lucas Carlsson,Hitter,Chicago Blackhawks,Evander Kane,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:35:55Z,1,15:18,04:42,Blocked Shot,n/a,81.0,-19.0,Connor Murphy,Blocker,Chicago Blackhawks,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:37:34Z,1,15:18,04:42,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:38:48Z,1,15:47,04:13,Takeaway,n/a,-38.0,9.0,Melker Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:39:11Z,1,16:00,04:00,Faceoff,n/a,-69.0,22.0,Joel Kellman,Winner,San Jose Sharks,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:39:53Z,1,16:27,03:33,Hit,n/a,-91.0,30.0,Brandon Hagel,Hitter,Chicago Blackhawks,Radim Simek,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:40:03Z,1,16:37,03:23,Takeaway,n/a,-22.0,28.0,Dominik Kubalik,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:40:06Z,1,16:40,03:20,Shot,Wrist Shot,-58.0,-20.0,Brandon Hagel,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:40:19Z,1,16:53,03:07,Hit,n/a,83.0,-37.0,Dylan Gambrell,Hitter,San Jose Sharks,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:40:56Z,1,17:08,02:52,Faceoff,n/a,20.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:41:53Z,1,17:59,02:01,Shot,Wrist Shot,-55.0,-6.0,Patrick Kane,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:42:48Z,1,18:54,01:06,Giveaway,n/a,-95.0,10.0,Aaron Dell,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:43:15Z,1,19:20,00:40,Blocked Shot,n/a,70.0,-17.0,Duncan Keith,Blocker,Chicago Blackhawks,Tim Heed,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:43:18Z,1,19:24,00:36,Giveaway,n/a,94.0,26.0,Nicolas Beaudin,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:43:25Z,1,19:31,00:29,Hit,n/a,90.0,30.0,Nicolas Beaudin,Hitter,Chicago Blackhawks,Melker Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T00:43:40Z,1,19:46,00:14,Shot,Slap Shot,36.0,25.0,Radim Simek,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:02:21Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:02:50Z,2,00:23,19:37,Blocked Shot,n/a,-65.0,-8.0,Nicolas Beaudin,Blocker,Chicago Blackhawks,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:03:18Z,2,00:28,19:32,Faceoff,n/a,20.0,-22.0,Joel Kellman,Winner,San Jose Sharks,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:04:18Z,2,01:24,18:36,Shot,Slap Shot,-53.0,-24.0,Radim Simek,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:04:23Z,2,01:27,18:33,Shot,Wrist Shot,-48.0,16.0,Noah Gregor,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:04:40Z,2,01:27,18:33,Faceoff,n/a,-69.0,22.0,Evander Kane,Winner,San Jose Sharks,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:05:07Z,2,01:36,18:24,Blocked Shot,n/a,-71.0,3.0,Olli Maatta,Blocker,Chicago Blackhawks,Evander Kane,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:05:23Z,2,01:52,18:08,Hit,n/a,71.0,42.0,Brandon Davidson,Hitter,San Jose Sharks,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:05:29Z,2,01:58,18:02,Hit,n/a,96.0,-27.0,Brandon Davidson,Hitter,San Jose Sharks,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:05:35Z,2,02:04,17:56,Takeaway,n/a,80.0,15.0,Brandon Hagel,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:05:46Z,2,02:15,17:45,Hit,n/a,-98.0,11.0,Evander Kane,Hitter,San Jose Sharks,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:06:30Z,2,02:26,17:34,Blocked Shot,n/a,61.0,12.0,Kevin Labanc,Blocker,San Jose Sharks,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:06:46Z,2,03:15,16:45,Blocked Shot,n/a,57.0,-12.0,Lean Bergmann,Blocker,San Jose Sharks,Nicolas Beaudin,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:06:55Z,2,03:24,16:36,Hit,n/a,74.0,38.0,Matthew Highmore,Hitter,Chicago Blackhawks,Dylan Gambrell,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:06:57Z,2,03:26,16:34,Shot,Slap Shot,35.0,22.0,Duncan Keith,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:07:08Z,2,03:37,16:23,Missed Shot,n/a,48.0,11.0,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:07:13Z,2,03:42,16:18,Shot,Wrist Shot,79.0,-19.0,Jonathan Toews,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:07:15Z,2,03:44,16:16,Giveaway,n/a,66.0,-4.0,Antti Suomela,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:07:26Z,2,03:55,16:05,Giveaway,n/a,95.0,11.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:07:39Z,2,03:59,16:01,Penalty,Hooking,55.0,-10.0,Antti Suomela,PenaltyOn,San Jose Sharks,Alex DeBrincat,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:08:06Z,2,03:59,16:01,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:08:18Z,2,04:07,15:53,Giveaway,n/a,61.0,33.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:08:23Z,2,04:13,15:47,Shot,Wrist Shot,-74.0,-22.0,Melker Karlsson,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:08:45Z,2,04:33,15:27,Goal,Wrist Shot,38.0,13.0,Duncan Keith,Scorer,Chicago Blackhawks,Jonathan Toews,Assist,Chicago Blackhawks,Alex DeBrincat,Assist,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks
+2020-03-12T01:09:23Z,2,04:33,15:27,Faceoff,n/a,0.0,0.0,David Kampf,Winner,Chicago Blackhawks,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:09:46Z,2,04:43,15:17,Hit,n/a,98.0,-5.0,David Kampf,Hitter,Chicago Blackhawks,Radim Simek,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:10:05Z,2,05:02,14:58,Hit,n/a,86.0,35.0,Brent Burns,Hitter,San Jose Sharks,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:10:50Z,2,05:12,14:48,Faceoff,n/a,-20.0,22.0,Evander Kane,Winner,San Jose Sharks,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:10:58Z,2,05:19,14:41,Blocked Shot,n/a,-58.0,-8.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Noah Gregor,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:11:01Z,2,05:22,14:38,Hit,n/a,-84.0,-37.0,Kevin Labanc,Hitter,San Jose Sharks,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:11:17Z,2,05:38,14:22,Hit,n/a,49.0,40.0,Dylan Strome,Hitter,Chicago Blackhawks,Kevin Labanc,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:11:27Z,2,05:48,14:12,Shot,Wrist Shot,83.0,-6.0,Patrick Kane,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:11:36Z,2,05:57,14:03,Hit,n/a,-98.0,6.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Noah Gregor,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:11:58Z,2,06:05,13:55,Penalty,Holding,-20.0,13.0,Evander Kane,PenaltyOn,San Jose Sharks,Dylan Strome,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:13:51Z,2,06:05,13:55,Faceoff,n/a,69.0,22.0,Dylan Gambrell,Winner,San Jose Sharks,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:15:02Z,2,06:41,13:19,Missed Shot,n/a,72.0,2.0,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:15:34Z,2,07:13,12:47,Takeaway,n/a,33.0,18.0,Joel Kellman,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:15:42Z,2,07:21,12:39,Takeaway,n/a,-47.0,-9.0,Alex DeBrincat,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:15:47Z,2,07:26,12:34,Missed Shot,n/a,80.0,-9.0,Dylan Strome,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:16:13Z,2,07:52,12:08,Shot,Wrist Shot,54.0,0.0,Dylan Strome,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:16:39Z,2,07:52,12:08,Faceoff,n/a,69.0,22.0,Dylan Gambrell,Winner,San Jose Sharks,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:16:54Z,2,08:10,11:50,Shot,Wrist Shot,51.0,0.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:17:19Z,2,08:35,11:25,Shot,Wrist Shot,71.0,-17.0,Ryan Carpenter,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:17:23Z,2,08:39,11:21,Shot,Backhand,85.0,-7.0,Ryan Carpenter,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:17:37Z,2,08:53,11:07,Shot,Wrist Shot,41.0,24.0,Matthew Highmore,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:17:45Z,2,09:01,10:59,Missed Shot,n/a,40.0,-17.0,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:17:48Z,2,09:04,10:56,Hit,n/a,97.0,20.0,Brandon Davidson,Hitter,San Jose Sharks,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:18:17Z,2,09:33,10:27,Giveaway,n/a,-87.0,-12.0,Corey Crawford,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:18:27Z,2,09:44,10:16,Giveaway,n/a,85.0,-33.0,Brandon Saad,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:18:57Z,2,10:12,09:48,Shot,Wrist Shot,-58.0,-22.0,Joel Kellman,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:20:52Z,2,10:12,09:48,Faceoff,n/a,-69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:21:20Z,2,10:20,09:40,Hit,n/a,-95.0,-19.0,Stefan Noesen,Hitter,San Jose Sharks,Nicolas Beaudin,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:21:42Z,2,10:30,09:30,Giveaway,n/a,-96.0,-11.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:21:33Z,2,10:33,09:27,Hit,n/a,-73.0,-39.0,Stefan Noesen,Hitter,San Jose Sharks,Dylan Strome,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:21:47Z,2,10:47,09:13,Missed Shot,n/a,36.0,-5.0,Nicolas Beaudin,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:22:16Z,2,11:03,08:57,Takeaway,n/a,79.0,-13.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:22:09Z,2,11:09,08:51,Missed Shot,n/a,-38.0,33.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:22:22Z,2,11:22,08:38,Shot,Slap Shot,-54.0,-31.0,Lean Bergmann,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:22:39Z,2,11:22,08:38,Faceoff,n/a,-69.0,-22.0,Kirby Dach,Winner,Chicago Blackhawks,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:23:10Z,2,11:36,08:24,Hit,n/a,97.0,-17.0,Antti Suomela,Hitter,San Jose Sharks,Dominik Kubalik,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:23:21Z,2,11:48,08:12,Shot,Wrist Shot,82.0,-12.0,Brandon Hagel,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:23:33Z,2,12:00,08:00,Hit,n/a,-47.0,-38.0,Lean Bergmann,Hitter,San Jose Sharks,Lucas Carlsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:23:47Z,2,12:14,07:46,Hit,n/a,-97.0,-13.0,Marcus Sorensen,Hitter,San Jose Sharks,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:24:39Z,2,13:05,06:55,Blocked Shot,n/a,71.0,11.0,Noah Gregor,Blocker,San Jose Sharks,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:24:49Z,2,13:15,06:45,Blocked Shot,n/a,77.0,-4.0,Nikolai Knyzhov,Blocker,San Jose Sharks,Nicolas Beaudin,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:25:11Z,2,13:15,06:45,Faceoff,n/a,20.0,22.0,Evander Kane,Winner,San Jose Sharks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:25:45Z,2,13:44,06:16,Takeaway,n/a,-39.0,35.0,Alex DeBrincat,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:25:51Z,2,13:50,06:10,Takeaway,n/a,34.0,17.0,Radim Simek,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:26:05Z,2,14:04,05:56,Shot,Wrist Shot,-83.0,-22.0,Joel Kellman,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:26:12Z,2,14:11,05:49,Blocked Shot,n/a,-46.0,-15.0,Patrick Kane,Blocker,Chicago Blackhawks,Brandon Davidson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:26:28Z,2,14:28,05:32,Missed Shot,n/a,35.0,0.0,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:26:33Z,2,14:32,05:28,Shot,Wrist Shot,86.0,8.0,Dylan Strome,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:26:38Z,2,14:37,05:23,Blocked Shot,n/a,72.0,-2.0,Stefan Noesen,Blocker,San Jose Sharks,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:26:59Z,2,14:58,05:02,Shot,Wrist Shot,64.0,6.0,Lucas Carlsson,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:27:05Z,2,15:04,04:56,Hit,n/a,66.0,-39.0,Dominik Kubalik,Hitter,Chicago Blackhawks,Brandon Davidson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:27:22Z,2,15:22,04:38,Blocked Shot,n/a,80.0,-11.0,Marc-Edouard Vlasic,Blocker,San Jose Sharks,Kirby Dach,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:29:23Z,2,15:22,04:38,Faceoff,n/a,69.0,-22.0,Kirby Dach,Winner,Chicago Blackhawks,Noah Gregor,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:29:53Z,2,15:30,04:30,Shot,Wrap-around,87.0,5.0,Brandon Hagel,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:29:53Z,2,15:31,04:29,Hit,n/a,97.0,-2.0,Nikolai Knyzhov,Hitter,San Jose Sharks,Brandon Hagel,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:30:02Z,2,15:40,04:20,Hit,n/a,90.0,-32.0,Nikolai Knyzhov,Hitter,San Jose Sharks,Brandon Hagel,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:30:34Z,2,15:59,04:01,Penalty,Roughing,9.0,39.0,Brent Burns,PenaltyOn,San Jose Sharks,Brandon Hagel,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:31:19Z,2,15:59,04:01,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:31:17Z,2,16:04,03:56,Shot,Slap Shot,48.0,-12.0,Patrick Kane,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:31:48Z,2,16:33,03:27,Goal,Tip-In,82.0,4.0,Patrick Kane,Scorer,Chicago Blackhawks,Alex DeBrincat,Assist,Chicago Blackhawks,Duncan Keith,Assist,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks
+2020-03-12T01:32:47Z,2,16:33,03:27,Faceoff,n/a,0.0,0.0,David Kampf,Winner,Chicago Blackhawks,Evander Kane,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:33:17Z,2,17:00,03:00,Hit,n/a,-81.0,-38.0,Noah Gregor,Hitter,San Jose Sharks,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:33:39Z,2,17:22,02:38,Blocked Shot,n/a,-76.0,-5.0,Connor Murphy,Blocker,Chicago Blackhawks,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:33:59Z,2,17:42,02:18,Giveaway,n/a,-94.0,28.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:34:05Z,2,17:48,02:12,Blocked Shot,n/a,-71.0,5.0,Nicolas Beaudin,Blocker,Chicago Blackhawks,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:34:16Z,2,17:58,02:02,Goal,Wrist Shot,72.0,3.0,Brandon Saad,Scorer,Chicago Blackhawks,Alex DeBrincat,Assist,Chicago Blackhawks,Jonathan Toews,Assist,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks
+2020-03-12T01:34:51Z,2,17:58,02:02,Faceoff,n/a,0.0,0.0,Dylan Strome,Winner,Chicago Blackhawks,Antti Suomela,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:35:20Z,2,18:11,01:49,Giveaway,n/a,81.0,-38.0,Radim Simek,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:35:20Z,2,18:13,01:47,Shot,Wrist Shot,72.0,-5.0,Patrick Kane,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:35:28Z,2,18:20,01:40,Blocked Shot,n/a,-76.0,-1.0,Olli Maatta,Blocker,Chicago Blackhawks,Lean Bergmann,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:35:30Z,2,18:22,01:38,Hit,n/a,-96.0,-11.0,Lean Bergmann,Hitter,San Jose Sharks,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:35:43Z,2,18:36,01:24,Blocked Shot,n/a,-64.0,2.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Dylan Gambrell,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:35:58Z,2,18:51,01:09,Giveaway,n/a,-55.0,1.0,Alex Nylander,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:36:20Z,2,19:12,00:48,Shot,Wrist Shot,-65.0,-26.0,Marc-Edouard Vlasic,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:36:47Z,2,19:12,00:48,Faceoff,n/a,-69.0,-22.0,Joel Kellman,Winner,San Jose Sharks,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:36:57Z,2,19:16,00:44,Shot,Slap Shot,-34.0,2.0,Brandon Davidson,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:37:13Z,2,19:18,00:42,Faceoff,n/a,-69.0,22.0,Evander Kane,Winner,San Jose Sharks,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:37:41Z,2,19:28,00:32,Shot,Wrist Shot,-77.0,17.0,Evander Kane,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:37:44Z,2,19:32,00:28,Shot,Wrist Shot,-61.0,-21.0,Marc-Edouard Vlasic,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:38:00Z,2,19:48,00:12,Blocked Shot,n/a,-54.0,-15.0,Brandon Hagel,Blocker,Chicago Blackhawks,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:38:04Z,2,19:51,00:09,Giveaway,n/a,-33.0,40.0,Kirby Dach,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:38:25Z,2,19:59,00:01,Faceoff,n/a,20.0,-22.0,Kirby Dach,Winner,Chicago Blackhawks,Evander Kane,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:57:50Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Evander Kane,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:58:05Z,3,00:09,19:51,Shot,Wrist Shot,33.0,-21.0,Duncan Keith,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:58:14Z,3,00:17,19:43,Takeaway,n/a,15.0,-21.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:58:19Z,3,00:23,19:37,Shot,Wrist Shot,47.0,-5.0,Timo Meier,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:58:42Z,3,00:24,19:36,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Stefan Noesen,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:58:53Z,3,00:28,19:32,Hit,n/a,89.0,-30.0,Joel Kellman,Hitter,San Jose Sharks,Duncan Keith,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:58:54Z,3,00:31,19:29,Shot,Wrist Shot,42.0,27.0,Marc-Edouard Vlasic,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:59:02Z,3,00:39,19:21,Shot,Tip-In,77.0,-3.0,Stefan Noesen,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:59:36Z,3,01:13,18:47,Blocked Shot,n/a,54.0,-21.0,Jonathan Toews,Blocker,Chicago Blackhawks,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:59:45Z,3,01:21,18:39,Missed Shot,n/a,-80.0,22.0,Alex Nylander,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T01:59:56Z,3,01:31,18:29,Goal,Slap Shot,-63.0,1.0,Alex Nylander,Scorer,Chicago Blackhawks,Dylan Strome,Assist,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a
+2020-03-12T02:00:32Z,3,01:31,18:29,Faceoff,n/a,0.0,0.0,Antti Suomela,Winner,San Jose Sharks,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:00:54Z,3,01:49,18:11,Blocked Shot,n/a,75.0,-5.0,Lucas Carlsson,Blocker,Chicago Blackhawks,Dylan Gambrell,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:01:01Z,3,01:56,18:04,Hit,n/a,-48.0,-39.0,Brandon Davidson,Hitter,San Jose Sharks,Dominik Kubalik,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:01:42Z,3,02:37,17:23,Giveaway,n/a,-85.0,38.0,Marc-Edouard Vlasic,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:01:45Z,3,02:40,17:20,Shot,Wrist Shot,-56.0,18.0,David Kampf,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:01:55Z,3,02:50,17:10,Hit,n/a,-7.0,-40.0,Matthew Highmore,Hitter,Chicago Blackhawks,Noah Gregor,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:02:01Z,3,02:56,17:04,Hit,n/a,30.0,-39.0,Noah Gregor,Hitter,San Jose Sharks,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:02:20Z,3,03:15,16:45,Blocked Shot,n/a,-72.0,-14.0,Brent Burns,Blocker,San Jose Sharks,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:03:04Z,3,03:29,16:31,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:03:23Z,3,03:47,16:13,Shot,Wrist Shot,47.0,11.0,Brent Burns,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:03:33Z,3,03:47,16:13,Penalty,Hooking,81.0,27.0,Alex DeBrincat,PenaltyOn,Chicago Blackhawks,Joe Thornton,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:03:52Z,3,03:47,16:13,Faceoff,n/a,69.0,22.0,Evander Kane,Winner,San Jose Sharks,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:04:17Z,3,04:02,15:58,Blocked Shot,n/a,70.0,7.0,Connor Murphy,Blocker,Chicago Blackhawks,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:05:00Z,3,04:27,15:33,Blocked Shot,n/a,82.0,-6.0,Duncan Keith,Blocker,Chicago Blackhawks,Joe Thornton,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:04:51Z,3,04:36,15:24,Takeaway,n/a,-79.0,13.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:05:30Z,3,05:15,14:45,Giveaway,n/a,95.0,-21.0,Olli Maatta,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:05:34Z,3,05:19,14:41,Shot,Wrist Shot,37.0,-31.0,Noah Gregor,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:05:35Z,3,05:20,14:40,Hit,n/a,81.0,-5.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Stefan Noesen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:05:53Z,3,05:38,14:22,Hit,n/a,47.0,-37.0,Lean Bergmann,Hitter,San Jose Sharks,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:06:36Z,3,06:21,13:39,Hit,n/a,92.0,-28.0,Lean Bergmann,Hitter,San Jose Sharks,Lucas Carlsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:06:43Z,3,06:28,13:32,Shot,Backhand,-81.0,15.0,Patrick Kane,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:06:51Z,3,06:35,13:25,Shot,Wrist Shot,75.0,27.0,Evander Kane,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:08:51Z,3,06:36,13:24,Faceoff,n/a,69.0,22.0,Evander Kane,Winner,San Jose Sharks,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:09:17Z,3,06:39,13:21,Goal,Wrist Shot,64.0,12.0,Timo Meier,Scorer,San Jose Sharks,Evander Kane,Assist,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a
+2020-03-12T02:09:40Z,3,06:39,13:21,Faceoff,n/a,0.0,0.0,Kirby Dach,Winner,Chicago Blackhawks,Evander Kane,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:10:19Z,3,07:11,12:49,Hit,n/a,-63.0,40.0,Timo Meier,Hitter,San Jose Sharks,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:10:28Z,3,07:20,12:40,Hit,n/a,85.0,-36.0,Evander Kane,Hitter,San Jose Sharks,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:10:41Z,3,07:33,12:27,Shot,Backhand,-80.0,9.0,Jonathan Toews,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:11:26Z,3,08:18,11:42,Hit,n/a,17.0,1.0,Matthew Highmore,Hitter,Chicago Blackhawks,Kevin Labanc,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:11:29Z,3,08:20,11:40,Missed Shot,n/a,59.0,33.0,Melker Karlsson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:11:36Z,3,08:27,11:33,Shot,Wrist Shot,47.0,-36.0,Brandon Davidson,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:11:43Z,3,08:35,11:25,Hit,n/a,85.0,-32.0,Connor Murphy,Hitter,Chicago Blackhawks,Melker Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:11:50Z,3,08:42,11:18,Missed Shot,n/a,39.0,-8.0,Brandon Davidson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:12:03Z,3,08:55,11:05,Missed Shot,n/a,-73.0,-1.0,Matthew Highmore,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:12:16Z,3,09:07,10:53,Missed Shot,n/a,-38.0,1.0,Alex Nylander,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:12:43Z,3,09:33,10:27,Blocked Shot,n/a,-65.0,10.0,Brent Burns,Blocker,San Jose Sharks,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:13:02Z,3,09:33,10:27,Faceoff,n/a,-69.0,22.0,Evander Kane,Winner,San Jose Sharks,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:13:49Z,3,10:07,09:53,Hit,n/a,67.0,40.0,Kirby Dach,Hitter,Chicago Blackhawks,Timo Meier,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:13:53Z,3,10:10,09:50,Shot,Wrist Shot,83.0,-13.0,Evander Kane,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:14:21Z,3,10:38,09:22,Missed Shot,n/a,-64.0,19.0,Brandon Saad,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:14:51Z,3,11:08,08:52,Missed Shot,n/a,56.0,-1.0,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:15:05Z,3,11:22,08:38,Giveaway,n/a,-36.0,-36.0,Connor Murphy,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:15:14Z,3,11:32,08:28,Giveaway,n/a,85.0,7.0,Corey Crawford,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:15:17Z,3,11:34,08:26,Shot,Tip-In,72.0,-5.0,Melker Karlsson,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:15:49Z,3,12:07,07:53,Shot,Wrist Shot,-85.0,-18.0,Dylan Strome,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:17:43Z,3,12:07,07:53,Faceoff,n/a,-69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:18:38Z,3,12:35,07:25,Blocked Shot,n/a,49.0,-24.0,Alex Nylander,Blocker,Chicago Blackhawks,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:18:45Z,3,12:42,07:18,Hit,n/a,68.0,36.0,Nicolas Beaudin,Hitter,Chicago Blackhawks,Evander Kane,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:19:35Z,3,13:31,06:29,Shot,Backhand,-72.0,-1.0,Matthew Highmore,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:19:57Z,3,13:31,06:29,Faceoff,n/a,-69.0,-22.0,Joel Kellman,Winner,San Jose Sharks,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:23:11Z,3,14:37,05:23,Faceoff,n/a,20.0,-22.0,Kirby Dach,Winner,Chicago Blackhawks,Noah Gregor,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:23:52Z,3,14:56,05:04,Shot,Slap Shot,33.0,22.0,Brent Burns,Shooter,San Jose Sharks,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:24:02Z,3,15:06,04:54,Shot,Slap Shot,-76.0,17.0,Kirby Dach,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:24:09Z,3,15:13,04:47,Hit,n/a,-88.0,-31.0,Brent Burns,Hitter,San Jose Sharks,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:24:09Z,3,15:13,04:47,Shot,Wrist Shot,-77.0,-10.0,Brandon Hagel,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:25:25Z,3,16:06,03:54,Takeaway,n/a,11.0,37.0,Alex Nylander,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:25:16Z,3,16:17,03:43,Shot,Wrist Shot,-69.0,-2.0,Patrick Kane,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:25:21Z,3,16:19,03:41,Goal,Wrist Shot,-82.0,4.0,Patrick Kane,Scorer,Chicago Blackhawks,Slater Koekkoek,Assist,Chicago Blackhawks,Alex Nylander,Assist,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks
+2020-03-12T02:25:57Z,3,16:19,03:41,Faceoff,n/a,0.0,0.0,Ryan Carpenter,Winner,Chicago Blackhawks,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:26:15Z,3,16:32,03:28,Hit,n/a,13.0,-39.0,Stefan Noesen,Hitter,San Jose Sharks,Matthew Highmore,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:26:22Z,3,16:38,03:22,Blocked Shot,n/a,60.0,6.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Brandon Davidson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:26:30Z,3,16:46,03:14,Takeaway,n/a,-21.0,-12.0,Melker Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:26:55Z,3,17:11,02:49,Blocked Shot,n/a,55.0,12.0,Brandon Saad,Blocker,Chicago Blackhawks,Nikolai Knyzhov,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:27:13Z,3,17:11,02:49,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Antti Suomela,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:27:48Z,3,17:40,02:20,Shot,Wrist Shot,-65.0,13.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:28:13Z,3,18:03,01:57,Goal,Slap Shot,-61.0,-11.0,Dominik Kubalik,Scorer,Chicago Blackhawks,Kirby Dach,Assist,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a
+2020-03-12T02:29:02Z,3,18:03,01:57,Faceoff,n/a,0.0,0.0,Kirby Dach,Winner,Chicago Blackhawks,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:29:16Z,3,18:21,01:39,Blocked Shot,n/a,-69.0,8.0,Brandon Davidson,Blocker,San Jose Sharks,Brandon Hagel,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:29:36Z,3,18:41,01:19,Blocked Shot,n/a,73.0,5.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:29:47Z,3,18:52,01:08,Giveaway,n/a,-84.0,10.0,Aaron Dell,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:29:52Z,3,18:57,01:03,Shot,Wrist Shot,-82.0,-17.0,Patrick Kane,Shooter,Chicago Blackhawks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:30:13Z,3,19:17,00:43,Blocked Shot,n/a,29.0,7.0,Dylan Strome,Blocker,Chicago Blackhawks,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-12T02:30:30Z,3,19:34,00:26,Hit,n/a,99.0,3.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Dylan Gambrell,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a

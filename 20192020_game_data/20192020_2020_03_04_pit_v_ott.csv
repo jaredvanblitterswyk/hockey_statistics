@@ -1,0 +1,263 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-03-04T00:08:03Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:08:54Z,1,00:41,19:19,Shot,Wrist Shot,30.0,27.0,Jason Zucker,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:09:03Z,1,00:48,19:12,Goal,Snap Shot,45.0,-21.0,John Marino,Scorer,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Jason Zucker,Assist,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators
+2020-03-04T00:09:32Z,1,00:48,19:12,Faceoff,n/a,0.0,0.0,Artem Anisimov,Winner,Ottawa Senators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:09:51Z,1,01:00,19:00,Hit,n/a,-97.0,3.0,Artem Anisimov,Hitter,Ottawa Senators,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:10:09Z,1,01:02,18:58,Shot,Wrist Shot,-76.0,23.0,Brady Tkachuk,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:09:54Z,1,01:03,18:57,Hit,n/a,-92.0,29.0,Bobby Ryan,Hitter,Ottawa Senators,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:11:01Z,1,01:03,18:57,Faceoff,n/a,-20.0,22.0,Colin White,Winner,Ottawa Senators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:11:13Z,1,01:13,18:47,Hit,n/a,-98.0,-16.0,Nick Paul,Hitter,Ottawa Senators,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:11:36Z,1,01:25,18:35,Faceoff,n/a,69.0,22.0,Colin White,Winner,Ottawa Senators,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:12:01Z,1,01:39,18:21,Goal,Tip-In,80.0,4.0,Conor Sheary,Scorer,Pittsburgh Penguins,Brian Dumoulin,Assist,Pittsburgh Penguins,Kris Letang,Assist,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators
+2020-03-04T00:12:41Z,1,01:39,18:21,Faceoff,n/a,0.0,0.0,Matthew Peca,Winner,Ottawa Senators,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:13:40Z,1,02:07,17:53,Faceoff,n/a,20.0,22.0,Colin White,Winner,Ottawa Senators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:13:56Z,1,02:33,17:27,Hit,n/a,-66.0,-40.0,Justin Schultz,Hitter,Pittsburgh Penguins,Andreas Englund,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:14:23Z,1,03:00,17:00,Blocked Shot,n/a,-64.0,2.0,Brian Dumoulin,Blocker,Pittsburgh Penguins,Matthew Peca,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:15:15Z,1,03:21,16:39,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:15:27Z,1,03:34,16:26,Blocked Shot,n/a,-44.0,-17.0,Patric Hornqvist,Blocker,Pittsburgh Penguins,Chris Tierney,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:15:43Z,1,03:35,16:25,Faceoff,n/a,20.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:16:42Z,1,04:00,16:00,Faceoff,n/a,69.0,-22.0,Matthew Peca,Winner,Ottawa Senators,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:16:57Z,1,04:17,15:43,Hit,n/a,-12.0,-40.0,Anthony Angello,Hitter,Pittsburgh Penguins,Mike Reilly,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:17:17Z,1,04:25,15:35,Penalty,Interference,-71.0,1.0,Jack Johnson,PenaltyOn,Pittsburgh Penguins,Scott Sabourin,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:17:44Z,1,04:25,15:35,Faceoff,n/a,-69.0,22.0,Colin White,Winner,Ottawa Senators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:19:14Z,1,05:58,14:02,Takeaway,n/a,-74.0,6.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:21:53Z,1,06:26,13:34,Faceoff,n/a,-20.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Matthew Peca,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:22:30Z,1,06:44,13:16,Faceoff,n/a,69.0,22.0,Matthew Peca,Winner,Ottawa Senators,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:22:59Z,1,07:07,12:53,Takeaway,n/a,48.0,-40.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:23:15Z,1,07:21,12:39,Blocked Shot,n/a,-74.0,-5.0,Kris Letang,Blocker,Pittsburgh Penguins,Mikkel Boedker,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:23:27Z,1,07:25,12:35,Shot,Wrist Shot,-66.0,-15.0,Mikkel Boedker,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:23:43Z,1,07:26,12:34,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:24:00Z,1,07:32,12:28,Hit,n/a,-51.0,37.0,Nikita Zaitsev,Hitter,Ottawa Senators,Patrick Marleau,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:24:20Z,1,07:34,12:26,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:24:42Z,1,07:42,12:18,Hit,n/a,96.0,-24.0,Patrick Marleau,Hitter,Pittsburgh Penguins,Mike Reilly,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:24:56Z,1,07:44,12:16,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:25:34Z,1,08:00,12:00,Shot,Snap Shot,-47.0,-24.0,Brady Tkachuk,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:26:01Z,1,08:01,11:59,Faceoff,n/a,-69.0,-22.0,Colin White,Winner,Ottawa Senators,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:26:08Z,1,08:07,11:53,Shot,Snap Shot,-45.0,-23.0,Andreas Englund,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:27:02Z,1,08:30,11:30,Faceoff,n/a,-20.0,22.0,Jayce Hawryluk,Winner,Ottawa Senators,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:27:22Z,1,08:39,11:21,Faceoff,n/a,69.0,22.0,Matthew Peca,Winner,Ottawa Senators,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:27:47Z,1,08:54,11:06,Hit,n/a,85.0,-22.0,Conor Sheary,Hitter,Pittsburgh Penguins,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:28:24Z,1,09:30,10:30,Giveaway,n/a,43.0,22.0,Evan Rodrigues,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:28:37Z,1,09:33,10:27,Faceoff,n/a,69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Evan Rodrigues,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:29:18Z,1,09:57,10:03,Giveaway,n/a,59.0,41.0,Chris Tierney,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:29:45Z,1,10:24,09:36,Shot,Wrist Shot,-62.0,16.0,Bobby Ryan,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:29:56Z,1,10:26,09:34,Blocked Shot,n/a,-78.0,25.0,John Marino,Blocker,Pittsburgh Penguins,Bobby Ryan,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:29:56Z,1,10:35,09:25,Blocked Shot,n/a,-63.0,2.0,Bryan Rust,Blocker,Pittsburgh Penguins,Bobby Ryan,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:30:03Z,1,10:42,09:18,Hit,n/a,-15.0,-41.0,Brady Tkachuk,Hitter,Ottawa Senators,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:30:22Z,1,10:47,09:13,Shot,Wrist Shot,55.0,7.0,Kris Letang,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:32:40Z,1,10:48,09:12,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Connor Brown,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:33:08Z,1,10:54,09:06,Hit,n/a,38.0,38.0,Colin White,Hitter,Ottawa Senators,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:33:38Z,1,11:33,08:27,Hit,n/a,-98.0,10.0,Matthew Peca,Hitter,Ottawa Senators,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:33:49Z,1,11:44,08:16,Hit,n/a,62.0,-42.0,Jayce Hawryluk,Hitter,Ottawa Senators,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:34:09Z,1,12:04,07:56,Hit,n/a,95.0,-28.0,Nikita Zaitsev,Hitter,Ottawa Senators,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:34:20Z,1,12:15,07:45,Blocked Shot,n/a,67.0,-9.0,Nikita Zaitsev,Blocker,Ottawa Senators,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:34:50Z,1,12:45,07:15,Hit,n/a,97.0,8.0,Patrick Marleau,Hitter,Pittsburgh Penguins,Andreas Englund,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:35:12Z,1,12:57,07:03,Takeaway,n/a,2.0,-26.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:35:36Z,1,12:59,07:01,Faceoff,n/a,20.0,-22.0,Brady Tkachuk,Winner,Ottawa Senators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:35:47Z,1,13:14,06:46,Hit,n/a,33.0,41.0,Colin White,Hitter,Ottawa Senators,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:36:00Z,1,13:18,06:42,Penalty,Holding the stick,99.0,-8.0,Bobby Ryan,PenaltyOn,Ottawa Senators,Evgeni Malkin,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:36:38Z,1,13:18,06:42,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:37:56Z,1,14:48,05:12,Hit,n/a,60.0,41.0,Chris Tierney,Hitter,Ottawa Senators,Jason Zucker,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:38:10Z,1,14:54,05:06,Takeaway,n/a,-50.0,26.0,Justin Schultz,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:38:25Z,1,15:09,04:51,Hit,n/a,46.0,-34.0,Ron Hainsey,Hitter,Ottawa Senators,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:40:51Z,1,15:35,04:25,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:40:56Z,1,15:41,04:19,Shot,Slap Shot,31.0,-24.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:41:01Z,1,15:46,04:14,Takeaway,n/a,48.0,-3.0,Bobby Ryan,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:41:07Z,1,15:52,04:08,Shot,Wrist Shot,-52.0,15.0,Bobby Ryan,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:41:42Z,1,16:23,03:37,Shot,Wrist Shot,-40.0,-15.0,Mike Reilly,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:41:57Z,1,16:24,03:36,Goal,Snap Shot,-81.0,-2.0,Jayce Hawryluk,Scorer,Ottawa Senators,Mike Reilly,Assist,Ottawa Senators,Colin White,Assist,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins
+2020-03-04T00:42:21Z,1,16:24,03:36,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Matthew Peca,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:42:42Z,1,16:37,03:23,Hit,n/a,31.0,-40.0,Nick Paul,Hitter,Ottawa Senators,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:42:49Z,1,16:49,03:11,Takeaway,n/a,-20.0,29.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:43:26Z,1,17:21,02:39,Hit,n/a,-18.0,-38.0,Connor Brown,Hitter,Ottawa Senators,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:43:32Z,1,17:34,02:26,Shot,Snap Shot,63.0,-11.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:44:03Z,1,17:35,02:25,Faceoff,n/a,69.0,-22.0,Matthew Peca,Winner,Ottawa Senators,Anthony Angello,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:44:44Z,1,18:09,01:51,Missed Shot,n/a,36.0,10.0,Sam Lafferty,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:44:50Z,1,18:10,01:50,Shot,Wrist Shot,86.0,-13.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:45:15Z,1,18:10,01:50,Penalty,Hooking,82.0,-20.0,Nikita Zaitsev,PenaltyOn,Ottawa Senators,Evan Rodrigues,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:46:01Z,1,18:10,01:50,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:46:09Z,1,18:59,01:01,Shot,Backhand,83.0,8.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:46:28Z,1,19:15,00:45,Goal,Snap Shot,54.0,7.0,Bryan Rust,Scorer,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Sidney Crosby,Assist,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators
+2020-03-04T00:47:21Z,1,19:15,00:45,Faceoff,n/a,0.0,0.0,Colin White,Winner,Ottawa Senators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:47:27Z,1,19:30,00:30,Hit,n/a,91.0,-32.0,Nikita Zaitsev,Hitter,Ottawa Senators,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:48:10Z,1,19:44,00:16,Faceoff,n/a,69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T00:48:14Z,1,19:54,00:06,Shot,Wrist Shot,75.0,12.0,Jared McCann,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:07:00Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:07:06Z,2,00:10,19:50,Shot,Wrist Shot,73.0,8.0,Chris Tierney,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:07:21Z,2,00:25,19:35,Hit,n/a,31.0,-41.0,Ron Hainsey,Hitter,Ottawa Senators,Jason Zucker,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:07:32Z,2,00:31,19:29,Shot,Wrist Shot,-63.0,29.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:07:42Z,2,00:46,19:14,Hit,n/a,97.0,18.0,Brian Dumoulin,Hitter,Pittsburgh Penguins,Rudolfs Balcers,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:07:56Z,2,01:00,19:00,Giveaway,n/a,-91.0,17.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:08:26Z,2,01:31,18:29,Giveaway,n/a,22.0,-40.0,Marcus Pettersson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:08:32Z,2,01:36,18:24,Missed Shot,n/a,47.0,-12.0,Bobby Ryan,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:08:39Z,2,01:43,18:17,Shot,Wrist Shot,-13.0,0.0,Bryan Rust,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:09:15Z,2,02:19,17:41,Hit,n/a,-32.0,41.0,Andreas Englund,Hitter,Ottawa Senators,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:09:20Z,2,02:24,17:36,Hit,n/a,-99.0,7.0,Matthew Peca,Hitter,Ottawa Senators,Evan Rodrigues,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:09:42Z,2,02:46,17:14,Shot,Snap Shot,36.0,1.0,Ron Hainsey,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:10:06Z,2,02:58,17:02,Missed Shot,n/a,-74.0,6.0,Sam Lafferty,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:09:57Z,2,03:01,16:59,Blocked Shot,n/a,-81.0,-13.0,Rudolfs Balcers,Blocker,Ottawa Senators,Sam Lafferty,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:10:15Z,2,03:18,16:42,Blocked Shot,n/a,-52.0,16.0,Rudolfs Balcers,Blocker,Ottawa Senators,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:10:48Z,2,03:21,16:39,Faceoff,n/a,20.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:10:56Z,2,03:31,16:29,Hit,n/a,83.0,38.0,Scott Sabourin,Hitter,Ottawa Senators,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:11:03Z,2,03:39,16:21,Shot,Wrist Shot,-34.0,28.0,Jack Johnson,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:11:40Z,2,03:53,16:07,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:11:59Z,2,04:10,15:50,Hit,n/a,-60.0,41.0,Andreas Englund,Hitter,Ottawa Senators,Conor Sheary,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:12:34Z,2,04:46,15:14,Giveaway,n/a,15.0,-35.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:12:39Z,2,04:48,15:12,Shot,Slap Shot,57.0,13.0,Thomas Chabot,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:13:09Z,2,04:49,15:11,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Nick Paul,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:13:42Z,2,05:18,14:42,Hit,n/a,-91.0,34.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:13:48Z,2,05:25,14:35,Shot,Slap Shot,11.0,-29.0,Ron Hainsey,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:13:57Z,2,05:32,14:28,Shot,Slap Shot,-53.0,-7.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:14:22Z,2,05:33,14:27,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Jayce Hawryluk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:14:41Z,2,05:35,14:25,Blocked Shot,n/a,-76.0,-4.0,Nikita Zaitsev,Blocker,Ottawa Senators,Jason Zucker,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:15:10Z,2,05:40,14:20,Missed Shot,n/a,-79.0,-4.0,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:15:49Z,2,05:48,14:12,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:15:50Z,2,05:55,14:05,Blocked Shot,n/a,-78.0,-6.0,Chris Tierney,Blocker,Ottawa Senators,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:16:06Z,2,05:56,14:04,Penalty,Hi stick - double minor,-89.0,-16.0,Chris Tierney,PenaltyOn,Ottawa Senators,Sidney Crosby,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:17:01Z,2,05:56,14:04,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Nick Paul,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:18:02Z,2,07:00,13:00,Blocked Shot,n/a,53.0,10.0,Kris Letang,Blocker,Pittsburgh Penguins,Mikkel Boedker,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:18:28Z,2,07:01,12:59,Faceoff,n/a,69.0,22.0,Nick Paul,Winner,Ottawa Senators,Patrick Marleau,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:18:52Z,2,07:23,12:37,Missed Shot,n/a,-76.0,7.0,Jason Zucker,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:19:01Z,2,07:30,12:30,Shot,Wrist Shot,-57.0,-35.0,Christian Jaros,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:20:09Z,2,08:15,11:45,Faceoff,n/a,-20.0,22.0,Matthew Peca,Winner,Ottawa Senators,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:20:23Z,2,08:30,11:30,Giveaway,n/a,-31.0,39.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:21:06Z,2,08:45,11:15,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Nick Paul,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:21:30Z,2,08:58,11:02,Faceoff,n/a,-20.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Connor Brown,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:21:51Z,2,09:06,10:54,Shot,Wrist Shot,58.0,-7.0,Nick Paul,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:22:22Z,2,09:42,10:18,Giveaway,n/a,-68.0,9.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:22:46Z,2,10:03,09:57,Blocked Shot,n/a,-69.0,10.0,Chris Tierney,Blocker,Ottawa Senators,Patrick Marleau,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:25:17Z,2,10:19,09:41,Faceoff,n/a,20.0,22.0,Brady Tkachuk,Winner,Ottawa Senators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:25:31Z,2,10:34,09:26,Hit,n/a,98.0,-20.0,Bobby Ryan,Hitter,Ottawa Senators,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:25:46Z,2,10:49,09:11,Blocked Shot,n/a,-75.0,9.0,Christian Jaros,Blocker,Ottawa Senators,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:25:58Z,2,11:01,08:59,Takeaway,n/a,67.0,0.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:26:07Z,2,11:08,08:52,Blocked Shot,n/a,-74.0,11.0,Thomas Chabot,Blocker,Ottawa Senators,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:26:06Z,2,11:09,08:51,Takeaway,n/a,-67.0,27.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:26:17Z,2,11:14,08:46,Hit,n/a,-65.0,41.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Bobby Ryan,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:26:26Z,2,11:16,08:44,Penalty,Tripping,-93.0,21.0,Sam Lafferty,PenaltyOn,Pittsburgh Penguins,Colin White,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:27:02Z,2,11:16,08:44,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Evan Rodrigues,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:27:11Z,2,11:28,08:32,Blocked Shot,n/a,69.0,-7.0,Brian Dumoulin,Blocker,Pittsburgh Penguins,Mikkel Boedker,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:27:57Z,2,11:41,08:19,Faceoff,n/a,20.0,-22.0,Connor Brown,Winner,Ottawa Senators,Bryan Rust,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:28:16Z,2,11:51,08:09,Giveaway,n/a,-6.0,21.0,Bobby Ryan,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:28:44Z,2,12:27,07:33,Missed Shot,n/a,65.0,26.0,Chris Tierney,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:28:53Z,2,12:34,07:26,Shot,Wrist Shot,83.0,9.0,Chris Tierney,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:29:00Z,2,12:36,07:24,Shot,Wrap-around,84.0,-8.0,Brady Tkachuk,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:29:25Z,2,12:37,07:23,Faceoff,n/a,69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Patrick Marleau,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:29:44Z,2,12:56,07:04,Missed Shot,n/a,36.0,1.0,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:30:04Z,2,13:16,06:44,Hit,n/a,42.0,21.0,John Marino,Hitter,Pittsburgh Penguins,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:32:11Z,2,13:23,06:37,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:33:00Z,2,13:55,06:05,Blocked Shot,n/a,78.0,-5.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Colin White,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:33:15Z,2,14:10,05:50,Blocked Shot,n/a,72.0,-5.0,Justin Schultz,Blocker,Pittsburgh Penguins,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:33:44Z,2,14:11,05:49,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Matthew Peca,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:34:12Z,2,14:20,05:40,Faceoff,n/a,20.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Matthew Peca,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:36:29Z,2,14:24,05:36,Faceoff,n/a,20.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Matthew Peca,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:36:53Z,2,14:40,05:20,Giveaway,n/a,-22.0,-1.0,Patrick Marleau,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:37:28Z,2,15:15,04:45,Missed Shot,n/a,58.0,8.0,Scott Sabourin,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:38:09Z,2,15:56,04:04,Takeaway,n/a,-43.0,-22.0,Brady Tkachuk,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:38:48Z,2,16:35,03:25,Hit,n/a,73.0,42.0,Connor Brown,Hitter,Ottawa Senators,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:38:54Z,2,16:41,03:19,Hit,n/a,99.0,-1.0,Jack Johnson,Hitter,Pittsburgh Penguins,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:39:06Z,2,16:54,03:06,Missed Shot,n/a,33.0,36.0,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:39:22Z,2,17:09,02:51,Giveaway,n/a,-27.0,-32.0,Nikita Zaitsev,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:39:29Z,2,17:13,02:47,Missed Shot,n/a,-82.0,7.0,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:39:29Z,2,17:16,02:44,Shot,Wrist Shot,-87.0,9.0,Conor Sheary,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:39:33Z,2,17:20,02:40,Hit,n/a,-91.0,20.0,Mike Reilly,Hitter,Ottawa Senators,Jason Zucker,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:39:38Z,2,17:21,02:39,Goal,Snap Shot,-77.0,24.0,Sidney Crosby,Scorer,Pittsburgh Penguins,Jason Zucker,Assist,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a
+2020-03-04T01:40:21Z,2,17:21,02:39,Faceoff,n/a,0.0,0.0,Matthew Peca,Winner,Ottawa Senators,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:40:34Z,2,17:33,02:27,Shot,Wrist Shot,-72.0,19.0,Evan Rodrigues,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:41:04Z,2,17:34,02:26,Faceoff,n/a,-69.0,22.0,Evan Rodrigues,Winner,Pittsburgh Penguins,Matthew Peca,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:41:14Z,2,17:51,02:09,Hit,n/a,76.0,41.0,Matthew Peca,Hitter,Ottawa Senators,Sam Lafferty,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:41:14Z,2,17:53,02:07,Shot,Snap Shot,56.0,-12.0,Jayce Hawryluk,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:41:33Z,2,18:08,01:52,Shot,Backhand,-83.0,-16.0,Anthony Angello,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:42:11Z,2,18:09,01:51,Faceoff,n/a,-69.0,-22.0,Colin White,Winner,Ottawa Senators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:42:13Z,2,18:19,01:41,Missed Shot,n/a,-69.0,-5.0,Patrick Marleau,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:42:22Z,2,18:27,01:33,Blocked Shot,n/a,-59.0,0.0,Colin White,Blocker,Ottawa Senators,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:42:58Z,2,18:32,01:28,Faceoff,n/a,20.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:43:39Z,2,19:14,00:46,Hit,n/a,-75.0,-39.0,Thomas Chabot,Hitter,Ottawa Senators,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:43:50Z,2,19:25,00:35,Blocked Shot,n/a,68.0,-14.0,Jack Johnson,Blocker,Pittsburgh Penguins,Chris Tierney,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:44:02Z,2,19:37,00:23,Shot,Snap Shot,61.0,-5.0,Rudolfs Balcers,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T01:44:25Z,2,19:58,00:02,Shot,Wrist Shot,-78.0,-13.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:02:58Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:03:11Z,3,00:06,19:54,Faceoff,n/a,-20.0,22.0,Chris Tierney,Winner,Ottawa Senators,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:03:59Z,3,00:35,19:25,Shot,Tip-In,78.0,-2.0,Jason Zucker,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:03:48Z,3,00:36,19:24,Goal,Backhand,80.0,-1.0,Jason Zucker,Scorer,Pittsburgh Penguins,Conor Sheary,Assist,Pittsburgh Penguins,Sidney Crosby,Assist,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators
+2020-03-04T02:04:28Z,3,00:36,19:24,Faceoff,n/a,0.0,0.0,Colin White,Winner,Ottawa Senators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:04:37Z,3,00:41,19:19,Missed Shot,n/a,-65.0,29.0,Bobby Ryan,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:04:45Z,3,00:54,19:06,Shot,Wrist Shot,-63.0,0.0,Colin White,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:04:59Z,3,01:09,18:51,Goal,Tip-In,-73.0,7.0,Brady Tkachuk,Scorer,Ottawa Senators,Nikita Zaitsev,Assist,Ottawa Senators,Colin White,Assist,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins
+2020-03-04T02:05:37Z,3,01:09,18:51,Faceoff,n/a,0.0,0.0,Matthew Peca,Winner,Ottawa Senators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:06:00Z,3,01:22,18:38,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Matthew Peca,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:06:36Z,3,01:47,18:13,Blocked Shot,n/a,-56.0,-20.0,Justin Schultz,Blocker,Pittsburgh Penguins,Nick Paul,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:07:09Z,3,01:48,18:12,Faceoff,n/a,-69.0,-22.0,Evan Rodrigues,Winner,Pittsburgh Penguins,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:07:28Z,3,02:07,17:53,Giveaway,n/a,34.0,18.0,Sam Lafferty,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:07:35Z,3,02:14,17:46,Blocked Shot,n/a,-56.0,-10.0,Anthony Angello,Blocker,Pittsburgh Penguins,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:08:19Z,3,02:57,17:03,Shot,Wrist Shot,-54.0,0.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:08:47Z,3,03:25,16:35,Takeaway,n/a,46.0,29.0,Patrick Marleau,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:08:49Z,3,03:27,16:33,Shot,Snap Shot,60.0,19.0,Patrick Marleau,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:09:32Z,3,04:11,15:49,Blocked Shot,n/a,51.0,-19.0,Nick Paul,Blocker,Ottawa Senators,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:09:35Z,3,04:14,15:46,Hit,n/a,44.0,3.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Rudolfs Balcers,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:09:47Z,3,04:24,15:36,Hit,n/a,51.0,-12.0,Christian Jaros,Hitter,Ottawa Senators,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:10:16Z,3,04:27,15:33,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:10:22Z,3,04:28,15:32,Shot,Deflected,-36.0,-28.0,Ron Hainsey,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:10:40Z,3,04:30,15:30,Faceoff,n/a,-69.0,-22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:11:05Z,3,04:47,15:13,Shot,Wrist Shot,78.0,-9.0,Sam Lafferty,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:11:14Z,3,04:57,15:03,Hit,n/a,-95.0,22.0,Scott Sabourin,Hitter,Ottawa Senators,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:11:32Z,3,05:15,14:45,Blocked Shot,n/a,-67.0,13.0,Conor Sheary,Blocker,Pittsburgh Penguins,Matthew Peca,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:12:15Z,3,05:50,14:10,Penalty,Hooking,-16.0,41.0,Conor Sheary,PenaltyOn,Pittsburgh Penguins,Jayce Hawryluk,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:12:49Z,3,05:50,14:10,Faceoff,n/a,-69.0,22.0,Colin White,Winner,Ottawa Senators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:12:59Z,3,05:59,14:01,Blocked Shot,n/a,-63.0,11.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Colin White,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:13:20Z,3,06:26,13:34,Blocked Shot,n/a,-67.0,1.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:13:31Z,3,06:32,13:28,Penalty,Tripping,71.0,-6.0,Thomas Chabot,PenaltyOn,Ottawa Senators,Evan Rodrigues,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:14:17Z,3,06:32,13:28,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:16:32Z,3,06:39,13:21,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:16:40Z,3,06:46,13:14,Blocked Shot,n/a,45.0,13.0,Chris Tierney,Blocker,Ottawa Senators,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:17:49Z,3,07:28,12:32,Faceoff,n/a,69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:18:31Z,3,08:08,11:52,Shot,Wrist Shot,80.0,-4.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:18:52Z,3,08:29,11:31,Shot,Wrist Shot,75.0,-12.0,Bryan Rust,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:18:56Z,3,08:32,11:28,Hit,n/a,99.0,-4.0,Andreas Englund,Hitter,Ottawa Senators,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:19:06Z,3,08:42,11:18,Blocked Shot,n/a,77.0,13.0,Andreas Englund,Blocker,Ottawa Senators,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:19:36Z,3,09:13,10:47,Blocked Shot,n/a,-56.0,-7.0,Patric Hornqvist,Blocker,Pittsburgh Penguins,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:19:58Z,3,09:22,10:38,Missed Shot,n/a,-72.0,-4.0,Matthew Peca,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:19:52Z,3,09:23,10:37,Penalty,Hooking,-68.0,-8.0,Brian Dumoulin,PenaltyOn,Pittsburgh Penguins,Brady Tkachuk,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:20:35Z,3,09:23,10:37,Faceoff,n/a,-69.0,22.0,Colin White,Winner,Ottawa Senators,Patrick Marleau,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:20:36Z,3,09:32,10:28,Blocked Shot,n/a,-72.0,13.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Colin White,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:20:53Z,3,09:49,10:11,Giveaway,n/a,-92.0,-26.0,Bobby Ryan,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:21:54Z,3,10:50,09:10,Hit,n/a,-72.0,0.0,John Marino,Hitter,Pittsburgh Penguins,Jayce Hawryluk,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:22:10Z,3,11:06,08:54,Hit,n/a,-33.0,-17.0,John Marino,Hitter,Pittsburgh Penguins,Connor Brown,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:22:41Z,3,11:27,08:33,Goal,Snap Shot,-55.0,-4.0,Connor Brown,Scorer,Ottawa Senators,Thomas Chabot,Assist,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a
+2020-03-04T02:23:36Z,3,11:27,08:33,Faceoff,n/a,0.0,0.0,Matthew Peca,Winner,Ottawa Senators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:24:09Z,3,12:18,07:42,Hit,n/a,-60.0,-40.0,Scott Sabourin,Hitter,Ottawa Senators,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:24:25Z,3,12:33,07:27,Shot,Snap Shot,38.0,-3.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:26:50Z,3,12:34,07:26,Faceoff,n/a,69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:26:48Z,3,12:42,07:18,Takeaway,n/a,95.0,7.0,Jason Zucker,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:27:10Z,3,13:05,06:55,Hit,n/a,-98.0,7.0,Kris Letang,Hitter,Pittsburgh Penguins,Rudolfs Balcers,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:27:21Z,3,13:16,06:44,Hit,n/a,-12.0,-38.0,Ron Hainsey,Hitter,Ottawa Senators,Conor Sheary,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:28:16Z,3,13:28,06:32,Shot,Backhand,78.0,0.0,Patrick Marleau,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:27:37Z,3,13:29,06:31,Goal,Wrist Shot,78.0,3.0,Bryan Rust,Scorer,Pittsburgh Penguins,Patrick Marleau,Assist,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators
+2020-03-04T02:28:28Z,3,13:29,06:31,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Matthew Peca,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:28:45Z,3,13:40,06:20,Faceoff,n/a,20.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Matthew Peca,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:29:01Z,3,13:47,06:13,Faceoff,n/a,20.0,22.0,Matthew Peca,Winner,Ottawa Senators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:29:28Z,3,14:08,05:52,Giveaway,n/a,-90.0,-32.0,Teddy Blueger,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:29:34Z,3,14:12,05:48,Shot,Tip-In,-72.0,1.0,Nick Paul,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:31:20Z,3,14:13,05:47,Faceoff,n/a,-69.0,-22.0,Colin White,Winner,Ottawa Senators,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:32:39Z,3,14:43,05:17,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Matthew Peca,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:32:59Z,3,15:04,04:56,Hit,n/a,-90.0,-31.0,Evgeni Malkin,Hitter,Pittsburgh Penguins,Scott Sabourin,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:33:21Z,3,15:27,04:33,Shot,Wrist Shot,-44.0,-17.0,Andreas Englund,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:33:41Z,3,15:46,04:14,Hit,n/a,6.0,-3.0,Andreas Englund,Hitter,Ottawa Senators,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:34:04Z,3,16:04,03:56,Shot,Slap Shot,33.0,7.0,Kris Letang,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:34:17Z,3,16:07,03:53,Shot,Snap Shot,59.0,1.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:34:11Z,3,16:12,03:48,Hit,n/a,39.0,-40.0,Chris Tierney,Hitter,Ottawa Senators,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:34:39Z,3,16:13,03:47,Faceoff,n/a,20.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Nick Paul,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:35:03Z,3,16:17,03:43,Faceoff,n/a,69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:35:21Z,3,16:33,03:27,Hit,n/a,59.0,40.0,Mike Reilly,Hitter,Ottawa Senators,Conor Sheary,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:36:01Z,3,17:10,02:50,Goal,Snap Shot,73.0,-13.0,Bryan Rust,Scorer,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a
+2020-03-04T02:37:48Z,3,17:10,02:50,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Matthew Peca,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:38:07Z,3,17:23,02:37,Shot,Wrist Shot,-76.0,-11.0,Brady Tkachuk,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:38:22Z,3,17:38,02:22,Hit,n/a,99.0,16.0,Matthew Peca,Hitter,Ottawa Senators,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:38:38Z,3,17:54,02:06,Takeaway,n/a,46.0,24.0,Bobby Ryan,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:39:17Z,3,18:20,01:40,Shot,Wrist Shot,-36.0,34.0,Jayce Hawryluk,Shooter,Ottawa Senators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:39:36Z,3,18:52,01:08,Takeaway,n/a,40.0,34.0,Conor Sheary,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:39:47Z,3,19:02,00:58,Blocked Shot,n/a,69.0,4.0,Andreas Englund,Blocker,Ottawa Senators,Conor Sheary,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:40:19Z,3,19:30,00:30,Missed Shot,n/a,69.0,11.0,Sam Lafferty,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:40:29Z,3,19:44,00:16,Shot,Wrist Shot,37.0,-19.0,Evan Rodrigues,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:40:38Z,3,19:53,00:07,Shot,Wrist Shot,81.0,15.0,Evan Rodrigues,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-04T02:40:44Z,3,19:57,00:03,Shot,Wrist Shot,46.0,22.0,Sam Lafferty,Shooter,Pittsburgh Penguins,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a

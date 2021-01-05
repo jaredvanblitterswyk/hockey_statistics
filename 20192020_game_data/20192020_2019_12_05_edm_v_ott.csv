@@ -1,0 +1,247 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-05T02:39:14Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Colin White,Winner,Ottawa Senators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:40:03Z,1,00:14,19:46,Hit,n/a,98.0,4.0,Jujhar Khaira,Hitter,Edmonton Oilers,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:40:40Z,1,00:27,19:33,Faceoff,n/a,20.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:40:53Z,1,00:39,19:21,Hit,n/a,96.0,8.0,James Neal,Hitter,Edmonton Oilers,Ron Hainsey,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:41:08Z,1,00:55,19:05,Hit,n/a,37.0,40.0,Brady Tkachuk,Hitter,Ottawa Senators,Connor McDavid,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:41:32Z,1,01:18,18:42,Hit,n/a,-53.0,39.0,Josh Archibald,Hitter,Edmonton Oilers,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:41:39Z,1,01:24,18:36,Shot,Wrist Shot,-60.0,13.0,Logan Brown,Shooter,Ottawa Senators,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:42:13Z,1,02:00,18:00,Missed Shot,n/a,33.0,-18.0,Joel Persson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:42:25Z,1,02:10,17:50,Shot,Slap Shot,41.0,-26.0,Kris Russell,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:43:20Z,1,02:10,17:50,Faceoff,n/a,69.0,-22.0,Joakim Nygard,Winner,Edmonton Oilers,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:43:14Z,1,02:13,17:47,Shot,Tip-In,76.0,-5.0,Joakim Nygard,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:43:48Z,1,02:51,17:09,Takeaway,n/a,55.0,-18.0,Tyler Ennis,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:44:10Z,1,03:13,16:47,Takeaway,n/a,-97.0,18.0,Jean-Gabriel Pageau,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:44:18Z,1,03:18,16:42,Missed Shot,n/a,66.0,8.0,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:44:26Z,1,03:28,16:32,Shot,Wrist Shot,77.0,5.0,Sam Gagner,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:45:28Z,1,03:36,16:24,Faceoff,n/a,69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:45:16Z,1,03:42,16:18,Shot,Wrist Shot,82.0,25.0,Darnell Nurse,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:45:21Z,1,03:44,16:16,Missed Shot,n/a,85.0,-7.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:45:41Z,1,04:07,15:53,Missed Shot,n/a,79.0,-18.0,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:45:49Z,1,04:10,15:50,Missed Shot,n/a,53.0,33.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:45:56Z,1,04:22,15:38,Giveaway,n/a,60.0,40.0,Ron Hainsey,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:46:36Z,1,05:01,14:59,Shot,Tip-In,81.0,-5.0,Oscar Klefbom,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:46:44Z,1,05:09,14:51,Blocked Shot,n/a,59.0,13.0,J.C. Beaudin,Blocker,Ottawa Senators,Gaetan Haas,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:47:20Z,1,05:46,14:14,Hit,n/a,40.0,-31.0,Brady Tkachuk,Hitter,Ottawa Senators,Riley Sheahan,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:47:25Z,1,05:51,14:09,Hit,n/a,89.0,33.0,Nikita Zaitsev,Hitter,Ottawa Senators,Joakim Nygard,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:48:00Z,1,06:26,13:34,Giveaway,n/a,58.0,1.0,Sam Gagner,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:48:06Z,1,06:32,13:28,Hit,n/a,12.0,-36.0,Vladislav Namestnikov,Hitter,Ottawa Senators,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:48:26Z,1,06:52,13:08,Giveaway,n/a,-33.0,33.0,Jujhar Khaira,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:48:37Z,1,07:03,12:57,Blocked Shot,n/a,82.0,-11.0,Ron Hainsey,Blocker,Ottawa Senators,Adam Larsson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:48:54Z,1,07:20,12:40,Hit,n/a,-95.0,-15.0,Tyler Ennis,Hitter,Ottawa Senators,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:50:57Z,1,07:23,12:37,Faceoff,n/a,-69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:51:30Z,1,07:44,12:16,Hit,n/a,43.0,-29.0,Mark Borowiecki,Hitter,Ottawa Senators,James Neal,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:51:42Z,1,07:56,12:04,Hit,n/a,-28.0,-36.0,Darnell Nurse,Hitter,Edmonton Oilers,Colin White,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:52:47Z,1,08:41,11:19,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:53:05Z,1,08:48,11:12,Giveaway,n/a,95.0,6.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:53:23Z,1,09:06,10:54,Missed Shot,n/a,67.0,-3.0,Jujhar Khaira,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:53:55Z,1,09:25,10:35,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,James Neal,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:54:52Z,1,09:56,10:04,Shot,Wrist Shot,78.0,7.0,Connor McDavid,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:54:56Z,1,09:57,10:03,Penalty,Slashing,76.0,1.0,Vladislav Namestnikov,PenaltyOn,Ottawa Senators,Connor McDavid,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:55:41Z,1,09:57,10:03,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:55:57Z,1,10:05,09:55,Shot,Snap Shot,77.0,26.0,Connor McDavid,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:56:11Z,1,10:16,09:44,Missed Shot,n/a,77.0,3.0,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:56:27Z,1,10:34,09:26,Takeaway,n/a,97.0,-17.0,Mark Borowiecki,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:56:31Z,1,10:35,09:25,Giveaway,n/a,93.0,-17.0,Mark Borowiecki,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:56:44Z,1,10:48,09:12,Missed Shot,n/a,75.0,-11.0,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:57:58Z,1,11:13,08:47,Faceoff,n/a,69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:58:39Z,1,11:54,08:06,Shot,Wrist Shot,81.0,-7.0,James Neal,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T02:58:48Z,1,11:57,08:03,Shot,Tip-In,78.0,-1.0,James Neal,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:00:58Z,1,11:58,08:02,Faceoff,n/a,69.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:01:18Z,1,12:15,07:45,Hit,n/a,26.0,39.0,Thomas Chabot,Hitter,Ottawa Senators,Gaetan Haas,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:01:24Z,1,12:18,07:42,Missed Shot,n/a,80.0,3.0,Patrick Russell,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:01:44Z,1,12:41,07:19,Hit,n/a,-71.0,39.0,Gaetan Haas,Hitter,Edmonton Oilers,Colin White,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:01:49Z,1,12:46,07:14,Hit,n/a,-32.0,39.0,Brady Tkachuk,Hitter,Ottawa Senators,Markus Granlund,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:02:16Z,1,13:12,06:48,Hit,n/a,-96.0,-8.0,Anthony Duclair,Hitter,Ottawa Senators,Joel Persson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:03:05Z,1,13:29,06:31,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:03:12Z,1,13:36,06:24,Hit,n/a,-33.0,39.0,Leon Draisaitl,Hitter,Edmonton Oilers,Jean-Gabriel Pageau,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:04:01Z,1,13:36,06:24,Faceoff,n/a,-20.0,22.0,Colin White,Winner,Ottawa Senators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:03:43Z,1,13:46,06:14,Hit,n/a,-94.0,27.0,J.C. Beaudin,Hitter,Ottawa Senators,Kris Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:04:09Z,1,14:09,05:51,Goal,Wrist Shot,80.0,4.0,Jujhar Khaira,Scorer,Edmonton Oilers,Leon Draisaitl,Assist,Edmonton Oilers,Sam Gagner,Assist,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators
+2019-12-05T03:06:23Z,1,14:09,05:51,Penalty,Missing key [PD_151],26.0,-29.0,Brady Tkachuk,PenaltyOn,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:06:59Z,1,14:09,05:51,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:07:14Z,1,14:29,05:31,Blocked Shot,n/a,-77.0,-1.0,Mark Borowiecki,Blocker,Ottawa Senators,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:07:22Z,1,14:35,05:25,Hit,n/a,74.0,40.0,Dylan DeMelo,Hitter,Ottawa Senators,Connor McDavid,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:07:57Z,1,14:37,05:23,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:08:35Z,1,15:33,04:27,Blocked Shot,n/a,62.0,8.0,Vladislav Namestnikov,Blocker,Ottawa Senators,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:08:45Z,1,15:38,04:22,Shot,Snap Shot,-60.0,-15.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:09:16Z,1,15:39,04:21,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:09:35Z,1,16:06,03:54,Hit,n/a,94.0,9.0,Dylan DeMelo,Hitter,Ottawa Senators,Jujhar Khaira,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:09:47Z,1,16:21,03:39,Giveaway,n/a,94.0,9.0,Dylan DeMelo,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:09:50Z,1,16:23,03:37,Blocked Shot,n/a,77.0,5.0,Dylan DeMelo,Blocker,Ottawa Senators,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:10:17Z,1,16:51,03:09,Hit,n/a,26.0,-35.0,Brady Tkachuk,Hitter,Ottawa Senators,Adam Larsson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:10:35Z,1,17:09,02:51,Giveaway,n/a,-93.0,-19.0,Anthony Duclair,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:10:52Z,1,17:20,02:40,Penalty,Hi-sticking,-74.0,-36.0,Adam Larsson,PenaltyOn,Edmonton Oilers,Anthony Duclair,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:13:46Z,1,17:20,02:40,Faceoff,n/a,-69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:14:19Z,1,18:28,01:32,Hit,n/a,-56.0,-37.0,Connor Brown,Hitter,Ottawa Senators,Markus Granlund,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:14:23Z,1,18:32,01:28,Blocked Shot,n/a,-72.0,14.0,Oscar Klefbom,Blocker,Edmonton Oilers,Logan Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:14:47Z,1,18:47,01:13,Shot,Wrist Shot,-83.0,-4.0,Connor Brown,Shooter,Ottawa Senators,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:15:12Z,1,18:48,01:12,Faceoff,n/a,-69.0,-22.0,Vladislav Namestnikov,Winner,Ottawa Senators,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:16:11Z,1,19:39,00:21,Takeaway,n/a,45.0,-22.0,Chris Tierney,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:16:19Z,1,19:47,00:13,Giveaway,n/a,-95.0,-7.0,Alex Chiasson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:16:45Z,1,19:48,00:12,Blocked Shot,n/a,-83.0,-20.0,Oscar Klefbom,Blocker,Edmonton Oilers,Chris Tierney,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:16:27Z,1,19:51,00:09,Shot,Snap Shot,-70.0,24.0,Chris Tierney,Shooter,Ottawa Senators,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:17:09Z,1,19:51,00:09,Faceoff,n/a,-69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:17:13Z,1,19:59,00:01,Blocked Shot,n/a,-79.0,3.0,Oscar Klefbom,Blocker,Edmonton Oilers,Jean-Gabriel Pageau,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:28:44Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:36:24Z,2,00:36,19:24,Shot,Wrist Shot,-52.0,26.0,Jujhar Khaira,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:37:11Z,2,01:23,18:37,Shot,Slap Shot,50.0,30.0,Thomas Chabot,Shooter,Ottawa Senators,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:37:25Z,2,01:23,18:37,Faceoff,n/a,69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:37:46Z,2,01:32,18:28,Missed Shot,n/a,71.0,28.0,Vladislav Namestnikov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:38:56Z,2,01:54,18:06,Faceoff,n/a,20.0,22.0,Gaetan Haas,Winner,Edmonton Oilers,Logan Brown,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:38:45Z,2,01:58,18:02,Shot,Wrist Shot,37.0,18.0,Brady Tkachuk,Shooter,Ottawa Senators,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:38:57Z,2,01:59,18:01,Faceoff,n/a,69.0,22.0,Gaetan Haas,Winner,Edmonton Oilers,Logan Brown,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:39:48Z,2,02:38,17:22,Hit,n/a,-84.0,-36.0,Patrick Russell,Hitter,Edmonton Oilers,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:40:11Z,2,02:41,17:19,Faceoff,n/a,-69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,J.C. Beaudin,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:40:33Z,2,02:45,17:15,Shot,Wrist Shot,-68.0,-28.0,Oscar Klefbom,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:41:09Z,2,02:46,17:14,Faceoff,n/a,-69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Joakim Nygard,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:41:08Z,2,02:52,17:08,Missed Shot,n/a,-46.0,-16.0,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:41:14Z,2,03:00,17:00,Giveaway,n/a,-94.0,27.0,Alex Chiasson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:41:23Z,2,03:08,16:52,Shot,Slap Shot,37.0,-19.0,Dylan DeMelo,Shooter,Ottawa Senators,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:41:56Z,2,03:09,16:51,Faceoff,n/a,69.0,-22.0,Colin White,Winner,Ottawa Senators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:42:12Z,2,03:15,16:45,Penalty,Hooking,78.0,34.0,Jujhar Khaira,PenaltyOn,Edmonton Oilers,Chris Tierney,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:42:51Z,2,03:15,16:45,Faceoff,n/a,69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:43:14Z,2,03:44,16:16,Shot,Wrist Shot,60.0,-20.0,Anthony Duclair,Shooter,Ottawa Senators,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:43:21Z,2,03:48,16:12,Missed Shot,n/a,79.0,14.0,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:43:52Z,2,03:50,16:10,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Logan Brown,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:44:32Z,2,04:19,15:41,Missed Shot,n/a,48.0,31.0,Vladislav Namestnikov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:44:38Z,2,04:24,15:36,Missed Shot,n/a,46.0,29.0,Vladislav Namestnikov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:45:28Z,2,05:15,14:45,Goal,Wrist Shot,83.0,-6.0,Artem Anisimov,Scorer,Ottawa Senators,Vladislav Namestnikov,Assist,Ottawa Senators,Colin White,Assist,Ottawa Senators,Mikko Koskinen,Goalie,Edmonton Oilers
+2019-12-05T03:47:33Z,2,05:15,14:45,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:47:04Z,2,05:27,14:33,Goal,Wrist Shot,82.0,-11.0,Connor Brown,Scorer,Ottawa Senators,Chris Tierney,Assist,Ottawa Senators,Ron Hainsey,Assist,Ottawa Senators,Mikko Koskinen,Goalie,Edmonton Oilers
+2019-12-05T03:47:40Z,2,05:27,14:33,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:48:19Z,2,06:08,13:52,Shot,Wrist Shot,-65.0,-14.0,Oscar Klefbom,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:49:33Z,2,07:06,12:54,Missed Shot,n/a,-88.0,28.0,Sam Gagner,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:49:22Z,2,07:11,12:49,Blocked Shot,n/a,73.0,2.0,Ethan Bear,Blocker,Edmonton Oilers,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:49:38Z,2,07:26,12:34,Hit,n/a,40.0,-38.0,Darnell Nurse,Hitter,Edmonton Oilers,Colin White,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:50:03Z,2,07:52,12:08,Missed Shot,n/a,-53.0,26.0,Gaetan Haas,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:50:12Z,2,08:00,12:00,Giveaway,n/a,-95.0,16.0,Patrick Russell,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:51:50Z,2,08:19,11:41,Faceoff,n/a,69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Connor Brown,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:51:26Z,2,08:32,11:28,Takeaway,n/a,75.0,36.0,Connor Brown,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:51:30Z,2,08:36,11:24,Blocked Shot,n/a,73.0,5.0,Oscar Klefbom,Blocker,Edmonton Oilers,Mark Borowiecki,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:51:46Z,2,08:44,11:16,Hit,n/a,-31.0,-35.0,Mark Borowiecki,Hitter,Ottawa Senators,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:51:59Z,2,08:44,11:16,Giveaway,n/a,-98.0,8.0,Nikita Zaitsev,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:51:38Z,2,08:45,11:15,Hit,n/a,-71.0,41.0,Connor McDavid,Hitter,Edmonton Oilers,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:51:59Z,2,08:55,11:05,Hit,n/a,-46.0,-34.0,Josh Archibald,Hitter,Edmonton Oilers,Jean-Gabriel Pageau,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:52:14Z,2,09:18,10:42,Missed Shot,n/a,77.0,-30.0,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:52:27Z,2,09:22,10:38,Shot,Wrist Shot,73.0,4.0,Logan Brown,Shooter,Ottawa Senators,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:54:50Z,2,09:29,10:31,Faceoff,n/a,-20.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:55:01Z,2,09:52,10:08,Missed Shot,n/a,58.0,-35.0,Ron Hainsey,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:55:11Z,2,10:02,09:58,Hit,n/a,-95.0,-15.0,Riley Sheahan,Hitter,Edmonton Oilers,Ron Hainsey,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:55:42Z,2,10:33,09:27,Hit,n/a,-91.0,30.0,Mark Borowiecki,Hitter,Ottawa Senators,Jujhar Khaira,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:55:51Z,2,10:42,09:18,Blocked Shot,n/a,-66.0,-10.0,Nikita Zaitsev,Blocker,Ottawa Senators,Adam Larsson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:56:04Z,2,10:55,09:05,Blocked Shot,n/a,-74.0,12.0,Anthony Duclair,Blocker,Ottawa Senators,Jujhar Khaira,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:56:05Z,2,10:56,09:04,Hit,n/a,-44.0,-37.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:56:16Z,2,11:05,08:55,Shot,Tip-In,-70.0,-7.0,Sam Gagner,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:56:23Z,2,11:14,08:46,Takeaway,n/a,-97.0,12.0,Jujhar Khaira,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:56:31Z,2,11:22,08:38,Hit,n/a,-50.0,-34.0,Brady Tkachuk,Hitter,Ottawa Senators,Leon Draisaitl,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:57:00Z,2,11:38,08:22,Takeaway,n/a,-31.0,-33.0,Dylan DeMelo,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:56:55Z,2,11:42,08:18,Goal,Snap Shot,81.0,6.0,Tyler Ennis,Scorer,Ottawa Senators,Connor Brown,Assist,Ottawa Senators,Dylan DeMelo,Assist,Ottawa Senators,Mikko Koskinen,Goalie,Edmonton Oilers
+2019-12-05T03:57:44Z,2,11:42,08:18,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:58:18Z,2,11:58,08:02,Missed Shot,n/a,-61.0,16.0,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:58:58Z,2,12:35,07:25,Missed Shot,n/a,-39.0,-29.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:59:46Z,2,13:26,06:34,Blocked Shot,n/a,75.0,4.0,Kris Russell,Blocker,Edmonton Oilers,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T03:59:50Z,2,13:30,06:30,Takeaway,n/a,66.0,41.0,Artem Anisimov,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:00:16Z,2,13:55,06:05,Hit,n/a,-92.0,26.0,Jujhar Khaira,Hitter,Edmonton Oilers,Maxime Lajoie,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:00:23Z,2,14:00,06:00,Takeaway,n/a,84.0,28.0,Adam Larsson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:00:37Z,2,14:17,05:43,Blocked Shot,n/a,55.0,22.0,Adam Larsson,Blocker,Edmonton Oilers,Connor Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:01:06Z,2,14:46,05:14,Giveaway,n/a,91.0,-22.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:01:13Z,2,14:50,05:10,Shot,Wrist Shot,45.0,-10.0,Anthony Duclair,Shooter,Ottawa Senators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:01:24Z,2,14:53,05:07,Blocked Shot,n/a,78.0,4.0,Adam Larsson,Blocker,Edmonton Oilers,Mark Borowiecki,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:01:23Z,2,15:00,05:00,Hit,n/a,46.0,37.0,Connor Brown,Hitter,Ottawa Senators,Leon Draisaitl,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:01:45Z,2,15:25,04:35,Hit,n/a,90.0,25.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:01:56Z,2,15:36,04:24,Takeaway,n/a,-37.0,29.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:02:38Z,2,16:12,03:48,Penalty,Holding,37.0,-24.0,Brady Tkachuk,PenaltyOn,Ottawa Senators,Joakim Nygard,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:04:54Z,2,16:12,03:48,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:05:12Z,2,16:33,03:27,Shot,Wrist Shot,-71.0,-15.0,Connor McDavid,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:05:55Z,2,17:14,02:46,Shot,Slap Shot,-42.0,-7.0,Oscar Klefbom,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:06:03Z,2,17:22,02:38,Shot,Slap Shot,-55.0,27.0,Sam Gagner,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:06:19Z,2,17:37,02:23,Goal,Slap Shot,-34.0,7.0,Oscar Klefbom,Scorer,Edmonton Oilers,Sam Gagner,Assist,Edmonton Oilers,James Neal,Assist,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators
+2019-12-05T04:07:48Z,2,17:37,02:23,Faceoff,n/a,0.0,0.0,Gaetan Haas,Winner,Edmonton Oilers,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:08:00Z,2,17:51,02:09,Hit,n/a,-60.0,-36.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Patrick Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:08:04Z,2,17:55,02:05,Shot,Wrist Shot,-76.0,16.0,Markus Granlund,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:08:24Z,2,18:18,01:42,Hit,n/a,-18.0,-40.0,Markus Granlund,Hitter,Edmonton Oilers,Anthony Duclair,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:08:56Z,2,18:23,01:37,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:09:30Z,2,18:56,01:04,Shot,Wrist Shot,67.0,17.0,Vladislav Namestnikov,Shooter,Ottawa Senators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:09:37Z,2,18:58,01:02,Shot,Wrist Shot,70.0,-33.0,Artem Anisimov,Shooter,Ottawa Senators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:09:35Z,2,19:00,01:00,Hit,n/a,54.0,38.0,Darnell Nurse,Hitter,Edmonton Oilers,Mark Borowiecki,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:09:46Z,2,19:09,00:51,Hit,n/a,65.0,38.0,Ethan Bear,Hitter,Edmonton Oilers,Mark Borowiecki,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:10:20Z,2,19:45,00:15,Blocked Shot,n/a,-54.0,5.0,Ron Hainsey,Blocker,Ottawa Senators,Jujhar Khaira,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:10:39Z,2,19:58,00:02,Hit,n/a,54.0,31.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:30:24Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:29:25Z,3,00:19,19:41,Missed Shot,n/a,-50.0,-30.0,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:29:30Z,3,00:21,19:39,Missed Shot,n/a,-59.0,32.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:29:58Z,3,00:52,19:08,Giveaway,n/a,1.0,20.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:30:03Z,3,00:57,19:03,Shot,Slap Shot,-36.0,-19.0,Thomas Chabot,Shooter,Ottawa Senators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:30:50Z,3,00:57,19:03,Faceoff,n/a,-69.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Josh Archibald,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:30:53Z,3,01:06,18:54,Blocked Shot,n/a,-69.0,-5.0,Josh Archibald,Blocker,Edmonton Oilers,Anthony Duclair,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:31:00Z,3,01:13,18:47,Hit,n/a,98.0,-5.0,Thomas Chabot,Hitter,Ottawa Senators,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:31:18Z,3,01:27,18:33,Missed Shot,n/a,-65.0,-5.0,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:31:27Z,3,01:30,18:30,Goal,Wrist Shot,-83.0,-4.0,Anthony Duclair,Scorer,Ottawa Senators,Tyler Ennis,Assist,Ottawa Senators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a
+2019-12-05T04:32:22Z,3,01:30,18:30,Faceoff,n/a,0.0,0.0,J.C. Beaudin,Winner,Ottawa Senators,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:32:39Z,3,01:58,18:02,Giveaway,n/a,60.0,38.0,Gaetan Haas,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:33:00Z,3,02:21,17:39,Shot,Wrist Shot,61.0,-32.0,Gaetan Haas,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:34:00Z,3,03:21,16:39,Blocked Shot,n/a,83.0,-6.0,Ron Hainsey,Blocker,Ottawa Senators,Riley Sheahan,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:34:17Z,3,03:35,16:25,Shot,Wrist Shot,-57.0,-25.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:34:37Z,3,03:36,16:24,Faceoff,n/a,-69.0,-22.0,Brady Tkachuk,Winner,Ottawa Senators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:34:53Z,3,03:45,16:15,Shot,Wrist Shot,-64.0,18.0,Connor Brown,Shooter,Ottawa Senators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:35:09Z,3,03:46,16:14,Faceoff,n/a,-69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:35:33Z,3,03:59,16:01,Shot,Snap Shot,-78.0,-4.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:37:18Z,3,05:48,14:12,Blocked Shot,n/a,-78.0,-13.0,Gaetan Haas,Blocker,Edmonton Oilers,Anthony Duclair,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:37:38Z,3,06:06,13:54,Hit,n/a,94.0,-15.0,Patrick Russell,Hitter,Edmonton Oilers,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:37:49Z,3,06:16,13:44,Blocked Shot,n/a,-72.0,-14.0,Ethan Bear,Blocker,Edmonton Oilers,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:38:19Z,3,06:48,13:12,Takeaway,n/a,76.0,20.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:38:42Z,3,07:09,12:51,Takeaway,n/a,71.0,13.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:38:59Z,3,07:29,12:31,Blocked Shot,n/a,72.0,8.0,Dylan DeMelo,Blocker,Ottawa Senators,Joakim Nygard,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:39:57Z,3,08:26,11:34,Shot,Wrist Shot,56.0,-31.0,Joel Persson,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:42:34Z,3,08:27,11:33,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:42:56Z,3,08:47,11:13,Missed Shot,n/a,-78.0,11.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:42:42Z,3,08:50,11:10,Shot,Wrist Shot,-82.0,-6.0,Brady Tkachuk,Shooter,Ottawa Senators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:46:25Z,3,08:52,11:08,Faceoff,n/a,-69.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Markus Granlund,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:46:58Z,3,09:12,10:48,Shot,Backhand,-79.0,-3.0,Colin White,Shooter,Ottawa Senators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:47:14Z,3,09:30,10:30,Shot,Slap Shot,5.0,0.0,Adam Larsson,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:47:53Z,3,09:31,10:29,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:48:01Z,3,09:41,10:19,Shot,Snap Shot,-67.0,20.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:48:39Z,3,09:41,10:19,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:48:39Z,3,09:44,10:16,Missed Shot,n/a,-35.0,10.0,Dylan DeMelo,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:48:45Z,3,09:54,10:06,Hit,n/a,-67.0,40.0,Vladislav Namestnikov,Hitter,Ottawa Senators,Joakim Nygard,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:48:55Z,3,10:04,09:56,Hit,n/a,-6.0,-39.0,Riley Sheahan,Hitter,Edmonton Oilers,Vladislav Namestnikov,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:49:23Z,3,10:08,09:52,Faceoff,n/a,-69.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:49:55Z,3,10:33,09:27,Shot,Wrist Shot,-13.0,-31.0,Anthony Duclair,Shooter,Ottawa Senators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:50:09Z,3,10:49,09:11,Hit,n/a,67.0,-35.0,Mark Borowiecki,Hitter,Ottawa Senators,James Neal,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:50:23Z,3,11:00,09:00,Takeaway,n/a,92.0,-17.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:50:27Z,3,11:07,08:53,Missed Shot,n/a,34.0,2.0,Joel Persson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:51:11Z,3,11:47,08:13,Goal,Snap Shot,-75.0,4.0,Vladislav Namestnikov,Scorer,Ottawa Senators,Chris Tierney,Assist,Ottawa Senators,Tyler Ennis,Assist,Ottawa Senators,Mike Smith,Goalie,Edmonton Oilers
+2019-12-05T04:52:17Z,3,11:47,08:13,Faceoff,n/a,0.0,0.0,Gaetan Haas,Winner,Edmonton Oilers,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:52:14Z,3,12:08,07:52,Blocked Shot,n/a,71.0,-18.0,Anthony Duclair,Blocker,Ottawa Senators,Gaetan Haas,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:52:33Z,3,12:28,07:32,Shot,Slap Shot,9.0,-19.0,Joel Persson,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:52:45Z,3,12:40,07:20,Blocked Shot,n/a,70.0,7.0,Mark Borowiecki,Blocker,Ottawa Senators,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:53:04Z,3,12:59,07:01,Hit,n/a,42.0,37.0,Markus Granlund,Hitter,Edmonton Oilers,Chris Tierney,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:53:29Z,3,13:24,06:36,Missed Shot,n/a,37.0,-13.0,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:53:57Z,3,13:52,06:08,Missed Shot,n/a,80.0,-10.0,Alex Chiasson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:54:05Z,3,14:00,06:00,Shot,Wrist Shot,71.0,2.0,Joakim Nygard,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:54:17Z,3,14:12,05:48,Hit,n/a,96.0,13.0,Nikita Zaitsev,Hitter,Ottawa Senators,Alex Chiasson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:54:49Z,3,14:41,05:19,Takeaway,n/a,-26.0,25.0,Tyler Ennis,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:54:50Z,3,14:45,05:15,Missed Shot,n/a,-82.0,-5.0,Vladislav Namestnikov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:57:16Z,3,14:55,05:05,Faceoff,n/a,20.0,-22.0,Brady Tkachuk,Winner,Ottawa Senators,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:57:32Z,3,15:12,04:48,Penalty,Tripping,70.0,-15.0,Thomas Chabot,PenaltyOn,Ottawa Senators,Gaetan Haas,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:58:08Z,3,15:12,04:48,Faceoff,n/a,69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:59:19Z,3,15:44,04:16,Penalty,Holding,-29.0,-31.0,Leon Draisaitl,PenaltyOn,Edmonton Oilers,Vladislav Namestnikov,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:59:33Z,3,15:44,04:16,Faceoff,n/a,-69.0,22.0,Gaetan Haas,Winner,Edmonton Oilers,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T04:59:43Z,3,16:11,03:49,Missed Shot,n/a,-46.0,20.0,Anthony Duclair,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:00:11Z,3,16:34,03:26,Penalty,Hooking,71.0,4.0,Nikita Zaitsev,PenaltyOn,Ottawa Senators,Gaetan Haas,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:02:28Z,3,16:34,03:26,Faceoff,n/a,69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:02:56Z,3,16:49,03:11,Penalty,Closing hand on puck,52.0,-26.0,Ron Hainsey,PenaltyOn,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:03:24Z,3,16:49,03:11,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:03:37Z,3,17:08,02:52,Missed Shot,n/a,67.0,-11.0,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:04:09Z,3,17:41,02:19,Giveaway,n/a,95.0,-6.0,Craig Anderson,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:04:39Z,3,18:10,01:50,Shot,Snap Shot,59.0,-16.0,Leon Draisaitl,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:05:03Z,3,18:33,01:27,Blocked Shot,n/a,71.0,-5.0,Mark Borowiecki,Blocker,Ottawa Senators,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:05:16Z,3,18:38,01:22,Penalty,Interference,82.0,0.0,Dylan DeMelo,PenaltyOn,Ottawa Senators,Connor McDavid,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:06:10Z,3,18:38,01:22,Faceoff,n/a,69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:06:38Z,3,19:09,00:51,Blocked Shot,n/a,73.0,-7.0,Mark Borowiecki,Blocker,Ottawa Senators,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:06:47Z,3,19:17,00:43,Blocked Shot,n/a,74.0,8.0,Nikita Zaitsev,Blocker,Ottawa Senators,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:07:05Z,3,19:32,00:28,Takeaway,n/a,83.0,-14.0,Mark Borowiecki,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:07:20Z,3,19:49,00:11,Blocked Shot,n/a,79.0,-17.0,Ron Hainsey,Blocker,Ottawa Senators,Gaetan Haas,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:07:55Z,3,19:49,00:11,Faceoff,n/a,69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-05T05:08:02Z,3,19:59,00:01,Shot,Wrist Shot,83.0,-16.0,Markus Granlund,Shooter,Edmonton Oilers,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a

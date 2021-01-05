@@ -1,0 +1,273 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-14T21:08:04Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Nazem Kadri,Winner,Colorado Avalanche,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:09:00Z,1,00:08,19:52,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:09:52Z,1,00:13,19:47,Blocked Shot,n/a,-40.0,28.0,Andre Burakovsky,Blocker,Colorado Avalanche,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:10:03Z,1,00:25,19:35,Giveaway,n/a,-65.0,39.0,Samuel Girard,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:10:06Z,1,00:28,19:32,Shot,Backhand,-72.0,17.0,Alex Ovechkin,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:10:42Z,1,01:03,18:57,Blocked Shot,n/a,77.0,13.0,John Carlson,Blocker,Washington Capitals,Mikko Rantanen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:10:57Z,1,01:04,18:56,Faceoff,n/a,69.0,22.0,Mikko Rantanen,Winner,Colorado Avalanche,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:11:51Z,1,01:16,18:44,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Tyson Jost,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:12:06Z,1,01:25,18:35,Hit,n/a,-42.0,34.0,Tyler Lewington,Hitter,Washington Capitals,Matt Nieto,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:12:17Z,1,01:36,18:24,Takeaway,n/a,59.0,38.0,Tyson Jost,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:12:31Z,1,01:49,18:11,Hit,n/a,89.0,-37.0,Colin Wilson,Hitter,Colorado Avalanche,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:12:38Z,1,01:56,18:04,Blocked Shot,n/a,77.0,-30.0,Lars Eller,Blocker,Washington Capitals,Tyson Jost,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:12:57Z,1,01:57,18:03,Faceoff,n/a,69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:14:14Z,1,02:48,17:12,Faceoff,n/a,-69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:14:42Z,1,03:03,16:57,Missed Shot,n/a,-89.0,26.0,Nic Dowd,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:15:16Z,1,03:42,16:18,Goal,Wrist Shot,39.0,22.0,Erik Johnson,Scorer,Colorado Avalanche,Nazem Kadri,Assist,Colorado Avalanche,Andre Burakovsky,Assist,Colorado Avalanche,Braden Holtby,Goalie,Washington Capitals
+2019-10-14T21:16:09Z,1,03:42,16:18,Faceoff,n/a,0.0,0.0,Nazem Kadri,Winner,Colorado Avalanche,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:16:13Z,1,03:53,16:07,Hit,n/a,-32.0,5.0,Radko Gudas,Hitter,Washington Capitals,Andre Burakovsky,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:16:36Z,1,04:16,15:44,Shot,Wrist Shot,-61.0,2.0,Alex Ovechkin,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:16:36Z,1,04:17,15:43,Missed Shot,n/a,-78.0,-1.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:16:41Z,1,04:21,15:39,Takeaway,n/a,-96.0,-18.0,Alex Ovechkin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:16:47Z,1,04:28,15:32,Blocked Shot,n/a,-76.0,11.0,Ryan Graves,Blocker,Colorado Avalanche,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:17:14Z,1,04:33,15:27,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Tyson Jost,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:18:11Z,1,04:53,15:07,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:18:42Z,1,05:00,15:00,Faceoff,n/a,0.0,0.0,T.J. Oshie,Winner,Washington Capitals,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:19:16Z,1,05:15,14:45,Faceoff,n/a,-20.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:19:42Z,1,05:29,14:31,Takeaway,n/a,-92.0,-37.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:20:07Z,1,05:54,14:06,Giveaway,n/a,-22.0,34.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:20:18Z,1,06:00,14:00,Goal,Wrist Shot,70.0,-6.0,Nikita Zadorov,Scorer,Colorado Avalanche,Mikko Rantanen,Assist,Colorado Avalanche,Nathan MacKinnon,Assist,Colorado Avalanche,Braden Holtby,Goalie,Washington Capitals
+2019-10-14T21:20:51Z,1,06:00,14:00,Faceoff,n/a,0.0,0.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Garnet Hathaway,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:21:29Z,1,06:22,13:38,Hit,n/a,7.0,8.0,Radko Gudas,Hitter,Washington Capitals,Matt Calvert,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:22:13Z,1,07:06,12:54,Blocked Shot,n/a,56.0,5.0,Tom Wilson,Blocker,Washington Capitals,Ryan Graves,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:22:20Z,1,07:13,12:47,Takeaway,n/a,96.0,-1.0,Nicklas Backstrom,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:22:39Z,1,07:32,12:28,Missed Shot,n/a,-57.0,-30.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:22:55Z,1,07:48,12:12,Giveaway,n/a,-14.0,-18.0,Carl Hagelin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:23:00Z,1,07:54,12:06,Goal,Wrist Shot,69.0,19.0,Nazem Kadri,Scorer,Colorado Avalanche,Joonas Donskoi,Assist,Colorado Avalanche,Cale Makar,Assist,Colorado Avalanche,Braden Holtby,Goalie,Washington Capitals
+2019-10-14T21:24:09Z,1,07:54,12:06,Faceoff,n/a,0.0,0.0,Nathan MacKinnon,Winner,Colorado Avalanche,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:24:18Z,1,08:07,11:53,Blocked Shot,n/a,-81.0,9.0,Nikita Zadorov,Blocker,Colorado Avalanche,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:24:24Z,1,08:12,11:48,Hit,n/a,-54.0,-39.0,Richard Panik,Hitter,Washington Capitals,Mikko Rantanen,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:24:40Z,1,08:28,11:32,Blocked Shot,n/a,-61.0,3.0,Nathan MacKinnon,Blocker,Colorado Avalanche,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:25:00Z,1,08:48,11:12,Missed Shot,n/a,67.0,-20.0,Nazem Kadri,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:25:14Z,1,08:49,11:11,Penalty,Cross checking,61.0,-36.0,Jonas Siegenthaler,PenaltyOn,Washington Capitals,Nathan MacKinnon,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:27:15Z,1,08:49,11:11,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:27:50Z,1,09:04,10:56,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:28:37Z,1,09:24,10:36,Shot,Tip-In,84.0,2.0,Nazem Kadri,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:28:48Z,1,09:25,10:35,Goal,Wrist Shot,75.0,-15.0,Mikko Rantanen,Scorer,Colorado Avalanche,Gabriel Landeskog,Assist,Colorado Avalanche,Nazem Kadri,Assist,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals
+2019-10-14T21:29:24Z,1,09:25,10:35,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:29:42Z,1,09:40,10:20,Blocked Shot,n/a,47.0,-16.0,Nicklas Backstrom,Blocker,Washington Capitals,Erik Johnson,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:29:50Z,1,09:44,10:16,Penalty,Fighting,4.0,0.0,Valeri Nichushkin,PenaltyOn,Colorado Avalanche,Tyler Lewington,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:29:50Z,1,09:44,10:16,Penalty,Fighting,7.0,0.0,Tyler Lewington,PenaltyOn,Washington Capitals,Valeri Nichushkin,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:29:50Z,1,09:44,10:16,Penalty,Instigator,3.0,-6.0,Tyler Lewington,PenaltyOn,Washington Capitals,Valeri Nichushkin,DrewBy,Washington Capitals,Jakub Vrana,ServedBy,Colorado Avalanche,n/a,n/a,n/a
+2019-10-14T21:29:50Z,1,09:44,10:16,Penalty,Misconduct,6.0,1.0,Tyler Lewington,PenaltyOn,Washington Capitals,Valeri Nichushkin,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:31:36Z,1,09:44,10:16,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:32:19Z,1,10:14,09:46,Takeaway,n/a,-54.0,-28.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:32:06Z,1,10:15,09:45,Shot,Snap Shot,-51.0,-20.0,Lars Eller,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:32:29Z,1,10:16,09:44,Faceoff,n/a,-69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:33:12Z,1,10:56,09:04,Shot,Wrist Shot,94.0,-17.0,Radko Gudas,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:33:39Z,1,11:26,08:34,Blocked Shot,n/a,70.0,1.0,John Carlson,Blocker,Washington Capitals,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:34:01Z,1,11:48,08:12,Shot,Wrist Shot,59.0,19.0,Joonas Donskoi,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:34:40Z,1,12:26,07:34,Hit,n/a,97.0,-14.0,Matt Calvert,Hitter,Colorado Avalanche,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:34:47Z,1,12:33,07:27,Blocked Shot,n/a,-77.0,8.0,Ian Cole,Blocker,Colorado Avalanche,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:35:55Z,1,13:41,06:19,Shot,Wrist Shot,80.0,16.0,Samuel Girard,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:35:59Z,1,13:43,06:17,Takeaway,n/a,69.0,-3.0,Andre Burakovsky,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:36:03Z,1,13:49,06:11,Missed Shot,n/a,70.0,-16.0,Andre Burakovsky,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:36:16Z,1,14:03,05:57,Giveaway,n/a,32.0,36.0,Nazem Kadri,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:36:38Z,1,14:25,05:35,Hit,n/a,-97.0,30.0,Ryan Graves,Hitter,Colorado Avalanche,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:39:16Z,1,14:31,05:29,Faceoff,n/a,-69.0,-22.0,Tyson Jost,Winner,Colorado Avalanche,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:39:34Z,1,14:52,05:08,Blocked Shot,n/a,55.0,-13.0,Dmitry Orlov,Blocker,Washington Capitals,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:39:34Z,1,15:00,05:00,Blocked Shot,n/a,-80.0,9.0,Ryan Graves,Blocker,Colorado Avalanche,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:39:38Z,1,15:05,04:55,Giveaway,n/a,-90.0,36.0,Ryan Graves,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:40:29Z,1,15:27,04:33,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:41:04Z,1,16:01,03:59,Missed Shot,n/a,79.0,-17.0,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:41:27Z,1,16:23,03:37,Shot,Tip-In,82.0,12.0,Samuel Girard,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:41:36Z,1,16:28,03:32,Penalty,Hooking,-83.0,12.0,Evgeny Kuznetsov,PenaltyOn,Washington Capitals,Samuel Girard,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:43:22Z,1,16:28,03:32,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:44:38Z,1,17:27,02:33,Blocked Shot,n/a,74.0,-9.0,Radko Gudas,Blocker,Washington Capitals,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:44:50Z,1,17:39,02:21,Missed Shot,n/a,55.0,23.0,Nazem Kadri,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:44:57Z,1,17:46,02:14,Blocked Shot,n/a,47.0,-3.0,Tom Wilson,Blocker,Washington Capitals,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:45:38Z,1,18:02,01:58,Faceoff,n/a,20.0,-22.0,Nic Dowd,Winner,Washington Capitals,Colin Wilson,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:46:21Z,1,18:32,01:28,Shot,Tip-In,80.0,6.0,Andre Burakovsky,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:46:27Z,1,18:37,01:23,Takeaway,n/a,50.0,38.0,Tyson Jost,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:46:30Z,1,18:40,01:20,Shot,Wrist Shot,32.0,3.0,Samuel Girard,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:46:48Z,1,18:58,01:02,Giveaway,n/a,-38.0,-30.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:47:09Z,1,19:18,00:42,Blocked Shot,n/a,-79.0,23.0,Pierre-Edouard Bellemare,Blocker,Colorado Avalanche,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:47:50Z,1,19:36,00:24,Faceoff,n/a,-69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:48:08Z,1,19:44,00:16,Hit,n/a,34.0,-38.0,Dmitry Orlov,Hitter,Washington Capitals,Ian Cole,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T21:48:20Z,1,19:46,00:14,Faceoff,n/a,20.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:07:16Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Joonas Donskoi,Winner,Colorado Avalanche,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:07:47Z,2,00:30,19:30,Blocked Shot,n/a,40.0,3.0,Andre Burakovsky,Blocker,Colorado Avalanche,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:07:57Z,2,00:38,19:22,Shot,Tip-In,61.0,-7.0,Tom Wilson,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:08:06Z,2,00:40,19:20,Shot,Tip-In,79.0,12.0,Tom Wilson,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:08:22Z,2,00:41,19:19,Faceoff,n/a,69.0,22.0,Richard Panik,Winner,Washington Capitals,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:08:39Z,2,00:46,19:14,Blocked Shot,n/a,47.0,23.0,Mikko Rantanen,Blocker,Colorado Avalanche,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:08:57Z,2,00:49,19:11,Shot,Wrist Shot,77.0,-23.0,Carl Hagelin,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:08:53Z,2,00:50,19:10,Penalty,Hooking,94.0,-4.0,Nikita Zadorov,PenaltyOn,Colorado Avalanche,Lars Eller,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:09:21Z,2,00:50,19:10,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:09:53Z,2,01:21,18:39,Hit,n/a,95.0,-6.0,T.J. Oshie,Hitter,Washington Capitals,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:10:14Z,2,01:44,18:16,Hit,n/a,55.0,39.0,Erik Johnson,Hitter,Colorado Avalanche,T.J. Oshie,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:10:32Z,2,01:45,18:15,Penalty,Hi-sticking,61.0,34.0,Alex Ovechkin,PenaltyOn,Washington Capitals,Erik Johnson,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:11:09Z,2,01:45,18:15,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:11:39Z,2,02:11,17:49,Takeaway,n/a,73.0,35.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:12:09Z,2,02:39,17:21,Shot,Snap Shot,-66.0,-23.0,Andre Burakovsky,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:12:48Z,2,02:41,17:19,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Mikko Rantanen,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:13:12Z,2,02:50,17:10,Faceoff,n/a,20.0,22.0,Carl Hagelin,Winner,Washington Capitals,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:14:20Z,2,03:46,16:14,Shot,Backhand,87.0,-3.0,Richard Panik,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:14:55Z,2,03:53,16:07,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:15:02Z,2,03:59,16:01,Blocked Shot,n/a,74.0,3.0,Cale Makar,Blocker,Colorado Avalanche,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:15:15Z,2,04:12,15:48,Missed Shot,n/a,28.0,7.0,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:15:23Z,2,04:18,15:42,Shot,Snap Shot,39.0,31.0,Dmitry Orlov,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:15:31Z,2,04:26,15:34,Shot,Wrist Shot,53.0,-18.0,Jakub Vrana,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:15:59Z,2,04:27,15:33,Faceoff,n/a,69.0,-22.0,Tyson Jost,Winner,Colorado Avalanche,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:16:26Z,2,04:42,15:18,Shot,Wrist Shot,48.0,24.0,Alex Ovechkin,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:16:53Z,2,04:43,15:17,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:17:28Z,2,05:06,14:54,Penalty,Hooking,66.0,5.0,Tom Wilson,PenaltyOn,Washington Capitals,Samuel Girard,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:17:46Z,2,05:06,14:54,Penalty,Embellishment,61.0,8.0,Samuel Girard,PenaltyOn,Colorado Avalanche,Tom Wilson,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:18:21Z,2,05:06,14:54,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:18:32Z,2,05:19,14:41,Giveaway,n/a,-14.0,36.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:18:47Z,2,05:36,14:24,Blocked Shot,n/a,65.0,-6.0,Nikita Zadorov,Blocker,Colorado Avalanche,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:20:01Z,2,06:50,13:10,Missed Shot,n/a,51.0,-27.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:21:18Z,2,06:51,13:09,Takeaway,n/a,54.0,28.0,Alex Ovechkin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:20:09Z,2,06:56,13:04,Goal,Wrist Shot,82.0,4.0,Lars Eller,Scorer,Washington Capitals,Alex Ovechkin,Assist,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a
+2019-10-14T22:23:16Z,2,06:56,13:04,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Tyson Jost,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:21:26Z,2,07:26,12:34,Shot,Wrist Shot,-72.0,-32.0,Colin Wilson,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:21:55Z,2,07:55,12:05,Blocked Shot,n/a,-47.0,-14.0,Tom Wilson,Blocker,Washington Capitals,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:22:07Z,2,08:06,11:54,Shot,Wrist Shot,-51.0,-34.0,Colin Wilson,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:24:25Z,2,08:07,11:53,Faceoff,n/a,-69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:24:27Z,2,08:11,11:49,Blocked Shot,n/a,-67.0,-17.0,Garnet Hathaway,Blocker,Washington Capitals,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:24:43Z,2,08:30,11:30,Blocked Shot,n/a,-62.0,-17.0,Radko Gudas,Blocker,Washington Capitals,Matt Calvert,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:24:56Z,2,08:41,11:19,Hit,n/a,55.0,-30.0,Garnet Hathaway,Hitter,Washington Capitals,Matt Calvert,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:25:21Z,2,09:08,10:52,Shot,Wrist Shot,-58.0,29.0,Gabriel Landeskog,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:25:32Z,2,09:19,10:41,Blocked Shot,n/a,-76.0,3.0,Radko Gudas,Blocker,Washington Capitals,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:25:48Z,2,09:33,10:27,Missed Shot,n/a,-47.0,-23.0,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:26:00Z,2,09:47,10:13,Missed Shot,n/a,-28.0,4.0,Gabriel Landeskog,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:26:15Z,2,09:58,10:02,Giveaway,n/a,-95.0,18.0,Tyler Lewington,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:26:23Z,2,10:06,09:54,Giveaway,n/a,-74.0,34.0,Brendan Leipsic,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:26:28Z,2,10:13,09:47,Missed Shot,n/a,-35.0,31.0,Nikita Zadorov,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:27:15Z,2,11:02,08:58,Hit,n/a,13.0,36.0,Carl Hagelin,Hitter,Washington Capitals,Andre Burakovsky,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:28:00Z,2,11:47,08:13,Shot,Wrist Shot,78.0,-16.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:28:35Z,2,12:22,07:38,Blocked Shot,n/a,-67.0,-14.0,Dmitry Orlov,Blocker,Washington Capitals,Tyson Jost,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:28:41Z,2,12:28,07:32,Hit,n/a,-97.0,14.0,Alex Ovechkin,Hitter,Washington Capitals,Matt Calvert,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:29:14Z,2,12:32,07:28,Faceoff,n/a,-69.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:29:36Z,2,12:55,07:05,Shot,Snap Shot,-55.0,13.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:31:47Z,2,12:56,07:04,Faceoff,n/a,-69.0,22.0,Lars Eller,Winner,Washington Capitals,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:32:06Z,2,13:04,06:56,Shot,Wrist Shot,49.0,11.0,Dmitry Orlov,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:32:35Z,2,13:05,06:55,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:32:55Z,2,13:24,06:36,Blocked Shot,n/a,68.0,-1.0,Ryan Graves,Blocker,Colorado Avalanche,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:33:06Z,2,13:35,06:25,Hit,n/a,20.0,-12.0,Lars Eller,Hitter,Washington Capitals,Nazem Kadri,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:33:45Z,2,14:03,05:57,Hit,n/a,93.0,29.0,Garnet Hathaway,Hitter,Washington Capitals,Samuel Girard,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:36:03Z,2,14:07,05:53,Faceoff,n/a,69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:36:14Z,2,14:16,05:44,Hit,n/a,92.0,-6.0,Alex Ovechkin,Hitter,Washington Capitals,Samuel Girard,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:36:45Z,2,14:43,05:17,Hit,n/a,95.0,22.0,Tom Wilson,Hitter,Washington Capitals,Erik Johnson,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:37:09Z,2,14:46,05:14,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:37:26Z,2,14:56,05:04,Faceoff,n/a,69.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:38:04Z,2,15:14,04:46,Takeaway,n/a,26.0,29.0,Erik Johnson,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:38:11Z,2,15:22,04:38,Hit,n/a,-93.0,-33.0,Nazem Kadri,Hitter,Colorado Avalanche,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:38:19Z,2,15:28,04:32,Goal,Backhand,80.0,0.0,T.J. Oshie,Scorer,Washington Capitals,Dmitry Orlov,Assist,Washington Capitals,Evgeny Kuznetsov,Assist,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche
+2019-10-14T22:39:12Z,2,15:28,04:32,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:39:39Z,2,15:57,04:03,Shot,Wrist Shot,87.0,6.0,Nick Jensen,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:40:19Z,2,15:58,04:02,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:40:28Z,2,16:10,03:50,Giveaway,n/a,-94.0,32.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:40:47Z,2,16:32,03:28,Hit,n/a,-28.0,-36.0,Tom Wilson,Hitter,Washington Capitals,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:41:33Z,2,16:41,03:19,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:41:35Z,2,16:45,03:15,Blocked Shot,n/a,55.0,19.0,Mikko Rantanen,Blocker,Colorado Avalanche,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:41:56Z,2,17:07,02:53,Blocked Shot,n/a,-72.0,2.0,Dmitry Orlov,Blocker,Washington Capitals,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:42:04Z,2,17:13,02:47,Giveaway,n/a,-65.0,5.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:42:08Z,2,17:19,02:41,Missed Shot,n/a,-52.0,25.0,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:42:31Z,2,17:41,02:19,Shot,Wrist Shot,-76.0,-18.0,Tyson Jost,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:42:39Z,2,17:49,02:11,Shot,Wrist Shot,-57.0,24.0,Erik Johnson,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:42:56Z,2,18:07,01:53,Hit,n/a,-94.0,-31.0,Colin Wilson,Hitter,Colorado Avalanche,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:43:27Z,2,18:18,01:42,Faceoff,n/a,69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Tyson Jost,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:43:48Z,2,18:24,01:36,Shot,Tip-In,80.0,-11.0,Nicklas Backstrom,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:44:03Z,2,18:39,01:21,Shot,Wrist Shot,52.0,-9.0,John Carlson,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:44:06Z,2,18:42,01:18,Shot,Wrist Shot,90.0,-12.0,Tom Wilson,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:44:11Z,2,18:47,01:13,Hit,n/a,19.0,-35.0,Dmitry Orlov,Hitter,Washington Capitals,Matt Nieto,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:44:18Z,2,18:54,01:06,Hit,n/a,90.0,-40.0,Tom Wilson,Hitter,Washington Capitals,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:44:37Z,2,19:13,00:47,Blocked Shot,n/a,-79.0,-9.0,John Carlson,Blocker,Washington Capitals,Nazem Kadri,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:46:36Z,2,19:33,00:27,Hit,n/a,-12.0,2.0,Brendan Leipsic,Hitter,Washington Capitals,Andre Burakovsky,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:45:06Z,2,19:41,00:19,Blocked Shot,n/a,45.0,-26.0,Andre Burakovsky,Blocker,Colorado Avalanche,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:45:06Z,2,19:41,00:19,Hit,n/a,95.0,-25.0,Nazem Kadri,Hitter,Colorado Avalanche,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:45:18Z,2,19:53,00:07,Missed Shot,n/a,69.0,-18.0,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:45:18Z,2,19:57,00:03,Shot,Slap Shot,35.0,-16.0,Radko Gudas,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T22:46:40Z,2,19:58,00:02,Faceoff,n/a,69.0,-22.0,Lars Eller,Winner,Washington Capitals,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:07:02Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Nazem Kadri,Winner,Colorado Avalanche,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:07:08Z,3,00:09,19:51,Giveaway,n/a,-36.0,5.0,Samuel Girard,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:07:12Z,3,00:11,19:49,Shot,Wrist Shot,-59.0,-27.0,Alex Ovechkin,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:07:40Z,3,00:12,19:48,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:07:43Z,3,00:17,19:43,Takeaway,n/a,-58.0,-20.0,Mikko Rantanen,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:07:51Z,3,00:22,19:38,Giveaway,n/a,97.0,-2.0,Ilya Samsonov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:08:10Z,3,00:44,19:16,Takeaway,n/a,-42.0,-34.0,Nathan MacKinnon,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:08:15Z,3,00:49,19:11,Blocked Shot,n/a,63.0,-25.0,Jonas Siegenthaler,Blocker,Washington Capitals,Mikko Rantanen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:08:36Z,3,01:04,18:56,Faceoff,n/a,-20.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:09:45Z,3,01:55,18:05,Shot,Wrist Shot,-80.0,-20.0,Lars Eller,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:10:18Z,3,01:57,18:03,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:10:39Z,3,02:18,17:42,Missed Shot,n/a,61.0,-16.0,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:11:00Z,3,02:39,17:21,Shot,Wrist Shot,-61.0,32.0,John Carlson,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:11:06Z,3,02:45,17:15,Hit,n/a,-94.0,24.0,Erik Johnson,Hitter,Colorado Avalanche,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:11:14Z,3,02:53,17:07,Hit,n/a,-96.0,-30.0,Matt Calvert,Hitter,Colorado Avalanche,Carl Hagelin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:11:34Z,3,03:11,16:49,Hit,n/a,39.0,26.0,Tom Wilson,Hitter,Washington Capitals,Valeri Nichushkin,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:11:46Z,3,03:25,16:35,Missed Shot,n/a,-51.0,-8.0,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:12:30Z,3,04:09,15:51,Takeaway,n/a,44.0,-4.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:23:17Z,3,04:10,15:50,Giveaway,n/a,17.0,38.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:12:47Z,3,04:21,15:39,Giveaway,n/a,95.0,5.0,Ilya Samsonov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:12:48Z,3,04:24,15:36,Goal,Backhand,76.0,-7.0,Matt Nieto,Scorer,Colorado Avalanche,Tyson Jost,Assist,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a
+2019-10-14T23:13:41Z,3,04:24,15:36,Faceoff,n/a,0.0,0.0,Tyson Jost,Winner,Colorado Avalanche,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:13:43Z,3,04:36,15:24,Hit,n/a,18.0,38.0,Tyler Lewington,Hitter,Washington Capitals,Matt Nieto,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:14:09Z,3,05:02,14:58,Blocked Shot,n/a,-62.0,18.0,Samuel Girard,Blocker,Colorado Avalanche,Garnet Hathaway,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:14:59Z,3,05:52,14:08,Takeaway,n/a,90.0,20.0,Gabriel Landeskog,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:15:13Z,3,06:05,13:55,Blocked Shot,n/a,51.0,14.0,Jonas Siegenthaler,Blocker,Washington Capitals,Mikko Rantanen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:15:31Z,3,06:24,13:36,Hit,n/a,59.0,40.0,Tom Wilson,Hitter,Washington Capitals,Matt Calvert,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:15:47Z,3,06:33,13:27,Hit,n/a,59.0,38.0,Radko Gudas,Hitter,Washington Capitals,Valeri Nichushkin,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:15:41Z,3,06:34,13:26,Shot,Wrist Shot,71.0,9.0,Valeri Nichushkin,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:15:55Z,3,06:48,13:12,Blocked Shot,n/a,-46.0,11.0,Samuel Girard,Blocker,Colorado Avalanche,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:16:17Z,3,07:10,12:50,Hit,n/a,54.0,42.0,Tom Wilson,Hitter,Washington Capitals,Matt Calvert,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:16:46Z,3,07:39,12:21,Hit,n/a,95.0,27.0,Joonas Donskoi,Hitter,Colorado Avalanche,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:17:24Z,3,08:17,11:43,Takeaway,n/a,18.0,5.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:17:50Z,3,08:43,11:17,Shot,Wrist Shot,43.0,-2.0,Erik Johnson,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:20:07Z,3,08:46,11:14,Faceoff,n/a,69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:20:48Z,3,09:04,10:56,Shot,Wrist Shot,-68.0,-17.0,Carl Hagelin,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:25:06Z,3,09:10,10:50,Hit,n/a,17.0,-15.0,Jonas Siegenthaler,Hitter,Washington Capitals,Nathan MacKinnon,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:20:55Z,3,09:13,10:47,Hit,n/a,-56.0,-39.0,Garnet Hathaway,Hitter,Washington Capitals,Gabriel Landeskog,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:21:09Z,3,09:26,10:34,Shot,Tip-In,-81.0,-3.0,Garnet Hathaway,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:21:17Z,3,09:33,10:27,Missed Shot,n/a,-80.0,4.0,Carl Hagelin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:21:27Z,3,09:43,10:17,Missed Shot,n/a,69.0,-18.0,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:21:32Z,3,09:48,10:12,Giveaway,n/a,28.0,38.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:21:42Z,3,09:58,10:02,Giveaway,n/a,17.0,-36.0,Alex Ovechkin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:22:05Z,3,10:22,09:38,Shot,Snap Shot,68.0,-29.0,Andre Burakovsky,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:22:12Z,3,10:26,09:34,Hit,n/a,34.0,39.0,Tom Wilson,Hitter,Washington Capitals,Nikita Zadorov,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:22:39Z,3,10:52,09:08,Hit,n/a,45.0,-38.0,Radko Gudas,Hitter,Washington Capitals,Nazem Kadri,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:23:10Z,3,11:26,08:34,Hit,n/a,97.0,-4.0,Radko Gudas,Hitter,Washington Capitals,Tyson Jost,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:23:17Z,3,11:33,08:27,Missed Shot,n/a,75.0,16.0,Mikko Rantanen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:25:57Z,3,11:59,08:01,Faceoff,n/a,20.0,22.0,Nic Dowd,Winner,Washington Capitals,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:28:02Z,3,12:37,07:23,Faceoff,n/a,-20.0,-22.0,Lars Eller,Winner,Washington Capitals,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:28:14Z,3,12:49,07:11,Missed Shot,n/a,-41.0,-9.0,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:28:42Z,3,13:16,06:44,Hit,n/a,97.0,-20.0,Matt Calvert,Hitter,Colorado Avalanche,Tyler Lewington,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:28:48Z,3,13:23,06:37,Shot,Wrap-around,85.0,0.0,Nazem Kadri,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:28:48Z,3,13:23,06:37,Giveaway,n/a,93.0,18.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:29:11Z,3,13:46,06:14,Takeaway,n/a,56.0,-40.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:29:13Z,3,13:48,06:12,Shot,Slap Shot,62.0,34.0,Ryan Graves,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:29:26Z,3,14:01,05:59,Hit,n/a,78.0,40.0,Dmitry Orlov,Hitter,Washington Capitals,Andre Burakovsky,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:29:56Z,3,14:31,05:29,Giveaway,n/a,-99.0,-6.0,Tyson Jost,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:30:10Z,3,14:45,05:15,Blocked Shot,n/a,69.0,-10.0,T.J. Oshie,Blocker,Washington Capitals,Matt Nieto,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:30:43Z,3,14:59,05:01,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:31:15Z,3,15:07,04:53,Faceoff,n/a,69.0,22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:31:56Z,3,15:26,04:34,Blocked Shot,n/a,76.0,8.0,Radko Gudas,Blocker,Washington Capitals,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:32:07Z,3,15:37,04:23,Shot,Tip-In,73.0,1.0,Gabriel Landeskog,Shooter,Colorado Avalanche,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:32:16Z,3,15:39,04:21,Penalty,Slashing,66.0,-9.0,Gabriel Landeskog,PenaltyOn,Colorado Avalanche,Evgeny Kuznetsov,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:34:21Z,3,15:39,04:21,Faceoff,n/a,-69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:34:57Z,3,16:13,03:47,Giveaway,n/a,60.0,-19.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:35:12Z,3,16:28,03:32,Shot,Wrist Shot,-79.0,24.0,Nicklas Backstrom,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:35:48Z,3,16:31,03:29,Faceoff,n/a,-69.0,22.0,T.J. Oshie,Winner,Washington Capitals,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:35:59Z,3,16:34,03:26,Missed Shot,n/a,-50.0,-16.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:36:22Z,3,16:55,03:05,Giveaway,n/a,-58.0,34.0,Joonas Donskoi,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:36:25Z,3,17:01,02:59,Missed Shot,n/a,-66.0,19.0,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:36:53Z,3,17:28,02:32,Shot,Wrist Shot,-49.0,-3.0,Alex Ovechkin,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:38:26Z,3,17:29,02:31,Faceoff,n/a,-69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:38:44Z,3,17:39,02:21,Goal,Slap Shot,-34.0,7.0,Alex Ovechkin,Scorer,Washington Capitals,Evgeny Kuznetsov,Assist,Washington Capitals,John Carlson,Assist,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche
+2019-10-14T23:39:33Z,3,17:39,02:21,Faceoff,n/a,0.0,0.0,Gabriel Landeskog,Winner,Colorado Avalanche,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:42:32Z,3,17:48,02:12,Faceoff,n/a,-20.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:42:52Z,3,18:01,01:59,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:43:36Z,3,18:04,01:56,Shot,Slap Shot,-47.0,25.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:43:52Z,3,18:05,01:55,Faceoff,n/a,-69.0,22.0,T.J. Oshie,Winner,Washington Capitals,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:44:10Z,3,18:15,01:45,Shot,Snap Shot,-67.0,19.0,Nicklas Backstrom,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:44:52Z,3,18:58,01:02,Shot,Wrist Shot,-90.0,23.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:45:03Z,3,19:09,00:51,Missed Shot,n/a,-65.0,-13.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:45:09Z,3,19:15,00:45,Missed Shot,n/a,-34.0,25.0,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:45:16Z,3,19:16,00:44,Hit,n/a,-35.0,-37.0,John Carlson,Hitter,Washington Capitals,Mikko Rantanen,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:45:17Z,3,19:20,00:40,Goal,Wrist Shot,55.0,-31.0,Nathan MacKinnon,Scorer,Colorado Avalanche,Mikko Rantanen,Assist,Colorado Avalanche,Gabriel Landeskog,Assist,Washington Capitals,n/a,n/a,n/a
+2019-10-14T23:45:48Z,3,19:20,00:40,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:45:56Z,3,19:26,00:34,Shot,Wrist Shot,-59.0,39.0,Brendan Leipsic,Shooter,Washington Capitals,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:46:08Z,3,19:27,00:33,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:46:27Z,3,19:39,00:21,Giveaway,n/a,-64.0,-38.0,Nikita Zadorov,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-14T23:46:40Z,3,19:52,00:08,Giveaway,n/a,-98.0,1.0,Ryan Graves,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

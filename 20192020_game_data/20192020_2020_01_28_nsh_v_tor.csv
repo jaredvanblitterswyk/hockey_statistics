@@ -1,0 +1,231 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-28T01:08:47Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:10:20Z,1,00:41,19:19,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:10:42Z,1,00:52,19:08,Missed Shot,n/a,34.0,-36.0,Yannick Weber,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:11:33Z,1,01:43,18:17,Hit,n/a,26.0,-37.0,Andreas Johnsson,Hitter,Toronto Maple Leafs,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:11:48Z,1,01:58,18:02,Shot,Slap Shot,36.0,-31.0,Filip Forsberg,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:12:16Z,1,01:58,18:02,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:12:20Z,1,02:05,17:55,Hit,n/a,94.0,22.0,Colin Blackwell,Hitter,Nashville Predators,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:12:36Z,1,02:21,17:39,Hit,n/a,90.0,32.0,Colin Blackwell,Hitter,Nashville Predators,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:12:43Z,1,02:28,17:32,Hit,n/a,92.0,23.0,Justin Holl,Hitter,Toronto Maple Leafs,Kyle Turris,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:13:11Z,1,02:56,17:04,Shot,Wrist Shot,14.0,-36.0,Yannick Weber,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:13:14Z,1,02:58,17:02,Hit,n/a,94.0,23.0,Austin Watson,Hitter,Nashville Predators,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:13:42Z,1,03:27,16:33,Hit,n/a,65.0,40.0,Austin Watson,Hitter,Nashville Predators,Mitchell Marner,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:13:52Z,1,03:37,16:23,Shot,Wrist Shot,-59.0,-33.0,John Tavares,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:14:05Z,1,03:43,16:17,Blocked Shot,n/a,-61.0,18.0,Nick Bonino,Blocker,Nashville Predators,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:14:03Z,1,03:47,16:13,Takeaway,n/a,9.0,-34.0,Alexander Kerfoot,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:14:21Z,1,04:06,15:54,Missed Shot,n/a,54.0,29.0,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:14:35Z,1,04:13,15:47,Goal,Wrist Shot,-73.0,1.0,William Nylander,Scorer,Toronto Maple Leafs,Rasmus Sandin,Assist,Toronto Maple Leafs,Cody Ceci,Assist,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators
+2020-01-28T01:15:05Z,1,04:13,15:47,Faceoff,n/a,0.0,0.0,Pierre Engvall,Winner,Toronto Maple Leafs,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:15:44Z,1,04:29,15:31,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:16:20Z,1,04:53,15:07,Goal,Wrist Shot,76.0,-20.0,Mikael Granlund,Scorer,Nashville Predators,Matt Duchene,Assist,Nashville Predators,Filip Forsberg,Assist,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs
+2020-01-28T01:17:05Z,1,04:53,15:07,Faceoff,n/a,0.0,0.0,Kyle Turris,Winner,Nashville Predators,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:17:08Z,1,05:03,14:57,Hit,n/a,87.0,33.0,Colin Blackwell,Hitter,Nashville Predators,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:17:24Z,1,05:19,14:41,Missed Shot,n/a,58.0,0.0,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:17:24Z,1,05:19,14:41,Hit,n/a,95.0,-20.0,Travis Dermott,Hitter,Toronto Maple Leafs,Yannick Weber,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:17:30Z,1,05:24,14:36,Shot,Wrist Shot,35.0,-5.0,Craig Smith,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:17:56Z,1,05:24,14:36,Faceoff,n/a,69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:18:33Z,1,06:01,13:59,Shot,Wrist Shot,55.0,-3.0,Viktor Arvidsson,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:19:01Z,1,06:28,13:32,Hit,n/a,-94.0,-19.0,Trevor Moore,Hitter,Toronto Maple Leafs,Mattias Ekholm,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:21:14Z,1,06:31,13:29,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:21:24Z,1,06:38,13:22,Shot,Tip-In,-86.0,-5.0,Zach Hyman,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:21:32Z,1,06:46,13:14,Missed Shot,n/a,-38.0,17.0,Travis Dermott,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:21:50Z,1,07:04,12:56,Missed Shot,n/a,-85.0,4.0,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:22:24Z,1,07:12,12:48,Goal,Wrist Shot,-84.0,5.0,Zach Hyman,Scorer,Toronto Maple Leafs,Mitchell Marner,Assist,Toronto Maple Leafs,Tyson Barrie,Assist,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators
+2020-01-28T01:22:48Z,1,07:12,12:48,Faceoff,n/a,0.0,0.0,Pierre Engvall,Winner,Toronto Maple Leafs,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:22:54Z,1,07:23,12:37,Shot,Backhand,-78.0,-10.0,Justin Holl,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:22:54Z,1,07:25,12:35,Shot,Wrist Shot,-86.0,-5.0,Justin Holl,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:23:10Z,1,07:26,12:34,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:23:44Z,1,07:35,12:25,Faceoff,n/a,-20.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:24:16Z,1,07:57,12:03,Missed Shot,n/a,34.0,37.0,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:24:54Z,1,08:38,11:22,Shot,Wrist Shot,83.0,-20.0,Kyle Turris,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:25:11Z,1,08:38,11:22,Faceoff,n/a,69.0,-22.0,Kyle Turris,Winner,Nashville Predators,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:25:25Z,1,08:53,11:07,Shot,Wrist Shot,36.0,-3.0,Matt Irwin,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:26:16Z,1,09:42,10:18,Giveaway,n/a,-42.0,-38.0,Ryan Johansen,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:26:17Z,1,09:43,10:17,Shot,Wrist Shot,-53.0,-38.0,Travis Dermott,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:26:35Z,1,09:43,10:17,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:26:54Z,1,09:57,10:03,Shot,Wrist Shot,-37.0,23.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:27:06Z,1,10:09,09:51,Shot,Wrist Shot,87.0,10.0,Roman Josi,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:27:13Z,1,10:16,09:44,Missed Shot,n/a,50.0,5.0,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:27:15Z,1,10:20,09:40,Takeaway,n/a,67.0,1.0,Nick Bonino,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:27:19Z,1,10:22,09:38,Shot,Wrist Shot,65.0,3.0,Nick Bonino,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:28:04Z,1,10:35,09:25,Faceoff,n/a,69.0,22.0,Matt Duchene,Winner,Nashville Predators,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:27:57Z,1,10:41,09:19,Shot,Snap Shot,61.0,27.0,Filip Forsberg,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:28:02Z,1,10:46,09:14,Shot,Slap Shot,41.0,-20.0,Matt Irwin,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:28:10Z,1,10:54,09:06,Missed Shot,n/a,80.0,7.0,Mikael Granlund,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:28:37Z,1,11:21,08:39,Missed Shot,n/a,86.0,-20.0,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:28:41Z,1,11:26,08:34,Hit,n/a,76.0,-39.0,Alexander Kerfoot,Hitter,Toronto Maple Leafs,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:28:55Z,1,11:40,08:20,Giveaway,n/a,-35.0,-33.0,Matt Duchene,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:29:31Z,1,12:15,07:45,Blocked Shot,n/a,67.0,-10.0,Zach Hyman,Blocker,Toronto Maple Leafs,Dante Fabbro,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:29:39Z,1,12:24,07:36,Missed Shot,n/a,71.0,3.0,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:29:47Z,1,12:31,07:29,Missed Shot,n/a,37.0,-23.0,Dante Fabbro,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:30:43Z,1,13:28,06:32,Blocked Shot,n/a,-62.0,-13.0,Ryan Johansen,Blocker,Nashville Predators,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:30:50Z,1,13:31,06:29,Shot,Slap Shot,-86.0,35.0,Auston Matthews,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:32:52Z,1,13:31,06:29,Faceoff,n/a,-69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:33:04Z,1,13:39,06:21,Missed Shot,n/a,-35.0,-5.0,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:33:18Z,1,13:52,06:08,Shot,Wrist Shot,62.0,-13.0,Rocco Grimaldi,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:33:37Z,1,14:12,05:48,Blocked Shot,n/a,65.0,-17.0,Auston Matthews,Blocker,Toronto Maple Leafs,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:33:50Z,1,14:24,05:36,Takeaway,n/a,36.0,29.0,Roman Josi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:35:58Z,1,14:46,05:14,Faceoff,n/a,20.0,22.0,Pierre Engvall,Winner,Toronto Maple Leafs,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:36:40Z,1,14:58,05:02,Takeaway,n/a,-58.0,2.0,Matt Duchene,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:36:43Z,1,15:00,05:00,Giveaway,n/a,-43.0,-32.0,Matt Duchene,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:36:57Z,1,15:15,04:45,Blocked Shot,n/a,-53.0,11.0,Mikael Granlund,Blocker,Nashville Predators,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:37:29Z,1,15:40,04:20,Faceoff,n/a,69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:38:08Z,1,16:06,03:54,Shot,Wrist Shot,-78.0,29.0,Cody Ceci,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:38:49Z,1,16:47,03:13,Shot,Wrist Shot,33.0,-6.0,Matt Irwin,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:38:50Z,1,16:49,03:11,Hit,n/a,66.0,37.0,Austin Watson,Hitter,Nashville Predators,Jason Spezza,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:38:57Z,1,16:55,03:05,Hit,n/a,-27.0,39.0,Matt Irwin,Hitter,Nashville Predators,Trevor Moore,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:39:13Z,1,17:12,02:48,Missed Shot,n/a,63.0,22.0,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:39:43Z,1,17:41,02:19,Shot,Slap Shot,50.0,-29.0,Viktor Arvidsson,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:40:46Z,1,17:48,02:12,Faceoff,n/a,69.0,22.0,Matt Duchene,Winner,Nashville Predators,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:41:12Z,1,18:47,01:13,Missed Shot,n/a,-76.0,2.0,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:41:33Z,1,19:07,00:53,Takeaway,n/a,-89.0,-11.0,Mattias Ekholm,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:42:06Z,1,19:40,00:20,Shot,Wrist Shot,53.0,9.0,Roman Josi,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:42:52Z,1,19:56,00:04,Faceoff,n/a,20.0,22.0,Nick Bonino,Winner,Nashville Predators,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:01:30Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:02:03Z,2,00:30,19:30,Giveaway,n/a,-45.0,2.0,Nick Bonino,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:02:12Z,2,00:39,19:21,Shot,Wrist Shot,67.0,-30.0,William Nylander,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:02:16Z,2,00:43,19:17,Shot,Wrist Shot,87.0,-5.0,William Nylander,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:02:20Z,2,00:47,19:13,Shot,Wrist Shot,41.0,30.0,John Tavares,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:02:51Z,2,01:18,18:42,Takeaway,n/a,91.0,25.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:02:58Z,2,01:25,18:35,Hit,n/a,-7.0,39.0,John Tavares,Hitter,Toronto Maple Leafs,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:03:26Z,2,01:53,18:07,Hit,n/a,43.0,37.0,Trevor Moore,Hitter,Toronto Maple Leafs,Kyle Turris,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:03:27Z,2,01:54,18:06,Shot,Wrist Shot,-34.0,-29.0,Dan Hamhuis,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:03:58Z,2,02:23,17:37,Shot,Slap Shot,-32.0,-5.0,Matt Irwin,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:04:34Z,2,02:23,17:37,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:05:22Z,2,02:53,17:07,Blocked Shot,n/a,83.0,0.0,Roman Josi,Blocker,Nashville Predators,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:05:06Z,2,03:01,16:59,Hit,n/a,-12.0,-39.0,Zach Hyman,Hitter,Toronto Maple Leafs,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:05:21Z,2,03:15,16:45,Hit,n/a,-33.0,38.0,Matt Irwin,Hitter,Nashville Predators,Frederik Gauthier,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:05:27Z,2,03:22,16:38,Giveaway,n/a,-21.0,-1.0,Justin Holl,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:05:34Z,2,03:29,16:31,Hit,n/a,-63.0,2.0,Andreas Johnsson,Hitter,Toronto Maple Leafs,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:05:39Z,2,03:33,16:27,Hit,n/a,89.0,30.0,Yannick Weber,Hitter,Nashville Predators,Jason Spezza,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:05:43Z,2,03:38,16:22,Hit,n/a,85.0,32.0,Matt Irwin,Hitter,Nashville Predators,Frederik Gauthier,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:06:11Z,2,04:06,15:54,Shot,Backhand,-83.0,27.0,Matt Duchene,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:06:18Z,2,04:13,15:47,Takeaway,n/a,23.0,-27.0,Dan Hamhuis,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:06:30Z,2,04:25,15:35,Hit,n/a,48.0,39.0,Ryan Johansen,Hitter,Nashville Predators,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:06:49Z,2,04:39,15:21,Shot,Wrist Shot,81.0,-2.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:07:00Z,2,04:41,15:19,Goal,Snap Shot,63.0,7.0,Rasmus Sandin,Scorer,Toronto Maple Leafs,Alexander Kerfoot,Assist,Toronto Maple Leafs,William Nylander,Assist,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators
+2020-01-28T02:07:54Z,2,04:41,15:19,Faceoff,n/a,0.0,0.0,Kyle Turris,Winner,Nashville Predators,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:08:20Z,2,05:18,14:42,Shot,Wrist Shot,-66.0,2.0,Colin Blackwell,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:08:45Z,2,05:43,14:17,Shot,Wrist Shot,76.0,-21.0,Auston Matthews,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:08:50Z,2,05:43,14:17,Faceoff,n/a,69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:09:50Z,2,06:28,13:32,Blocked Shot,n/a,-67.0,-1.0,Travis Dermott,Blocker,Toronto Maple Leafs,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:10:40Z,2,07:18,12:42,Blocked Shot,n/a,-71.0,-4.0,Justin Holl,Blocker,Toronto Maple Leafs,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:10:54Z,2,07:32,12:28,Blocked Shot,n/a,66.0,-2.0,Matt Irwin,Blocker,Nashville Predators,Pierre Engvall,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:10:59Z,2,07:37,12:23,Hit,n/a,-80.0,-34.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Colin Blackwell,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:11:22Z,2,07:59,12:01,Giveaway,n/a,-57.0,2.0,Craig Smith,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:11:35Z,2,08:09,11:51,Shot,Wrist Shot,-68.0,18.0,Craig Smith,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:13:52Z,2,08:10,11:50,Faceoff,n/a,-69.0,22.0,Matt Duchene,Winner,Nashville Predators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:13:52Z,2,08:14,11:46,Shot,Wrist Shot,-45.0,-32.0,Dan Hamhuis,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:14:47Z,2,08:51,11:09,Faceoff,n/a,69.0,22.0,Matt Duchene,Winner,Nashville Predators,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:15:01Z,2,09:07,10:53,Missed Shot,n/a,36.0,27.0,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:15:21Z,2,09:24,10:36,Missed Shot,n/a,83.0,-2.0,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:15:57Z,2,09:48,10:12,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:16:27Z,2,10:11,09:49,Penalty,Hooking,74.0,14.0,Nick Bonino,PenaltyOn,Nashville Predators,Auston Matthews,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:16:28Z,2,10:11,09:49,Missed Shot,n/a,80.0,-23.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:18:22Z,2,10:11,09:49,Faceoff,n/a,69.0,22.0,Kyle Turris,Winner,Nashville Predators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:18:58Z,2,10:26,09:34,Giveaway,n/a,84.0,-15.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:19:38Z,2,11:06,08:54,Giveaway,n/a,47.0,-37.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:20:08Z,2,11:36,08:24,Missed Shot,n/a,76.0,27.0,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:20:09Z,2,11:36,08:24,Giveaway,n/a,32.0,29.0,Dante Fabbro,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:20:15Z,2,11:43,08:17,Blocked Shot,n/a,71.0,0.0,Calle Jarnkrok,Blocker,Nashville Predators,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:20:57Z,2,12:17,07:43,Goal,Wrist Shot,78.0,-18.0,Jason Spezza,Scorer,Toronto Maple Leafs,Justin Holl,Assist,Toronto Maple Leafs,Zach Hyman,Assist,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators
+2020-01-28T02:21:45Z,2,12:17,07:43,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:21:53Z,2,12:30,07:30,Hit,n/a,-88.0,-30.0,Austin Watson,Hitter,Nashville Predators,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:22:03Z,2,12:40,07:20,Hit,n/a,63.0,-39.0,Matt Irwin,Hitter,Nashville Predators,Frederik Gauthier,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:22:20Z,2,12:58,07:02,Shot,Wrist Shot,64.0,0.0,Pierre Engvall,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:22:25Z,2,12:59,07:01,Shot,Wrist Shot,83.0,5.0,Pierre Engvall,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:22:42Z,2,13:20,06:40,Shot,Backhand,81.0,8.0,John Tavares,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:22:59Z,2,13:24,06:36,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:23:29Z,2,13:37,06:23,Faceoff,n/a,69.0,22.0,Nick Bonino,Winner,Nashville Predators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:23:53Z,2,13:51,06:09,Takeaway,n/a,95.0,16.0,Alexander Kerfoot,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:24:37Z,2,14:35,05:25,Hit,n/a,93.0,24.0,Zach Hyman,Hitter,Toronto Maple Leafs,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:24:48Z,2,14:46,05:14,Giveaway,n/a,34.0,26.0,Viktor Arvidsson,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:25:10Z,2,14:58,05:02,Hit,n/a,32.0,34.0,Travis Dermott,Hitter,Toronto Maple Leafs,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:25:17Z,2,15:16,04:44,Blocked Shot,n/a,71.0,0.0,Nick Bonino,Blocker,Nashville Predators,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:28:05Z,2,15:35,04:25,Faceoff,n/a,-20.0,22.0,Matt Duchene,Winner,Nashville Predators,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:28:33Z,2,15:57,04:03,Shot,Backhand,84.0,-4.0,Pierre Engvall,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:29:19Z,2,16:37,03:23,Penalty,Interference,-57.0,-38.0,Justin Holl,PenaltyOn,Toronto Maple Leafs,Roman Josi,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:30:15Z,2,16:37,03:23,Faceoff,n/a,-69.0,-22.0,Mikael Granlund,Winner,Nashville Predators,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:30:07Z,2,16:45,03:15,Takeaway,n/a,-32.0,-26.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:30:40Z,2,17:14,02:46,Shot,Snap Shot,-76.0,-13.0,Kyle Turris,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:30:53Z,2,17:17,02:43,Penalty,Hooking,-84.0,-8.0,Kyle Turris,PenaltyOn,Nashville Predators,Mitchell Marner,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:31:38Z,2,17:17,02:43,Faceoff,n/a,69.0,22.0,Matt Duchene,Winner,Nashville Predators,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:32:11Z,2,17:57,02:03,Giveaway,n/a,4.0,36.0,Travis Dermott,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:32:20Z,2,18:06,01:54,Missed Shot,n/a,-52.0,-34.0,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:33:28Z,2,19:12,00:48,Shot,Wrist Shot,50.0,-29.0,Rasmus Sandin,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:34:17Z,2,19:22,00:38,Faceoff,n/a,69.0,22.0,Pierre Engvall,Winner,Toronto Maple Leafs,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:34:42Z,2,19:43,00:17,Blocked Shot,n/a,65.0,-14.0,Calle Jarnkrok,Blocker,Nashville Predators,Pierre Engvall,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:34:52Z,2,19:51,00:09,Blocked Shot,n/a,-55.0,-14.0,Pierre Engvall,Blocker,Toronto Maple Leafs,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:34:57Z,2,19:52,00:08,Shot,Wrist Shot,-62.0,-6.0,Calle Jarnkrok,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:53:40Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Nick Bonino,Winner,Nashville Predators,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:53:56Z,3,00:14,19:46,Giveaway,n/a,34.0,-24.0,Jake Muzzin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:54:01Z,3,00:19,19:41,Blocked Shot,n/a,79.0,-25.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Rocco Grimaldi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:54:05Z,3,00:22,19:38,Hit,n/a,45.0,-40.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:54:16Z,3,00:33,19:27,Blocked Shot,n/a,-72.0,1.0,Dante Fabbro,Blocker,Nashville Predators,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:54:53Z,3,00:42,19:18,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:55:22Z,3,01:22,18:38,Takeaway,n/a,96.0,10.0,Cody Ceci,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:55:31Z,3,01:31,18:29,Hit,n/a,78.0,37.0,Mikael Granlund,Hitter,Nashville Predators,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:55:48Z,3,01:48,18:12,Hit,n/a,97.0,-7.0,John Tavares,Hitter,Toronto Maple Leafs,Filip Forsberg,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:56:01Z,3,02:01,17:59,Hit,n/a,-80.0,37.0,Mattias Ekholm,Hitter,Nashville Predators,Trevor Moore,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:56:31Z,3,02:31,17:29,Blocked Shot,n/a,47.0,-27.0,Frederik Gauthier,Blocker,Toronto Maple Leafs,Yannick Weber,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:56:47Z,3,02:47,17:13,Shot,Wrist Shot,-84.0,-21.0,Frederik Gauthier,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:56:55Z,3,02:55,17:05,Shot,Wrist Shot,-72.0,25.0,Cody Ceci,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:57:05Z,3,03:05,16:55,Blocked Shot,n/a,-75.0,3.0,Matt Irwin,Blocker,Nashville Predators,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:57:15Z,3,03:15,16:45,Shot,Wrist Shot,-85.0,-6.0,Frederik Gauthier,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:57:17Z,3,03:17,16:43,Blocked Shot,n/a,-36.0,-10.0,Colin Blackwell,Blocker,Nashville Predators,Rasmus Sandin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:57:45Z,3,03:45,16:15,Giveaway,n/a,-53.0,26.0,Matt Irwin,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:57:45Z,3,03:45,16:15,Missed Shot,n/a,-65.0,12.0,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:57:53Z,3,03:53,16:07,Shot,Wrist Shot,-82.0,3.0,Auston Matthews,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:58:39Z,3,04:39,15:21,Hit,n/a,7.0,-40.0,Ryan Johansen,Hitter,Nashville Predators,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:59:11Z,3,05:11,14:49,Blocked Shot,n/a,68.0,-2.0,Cody Ceci,Blocker,Toronto Maple Leafs,Dante Fabbro,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:59:51Z,3,05:51,14:09,Hit,n/a,96.0,-5.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Filip Forsberg,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:00:53Z,3,05:54,14:06,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Mikael Granlund,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:02:26Z,3,06:05,13:55,Faceoff,n/a,69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:03:05Z,3,06:11,13:49,Blocked Shot,n/a,48.0,-4.0,Mitchell Marner,Blocker,Toronto Maple Leafs,Yannick Weber,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:03:13Z,3,06:20,13:40,Hit,n/a,-60.0,1.0,Yannick Weber,Hitter,Nashville Predators,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:03:22Z,3,06:29,13:31,Missed Shot,n/a,-78.0,10.0,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:03:42Z,3,06:49,13:11,Missed Shot,n/a,-32.0,-6.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:03:49Z,3,06:56,13:04,Shot,Wrist Shot,69.0,-19.0,Craig Smith,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:04:22Z,3,07:02,12:58,Faceoff,n/a,69.0,22.0,Kyle Turris,Winner,Nashville Predators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:04:37Z,3,07:05,12:55,Shot,Slap Shot,34.0,-8.0,Mattias Ekholm,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:04:48Z,3,07:06,12:54,Shot,Wrist Shot,84.0,-9.0,Craig Smith,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:04:53Z,3,07:07,12:53,Faceoff,n/a,69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:05:22Z,3,07:27,12:33,Takeaway,n/a,-78.0,21.0,Kyle Turris,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:05:32Z,3,07:38,12:22,Hit,n/a,-48.0,38.0,Dan Hamhuis,Hitter,Nashville Predators,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:06:28Z,3,08:34,11:26,Shot,Wrist Shot,-82.0,-24.0,Rasmus Sandin,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:07:15Z,3,09:21,10:39,Shot,Wrist Shot,-14.0,-25.0,Pierre Engvall,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:07:30Z,3,09:36,10:24,Takeaway,n/a,-94.0,17.0,Pierre Engvall,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:07:42Z,3,09:48,10:12,Giveaway,n/a,57.0,0.0,Rocco Grimaldi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:08:00Z,3,10:05,09:55,Shot,Wrist Shot,60.0,0.0,Rocco Grimaldi,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:08:14Z,3,10:19,09:41,Missed Shot,n/a,63.0,19.0,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:08:21Z,3,10:27,09:33,Shot,Wrist Shot,40.0,7.0,Dan Hamhuis,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:08:40Z,3,10:45,09:15,Shot,Wrist Shot,-71.0,20.0,John Tavares,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:08:55Z,3,10:46,09:14,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:09:33Z,3,11:13,08:47,Shot,Wrist Shot,-67.0,-5.0,William Nylander,Shooter,Toronto Maple Leafs,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:10:03Z,3,11:42,08:18,Takeaway,n/a,-89.0,13.0,Dante Fabbro,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:10:28Z,3,12:07,07:53,Hit,n/a,32.0,-39.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:10:47Z,3,12:26,07:34,Blocked Shot,n/a,68.0,6.0,Justin Holl,Blocker,Toronto Maple Leafs,Yannick Weber,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:10:56Z,3,12:35,07:25,Shot,Wrist Shot,83.0,27.0,Ryan Johansen,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:11:15Z,3,12:49,07:11,Faceoff,n/a,69.0,22.0,Nick Bonino,Winner,Nashville Predators,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:11:37Z,3,12:50,07:10,Shot,Slap Shot,32.0,2.0,Mattias Ekholm,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:11:49Z,3,12:52,07:08,Goal,Wrist Shot,78.0,1.0,Viktor Arvidsson,Scorer,Nashville Predators,Mattias Ekholm,Assist,Nashville Predators,Nick Bonino,Assist,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs
+2020-01-28T03:13:21Z,3,12:52,07:08,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:13:24Z,3,13:11,06:49,Giveaway,n/a,45.0,17.0,Viktor Arvidsson,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:14:07Z,3,13:54,06:06,Shot,Tip-In,85.0,4.0,Mikael Granlund,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:14:19Z,3,14:06,05:54,Missed Shot,n/a,71.0,-8.0,Mikael Granlund,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:14:53Z,3,14:40,05:20,Missed Shot,n/a,69.0,16.0,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:15:21Z,3,15:07,04:53,Shot,Slap Shot,45.0,21.0,Roman Josi,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:15:35Z,3,15:21,04:39,Blocked Shot,n/a,69.0,-1.0,Alexander Kerfoot,Blocker,Toronto Maple Leafs,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:15:45Z,3,15:31,04:29,Blocked Shot,n/a,62.0,-13.0,Alexander Kerfoot,Blocker,Toronto Maple Leafs,Colin Blackwell,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:16:24Z,3,16:10,03:50,Hit,n/a,97.0,5.0,Austin Watson,Hitter,Nashville Predators,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:16:50Z,3,16:36,03:24,Shot,Wrist Shot,62.0,-26.0,Ryan Johansen,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:17:06Z,3,16:49,03:11,Hit,n/a,62.0,-37.0,Cody Ceci,Hitter,Toronto Maple Leafs,Mattias Ekholm,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:17:35Z,3,17:21,02:39,Hit,n/a,94.0,-21.0,Travis Dermott,Hitter,Toronto Maple Leafs,Filip Forsberg,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:17:39Z,3,17:26,02:34,Shot,Wrist Shot,37.0,12.0,Roman Josi,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:18:07Z,3,17:54,02:06,Missed Shot,n/a,68.0,15.0,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:18:18Z,3,17:59,02:01,Shot,Slap Shot,38.0,-27.0,Yannick Weber,Shooter,Nashville Predators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:18:28Z,3,18:15,01:45,Missed Shot,n/a,83.0,8.0,Nick Bonino,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:18:36Z,3,18:23,01:37,Blocked Shot,n/a,57.0,-9.0,Auston Matthews,Blocker,Toronto Maple Leafs,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:18:51Z,3,18:28,01:32,Goal,Wrist Shot,-32.0,-23.0,Auston Matthews,Scorer,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:19:47Z,3,18:28,01:32,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a

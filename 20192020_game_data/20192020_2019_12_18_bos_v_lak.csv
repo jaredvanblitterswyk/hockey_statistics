@@ -1,0 +1,277 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-18T00:08:05Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:09:12Z,1,00:24,19:36,Takeaway,n/a,64.0,30.0,Drew Doughty,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:09:32Z,1,00:35,19:25,Takeaway,n/a,79.0,-27.0,Joakim Ryan,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:09:41Z,1,00:47,19:13,Giveaway,n/a,5.0,38.0,Anze Kopitar,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:10:02Z,1,01:00,19:00,Penalty,Too many men on the ice,-13.0,34.0,David Backes,PenaltyOn,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:10:49Z,1,01:00,19:00,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:11:00Z,1,01:08,18:52,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:38:32Z,1,01:26,18:34,Shot,Wrist Shot,-70.0,10.0,Anders Bjork,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:11:33Z,1,01:27,18:33,Blocked Shot,n/a,-47.0,-23.0,Charlie Coyle,Blocker,Boston Bruins,Anze Kopitar,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:12:13Z,1,02:13,17:47,Blocked Shot,n/a,-59.0,2.0,Patrice Bergeron,Blocker,Boston Bruins,Sean Walker,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:12:25Z,1,02:17,17:43,Goal,Deflected,-75.0,0.0,Blake Lizotte,Scorer,Los Angeles Kings,Jeff Carter,Assist,Los Angeles Kings,Tyler Toffoli,Assist,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins
+2019-12-18T00:13:07Z,1,02:17,17:43,Faceoff,n/a,0.0,0.0,David Krejci,Winner,Boston Bruins,Nikolai Prokhorkin,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:14:14Z,1,03:19,16:41,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:15:10Z,1,03:34,16:26,Faceoff,n/a,-69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:15:50Z,1,04:11,15:49,Hit,n/a,51.0,-36.0,Adrian Kempe,Hitter,Los Angeles Kings,Sean Kuraly,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:16:01Z,1,04:22,15:38,Missed Shot,n/a,68.0,-12.0,Sean Kuraly,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:16:24Z,1,04:45,15:15,Hit,n/a,-87.0,-26.0,Brandon Carlo,Hitter,Boston Bruins,Kyle Clifford,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:16:34Z,1,04:55,15:05,Blocked Shot,n/a,-69.0,7.0,Chris Wagner,Blocker,Boston Bruins,Kurtis MacDermid,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:16:43Z,1,05:04,14:56,Hit,n/a,43.0,37.0,Joakim Nordstrom,Hitter,Boston Bruins,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:17:20Z,1,05:41,14:19,Hit,n/a,40.0,38.0,Alex Iafallo,Hitter,Los Angeles Kings,David Krejci,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:17:52Z,1,05:51,14:09,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Nikolai Prokhorkin,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:20:52Z,1,06:14,13:46,Faceoff,n/a,20.0,-22.0,Sean Kuraly,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:21:26Z,1,06:29,13:31,Faceoff,n/a,-69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:22:06Z,1,06:57,13:03,Shot,Snap Shot,59.0,-10.0,Danton Heinen,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:22:33Z,1,07:24,12:36,Hit,n/a,96.0,-5.0,David Pastrnak,Hitter,Boston Bruins,Joakim Ryan,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:22:45Z,1,07:36,12:24,Blocked Shot,n/a,59.0,-15.0,Joakim Ryan,Blocker,Los Angeles Kings,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:22:53Z,1,07:44,12:16,Shot,Wrist Shot,-73.0,32.0,Jeff Carter,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:24:03Z,1,08:27,11:33,Faceoff,n/a,20.0,22.0,Joakim Nordstrom,Winner,Boston Bruins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:24:22Z,1,08:36,11:24,Shot,Wrist Shot,76.0,34.0,Joakim Nordstrom,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:24:31Z,1,08:36,11:24,Faceoff,n/a,69.0,22.0,Chris Wagner,Winner,Boston Bruins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:25:02Z,1,08:58,11:02,Missed Shot,n/a,39.0,-31.0,David Backes,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:25:22Z,1,08:58,11:02,Faceoff,n/a,69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:26:13Z,1,09:41,10:19,Shot,Wrist Shot,42.0,29.0,Anders Bjork,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:26:35Z,1,09:41,10:19,Faceoff,n/a,69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Trevor Lewis,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:27:19Z,1,10:07,09:53,Hit,n/a,-93.0,-24.0,Trevor Lewis,Hitter,Los Angeles Kings,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:27:34Z,1,10:23,09:37,Blocked Shot,n/a,66.0,5.0,Matt Roy,Blocker,Los Angeles Kings,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:27:43Z,1,10:31,09:29,Blocked Shot,n/a,70.0,6.0,Matt Roy,Blocker,Los Angeles Kings,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:27:56Z,1,10:45,09:15,Hit,n/a,97.0,-18.0,Kurtis MacDermid,Hitter,Los Angeles Kings,David Krejci,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:28:09Z,1,10:58,09:02,Hit,n/a,-95.0,-20.0,Matt Grzelcyk,Hitter,Boston Bruins,Michael Amadio,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:28:13Z,1,11:01,08:59,Missed Shot,n/a,-34.0,-29.0,Kurtis MacDermid,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:28:24Z,1,11:12,08:48,Takeaway,n/a,-20.0,11.0,Michael Amadio,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:28:27Z,1,11:16,08:44,Giveaway,n/a,-14.0,19.0,Michael Amadio,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:28:35Z,1,11:23,08:37,Shot,Wrist Shot,62.0,19.0,Charlie Coyle,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:28:40Z,1,11:25,08:35,Shot,Wrist Shot,72.0,1.0,Jake DeBrusk,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:28:52Z,1,11:33,08:27,Giveaway,n/a,83.0,-24.0,Torey Krug,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:31:22Z,1,11:44,08:16,Faceoff,n/a,-69.0,-22.0,Adrian Kempe,Winner,Los Angeles Kings,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:31:51Z,1,12:01,07:59,Shot,Deflected,-78.0,2.0,Blake Lizotte,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:32:20Z,1,12:08,07:52,Giveaway,n/a,-81.0,28.0,John Moore,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:31:59Z,1,12:10,07:50,Shot,Snap Shot,-40.0,-35.0,Joakim Ryan,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:32:54Z,1,13:04,06:56,Hit,n/a,76.0,-33.0,Chris Wagner,Hitter,Boston Bruins,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:33:00Z,1,13:10,06:50,Shot,Wrist Shot,61.0,-19.0,Chris Wagner,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:33:22Z,1,13:31,06:29,Shot,Slap Shot,39.0,28.0,Torey Krug,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:33:46Z,1,13:31,06:29,Faceoff,n/a,69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:34:04Z,1,13:43,06:17,Shot,Wrist Shot,-79.0,33.0,Trevor Lewis,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:34:20Z,1,13:59,06:01,Takeaway,n/a,-22.0,-15.0,Jeff Carter,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:35:09Z,1,14:48,05:12,Hit,n/a,-58.0,37.0,John Moore,Hitter,Boston Bruins,Michael Amadio,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:35:36Z,1,15:14,04:46,Hit,n/a,-66.0,41.0,Adrian Kempe,Hitter,Los Angeles Kings,Matt Grzelcyk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:36:01Z,1,15:40,04:20,Missed Shot,n/a,32.0,-32.0,Brandon Carlo,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:36:25Z,1,16:04,03:56,Takeaway,n/a,-51.0,2.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:36:36Z,1,16:14,03:46,Hit,n/a,-91.0,-19.0,Brandon Carlo,Hitter,Boston Bruins,Anze Kopitar,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:36:45Z,1,16:24,03:36,Hit,n/a,-87.0,-32.0,Alex Iafallo,Hitter,Los Angeles Kings,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:36:59Z,1,16:38,03:22,Takeaway,n/a,-19.0,-35.0,Chris Wagner,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:37:03Z,1,16:39,03:21,Blocked Shot,n/a,65.0,1.0,Sean Walker,Blocker,Los Angeles Kings,Joakim Nordstrom,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:39:17Z,1,16:39,03:21,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:39:48Z,1,16:45,03:15,Takeaway,n/a,45.0,-12.0,Kurtis MacDermid,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:40:24Z,1,17:27,02:33,Takeaway,n/a,-63.0,35.0,Torey Krug,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:40:55Z,1,17:54,02:06,Hit,n/a,95.0,3.0,Tyler Toffoli,Hitter,Los Angeles Kings,Charlie Coyle,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:40:53Z,1,17:55,02:05,Giveaway,n/a,95.0,9.0,Charlie Coyle,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:41:09Z,1,18:10,01:50,Missed Shot,n/a,55.0,-3.0,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:41:27Z,1,18:14,01:46,Penalty,Interference,75.0,-25.0,Kyle Clifford,PenaltyOn,Los Angeles Kings,Chris Wagner,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:41:59Z,1,18:14,01:46,Faceoff,n/a,69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:42:12Z,1,18:23,01:37,Takeaway,n/a,59.0,37.0,Patrice Bergeron,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:42:26Z,1,18:34,01:26,Shot,Snap Shot,39.0,-1.0,Torey Krug,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:42:39Z,1,18:34,01:26,Faceoff,n/a,69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Brad Marchand,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:43:18Z,1,18:43,01:17,Giveaway,n/a,63.0,36.0,Blake Lizotte,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:43:29Z,1,18:50,01:10,Shot,Slap Shot,60.0,23.0,David Pastrnak,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:43:55Z,1,18:50,01:10,Faceoff,n/a,69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:44:14Z,1,19:01,00:59,Goal,Deflected,79.0,-2.0,Danton Heinen,Scorer,Boston Bruins,Brad Marchand,Assist,Boston Bruins,David Pastrnak,Assist,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings
+2019-12-18T00:45:58Z,1,19:01,00:59,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:46:13Z,1,19:25,00:35,Hit,n/a,97.0,-11.0,Anders Bjork,Hitter,Boston Bruins,Joakim Ryan,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:46:22Z,1,19:34,00:26,Giveaway,n/a,87.0,29.0,Anders Bjork,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:46:29Z,1,19:40,00:20,Hit,n/a,-95.0,24.0,Dustin Brown,Hitter,Los Angeles Kings,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:48:07Z,1,19:45,00:15,Shot,Snap Shot,-36.0,31.0,Matt Roy,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:46:48Z,1,19:56,00:04,Shot,Snap Shot,-79.0,32.0,Matt Roy,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T00:47:16Z,1,19:57,00:03,Faceoff,n/a,-69.0,22.0,David Krejci,Winner,Boston Bruins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:06:22Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:06:55Z,2,00:08,19:52,Faceoff,n/a,0.0,0.0,Sean Kuraly,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:07:14Z,2,00:21,19:39,Shot,Wrist Shot,36.0,-25.0,Matt Roy,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:07:34Z,2,00:21,19:39,Faceoff,n/a,69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:07:45Z,2,00:26,19:34,Shot,Snap Shot,42.0,0.0,Dustin Brown,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:08:06Z,2,00:47,19:13,Hit,n/a,98.0,-1.0,Zdeno Chara,Hitter,Boston Bruins,Alex Iafallo,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:08:12Z,2,00:53,19:07,Giveaway,n/a,-5.0,-38.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:08:27Z,2,01:09,18:51,Takeaway,n/a,-3.0,26.0,Austin Wagner,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:08:31Z,2,01:13,18:47,Shot,Wrist Shot,0.0,23.0,Austin Wagner,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:08:43Z,2,01:18,18:42,Faceoff,n/a,69.0,22.0,David Krejci,Winner,Boston Bruins,Adrian Kempe,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:09:08Z,2,01:22,18:38,Hit,n/a,53.0,39.0,Blake Lizotte,Hitter,Los Angeles Kings,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:09:26Z,2,01:24,18:36,Faceoff,n/a,69.0,-22.0,David Krejci,Winner,Boston Bruins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:09:49Z,2,01:33,18:27,Giveaway,n/a,72.0,38.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:10:22Z,2,01:59,18:01,Penalty,Hooking,-13.0,-24.0,Trevor Lewis,PenaltyOn,Los Angeles Kings,Jake DeBrusk,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:10:58Z,2,01:59,18:01,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:11:08Z,2,02:11,17:49,Blocked Shot,n/a,-70.0,9.0,Sean Walker,Blocker,Los Angeles Kings,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:11:15Z,2,02:14,17:46,Giveaway,n/a,-81.0,37.0,Patrice Bergeron,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:11:21Z,2,02:15,17:45,Shot,Wrist Shot,-79.0,30.0,Sean Walker,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:11:37Z,2,02:23,17:37,Faceoff,n/a,69.0,22.0,Adrian Kempe,Winner,Los Angeles Kings,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:12:01Z,2,02:41,17:19,Shot,Slap Shot,-66.0,23.0,Brad Marchand,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:12:19Z,2,02:45,17:15,Goal,Backhand,76.0,-1.0,Adrian Kempe,Scorer,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:12:44Z,2,02:45,17:15,Faceoff,n/a,0.0,0.0,David Krejci,Winner,Boston Bruins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:13:30Z,2,03:31,16:29,Shot,Wrist Shot,-75.0,26.0,Charlie McAvoy,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:13:49Z,2,03:31,16:29,Faceoff,n/a,-69.0,22.0,David Krejci,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:14:18Z,2,03:43,16:17,Blocked Shot,n/a,-76.0,-13.0,Ben Hutton,Blocker,Los Angeles Kings,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:14:31Z,2,03:43,16:17,Faceoff,n/a,-69.0,-22.0,David Krejci,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:14:46Z,2,03:52,16:08,Blocked Shot,n/a,-67.0,7.0,Matt Roy,Blocker,Los Angeles Kings,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:14:57Z,2,04:03,15:57,Takeaway,n/a,-25.0,-35.0,Jeff Carter,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:15:02Z,2,04:08,15:52,Missed Shot,n/a,79.0,-26.0,Jeff Carter,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:15:18Z,2,04:24,15:36,Hit,n/a,-78.0,35.0,Joakim Nordstrom,Hitter,Boston Bruins,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:15:24Z,2,04:28,15:32,Shot,Backhand,31.0,11.0,Kyle Clifford,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:15:38Z,2,04:28,15:32,Faceoff,n/a,69.0,-22.0,Michael Amadio,Winner,Los Angeles Kings,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:15:55Z,2,04:38,15:22,Missed Shot,n/a,34.0,-17.0,Drew Doughty,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:16:07Z,2,04:49,15:11,Hit,n/a,41.0,-38.0,Joakim Nordstrom,Hitter,Boston Bruins,Drew Doughty,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:16:22Z,2,05:00,15:00,Giveaway,n/a,-32.0,-16.0,Drew Doughty,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:16:26Z,2,05:08,14:52,Hit,n/a,-92.0,-15.0,Drew Doughty,Hitter,Los Angeles Kings,Chris Wagner,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:16:47Z,2,05:30,14:30,Hit,n/a,25.0,-35.0,Kurtis MacDermid,Hitter,Los Angeles Kings,Anders Bjork,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:16:58Z,2,05:41,14:19,Hit,n/a,8.0,37.0,Charlie McAvoy,Hitter,Boston Bruins,Anze Kopitar,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:17:14Z,2,05:54,14:06,Giveaway,n/a,-58.0,38.0,Danton Heinen,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:17:21Z,2,06:03,13:57,Missed Shot,n/a,80.0,-23.0,Sean Walker,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:18:06Z,2,06:27,13:33,Faceoff,n/a,69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:18:58Z,2,06:43,13:17,Faceoff,n/a,-69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:19:19Z,2,06:53,13:07,Missed Shot,n/a,77.0,7.0,Jeff Carter,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:20:03Z,2,07:37,12:23,Blocked Shot,n/a,72.0,-11.0,John Moore,Blocker,Boston Bruins,Nikolai Prokhorkin,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:23:40Z,2,08:47,11:13,Faceoff,n/a,20.0,-22.0,Sean Kuraly,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:24:20Z,2,09:22,10:38,Shot,Snap Shot,-74.0,33.0,Chris Wagner,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:24:37Z,2,09:34,10:26,Hit,n/a,-91.0,22.0,Chris Wagner,Hitter,Boston Bruins,Kurtis MacDermid,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:24:57Z,2,09:36,10:24,Faceoff,n/a,0.0,0.0,Blake Lizotte,Winner,Los Angeles Kings,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:25:11Z,2,09:45,10:15,Shot,Wrist Shot,44.0,30.0,Joakim Ryan,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:25:18Z,2,09:50,10:10,Hit,n/a,51.0,38.0,Charlie McAvoy,Hitter,Boston Bruins,Blake Lizotte,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:25:18Z,2,09:52,10:08,Shot,Wrist Shot,38.0,25.0,Joakim Ryan,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:25:28Z,2,10:02,09:58,Missed Shot,n/a,35.0,10.0,Joakim Ryan,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:29:18Z,2,10:14,09:46,Faceoff,n/a,20.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:28:21Z,2,10:27,09:33,Shot,Wrist Shot,-70.0,-14.0,Brad Marchand,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:31:05Z,2,10:40,09:20,Takeaway,n/a,-56.0,-39.0,Torey Krug,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:28:40Z,2,10:44,09:16,Goal,Wrist Shot,-47.0,11.0,Patrice Bergeron,Scorer,Boston Bruins,Torey Krug,Assist,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a
+2019-12-18T01:29:18Z,2,10:44,09:16,Faceoff,n/a,0.0,0.0,David Krejci,Winner,Boston Bruins,Nikolai Prokhorkin,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:29:57Z,2,11:11,08:49,Shot,Wrist Shot,82.0,30.0,Tyler Toffoli,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:30:10Z,2,11:11,08:49,Faceoff,n/a,69.0,22.0,David Krejci,Winner,Boston Bruins,Nikolai Prokhorkin,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:30:44Z,2,11:19,08:41,Faceoff,n/a,-20.0,22.0,David Krejci,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:31:20Z,2,11:48,08:12,Giveaway,n/a,-4.0,14.0,David Krejci,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:31:30Z,2,11:58,08:02,Blocked Shot,n/a,72.0,-7.0,Zdeno Chara,Blocker,Boston Bruins,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:31:37Z,2,12:04,07:56,Takeaway,n/a,-51.0,16.0,Ben Hutton,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:31:55Z,2,12:23,07:37,Takeaway,n/a,20.0,27.0,Dustin Brown,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:32:21Z,2,12:25,07:35,Faceoff,n/a,20.0,22.0,Chris Wagner,Winner,Boston Bruins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:32:35Z,2,12:35,07:25,Missed Shot,n/a,-59.0,-34.0,John Moore,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:32:42Z,2,12:42,07:18,Shot,Wrist Shot,-73.0,0.0,David Backes,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:32:46Z,2,12:46,07:14,Hit,n/a,-91.0,-22.0,Joakim Nordstrom,Hitter,Boston Bruins,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:33:09Z,2,13:10,06:50,Hit,n/a,-96.0,8.0,David Backes,Hitter,Boston Bruins,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:33:21Z,2,13:21,06:39,Shot,Deflected,-73.0,0.0,David Backes,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:33:26Z,2,13:27,06:33,Shot,Wrist Shot,-72.0,0.0,Sean Kuraly,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:33:47Z,2,13:47,06:13,Missed Shot,n/a,-68.0,-34.0,Sean Kuraly,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:33:53Z,2,13:54,06:06,Hit,n/a,-92.0,-17.0,Adrian Kempe,Hitter,Los Angeles Kings,Danton Heinen,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:34:16Z,2,14:16,05:44,Missed Shot,n/a,-67.0,-31.0,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:34:24Z,2,14:24,05:36,Blocked Shot,n/a,-60.0,1.0,Adrian Kempe,Blocker,Los Angeles Kings,Sean Kuraly,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:34:47Z,2,14:26,05:34,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:35:26Z,2,14:48,05:12,Takeaway,n/a,-65.0,-35.0,Austin Wagner,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:35:48Z,2,15:10,04:50,Shot,Wrist Shot,83.0,-11.0,Dustin Brown,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:36:47Z,2,16:07,03:53,Hit,n/a,-76.0,-32.0,Matt Roy,Hitter,Los Angeles Kings,Jake DeBrusk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:37:07Z,2,16:07,03:53,Penalty,Slashing,60.0,39.0,Dustin Brown,PenaltyOn,Los Angeles Kings,Charlie McAvoy,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:39:24Z,2,16:07,03:53,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:39:30Z,2,16:16,03:44,Takeaway,n/a,-31.0,9.0,Blake Lizotte,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:40:12Z,2,16:41,03:19,Faceoff,n/a,-20.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:40:27Z,2,16:52,03:08,Hit,n/a,-95.0,-20.0,Drew Doughty,Hitter,Los Angeles Kings,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:41:21Z,2,17:46,02:14,Giveaway,n/a,-20.0,33.0,David Krejci,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:41:39Z,2,18:04,01:56,Hit,n/a,-74.0,37.0,Charlie Coyle,Hitter,Boston Bruins,Kurtis MacDermid,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:41:56Z,2,18:21,01:39,Blocked Shot,n/a,-72.0,-12.0,Kurtis MacDermid,Blocker,Los Angeles Kings,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:41:58Z,2,18:23,01:37,Missed Shot,n/a,-74.0,16.0,David Krejci,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:43:03Z,2,19:24,00:36,Takeaway,n/a,-28.0,-33.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:43:31Z,2,19:25,00:35,Faceoff,n/a,-20.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:43:43Z,2,19:33,00:27,Shot,Wrist Shot,-38.0,30.0,Charlie McAvoy,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T01:44:09Z,2,19:58,00:02,Shot,Wrist Shot,-66.0,7.0,Patrice Bergeron,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:02:57Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:03:21Z,3,00:24,19:36,Shot,Wrist Shot,19.0,-32.0,David Pastrnak,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:04:30Z,3,01:21,18:39,Hit,n/a,82.0,-34.0,David Krejci,Hitter,Boston Bruins,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:04:23Z,3,01:24,18:36,Goal,Snap Shot,37.0,-34.0,Brandon Carlo,Scorer,Boston Bruins,Jake DeBrusk,Assist,Boston Bruins,Danton Heinen,Assist,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings
+2019-12-18T02:05:19Z,3,01:24,18:36,Faceoff,n/a,0.0,0.0,Michael Amadio,Winner,Los Angeles Kings,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:05:21Z,3,01:45,18:15,Blocked Shot,n/a,-74.0,-4.0,Torey Krug,Blocker,Boston Bruins,Kurtis MacDermid,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:05:33Z,3,01:55,18:05,Missed Shot,n/a,-32.0,-29.0,Nikolai Prokhorkin,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:06:12Z,3,01:58,18:02,Faceoff,n/a,-69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:06:17Z,3,02:01,17:59,Shot,Wrist Shot,-69.0,21.0,Trevor Lewis,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:06:29Z,3,02:01,17:59,Faceoff,n/a,-69.0,22.0,Trevor Lewis,Winner,Los Angeles Kings,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:06:51Z,3,02:15,17:45,Hit,n/a,-31.0,-38.0,Joakim Nordstrom,Hitter,Boston Bruins,Trevor Lewis,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:07:01Z,3,02:25,17:35,Missed Shot,n/a,57.0,7.0,David Backes,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:07:12Z,3,02:36,17:24,Hit,n/a,65.0,39.0,Joakim Ryan,Hitter,Los Angeles Kings,David Backes,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:07:14Z,3,02:36,17:24,Shot,Snap Shot,39.0,26.0,John Moore,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:07:38Z,3,02:36,17:24,Faceoff,n/a,69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:07:59Z,3,02:52,17:08,Shot,Wrist Shot,71.0,-22.0,Charlie McAvoy,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:08:11Z,3,02:52,17:08,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:08:29Z,3,02:58,17:02,Blocked Shot,n/a,61.0,-13.0,Matt Roy,Blocker,Los Angeles Kings,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:08:40Z,3,02:58,17:02,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:08:57Z,3,03:08,16:52,Missed Shot,n/a,63.0,1.0,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:09:12Z,3,03:23,16:37,Hit,n/a,26.0,35.0,Drew Doughty,Hitter,Los Angeles Kings,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:09:48Z,3,03:59,16:01,Shot,Wrist Shot,-53.0,34.0,Blake Lizotte,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:09:57Z,3,04:08,15:52,Shot,Wrist Shot,54.0,-5.0,Jake DeBrusk,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:11:00Z,3,04:53,15:07,Faceoff,n/a,69.0,-22.0,Chris Wagner,Winner,Boston Bruins,Nikolai Prokhorkin,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:11:48Z,3,05:04,14:56,Faceoff,n/a,20.0,22.0,Charlie Coyle,Winner,Boston Bruins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:15:33Z,3,05:45,14:15,Shot,Wrist Shot,-87.0,-27.0,Jeff Carter,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:12:41Z,3,05:52,14:08,Missed Shot,n/a,-39.0,-30.0,Joakim Ryan,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:12:55Z,3,06:06,13:54,Hit,n/a,95.0,-18.0,Anders Bjork,Hitter,Boston Bruins,Drew Doughty,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:12:59Z,3,06:10,13:50,Missed Shot,n/a,60.0,14.0,Anders Bjork,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:13:39Z,3,06:50,13:10,Hit,n/a,-55.0,-38.0,Charlie McAvoy,Hitter,Boston Bruins,Michael Amadio,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:14:01Z,3,07:10,12:50,Shot,Wrist Shot,-42.0,30.0,Matt Roy,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:15:34Z,3,07:10,12:50,Faceoff,n/a,-69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:16:08Z,3,07:10,12:50,Faceoff,n/a,-69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:16:56Z,3,07:23,12:37,Hit,n/a,-94.0,21.0,Alex Iafallo,Hitter,Los Angeles Kings,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:17:15Z,3,07:42,12:18,Blocked Shot,n/a,-78.0,-10.0,Sean Kuraly,Blocker,Boston Bruins,Joakim Ryan,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:18:05Z,3,07:44,12:16,Faceoff,n/a,-69.0,-22.0,David Krejci,Winner,Boston Bruins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:18:03Z,3,07:55,12:05,Shot,Slap Shot,-40.0,-28.0,Ben Hutton,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:18:20Z,3,08:12,11:48,Missed Shot,n/a,-64.0,1.0,Austin Wagner,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:18:31Z,3,08:17,11:43,Takeaway,n/a,-31.0,-34.0,Danton Heinen,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:18:47Z,3,08:22,11:38,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:19:19Z,3,08:44,11:16,Shot,Backhand,21.0,-22.0,Charlie McAvoy,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:19:27Z,3,08:52,11:08,Giveaway,n/a,7.0,5.0,Dustin Brown,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:19:39Z,3,09:04,10:56,Hit,n/a,-93.0,9.0,Anze Kopitar,Hitter,Los Angeles Kings,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:19:56Z,3,09:21,10:39,Hit,n/a,83.0,-33.0,Charlie Coyle,Hitter,Boston Bruins,Kurtis MacDermid,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:20:30Z,3,09:37,10:23,Faceoff,n/a,-69.0,22.0,Charlie Coyle,Winner,Boston Bruins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:21:04Z,3,10:00,10:00,Shot,Backhand,69.0,2.0,Charlie Coyle,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:21:17Z,3,10:13,09:47,Hit,n/a,45.0,37.0,Drew Doughty,Hitter,Los Angeles Kings,Chris Wagner,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:21:48Z,3,10:44,09:16,Shot,Wrist Shot,35.0,-28.0,Joakim Nordstrom,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:23:48Z,3,10:44,09:16,Faceoff,n/a,69.0,-22.0,David Krejci,Winner,Boston Bruins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:24:25Z,3,10:49,09:11,Missed Shot,n/a,38.0,-14.0,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:25:20Z,3,11:44,08:16,Hit,n/a,17.0,-40.0,Charlie McAvoy,Hitter,Boston Bruins,Alex Iafallo,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:25:32Z,3,11:57,08:03,Blocked Shot,n/a,-77.0,6.0,Charlie McAvoy,Blocker,Boston Bruins,Matt Roy,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:25:38Z,3,12:02,07:58,Shot,Wrist Shot,73.0,-20.0,Patrice Bergeron,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:26:07Z,3,12:02,07:58,Faceoff,n/a,69.0,-22.0,Nikolai Prokhorkin,Winner,Los Angeles Kings,David Backes,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:26:15Z,3,12:12,07:48,Giveaway,n/a,30.0,18.0,Michael Amadio,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:26:22Z,3,12:19,07:41,Giveaway,n/a,73.0,-20.0,Ben Hutton,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:26:38Z,3,12:35,07:25,Hit,n/a,45.0,-37.0,Sean Walker,Hitter,Los Angeles Kings,Sean Kuraly,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:27:00Z,3,12:57,07:03,Blocked Shot,n/a,-62.0,-19.0,David Backes,Blocker,Boston Bruins,Michael Amadio,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:27:39Z,3,13:36,06:24,Hit,n/a,-20.0,-5.0,Brad Marchand,Hitter,Boston Bruins,Joakim Ryan,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:27:41Z,3,13:38,06:22,Takeaway,n/a,-61.0,14.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:27:52Z,3,13:49,06:11,Shot,Wrist Shot,67.0,16.0,Brad Marchand,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:27:58Z,3,13:55,06:05,Missed Shot,n/a,72.0,-18.0,Zdeno Chara,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:28:06Z,3,14:03,05:57,Shot,Snap Shot,78.0,16.0,Charlie Coyle,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:28:13Z,3,14:10,05:50,Shot,Backhand,80.0,22.0,David Pastrnak,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:28:22Z,3,14:19,05:41,Hit,n/a,91.0,19.0,Anze Kopitar,Hitter,Los Angeles Kings,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:28:28Z,3,14:23,05:37,Shot,Slap Shot,33.0,8.0,John Moore,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:30:38Z,3,14:24,05:36,Faceoff,n/a,69.0,-22.0,Blake Lizotte,Winner,Los Angeles Kings,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:31:15Z,3,14:41,05:19,Giveaway,n/a,-74.0,39.0,Adrian Kempe,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:31:38Z,3,15:00,05:00,Blocked Shot,n/a,-65.0,-2.0,Charlie Coyle,Blocker,Boston Bruins,Blake Lizotte,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:32:02Z,3,15:00,05:00,Faceoff,n/a,-69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:32:43Z,3,15:38,04:22,Giveaway,n/a,6.0,-6.0,Tyler Toffoli,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:33:07Z,3,15:57,04:03,Giveaway,n/a,-28.0,7.0,Danton Heinen,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:33:21Z,3,16:04,03:56,Shot,Wrist Shot,59.0,0.0,Jake DeBrusk,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:33:33Z,3,16:04,03:56,Faceoff,n/a,69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:34:04Z,3,16:28,03:32,Shot,Wrist Shot,37.0,25.0,Zdeno Chara,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:34:18Z,3,16:43,03:17,Hit,n/a,44.0,-35.0,Alex Iafallo,Hitter,Los Angeles Kings,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:35:37Z,3,17:59,02:01,Goal,Slap Shot,-38.0,32.0,Matt Roy,Scorer,Los Angeles Kings,Nikolai Prokhorkin,Assist,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a
+2019-12-18T02:36:27Z,3,17:59,02:01,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:36:58Z,3,18:32,01:28,Takeaway,n/a,6.0,38.0,Austin Wagner,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:37:15Z,3,18:48,01:12,Shot,Wrist Shot,-62.0,-24.0,Joakim Ryan,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:37:44Z,3,18:48,01:12,Faceoff,n/a,-69.0,-22.0,David Krejci,Winner,Boston Bruins,Nikolai Prokhorkin,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:38:32Z,3,19:24,00:36,Shot,Wrist Shot,4.0,-38.0,Charlie Coyle,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:38:50Z,3,19:26,00:34,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:39:24Z,3,19:47,00:13,Shot,Wrist Shot,-62.0,-17.0,Alex Iafallo,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:39:30Z,3,19:47,00:13,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:42:15Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:42:54Z,4,00:11,04:49,Hit,n/a,-66.0,37.0,Drew Doughty,Hitter,Los Angeles Kings,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:43:07Z,4,00:24,04:36,Missed Shot,n/a,-75.0,12.0,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:43:37Z,4,00:54,04:06,Shot,Wrist Shot,-72.0,-18.0,Charlie McAvoy,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:43:43Z,4,01:00,04:00,Shot,Wrist Shot,-82.0,-8.0,Charlie McAvoy,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:43:53Z,4,01:10,03:50,Takeaway,n/a,61.0,-35.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:43:57Z,4,01:14,03:46,Hit,n/a,68.0,-35.0,Sean Walker,Hitter,Los Angeles Kings,David Krejci,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:44:00Z,4,01:17,03:43,Shot,Wrist Shot,76.0,-16.0,Tyler Toffoli,Shooter,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:44:10Z,4,01:27,03:33,Takeaway,n/a,-65.0,39.0,Blake Lizotte,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:44:34Z,4,01:51,03:09,Giveaway,n/a,58.0,20.0,Blake Lizotte,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:45:21Z,4,02:36,02:24,Takeaway,n/a,-42.0,29.0,Sean Kuraly,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:45:26Z,4,02:43,02:17,Shot,Wrist Shot,-63.0,2.0,Anders Bjork,Shooter,Boston Bruins,Jonathan Quick,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:45:58Z,4,03:15,01:45,Missed Shot,n/a,-71.0,1.0,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-18T02:46:08Z,4,03:23,01:37,Goal,Wrist Shot,61.0,14.0,Anze Kopitar,Scorer,Los Angeles Kings,Drew Doughty,Assist,Los Angeles Kings,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a

@@ -1,0 +1,212 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-01T18:08:30Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:10:33Z,1,01:27,18:33,Faceoff,n/a,20.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:10:45Z,1,01:35,18:25,Hit,n/a,26.0,-38.0,Scott Harrington,Hitter,Columbus Blue Jackets,Evan Rodrigues,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:11:01Z,1,01:52,18:08,Blocked Shot,n/a,55.0,1.0,Emil Bemstrom,Blocker,Columbus Blue Jackets,Zemgus Girgensons,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:11:14Z,1,02:00,18:00,Hit,n/a,94.0,-30.0,Johan Larsson,Hitter,Buffalo Sabres,Markus Nutivaara,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:11:27Z,1,02:17,17:43,Blocked Shot,n/a,54.0,7.0,Seth Jones,Blocker,Columbus Blue Jackets,Johan Larsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:11:45Z,1,02:19,17:41,Faceoff,n/a,20.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:12:53Z,1,03:23,16:37,Giveaway,n/a,-36.0,26.0,Pierre-Luc Dubois,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:13:18Z,1,03:49,16:11,Blocked Shot,n/a,-72.0,5.0,Henri Jokiharju,Blocker,Buffalo Sabres,Nick Foligno,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:13:37Z,1,04:06,15:54,Shot,Snap Shot,42.0,-1.0,Michael Frolik,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:13:47Z,1,04:07,15:53,Faceoff,n/a,69.0,-22.0,Marcus Johansson,Winner,Buffalo Sabres,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:14:09Z,1,04:14,15:46,Shot,Wrist Shot,37.0,32.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:14:20Z,1,04:25,15:35,Blocked Shot,n/a,-68.0,-8.0,Jeff Skinner,Blocker,Buffalo Sabres,Alexander Wennberg,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:14:31Z,1,04:33,15:27,Shot,Wrist Shot,39.0,17.0,Jeff Skinner,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:15:13Z,1,04:34,15:26,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:15:38Z,1,05:18,14:42,Missed Shot,n/a,68.0,-24.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:16:39Z,1,06:18,13:42,Shot,Wrist Shot,-33.0,32.0,David Savard,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:18:24Z,1,06:19,13:41,Faceoff,n/a,-69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:19:19Z,1,06:43,13:17,Takeaway,n/a,40.0,9.0,Nick Foligno,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:19:33Z,1,06:57,13:03,Blocked Shot,n/a,-73.0,11.0,Lawrence Pilut,Blocker,Buffalo Sabres,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:19:37Z,1,07:01,12:59,Hit,n/a,-99.0,-11.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Zach Werenski,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:19:48Z,1,07:12,12:48,Missed Shot,n/a,77.0,7.0,Jimmy Vesey,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:20:00Z,1,07:24,12:36,Blocked Shot,n/a,-60.0,1.0,Rasmus Dahlin,Blocker,Buffalo Sabres,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:20:03Z,1,07:27,12:33,Hit,n/a,-71.0,40.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Oliver Bjorkstrand,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:20:17Z,1,07:41,12:19,Hit,n/a,-96.0,23.0,Gustav Nyquist,Hitter,Columbus Blue Jackets,Marcus Johansson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:20:44Z,1,08:08,11:52,Hit,n/a,-94.0,-28.0,Cam Atkinson,Hitter,Columbus Blue Jackets,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:20:50Z,1,08:14,11:46,Hit,n/a,89.0,-33.0,Vladislav Gavrikov,Hitter,Columbus Blue Jackets,Michael Frolik,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:21:08Z,1,08:31,11:29,Missed Shot,n/a,58.0,35.0,Evan Rodrigues,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:21:54Z,1,09:18,10:42,Hit,n/a,-92.0,-29.0,Colin Miller,Hitter,Buffalo Sabres,Riley Nash,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:22:53Z,1,09:52,10:08,Faceoff,n/a,-20.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:23:07Z,1,10:03,09:57,Giveaway,n/a,-67.0,-26.0,Henri Jokiharju,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:23:31Z,1,10:27,09:33,Missed Shot,n/a,-74.0,-6.0,Nick Foligno,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:23:53Z,1,10:44,09:16,Penalty,Tripping,-40.0,9.0,Michael Frolik,PenaltyOn,Buffalo Sabres,Pierre-Luc Dubois,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:25:43Z,1,10:44,09:16,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:26:19Z,1,11:00,09:00,Missed Shot,n/a,-44.0,-10.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:26:32Z,1,11:13,08:47,Shot,Slap Shot,-48.0,-32.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:26:40Z,1,11:15,08:45,Shot,Wrist Shot,-77.0,-2.0,Boone Jenner,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:27:06Z,1,11:16,08:44,Faceoff,n/a,-69.0,-22.0,Nick Foligno,Winner,Columbus Blue Jackets,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:27:29Z,1,11:28,08:32,Blocked Shot,n/a,-68.0,5.0,Jake McCabe,Blocker,Buffalo Sabres,Cam Atkinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:27:43Z,1,11:43,08:17,Shot,Wrist Shot,-40.0,23.0,Cam Atkinson,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:28:20Z,1,12:00,08:00,Faceoff,n/a,-20.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:29:28Z,1,12:44,07:16,Hit,n/a,-95.0,29.0,Jake McCabe,Hitter,Buffalo Sabres,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:29:47Z,1,12:46,07:14,Faceoff,n/a,-69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:30:43Z,1,13:41,06:19,Hit,n/a,-32.0,0.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Cam Atkinson,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:30:45Z,1,13:43,06:17,Shot,Snap Shot,56.0,-17.0,Marcus Johansson,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:30:51Z,1,13:50,06:10,Hit,n/a,99.0,4.0,Scott Harrington,Hitter,Columbus Blue Jackets,Marcus Johansson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:31:08Z,1,14:06,05:54,Missed Shot,n/a,-66.0,-14.0,Scott Harrington,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:31:34Z,1,14:32,05:28,Giveaway,n/a,-94.0,17.0,Scott Harrington,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:31:50Z,1,14:48,05:12,Blocked Shot,n/a,-63.0,15.0,Conor Sheary,Blocker,Buffalo Sabres,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:32:11Z,1,15:09,04:51,Hit,n/a,-72.0,-39.0,Henri Jokiharju,Hitter,Buffalo Sabres,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:32:28Z,1,15:26,04:34,Blocked Shot,n/a,-71.0,-7.0,Lawrence Pilut,Blocker,Buffalo Sabres,Seth Jones,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:32:34Z,1,15:26,04:34,Missed Shot,n/a,-81.0,8.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:34:39Z,1,15:27,04:33,Faceoff,n/a,-69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:35:14Z,1,15:55,04:05,Blocked Shot,n/a,67.0,12.0,David Savard,Blocker,Columbus Blue Jackets,Evan Rodrigues,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:35:26Z,1,16:08,03:52,Goal,Wrist Shot,54.0,9.0,Evan Rodrigues,Scorer,Buffalo Sabres,Rasmus Dahlin,Assist,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a
+2020-02-01T18:36:08Z,1,16:08,03:52,Faceoff,n/a,0.0,0.0,Riley Nash,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:36:44Z,1,16:37,03:23,Takeaway,n/a,70.0,23.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:36:55Z,1,16:49,03:11,Giveaway,n/a,47.0,34.0,Riley Nash,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:37:17Z,1,17:11,02:49,Hit,n/a,-98.0,-13.0,Henri Jokiharju,Hitter,Buffalo Sabres,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:37:31Z,1,17:25,02:35,Shot,Backhand,-75.0,-7.0,Cam Atkinson,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:37:41Z,1,17:33,02:27,Takeaway,n/a,-38.0,-25.0,Alexander Wennberg,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:38:50Z,1,18:44,01:16,Missed Shot,n/a,45.0,33.0,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:39:07Z,1,18:58,01:02,Giveaway,n/a,-75.0,41.0,Carter Hutton,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:39:20Z,1,19:12,00:48,Missed Shot,n/a,-37.0,-32.0,Scott Harrington,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:39:48Z,1,19:13,00:47,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:39:54Z,1,19:18,00:42,Blocked Shot,n/a,-71.0,-2.0,Jake McCabe,Blocker,Buffalo Sabres,Markus Nutivaara,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:40:04Z,1,19:27,00:33,Missed Shot,n/a,-71.0,-19.0,Nathan Gerbe,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:58:59Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T18:59:19Z,2,00:13,19:47,Faceoff,n/a,20.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:00:29Z,2,01:06,18:54,Shot,Tip-In,-74.0,3.0,Jeff Skinner,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:00:46Z,2,01:07,18:53,Faceoff,n/a,-69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:01:02Z,2,01:15,18:45,Shot,Wrist Shot,-54.0,-26.0,Jake McCabe,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:01:33Z,2,01:28,18:32,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:01:52Z,2,01:37,18:23,Missed Shot,n/a,77.0,15.0,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:02:11Z,2,01:56,18:04,Hit,n/a,99.0,10.0,Henri Jokiharju,Hitter,Buffalo Sabres,Boone Jenner,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:02:19Z,2,02:04,17:56,Hit,n/a,96.0,-26.0,Jake McCabe,Hitter,Buffalo Sabres,Emil Bemstrom,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:03:00Z,2,02:45,17:15,Shot,Wrist Shot,56.0,24.0,Riley Nash,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:03:20Z,2,02:46,17:14,Faceoff,n/a,69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:03:53Z,2,03:07,16:53,Hit,n/a,82.0,36.0,Nick Foligno,Hitter,Columbus Blue Jackets,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:04:09Z,2,03:23,16:37,Missed Shot,n/a,79.0,-13.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:04:28Z,2,03:42,16:18,Hit,n/a,99.0,-20.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:04:36Z,2,03:50,16:10,Shot,Slap Shot,-35.0,34.0,Colin Miller,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:04:59Z,2,04:13,15:47,Hit,n/a,-87.0,36.0,Jean-Sebastien Dea,Hitter,Buffalo Sabres,Scott Harrington,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:05:11Z,2,04:25,15:35,Shot,Tip-In,63.0,-15.0,Eric Robinson,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:05:31Z,2,04:27,15:33,Faceoff,n/a,69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:06:17Z,2,04:41,15:19,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:06:27Z,2,04:45,15:15,Shot,Slap Shot,-33.0,-6.0,Henri Jokiharju,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:06:38Z,2,04:56,15:04,Blocked Shot,n/a,-72.0,0.0,Jakob Lilja,Blocker,Columbus Blue Jackets,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:06:42Z,2,05:00,15:00,Shot,Wrist Shot,-41.0,3.0,Henri Jokiharju,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:06:46Z,2,05:04,14:56,Shot,Wrist Shot,-78.0,1.0,Jimmy Vesey,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:07:18Z,2,05:13,14:47,Faceoff,n/a,-20.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:07:58Z,2,05:26,14:34,Faceoff,n/a,-20.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:08:16Z,2,05:42,14:18,Shot,Slap Shot,-34.0,13.0,Colin Miller,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:08:44Z,2,05:45,14:15,Faceoff,n/a,-20.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:10:04Z,2,07:00,13:00,Shot,Slap Shot,64.0,13.0,Zach Werenski,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:12:11Z,2,07:15,12:45,Faceoff,n/a,-69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:12:40Z,2,07:27,12:33,Hit,n/a,34.0,24.0,Sam Reinhart,Hitter,Buffalo Sabres,Eric Robinson,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:12:59Z,2,07:43,12:17,Hit,n/a,98.0,-19.0,Eric Robinson,Hitter,Columbus Blue Jackets,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:13:05Z,2,07:51,12:09,Shot,Wrist Shot,-79.0,-14.0,Jimmy Vesey,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:13:33Z,2,07:52,12:08,Faceoff,n/a,-69.0,-22.0,Nathan Gerbe,Winner,Columbus Blue Jackets,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:14:45Z,2,08:59,11:01,Shot,Wrist Shot,72.0,13.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:14:58Z,2,09:10,10:50,Shot,Slap Shot,37.0,31.0,Scott Harrington,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:15:14Z,2,09:11,10:49,Faceoff,n/a,69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:15:39Z,2,09:13,10:47,Shot,Wrist Shot,59.0,28.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:15:50Z,2,09:14,10:46,Faceoff,n/a,69.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:16:51Z,2,10:05,09:55,Takeaway,n/a,-69.0,22.0,Jeff Skinner,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:17:07Z,2,10:07,09:53,Hit,n/a,-57.0,17.0,Markus Nutivaara,Hitter,Columbus Blue Jackets,Jeff Skinner,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:17:07Z,2,10:21,09:39,Missed Shot,n/a,-47.0,-15.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:18:04Z,2,11:18,08:42,Shot,Wrist Shot,-66.0,-32.0,Jimmy Vesey,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:18:37Z,2,11:33,08:27,Faceoff,n/a,69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:18:57Z,2,11:37,08:23,Shot,Wrist Shot,85.0,-5.0,Eric Robinson,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:20:58Z,2,11:38,08:22,Faceoff,n/a,69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:21:38Z,2,11:47,08:13,Faceoff,n/a,-20.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:22:39Z,2,12:32,07:28,Blocked Shot,n/a,-69.0,-10.0,Riley Nash,Blocker,Columbus Blue Jackets,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:22:45Z,2,12:34,07:26,Shot,Slap Shot,-54.0,37.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:23:32Z,2,13:26,06:34,Giveaway,n/a,36.0,-1.0,Pierre-Luc Dubois,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:24:25Z,2,14:19,05:41,Hit,n/a,87.0,37.0,Henri Jokiharju,Hitter,Buffalo Sabres,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:25:01Z,2,14:54,05:06,Hit,n/a,-94.0,-29.0,Jean-Sebastien Dea,Hitter,Buffalo Sabres,Scott Harrington,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:25:06Z,2,15:00,05:00,Hit,n/a,-89.0,34.0,Boone Jenner,Hitter,Columbus Blue Jackets,Conor Sheary,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:25:12Z,2,15:05,04:55,Shot,Wrist Shot,44.0,-34.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:27:27Z,2,15:06,04:54,Faceoff,n/a,69.0,-22.0,Marcus Johansson,Winner,Buffalo Sabres,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:29:40Z,2,16:58,03:02,Shot,Wrist Shot,75.0,-28.0,Cam Atkinson,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:32:40Z,2,17:00,03:00,Faceoff,n/a,20.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:33:11Z,2,17:07,02:53,Faceoff,n/a,69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:33:40Z,2,17:22,02:38,Hit,n/a,-68.0,29.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Nick Foligno,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:33:36Z,2,17:24,02:36,Shot,Backhand,-73.0,0.0,Evan Rodrigues,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:34:09Z,2,17:25,02:35,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:34:32Z,2,17:43,02:17,Missed Shot,n/a,35.0,-10.0,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:34:54Z,2,17:44,02:16,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:35:57Z,2,18:41,01:19,Hit,n/a,97.0,-22.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Emil Bemstrom,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:36:12Z,2,18:55,01:05,Takeaway,n/a,-97.0,22.0,Emil Bemstrom,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:36:22Z,2,19:04,00:56,Hit,n/a,-85.0,-36.0,Scott Harrington,Hitter,Columbus Blue Jackets,Evan Rodrigues,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:36:29Z,2,19:12,00:48,Hit,n/a,-89.0,36.0,Eric Robinson,Hitter,Columbus Blue Jackets,Zemgus Girgensons,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:36:38Z,2,19:20,00:40,Shot,Wrist Shot,56.0,0.0,Eric Robinson,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:37:05Z,2,19:44,00:16,Hit,n/a,-13.0,41.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Vladislav Gavrikov,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:37:11Z,2,19:54,00:06,Blocked Shot,n/a,-49.0,-13.0,Sam Reinhart,Blocker,Buffalo Sabres,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:37:21Z,2,19:58,00:02,Giveaway,n/a,-55.0,0.0,Oliver Bjorkstrand,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:55:59Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:56:15Z,3,00:03,19:57,Faceoff,n/a,0.0,0.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:56:36Z,3,00:09,19:51,Faceoff,n/a,69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:57:14Z,3,00:30,19:30,Shot,Snap Shot,35.0,-33.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:57:27Z,3,00:43,19:17,Hit,n/a,-57.0,41.0,Lawrence Pilut,Hitter,Buffalo Sabres,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:57:31Z,3,00:47,19:13,Blocked Shot,n/a,-78.0,9.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:58:06Z,3,01:17,18:43,Faceoff,n/a,-69.0,-22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:58:27Z,3,01:20,18:40,Missed Shot,n/a,-42.0,2.0,Cam Atkinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T19:59:24Z,3,01:58,18:02,Faceoff,n/a,-20.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:00:02Z,3,02:31,17:29,Penalty,Holding,-96.0,25.0,Johan Larsson,PenaltyOn,Buffalo Sabres,Riley Nash,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:00:33Z,3,02:31,17:29,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:00:47Z,3,02:47,17:13,Missed Shot,n/a,-53.0,36.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:01:00Z,3,03:00,17:00,Blocked Shot,n/a,-71.0,0.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:01:17Z,3,03:16,16:44,Takeaway,n/a,-53.0,41.0,Michael Frolik,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:01:47Z,3,03:47,16:13,Hit,n/a,-48.0,41.0,Emil Bemstrom,Hitter,Columbus Blue Jackets,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:01:58Z,3,03:58,16:02,Shot,Tip-In,-76.0,4.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:02:30Z,3,03:59,16:01,Faceoff,n/a,-69.0,-22.0,Nick Foligno,Winner,Columbus Blue Jackets,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:02:45Z,3,04:06,15:54,Shot,Wrist Shot,-48.0,-21.0,Alexander Wennberg,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:03:10Z,3,04:31,15:29,Blocked Shot,n/a,-70.0,12.0,Lawrence Pilut,Blocker,Buffalo Sabres,Cam Atkinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:03:20Z,3,04:41,15:19,Hit,n/a,-57.0,41.0,Colin Miller,Hitter,Buffalo Sabres,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:04:25Z,3,05:45,14:15,Goal,Snap Shot,-56.0,1.0,Oliver Bjorkstrand,Scorer,Columbus Blue Jackets,Gustav Nyquist,Assist,Columbus Blue Jackets,Pierre-Luc Dubois,Assist,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres
+2020-02-01T20:05:10Z,3,05:45,14:15,Faceoff,n/a,0.0,0.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:05:50Z,3,06:26,13:34,Shot,Wrist Shot,52.0,37.0,Conor Sheary,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:08:00Z,3,06:27,13:33,Faceoff,n/a,69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:08:29Z,3,06:48,13:12,Shot,Wrist Shot,-61.0,-37.0,Alexander Wennberg,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:08:54Z,3,06:49,13:11,Faceoff,n/a,-69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:09:37Z,3,07:29,12:31,Giveaway,n/a,96.0,-22.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:09:43Z,3,07:34,12:26,Hit,n/a,38.0,39.0,Gustav Nyquist,Hitter,Columbus Blue Jackets,Lawrence Pilut,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:10:07Z,3,07:58,12:02,Takeaway,n/a,96.0,19.0,Jeff Skinner,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:10:23Z,3,08:14,11:46,Blocked Shot,n/a,-76.0,-11.0,Henri Jokiharju,Blocker,Buffalo Sabres,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:10:54Z,3,08:44,11:16,Shot,Wrist Shot,52.0,-24.0,Sam Reinhart,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:11:26Z,3,08:45,11:15,Faceoff,n/a,69.0,-22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:11:29Z,3,08:52,11:08,Missed Shot,n/a,32.0,-33.0,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:11:57Z,3,09:21,10:39,Shot,Wrist Shot,43.0,-32.0,Colin Miller,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:12:55Z,3,10:16,09:44,Missed Shot,n/a,-61.0,9.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:14:47Z,3,10:17,09:43,Faceoff,n/a,-69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:15:15Z,3,10:23,09:37,Missed Shot,n/a,-39.0,3.0,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:15:30Z,3,10:39,09:21,Shot,Wrist Shot,-62.0,15.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:16:16Z,3,10:41,09:19,Faceoff,n/a,-69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:16:33Z,3,10:50,09:10,Hit,n/a,-91.0,-30.0,Jack Eichel,Hitter,Buffalo Sabres,Riley Nash,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:18:23Z,3,12:40,07:20,Shot,Snap Shot,62.0,26.0,Jeff Skinner,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:19:06Z,3,12:54,07:06,Faceoff,n/a,-20.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:19:28Z,3,13:12,06:48,Missed Shot,n/a,51.0,-10.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:19:40Z,3,13:24,06:36,Shot,Slap Shot,38.0,-28.0,Colin Miller,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:20:38Z,3,13:57,06:03,Faceoff,n/a,0.0,0.0,Curtis Lazar,Winner,Buffalo Sabres,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:21:09Z,3,14:24,05:36,Hit,n/a,-39.0,-40.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Riley Nash,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:21:19Z,3,14:34,05:26,Hit,n/a,-76.0,-41.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Eric Robinson,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:21:28Z,3,14:40,05:20,Missed Shot,n/a,68.0,2.0,Curtis Lazar,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:23:22Z,3,14:41,05:19,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:23:49Z,3,14:46,05:14,Blocked Shot,n/a,79.0,-13.0,David Savard,Blocker,Columbus Blue Jackets,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:24:06Z,3,14:51,05:09,Faceoff,n/a,69.0,-22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:24:30Z,3,14:58,05:02,Faceoff,n/a,69.0,-22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:25:25Z,3,15:13,04:47,Faceoff,n/a,-20.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:26:20Z,3,15:24,04:36,Faceoff,n/a,69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:26:44Z,3,15:41,04:19,Missed Shot,n/a,80.0,-1.0,Johan Larsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:27:06Z,3,16:00,04:00,Hit,n/a,60.0,-41.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Zach Werenski,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:27:11Z,3,16:09,03:51,Shot,Wrist Shot,-35.0,-2.0,Zach Werenski,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:27:45Z,3,16:16,03:44,Shot,Wrap-around,-90.0,8.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:28:00Z,3,16:18,03:42,Faceoff,n/a,-69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:28:42Z,3,16:55,03:05,Giveaway,n/a,-39.0,-38.0,Alexander Wennberg,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:29:19Z,3,17:33,02:27,Hit,n/a,92.0,-27.0,Jack Eichel,Hitter,Buffalo Sabres,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:29:45Z,3,17:57,02:03,Takeaway,n/a,81.0,-30.0,Seth Jones,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:30:01Z,3,17:59,02:01,Faceoff,n/a,69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:30:25Z,3,18:09,01:51,Shot,Wrist Shot,59.0,37.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:30:53Z,3,18:10,01:50,Faceoff,n/a,69.0,22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:31:12Z,3,18:25,01:35,Shot,Wrist Shot,-44.0,5.0,Nick Foligno,Shooter,Columbus Blue Jackets,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:31:35Z,3,18:26,01:34,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:32:02Z,3,18:35,01:25,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:32:33Z,3,18:55,01:05,Hit,n/a,-39.0,39.0,Jake McCabe,Hitter,Buffalo Sabres,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:32:49Z,3,19:10,00:50,Missed Shot,n/a,70.0,6.0,Curtis Lazar,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:32:51Z,3,19:12,00:48,Takeaway,n/a,-34.0,9.0,Lawrence Pilut,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:33:00Z,3,19:21,00:39,Takeaway,n/a,-57.0,40.0,Lawrence Pilut,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:36:05Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Curtis Lazar,Winner,Buffalo Sabres,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T20:36:50Z,4,00:36,04:24,Goal,Wrist Shot,-58.0,24.0,Jack Eichel,Scorer,Buffalo Sabres,Rasmus Ristolainen,Assist,Buffalo Sabres,Sam Reinhart,Assist,Buffalo Sabres,Matiss Kivlenieks,Goalie,Columbus Blue Jackets

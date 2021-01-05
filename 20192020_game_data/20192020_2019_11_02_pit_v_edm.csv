@@ -1,0 +1,286 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-02T17:08:23Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:09:22Z,1,00:17,19:43,Shot,Wrist Shot,66.0,3.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:09:28Z,1,00:23,19:37,Shot,Wrist Shot,80.0,6.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:09:45Z,1,00:30,19:30,Hit,n/a,-94.0,-29.0,Zack Kassian,Hitter,Edmonton Oilers,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:10:02Z,1,00:56,19:04,Shot,Snap Shot,-74.0,2.0,Jujhar Khaira,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:10:24Z,1,00:57,19:03,Faceoff,n/a,-69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Sam Gagner,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:10:38Z,1,01:05,18:55,Giveaway,n/a,-41.0,-39.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:10:49Z,1,01:15,18:45,Missed Shot,n/a,78.0,8.0,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:10:53Z,1,01:19,18:41,Hit,n/a,81.0,-38.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:11:22Z,1,01:49,18:11,Hit,n/a,-97.0,21.0,Gaetan Haas,Hitter,Edmonton Oilers,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:11:45Z,1,02:02,17:58,Blocked Shot,n/a,79.0,25.0,Kris Russell,Blocker,Edmonton Oilers,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:11:59Z,1,02:03,17:57,Faceoff,n/a,69.0,22.0,Colby Cave,Winner,Edmonton Oilers,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:12:17Z,1,02:08,17:52,Faceoff,n/a,20.0,22.0,Colby Cave,Winner,Edmonton Oilers,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:12:46Z,1,02:22,17:38,Takeaway,n/a,-77.0,-41.0,Markus Granlund,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:13:09Z,1,02:45,17:15,Takeaway,n/a,-35.0,18.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:14:09Z,1,03:45,16:15,Hit,n/a,98.0,-18.0,Zack Kassian,Hitter,Edmonton Oilers,Sidney Crosby,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:14:10Z,1,03:46,16:14,Shot,Snap Shot,57.0,8.0,Justin Schultz,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:14:28Z,1,03:54,16:06,Takeaway,n/a,-92.0,-11.0,Marcus Pettersson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:14:28Z,1,04:04,15:56,Shot,Wrist Shot,59.0,8.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:14:45Z,1,04:20,15:40,Hit,n/a,-34.0,-31.0,Justin Schultz,Hitter,Pittsburgh Penguins,Jujhar Khaira,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:14:53Z,1,04:29,15:31,Hit,n/a,-89.0,-28.0,Justin Schultz,Hitter,Pittsburgh Penguins,Jujhar Khaira,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:15:27Z,1,04:54,15:06,Faceoff,n/a,-69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:16:02Z,1,05:10,14:50,Hit,n/a,-35.0,41.0,Alex Chiasson,Hitter,Edmonton Oilers,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:16:03Z,1,05:12,14:48,Shot,Backhand,11.0,33.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:16:13Z,1,05:22,14:38,Hit,n/a,-65.0,-1.0,Jack Johnson,Hitter,Pittsburgh Penguins,Alex Chiasson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:16:26Z,1,05:35,14:25,Hit,n/a,41.0,-40.0,Nick Bjugstad,Hitter,Pittsburgh Penguins,Alex Chiasson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:16:53Z,1,05:38,14:22,Faceoff,n/a,0.0,0.0,Markus Granlund,Winner,Edmonton Oilers,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:17:23Z,1,05:46,14:14,Shot,Wrist Shot,34.0,-37.0,Oscar Klefbom,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:17:35Z,1,05:47,14:13,Faceoff,n/a,-69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:17:49Z,1,05:57,14:03,Giveaway,n/a,-46.0,37.0,Jake Guentzel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:18:11Z,1,06:19,13:41,Missed Shot,n/a,79.0,11.0,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:18:24Z,1,06:27,13:33,Blocked Shot,n/a,60.0,-12.0,Oscar Klefbom,Blocker,Edmonton Oilers,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:18:34Z,1,06:42,13:18,Hit,n/a,34.0,-40.0,Connor McDavid,Hitter,Edmonton Oilers,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:18:35Z,1,06:43,13:17,Shot,Slap Shot,63.0,29.0,Justin Schultz,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:18:53Z,1,06:50,13:10,Giveaway,n/a,30.0,-5.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:19:09Z,1,07:17,12:43,Blocked Shot,n/a,49.0,25.0,Patrick Russell,Blocker,Edmonton Oilers,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:19:13Z,1,07:21,12:39,Hit,n/a,80.0,38.0,Patrick Russell,Hitter,Edmonton Oilers,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:19:19Z,1,07:27,12:33,Blocked Shot,n/a,67.0,-22.0,Markus Granlund,Blocker,Edmonton Oilers,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:21:32Z,1,07:37,12:23,Faceoff,n/a,20.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:21:56Z,1,07:44,12:16,Hit,n/a,31.0,-42.0,Kris Russell,Hitter,Edmonton Oilers,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:22:08Z,1,07:44,12:16,Faceoff,n/a,-69.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:22:25Z,1,07:48,12:12,Shot,Wrist Shot,-37.0,23.0,Matt Benning,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:22:35Z,1,07:49,12:11,Faceoff,n/a,-69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:23:09Z,1,08:06,11:54,Hit,n/a,-60.0,40.0,Jujhar Khaira,Hitter,Edmonton Oilers,Alex Galchenyuk,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:23:14Z,1,08:11,11:49,Hit,n/a,-39.0,-41.0,Kris Russell,Hitter,Edmonton Oilers,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:23:36Z,1,08:33,11:27,Hit,n/a,51.0,-41.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:23:59Z,1,08:57,11:03,Hit,n/a,-91.0,34.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,James Neal,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:24:12Z,1,08:59,11:01,Hit,n/a,-64.0,41.0,Alex Chiasson,Hitter,Edmonton Oilers,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:24:05Z,1,09:03,10:57,Shot,Wrist Shot,-76.0,10.0,Gaetan Haas,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:24:16Z,1,09:13,10:47,Blocked Shot,n/a,-76.0,-6.0,Justin Schultz,Blocker,Pittsburgh Penguins,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:24:45Z,1,09:42,10:18,Shot,Tip-In,70.0,-4.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:24:54Z,1,09:52,10:08,Hit,n/a,-77.0,40.0,Kris Letang,Hitter,Pittsburgh Penguins,Connor McDavid,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:25:04Z,1,10:01,09:59,Missed Shot,n/a,82.0,15.0,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:25:11Z,1,10:08,09:52,Shot,Wrist Shot,75.0,5.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:25:17Z,1,10:10,09:50,Shot,Wrist Shot,51.0,-3.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:27:27Z,1,10:11,09:49,Faceoff,n/a,69.0,22.0,Colby Cave,Winner,Edmonton Oilers,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:28:00Z,1,10:28,09:32,Giveaway,n/a,-27.0,-20.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:28:04Z,1,10:39,09:21,Blocked Shot,n/a,69.0,-16.0,Oscar Klefbom,Blocker,Edmonton Oilers,Nick Bjugstad,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:28:24Z,1,10:40,09:20,Faceoff,n/a,69.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:28:52Z,1,10:58,09:02,Blocked Shot,n/a,55.0,0.0,Sam Gagner,Blocker,Edmonton Oilers,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:29:04Z,1,10:58,09:02,Shot,Tip-In,82.0,7.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:29:29Z,1,10:59,09:01,Shot,Backhand,80.0,5.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:29:37Z,1,11:00,09:00,Faceoff,n/a,69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:30:24Z,1,11:45,08:15,Missed Shot,n/a,-43.0,22.0,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:30:35Z,1,11:56,08:04,Giveaway,n/a,-46.0,-40.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:31:09Z,1,12:31,07:29,Giveaway,n/a,-73.0,-35.0,Justin Schultz,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:31:25Z,1,12:46,07:14,Takeaway,n/a,-44.0,34.0,Zach Aston-Reese,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:31:42Z,1,13:03,06:57,Hit,n/a,-49.0,40.0,Matt Benning,Hitter,Edmonton Oilers,Nick Bjugstad,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:31:49Z,1,13:10,06:50,Missed Shot,n/a,-73.0,-34.0,Kris Russell,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:31:56Z,1,13:18,06:42,Shot,Wrist Shot,-39.0,28.0,Matt Benning,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:32:10Z,1,13:21,06:39,Hit,n/a,-47.0,41.0,Nick Bjugstad,Hitter,Pittsburgh Penguins,Matt Benning,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:32:11Z,1,13:32,06:28,Blocked Shot,n/a,-51.0,-18.0,Jack Johnson,Blocker,Pittsburgh Penguins,Colby Cave,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:32:21Z,1,13:42,06:18,Hit,n/a,94.0,26.0,Alex Galchenyuk,Hitter,Pittsburgh Penguins,Ethan Bear,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:32:50Z,1,14:12,05:48,Missed Shot,n/a,-68.0,-10.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:35:02Z,1,14:27,05:33,Faceoff,n/a,-20.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:35:33Z,1,14:38,05:22,Hit,n/a,-97.0,1.0,Sam Gagner,Hitter,Edmonton Oilers,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:35:40Z,1,14:46,05:14,Hit,n/a,-89.0,35.0,Sam Gagner,Hitter,Edmonton Oilers,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:35:45Z,1,14:51,05:09,Shot,Wrist Shot,68.0,-31.0,Jared McCann,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:36:07Z,1,15:11,04:49,Shot,Snap Shot,-65.0,10.0,Zack Kassian,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:36:29Z,1,15:12,04:48,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:37:46Z,1,16:15,03:45,Faceoff,n/a,0.0,0.0,Gaetan Haas,Winner,Edmonton Oilers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:38:13Z,1,16:26,03:34,Hit,n/a,79.0,-38.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Kris Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:38:21Z,1,16:35,03:25,Shot,Snap Shot,81.0,30.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:38:32Z,1,16:46,03:14,Shot,Slap Shot,37.0,27.0,Jack Johnson,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:38:40Z,1,16:54,03:06,Takeaway,n/a,44.0,17.0,Teddy Blueger,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:38:41Z,1,16:54,03:06,Shot,Wrist Shot,46.0,15.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:38:52Z,1,16:56,03:04,Hit,n/a,91.0,-31.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Kris Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:38:53Z,1,17:03,02:57,Shot,Wrist Shot,-13.0,39.0,Alex Chiasson,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:39:44Z,1,17:55,02:05,Shot,Wrist Shot,-80.0,0.0,Patrick Russell,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:40:11Z,1,17:56,02:04,Faceoff,n/a,-69.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:41:04Z,1,18:41,01:19,Hit,n/a,95.0,-28.0,Darnell Nurse,Hitter,Edmonton Oilers,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:41:35Z,1,19:11,00:49,Shot,Wrist Shot,16.0,37.0,Brian Dumoulin,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:41:41Z,1,19:17,00:43,Blocked Shot,n/a,-71.0,8.0,Kris Letang,Blocker,Pittsburgh Penguins,Zack Kassian,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:41:57Z,1,19:33,00:27,Missed Shot,n/a,68.0,-1.0,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:42:08Z,1,19:43,00:17,Takeaway,n/a,79.0,-13.0,Jake Guentzel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:42:10Z,1,19:44,00:16,Shot,Snap Shot,41.0,-17.0,Kris Letang,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:42:36Z,1,19:45,00:15,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Colby Cave,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:42:48Z,1,19:51,00:09,Shot,Backhand,83.0,-29.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T17:43:05Z,1,19:52,00:08,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Colby Cave,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:02:03Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:02:17Z,2,00:09,19:51,Blocked Shot,n/a,-68.0,-8.0,Darnell Nurse,Blocker,Edmonton Oilers,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:02:26Z,2,00:10,19:50,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:03:00Z,2,00:34,19:26,Shot,Tip-In,-76.0,1.0,Dominik Simon,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:03:21Z,2,00:55,19:05,Takeaway,n/a,-66.0,40.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:03:50Z,2,01:04,18:56,Faceoff,n/a,69.0,22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:04:08Z,2,01:19,18:41,Missed Shot,n/a,66.0,-12.0,Sam Gagner,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:04:18Z,2,01:29,18:31,Hit,n/a,54.0,-39.0,Jujhar Khaira,Hitter,Edmonton Oilers,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:04:52Z,2,02:03,17:57,Giveaway,n/a,23.0,-18.0,Zach Aston-Reese,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:04:56Z,2,02:07,17:53,Blocked Shot,n/a,63.0,-8.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:05:11Z,2,02:20,17:40,Shot,Snap Shot,55.0,1.0,Alex Chiasson,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:06:05Z,2,02:21,17:39,Faceoff,n/a,69.0,22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:07:10Z,2,03:17,16:43,Takeaway,n/a,97.0,-9.0,James Neal,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:07:21Z,2,03:28,16:32,Hit,n/a,-21.0,42.0,Darnell Nurse,Hitter,Edmonton Oilers,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:07:33Z,2,03:40,16:20,Missed Shot,n/a,52.0,18.0,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:08:00Z,2,03:50,16:10,Faceoff,n/a,69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:08:59Z,2,04:07,15:53,Faceoff,n/a,-69.0,-22.0,Zach Aston-Reese,Winner,Pittsburgh Penguins,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:09:27Z,2,04:28,15:32,Hit,n/a,-91.0,-32.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:09:30Z,2,04:31,15:29,Shot,Snap Shot,-78.0,-28.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:09:50Z,2,04:40,15:20,Takeaway,n/a,-98.0,16.0,Joel Persson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:10:07Z,2,05:07,14:53,Blocked Shot,n/a,-76.0,-6.0,Oscar Klefbom,Blocker,Edmonton Oilers,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:10:17Z,2,05:17,14:43,Giveaway,n/a,-73.0,-39.0,Marcus Pettersson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:11:02Z,2,06:02,13:58,Giveaway,n/a,-94.0,20.0,Darnell Nurse,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:11:12Z,2,06:03,13:57,Shot,Snap Shot,-63.0,14.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:13:20Z,2,06:04,13:56,Faceoff,n/a,-69.0,22.0,Colby Cave,Winner,Edmonton Oilers,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:13:40Z,2,06:25,13:35,Hit,n/a,-97.0,-6.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:14:04Z,2,06:48,13:12,Shot,Wrist Shot,-36.0,35.0,Kris Letang,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:14:11Z,2,06:49,13:11,Blocked Shot,n/a,-59.0,-15.0,Gaetan Haas,Blocker,Edmonton Oilers,Brian Dumoulin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:14:25Z,2,06:50,13:10,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:14:51Z,2,06:59,13:01,Shot,Slap Shot,-36.0,27.0,Brian Dumoulin,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:15:03Z,2,07:00,13:00,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:15:24Z,2,07:10,12:50,Shot,Wrist Shot,-35.0,-6.0,Brian Dumoulin,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:15:40Z,2,07:11,12:49,Faceoff,n/a,-69.0,-22.0,Markus Granlund,Winner,Edmonton Oilers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:16:13Z,2,07:21,12:39,Goal,Wrist Shot,81.0,4.0,Colby Cave,Scorer,Edmonton Oilers,Matt Benning,Assist,Edmonton Oilers,Markus Granlund,Assist,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins
+2019-11-02T18:16:56Z,2,07:21,12:39,Faceoff,n/a,0.0,0.0,Colby Cave,Winner,Edmonton Oilers,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:17:11Z,2,07:34,12:26,Hit,n/a,91.0,35.0,Colby Cave,Hitter,Edmonton Oilers,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:17:28Z,2,07:50,12:10,Hit,n/a,-17.0,-41.0,Nick Bjugstad,Hitter,Pittsburgh Penguins,Markus Granlund,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:17:48Z,2,07:51,12:09,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Colby Cave,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:17:56Z,2,07:55,12:05,Missed Shot,n/a,-47.0,-21.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:18:09Z,2,08:08,11:52,Blocked Shot,n/a,-61.0,-2.0,Markus Granlund,Blocker,Edmonton Oilers,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:18:13Z,2,08:12,11:48,Hit,n/a,-48.0,-41.0,Evgeni Malkin,Hitter,Pittsburgh Penguins,Patrick Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:18:46Z,2,08:13,11:47,Blocked Shot,n/a,-58.0,16.0,Kris Russell,Blocker,Edmonton Oilers,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:18:46Z,2,08:42,11:18,Penalty,Delaying Game - Puck over glass,-67.0,-35.0,Matt Benning,PenaltyOn,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:19:39Z,2,08:42,11:18,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:19:51Z,2,08:56,11:04,Shot,Wrist Shot,-58.0,14.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:20:07Z,2,09:15,10:45,Shot,Slap Shot,-57.0,-16.0,Kris Letang,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:20:12Z,2,09:20,10:40,Shot,Wrist Shot,-73.0,4.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:20:26Z,2,09:34,10:26,Shot,Slap Shot,-36.0,7.0,Justin Schultz,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:20:38Z,2,09:46,10:14,Blocked Shot,n/a,-62.0,-6.0,Markus Granlund,Blocker,Edmonton Oilers,Jake Guentzel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:20:46Z,2,09:54,10:06,Shot,Snap Shot,-40.0,14.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:21:36Z,2,10:44,09:16,Missed Shot,n/a,-77.0,25.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:21:48Z,2,10:52,09:08,Penalty,Hooking,-59.0,9.0,Matt Benning,PenaltyOn,Edmonton Oilers,Alex Galchenyuk,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:23:53Z,2,10:52,09:08,Faceoff,n/a,-69.0,-22.0,Colby Cave,Winner,Edmonton Oilers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:24:56Z,2,11:33,08:27,Shot,Slap Shot,-51.0,15.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:25:11Z,2,11:34,08:26,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:25:39Z,2,11:50,08:10,Shot,Snap Shot,-35.0,2.0,Justin Schultz,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:25:55Z,2,12:06,07:54,Shot,Backhand,79.0,-7.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:26:25Z,2,12:34,07:26,Shot,Wrist Shot,-83.0,-30.0,Patrick Russell,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:26:47Z,2,12:59,07:01,Takeaway,n/a,-33.0,-39.0,Matt Benning,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:27:21Z,2,13:08,06:52,Faceoff,n/a,-20.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:27:53Z,2,13:38,06:22,Shot,Snap Shot,62.0,-12.0,Leon Draisaitl,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:28:04Z,2,13:48,06:12,Hit,n/a,48.0,-40.0,Zack Kassian,Hitter,Edmonton Oilers,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:28:12Z,2,13:56,06:04,Shot,Wrist Shot,-56.0,16.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:28:29Z,2,14:13,05:47,Hit,n/a,-89.0,-33.0,Jared McCann,Hitter,Pittsburgh Penguins,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:28:38Z,2,14:23,05:37,Missed Shot,n/a,-77.0,-1.0,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:28:48Z,2,14:32,05:28,Missed Shot,n/a,-33.0,12.0,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:28:58Z,2,14:43,05:17,Takeaway,n/a,-47.0,-38.0,Alex Chiasson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:30:55Z,2,14:48,05:12,Faceoff,n/a,-20.0,-22.0,Gaetan Haas,Winner,Edmonton Oilers,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:32:04Z,2,15:35,04:25,Shot,Wrist Shot,81.0,-8.0,Gaetan Haas,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:32:26Z,2,15:57,04:03,Shot,Tip-In,-74.0,13.0,Dominik Simon,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:32:42Z,2,16:03,03:57,Takeaway,n/a,-83.0,1.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:32:57Z,2,16:28,03:32,Blocked Shot,n/a,59.0,-21.0,Kris Letang,Blocker,Pittsburgh Penguins,Sam Gagner,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:33:20Z,2,16:51,03:09,Hit,n/a,14.0,25.0,Jujhar Khaira,Hitter,Edmonton Oilers,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:33:26Z,2,16:56,03:04,Shot,Wrist Shot,-41.0,26.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:33:54Z,2,16:57,03:03,Faceoff,n/a,-69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:34:08Z,2,17:02,02:58,Blocked Shot,n/a,-56.0,13.0,Ethan Bear,Blocker,Edmonton Oilers,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:34:39Z,2,17:31,02:29,Penalty,Hi-sticking,3.0,40.0,Darnell Nurse,PenaltyOn,Edmonton Oilers,Brandon Tanev,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:35:23Z,2,17:31,02:29,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Colby Cave,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:35:36Z,2,17:42,02:18,Shot,Wrist Shot,-59.0,-10.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:35:48Z,2,17:43,02:17,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Colby Cave,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:36:24Z,2,18:11,01:49,Takeaway,n/a,40.0,-40.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:36:29Z,2,18:16,01:44,Shot,Wrist Shot,78.0,-11.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:36:35Z,2,18:22,01:38,Takeaway,n/a,67.0,22.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:37:10Z,2,18:57,01:03,Takeaway,n/a,-68.0,42.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:37:28Z,2,19:15,00:45,Hit,n/a,-99.0,-14.0,Oscar Klefbom,Hitter,Edmonton Oilers,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:38:23Z,2,19:46,00:14,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:38:40Z,2,19:52,00:08,Hit,n/a,-99.0,14.0,Matt Benning,Hitter,Edmonton Oilers,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:38:40Z,2,19:53,00:07,Hit,n/a,-46.0,39.0,Alex Chiasson,Hitter,Edmonton Oilers,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:57:15Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:57:48Z,3,00:33,19:27,Hit,n/a,-92.0,32.0,Zack Kassian,Hitter,Edmonton Oilers,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:58:08Z,3,00:43,19:17,Takeaway,n/a,94.0,23.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:58:29Z,3,01:13,18:47,Shot,Slap Shot,-57.0,32.0,Joel Persson,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:58:49Z,3,01:14,18:46,Faceoff,n/a,-69.0,22.0,Sam Gagner,Winner,Edmonton Oilers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T18:59:17Z,3,01:27,18:33,Penalty,Holding,-98.0,-6.0,Jujhar Khaira,PenaltyOn,Edmonton Oilers,John Marino,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:00:03Z,3,01:27,18:33,Faceoff,n/a,69.0,-22.0,Colby Cave,Winner,Edmonton Oilers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:00:06Z,3,01:36,18:24,Blocked Shot,n/a,66.0,0.0,Kris Russell,Blocker,Edmonton Oilers,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:00:21Z,3,01:50,18:10,Shot,Tip-In,84.0,-5.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:00:27Z,3,01:52,18:08,Missed Shot,n/a,77.0,-12.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:00:37Z,3,02:03,17:57,Shot,Snap Shot,64.0,16.0,Kris Letang,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:00:53Z,3,02:04,17:56,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:01:05Z,3,02:10,17:50,Missed Shot,n/a,40.0,-13.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:01:48Z,3,02:43,17:17,Hit,n/a,64.0,-41.0,Kris Russell,Hitter,Edmonton Oilers,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:02:12Z,3,02:57,17:03,Faceoff,n/a,20.0,22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:02:44Z,3,03:26,16:34,Shot,Wrist Shot,51.0,12.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:02:55Z,3,03:31,16:29,Penalty,Hooking,1.0,-35.0,Nick Bjugstad,PenaltyOn,Pittsburgh Penguins,Markus Granlund,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:03:30Z,3,03:31,16:29,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:03:40Z,3,03:45,16:15,Shot,Snap Shot,-61.0,16.0,Connor McDavid,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:03:52Z,3,03:46,16:14,Faceoff,n/a,-69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:04:22Z,3,04:03,15:57,Missed Shot,n/a,-37.0,5.0,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:04:29Z,3,04:07,15:53,Shot,Wrist Shot,68.0,-5.0,Bryan Rust,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:04:58Z,3,04:08,15:52,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:05:32Z,3,04:42,15:18,Hit,n/a,-78.0,10.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Leon Draisaitl,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:05:31Z,3,04:43,15:17,Shot,Wrist Shot,-55.0,0.0,Oscar Klefbom,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:06:01Z,3,04:44,15:16,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:06:11Z,3,04:58,15:02,Shot,Wrist Shot,-77.0,15.0,Connor McDavid,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:07:11Z,3,05:57,14:03,Giveaway,n/a,30.0,-39.0,Dominik Simon,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:07:18Z,3,06:04,13:56,Missed Shot,n/a,-76.0,-30.0,Markus Granlund,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:07:20Z,3,06:06,13:54,Hit,n/a,-91.0,36.0,Dominik Simon,Hitter,Pittsburgh Penguins,Markus Granlund,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:07:35Z,3,06:22,13:38,Hit,n/a,77.0,40.0,Alex Chiasson,Hitter,Edmonton Oilers,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:07:54Z,3,06:30,13:30,Hit,n/a,66.0,-39.0,Darnell Nurse,Hitter,Edmonton Oilers,Jake Guentzel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:08:11Z,3,06:58,13:02,Shot,Wrist Shot,75.0,-2.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:08:22Z,3,07:00,13:00,Shot,Wrist Shot,86.0,-7.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:08:27Z,3,07:13,12:47,Shot,Wrist Shot,41.0,-34.0,John Marino,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:09:24Z,3,08:08,11:52,Shot,Snap Shot,61.0,-31.0,Jared McCann,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:11:50Z,3,08:09,11:51,Faceoff,n/a,69.0,-22.0,Colby Cave,Winner,Edmonton Oilers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:12:09Z,3,08:14,11:46,Faceoff,n/a,69.0,22.0,Colby Cave,Winner,Edmonton Oilers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:12:52Z,3,08:35,11:25,Shot,Tip-In,69.0,-8.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:12:53Z,3,08:35,11:25,Hit,n/a,83.0,-36.0,Colby Cave,Hitter,Edmonton Oilers,Jake Guentzel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:13:18Z,3,08:36,11:24,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:14:24Z,3,09:36,10:24,Hit,n/a,71.0,41.0,Ethan Bear,Hitter,Edmonton Oilers,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:14:46Z,3,09:58,10:02,Hit,n/a,98.0,-20.0,Jared McCann,Hitter,Pittsburgh Penguins,Matt Benning,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:17:02Z,3,10:02,09:58,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:17:16Z,3,10:08,09:52,Blocked Shot,n/a,45.0,15.0,Alex Chiasson,Blocker,Edmonton Oilers,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:17:29Z,3,10:21,09:39,Hit,n/a,-46.0,1.0,Alex Chiasson,Hitter,Edmonton Oilers,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:17:41Z,3,10:29,09:31,Hit,n/a,-91.0,35.0,Alex Chiasson,Hitter,Edmonton Oilers,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:17:54Z,3,10:46,09:14,Missed Shot,n/a,-76.0,-7.0,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:17:58Z,3,10:49,09:11,Hit,n/a,-89.0,22.0,James Neal,Hitter,Edmonton Oilers,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:18:11Z,3,11:03,08:57,Hit,n/a,45.0,42.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Joel Persson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:18:40Z,3,11:32,08:28,Blocked Shot,n/a,85.0,-18.0,Oscar Klefbom,Blocker,Edmonton Oilers,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:18:48Z,3,11:40,08:20,Shot,Slap Shot,47.0,-33.0,Kris Letang,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:19:19Z,3,12:10,07:50,Shot,Wrist Shot,49.0,-8.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:19:35Z,3,12:11,07:49,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:20:11Z,3,12:22,07:38,Penalty,Hooking,-88.0,-14.0,John Marino,PenaltyOn,Pittsburgh Penguins,Connor McDavid,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:20:46Z,3,12:22,07:38,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:21:04Z,3,12:35,07:25,Shot,Tip-In,-78.0,0.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:21:37Z,3,13:08,06:52,Takeaway,n/a,-51.0,21.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:21:44Z,3,13:14,06:46,Goal,Snap Shot,65.0,4.0,Brian Dumoulin,Scorer,Pittsburgh Penguins,Bryan Rust,Assist,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a
+2019-11-02T19:22:36Z,3,13:14,06:46,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Sam Gagner,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:22:50Z,3,13:32,06:28,Penalty,Interference,-11.0,8.0,Zack Kassian,PenaltyOn,Edmonton Oilers,Marcus Pettersson,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:23:58Z,3,13:32,06:28,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:24:23Z,3,14:03,05:57,Shot,Wrist Shot,-68.0,9.0,Connor McDavid,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:24:28Z,3,14:09,05:51,Blocked Shot,n/a,-64.0,-5.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:24:39Z,3,14:16,05:44,Shot,Wrist Shot,-70.0,-9.0,Darnell Nurse,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:26:27Z,3,14:17,05:43,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Colby Cave,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:27:59Z,3,15:21,04:39,Hit,n/a,63.0,-38.0,Sidney Crosby,Hitter,Pittsburgh Penguins,Jujhar Khaira,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:28:29Z,3,15:33,04:27,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:28:49Z,3,15:45,04:15,Shot,Wrist Shot,8.0,33.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:29:30Z,3,16:25,03:35,Giveaway,n/a,13.0,3.0,Ethan Bear,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:29:33Z,3,16:29,03:31,Takeaway,n/a,35.0,27.0,Gaetan Haas,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:29:52Z,3,16:46,03:14,Shot,Snap Shot,48.0,-5.0,Jared McCann,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:30:26Z,3,16:47,03:13,Faceoff,n/a,69.0,-22.0,Colby Cave,Winner,Edmonton Oilers,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:30:57Z,3,17:17,02:43,Blocked Shot,n/a,-47.0,-1.0,Patric Hornqvist,Blocker,Pittsburgh Penguins,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:31:10Z,3,17:30,02:30,Hit,n/a,75.0,-39.0,Kris Russell,Hitter,Edmonton Oilers,Alex Galchenyuk,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:31:30Z,3,17:46,02:14,Shot,Wrist Shot,62.0,-15.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:32:03Z,3,17:48,02:12,Faceoff,n/a,69.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:32:43Z,3,18:25,01:35,Hit,n/a,-95.0,-28.0,Kris Letang,Hitter,Pittsburgh Penguins,Alex Chiasson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:33:19Z,3,18:34,01:26,Faceoff,n/a,-69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:33:49Z,3,18:41,01:19,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:34:24Z,3,19:04,00:56,Shot,Tip-In,80.0,6.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:34:28Z,3,19:08,00:52,Hit,n/a,81.0,-39.0,Leon Draisaitl,Hitter,Edmonton Oilers,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:34:34Z,3,19:14,00:46,Hit,n/a,16.0,-41.0,Bryan Rust,Hitter,Pittsburgh Penguins,Connor McDavid,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:35:00Z,3,19:40,00:20,Missed Shot,n/a,44.0,-23.0,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:35:10Z,3,19:50,00:10,Giveaway,n/a,80.0,38.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:35:15Z,3,19:55,00:05,Hit,n/a,-49.0,39.0,Brian Dumoulin,Hitter,Pittsburgh Penguins,Patrick Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:37:41Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:37:50Z,4,00:07,04:53,Hit,n/a,-23.0,40.0,Jake Guentzel,Hitter,Pittsburgh Penguins,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:38:48Z,4,01:04,03:56,Missed Shot,n/a,-76.0,12.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:38:59Z,4,01:15,03:45,Shot,Backhand,79.0,11.0,Leon Draisaitl,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:39:19Z,4,01:36,03:24,Shot,Wrist Shot,-64.0,-8.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:39:33Z,4,01:49,03:11,Shot,Wrist Shot,68.0,15.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:39:46Z,4,02:02,02:58,Blocked Shot,n/a,-82.0,-10.0,Darnell Nurse,Blocker,Edmonton Oilers,Brian Dumoulin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:39:46Z,4,02:05,02:55,Shot,Backhand,77.0,0.0,James Neal,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:40:02Z,4,02:18,02:42,Shot,Tip-In,75.0,4.0,James Neal,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:40:07Z,4,02:23,02:37,Shot,Wrist Shot,68.0,-9.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:40:14Z,4,02:30,02:30,Missed Shot,n/a,-59.0,-26.0,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T19:40:30Z,4,02:37,02:23,Goal,Wrist Shot,77.0,1.0,Leon Draisaitl,Scorer,Edmonton Oilers,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a

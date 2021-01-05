@@ -1,0 +1,242 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-03-08T00:08:17Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:09:25Z,1,00:06,19:54,Takeaway,n/a,22.0,-29.0,Jeff Skinner,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:10:14Z,1,01:14,18:46,Giveaway,n/a,-66.0,-5.0,Henri Jokiharju,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:10:47Z,1,01:47,18:13,Missed Shot,n/a,85.0,-8.0,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:10:54Z,1,01:51,18:09,Penalty,Tripping,95.0,-2.0,Travis Sanheim,PenaltyOn,Philadelphia Flyers,Marcus Johansson,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:11:43Z,1,01:51,18:09,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:12:31Z,1,02:44,17:16,Giveaway,n/a,-4.0,0.0,Rasmus Dahlin,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:13:02Z,1,03:14,16:46,Hit,n/a,15.0,38.0,Wayne Simmonds,Hitter,Buffalo Sabres,Kevin Hayes,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:13:47Z,1,03:59,16:01,Takeaway,n/a,15.0,39.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:13:54Z,1,04:06,15:54,Hit,n/a,26.0,-39.0,Robert Hagg,Hitter,Philadelphia Flyers,Zemgus Girgensons,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:14:20Z,1,04:32,15:28,Hit,n/a,35.0,28.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:14:55Z,1,05:07,14:53,Shot,Wrist Shot,35.0,-29.0,Henri Jokiharju,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:15:22Z,1,05:07,14:53,Faceoff,n/a,69.0,-22.0,Sam Reinhart,Winner,Buffalo Sabres,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:15:41Z,1,05:11,14:49,Blocked Shot,n/a,47.0,-16.0,Joel Farabee,Blocker,Philadelphia Flyers,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:15:44Z,1,05:13,14:47,Hit,n/a,21.0,-41.0,Henri Jokiharju,Hitter,Buffalo Sabres,Joel Farabee,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:15:57Z,1,05:23,14:37,Giveaway,n/a,-20.0,-26.0,Henri Jokiharju,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:16:10Z,1,05:40,14:20,Giveaway,n/a,-20.0,10.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:16:14Z,1,05:44,14:16,Blocked Shot,n/a,-69.0,-11.0,Colin Miller,Blocker,Buffalo Sabres,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:16:26Z,1,05:51,14:09,Shot,Snap Shot,63.0,-7.0,Sam Reinhart,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:16:45Z,1,05:51,14:09,Faceoff,n/a,69.0,22.0,Derek Grant,Winner,Philadelphia Flyers,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:17:13Z,1,06:09,13:51,Takeaway,n/a,-37.0,5.0,Derek Grant,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:17:16Z,1,06:12,13:48,Hit,n/a,-88.0,-31.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Rasmus Dahlin,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:17:27Z,1,06:23,13:37,Hit,n/a,36.0,-31.0,Ivan Provorov,Hitter,Philadelphia Flyers,Marcus Johansson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:17:35Z,1,06:31,13:29,Missed Shot,n/a,-70.0,37.0,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:17:56Z,1,06:52,13:08,Hit,n/a,22.0,-37.0,Robert Hagg,Hitter,Philadelphia Flyers,Kyle Okposo,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:18:34Z,1,07:30,12:30,Blocked Shot,n/a,-57.0,5.0,Wayne Simmonds,Blocker,Buffalo Sabres,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:18:51Z,1,07:36,12:24,Penalty,Slashing,-71.0,-32.0,Brandon Montour,PenaltyOn,Buffalo Sabres,Travis Sanheim,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:20:23Z,1,07:36,12:24,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:21:05Z,1,07:45,12:15,Shot,Wrist Shot,-61.0,-16.0,Travis Konecny,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:21:24Z,1,08:04,11:56,Takeaway,n/a,-24.0,-28.0,Curtis Lazar,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:21:29Z,1,08:09,11:51,Shot,Wrist Shot,52.0,-28.0,Curtis Lazar,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:21:52Z,1,08:32,11:28,Missed Shot,n/a,-34.0,-10.0,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:22:15Z,1,08:55,11:05,Blocked Shot,n/a,-59.0,0.0,Johan Larsson,Blocker,Buffalo Sabres,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:22:42Z,1,09:21,10:39,Missed Shot,n/a,-63.0,20.0,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:23:13Z,1,09:46,10:14,Penalty,Holding,-68.0,-38.0,Colin Miller,PenaltyOn,Buffalo Sabres,Nicolas Aube-Kubel,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:23:34Z,1,09:46,10:14,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:23:48Z,1,09:52,10:08,Blocked Shot,n/a,-68.0,12.0,Jake McCabe,Blocker,Buffalo Sabres,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:24:02Z,1,10:06,09:54,Blocked Shot,n/a,-54.0,-3.0,Johan Larsson,Blocker,Buffalo Sabres,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:24:12Z,1,10:14,09:46,Shot,Slap Shot,67.0,18.0,Johan Larsson,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:24:11Z,1,10:15,09:45,Shot,Wrist Shot,75.0,-4.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:24:25Z,1,10:26,09:34,Hit,n/a,-94.0,-19.0,Brandon Montour,Hitter,Buffalo Sabres,Claude Giroux,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:24:40Z,1,10:44,09:16,Shot,Wrist Shot,-81.0,-6.0,Travis Konecny,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:24:43Z,1,10:47,09:13,Giveaway,n/a,-75.0,7.0,Henri Jokiharju,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:24:51Z,1,10:55,09:05,Shot,Snap Shot,-66.0,-8.0,Sean Couturier,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:25:24Z,1,11:28,08:32,Takeaway,n/a,-26.0,27.0,Jake McCabe,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:25:37Z,1,11:40,08:20,Hit,n/a,-79.0,38.0,Jake McCabe,Hitter,Buffalo Sabres,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:25:47Z,1,11:51,08:09,Missed Shot,n/a,39.0,-24.0,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:26:06Z,1,12:09,07:51,Hit,n/a,-92.0,-16.0,Henri Jokiharju,Hitter,Buffalo Sabres,Michael Raffl,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:26:28Z,1,12:30,07:30,Shot,Wrist Shot,-59.0,-12.0,Michael Raffl,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:26:56Z,1,13:00,07:00,Hit,n/a,-29.0,-35.0,Joel Farabee,Hitter,Philadelphia Flyers,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:27:52Z,1,13:56,06:04,Shot,Wrist Shot,41.0,-29.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:30:10Z,1,13:58,06:02,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Jeff Skinner,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:30:21Z,1,14:05,05:55,Shot,Slap Shot,76.0,16.0,Jeff Skinner,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:30:22Z,1,14:07,05:53,Shot,Wrist Shot,58.0,-17.0,Sam Reinhart,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:30:50Z,1,14:34,05:26,Hit,n/a,-96.0,-20.0,Sean Couturier,Hitter,Philadelphia Flyers,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:30:57Z,1,14:41,05:19,Hit,n/a,84.0,37.0,Philippe Myers,Hitter,Philadelphia Flyers,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:31:10Z,1,14:54,05:06,Giveaway,n/a,-58.0,9.0,Rasmus Dahlin,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:31:19Z,1,15:04,04:56,Missed Shot,n/a,-81.0,-7.0,Joel Farabee,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:31:27Z,1,15:11,04:49,Takeaway,n/a,65.0,-15.0,Zemgus Girgensons,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:31:37Z,1,15:22,04:38,Shot,Slap Shot,16.0,-35.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:32:01Z,1,15:43,04:17,Giveaway,n/a,-97.0,2.0,Carter Hutton,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:32:13Z,1,15:54,04:06,Hit,n/a,-65.0,-37.0,Nate Thompson,Hitter,Philadelphia Flyers,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:32:47Z,1,16:22,03:38,Blocked Shot,n/a,66.0,-9.0,Nate Thompson,Blocker,Philadelphia Flyers,Brandon Montour,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:32:59Z,1,16:29,03:31,Faceoff,n/a,69.0,-22.0,Nate Thompson,Winner,Philadelphia Flyers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:33:26Z,1,16:40,03:20,Giveaway,n/a,72.0,-2.0,Justin Braun,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:33:34Z,1,16:49,03:11,Shot,Wrist Shot,56.0,-27.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:33:44Z,1,16:59,03:01,Shot,Wrist Shot,83.0,8.0,Jack Eichel,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:35:46Z,1,16:59,03:01,Faceoff,n/a,69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Derek Grant,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:36:26Z,1,17:17,02:43,Giveaway,n/a,-76.0,-36.0,Brandon Montour,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:36:59Z,1,17:31,02:29,Faceoff,n/a,69.0,-22.0,Derek Grant,Winner,Philadelphia Flyers,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:37:18Z,1,17:39,02:21,Giveaway,n/a,61.0,37.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:37:35Z,1,17:55,02:05,Hit,n/a,61.0,39.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:37:38Z,1,17:59,02:01,Hit,n/a,86.0,35.0,Curtis Lazar,Hitter,Buffalo Sabres,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:38:14Z,1,18:18,01:42,Faceoff,n/a,-69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:38:32Z,1,18:27,01:33,Hit,n/a,-28.0,-37.0,Robert Hagg,Hitter,Philadelphia Flyers,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:38:49Z,1,18:44,01:16,Hit,n/a,-70.0,41.0,Jake McCabe,Hitter,Buffalo Sabres,Claude Giroux,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:38:59Z,1,18:53,01:07,Shot,Wrist Shot,46.0,0.0,Kyle Okposo,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:39:08Z,1,19:02,00:58,Shot,Wrist Shot,46.0,38.0,Jake McCabe,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:39:24Z,1,19:17,00:43,Giveaway,n/a,-48.0,40.0,Jeff Skinner,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:58:20Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:58:42Z,2,00:14,19:46,Giveaway,n/a,57.0,38.0,Sam Reinhart,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:58:44Z,2,00:18,19:42,Shot,Snap Shot,37.0,-12.0,Jakub Voracek,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:58:54Z,2,00:27,19:33,Takeaway,n/a,18.0,17.0,Jakub Voracek,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:59:31Z,2,01:04,18:56,Takeaway,n/a,18.0,21.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:59:33Z,2,01:07,18:53,Blocked Shot,n/a,68.0,10.0,Henri Jokiharju,Blocker,Buffalo Sabres,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:59:59Z,2,01:15,18:45,Faceoff,n/a,69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:01:07Z,2,01:40,18:20,Faceoff,n/a,-69.0,22.0,Nate Thompson,Winner,Philadelphia Flyers,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:01:39Z,2,02:04,17:56,Giveaway,n/a,50.0,37.0,Nate Thompson,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:01:47Z,2,02:13,17:47,Missed Shot,n/a,-62.0,-7.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:01:59Z,2,02:21,17:39,Giveaway,n/a,-93.0,-27.0,Justin Braun,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:02:06Z,2,02:24,17:36,Giveaway,n/a,-85.0,-31.0,Dominik Kahun,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:02:17Z,2,02:29,17:31,Faceoff,n/a,-69.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Nate Thompson,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:03:01Z,2,02:34,17:26,Blocked Shot,n/a,-79.0,26.0,Robert Hagg,Blocker,Philadelphia Flyers,Brandon Montour,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:02:49Z,2,02:46,17:14,Blocked Shot,n/a,-81.0,3.0,Justin Braun,Blocker,Philadelphia Flyers,Brandon Montour,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:03:43Z,2,03:28,16:32,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:04:39Z,2,04:05,15:55,Shot,Wrist Shot,-80.0,-1.0,Sam Reinhart,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:04:44Z,2,04:07,15:53,Shot,Wrist Shot,-81.0,2.0,Sam Reinhart,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:05:09Z,2,04:07,15:53,Faceoff,n/a,-69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Kyle Okposo,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:06:08Z,2,04:38,15:22,Faceoff,n/a,-69.0,22.0,Dominik Kahun,Winner,Buffalo Sabres,Derek Grant,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:06:30Z,2,04:46,15:14,Shot,Slap Shot,-57.0,-23.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:06:39Z,2,04:46,15:14,Faceoff,n/a,-69.0,-22.0,Derek Grant,Winner,Philadelphia Flyers,Dominik Kahun,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:07:19Z,2,05:13,14:47,Shot,Wrist Shot,48.0,-22.0,Robert Hagg,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:07:26Z,2,05:20,14:40,Hit,n/a,64.0,-38.0,Scott Laughton,Hitter,Philadelphia Flyers,Dominik Kahun,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:08:07Z,2,06:01,13:59,Shot,Wrist Shot,72.0,-6.0,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:08:13Z,2,06:07,13:53,Hit,n/a,96.0,6.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Michael Raffl,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:09:05Z,2,06:59,13:01,Shot,Wrist Shot,76.0,-29.0,Sean Couturier,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:09:54Z,2,07:48,12:12,Hit,n/a,-27.0,35.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Joel Farabee,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:11:15Z,2,08:02,11:58,Faceoff,n/a,-69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Dominik Kahun,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:10:57Z,2,08:19,11:41,Hit,n/a,-46.0,-36.0,Matt Niskanen,Hitter,Philadelphia Flyers,Victor Olofsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:11:19Z,2,08:41,11:19,Blocked Shot,n/a,-62.0,-1.0,Tyler Pitlick,Blocker,Philadelphia Flyers,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:11:27Z,2,08:46,11:14,Blocked Shot,n/a,-67.0,-7.0,Tyler Pitlick,Blocker,Philadelphia Flyers,Dominik Kahun,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:14:18Z,2,09:33,10:27,Faceoff,n/a,69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:15:07Z,2,09:39,10:21,Shot,Wrap-around,84.0,-3.0,Sean Couturier,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:15:09Z,2,09:40,10:20,Shot,Wrist Shot,82.0,-3.0,Sean Couturier,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:15:20Z,2,09:40,10:20,Faceoff,n/a,69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:15:49Z,2,09:56,10:04,Shot,Slap Shot,39.0,33.0,Jakub Voracek,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:17:06Z,2,10:01,09:59,Takeaway,n/a,48.0,36.0,Jakub Voracek,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:15:55Z,2,10:02,09:58,Shot,Tip-In,70.0,3.0,Jakub Voracek,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:15:59Z,2,10:04,09:56,Goal,Backhand,80.0,-5.0,Claude Giroux,Scorer,Philadelphia Flyers,Jakub Voracek,Assist,Philadelphia Flyers,Travis Sanheim,Assist,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres
+2020-03-08T01:16:33Z,2,10:04,09:56,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:16:47Z,2,10:11,09:49,Giveaway,n/a,72.0,18.0,Jake McCabe,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:17:15Z,2,10:23,09:37,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:17:37Z,2,10:34,09:26,Shot,Wrist Shot,-23.0,-4.0,Kyle Okposo,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:17:44Z,2,10:41,09:19,Blocked Shot,n/a,-76.0,-4.0,Justin Braun,Blocker,Philadelphia Flyers,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:19:55Z,2,10:41,09:19,Faceoff,n/a,-69.0,22.0,Derek Grant,Winner,Philadelphia Flyers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:20:22Z,2,10:44,09:16,Shot,Wrist Shot,-77.0,1.0,Jeff Skinner,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:20:29Z,2,10:44,09:16,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:21:01Z,2,10:51,09:09,Blocked Shot,n/a,-76.0,7.0,Matt Niskanen,Blocker,Philadelphia Flyers,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:21:02Z,2,10:52,09:08,Shot,Wrist Shot,-83.0,-19.0,Jeff Skinner,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:21:07Z,2,10:57,09:03,Shot,Snap Shot,-41.0,-32.0,Colin Miller,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:21:44Z,2,11:34,08:26,Giveaway,n/a,-94.0,31.0,Nicolas Aube-Kubel,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:21:58Z,2,11:48,08:12,Blocked Shot,n/a,-43.0,4.0,Nate Thompson,Blocker,Philadelphia Flyers,Jake McCabe,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:23:02Z,2,12:32,07:28,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:23:25Z,2,12:38,07:22,Hit,n/a,-92.0,29.0,Ivan Provorov,Hitter,Philadelphia Flyers,Brandon Montour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:23:38Z,2,12:53,07:07,Blocked Shot,n/a,-62.0,-14.0,Matt Niskanen,Blocker,Philadelphia Flyers,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:24:04Z,2,13:03,06:57,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Dominik Kahun,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:24:26Z,2,13:17,06:43,Shot,Wrist Shot,-42.0,-14.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:24:45Z,2,13:17,06:43,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:25:35Z,2,13:31,06:29,Shot,Snap Shot,66.0,7.0,Joel Farabee,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:25:49Z,2,13:44,06:16,Shot,Backhand,-79.0,3.0,Dominik Kahun,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:26:02Z,2,13:57,06:03,Hit,n/a,61.0,-35.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:28:14Z,2,14:20,05:40,Faceoff,n/a,20.0,22.0,Kyle Okposo,Winner,Buffalo Sabres,Derek Grant,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:29:16Z,2,14:53,05:07,Hit,n/a,-92.0,28.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:30:02Z,2,15:39,04:21,Blocked Shot,n/a,-76.0,-2.0,Ivan Provorov,Blocker,Philadelphia Flyers,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:30:25Z,2,16:02,03:58,Takeaway,n/a,-71.0,7.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:30:31Z,2,16:08,03:52,Hit,n/a,52.0,-2.0,Jake McCabe,Hitter,Buffalo Sabres,Nicolas Aube-Kubel,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:30:41Z,2,16:17,03:43,Hit,n/a,-96.0,11.0,Jeff Skinner,Hitter,Buffalo Sabres,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:31:14Z,2,16:50,03:10,Takeaway,n/a,-94.0,27.0,Marcus Johansson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:31:18Z,2,16:54,03:06,Goal,Wrist Shot,-79.0,6.0,Dominik Kahun,Scorer,Buffalo Sabres,Victor Olofsson,Assist,Buffalo Sabres,Marcus Johansson,Assist,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers
+2020-03-08T01:31:57Z,2,16:54,03:06,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:32:40Z,2,17:30,02:30,Hit,n/a,70.0,-38.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:33:10Z,2,18:00,02:00,Hit,n/a,-96.0,-20.0,Johan Larsson,Hitter,Buffalo Sabres,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:33:28Z,2,18:17,01:43,Blocked Shot,n/a,44.0,-23.0,Kyle Okposo,Blocker,Buffalo Sabres,Philippe Myers,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:33:30Z,2,18:20,01:40,Hit,n/a,63.0,41.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:33:36Z,2,18:24,01:36,Hit,n/a,41.0,39.0,Derek Grant,Hitter,Philadelphia Flyers,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:33:38Z,2,18:27,01:33,Blocked Shot,n/a,67.0,-4.0,Jake McCabe,Blocker,Buffalo Sabres,Tyler Pitlick,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:33:55Z,2,18:45,01:15,Hit,n/a,14.0,40.0,Kyle Okposo,Hitter,Buffalo Sabres,Nate Thompson,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:35:25Z,2,19:35,00:25,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:36:05Z,2,19:49,00:11,Faceoff,n/a,69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:36:25Z,2,19:56,00:04,Shot,Wrist Shot,96.0,12.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:54:39Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:55:55Z,3,01:07,18:53,Hit,n/a,-93.0,-25.0,Kevin Hayes,Hitter,Philadelphia Flyers,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:56:23Z,3,01:35,18:25,Shot,Wrist Shot,58.0,-23.0,Kyle Okposo,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:56:34Z,3,01:43,18:17,Penalty,Cross checking,94.0,28.0,Scott Laughton,PenaltyOn,Philadelphia Flyers,Johan Larsson,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:57:06Z,3,01:43,18:17,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:57:22Z,3,01:58,18:02,Shot,Tip-In,80.0,-2.0,Sam Reinhart,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:57:38Z,3,01:58,18:02,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:57:55Z,3,02:07,17:53,Missed Shot,n/a,62.0,0.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:57:59Z,3,02:15,17:45,Hit,n/a,81.0,-33.0,Matt Niskanen,Hitter,Philadelphia Flyers,Jeff Skinner,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:58:25Z,3,02:40,17:20,Shot,Slap Shot,34.0,-5.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:58:46Z,3,02:40,17:20,Faceoff,n/a,69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:59:12Z,3,03:00,17:00,Takeaway,n/a,64.0,-2.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:59:20Z,3,03:04,16:56,Giveaway,n/a,44.0,36.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:59:19Z,3,03:08,16:52,Shot,Wrist Shot,75.0,2.0,Jeff Skinner,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:59:33Z,3,03:22,16:38,Shot,Wrist Shot,69.0,0.0,Kevin Hayes,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:59:50Z,3,03:39,16:21,Shot,Slap Shot,55.0,38.0,Jack Eichel,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:59:53Z,3,03:40,16:20,Shot,Backhand,77.0,0.0,Wayne Simmonds,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:59:55Z,3,03:44,16:16,Blocked Shot,n/a,66.0,16.0,Philippe Myers,Blocker,Philadelphia Flyers,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:00:02Z,3,03:48,16:12,Missed Shot,n/a,61.0,36.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:00:04Z,3,03:52,16:08,Hit,n/a,93.0,-26.0,Scott Laughton,Hitter,Philadelphia Flyers,Marcus Johansson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:00:44Z,3,04:33,15:27,Hit,n/a,-33.0,-37.0,Colin Miller,Hitter,Buffalo Sabres,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:01:00Z,3,04:50,15:10,Shot,Wrist Shot,40.0,-5.0,Henri Jokiharju,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:01:14Z,3,05:03,14:57,Giveaway,n/a,94.0,-23.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:01:41Z,3,05:30,14:30,Shot,Wrist Shot,-63.0,20.0,Travis Konecny,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:01:59Z,3,05:30,14:30,Faceoff,n/a,-69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:02:15Z,3,05:34,14:26,Missed Shot,n/a,-52.0,17.0,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:02:34Z,3,05:53,14:07,Blocked Shot,n/a,61.0,12.0,Travis Konecny,Blocker,Philadelphia Flyers,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:02:37Z,3,05:55,14:05,Giveaway,n/a,59.0,21.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:02:42Z,3,06:00,14:00,Shot,Wrist Shot,64.0,6.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:02:58Z,3,06:17,13:43,Hit,n/a,-57.0,40.0,Colin Miller,Hitter,Buffalo Sabres,Joel Farabee,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:03:15Z,3,06:34,13:26,Shot,Wrist Shot,60.0,-26.0,Sam Reinhart,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:03:18Z,3,06:35,13:25,Missed Shot,n/a,71.0,-7.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:03:27Z,3,06:36,13:24,Penalty,Hooking,76.0,-1.0,Philippe Myers,PenaltyOn,Philadelphia Flyers,Jeff Skinner,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:05:15Z,3,06:36,13:24,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:06:29Z,3,07:24,12:36,Shot,Wrist Shot,77.0,16.0,Jeff Skinner,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:06:41Z,3,07:33,12:27,Giveaway,n/a,65.0,41.0,Scott Laughton,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:06:55Z,3,07:50,12:10,Shot,Wrist Shot,62.0,3.0,Scott Laughton,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:07:54Z,3,08:24,11:36,Faceoff,n/a,20.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Nate Thompson,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:08:45Z,3,09:10,10:50,Shot,Wrist Shot,-77.0,5.0,Travis Sanheim,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:12:50Z,3,09:11,10:49,Shot,Wrist Shot,-80.0,1.0,Sean Couturier,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:09:13Z,3,09:21,10:39,Giveaway,n/a,-70.0,4.0,Henri Jokiharju,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:09:02Z,3,09:28,10:32,Goal,Snap Shot,-64.0,8.0,Claude Giroux,Scorer,Philadelphia Flyers,Jakub Voracek,Assist,Philadelphia Flyers,Travis Sanheim,Assist,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres
+2020-03-08T01:09:44Z,3,09:28,10:32,Faceoff,n/a,0.0,0.0,Michael Raffl,Winner,Philadelphia Flyers,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:10:07Z,3,09:36,10:24,Shot,Backhand,-77.0,-4.0,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:10:28Z,3,09:36,10:24,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:10:58Z,3,09:52,10:08,Shot,Wrist Shot,48.0,31.0,Michael Frolik,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:11:04Z,3,09:56,10:04,Blocked Shot,n/a,68.0,-15.0,Travis Sanheim,Blocker,Philadelphia Flyers,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:11:32Z,3,10:26,09:34,Hit,n/a,97.0,-18.0,Jeff Skinner,Hitter,Buffalo Sabres,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:12:03Z,3,10:57,09:03,Blocked Shot,n/a,68.0,11.0,Tyler Pitlick,Blocker,Philadelphia Flyers,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:12:20Z,3,11:09,08:51,Penalty,Cross checking,52.0,-34.0,Scott Laughton,PenaltyOn,Philadelphia Flyers,Jack Eichel,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:14:02Z,3,11:09,08:51,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:15:57Z,3,12:19,07:41,Missed Shot,n/a,81.0,9.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:16:06Z,3,12:29,07:31,Blocked Shot,n/a,74.0,0.0,Travis Sanheim,Blocker,Philadelphia Flyers,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:16:17Z,3,12:44,07:16,Shot,Wrist Shot,35.0,-14.0,Jack Eichel,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:16:39Z,3,12:44,07:16,Faceoff,n/a,69.0,-22.0,Kyle Okposo,Winner,Buffalo Sabres,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:16:57Z,3,12:52,07:08,Blocked Shot,n/a,60.0,-16.0,Ivan Provorov,Blocker,Philadelphia Flyers,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:17:15Z,3,13:10,06:50,Shot,Backhand,82.0,-7.0,Wayne Simmonds,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:17:48Z,3,13:42,06:18,Blocked Shot,n/a,-65.0,-1.0,Henri Jokiharju,Blocker,Buffalo Sabres,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:18:15Z,3,14:10,05:50,Blocked Shot,n/a,52.0,-19.0,Robert Hagg,Blocker,Philadelphia Flyers,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:18:35Z,3,14:14,05:46,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:19:35Z,3,14:47,05:13,Giveaway,n/a,-84.0,1.0,Carter Hutton,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:19:24Z,3,14:48,05:12,Shot,Wrist Shot,-83.0,2.0,Joel Farabee,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:19:34Z,3,14:49,05:11,Goal,Wrist Shot,-82.0,1.0,Joel Farabee,Scorer,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:20:10Z,3,14:49,05:11,Faceoff,n/a,0.0,0.0,Marcus Johansson,Winner,Buffalo Sabres,Nate Thompson,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:22:49Z,3,15:02,04:58,Faceoff,n/a,-69.0,22.0,Nate Thompson,Winner,Philadelphia Flyers,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:23:31Z,3,15:40,04:20,Hit,n/a,-58.0,42.0,Jake McCabe,Hitter,Buffalo Sabres,Michael Raffl,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:24:14Z,3,16:24,03:36,Takeaway,n/a,15.0,15.0,Tyler Pitlick,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:24:40Z,3,16:46,03:14,Giveaway,n/a,-86.0,34.0,Rasmus Dahlin,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:24:44Z,3,16:54,03:06,Missed Shot,n/a,-77.0,-5.0,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:24:47Z,3,16:57,03:03,Hit,n/a,-91.0,33.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:25:19Z,3,17:29,02:31,Shot,Wrist Shot,68.0,-29.0,Jeff Skinner,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:26:02Z,3,17:29,02:31,Faceoff,n/a,69.0,-22.0,Michael Raffl,Winner,Philadelphia Flyers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:26:58Z,3,18:11,01:49,Takeaway,n/a,-25.0,35.0,Rasmus Dahlin,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:27:12Z,3,18:26,01:34,Giveaway,n/a,98.0,3.0,Carter Hart,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:27:21Z,3,18:35,01:25,Shot,Wrist Shot,83.0,-11.0,Marcus Johansson,Shooter,Buffalo Sabres,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:27:25Z,3,18:39,01:21,Missed Shot,n/a,86.0,-9.0,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:27:54Z,3,19:05,00:55,Missed Shot,n/a,-13.0,8.0,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:29:28Z,3,19:23,00:37,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:29:42Z,3,19:39,00:21,Penalty,Hooking,95.0,-24.0,Rasmus Ristolainen,PenaltyOn,Buffalo Sabres,Justin Braun,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:31:03Z,3,19:39,00:21,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Derek Grant,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:31:26Z,3,19:58,00:02,Shot,Wrist Shot,-59.0,20.0,Tyler Pitlick,Shooter,Philadelphia Flyers,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a

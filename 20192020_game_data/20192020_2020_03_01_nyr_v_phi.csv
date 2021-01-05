@@ -1,0 +1,247 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-03-01T17:22:15Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:22:32Z,1,00:07,19:53,Hit,n/a,14.0,36.0,Adam Fox,Hitter,New York Rangers,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:22:41Z,1,00:17,19:43,Missed Shot,n/a,-61.0,17.0,Ryan Strome,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:22:49Z,1,00:23,19:37,Penalty,Hooking,71.0,-11.0,Ryan Lindgren,PenaltyOn,New York Rangers,Travis Konecny,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:23:17Z,1,00:23,19:37,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:23:40Z,1,00:38,19:22,Shot,Slap Shot,65.0,-29.0,Jakub Voracek,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:23:59Z,1,00:57,19:03,Takeaway,n/a,47.0,39.0,Jesper Fast,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:25:08Z,1,01:48,18:12,Shot,Wrist Shot,46.0,14.0,Travis Sanheim,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:25:08Z,1,01:50,18:10,Missed Shot,n/a,81.0,-5.0,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:25:18Z,1,01:52,18:08,Goal,Wrist Shot,81.0,4.0,Matt Niskanen,Scorer,Philadelphia Flyers,Nicolas Aube-Kubel,Assist,Philadelphia Flyers,Travis Sanheim,Assist,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers
+2020-03-01T17:25:40Z,1,01:52,18:08,Faceoff,n/a,0.0,0.0,Derek Grant,Winner,Philadelphia Flyers,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:25:57Z,1,02:02,17:58,Shot,Tip-In,82.0,-2.0,Derek Grant,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:26:28Z,1,02:03,17:57,Faceoff,n/a,69.0,-22.0,Nate Thompson,Winner,Philadelphia Flyers,Greg McKegg,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:27:16Z,1,02:57,17:03,Takeaway,n/a,76.0,-20.0,Jacob Trouba,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:27:27Z,1,03:08,16:52,Giveaway,n/a,-30.0,36.0,Jacob Trouba,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:27:49Z,1,03:28,16:32,Shot,Wrist Shot,48.0,10.0,Scott Laughton,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:28:08Z,1,03:29,16:31,Faceoff,n/a,69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:28:23Z,1,03:39,16:21,Shot,Snap Shot,70.0,2.0,Sean Couturier,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:28:36Z,1,03:51,16:09,Takeaway,n/a,-82.0,7.0,Robert Hagg,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:28:41Z,1,03:52,16:08,Giveaway,n/a,-84.0,11.0,Robert Hagg,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:28:40Z,1,03:55,16:05,Blocked Shot,n/a,-78.0,7.0,Robert Hagg,Blocker,Philadelphia Flyers,Adam Fox,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:28:58Z,1,04:03,15:57,Blocked Shot,n/a,-81.0,2.0,Justin Braun,Blocker,Philadelphia Flyers,Pavel Buchnevich,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:29:07Z,1,04:23,15:37,Takeaway,n/a,-93.0,-17.0,Derek Grant,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:29:22Z,1,04:38,15:22,Giveaway,n/a,64.0,30.0,James van Riemsdyk,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:29:34Z,1,04:50,15:10,Shot,Wrist Shot,-46.0,5.0,Tony DeAngelo,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:29:43Z,1,04:58,15:02,Shot,Snap Shot,59.0,-6.0,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:29:50Z,1,05:05,14:55,Hit,n/a,69.0,-38.0,Nate Thompson,Hitter,Philadelphia Flyers,Julien Gauthier,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:29:54Z,1,05:10,14:50,Shot,Wrist Shot,35.0,-20.0,Philippe Myers,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:30:01Z,1,05:12,14:48,Hit,n/a,69.0,40.0,Travis Sanheim,Hitter,Philadelphia Flyers,Brendan Lemieux,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:30:18Z,1,05:33,14:27,Blocked Shot,n/a,-61.0,0.0,Justin Braun,Blocker,Philadelphia Flyers,Brendan Lemieux,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:30:21Z,1,05:36,14:24,Penalty,Hooking,-30.0,-17.0,Scott Laughton,PenaltyOn,Philadelphia Flyers,Brendan Lemieux,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:30:54Z,1,05:36,14:24,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:31:17Z,1,06:03,13:57,Shot,Wrist Shot,-40.0,11.0,Tony DeAngelo,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:31:30Z,1,06:15,13:45,Missed Shot,n/a,-74.0,2.0,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:31:36Z,1,06:21,13:39,Missed Shot,n/a,-71.0,14.0,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:31:51Z,1,06:37,13:23,Blocked Shot,n/a,-69.0,8.0,Ivan Provorov,Blocker,Philadelphia Flyers,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:32:29Z,1,07:14,12:46,Hit,n/a,-48.0,34.0,Pavel Buchnevich,Hitter,New York Rangers,Nate Thompson,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:32:29Z,1,07:14,12:46,Shot,Tip-In,-78.0,-1.0,Pavel Buchnevich,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:33:03Z,1,07:48,12:12,Shot,Snap Shot,-77.0,0.0,Kaapo Kakko,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:33:18Z,1,08:03,11:57,Giveaway,n/a,44.0,-39.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:34:00Z,1,08:46,11:14,Takeaway,n/a,6.0,-23.0,Jesper Fast,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:34:09Z,1,08:55,11:05,Hit,n/a,15.0,-37.0,Phillip Di Giuseppe,Hitter,New York Rangers,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:34:29Z,1,09:14,10:46,Hit,n/a,72.0,-38.0,Pavel Buchnevich,Hitter,New York Rangers,Derek Grant,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:34:34Z,1,09:19,10:41,Blocked Shot,n/a,52.0,-19.0,Mika Zibanejad,Blocker,New York Rangers,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:34:40Z,1,09:25,10:35,Shot,Wrist Shot,-69.0,6.0,Mika Zibanejad,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:34:45Z,1,09:31,10:29,Hit,n/a,-92.0,-29.0,Matt Niskanen,Hitter,Philadelphia Flyers,Julien Gauthier,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:34:52Z,1,09:38,10:22,Shot,Tip-In,-81.0,-3.0,Pavel Buchnevich,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:37:17Z,1,09:38,10:22,Faceoff,n/a,-69.0,-22.0,Greg McKegg,Winner,New York Rangers,Nate Thompson,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:38:05Z,1,10:15,09:45,Giveaway,n/a,16.0,38.0,Nicolas Aube-Kubel,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:38:29Z,1,10:39,09:21,Missed Shot,n/a,40.0,19.0,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:38:39Z,1,10:46,09:14,Penalty,Hooking,13.0,-23.0,Ryan Strome,PenaltyOn,New York Rangers,Jakub Voracek,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:40:23Z,1,10:46,09:14,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:41:05Z,1,10:53,09:07,Hit,n/a,96.0,-18.0,Jakub Voracek,Hitter,Philadelphia Flyers,Ryan Lindgren,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:41:32Z,1,11:17,08:43,Shot,Snap Shot,82.0,-12.0,Jakub Voracek,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:41:37Z,1,11:19,08:41,Goal,Wrist Shot,78.0,2.0,Sean Couturier,Scorer,Philadelphia Flyers,Jakub Voracek,Assist,Philadelphia Flyers,Travis Konecny,Assist,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers
+2020-03-01T17:42:10Z,1,11:19,08:41,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:42:55Z,1,11:41,08:19,Faceoff,n/a,-20.0,-22.0,Filip Chytil,Winner,New York Rangers,Derek Grant,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:43:12Z,1,11:54,08:06,Hit,n/a,-90.0,32.0,Pavel Buchnevich,Hitter,New York Rangers,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:43:27Z,1,12:09,07:51,Takeaway,n/a,-25.0,-12.0,Tyler Pitlick,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:43:36Z,1,12:18,07:42,Hit,n/a,97.0,0.0,Brendan Smith,Hitter,New York Rangers,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:43:44Z,1,12:21,07:39,Hit,n/a,59.0,-39.0,Philippe Myers,Hitter,Philadelphia Flyers,Pavel Buchnevich,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:44:24Z,1,12:22,07:38,Faceoff,n/a,20.0,-22.0,Nate Thompson,Winner,Philadelphia Flyers,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:44:41Z,1,12:34,07:26,Giveaway,n/a,97.0,-6.0,Marc Staal,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:44:58Z,1,12:51,07:09,Hit,n/a,-92.0,27.0,Justin Braun,Hitter,Philadelphia Flyers,Greg McKegg,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:45:25Z,1,13:19,06:41,Shot,Wrist Shot,77.0,0.0,Jakub Voracek,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:45:31Z,1,13:24,06:36,Hit,n/a,88.0,-34.0,Jakub Voracek,Hitter,Philadelphia Flyers,Ryan Lindgren,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:45:38Z,1,13:32,06:28,Hit,n/a,23.0,-37.0,Ryan Lindgren,Hitter,New York Rangers,Jakub Voracek,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:45:47Z,1,13:40,06:20,Missed Shot,n/a,-84.0,36.0,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:46:03Z,1,13:40,06:20,Faceoff,n/a,-69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:46:39Z,1,13:59,06:01,Blocked Shot,n/a,68.0,3.0,Jesper Fast,Blocker,New York Rangers,Scott Laughton,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:46:59Z,1,14:18,05:42,Hit,n/a,-65.0,40.0,Matt Niskanen,Hitter,Philadelphia Flyers,Ryan Strome,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:47:16Z,1,14:36,05:24,Shot,Tip-In,-78.0,-1.0,Ryan Strome,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:49:13Z,1,14:51,05:09,Faceoff,n/a,-20.0,22.0,Nate Thompson,Winner,Philadelphia Flyers,Julien Gauthier,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:50:42Z,1,15:19,04:41,Shot,Wrist Shot,85.0,-8.0,Michael Raffl,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:50:45Z,1,15:22,04:38,Hit,n/a,91.0,-31.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Greg McKegg,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:51:40Z,1,16:16,03:44,Penalty,Tripping,1.0,9.0,Kevin Hayes,PenaltyOn,Philadelphia Flyers,Brendan Smith,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:52:07Z,1,16:16,03:44,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:52:25Z,1,16:32,03:28,Blocked Shot,n/a,-86.0,-8.0,Matt Niskanen,Blocker,Philadelphia Flyers,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:52:53Z,1,17:00,03:00,Hit,n/a,-44.0,-39.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Artemi Panarin,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:52:58Z,1,17:03,02:57,Shot,Wrist Shot,-73.0,-24.0,Artemi Panarin,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:53:13Z,1,17:04,02:56,Faceoff,n/a,-69.0,-22.0,Derek Grant,Winner,Philadelphia Flyers,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:53:56Z,1,17:42,02:18,Hit,n/a,-93.0,24.0,Justin Braun,Hitter,Philadelphia Flyers,Mika Zibanejad,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:54:18Z,1,17:49,02:11,Hit,n/a,-42.0,-40.0,Michael Raffl,Hitter,Philadelphia Flyers,Ryan Strome,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:54:11Z,1,17:53,02:07,Goal,Backhand,82.0,-6.0,Michael Raffl,Scorer,Philadelphia Flyers,Derek Grant,Assist,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a
+2020-03-01T17:54:46Z,1,17:53,02:07,Faceoff,n/a,0.0,0.0,Filip Chytil,Winner,New York Rangers,Nate Thompson,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:55:01Z,1,18:08,01:52,Giveaway,n/a,-88.0,35.0,Jacob Trouba,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:55:43Z,1,18:21,01:39,Faceoff,n/a,-20.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:55:51Z,1,18:32,01:28,Giveaway,n/a,95.0,-2.0,Henrik Lundqvist,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:55:58Z,1,18:38,01:22,Hit,n/a,40.0,39.0,Jesper Fast,Hitter,New York Rangers,Robert Hagg,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:56:29Z,1,19:09,00:51,Shot,Wrist Shot,-63.0,-2.0,Julien Gauthier,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:56:38Z,1,19:18,00:42,Missed Shot,n/a,-72.0,0.0,Julien Gauthier,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T17:56:56Z,1,19:35,00:25,Hit,n/a,-59.0,39.0,Justin Braun,Hitter,Philadelphia Flyers,Julien Gauthier,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:15:46Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:16:09Z,2,00:13,19:47,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:16:38Z,2,00:23,19:37,Hit,n/a,-10.0,41.0,Ryan Lindgren,Hitter,New York Rangers,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:17:04Z,2,00:34,19:26,Faceoff,n/a,-69.0,-22.0,Ryan Strome,Winner,New York Rangers,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:17:32Z,2,00:50,19:10,Missed Shot,n/a,-70.0,-18.0,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:17:55Z,2,00:54,19:06,Faceoff,n/a,-69.0,22.0,Derek Grant,Winner,Philadelphia Flyers,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:18:32Z,2,01:20,18:40,Hit,n/a,-6.0,-39.0,Brett Howden,Hitter,New York Rangers,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:18:37Z,2,01:23,18:37,Goal,Backhand,-80.0,1.0,Derek Grant,Scorer,Philadelphia Flyers,Tyler Pitlick,Assist,Philadelphia Flyers,Travis Sanheim,Assist,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers
+2020-03-01T18:19:09Z,2,01:23,18:37,Faceoff,n/a,0.0,0.0,Greg McKegg,Winner,New York Rangers,Nate Thompson,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:19:48Z,2,01:43,18:17,Hit,n/a,97.0,-13.0,Greg McKegg,Hitter,New York Rangers,Robert Hagg,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:19:51Z,2,01:46,18:14,Missed Shot,n/a,78.0,-37.0,Julien Gauthier,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:20:01Z,2,01:56,18:04,Hit,n/a,90.0,-31.0,Nate Thompson,Hitter,Philadelphia Flyers,Brendan Lemieux,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:20:20Z,2,02:15,17:45,Shot,Wrist Shot,80.0,7.0,Pavel Buchnevich,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:20:25Z,2,02:21,17:39,Hit,n/a,4.0,39.0,Mika Zibanejad,Hitter,New York Rangers,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:20:38Z,2,02:34,17:26,Giveaway,n/a,55.0,38.0,Travis Konecny,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:20:49Z,2,02:44,17:16,Missed Shot,n/a,-79.0,-29.0,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:21:05Z,2,03:00,17:00,Missed Shot,n/a,47.0,-31.0,Ryan Strome,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:21:47Z,2,03:43,16:17,Giveaway,n/a,24.0,-28.0,Claude Giroux,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:22:30Z,2,04:09,15:51,Faceoff,n/a,-69.0,22.0,Derek Grant,Winner,Philadelphia Flyers,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:22:50Z,2,04:18,15:42,Giveaway,n/a,-24.0,-29.0,Kaapo Kakko,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:23:05Z,2,04:33,15:27,Blocked Shot,n/a,70.0,-1.0,Derek Grant,Blocker,Philadelphia Flyers,Marc Staal,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:23:33Z,2,05:01,14:59,Missed Shot,n/a,44.0,21.0,Brendan Smith,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:23:43Z,2,05:11,14:49,Hit,n/a,34.0,-37.0,Brendan Lemieux,Hitter,New York Rangers,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:23:57Z,2,05:16,14:44,Shot,Tip-In,83.0,-5.0,Greg McKegg,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:24:41Z,2,06:10,13:50,Takeaway,n/a,71.0,-26.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:25:02Z,2,06:30,13:30,Takeaway,n/a,59.0,40.0,Artemi Panarin,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:26:01Z,2,07:29,12:31,Giveaway,n/a,45.0,13.0,Jesper Fast,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:26:10Z,2,07:38,12:22,Hit,n/a,55.0,38.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Artemi Panarin,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:27:02Z,2,08:30,11:30,Hit,n/a,-92.0,29.0,Brendan Smith,Hitter,New York Rangers,Michael Raffl,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:27:11Z,2,08:38,11:22,Shot,Wrist Shot,-84.0,-6.0,Nate Thompson,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:27:33Z,2,08:39,11:21,Penalty,Unsportsmanlike conduct,-82.0,8.0,Brendan Lemieux,PenaltyOn,New York Rangers,Nicolas Aube-Kubel,DrewBy,New York Rangers,Pavel Buchnevich,ServedBy,Philadelphia Flyers,n/a,n/a,n/a
+2020-03-01T18:28:05Z,2,08:39,11:21,Penalty,Misconduct,-79.0,6.0,Brendan Lemieux,PenaltyOn,New York Rangers,Nicolas Aube-Kubel,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:29:21Z,2,08:39,11:21,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:30:15Z,2,08:56,11:04,Missed Shot,n/a,-83.0,6.0,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:30:49Z,2,09:30,10:30,Shot,Wrist Shot,-87.0,-21.0,Jakub Voracek,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:30:59Z,2,09:40,10:20,Shot,Wrist Shot,-86.0,-11.0,Travis Konecny,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:31:32Z,2,10:13,09:47,Blocked Shot,n/a,-81.0,2.0,Ryan Lindgren,Blocker,New York Rangers,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:31:49Z,2,10:30,09:30,Missed Shot,n/a,-77.0,-7.0,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:31:58Z,2,10:38,09:22,Missed Shot,n/a,-61.0,16.0,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:32:06Z,2,10:48,09:12,Takeaway,n/a,-76.0,7.0,Ryan Lindgren,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:32:10Z,2,10:52,09:08,Missed Shot,n/a,-59.0,19.0,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:32:48Z,2,11:30,08:30,Hit,n/a,-97.0,9.0,Tony DeAngelo,Hitter,New York Rangers,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:33:02Z,2,11:43,08:17,Blocked Shot,n/a,-83.0,-10.0,Adam Fox,Blocker,New York Rangers,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:33:11Z,2,11:52,08:08,Shot,Wrist Shot,73.0,21.0,Tony DeAngelo,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:33:22Z,2,11:52,08:08,Blocked Shot,n/a,69.0,16.0,Robert Hagg,Blocker,Philadelphia Flyers,Julien Gauthier,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:35:33Z,2,11:53,08:07,Faceoff,n/a,69.0,22.0,Nate Thompson,Winner,Philadelphia Flyers,Pavel Buchnevich,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:36:06Z,2,12:10,07:50,Faceoff,n/a,69.0,-22.0,Nate Thompson,Winner,Philadelphia Flyers,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:36:34Z,2,12:17,07:43,Penalty,Hi-sticking,19.0,40.0,Nate Thompson,PenaltyOn,Philadelphia Flyers,Mika Zibanejad,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:37:05Z,2,12:17,07:43,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:37:27Z,2,12:34,07:26,Goal,Tip-In,72.0,5.0,Mika Zibanejad,Scorer,New York Rangers,Artemi Panarin,Assist,New York Rangers,Tony DeAngelo,Assist,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers
+2020-03-01T18:38:03Z,2,12:34,07:26,Faceoff,n/a,0.0,0.0,Filip Chytil,Winner,New York Rangers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:38:07Z,2,12:40,07:20,Hit,n/a,12.0,-39.0,Jesper Fast,Hitter,New York Rangers,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:38:24Z,2,12:41,07:19,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:38:56Z,2,13:01,06:59,Blocked Shot,n/a,73.0,7.0,Philippe Myers,Blocker,Philadelphia Flyers,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:39:03Z,2,13:08,06:52,Missed Shot,n/a,79.0,8.0,Jesper Fast,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:39:15Z,2,13:20,06:40,Penalty,Tripping,43.0,5.0,Travis Sanheim,PenaltyOn,Philadelphia Flyers,Mika Zibanejad,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:39:51Z,2,13:20,06:40,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:40:28Z,2,13:57,06:03,Shot,Deflected,47.0,-18.0,Mika Zibanejad,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:40:56Z,2,14:25,05:35,Takeaway,n/a,26.0,-15.0,Nate Thompson,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:42:02Z,2,15:00,05:00,Faceoff,n/a,20.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Derek Grant,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:42:10Z,2,15:13,04:47,Hit,n/a,-98.0,12.0,Tony DeAngelo,Hitter,New York Rangers,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:42:23Z,2,15:26,04:34,Missed Shot,n/a,68.0,1.0,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:42:30Z,2,15:29,04:31,Penalty,Slashing,95.0,8.0,Ryan Strome,PenaltyOn,New York Rangers,Robert Hagg,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:44:28Z,2,15:29,04:31,Faceoff,n/a,-69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:44:54Z,2,15:34,04:26,Goal,Tip-In,-82.0,-3.0,Travis Konecny,Scorer,Philadelphia Flyers,Jakub Voracek,Assist,Philadelphia Flyers,Ivan Provorov,Assist,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers
+2020-03-01T18:45:34Z,2,15:34,04:26,Faceoff,n/a,0.0,0.0,Derek Grant,Winner,Philadelphia Flyers,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:45:57Z,2,15:40,04:20,Hit,n/a,-4.0,-39.0,Kaapo Kakko,Hitter,New York Rangers,Robert Hagg,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:45:42Z,2,15:44,04:16,Hit,n/a,-90.0,33.0,Ryan Lindgren,Hitter,New York Rangers,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:46:48Z,2,16:16,03:44,Faceoff,n/a,20.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:47:04Z,2,16:27,03:33,Hit,n/a,96.0,9.0,Brett Howden,Hitter,New York Rangers,Philippe Myers,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:47:13Z,2,16:37,03:23,Missed Shot,n/a,40.0,22.0,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:47:19Z,2,16:42,03:18,Blocked Shot,n/a,79.0,-2.0,Travis Sanheim,Blocker,Philadelphia Flyers,Pavel Buchnevich,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:47:36Z,2,16:59,03:01,Missed Shot,n/a,36.0,11.0,Tony DeAngelo,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:47:42Z,2,17:05,02:55,Giveaway,n/a,32.0,-9.0,Marc Staal,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:47:51Z,2,17:13,02:47,Penalty,Tripping,-77.0,9.0,Brett Howden,PenaltyOn,New York Rangers,Kevin Hayes,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:48:24Z,2,17:13,02:47,Faceoff,n/a,-69.0,22.0,Greg McKegg,Winner,New York Rangers,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:49:15Z,2,17:46,02:14,Missed Shot,n/a,-77.0,-2.0,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:49:55Z,2,18:26,01:34,Shot,Backhand,-80.0,-1.0,Matt Niskanen,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:50:00Z,2,18:28,01:32,Shot,Backhand,-85.0,-6.0,Matt Niskanen,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:50:09Z,2,18:40,01:20,Takeaway,n/a,-1.0,39.0,Mika Zibanejad,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:51:23Z,2,19:17,00:43,Faceoff,n/a,-20.0,22.0,Filip Chytil,Winner,New York Rangers,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:51:45Z,2,19:39,00:21,Takeaway,n/a,73.0,30.0,Artemi Panarin,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:52:00Z,2,19:54,00:06,Giveaway,n/a,-61.0,-22.0,Michael Raffl,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T18:52:07Z,2,19:59,00:01,Missed Shot,n/a,86.0,28.0,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:10:37Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:12:01Z,3,01:18,18:42,Missed Shot,n/a,-76.0,9.0,Jesper Fast,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:12:11Z,3,01:29,18:31,Hit,n/a,-92.0,28.0,Filip Chytil,Hitter,New York Rangers,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:12:34Z,3,01:52,18:08,Hit,n/a,-29.0,-39.0,Marc Staal,Hitter,New York Rangers,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:12:48Z,3,02:00,18:00,Hit,n/a,-5.0,-40.0,Julien Gauthier,Hitter,New York Rangers,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:13:08Z,3,02:25,17:35,Hit,n/a,97.0,10.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Ryan Lindgren,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:13:18Z,3,02:36,17:24,Hit,n/a,-49.0,-39.0,Matt Niskanen,Hitter,Philadelphia Flyers,Ryan Lindgren,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:13:47Z,3,03:04,16:56,Blocked Shot,n/a,-65.0,12.0,Scott Laughton,Blocker,Philadelphia Flyers,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:14:07Z,3,03:22,16:38,Shot,Slap Shot,-75.0,13.0,Artemi Panarin,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:14:31Z,3,03:23,16:37,Faceoff,n/a,-69.0,22.0,Filip Chytil,Winner,New York Rangers,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:14:37Z,3,03:25,16:35,Shot,Wrist Shot,-41.0,35.0,Jacob Trouba,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:14:50Z,3,03:26,16:34,Faceoff,n/a,-69.0,22.0,Filip Chytil,Winner,New York Rangers,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:15:18Z,3,03:48,16:12,Shot,Wrist Shot,66.0,-12.0,Claude Giroux,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:15:42Z,3,03:49,16:11,Faceoff,n/a,69.0,-22.0,Greg McKegg,Winner,New York Rangers,Derek Grant,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:16:44Z,3,04:19,15:41,Faceoff,n/a,-20.0,22.0,Brett Howden,Winner,New York Rangers,Nate Thompson,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:17:40Z,3,05:13,14:47,Missed Shot,n/a,-74.0,1.0,Brendan Smith,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:17:48Z,3,05:21,14:39,Hit,n/a,-70.0,40.0,Matt Niskanen,Hitter,Philadelphia Flyers,Pavel Buchnevich,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:17:58Z,3,05:21,14:39,Penalty,Interference,-55.0,-2.0,Matt Niskanen,PenaltyOn,Philadelphia Flyers,Pavel Buchnevich,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:18:22Z,3,05:21,14:39,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:18:42Z,3,05:33,14:27,Goal,Tip-In,-80.0,1.0,Pavel Buchnevich,Scorer,New York Rangers,Tony DeAngelo,Assist,New York Rangers,Mika Zibanejad,Assist,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers
+2020-03-01T19:19:27Z,3,05:33,14:27,Faceoff,n/a,0.0,0.0,Derek Grant,Winner,Philadelphia Flyers,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:20:11Z,3,06:21,13:39,Hit,n/a,45.0,40.0,Phillip Di Giuseppe,Hitter,New York Rangers,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:20:24Z,3,06:35,13:25,Shot,Slap Shot,71.0,20.0,Claude Giroux,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:21:13Z,3,07:01,12:59,Faceoff,n/a,69.0,22.0,Greg McKegg,Winner,New York Rangers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:21:44Z,3,07:25,12:35,Giveaway,n/a,80.0,-16.0,Marc Staal,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:21:47Z,3,07:27,12:33,Shot,Snap Shot,67.0,13.0,Ivan Provorov,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:23:51Z,3,07:28,12:32,Faceoff,n/a,69.0,22.0,Nate Thompson,Winner,Philadelphia Flyers,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:24:34Z,3,07:58,12:02,Blocked Shot,n/a,75.0,10.0,Tony DeAngelo,Blocker,New York Rangers,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:24:35Z,3,07:59,12:01,Hit,n/a,46.0,-38.0,Matt Niskanen,Hitter,Philadelphia Flyers,Artemi Panarin,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:24:56Z,3,08:16,11:44,Shot,Wrist Shot,16.0,-38.0,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:25:26Z,3,08:49,11:11,Shot,Tip-In,-80.0,2.0,Phillip Di Giuseppe,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:25:30Z,3,08:53,11:07,Shot,Wrist Shot,-82.0,2.0,Phillip Di Giuseppe,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:25:34Z,3,08:57,11:03,Shot,Wrist Shot,-81.0,19.0,Phillip Di Giuseppe,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:25:42Z,3,09:05,10:55,Missed Shot,n/a,-40.0,25.0,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:26:31Z,3,09:55,10:05,Hit,n/a,-97.0,15.0,Brett Howden,Hitter,New York Rangers,Robert Hagg,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:27:25Z,3,10:48,09:12,Takeaway,n/a,63.0,-16.0,Tony DeAngelo,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:27:39Z,3,11:02,08:58,Hit,n/a,-90.0,-32.0,Philippe Myers,Hitter,Philadelphia Flyers,Adam Fox,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:27:41Z,3,11:04,08:56,Shot,Wrist Shot,-74.0,-9.0,Adam Fox,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:28:06Z,3,11:29,08:31,Penalty,Tripping,-73.0,-40.0,Nate Thompson,PenaltyOn,Philadelphia Flyers,Kaapo Kakko,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:29:56Z,3,11:29,08:31,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:30:37Z,3,11:35,08:25,Blocked Shot,n/a,-74.0,-8.0,Matt Niskanen,Blocker,Philadelphia Flyers,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:30:49Z,3,11:47,08:13,Hit,n/a,-92.0,-29.0,Matt Niskanen,Hitter,Philadelphia Flyers,Brett Howden,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:31:08Z,3,12:06,07:54,Giveaway,n/a,-72.0,-38.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:31:11Z,3,12:09,07:51,Shot,Wrist Shot,-46.0,-17.0,Tony DeAngelo,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:31:35Z,3,12:32,07:28,Giveaway,n/a,-86.0,-31.0,Artemi Panarin,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:31:57Z,3,12:36,07:24,Giveaway,n/a,-38.0,-37.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:31:42Z,3,12:39,07:21,Goal,Backhand,-84.0,-8.0,Mika Zibanejad,Scorer,New York Rangers,Artemi Panarin,Assist,New York Rangers,Brett Howden,Assist,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers
+2020-03-01T19:32:20Z,3,12:39,07:21,Faceoff,n/a,0.0,0.0,Derek Grant,Winner,Philadelphia Flyers,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:32:43Z,3,12:49,07:11,Shot,Wrap-around,87.0,-4.0,Tyler Pitlick,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:32:37Z,3,12:52,07:08,Shot,Wrist Shot,81.0,3.0,Derek Grant,Shooter,Philadelphia Flyers,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:32:47Z,3,13:03,06:57,Hit,n/a,-96.0,-16.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Phillip Di Giuseppe,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:33:15Z,3,13:19,06:41,Faceoff,n/a,69.0,-22.0,Filip Chytil,Winner,New York Rangers,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:33:47Z,3,13:27,06:33,Faceoff,n/a,69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:34:25Z,3,13:48,06:12,Hit,n/a,-79.0,-39.0,Julien Gauthier,Hitter,New York Rangers,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:35:19Z,3,14:41,05:19,Shot,Snap Shot,-85.0,-5.0,Mika Zibanejad,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:36:45Z,3,14:42,05:18,Faceoff,n/a,-69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:38:06Z,3,14:55,05:05,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:38:48Z,3,15:30,04:30,Hit,n/a,-42.0,-41.0,Pavel Buchnevich,Hitter,New York Rangers,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:38:56Z,3,15:38,04:22,Shot,Tip-In,-81.0,0.0,Mika Zibanejad,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:38:55Z,3,15:41,04:19,Missed Shot,n/a,-83.0,-3.0,Pavel Buchnevich,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:39:18Z,3,16:00,04:00,Hit,n/a,-5.0,-39.0,James van Riemsdyk,Hitter,Philadelphia Flyers,Marc Staal,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:39:19Z,3,16:00,04:00,Missed Shot,n/a,-70.0,-1.0,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:39:29Z,3,16:10,03:50,Hit,n/a,-31.0,40.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Jacob Trouba,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:39:44Z,3,16:25,03:35,Blocked Shot,n/a,58.0,15.0,Marc Staal,Blocker,New York Rangers,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:41:43Z,3,18:25,01:35,Missed Shot,n/a,-41.0,18.0,Tony DeAngelo,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:42:16Z,3,18:57,01:03,Blocked Shot,n/a,-82.0,-6.0,Derek Grant,Blocker,Philadelphia Flyers,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:42:24Z,3,19:04,00:56,Shot,Slap Shot,-57.0,20.0,Adam Fox,Shooter,New York Rangers,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:42:55Z,3,19:36,00:24,Blocked Shot,n/a,-73.0,-12.0,Matt Niskanen,Blocker,Philadelphia Flyers,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:43:00Z,3,19:40,00:20,Hit,n/a,-91.0,-11.0,Matt Niskanen,Hitter,Philadelphia Flyers,Mika Zibanejad,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T19:43:18Z,3,19:58,00:02,Missed Shot,n/a,-62.0,13.0,Brendan Lemieux,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

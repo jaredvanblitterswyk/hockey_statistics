@@ -1,0 +1,259 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-17T02:08:40Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:09:22Z,1,00:16,19:44,Missed Shot,n/a,-77.0,0.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:09:33Z,1,00:28,19:32,Hit,n/a,42.0,-40.0,Jack Eichel,Hitter,Buffalo Sabres,Jakob Silfverberg,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:09:53Z,1,00:45,19:15,Missed Shot,n/a,-42.0,0.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:09:57Z,1,00:45,19:15,Hit,n/a,-80.0,-38.0,Josh Manson,Hitter,Anaheim Ducks,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:10:08Z,1,01:03,18:57,Takeaway,n/a,-46.0,11.0,Jeff Skinner,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:10:14Z,1,01:08,18:52,Takeaway,n/a,-61.0,-5.0,Josh Manson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:10:32Z,1,01:25,18:35,Shot,Wrist Shot,-51.0,22.0,Jeff Skinner,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:10:42Z,1,01:26,18:34,Missed Shot,n/a,-88.0,9.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:10:58Z,1,01:27,18:33,Faceoff,n/a,-69.0,22.0,Derek Grant,Winner,Anaheim Ducks,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:11:30Z,1,01:47,18:13,Hit,n/a,43.0,-40.0,Colin Miller,Hitter,Buffalo Sabres,Carter Rowney,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:11:37Z,1,01:54,18:06,Giveaway,n/a,80.0,32.0,Rasmus Dahlin,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:11:42Z,1,01:59,18:01,Shot,Wrist Shot,40.0,-7.0,Korbinian Holzer,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:11:48Z,1,02:06,17:54,Giveaway,n/a,53.0,37.0,Nick Ritchie,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:11:58Z,1,02:16,17:44,Shot,Wrist Shot,-35.0,7.0,Jimmy Vesey,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:12:15Z,1,02:32,17:28,Hit,n/a,-96.0,10.0,Kyle Okposo,Hitter,Buffalo Sabres,Michael Del Zotto,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:12:46Z,1,02:52,17:08,Hit,n/a,-30.0,3.0,Michael Del Zotto,Hitter,Anaheim Ducks,Kyle Okposo,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:13:27Z,1,03:14,16:46,Shot,Wrist Shot,-80.0,7.0,Sam Reinhart,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:13:03Z,1,03:15,16:45,Shot,Tip-In,-80.0,4.0,Jack Eichel,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:13:51Z,1,04:08,15:52,Hit,n/a,98.0,-11.0,Ryan Getzlaf,Hitter,Anaheim Ducks,Rasmus Dahlin,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:14:23Z,1,04:33,15:27,Missed Shot,n/a,86.0,10.0,Ryan Getzlaf,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:14:57Z,1,04:36,15:24,Faceoff,n/a,69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Max Jones,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:15:10Z,1,04:47,15:13,Hit,n/a,-35.0,38.0,Max Jones,Hitter,Anaheim Ducks,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:15:48Z,1,05:07,14:53,Penalty,Tripping,-96.0,16.0,Kyle Okposo,PenaltyOn,Buffalo Sabres,Cam Fowler,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:16:17Z,1,05:07,14:53,Faceoff,n/a,69.0,22.0,Vladimir Sobotka,Winner,Buffalo Sabres,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:16:32Z,1,05:38,14:22,Hit,n/a,32.0,-27.0,Jake McCabe,Hitter,Buffalo Sabres,Troy Terry,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:16:54Z,1,06:00,14:00,Shot,Slap Shot,54.0,11.0,Cam Fowler,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:17:21Z,1,06:27,13:33,Takeaway,n/a,78.0,27.0,Marco Scandella,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:17:53Z,1,06:59,13:01,Giveaway,n/a,86.0,-34.0,Zemgus Girgensons,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:18:07Z,1,07:14,12:46,Shot,Snap Shot,40.0,18.0,Hampus Lindholm,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:18:13Z,1,07:19,12:41,Missed Shot,n/a,84.0,-9.0,Carter Rowney,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:18:26Z,1,07:32,12:28,Blocked Shot,n/a,67.0,1.0,Jack Eichel,Blocker,Buffalo Sabres,Josh Manson,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:18:36Z,1,07:35,12:25,Goal,Wrist Shot,-80.0,5.0,Jack Eichel,Scorer,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:19:19Z,1,07:35,12:25,Faceoff,n/a,0.0,0.0,Adam Henrique,Winner,Anaheim Ducks,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:19:30Z,1,07:44,12:16,Shot,Wrist Shot,-71.0,-22.0,Jeff Skinner,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:19:52Z,1,08:06,11:54,Giveaway,n/a,14.0,38.0,Jakob Silfverberg,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:20:28Z,1,08:41,11:19,Blocked Shot,n/a,70.0,-12.0,Jake McCabe,Blocker,Buffalo Sabres,Ondrej Kase,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:20:54Z,1,09:07,10:53,Blocked Shot,n/a,74.0,-11.0,Casey Mittelstadt,Blocker,Buffalo Sabres,Sam Steel,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:21:01Z,1,09:15,10:45,Shot,Wrist Shot,-64.0,-4.0,Evan Rodrigues,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:21:09Z,1,09:20,10:40,Blocked Shot,n/a,78.0,-21.0,Jimmy Vesey,Blocker,Buffalo Sabres,Sam Steel,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:23:28Z,1,09:21,10:39,Faceoff,n/a,69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:23:29Z,1,09:32,10:28,Hit,n/a,-39.0,38.0,Korbinian Holzer,Hitter,Anaheim Ducks,Zemgus Girgensons,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:23:38Z,1,09:40,10:20,Shot,Snap Shot,-57.0,-18.0,Marco Scandella,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:24:21Z,1,09:41,10:19,Faceoff,n/a,-69.0,-22.0,Derek Grant,Winner,Anaheim Ducks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:24:42Z,1,10:02,09:58,Giveaway,n/a,-3.0,-3.0,Jake McCabe,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:25:12Z,1,10:05,09:55,Hit,n/a,66.0,-2.0,Jake McCabe,Hitter,Buffalo Sabres,Derek Grant,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:24:48Z,1,10:06,09:54,Shot,Backhand,81.0,-9.0,Derek Grant,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:25:28Z,1,10:07,09:53,Faceoff,n/a,69.0,-22.0,Vladimir Sobotka,Winner,Buffalo Sabres,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:26:01Z,1,10:26,09:34,Shot,Wrap-around,-86.0,-6.0,Vladimir Sobotka,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:26:17Z,1,10:42,09:18,Shot,Snap Shot,-46.0,23.0,Vladimir Sobotka,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:26:43Z,1,10:46,09:14,Shot,Wrist Shot,-69.0,22.0,Jeff Skinner,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:26:25Z,1,10:51,09:09,Blocked Shot,n/a,-75.0,0.0,Cam Fowler,Blocker,Anaheim Ducks,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:27:07Z,1,11:12,08:48,Faceoff,n/a,69.0,22.0,Sam Steel,Winner,Anaheim Ducks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:29:41Z,1,11:28,08:32,Faceoff,n/a,20.0,22.0,Derek Grant,Winner,Anaheim Ducks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:29:45Z,1,11:36,08:24,Blocked Shot,n/a,64.0,-15.0,Rasmus Dahlin,Blocker,Buffalo Sabres,Josh Manson,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:29:46Z,1,11:38,08:22,Hit,n/a,96.0,15.0,Nick Ritchie,Hitter,Anaheim Ducks,Rasmus Dahlin,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:29:55Z,1,11:47,08:13,Hit,n/a,-96.0,18.0,Josh Manson,Hitter,Anaheim Ducks,Victor Olofsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:30:04Z,1,11:56,08:04,Hit,n/a,95.0,-13.0,Carter Rowney,Hitter,Anaheim Ducks,Colin Miller,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:30:08Z,1,12:00,08:00,Shot,Tip-In,83.0,-8.0,Nick Ritchie,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:31:00Z,1,12:52,07:08,Shot,Wrist Shot,-79.0,-30.0,Jimmy Vesey,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:31:16Z,1,12:53,07:07,Penalty,Tripping,-55.0,-22.0,Henri Jokiharju,PenaltyOn,Buffalo Sabres,Jakob Silfverberg,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:31:45Z,1,12:53,07:07,Faceoff,n/a,69.0,-22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:31:59Z,1,13:11,06:49,Missed Shot,n/a,49.0,21.0,Sam Steel,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:32:17Z,1,13:29,06:31,Blocked Shot,n/a,76.0,-9.0,Jake McCabe,Blocker,Buffalo Sabres,Michael Del Zotto,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:32:35Z,1,13:47,06:13,Giveaway,n/a,40.0,-26.0,Sam Steel,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:33:02Z,1,14:04,05:56,Giveaway,n/a,83.0,7.0,Colin Miller,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:32:55Z,1,14:07,05:53,Shot,Wrist Shot,81.0,-8.0,Troy Terry,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:33:43Z,1,14:08,05:52,Faceoff,n/a,69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Jakob Silfverberg,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:33:47Z,1,14:16,05:44,Shot,Snap Shot,71.0,36.0,Evan Rodrigues,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:34:04Z,1,14:33,05:27,Takeaway,n/a,75.0,29.0,Evan Rodrigues,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:34:08Z,1,14:37,05:23,Giveaway,n/a,50.0,33.0,Evan Rodrigues,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:34:16Z,1,14:45,05:15,Hit,n/a,88.0,-16.0,Jakob Silfverberg,Hitter,Anaheim Ducks,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:34:25Z,1,14:54,05:06,Giveaway,n/a,67.0,-18.0,Troy Terry,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:34:33Z,1,15:02,04:58,Shot,Wrist Shot,-71.0,7.0,Johan Larsson,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:34:37Z,1,15:06,04:54,Shot,Tip-In,-77.0,0.0,Johan Larsson,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:35:02Z,1,15:22,04:38,Penalty,Holding the stick,-53.0,-35.0,Adam Henrique,PenaltyOn,Anaheim Ducks,Jack Eichel,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:37:49Z,1,15:22,04:38,Faceoff,n/a,-69.0,22.0,Derek Grant,Winner,Anaheim Ducks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:37:34Z,1,15:45,04:15,Giveaway,n/a,-7.0,31.0,Sam Reinhart,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:38:02Z,1,16:12,03:48,Shot,Wrist Shot,-68.0,11.0,Jack Eichel,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:38:09Z,1,16:19,03:41,Hit,n/a,-59.0,34.0,Jacob Larsson,Hitter,Anaheim Ducks,Jeff Skinner,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:38:25Z,1,16:34,03:26,Shot,Tip-In,-82.0,-8.0,Jeff Skinner,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:38:33Z,1,16:36,03:24,Goal,Wrist Shot,-69.0,10.0,Victor Olofsson,Scorer,Buffalo Sabres,Sam Reinhart,Assist,Buffalo Sabres,Jeff Skinner,Assist,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks
+2019-10-17T02:39:30Z,1,16:36,03:24,Faceoff,n/a,0.0,0.0,Ryan Getzlaf,Winner,Anaheim Ducks,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:40:00Z,1,17:09,02:51,Missed Shot,n/a,70.0,-3.0,Max Comtois,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:40:24Z,1,17:10,02:50,Faceoff,n/a,69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:40:41Z,1,17:25,02:35,Shot,Wrist Shot,83.0,-14.0,Rickard Rakell,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:41:13Z,1,17:29,02:31,Faceoff,n/a,0.0,0.0,Sam Steel,Winner,Anaheim Ducks,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:41:40Z,1,17:56,02:04,Giveaway,n/a,-16.0,32.0,Jacob Larsson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:41:46Z,1,18:02,01:58,Hit,n/a,-78.0,37.0,Kyle Okposo,Hitter,Buffalo Sabres,Korbinian Holzer,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:41:52Z,1,18:02,01:58,Shot,Wrist Shot,56.0,1.0,Jacob Larsson,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:44:11Z,1,18:03,01:57,Faceoff,n/a,20.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Jakob Silfverberg,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:44:23Z,1,18:23,01:37,Blocked Shot,n/a,45.0,29.0,Jack Eichel,Blocker,Buffalo Sabres,Hampus Lindholm,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:44:34Z,1,18:34,01:26,Shot,Wrist Shot,39.0,19.0,Josh Manson,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:44:49Z,1,18:40,01:20,Goal,Tip-In,82.0,-7.0,Adam Henrique,Scorer,Anaheim Ducks,Josh Manson,Assist,Anaheim Ducks,Rickard Rakell,Assist,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres
+2019-10-17T02:45:52Z,1,18:40,01:20,Faceoff,n/a,0.0,0.0,Marcus Johansson,Winner,Buffalo Sabres,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:45:45Z,1,18:44,01:16,Faceoff,n/a,-69.0,-22.0,Marcus Johansson,Winner,Buffalo Sabres,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:45:59Z,1,18:55,01:05,Shot,Wrist Shot,-63.0,-16.0,Marcus Johansson,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:46:11Z,1,19:06,00:54,Blocked Shot,n/a,-69.0,-10.0,Ryan Getzlaf,Blocker,Anaheim Ducks,Marco Scandella,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:46:41Z,1,19:09,00:51,Faceoff,n/a,20.0,22.0,Casey Mittelstadt,Winner,Buffalo Sabres,Troy Terry,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:46:58Z,1,19:17,00:43,Shot,Wrist Shot,55.0,-31.0,Josh Manson,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:47:13Z,1,19:32,00:28,Missed Shot,n/a,-53.0,-12.0,Jimmy Vesey,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:47:21Z,1,19:40,00:20,Missed Shot,n/a,-41.0,28.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:47:36Z,1,19:55,00:05,Missed Shot,n/a,74.0,0.0,Hampus Lindholm,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T02:47:53Z,1,19:55,00:05,Blocked Shot,n/a,79.0,9.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,Max Jones,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:06:45Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Grant,Winner,Anaheim Ducks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:06:52Z,2,00:11,19:49,Shot,Wrist Shot,-66.0,-28.0,Derek Grant,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:07:17Z,2,00:12,19:48,Faceoff,n/a,-69.0,-22.0,Adam Henrique,Winner,Anaheim Ducks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:07:29Z,2,00:15,19:45,Shot,Wrist Shot,-38.0,-34.0,Hampus Lindholm,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:07:35Z,2,00:16,19:44,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:08:04Z,2,00:28,19:32,Takeaway,n/a,-11.0,13.0,Adam Henrique,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:08:04Z,2,00:48,19:12,Giveaway,n/a,-90.0,-28.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:08:40Z,2,00:57,19:03,Goal,Wrist Shot,-77.0,6.0,Rickard Rakell,Scorer,Anaheim Ducks,Jakob Silfverberg,Assist,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a
+2019-10-17T03:09:18Z,2,00:57,19:03,Faceoff,n/a,0.0,0.0,Marcus Johansson,Winner,Buffalo Sabres,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:09:33Z,2,01:15,18:45,Hit,n/a,41.0,-36.0,Michael Del Zotto,Hitter,Anaheim Ducks,Vladimir Sobotka,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:09:38Z,2,01:19,18:41,Giveaway,n/a,84.0,-10.0,Ryan Getzlaf,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:09:40Z,2,01:22,18:38,Missed Shot,n/a,50.0,-26.0,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:10:11Z,2,01:45,18:15,Penalty,Interference,-69.0,-2.0,Henri Jokiharju,PenaltyOn,Buffalo Sabres,Max Comtois,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:10:17Z,2,01:45,18:15,Penalty,Slashing,-29.0,1.0,Max Comtois,PenaltyOn,Anaheim Ducks,Henri Jokiharju,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:10:55Z,2,01:45,18:15,Faceoff,n/a,0.0,0.0,Sam Steel,Winner,Anaheim Ducks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:11:30Z,2,01:58,18:02,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:13:23Z,2,03:52,16:08,Shot,Backhand,-83.0,5.0,Korbinian Holzer,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:14:05Z,2,03:56,16:04,Blocked Shot,n/a,-54.0,-24.0,Marcus Johansson,Blocker,Buffalo Sabres,Jacob Larsson,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:13:37Z,2,04:07,15:53,Hit,n/a,-85.0,-25.0,Ryan Getzlaf,Hitter,Anaheim Ducks,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:14:40Z,2,04:44,15:16,Faceoff,n/a,-69.0,-22.0,Derek Grant,Winner,Anaheim Ducks,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:15:49Z,2,05:03,14:57,Blocked Shot,n/a,-63.0,-6.0,Colin Miller,Blocker,Buffalo Sabres,Jacob Larsson,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:15:33Z,2,05:21,14:39,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:16:09Z,2,05:36,14:24,Missed Shot,n/a,32.0,14.0,Marco Scandella,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:16:37Z,2,05:44,14:16,Penalty,Delaying Game - Puck over glass,39.0,-36.0,Jacob Larsson,PenaltyOn,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:17:05Z,2,05:44,14:16,Faceoff,n/a,69.0,-22.0,Derek Grant,Winner,Anaheim Ducks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:17:55Z,2,06:29,13:31,Hit,n/a,62.0,39.0,Michael Del Zotto,Hitter,Anaheim Ducks,Victor Olofsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:18:29Z,2,07:03,12:57,Shot,Wrist Shot,34.0,-20.0,Rasmus Dahlin,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:18:59Z,2,07:34,12:26,Shot,Tip-In,-79.0,-2.0,Derek Grant,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:19:35Z,2,08:08,11:52,Shot,Backhand,-80.0,-7.0,Troy Terry,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:22:00Z,2,08:09,11:51,Faceoff,n/a,-69.0,-22.0,Sam Steel,Winner,Anaheim Ducks,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:22:05Z,2,08:16,11:44,Penalty,Tripping,-83.0,-21.0,Johan Larsson,PenaltyOn,Buffalo Sabres,Sam Steel,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:22:37Z,2,08:16,11:44,Faceoff,n/a,-69.0,-22.0,Vladimir Sobotka,Winner,Buffalo Sabres,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:23:10Z,2,08:51,11:09,Shot,Wrist Shot,-63.0,17.0,Troy Terry,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:23:48Z,2,08:52,11:08,Faceoff,n/a,-69.0,22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:23:51Z,2,09:03,10:57,Shot,Snap Shot,-71.0,-16.0,Sam Steel,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:24:07Z,2,09:14,10:46,Goal,Snap Shot,-74.0,-22.0,Ryan Getzlaf,Scorer,Anaheim Ducks,Sam Steel,Assist,Anaheim Ducks,Cam Fowler,Assist,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres
+2019-10-17T03:24:57Z,2,09:14,10:46,Faceoff,n/a,0.0,0.0,Derek Grant,Winner,Anaheim Ducks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:24:57Z,2,09:24,10:36,Missed Shot,n/a,81.0,-5.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:25:12Z,2,09:27,10:33,Penalty,Boarding,83.0,-35.0,Carter Rowney,PenaltyOn,Anaheim Ducks,Victor Olofsson,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:27:27Z,2,09:27,10:33,Penalty,Roughing,85.0,-36.0,Marco Scandella,PenaltyOn,Buffalo Sabres,Josh Manson,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:28:35Z,2,09:27,10:33,Penalty,Roughing,89.0,-32.0,Josh Manson,PenaltyOn,Anaheim Ducks,Marco Scandella,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:28:35Z,2,09:27,10:33,Faceoff,n/a,20.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:28:33Z,2,10:10,09:50,Shot,Wrist Shot,81.0,6.0,Jeff Skinner,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:28:45Z,2,10:14,09:46,Hit,n/a,-22.0,-38.0,Rickard Rakell,Hitter,Anaheim Ducks,Rasmus Dahlin,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:29:18Z,2,10:15,09:45,Penalty,Delaying Game - Smothering puck,-20.0,-36.0,Rasmus Dahlin,PenaltyOn,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:29:57Z,2,10:15,09:45,Faceoff,n/a,-69.0,-22.0,Jakob Silfverberg,Winner,Anaheim Ducks,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:30:27Z,2,10:42,09:18,Shot,Snap Shot,78.0,-20.0,Jimmy Vesey,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:30:48Z,2,11:03,08:57,Missed Shot,n/a,-60.0,-6.0,Cam Fowler,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:30:57Z,2,11:12,08:48,Missed Shot,n/a,-74.0,10.0,Max Jones,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:31:14Z,2,11:23,08:37,Shot,Backhand,-70.0,-6.0,Max Jones,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:32:26Z,2,11:29,08:31,Faceoff,n/a,-69.0,-22.0,Sam Steel,Winner,Anaheim Ducks,Zemgus Girgensons,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:32:18Z,2,11:36,08:24,Penalty,Slashing,-65.0,28.0,Ondrej Kase,PenaltyOn,Anaheim Ducks,Jake McCabe,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:33:04Z,2,11:36,08:24,Faceoff,n/a,69.0,22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:34:25Z,2,13:07,06:53,Shot,Wrist Shot,72.0,-15.0,Victor Olofsson,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:35:26Z,2,13:58,06:02,Shot,Wrist Shot,43.0,17.0,Jeff Skinner,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:35:20Z,2,14:02,05:58,Shot,Wrist Shot,38.0,-15.0,Henri Jokiharju,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:35:54Z,2,14:36,05:24,Giveaway,n/a,91.0,25.0,Jacob Larsson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:35:58Z,2,14:40,05:20,Missed Shot,n/a,69.0,36.0,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:36:14Z,2,14:56,05:04,Shot,Tip-In,27.0,17.0,Kyle Okposo,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:36:34Z,2,15:16,04:44,Giveaway,n/a,-45.0,-28.0,Kyle Okposo,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:36:54Z,2,15:36,04:24,Hit,n/a,-62.0,-39.0,Colin Miller,Hitter,Buffalo Sabres,Nick Ritchie,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:41:14Z,2,15:40,04:20,Hit,n/a,-82.0,38.0,Nick Ritchie,Hitter,Anaheim Ducks,Vladimir Sobotka,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:37:03Z,2,15:45,04:15,Shot,Snap Shot,-33.0,31.0,Korbinian Holzer,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:37:19Z,2,15:57,04:03,Penalty,Roughing,-73.0,-2.0,Linus Ullmark,PenaltyOn,Buffalo Sabres,Nick Ritchie,DrewBy,Buffalo Sabres,Jimmy Vesey,ServedBy,Anaheim Ducks,n/a,n/a,n/a
+2019-10-17T03:37:19Z,2,15:57,04:03,Penalty,Roughing,80.0,-36.0,Nick Ritchie,PenaltyOn,Anaheim Ducks,Vladimir Sobotka,DrewBy,Anaheim Ducks,Troy Terry,ServedBy,Buffalo Sabres,n/a,n/a,n/a
+2019-10-17T03:40:16Z,2,15:57,04:03,Penalty,Roughing,-75.0,-3.0,Nick Ritchie,PenaltyOn,Anaheim Ducks,Vladimir Sobotka,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:43:46Z,2,15:57,04:03,Faceoff,n/a,69.0,-22.0,Derek Grant,Winner,Anaheim Ducks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:42:43Z,2,17:18,02:42,Shot,Wrist Shot,34.0,-2.0,Rasmus Dahlin,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:43:33Z,2,17:19,02:41,Faceoff,n/a,69.0,-22.0,Kyle Okposo,Winner,Buffalo Sabres,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:43:48Z,2,17:46,02:14,Missed Shot,n/a,63.0,-16.0,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:51:46Z,2,17:48,02:12,Faceoff,n/a,69.0,-22.0,Derek Grant,Winner,Anaheim Ducks,Kyle Okposo,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:45:24Z,2,18:20,01:40,Giveaway,n/a,81.0,-36.0,Colin Miller,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:46:01Z,2,18:32,01:28,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:46:39Z,2,19:03,00:57,Blocked Shot,n/a,-74.0,8.0,Marco Scandella,Blocker,Buffalo Sabres,Ondrej Kase,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:46:41Z,2,19:04,00:56,Hit,n/a,-49.0,-42.0,Max Comtois,Hitter,Anaheim Ducks,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:46:55Z,2,19:19,00:41,Missed Shot,n/a,-82.0,-22.0,Ryan Getzlaf,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:47:02Z,2,19:26,00:34,Shot,Wrist Shot,-46.0,-27.0,Jacob Larsson,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:47:27Z,2,19:47,00:13,Goal,Snap Shot,-74.0,-3.0,Adam Henrique,Scorer,Anaheim Ducks,Max Comtois,Assist,Anaheim Ducks,Jakob Silfverberg,Assist,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres
+2019-10-17T03:48:01Z,2,19:47,00:13,Faceoff,n/a,0.0,0.0,Adam Henrique,Winner,Anaheim Ducks,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:48:59Z,2,20:00,00:00,Penalty,Delaying Game - Smothering puck,33.0,40.0,Korbinian Holzer,PenaltyOn,Anaheim Ducks,Zemgus Girgensons,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:51:44Z,2,20:00,00:00,Penalty,Roughing,40.0,39.0,Adam Henrique,PenaltyOn,Anaheim Ducks,Johan Larsson,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T03:51:59Z,2,20:00,00:00,Penalty,Roughing,42.0,40.0,Johan Larsson,PenaltyOn,Buffalo Sabres,Adam Henrique,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:09:22Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Grant,Winner,Anaheim Ducks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:09:38Z,3,00:31,19:29,Giveaway,n/a,-81.0,-32.0,Victor Olofsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:10:26Z,3,01:19,18:41,Takeaway,n/a,-46.0,12.0,Rickard Rakell,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:11:26Z,3,02:19,17:41,Hit,n/a,53.0,-33.0,Kyle Okposo,Hitter,Buffalo Sabres,Max Jones,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:12:03Z,3,02:56,17:04,Missed Shot,n/a,-48.0,-27.0,Marco Scandella,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:12:14Z,3,03:07,16:53,Giveaway,n/a,-41.0,8.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:12:22Z,3,03:15,16:45,Hit,n/a,52.0,40.0,Jake McCabe,Hitter,Buffalo Sabres,Max Comtois,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:12:27Z,3,03:20,16:40,Hit,n/a,96.0,-24.0,Jake McCabe,Hitter,Buffalo Sabres,Max Comtois,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:12:56Z,3,03:22,16:38,Missed Shot,n/a,95.0,11.0,Max Comtois,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:13:11Z,3,03:23,16:37,Faceoff,n/a,69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:13:47Z,3,03:53,16:07,Missed Shot,n/a,-74.0,14.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:14:34Z,3,03:54,16:06,Faceoff,n/a,-20.0,-22.0,Marcus Johansson,Winner,Buffalo Sabres,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:15:08Z,3,04:12,15:48,Shot,Wrist Shot,-64.0,27.0,Cam Fowler,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:15:52Z,3,04:13,15:47,Faceoff,n/a,69.0,22.0,Sam Steel,Winner,Anaheim Ducks,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:16:39Z,3,05:09,14:51,Shot,Wrist Shot,-68.0,-13.0,Casey Mittelstadt,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:16:52Z,3,05:22,14:38,Hit,n/a,-37.0,-37.0,Korbinian Holzer,Hitter,Anaheim Ducks,Zemgus Girgensons,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:17:03Z,3,05:23,14:37,Blocked Shot,n/a,-81.0,11.0,Derek Grant,Blocker,Anaheim Ducks,Jimmy Vesey,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:16:57Z,3,05:27,14:33,Giveaway,n/a,-98.0,5.0,Jacob Larsson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:17:11Z,3,05:33,14:27,Penalty,Hooking,-69.0,32.0,Jacob Larsson,PenaltyOn,Anaheim Ducks,Jack Eichel,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:17:55Z,3,05:33,14:27,Faceoff,n/a,-69.0,22.0,Derek Grant,Winner,Anaheim Ducks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:18:52Z,3,06:34,13:26,Shot,Tip-In,79.0,2.0,Jakob Silfverberg,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:19:01Z,3,06:42,13:18,Giveaway,n/a,-57.0,26.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:19:07Z,3,06:49,13:11,Missed Shot,n/a,56.0,12.0,Jakob Silfverberg,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:20:10Z,3,07:52,12:08,Giveaway,n/a,92.0,26.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:20:14Z,3,07:56,12:04,Blocked Shot,n/a,74.0,-16.0,Jake McCabe,Blocker,Buffalo Sabres,Ondrej Kase,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:23:19Z,3,08:29,11:31,Faceoff,n/a,-20.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:23:25Z,3,08:41,11:19,Hit,n/a,-98.0,-5.0,Jimmy Vesey,Hitter,Buffalo Sabres,Korbinian Holzer,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:23:52Z,3,08:47,11:13,Faceoff,n/a,-69.0,22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Sam Reinhart,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:24:31Z,3,09:00,11:00,Giveaway,n/a,-96.0,-8.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:24:52Z,3,09:21,10:39,Shot,Wrist Shot,65.0,6.0,Derek Grant,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:25:36Z,3,10:05,09:55,Takeaway,n/a,16.0,36.0,Rickard Rakell,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:25:40Z,3,10:14,09:46,Missed Shot,n/a,63.0,13.0,Adam Henrique,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:26:17Z,3,10:18,09:42,Faceoff,n/a,69.0,22.0,Sam Steel,Winner,Anaheim Ducks,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:26:34Z,3,10:30,09:30,Missed Shot,n/a,70.0,-9.0,Troy Terry,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:26:47Z,3,10:42,09:18,Takeaway,n/a,15.0,22.0,Troy Terry,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:26:53Z,3,10:48,09:12,Shot,Wrist Shot,81.0,10.0,Troy Terry,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:27:00Z,3,10:56,09:04,Takeaway,n/a,90.0,30.0,Troy Terry,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:27:04Z,3,11:00,09:00,Shot,Snap Shot,34.0,7.0,Korbinian Holzer,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:27:31Z,3,11:26,08:34,Blocked Shot,n/a,-67.0,-12.0,Korbinian Holzer,Blocker,Anaheim Ducks,Johan Larsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:27:49Z,3,11:44,08:16,Hit,n/a,34.0,37.0,Henri Jokiharju,Hitter,Buffalo Sabres,Adam Henrique,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:28:13Z,3,12:04,07:56,Blocked Shot,n/a,-61.0,-24.0,Michael Del Zotto,Blocker,Anaheim Ducks,Jake McCabe,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:30:52Z,3,12:07,07:53,Faceoff,n/a,-69.0,-22.0,Derek Grant,Winner,Anaheim Ducks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:31:10Z,3,12:34,07:26,Shot,Slap Shot,-48.0,33.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:31:52Z,3,12:34,07:26,Faceoff,n/a,-69.0,22.0,Vladimir Sobotka,Winner,Buffalo Sabres,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:31:54Z,3,12:41,07:19,Shot,Wrist Shot,-83.0,28.0,Jeff Skinner,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:32:47Z,3,13:02,06:58,Giveaway,n/a,-57.0,7.0,Ryan Getzlaf,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:32:17Z,3,13:03,06:57,Blocked Shot,n/a,-69.0,-15.0,Korbinian Holzer,Blocker,Anaheim Ducks,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:32:27Z,3,13:04,06:56,Shot,Wrist Shot,-48.0,2.0,Jeff Skinner,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:33:08Z,3,13:05,06:55,Faceoff,n/a,-69.0,-22.0,Adam Henrique,Winner,Anaheim Ducks,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:33:24Z,3,13:21,06:39,Shot,Wrist Shot,70.0,-27.0,Jakob Silfverberg,Shooter,Anaheim Ducks,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:33:35Z,3,13:32,06:28,Hit,n/a,78.0,5.0,Rickard Rakell,Hitter,Anaheim Ducks,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:34:15Z,3,14:12,05:48,Takeaway,n/a,47.0,38.0,Jake McCabe,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:34:57Z,3,14:54,05:06,Shot,Wrist Shot,-33.0,18.0,Jack Eichel,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:35:10Z,3,15:06,04:54,Blocked Shot,n/a,73.0,-13.0,Marco Scandella,Blocker,Buffalo Sabres,Carter Rowney,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:36:27Z,3,16:18,03:42,Missed Shot,n/a,-79.0,-19.0,Casey Mittelstadt,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:38:43Z,3,16:19,03:41,Faceoff,n/a,-69.0,-22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:39:38Z,3,16:32,03:28,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:39:49Z,3,16:43,03:17,Giveaway,n/a,-63.0,-37.0,Sam Reinhart,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:40:00Z,3,16:47,03:13,Goal,Wrist Shot,-71.0,-38.0,Jakob Silfverberg,Scorer,Anaheim Ducks,Josh Manson,Assist,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:41:43Z,3,16:47,03:13,Faceoff,n/a,0.0,0.0,Sam Steel,Winner,Anaheim Ducks,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:40:51Z,3,17:05,02:55,Hit,n/a,-56.0,-38.0,Korbinian Holzer,Hitter,Anaheim Ducks,Casey Mittelstadt,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:41:00Z,3,17:13,02:47,Blocked Shot,n/a,-74.0,7.0,Korbinian Holzer,Blocker,Anaheim Ducks,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:41:17Z,3,17:30,02:30,Missed Shot,n/a,-47.0,-33.0,Marco Scandella,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:42:06Z,3,18:19,01:41,Hit,n/a,86.0,30.0,Vladimir Sobotka,Hitter,Buffalo Sabres,Carter Rowney,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:42:12Z,3,18:25,01:35,Blocked Shot,n/a,70.0,-2.0,Jake McCabe,Blocker,Buffalo Sabres,Michael Del Zotto,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:42:55Z,3,19:08,00:52,Giveaway,n/a,-89.0,-14.0,Josh Manson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:43:07Z,3,19:20,00:40,Missed Shot,n/a,-72.0,-12.0,Jimmy Vesey,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:43:15Z,3,19:27,00:33,Shot,Snap Shot,-75.0,13.0,Jeff Skinner,Shooter,Buffalo Sabres,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:43:28Z,3,19:40,00:20,Hit,n/a,96.0,13.0,Colin Miller,Hitter,Buffalo Sabres,Hampus Lindholm,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:43:45Z,3,19:47,00:13,Penalty,Hi-sticking,76.0,8.0,Jeff Skinner,PenaltyOn,Buffalo Sabres,Max Comtois,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:44:16Z,3,19:47,00:13,Penalty,Hi-sticking,70.0,-12.0,Max Comtois,PenaltyOn,Anaheim Ducks,Jeff Skinner,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T04:51:30Z,3,19:47,00:13,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Nick Ritchie,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a

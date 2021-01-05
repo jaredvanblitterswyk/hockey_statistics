@@ -1,0 +1,266 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-18T02:08:13Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,J.T. Compher,Winner,Colorado Avalanche,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:09:12Z,1,00:11,19:49,Faceoff,n/a,-69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:09:45Z,1,00:30,19:30,Blocked Shot,n/a,64.0,4.0,Samuel Girard,Blocker,Colorado Avalanche,Anthony Cirelli,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:09:49Z,1,00:34,19:26,Takeaway,n/a,-22.0,-34.0,Gabriel Landeskog,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:10:11Z,1,00:35,19:25,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:11:03Z,1,00:55,19:05,Faceoff,n/a,69.0,22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:11:32Z,1,01:07,18:53,Takeaway,n/a,22.0,-39.0,Alex Killorn,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:11:40Z,1,01:12,18:48,Missed Shot,n/a,58.0,-1.0,Alex Killorn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:11:39Z,1,01:15,18:45,Missed Shot,n/a,84.0,-7.0,Ondrej Palat,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:12:17Z,1,01:52,18:08,Hit,n/a,-32.0,-42.0,Luke Schenn,Hitter,Tampa Bay Lightning,Valeri Nichushkin,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:12:24Z,1,01:58,18:02,Missed Shot,n/a,-76.0,8.0,Matt Nieto,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:12:29Z,1,02:04,17:56,Takeaway,n/a,-57.0,-36.0,Pierre-Edouard Bellemare,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:12:40Z,1,02:14,17:46,Shot,Slap Shot,-30.0,34.0,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:12:50Z,1,02:20,17:40,Shot,Tip-In,23.0,13.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:13:22Z,1,02:56,17:04,Hit,n/a,87.0,36.0,Erik Johnson,Hitter,Colorado Avalanche,Yanni Gourde,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:13:33Z,1,03:06,16:54,Hit,n/a,-96.0,-17.0,Kevin Shattenkirk,Hitter,Tampa Bay Lightning,Tyson Jost,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:13:42Z,1,03:17,16:43,Hit,n/a,93.0,-14.0,Ryan Graves,Hitter,Colorado Avalanche,Mitchell Stephens,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:14:01Z,1,03:28,16:32,Penalty,Hooking,-74.0,-38.0,Yanni Gourde,PenaltyOn,Tampa Bay Lightning,J.T. Compher,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:14:27Z,1,03:28,16:32,Faceoff,n/a,-69.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:14:40Z,1,03:38,16:22,Shot,Snap Shot,-64.0,7.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:15:03Z,1,03:58,16:02,Hit,n/a,-50.0,-38.0,Erik Cernak,Hitter,Tampa Bay Lightning,Nathan MacKinnon,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:15:03Z,1,04:01,15:59,Shot,Tip-In,-73.0,7.0,Gabriel Landeskog,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:15:39Z,1,04:37,15:23,Blocked Shot,n/a,-67.0,1.0,Cedric Paquette,Blocker,Tampa Bay Lightning,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:15:53Z,1,04:49,15:11,Goal,Wrist Shot,-81.0,-4.0,Andre Burakovsky,Scorer,Colorado Avalanche,Mikko Rantanen,Assist,Colorado Avalanche,Nathan MacKinnon,Assist,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning
+2020-02-18T02:16:37Z,1,04:49,15:11,Faceoff,n/a,0.0,0.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:17:14Z,1,05:20,14:40,Takeaway,n/a,31.0,-19.0,Samuel Girard,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:17:55Z,1,05:59,14:01,Takeaway,n/a,-95.0,-1.0,T.J. Tynan,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:17:54Z,1,06:02,13:58,Shot,Wrist Shot,-62.0,-24.0,Nikita Zadorov,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:18:20Z,1,06:28,13:32,Shot,Slap Shot,-51.0,-19.0,Ryan Graves,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:18:32Z,1,06:41,13:19,Missed Shot,n/a,-34.0,-7.0,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:18:40Z,1,06:48,13:12,Shot,Backhand,-80.0,11.0,Mikko Rantanen,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:18:48Z,1,06:49,13:11,Missed Shot,n/a,-77.0,-1.0,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:18:48Z,1,06:56,13:04,Blocked Shot,n/a,-65.0,-12.0,Cedric Paquette,Blocker,Tampa Bay Lightning,Ryan Graves,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:18:20Z,1,07:13,12:47,Missed Shot,n/a,84.0,-5.0,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:19:25Z,1,07:32,12:28,Missed Shot,n/a,33.0,-29.0,Erik Cernak,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:19:40Z,1,07:46,12:14,Blocked Shot,n/a,43.0,-4.0,Gabriel Landeskog,Blocker,Colorado Avalanche,Erik Cernak,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:19:47Z,1,07:53,12:07,Shot,Wrist Shot,34.0,-29.0,Ondrej Palat,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:19:58Z,1,08:04,11:56,Shot,Wrist Shot,51.0,28.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:21:49Z,1,08:04,11:56,Faceoff,n/a,69.0,22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:22:24Z,1,08:13,11:47,Shot,Wrist Shot,86.0,-26.0,Carter Verhaeghe,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:22:38Z,1,08:13,11:47,Faceoff,n/a,69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:22:59Z,1,08:20,11:40,Blocked Shot,n/a,84.0,-5.0,Ian Cole,Blocker,Colorado Avalanche,Carter Verhaeghe,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:23:14Z,1,08:32,11:28,Hit,n/a,-90.0,-34.0,Valeri Nichushkin,Hitter,Colorado Avalanche,Luke Schenn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:23:38Z,1,08:36,11:24,Faceoff,n/a,20.0,-22.0,Mikko Rantanen,Winner,Colorado Avalanche,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:24:01Z,1,08:51,11:09,Hit,n/a,-74.0,40.0,Erik Cernak,Hitter,Tampa Bay Lightning,Mikko Rantanen,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:24:28Z,1,09:20,10:40,Blocked Shot,n/a,74.0,-13.0,Ryan Graves,Blocker,Colorado Avalanche,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:24:38Z,1,09:31,10:29,Shot,Wrist Shot,54.0,-31.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:24:58Z,1,09:31,10:29,Faceoff,n/a,69.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:25:19Z,1,09:37,10:23,Giveaway,n/a,97.0,1.0,Samuel Girard,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:25:39Z,1,09:46,10:14,Faceoff,n/a,-20.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:26:14Z,1,10:04,09:56,Shot,Wrist Shot,-76.0,-26.0,Joonas Donskoi,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:26:32Z,1,10:22,09:38,Shot,Slap Shot,30.0,-25.0,Luke Schenn,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:26:48Z,1,10:35,09:25,Hit,n/a,-97.0,-12.0,Cameron Gaunce,Hitter,Tampa Bay Lightning,Joonas Donskoi,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:27:18Z,1,11:06,08:54,Takeaway,n/a,77.0,19.0,Nathan MacKinnon,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:29:15Z,1,11:23,08:37,Faceoff,n/a,20.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Mikko Rantanen,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:29:53Z,1,11:39,08:21,Takeaway,n/a,98.0,-20.0,Alex Killorn,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:30:02Z,1,11:51,08:09,Hit,n/a,92.0,-33.0,Ryan Graves,Hitter,Colorado Avalanche,Alex Killorn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:30:09Z,1,11:58,08:02,Shot,Wrist Shot,-71.0,17.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:30:16Z,1,12:06,07:54,Missed Shot,n/a,-75.0,-20.0,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:30:23Z,1,12:13,07:47,Hit,n/a,-65.0,35.0,Cale Makar,Hitter,Colorado Avalanche,Anthony Cirelli,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:31:19Z,1,13:08,06:52,Hit,n/a,-46.0,38.0,Kevin Shattenkirk,Hitter,Tampa Bay Lightning,J.T. Compher,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:31:46Z,1,13:35,06:25,Hit,n/a,-68.0,39.0,Luke Schenn,Hitter,Tampa Bay Lightning,Tyson Jost,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:32:21Z,1,14:09,05:51,Shot,Tip-In,63.0,15.0,Mitchell Stephens,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:34:24Z,1,14:09,05:51,Faceoff,n/a,69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:34:50Z,1,14:21,05:39,Blocked Shot,n/a,71.0,4.0,Ian Cole,Blocker,Colorado Avalanche,Cameron Gaunce,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:34:49Z,1,14:22,05:38,Shot,Wrist Shot,30.0,-21.0,Luke Schenn,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:34:58Z,1,14:30,05:30,Shot,Wrist Shot,-35.0,-16.0,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:35:20Z,1,14:37,05:23,Faceoff,n/a,-69.0,-22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Mikko Rantanen,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:35:50Z,1,14:42,05:18,Faceoff,n/a,-69.0,-22.0,Mikko Rantanen,Winner,Colorado Avalanche,Alex Killorn,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:36:28Z,1,14:58,05:02,Giveaway,n/a,74.0,36.0,Ondrej Palat,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:36:56Z,1,15:24,04:36,Hit,n/a,73.0,41.0,Mikhail Sergachev,Hitter,Tampa Bay Lightning,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:37:27Z,1,15:38,04:22,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:37:37Z,1,15:40,04:20,Shot,Wrist Shot,52.0,0.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:37:45Z,1,15:45,04:15,Missed Shot,n/a,80.0,0.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:38:14Z,1,15:46,04:14,Shot,Wrist Shot,81.0,-1.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:38:15Z,1,16:17,03:43,Blocked Shot,n/a,-52.0,23.0,Brayden Point,Blocker,Tampa Bay Lightning,Erik Johnson,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:38:45Z,1,16:50,03:10,Blocked Shot,n/a,-57.0,-2.0,Luke Schenn,Blocker,Tampa Bay Lightning,Vladislav Kamenev,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:39:16Z,1,17:21,02:39,Hit,n/a,-34.0,39.0,Cedric Paquette,Hitter,Tampa Bay Lightning,T.J. Tynan,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:39:48Z,1,17:27,02:33,Faceoff,n/a,69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:40:20Z,1,17:44,02:16,Missed Shot,n/a,78.0,8.0,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:40:27Z,1,17:51,02:09,Missed Shot,n/a,31.0,6.0,Erik Cernak,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:40:36Z,1,18:00,02:00,Hit,n/a,-37.0,39.0,Erik Cernak,Hitter,Tampa Bay Lightning,Pierre-Edouard Bellemare,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:40:41Z,1,18:03,01:57,Hit,n/a,-64.0,41.0,Valeri Nichushkin,Hitter,Colorado Avalanche,Victor Hedman,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:40:46Z,1,18:10,01:50,Hit,n/a,68.0,2.0,Erik Johnson,Hitter,Colorado Avalanche,Carter Verhaeghe,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:41:18Z,1,18:16,01:44,Takeaway,n/a,-82.0,1.0,Mikhail Sergachev,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:41:29Z,1,18:23,01:37,Faceoff,n/a,20.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Mikko Rantanen,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:41:52Z,1,18:46,01:14,Blocked Shot,n/a,50.0,22.0,Mikko Rantanen,Blocker,Colorado Avalanche,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:41:56Z,1,18:51,01:09,Takeaway,n/a,42.0,-25.0,Andre Burakovsky,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:42:12Z,1,18:59,01:01,Missed Shot,n/a,-85.0,5.0,Ryan Graves,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:42:16Z,1,19:01,00:59,Penalty,Interference - Goalkeeper,-84.0,0.0,Ryan Graves,PenaltyOn,Colorado Avalanche,Curtis McElhinney,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:43:03Z,1,19:01,00:59,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:43:52Z,1,19:44,00:16,Blocked Shot,n/a,81.0,0.0,Ian Cole,Blocker,Colorado Avalanche,Anthony Cirelli,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T02:44:05Z,1,19:59,00:01,Takeaway,n/a,75.0,2.0,Ian Cole,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:02:35Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:04:01Z,2,01:25,18:35,Giveaway,n/a,-98.0,4.0,Ian Cole,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:04:05Z,2,01:29,18:31,Blocked Shot,n/a,-69.0,7.0,Nathan MacKinnon,Blocker,Colorado Avalanche,Ondrej Palat,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:04:14Z,2,01:39,18:21,Shot,Wrist Shot,-33.0,-1.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:04:27Z,2,01:52,18:08,Giveaway,n/a,-27.0,-22.0,Mikhail Sergachev,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:04:30Z,2,01:54,18:06,Missed Shot,n/a,77.0,3.0,Andre Burakovsky,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:04:42Z,2,02:07,17:53,Missed Shot,n/a,31.0,23.0,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:04:46Z,2,02:10,17:50,Hit,n/a,97.0,-12.0,Andre Burakovsky,Hitter,Colorado Avalanche,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:05:33Z,2,02:28,17:32,Faceoff,n/a,20.0,-22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Tyson Jost,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:05:40Z,2,02:35,17:25,Hit,n/a,19.0,40.0,Tyson Jost,Hitter,Colorado Avalanche,Yanni Gourde,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:05:59Z,2,02:55,17:05,Hit,n/a,19.0,-40.0,Luke Schenn,Hitter,Tampa Bay Lightning,T.J. Tynan,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:06:32Z,2,03:09,16:51,Faceoff,n/a,69.0,22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:07:16Z,2,03:27,16:33,Shot,Wrist Shot,83.0,0.0,Gabriel Landeskog,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:07:48Z,2,03:28,16:32,Faceoff,n/a,20.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:08:13Z,2,03:45,16:15,Hit,n/a,99.0,-10.0,Joonas Donskoi,Hitter,Colorado Avalanche,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:08:45Z,2,04:14,15:46,Hit,n/a,94.0,-28.0,Brayden Point,Hitter,Tampa Bay Lightning,Mikko Rantanen,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:08:45Z,2,04:15,15:45,Hit,n/a,90.0,-32.0,Kevin Shattenkirk,Hitter,Tampa Bay Lightning,Andre Burakovsky,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:08:53Z,2,04:21,15:39,Hit,n/a,62.0,41.0,Steven Stamkos,Hitter,Tampa Bay Lightning,Samuel Girard,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:09:10Z,2,04:22,15:38,Blocked Shot,n/a,61.0,10.0,Victor Hedman,Blocker,Tampa Bay Lightning,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:09:10Z,2,04:40,15:20,Takeaway,n/a,34.0,24.0,Ondrej Palat,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:09:25Z,2,04:54,15:06,Goal,Snap Shot,-75.0,-11.0,Alex Killorn,Scorer,Tampa Bay Lightning,Ondrej Palat,Assist,Tampa Bay Lightning,Anthony Cirelli,Assist,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche
+2020-02-18T03:09:57Z,2,04:54,15:06,Faceoff,n/a,0.0,0.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:10:31Z,2,05:06,14:54,Takeaway,n/a,-76.0,-40.0,Ian Cole,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:10:31Z,2,05:07,14:53,Giveaway,n/a,-72.0,-40.0,Ian Cole,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:10:31Z,2,05:10,14:50,Goal,Slap Shot,-31.0,-29.0,Cameron Gaunce,Scorer,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:11:09Z,2,05:10,14:50,Faceoff,n/a,0.0,0.0,Tyson Jost,Winner,Colorado Avalanche,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:11:26Z,2,05:28,14:32,Hit,n/a,33.0,39.0,Luke Schenn,Hitter,Tampa Bay Lightning,Tyson Jost,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:12:58Z,2,07:00,13:00,Takeaway,n/a,97.0,-2.0,Victor Hedman,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:13:19Z,2,07:18,12:42,Penalty,Tripping,88.0,9.0,Erik Cernak,PenaltyOn,Tampa Bay Lightning,Mikko Rantanen,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:15:38Z,2,07:18,12:42,Faceoff,n/a,69.0,22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:16:48Z,2,07:40,12:20,Hit,n/a,96.0,-19.0,Valeri Nichushkin,Hitter,Colorado Avalanche,Victor Hedman,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:16:48Z,2,08:12,11:48,Missed Shot,n/a,79.0,-20.0,Andre Burakovsky,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:17:36Z,2,08:42,11:18,Faceoff,n/a,20.0,22.0,Tyson Jost,Winner,Colorado Avalanche,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:17:56Z,2,08:55,11:05,Takeaway,n/a,24.0,12.0,Cedric Paquette,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:18:52Z,2,09:33,10:27,Faceoff,n/a,69.0,22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:19:34Z,2,09:38,10:22,Missed Shot,n/a,30.0,-8.0,Ryan Graves,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:20:08Z,2,10:12,09:48,Hit,n/a,-95.0,29.0,Steven Stamkos,Hitter,Tampa Bay Lightning,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:20:17Z,2,10:22,09:38,Takeaway,n/a,76.0,37.0,Kevin Shattenkirk,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:20:30Z,2,10:31,09:29,Shot,Wrist Shot,-4.0,-42.0,Alex Killorn,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:23:27Z,2,10:42,09:18,Giveaway,n/a,93.0,24.0,Luke Schenn,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:20:45Z,2,10:49,09:11,Missed Shot,n/a,33.0,34.0,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:17:56Z,2,10:50,09:10,Giveaway,n/a,93.0,-22.0,Anthony Cirelli,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:20:52Z,2,10:57,09:03,Shot,Snap Shot,84.0,-10.0,Matt Nieto,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:21:34Z,2,11:38,08:22,Hit,n/a,-38.0,-34.0,Erik Cernak,Hitter,Tampa Bay Lightning,Joonas Donskoi,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:23:37Z,2,11:39,08:21,Faceoff,n/a,-20.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:24:56Z,2,12:52,07:08,Takeaway,n/a,96.0,2.0,Nikita Kucherov,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:25:04Z,2,12:59,07:01,Missed Shot,n/a,-49.0,-17.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:25:15Z,2,13:10,06:50,Blocked Shot,n/a,-47.0,3.0,Gabriel Landeskog,Blocker,Colorado Avalanche,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:25:36Z,2,13:31,06:29,Blocked Shot,n/a,80.0,-6.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Andre Burakovsky,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:25:53Z,2,13:42,06:18,Shot,Wrist Shot,-83.0,-1.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:25:53Z,2,13:43,06:17,Goal,Backhand,-84.0,-6.0,Steven Stamkos,Scorer,Tampa Bay Lightning,Brayden Point,Assist,Tampa Bay Lightning,Kevin Shattenkirk,Assist,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche
+2020-02-18T03:26:38Z,2,13:43,06:17,Faceoff,n/a,0.0,0.0,Nathan MacKinnon,Winner,Colorado Avalanche,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:26:44Z,2,13:53,06:07,Blocked Shot,n/a,70.0,-2.0,Victor Hedman,Blocker,Tampa Bay Lightning,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:26:57Z,2,14:06,05:54,Hit,n/a,29.0,-38.0,Valeri Nichushkin,Hitter,Colorado Avalanche,Carter Verhaeghe,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:27:08Z,2,14:16,05:44,Shot,Wrist Shot,73.0,-7.0,Joonas Donskoi,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:27:45Z,2,14:54,05:06,Blocked Shot,n/a,45.0,8.0,Anthony Cirelli,Blocker,Tampa Bay Lightning,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:28:00Z,2,15:09,04:51,Hit,n/a,-37.0,40.0,Anthony Cirelli,Hitter,Tampa Bay Lightning,Samuel Girard,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:28:05Z,2,15:13,04:47,Shot,Backhand,-78.0,5.0,Alex Killorn,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:30:11Z,2,15:13,04:47,Faceoff,n/a,-69.0,22.0,Tyler Johnson,Winner,Tampa Bay Lightning,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:30:52Z,2,15:20,04:40,Blocked Shot,n/a,-61.0,30.0,J.T. Compher,Blocker,Colorado Avalanche,Pat Maroon,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:31:27Z,2,15:55,04:05,Hit,n/a,94.0,-28.0,Mikhail Sergachev,Hitter,Tampa Bay Lightning,J.T. Compher,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:32:00Z,2,16:18,03:42,Faceoff,n/a,69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:32:18Z,2,16:25,03:35,Blocked Shot,n/a,75.0,-12.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:32:46Z,2,16:51,03:09,Missed Shot,n/a,-30.0,-33.0,Anthony Cirelli,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:32:51Z,2,16:58,03:02,Missed Shot,n/a,-45.0,31.0,Erik Cernak,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:33:23Z,2,17:02,02:58,Faceoff,n/a,-69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:33:38Z,2,17:04,02:56,Takeaway,n/a,-65.0,-26.0,Joonas Donskoi,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:33:45Z,2,17:06,02:54,Takeaway,n/a,19.0,-22.0,Erik Cernak,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:34:00Z,2,17:31,02:29,Shot,Slap Shot,31.0,-19.0,Ian Cole,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:34:22Z,2,17:52,02:08,Missed Shot,n/a,56.0,27.0,Erik Johnson,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:34:39Z,2,18:10,01:50,Giveaway,n/a,49.0,41.0,Nikita Zadorov,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:34:47Z,2,18:18,01:42,Takeaway,n/a,-48.0,37.0,Erik Johnson,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:34:56Z,2,18:26,01:34,Goal,Wrist Shot,68.0,-10.0,Nathan MacKinnon,Scorer,Colorado Avalanche,Gabriel Landeskog,Assist,Colorado Avalanche,Erik Johnson,Assist,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning
+2020-02-18T03:35:32Z,2,18:26,01:34,Faceoff,n/a,0.0,0.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:35:51Z,2,18:44,01:16,Takeaway,n/a,30.0,17.0,Alex Killorn,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:36:04Z,2,18:55,01:05,Missed Shot,n/a,-85.0,6.0,Ondrej Palat,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:36:36Z,2,19:27,00:33,Shot,Slap Shot,-38.0,1.0,Yanni Gourde,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:36:47Z,2,19:39,00:21,Missed Shot,n/a,-68.0,3.0,Mitchell Stephens,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:37:15Z,2,19:40,00:20,Faceoff,n/a,-69.0,-22.0,J.T. Compher,Winner,Colorado Avalanche,Yanni Gourde,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:56:28Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Nathan MacKinnon,Winner,Colorado Avalanche,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:57:07Z,3,00:38,19:22,Shot,Slap Shot,29.0,-16.0,Erik Cernak,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:57:35Z,3,00:38,19:22,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:58:04Z,3,00:47,19:13,Faceoff,n/a,-20.0,-22.0,J.T. Compher,Winner,Colorado Avalanche,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:58:36Z,3,01:08,18:52,Hit,n/a,-99.0,13.0,Valeri Nichushkin,Hitter,Colorado Avalanche,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:58:53Z,3,01:23,18:37,Missed Shot,n/a,-69.0,6.0,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:59:01Z,3,01:33,18:27,Shot,Snap Shot,75.0,13.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:59:10Z,3,01:37,18:23,Shot,Wrist Shot,71.0,3.0,Luke Schenn,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T03:59:27Z,3,01:38,18:22,Faceoff,n/a,69.0,-22.0,Tyler Johnson,Winner,Tampa Bay Lightning,Vladislav Kamenev,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:00:18Z,3,02:14,17:46,Shot,Wrist Shot,35.0,29.0,Cameron Gaunce,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:01:01Z,3,02:14,17:46,Faceoff,n/a,69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:01:29Z,3,02:38,17:22,Shot,Snap Shot,-31.0,24.0,Cale Makar,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:01:45Z,3,02:38,17:22,Faceoff,n/a,-69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:01:59Z,3,02:42,17:18,Shot,Slap Shot,-30.0,20.0,Cale Makar,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:02:16Z,3,02:43,17:17,Faceoff,n/a,-69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:02:50Z,3,03:07,16:53,Takeaway,n/a,30.0,-27.0,Nathan MacKinnon,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:03:03Z,3,03:22,16:38,Blocked Shot,n/a,65.0,3.0,Cale Makar,Blocker,Colorado Avalanche,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:03:29Z,3,03:49,16:11,Blocked Shot,n/a,-64.0,-2.0,Steven Stamkos,Blocker,Tampa Bay Lightning,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:03:51Z,3,04:11,15:49,Blocked Shot,n/a,-54.0,2.0,Kevin Shattenkirk,Blocker,Tampa Bay Lightning,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:04:11Z,3,04:31,15:29,Hit,n/a,-27.0,-39.0,Luke Schenn,Hitter,Tampa Bay Lightning,Joonas Donskoi,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:04:57Z,3,05:16,14:44,Hit,n/a,13.0,-40.0,Pat Maroon,Hitter,Tampa Bay Lightning,Andre Burakovsky,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:05:04Z,3,05:24,14:36,Hit,n/a,32.0,41.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Erik Johnson,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:05:26Z,3,05:46,14:14,Hit,n/a,-76.0,-20.0,Erik Cernak,Hitter,Tampa Bay Lightning,Nathan MacKinnon,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:05:47Z,3,06:03,13:57,Shot,Wrist Shot,36.0,-29.0,Ondrej Palat,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:08:02Z,3,06:04,13:56,Faceoff,n/a,69.0,-22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Tyson Jost,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:09:16Z,3,06:37,13:23,Faceoff,n/a,-20.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:09:44Z,3,06:46,13:14,Faceoff,n/a,-69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:10:20Z,3,07:17,12:43,Takeaway,n/a,36.0,-38.0,Gabriel Landeskog,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:10:35Z,3,07:32,12:28,Hit,n/a,-76.0,-40.0,Ondrej Palat,Hitter,Tampa Bay Lightning,Andre Burakovsky,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:10:40Z,3,07:35,12:25,Hit,n/a,-49.0,41.0,Anthony Cirelli,Hitter,Tampa Bay Lightning,Ian Cole,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:10:54Z,3,07:49,12:11,Shot,Wrist Shot,-65.0,-1.0,Matt Nieto,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:11:21Z,3,08:17,11:43,Hit,n/a,-99.0,14.0,Pierre-Edouard Bellemare,Hitter,Colorado Avalanche,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:11:29Z,3,08:26,11:34,Hit,n/a,-31.0,41.0,Cameron Gaunce,Hitter,Tampa Bay Lightning,Pierre-Edouard Bellemare,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:11:35Z,3,08:31,11:29,Missed Shot,n/a,-57.0,1.0,Nikita Zadorov,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:13:37Z,3,08:51,11:09,Penalty,Interference - Goalkeeper,-85.0,1.0,J.T. Compher,PenaltyOn,Colorado Avalanche,Curtis McElhinney,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:14:11Z,3,08:51,11:09,Penalty,Roughing,-85.0,35.0,Nikita Zadorov,PenaltyOn,Colorado Avalanche,Pat Maroon,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:14:27Z,3,08:51,11:09,Penalty,Roughing,-82.0,38.0,Pat Maroon,PenaltyOn,Tampa Bay Lightning,Nikita Zadorov,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:15:06Z,3,08:51,11:09,Penalty,Roughing,-84.0,35.0,Mikhail Sergachev,PenaltyOn,Tampa Bay Lightning,J.T. Compher,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:15:16Z,3,08:51,11:09,Faceoff,n/a,-20.0,22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:16:04Z,3,09:44,10:16,Shot,Slap Shot,22.0,19.0,Victor Hedman,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:16:15Z,3,09:53,10:07,Shot,Tip-In,78.0,3.0,Yanni Gourde,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:16:41Z,3,09:53,10:07,Faceoff,n/a,69.0,22.0,Tyson Jost,Winner,Colorado Avalanche,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:17:17Z,3,10:15,09:45,Missed Shot,n/a,37.0,-13.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:17:36Z,3,10:29,09:31,Penalty,Holding,-65.0,1.0,Cameron Gaunce,PenaltyOn,Tampa Bay Lightning,Tyson Jost,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:20:05Z,3,10:29,09:31,Faceoff,n/a,-69.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:20:20Z,3,10:51,09:09,Hit,n/a,-41.0,39.0,Steven Stamkos,Hitter,Tampa Bay Lightning,Andre Burakovsky,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:20:38Z,3,11:09,08:51,Shot,Slap Shot,-64.0,-27.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:20:43Z,3,11:14,08:46,Blocked Shot,n/a,-75.0,-14.0,Erik Cernak,Blocker,Tampa Bay Lightning,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:20:48Z,3,11:19,08:41,Blocked Shot,n/a,-56.0,15.0,Anthony Cirelli,Blocker,Tampa Bay Lightning,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:47:05Z,3,11:42,08:18,Faceoff,n/a,-20.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:22:21Z,3,12:01,07:59,Shot,Wrist Shot,-44.0,-22.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:22:55Z,3,12:35,07:25,Blocked Shot,n/a,-51.0,-3.0,Cedric Paquette,Blocker,Tampa Bay Lightning,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:23:04Z,3,12:43,07:17,Goal,Tip-In,-73.0,0.0,Valeri Nichushkin,Scorer,Colorado Avalanche,Cale Makar,Assist,Colorado Avalanche,Gabriel Landeskog,Assist,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning
+2020-02-18T04:24:03Z,3,12:43,07:17,Faceoff,n/a,0.0,0.0,J.T. Compher,Winner,Colorado Avalanche,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:24:21Z,3,13:07,06:53,Hit,n/a,98.0,-8.0,Steven Stamkos,Hitter,Tampa Bay Lightning,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:24:26Z,3,13:13,06:47,Shot,Wrist Shot,-57.0,19.0,J.T. Compher,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:25:14Z,3,13:13,06:47,Faceoff,n/a,-69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:25:19Z,3,13:26,06:34,Hit,n/a,-88.0,-33.0,Alex Killorn,Hitter,Tampa Bay Lightning,Tyson Jost,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:25:30Z,3,13:34,06:26,Blocked Shot,n/a,-80.0,2.0,Tyler Johnson,Blocker,Tampa Bay Lightning,Tyson Jost,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:25:38Z,3,13:45,06:15,Hit,n/a,-98.0,7.0,Kevin Shattenkirk,Hitter,Tampa Bay Lightning,Pierre-Edouard Bellemare,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:25:47Z,3,13:53,06:07,Hit,n/a,-98.0,8.0,Alex Killorn,Hitter,Tampa Bay Lightning,Ian Cole,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:26:02Z,3,13:59,06:01,Hit,n/a,1.0,38.0,Vladislav Kamenev,Hitter,Colorado Avalanche,Pat Maroon,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:26:28Z,3,14:26,05:34,Hit,n/a,-22.0,38.0,Nathan MacKinnon,Hitter,Colorado Avalanche,Ondrej Palat,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:27:29Z,3,14:30,05:30,Penalty,Cross checking,-25.0,-1.0,Anthony Cirelli,PenaltyOn,Tampa Bay Lightning,Nathan MacKinnon,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:30:35Z,3,14:30,05:30,Faceoff,n/a,-69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:31:26Z,3,15:09,04:51,Shot,Tip-In,-79.0,2.0,Gabriel Landeskog,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:31:32Z,3,15:10,04:50,Missed Shot,n/a,-86.0,9.0,Andre Burakovsky,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:31:45Z,3,15:27,04:33,Blocked Shot,n/a,-73.0,9.0,Victor Hedman,Blocker,Tampa Bay Lightning,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:32:06Z,3,15:27,04:33,Faceoff,n/a,-69.0,22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:32:29Z,3,15:47,04:13,Giveaway,n/a,-20.0,19.0,Cale Makar,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:33:09Z,3,16:27,03:33,Shot,Wrist Shot,-66.0,20.0,J.T. Compher,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:33:42Z,3,16:27,03:33,Faceoff,n/a,-69.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:33:56Z,3,16:35,03:25,Blocked Shot,n/a,-74.0,1.0,Erik Cernak,Blocker,Tampa Bay Lightning,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:33:58Z,3,16:36,03:24,Missed Shot,n/a,-79.0,38.0,J.T. Compher,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:34:23Z,3,17:02,02:58,Hit,n/a,59.0,-38.0,Erik Johnson,Hitter,Colorado Avalanche,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:34:29Z,3,17:08,02:52,Blocked Shot,n/a,69.0,12.0,Ryan Graves,Blocker,Colorado Avalanche,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:35:19Z,3,17:53,02:07,Blocked Shot,n/a,-63.0,0.0,Kevin Shattenkirk,Blocker,Tampa Bay Lightning,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:35:33Z,3,18:12,01:48,Hit,n/a,-91.0,33.0,Victor Hedman,Hitter,Tampa Bay Lightning,Pierre-Edouard Bellemare,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:35:54Z,3,18:33,01:27,Blocked Shot,n/a,-73.0,4.0,Victor Hedman,Blocker,Tampa Bay Lightning,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:36:20Z,3,18:38,01:22,Faceoff,n/a,-69.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:37:18Z,3,19:00,01:00,Hit,n/a,-50.0,37.0,Erik Cernak,Hitter,Tampa Bay Lightning,Gabriel Landeskog,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:37:26Z,3,19:07,00:53,Takeaway,n/a,55.0,-40.0,Andre Burakovsky,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:37:53Z,3,19:11,00:49,Faceoff,n/a,69.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:39:17Z,3,19:53,00:07,Missed Shot,n/a,85.0,20.0,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:41:39Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Gabriel Landeskog,Winner,Colorado Avalanche,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:42:33Z,4,00:48,04:12,Shot,Wrist Shot,-43.0,3.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:42:48Z,4,01:03,03:57,Missed Shot,n/a,-59.0,19.0,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:43:25Z,4,01:40,03:20,Shot,Wrist Shot,69.0,24.0,Andre Burakovsky,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:43:31Z,4,01:41,03:19,Shot,Backhand,76.0,1.0,Samuel Girard,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:43:43Z,4,01:52,03:08,Shot,Wrist Shot,82.0,-6.0,Samuel Girard,Shooter,Colorado Avalanche,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:44:17Z,4,02:27,02:33,Missed Shot,n/a,61.0,-28.0,Joonas Donskoi,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:44:39Z,4,02:54,02:06,Giveaway,n/a,41.0,27.0,Nathan MacKinnon,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-18T04:45:00Z,4,03:03,01:57,Goal,Wrist Shot,-70.0,1.0,Nikita Kucherov,Scorer,Tampa Bay Lightning,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a

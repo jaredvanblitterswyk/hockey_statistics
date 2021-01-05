@@ -1,0 +1,240 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-22T00:39:29Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Roope Hintz,Winner,Dallas Stars,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:40:13Z,1,00:13,19:47,Giveaway,n/a,-98.0,-1.0,Anders Nilsson,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:40:50Z,1,00:22,19:38,Faceoff,n/a,20.0,-22.0,Radek Faksa,Winner,Dallas Stars,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:41:15Z,1,00:28,19:32,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:41:39Z,1,00:34,19:26,Giveaway,n/a,56.0,25.0,Radek Faksa,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:41:43Z,1,00:36,19:24,Hit,n/a,69.0,40.0,Alexander Radulov,Hitter,Dallas Stars,Erik Brannstrom,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:41:46Z,1,00:41,19:19,Shot,Wrist Shot,-67.0,-5.0,Alexander Radulov,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:41:52Z,1,00:47,19:13,Missed Shot,n/a,-81.0,8.0,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:41:58Z,1,00:54,19:06,Missed Shot,n/a,-50.0,-19.0,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:42:09Z,1,01:05,18:55,Shot,Backhand,-77.0,-3.0,Alexander Radulov,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:42:36Z,1,01:05,18:55,Faceoff,n/a,-69.0,-22.0,Colin White,Winner,Ottawa Senators,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:42:59Z,1,01:27,18:33,Shot,Snap Shot,-77.0,22.0,Joe Pavelski,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:43:40Z,1,02:08,17:52,Shot,Wrist Shot,-40.0,15.0,John Klingberg,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:44:28Z,1,02:56,17:04,Shot,Wrist Shot,-46.0,-23.0,Esa Lindell,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:44:37Z,1,03:01,16:59,Giveaway,n/a,-58.0,40.0,Andrej Sekera,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:45:04Z,1,03:12,16:48,Faceoff,n/a,-20.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:45:54Z,1,03:35,16:25,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:46:11Z,1,03:41,16:19,Shot,Slap Shot,32.0,21.0,Erik Brannstrom,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:46:18Z,1,03:45,16:15,Hit,n/a,98.0,3.0,Radek Faksa,Hitter,Dallas Stars,Anthony Duclair,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:46:23Z,1,03:53,16:07,Blocked Shot,n/a,84.0,-8.0,Chris Tierney,Blocker,Ottawa Senators,Andrej Sekera,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:46:33Z,1,04:03,15:57,Blocked Shot,n/a,55.0,-3.0,Mattias Janmark,Blocker,Dallas Stars,Ron Hainsey,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:46:52Z,1,04:04,15:56,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:47:30Z,1,04:29,15:31,Faceoff,n/a,69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:48:00Z,1,04:35,15:25,Faceoff,n/a,69.0,-22.0,Jason Dickinson,Winner,Dallas Stars,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:48:31Z,1,04:51,15:09,Hit,n/a,-66.0,-41.0,Tyler Seguin,Hitter,Dallas Stars,Connor Brown,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:48:31Z,1,04:54,15:06,Shot,Wrist Shot,12.0,-10.0,Brady Tkachuk,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:49:04Z,1,04:54,15:06,Faceoff,n/a,69.0,-22.0,Colin White,Winner,Ottawa Senators,Justin Dowling,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:49:11Z,1,05:07,14:53,Giveaway,n/a,38.0,-41.0,Andrew Cogliano,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:49:41Z,1,05:37,14:23,Hit,n/a,-95.0,28.0,Andrew Cogliano,Hitter,Dallas Stars,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:49:43Z,1,05:39,14:21,Shot,Wrist Shot,-40.0,34.0,Taylor Fedun,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:50:09Z,1,05:39,14:21,Faceoff,n/a,-69.0,22.0,Roope Hintz,Winner,Dallas Stars,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:50:19Z,1,05:43,14:17,Shot,Slap Shot,-41.0,-23.0,Taylor Fedun,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:50:51Z,1,06:02,13:58,Shot,Wrist Shot,-77.0,2.0,Jamie Benn,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:50:39Z,1,06:04,13:56,Blocked Shot,n/a,-79.0,-5.0,Dylan DeMelo,Blocker,Ottawa Senators,Corey Perry,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:50:49Z,1,06:13,13:47,Hit,n/a,-95.0,-26.0,Thomas Chabot,Hitter,Ottawa Senators,Roope Hintz,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:51:15Z,1,06:39,13:21,Shot,Wrist Shot,-65.0,-15.0,Jason Dickinson,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:51:26Z,1,06:43,13:17,Penalty,Tripping,-65.0,-10.0,Thomas Chabot,PenaltyOn,Ottawa Senators,Joe Pavelski,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:53:35Z,1,06:43,13:17,Faceoff,n/a,-69.0,-22.0,Jamie Benn,Winner,Dallas Stars,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:53:49Z,1,06:49,13:11,Missed Shot,n/a,-43.0,-7.0,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:54:54Z,1,07:54,12:06,Shot,Wrist Shot,-64.0,2.0,Esa Lindell,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:55:00Z,1,07:59,12:01,Missed Shot,n/a,-60.0,0.0,Esa Lindell,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:55:11Z,1,08:10,11:50,Blocked Shot,n/a,-71.0,10.0,Mark Borowiecki,Blocker,Ottawa Senators,Denis Gurianov,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:55:24Z,1,08:23,11:37,Missed Shot,n/a,-55.0,-14.0,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:55:24Z,1,08:24,11:36,Hit,n/a,-93.0,-30.0,Dylan DeMelo,Hitter,Ottawa Senators,Esa Lindell,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:55:41Z,1,08:41,11:19,Shot,Snap Shot,-45.0,-25.0,Andrej Sekera,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:56:19Z,1,08:41,11:19,Faceoff,n/a,-69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:56:43Z,1,08:55,11:05,Giveaway,n/a,99.0,3.0,Anton Khudobin,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:57:04Z,1,09:05,10:55,Takeaway,n/a,46.0,18.0,Tyler Ennis,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:57:11Z,1,09:25,10:35,Shot,Slap Shot,-42.0,-25.0,Andrej Sekera,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:57:21Z,1,09:35,10:25,Blocked Shot,n/a,-69.0,9.0,Nikita Zaitsev,Blocker,Ottawa Senators,Taylor Fedun,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:57:37Z,1,09:51,10:09,Giveaway,n/a,-19.0,8.0,Jamie Oleksiak,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T00:58:26Z,1,10:08,09:52,Faceoff,n/a,69.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Justin Dowling,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:00:28Z,1,10:26,09:34,Faceoff,n/a,-69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:01:17Z,1,10:51,09:09,Blocked Shot,n/a,-53.0,-19.0,Ron Hainsey,Blocker,Ottawa Senators,Corey Perry,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:01:44Z,1,11:18,08:42,Shot,Wrist Shot,-61.0,13.0,John Klingberg,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:02:41Z,1,12:15,07:45,Shot,Snap Shot,-71.0,11.0,Mattias Janmark,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:03:03Z,1,12:38,07:22,Hit,n/a,98.0,-4.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Andrej Sekera,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:03:16Z,1,12:51,07:09,Giveaway,n/a,58.0,41.0,Esa Lindell,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:04:00Z,1,12:55,07:05,Faceoff,n/a,20.0,-22.0,Jamie Benn,Winner,Dallas Stars,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:04:37Z,1,13:07,06:53,Faceoff,n/a,69.0,-22.0,Roope Hintz,Winner,Dallas Stars,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:04:50Z,1,13:15,06:45,Blocked Shot,n/a,60.0,-13.0,Taylor Fedun,Blocker,Dallas Stars,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:05:14Z,1,13:30,06:30,Penalty,Tripping,98.0,4.0,Andrej Sekera,PenaltyOn,Dallas Stars,Brady Tkachuk,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:05:46Z,1,13:30,06:30,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:05:47Z,1,13:36,06:24,Shot,Wrist Shot,37.0,-24.0,Colin White,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:06:50Z,1,14:38,05:22,Blocked Shot,n/a,57.0,5.0,Miro Heiskanen,Blocker,Dallas Stars,Chris Tierney,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:06:58Z,1,14:46,05:14,Shot,Slap Shot,38.0,-1.0,Thomas Chabot,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:07:20Z,1,15:08,04:52,Shot,Deflected,73.0,-1.0,Brady Tkachuk,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:08:14Z,1,16:02,03:58,Shot,Slap Shot,17.0,0.0,Taylor Fedun,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:10:08Z,1,16:03,03:57,Faceoff,n/a,-69.0,22.0,Joe Pavelski,Winner,Dallas Stars,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:10:39Z,1,16:10,03:50,Missed Shot,n/a,-76.0,6.0,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:10:52Z,1,16:21,03:39,Giveaway,n/a,-15.0,-37.0,Artem Anisimov,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:10:54Z,1,16:25,03:35,Shot,Wrist Shot,-69.0,9.0,Alexander Radulov,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:11:01Z,1,16:32,03:28,Giveaway,n/a,-21.0,3.0,Taylor Fedun,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:11:07Z,1,16:38,03:22,Shot,Wrist Shot,37.0,-23.0,Dylan DeMelo,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:11:11Z,1,16:38,03:22,Shot,Backhand,75.0,4.0,Anthony Duclair,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:11:42Z,1,16:39,03:21,Faceoff,n/a,69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:11:48Z,1,16:48,03:12,Shot,Wrist Shot,67.0,-16.0,Brady Tkachuk,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:12:10Z,1,16:48,03:12,Faceoff,n/a,69.0,-22.0,Jamie Benn,Winner,Dallas Stars,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:12:39Z,1,17:05,02:55,Hit,n/a,98.0,4.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Andrej Sekera,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:13:43Z,1,18:08,01:52,Giveaway,n/a,-98.0,21.0,Denis Gurianov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:14:05Z,1,18:30,01:30,Hit,n/a,98.0,-2.0,Dylan DeMelo,Hitter,Ottawa Senators,John Klingberg,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:14:09Z,1,18:33,01:27,Shot,Tip-In,74.0,-10.0,Bobby Ryan,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:14:36Z,1,18:34,01:26,Faceoff,n/a,69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:15:00Z,1,18:58,01:02,Blocked Shot,n/a,-80.0,3.0,Thomas Chabot,Blocker,Ottawa Senators,Radek Faksa,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:15:09Z,1,18:58,01:02,Goal,Tip-In,-74.0,3.0,Radek Faksa,Scorer,Dallas Stars,Taylor Fedun,Assist,Dallas Stars,Mattias Janmark,Assist,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators
+2019-10-22T01:15:50Z,1,18:58,01:02,Faceoff,n/a,0.0,0.0,Brady Tkachuk,Winner,Ottawa Senators,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:16:17Z,1,19:20,00:40,Giveaway,n/a,-28.0,-15.0,Alexander Radulov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:16:32Z,1,19:34,00:26,Giveaway,n/a,59.0,-1.0,Tyler Seguin,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:17:16Z,1,19:57,00:03,Faceoff,n/a,69.0,-22.0,Colin White,Winner,Ottawa Senators,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:17:16Z,1,19:58,00:02,Shot,Snap Shot,68.0,-22.0,Colin White,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:36:16Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:36:25Z,2,00:14,19:46,Giveaway,n/a,-7.0,-40.0,Brady Tkachuk,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:36:39Z,2,00:15,19:45,Hit,n/a,-56.0,-40.0,Brady Tkachuk,Hitter,Ottawa Senators,Andrej Sekera,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:37:01Z,2,00:50,19:10,Shot,Wrist Shot,54.0,-3.0,Alexander Radulov,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:37:34Z,2,00:51,19:09,Faceoff,n/a,69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:38:39Z,2,01:42,18:18,Takeaway,n/a,-48.0,-40.0,Jason Dickinson,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:38:57Z,2,02:01,17:59,Hit,n/a,6.0,-40.0,Radek Faksa,Hitter,Dallas Stars,Mark Borowiecki,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:39:04Z,2,02:08,17:52,Giveaway,n/a,-57.0,30.0,Jamie Oleksiak,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:39:29Z,2,02:24,17:36,Hit,n/a,71.0,-40.0,Mark Borowiecki,Hitter,Ottawa Senators,Alexander Radulov,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:40:47Z,2,02:26,17:34,Takeaway,n/a,31.0,32.0,Colin White,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:39:57Z,2,02:28,17:32,Faceoff,n/a,20.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Justin Dowling,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:40:03Z,2,02:36,17:24,Hit,n/a,98.0,22.0,Andrew Cogliano,Hitter,Dallas Stars,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:40:55Z,2,03:18,16:42,Takeaway,n/a,36.0,35.0,Jamie Benn,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:45:03Z,2,03:33,16:27,Blocked Shot,n/a,72.0,-2.0,Erik Brannstrom,Blocker,Ottawa Senators,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:41:08Z,2,03:38,16:22,Hit,n/a,-88.0,-34.0,Brady Tkachuk,Hitter,Ottawa Senators,John Klingberg,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:41:16Z,2,03:45,16:15,Giveaway,n/a,62.0,25.0,Roope Hintz,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:41:18Z,2,03:51,16:09,Shot,Wrist Shot,-62.0,-16.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:41:53Z,2,04:09,15:51,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:42:21Z,2,04:24,15:36,Missed Shot,n/a,70.0,-31.0,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:42:31Z,2,04:34,15:26,Blocked Shot,n/a,46.0,-9.0,Vladislav Namestnikov,Blocker,Ottawa Senators,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:42:38Z,2,04:40,15:20,Giveaway,n/a,-98.0,14.0,Andrej Sekera,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:44:19Z,2,06:22,13:38,Shot,Wrist Shot,43.0,-7.0,Taylor Fedun,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:47:04Z,2,06:31,13:29,Giveaway,n/a,-96.0,-25.0,Taylor Fedun,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:47:52Z,2,06:33,13:27,Faceoff,n/a,-20.0,-22.0,Nick Paul,Winner,Ottawa Senators,Justin Dowling,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:47:03Z,2,06:44,13:16,Shot,Slap Shot,-37.0,29.0,Dylan DeMelo,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:47:56Z,2,07:35,12:25,Hit,n/a,-95.0,-28.0,Brady Tkachuk,Hitter,Ottawa Senators,Andrej Sekera,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:47:59Z,2,07:38,12:22,Shot,Tip-In,-75.0,-6.0,Brady Tkachuk,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:48:32Z,2,07:38,12:22,Faceoff,n/a,-69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:48:34Z,2,07:46,12:14,Takeaway,n/a,-98.0,8.0,Connor Brown,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:49:02Z,2,08:15,11:45,Blocked Shot,n/a,38.0,-22.0,Nikita Zaitsev,Blocker,Ottawa Senators,Jason Dickinson,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:49:34Z,2,08:27,11:33,Faceoff,n/a,20.0,22.0,Chris Tierney,Winner,Ottawa Senators,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:50:07Z,2,08:43,11:17,Penalty,Delaying Game - Puck over glass,47.0,37.0,Vladislav Namestnikov,PenaltyOn,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:50:50Z,2,08:43,11:17,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:51:11Z,2,09:02,10:58,Missed Shot,n/a,69.0,-12.0,Esa Lindell,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:51:32Z,2,09:15,10:45,Penalty,Interference,-2.0,-1.0,Jean-Gabriel Pageau,PenaltyOn,Ottawa Senators,Esa Lindell,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:52:19Z,2,09:15,10:45,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:52:54Z,2,09:48,10:12,Shot,Wrist Shot,61.0,8.0,John Klingberg,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:53:01Z,2,09:55,10:05,Missed Shot,n/a,62.0,18.0,Joe Pavelski,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:53:47Z,2,10:41,09:19,Shot,Wrist Shot,73.0,-19.0,Tyler Seguin,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:53:54Z,2,10:44,09:16,Goal,Wrist Shot,76.0,11.0,Joe Pavelski,Scorer,Dallas Stars,Jamie Benn,Assist,Dallas Stars,Tyler Seguin,Assist,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators
+2019-10-22T01:54:55Z,2,10:44,09:16,Faceoff,n/a,0.0,0.0,Colin White,Winner,Ottawa Senators,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:55:42Z,2,11:41,08:19,Blocked Shot,n/a,-69.0,0.0,Radek Faksa,Blocker,Dallas Stars,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:56:52Z,2,12:52,07:08,Blocked Shot,n/a,48.0,16.0,Mikkel Boedker,Blocker,Ottawa Senators,Jamie Oleksiak,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:57:16Z,2,13:16,06:44,Hit,n/a,-71.0,-39.0,Taylor Fedun,Hitter,Dallas Stars,Erik Brannstrom,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:57:25Z,2,13:21,06:39,Takeaway,n/a,14.0,-15.0,Chris Tierney,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:57:54Z,2,13:53,06:07,Blocked Shot,n/a,71.0,-15.0,Miro Heiskanen,Blocker,Dallas Stars,Vladislav Namestnikov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T01:58:31Z,2,14:15,05:45,Penalty,Slashing,76.0,38.0,Dylan DeMelo,PenaltyOn,Ottawa Senators,Roope Hintz,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:00:23Z,2,14:15,05:45,Faceoff,n/a,69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:00:53Z,2,14:22,05:38,Blocked Shot,n/a,69.0,0.0,Nikita Zaitsev,Blocker,Ottawa Senators,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:01:07Z,2,14:24,05:36,Faceoff,n/a,69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:01:45Z,2,14:56,05:04,Missed Shot,n/a,47.0,26.0,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:01:52Z,2,15:02,04:58,Shot,Wrist Shot,69.0,-13.0,Jamie Benn,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:02:27Z,2,15:37,04:23,Shot,Slap Shot,39.0,-26.0,Corey Perry,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:02:31Z,2,15:41,04:19,Shot,Backhand,70.0,-5.0,Denis Gurianov,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:02:43Z,2,15:53,04:07,Missed Shot,n/a,36.0,-2.0,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:02:52Z,2,16:02,03:58,Shot,Slap Shot,46.0,-21.0,Denis Gurianov,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:03:25Z,2,16:03,03:57,Faceoff,n/a,69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:05:32Z,2,16:20,03:40,Faceoff,n/a,69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:06:17Z,2,16:44,03:16,Shot,Wrist Shot,43.0,-8.0,Tyler Seguin,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:06:22Z,2,16:49,03:11,Giveaway,n/a,42.0,-15.0,John Klingberg,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:06:35Z,2,17:02,02:58,Hit,n/a,36.0,-40.0,Thomas Chabot,Hitter,Ottawa Senators,Jason Dickinson,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:06:43Z,2,17:10,02:50,Missed Shot,n/a,-48.0,-17.0,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:06:49Z,2,17:12,02:48,Missed Shot,n/a,-48.0,26.0,Dylan DeMelo,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:06:58Z,2,17:25,02:35,Shot,Backhand,65.0,21.0,Alexander Radulov,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:07:35Z,2,17:35,02:25,Faceoff,n/a,0.0,0.0,Roope Hintz,Winner,Dallas Stars,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:08:43Z,2,18:12,01:48,Faceoff,n/a,0.0,0.0,Colin White,Winner,Ottawa Senators,Justin Dowling,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:08:49Z,2,18:21,01:39,Hit,n/a,-29.0,-41.0,Bobby Ryan,Hitter,Ottawa Senators,John Klingberg,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:09:17Z,2,18:33,01:27,Penalty,Holding,91.0,31.0,Andrew Cogliano,PenaltyOn,Dallas Stars,Erik Brannstrom,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:09:48Z,2,18:33,01:27,Faceoff,n/a,-69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:10:01Z,2,18:48,01:12,Blocked Shot,n/a,72.0,-6.0,Thomas Chabot,Blocker,Ottawa Senators,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:10:47Z,2,19:33,00:27,Missed Shot,n/a,-32.0,-18.0,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:11:31Z,2,19:49,00:11,Faceoff,n/a,0.0,0.0,Tyler Seguin,Winner,Dallas Stars,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:30:08Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Artem Anisimov,Winner,Ottawa Senators,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:30:24Z,3,00:06,19:54,Faceoff,n/a,20.0,22.0,Jason Dickinson,Winner,Dallas Stars,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:30:47Z,3,00:20,19:40,Shot,Wrist Shot,-72.0,15.0,Jason Dickinson,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:31:10Z,3,00:40,19:20,Missed Shot,n/a,-72.0,-20.0,Jason Dickinson,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:31:31Z,3,00:41,19:19,Faceoff,n/a,-69.0,-22.0,Roope Hintz,Winner,Dallas Stars,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:31:44Z,3,00:49,19:11,Blocked Shot,n/a,-55.0,19.0,Vladislav Namestnikov,Blocker,Ottawa Senators,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:32:20Z,3,00:59,19:01,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Nick Paul,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:32:46Z,3,01:23,18:37,Shot,Wrist Shot,-57.0,-20.0,Miro Heiskanen,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:32:50Z,3,01:25,18:35,Shot,Backhand,-76.0,-2.0,Tyler Seguin,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:32:54Z,3,01:26,18:34,Shot,Wrist Shot,-78.0,-1.0,Tyler Seguin,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:33:11Z,3,01:26,18:34,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:33:22Z,3,01:31,18:29,Takeaway,n/a,-76.0,39.0,Corey Perry,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:33:54Z,3,01:56,18:04,Giveaway,n/a,-69.0,40.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:34:17Z,3,02:29,17:31,Shot,Wrist Shot,-39.0,-2.0,John Klingberg,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:35:21Z,3,03:11,16:49,Faceoff,n/a,-20.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Justin Dowling,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:35:43Z,3,03:30,16:30,Shot,Wrist Shot,64.0,-21.0,Artem Anisimov,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:36:16Z,3,03:32,16:28,Faceoff,n/a,69.0,-22.0,Colin White,Winner,Ottawa Senators,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:36:26Z,3,03:46,16:14,Missed Shot,n/a,46.0,-23.0,Bobby Ryan,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:36:53Z,3,04:13,15:47,Shot,Wrist Shot,61.0,30.0,Chris Tierney,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:37:19Z,3,04:15,15:45,Faceoff,n/a,69.0,22.0,Roope Hintz,Winner,Dallas Stars,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:37:44Z,3,04:36,15:24,Shot,Wrist Shot,-84.0,-11.0,Roope Hintz,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:37:44Z,3,04:36,15:24,Shot,Wrist Shot,-82.0,-6.0,Roope Hintz,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:38:07Z,3,04:37,15:23,Faceoff,n/a,-69.0,-22.0,Jason Dickinson,Winner,Dallas Stars,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:38:30Z,3,04:54,15:06,Giveaway,n/a,-49.0,-40.0,Dylan DeMelo,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:39:13Z,3,05:37,14:23,Shot,Wrist Shot,83.0,32.0,Mikkel Boedker,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:39:21Z,3,05:42,14:18,Shot,Wrist Shot,70.0,-27.0,Artem Anisimov,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:39:42Z,3,05:42,14:18,Faceoff,n/a,69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:40:17Z,3,06:09,13:51,Takeaway,n/a,-75.0,-38.0,Mattias Janmark,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:41:01Z,3,06:49,13:11,Missed Shot,n/a,-41.0,28.0,Andrej Sekera,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:41:26Z,3,07:18,12:42,Blocked Shot,n/a,65.0,-3.0,Esa Lindell,Blocker,Dallas Stars,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:41:50Z,3,07:18,12:42,Hit,n/a,57.0,-9.0,Esa Lindell,Hitter,Dallas Stars,Brady Tkachuk,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:42:12Z,3,07:19,12:41,Penalty,Cross checking,49.0,-14.0,Brady Tkachuk,PenaltyOn,Ottawa Senators,Esa Lindell,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:43:58Z,3,07:19,12:41,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:44:54Z,3,07:30,12:30,Missed Shot,n/a,-51.0,5.0,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:45:02Z,3,07:38,12:22,Shot,Snap Shot,-69.0,3.0,Alexander Radulov,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:45:53Z,3,08:29,11:31,Missed Shot,n/a,-53.0,4.0,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:46:13Z,3,08:48,11:12,Shot,Wrist Shot,-38.0,5.0,John Klingberg,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:46:24Z,3,08:58,11:02,Giveaway,n/a,-98.0,1.0,Alexander Radulov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:46:49Z,3,09:24,10:36,Blocked Shot,n/a,-70.0,2.0,Jean-Gabriel Pageau,Blocker,Ottawa Senators,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:47:26Z,3,10:01,09:59,Shot,Slap Shot,-44.0,19.0,Taylor Fedun,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:47:34Z,3,10:09,09:51,Missed Shot,n/a,-44.0,-37.0,Radek Faksa,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:47:45Z,3,10:20,09:40,Shot,Wrist Shot,52.0,25.0,Colin White,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:49:39Z,3,10:20,09:40,Faceoff,n/a,69.0,22.0,Nick Paul,Winner,Ottawa Senators,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:50:01Z,3,10:26,09:34,Blocked Shot,n/a,52.0,1.0,Andrew Cogliano,Blocker,Dallas Stars,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:50:06Z,3,10:32,09:28,Blocked Shot,n/a,57.0,-15.0,Justin Dowling,Blocker,Dallas Stars,Vladislav Namestnikov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:50:29Z,3,10:54,09:06,Blocked Shot,n/a,63.0,1.0,Thomas Chabot,Blocker,Ottawa Senators,Justin Dowling,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:50:45Z,3,11:06,08:54,Giveaway,n/a,-66.0,-17.0,Anders Nilsson,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:51:40Z,3,11:27,08:33,Faceoff,n/a,-20.0,22.0,Brady Tkachuk,Winner,Ottawa Senators,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:52:34Z,3,11:44,08:16,Faceoff,n/a,0.0,0.0,Joe Pavelski,Winner,Dallas Stars,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:52:46Z,3,12:00,08:00,Giveaway,n/a,21.0,14.0,Tyler Ennis,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:53:04Z,3,12:20,07:40,Blocked Shot,n/a,58.0,-1.0,Miro Heiskanen,Blocker,Dallas Stars,Jean-Gabriel Pageau,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:53:34Z,3,12:20,07:40,Faceoff,n/a,69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Nick Paul,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:54:18Z,3,13:01,06:59,Hit,n/a,-90.0,-34.0,Justin Dowling,Hitter,Dallas Stars,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:54:26Z,3,13:09,06:51,Shot,Wrist Shot,-18.0,-23.0,Justin Dowling,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:54:36Z,3,13:18,06:42,Shot,Wrist Shot,-74.0,8.0,Jamie Benn,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:54:44Z,3,13:27,06:33,Hit,n/a,-32.0,42.0,Brady Tkachuk,Hitter,Ottawa Senators,Andrej Sekera,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:54:59Z,3,13:42,06:18,Blocked Shot,n/a,-54.0,-12.0,Brady Tkachuk,Blocker,Ottawa Senators,Esa Lindell,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:55:27Z,3,14:10,05:50,Giveaway,n/a,-54.0,40.0,Chris Tierney,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:55:35Z,3,14:18,05:42,Hit,n/a,-85.0,-36.0,Tyler Seguin,Hitter,Dallas Stars,Erik Brannstrom,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:56:03Z,3,14:46,05:14,Hit,n/a,-87.0,-35.0,Radek Faksa,Hitter,Dallas Stars,Erik Brannstrom,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:56:05Z,3,14:47,05:13,Shot,Wrist Shot,-70.0,-16.0,Mattias Janmark,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:58:01Z,3,14:48,05:12,Faceoff,n/a,-69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:58:38Z,3,14:51,05:09,Shot,Wrist Shot,-51.0,-21.0,John Klingberg,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:58:45Z,3,14:52,05:08,Faceoff,n/a,-69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T02:59:25Z,3,15:25,04:35,Giveaway,n/a,10.0,41.0,Mikkel Boedker,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T03:00:36Z,3,16:36,03:24,Shot,Wrist Shot,-38.0,-27.0,Miro Heiskanen,Shooter,Dallas Stars,Anders Nilsson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T03:00:45Z,3,16:43,03:17,Hit,n/a,-78.0,40.0,Brady Tkachuk,Hitter,Ottawa Senators,John Klingberg,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T03:01:41Z,3,17:37,02:23,Blocked Shot,n/a,67.0,0.0,Andrej Sekera,Blocker,Dallas Stars,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T03:02:25Z,3,18:22,01:38,Blocked Shot,n/a,-60.0,17.0,Ron Hainsey,Blocker,Ottawa Senators,Joe Pavelski,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T03:03:04Z,3,18:23,01:37,Faceoff,n/a,-69.0,22.0,Radek Faksa,Winner,Dallas Stars,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T03:03:38Z,3,18:46,01:14,Shot,Wrist Shot,76.0,4.0,Connor Brown,Shooter,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T03:03:49Z,3,18:47,01:13,Goal,Backhand,79.0,-2.0,Vladislav Namestnikov,Scorer,Ottawa Senators,Connor Brown,Assist,Ottawa Senators,Thomas Chabot,Assist,Ottawa Senators,Anton Khudobin,Goalie,Dallas Stars
+2019-10-22T03:04:11Z,3,18:47,01:13,Faceoff,n/a,0.0,0.0,Tyler Seguin,Winner,Dallas Stars,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T03:04:51Z,3,19:05,00:55,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T03:05:28Z,3,19:39,00:21,Takeaway,n/a,10.0,42.0,Joe Pavelski,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T03:05:33Z,3,19:42,00:18,Blocked Shot,n/a,-79.0,1.0,Brady Tkachuk,Blocker,Ottawa Senators,Joe Pavelski,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-22T03:05:48Z,3,19:58,00:02,Blocked Shot,n/a,58.0,-15.0,Esa Lindell,Blocker,Dallas Stars,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a

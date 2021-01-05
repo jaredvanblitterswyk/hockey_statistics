@@ -1,0 +1,294 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-20T23:07:45Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Kirby Dach,Winner,Chicago Blackhawks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:08:50Z,1,00:12,19:48,Hit,n/a,-97.0,10.0,Jonas Siegenthaler,Hitter,Washington Capitals,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:08:58Z,1,00:17,19:43,Hit,n/a,-82.0,35.0,Nicklas Backstrom,Hitter,Washington Capitals,Patrick Kane,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:09:02Z,1,00:24,19:36,Shot,Wrist Shot,28.0,30.0,Nicklas Backstrom,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:09:17Z,1,00:39,19:21,Hit,n/a,-9.0,-30.0,T.J. Oshie,Hitter,Washington Capitals,Dylan Strome,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:09:43Z,1,01:06,18:54,Hit,n/a,88.0,19.0,Tom Wilson,Hitter,Washington Capitals,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:09:53Z,1,01:15,18:45,Missed Shot,n/a,-49.0,-29.0,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:10:20Z,1,01:42,18:18,Giveaway,n/a,-96.0,2.0,Braden Holtby,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:10:27Z,1,01:49,18:11,Blocked Shot,n/a,-58.0,-6.0,David Kampf,Blocker,Chicago Blackhawks,Garnet Hathaway,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:10:55Z,1,02:18,17:42,Hit,n/a,-73.0,-38.0,Nic Dowd,Hitter,Washington Capitals,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:10:57Z,1,02:19,17:41,Shot,Wrist Shot,-54.0,5.0,Brent Seabrook,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:11:26Z,1,02:19,17:41,Faceoff,n/a,-69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:11:49Z,1,02:29,17:31,Takeaway,n/a,-32.0,26.0,Dylan Strome,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:12:05Z,1,02:31,17:29,Faceoff,n/a,-69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:13:11Z,1,03:30,16:30,Missed Shot,n/a,-76.0,4.0,Andrew Shaw,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:13:22Z,1,03:37,16:23,Blocked Shot,n/a,-75.0,-7.0,Tom Wilson,Blocker,Washington Capitals,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:13:32Z,1,03:37,16:23,Shot,Wrist Shot,-37.0,10.0,Brent Seabrook,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:22:14Z,1,03:37,16:23,Faceoff,n/a,-69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Jakub Vrana,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:14:12Z,1,03:45,16:15,Shot,Wrist Shot,68.0,-29.0,Garnet Hathaway,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:14:28Z,1,03:45,16:15,Faceoff,n/a,69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:14:45Z,1,03:54,16:06,Hit,n/a,-18.0,37.0,Radko Gudas,Hitter,Washington Capitals,Brandon Saad,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:14:51Z,1,04:00,16:00,Shot,Wrist Shot,-73.0,-27.0,Brandon Saad,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:15:01Z,1,04:10,15:50,Blocked Shot,n/a,-84.0,8.0,Michal Kempny,Blocker,Washington Capitals,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:15:03Z,1,04:12,15:48,Hit,n/a,-70.0,-33.0,Dominik Kubalik,Hitter,Chicago Blackhawks,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:15:22Z,1,04:15,15:45,Faceoff,n/a,-69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:15:44Z,1,04:28,15:32,Hit,n/a,47.0,37.0,Patrick Kane,Hitter,Chicago Blackhawks,Jakub Vrana,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:16:00Z,1,04:42,15:18,Shot,Backhand,-74.0,7.0,Patrick Kane,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:16:21Z,1,04:42,15:18,Faceoff,n/a,-69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:16:51Z,1,05:00,15:00,Shot,Wrist Shot,56.0,6.0,Brendan Leipsic,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:17:11Z,1,05:00,15:00,Faceoff,n/a,69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:18:03Z,1,05:39,14:21,Shot,Wrist Shot,-60.0,-4.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:18:10Z,1,05:47,14:13,Shot,Wrist Shot,28.0,31.0,Alex Ovechkin,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:18:44Z,1,06:20,13:40,Shot,Snap Shot,54.0,-14.0,Nic Dowd,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:19:12Z,1,06:49,13:11,Giveaway,n/a,98.0,4.0,Corey Crawford,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:19:22Z,1,06:51,13:09,Hit,n/a,65.0,38.0,Brent Seabrook,Hitter,Chicago Blackhawks,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:19:37Z,1,07:13,12:47,Blocked Shot,n/a,48.0,-26.0,David Kampf,Blocker,Chicago Blackhawks,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:20:16Z,1,07:53,12:07,Hit,n/a,-91.0,30.0,Garnet Hathaway,Hitter,Washington Capitals,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:20:44Z,1,08:21,11:39,Takeaway,n/a,30.0,30.0,Connor Murphy,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:20:52Z,1,08:29,11:31,Shot,Wrist Shot,-5.0,-29.0,Radko Gudas,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:21:22Z,1,08:58,11:02,Shot,Wrist Shot,-27.0,-25.0,Alex Nylander,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:23:28Z,1,08:58,11:02,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Garnet Hathaway,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:24:15Z,1,09:17,10:43,Penalty,Holding,-92.0,-23.0,Andrew Shaw,PenaltyOn,Chicago Blackhawks,Nick Jensen,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:24:46Z,1,09:17,10:43,Faceoff,n/a,69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:25:20Z,1,09:22,10:38,Takeaway,n/a,95.0,16.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:25:05Z,1,09:25,10:35,Goal,Snap Shot,76.0,3.0,T.J. Oshie,Scorer,Washington Capitals,Evgeny Kuznetsov,Assist,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a
+2019-10-20T23:25:48Z,1,09:25,10:35,Faceoff,n/a,0.0,0.0,David Kampf,Winner,Chicago Blackhawks,Carl Hagelin,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:26:07Z,1,09:34,10:26,Giveaway,n/a,97.0,10.0,Olli Maatta,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:26:15Z,1,09:42,10:18,Hit,n/a,95.0,7.0,Carl Hagelin,Hitter,Washington Capitals,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:27:14Z,1,10:28,09:32,Hit,n/a,-97.0,-1.0,Jonas Siegenthaler,Hitter,Washington Capitals,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:27:21Z,1,10:47,09:13,Hit,n/a,94.0,-15.0,Tom Wilson,Hitter,Washington Capitals,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:27:24Z,1,10:51,09:09,Blocked Shot,n/a,79.0,-9.0,Calvin de Haan,Blocker,Chicago Blackhawks,Nic Dowd,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:27:34Z,1,11:00,09:00,Hit,n/a,91.0,-25.0,Calvin de Haan,Hitter,Chicago Blackhawks,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:27:58Z,1,11:25,08:35,Takeaway,n/a,-13.0,33.0,Nic Dowd,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:28:12Z,1,11:27,08:33,Blocked Shot,n/a,48.0,-19.0,Kirby Dach,Blocker,Chicago Blackhawks,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:28:16Z,1,11:42,08:18,Takeaway,n/a,93.0,-7.0,Nicklas Backstrom,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:28:34Z,1,11:50,08:10,Faceoff,n/a,69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:29:05Z,1,12:06,07:54,Blocked Shot,n/a,-40.0,-8.0,Dmitry Orlov,Blocker,Washington Capitals,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:29:13Z,1,12:13,07:47,Shot,Slap Shot,-44.0,-14.0,Duncan Keith,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:29:32Z,1,12:33,07:27,Blocked Shot,n/a,-37.0,-8.0,Nicklas Backstrom,Blocker,Washington Capitals,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:29:45Z,1,12:46,07:14,Takeaway,n/a,-85.0,-35.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:29:58Z,1,12:56,07:04,Hit,n/a,-49.0,41.0,Jonathan Toews,Hitter,Chicago Blackhawks,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:30:05Z,1,12:59,07:01,Penalty,Tripping,-59.0,41.0,Lars Eller,PenaltyOn,Washington Capitals,Alex DeBrincat,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:31:54Z,1,12:59,07:01,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:32:51Z,1,13:45,06:15,Blocked Shot,n/a,-79.0,8.0,Radko Gudas,Blocker,Washington Capitals,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:33:03Z,1,13:58,06:02,Shot,Wrist Shot,-57.0,-21.0,Jonathan Toews,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:33:09Z,1,14:03,05:57,Shot,Backhand,-82.0,2.0,Dylan Strome,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:33:46Z,1,14:40,05:20,Blocked Shot,n/a,-50.0,-5.0,Nic Dowd,Blocker,Washington Capitals,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:33:54Z,1,14:48,05:12,Shot,Slap Shot,-51.0,17.0,Jonathan Toews,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:34:01Z,1,14:56,05:04,Blocked Shot,n/a,-77.0,4.0,John Carlson,Blocker,Washington Capitals,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:34:30Z,1,15:08,04:52,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:34:46Z,1,15:16,04:44,Hit,n/a,-44.0,40.0,Connor Murphy,Hitter,Chicago Blackhawks,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:35:49Z,1,15:56,04:04,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:36:03Z,1,16:06,03:54,Shot,Wrist Shot,34.0,25.0,Michal Kempny,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:36:08Z,1,16:11,03:49,Shot,Wrist Shot,82.0,3.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:37:12Z,1,17:15,02:45,Blocked Shot,n/a,61.0,-2.0,Calvin de Haan,Blocker,Chicago Blackhawks,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:39:15Z,1,17:15,02:45,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:39:26Z,1,17:19,02:41,Missed Shot,n/a,32.0,28.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:40:00Z,1,17:37,02:23,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:40:19Z,1,17:44,02:16,Shot,Slap Shot,33.0,-14.0,Jonas Siegenthaler,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:40:39Z,1,17:54,02:06,Shot,Wrist Shot,80.0,3.0,Alex Ovechkin,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:40:35Z,1,18:00,02:00,Shot,Wrist Shot,-76.0,-2.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:40:47Z,1,18:13,01:47,Blocked Shot,n/a,-78.0,8.0,T.J. Oshie,Blocker,Washington Capitals,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:41:06Z,1,18:32,01:28,Hit,n/a,45.0,6.0,Connor Murphy,Hitter,Chicago Blackhawks,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:41:18Z,1,18:43,01:17,Hit,n/a,-44.0,36.0,Nick Jensen,Hitter,Washington Capitals,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:41:25Z,1,18:51,01:09,Giveaway,n/a,-68.0,18.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:41:44Z,1,19:08,00:52,Blocked Shot,n/a,-54.0,-30.0,Chandler Stephenson,Blocker,Washington Capitals,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:41:49Z,1,19:14,00:46,Hit,n/a,-89.0,34.0,Brandon Saad,Hitter,Chicago Blackhawks,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:41:55Z,1,19:19,00:41,Shot,Wrist Shot,47.0,-1.0,Chandler Stephenson,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:42:31Z,1,19:31,00:29,Faceoff,n/a,-69.0,22.0,David Kampf,Winner,Chicago Blackhawks,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:42:54Z,1,19:34,00:26,Shot,Wrist Shot,-60.0,5.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:43:01Z,1,19:42,00:18,Shot,Wrist Shot,-78.0,7.0,Brandon Saad,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:43:07Z,1,19:47,00:13,Shot,Wrist Shot,-40.0,30.0,Connor Murphy,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:43:15Z,1,19:55,00:05,Hit,n/a,-94.0,18.0,Dominik Kubalik,Hitter,Chicago Blackhawks,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:43:31Z,1,19:57,00:03,Hit,n/a,-44.0,17.0,Connor Murphy,Hitter,Chicago Blackhawks,Alex Ovechkin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:43:23Z,1,20:00,00:00,Penalty,Cross checking,-20.0,7.0,Radko Gudas,PenaltyOn,Washington Capitals,Connor Murphy,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-20T23:43:23Z,1,20:00,00:00,Penalty,Roughing,-22.0,8.0,Radko Gudas,PenaltyOn,Washington Capitals,Connor Murphy,DrewBy,Washington Capitals,Jakub Vrana,ServedBy,Chicago Blackhawks,n/a,n/a,n/a
+2019-10-20T23:43:23Z,1,20:00,00:00,Penalty,Roughing,-16.0,5.0,Connor Murphy,PenaltyOn,Chicago Blackhawks,Radko Gudas,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:03:20Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:03:51Z,2,00:32,19:28,Blocked Shot,n/a,49.0,7.0,Nic Dowd,Blocker,Washington Capitals,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:04:09Z,2,00:50,19:10,Missed Shot,n/a,32.0,10.0,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:04:16Z,2,00:57,19:03,Shot,Slap Shot,35.0,9.0,Erik Gustafsson,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:05:11Z,2,01:53,18:07,Shot,Tip-In,76.0,-5.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:05:21Z,2,02:00,18:00,Shot,Wrist Shot,83.0,-5.0,Brandon Saad,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:05:26Z,2,02:00,18:00,Shot,Snap Shot,43.0,17.0,Duncan Keith,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:05:30Z,2,02:00,18:00,Blocked Shot,n/a,47.0,19.0,Tom Wilson,Blocker,Washington Capitals,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:39:49Z,2,02:00,18:00,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:06:07Z,2,02:08,17:52,Hit,n/a,66.0,37.0,Drake Caggiula,Hitter,Chicago Blackhawks,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:06:33Z,2,02:26,17:34,Takeaway,n/a,81.0,17.0,Alex Nylander,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:06:33Z,2,02:33,17:27,Blocked Shot,n/a,58.0,2.0,Dmitry Orlov,Blocker,Washington Capitals,Calvin de Haan,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:06:47Z,2,02:36,17:24,Shot,Wrist Shot,-65.0,13.0,Alex Ovechkin,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:07:13Z,2,02:36,17:24,Faceoff,n/a,-69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:07:27Z,2,02:43,17:17,Giveaway,n/a,52.0,23.0,Jonas Siegenthaler,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:07:40Z,2,02:43,17:17,Faceoff,n/a,20.0,22.0,David Kampf,Winner,Chicago Blackhawks,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:07:55Z,2,02:48,17:12,Shot,Wrist Shot,9.0,-33.0,Brent Seabrook,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:08:19Z,2,02:55,17:05,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:08:35Z,2,03:02,16:58,Hit,n/a,10.0,38.0,Andrew Shaw,Hitter,Chicago Blackhawks,Jonas Siegenthaler,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:08:54Z,2,03:21,16:39,Shot,Wrist Shot,-74.0,-34.0,Carl Hagelin,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:09:02Z,2,03:30,16:30,Blocked Shot,n/a,-71.0,-7.0,Brent Seabrook,Blocker,Chicago Blackhawks,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:09:06Z,2,03:33,16:27,Hit,n/a,-58.0,-17.0,Carl Hagelin,Hitter,Washington Capitals,Brent Seabrook,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:09:10Z,2,03:37,16:23,Shot,Wrist Shot,-70.0,4.0,Tom Wilson,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:09:16Z,2,03:43,16:17,Shot,Wrist Shot,50.0,16.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:09:22Z,2,03:49,16:11,Missed Shot,n/a,51.0,-20.0,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:09:50Z,2,04:17,15:43,Hit,n/a,83.0,32.0,Dylan Strome,Hitter,Chicago Blackhawks,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:09:53Z,2,04:20,15:40,Blocked Shot,n/a,76.0,2.0,Michal Kempny,Blocker,Washington Capitals,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:10:24Z,2,04:52,15:08,Hit,n/a,-80.0,11.0,Duncan Keith,Hitter,Chicago Blackhawks,Jakub Vrana,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:10:45Z,2,05:12,14:48,Missed Shot,n/a,-60.0,10.0,Brendan Leipsic,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:10:51Z,2,05:16,14:44,Shot,Wrist Shot,-69.0,-26.0,John Carlson,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:11:26Z,2,05:16,14:44,Faceoff,n/a,-69.0,-22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:11:51Z,2,05:41,14:19,Hit,n/a,93.0,-16.0,Dmitry Orlov,Hitter,Washington Capitals,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:11:57Z,2,05:47,14:13,Blocked Shot,n/a,77.0,3.0,John Carlson,Blocker,Washington Capitals,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:12:18Z,2,06:08,13:52,Takeaway,n/a,-68.0,6.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:12:24Z,2,06:14,13:46,Shot,Backhand,77.0,-6.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:12:29Z,2,06:19,13:41,Shot,Wrist Shot,80.0,3.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:12:33Z,2,06:19,13:41,Shot,Wrist Shot,82.0,5.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:12:40Z,2,06:19,13:41,Shot,Wrist Shot,68.0,40.0,Olli Maatta,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:14:22Z,2,06:19,13:41,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:15:22Z,2,06:56,13:04,Hit,n/a,-13.0,41.0,Nic Dowd,Hitter,Washington Capitals,Jonathan Toews,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:15:30Z,2,07:04,12:56,Hit,n/a,62.0,-31.0,Jonas Siegenthaler,Hitter,Washington Capitals,Andrew Shaw,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:15:46Z,2,07:20,12:40,Missed Shot,n/a,79.0,1.0,Kirby Dach,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:16:21Z,2,07:55,12:05,Takeaway,n/a,93.0,10.0,Ryan Carpenter,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:16:23Z,2,07:57,12:03,Missed Shot,n/a,76.0,5.0,Drake Caggiula,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:16:32Z,2,08:06,11:54,Takeaway,n/a,95.0,2.0,Radko Gudas,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:16:44Z,2,08:18,11:42,Takeaway,n/a,32.0,-33.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:17:04Z,2,08:20,11:40,Giveaway,n/a,49.0,-35.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:16:51Z,2,08:25,11:35,Shot,Wrist Shot,53.0,-8.0,Ryan Carpenter,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:16:56Z,2,08:25,11:35,Goal,Wrist Shot,78.0,-5.0,Drake Caggiula,Scorer,Chicago Blackhawks,Alex Nylander,Assist,Chicago Blackhawks,Ryan Carpenter,Assist,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals
+2019-10-21T00:17:53Z,2,08:25,11:35,Faceoff,n/a,0.0,0.0,Andrew Shaw,Winner,Chicago Blackhawks,Garnet Hathaway,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:18:19Z,2,08:44,11:16,Hit,n/a,-95.0,-13.0,Andrew Shaw,Hitter,Chicago Blackhawks,Chandler Stephenson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:18:55Z,2,09:08,10:52,Faceoff,n/a,69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:19:34Z,2,09:25,10:35,Penalty,Hi stick - double minor,-44.0,-34.0,Chandler Stephenson,PenaltyOn,Washington Capitals,Kirby Dach,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:21:06Z,2,09:25,10:35,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:21:54Z,2,09:53,10:07,Goal,Wrist Shot,-75.0,9.0,Nic Dowd,Scorer,Washington Capitals,Carl Hagelin,Assist,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a
+2019-10-21T00:22:24Z,2,09:53,10:07,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:23:53Z,2,10:57,09:03,Shot,Wrist Shot,15.0,-28.0,Garnet Hathaway,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:24:21Z,2,11:29,08:31,Missed Shot,n/a,46.0,-18.0,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:24:27Z,2,11:34,08:26,Shot,Wrist Shot,80.0,-7.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:24:28Z,2,11:36,08:24,Giveaway,n/a,77.0,0.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:24:37Z,2,11:44,08:16,Blocked Shot,n/a,56.0,-20.0,Dmitry Orlov,Blocker,Washington Capitals,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:24:52Z,2,11:49,08:11,Takeaway,n/a,45.0,-35.0,Carl Hagelin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:26:01Z,2,13:09,06:51,Hit,n/a,56.0,40.0,Jonas Siegenthaler,Hitter,Washington Capitals,Patrick Kane,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:26:22Z,2,13:29,06:31,Shot,Backhand,85.0,-4.0,Alex Nylander,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:26:33Z,2,13:40,06:20,Missed Shot,n/a,-79.0,-5.0,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:26:54Z,2,14:01,05:59,Hit,n/a,76.0,40.0,Ryan Carpenter,Hitter,Chicago Blackhawks,T.J. Oshie,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:27:25Z,2,14:32,05:28,Blocked Shot,n/a,52.0,-27.0,Dmitry Orlov,Blocker,Washington Capitals,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:27:36Z,2,14:35,05:25,Shot,Wrist Shot,42.0,-11.0,Connor Murphy,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:29:28Z,2,14:35,05:25,Faceoff,n/a,69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:30:04Z,2,14:42,05:18,Faceoff,n/a,69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:30:22Z,2,14:47,05:13,Missed Shot,n/a,34.0,19.0,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:30:39Z,2,15:04,04:56,Hit,n/a,-59.0,-37.0,Alex Ovechkin,Hitter,Washington Capitals,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:30:55Z,2,15:20,04:40,Hit,n/a,-80.0,38.0,Alex Ovechkin,Hitter,Washington Capitals,Duncan Keith,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:31:29Z,2,15:43,04:17,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:32:15Z,2,16:12,03:48,Shot,Wrist Shot,-73.0,-12.0,Jakub Vrana,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:34:12Z,2,16:12,03:48,Faceoff,n/a,-69.0,-22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:34:43Z,2,16:20,03:40,Hit,n/a,-84.0,-32.0,Garnet Hathaway,Hitter,Washington Capitals,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:35:04Z,2,16:24,03:36,Faceoff,n/a,20.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:35:35Z,2,16:45,03:15,Takeaway,n/a,-38.0,-8.0,Alex Nylander,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:35:41Z,2,16:52,03:08,Hit,n/a,-95.0,-20.0,Evgeny Kuznetsov,Hitter,Washington Capitals,Alex Nylander,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:35:53Z,2,17:04,02:56,Blocked Shot,n/a,-80.0,-7.0,Calvin de Haan,Blocker,Chicago Blackhawks,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:36:03Z,2,17:13,02:47,Missed Shot,n/a,-47.0,19.0,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:36:09Z,2,17:19,02:41,Shot,Wrist Shot,-81.0,-28.0,Carl Hagelin,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:36:16Z,2,17:26,02:34,Hit,n/a,-49.0,-36.0,Connor Murphy,Hitter,Chicago Blackhawks,Chandler Stephenson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:36:57Z,2,18:07,01:53,Hit,n/a,60.0,37.0,Alex Ovechkin,Hitter,Washington Capitals,Dylan Strome,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:37:05Z,2,18:16,01:44,Hit,n/a,35.0,-28.0,T.J. Oshie,Hitter,Washington Capitals,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:37:11Z,2,18:21,01:39,Hit,n/a,61.0,-35.0,Alex Ovechkin,Hitter,Washington Capitals,Dylan Strome,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:37:15Z,2,18:25,01:35,Shot,Wrist Shot,-71.0,-19.0,Nicklas Backstrom,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:37:22Z,2,18:32,01:28,Blocked Shot,n/a,-70.0,6.0,Connor Murphy,Blocker,Chicago Blackhawks,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:37:48Z,2,18:41,01:19,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:38:18Z,2,18:59,01:01,Hit,n/a,-20.0,27.0,Jonathan Toews,Hitter,Chicago Blackhawks,Jonas Siegenthaler,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:38:45Z,2,19:01,00:59,Faceoff,n/a,-20.0,22.0,Lars Eller,Winner,Washington Capitals,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:39:26Z,2,19:42,00:18,Hit,n/a,37.0,33.0,Tom Wilson,Hitter,Washington Capitals,Brandon Saad,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:39:42Z,2,19:58,00:02,Blocked Shot,n/a,43.0,-25.0,Evgeny Kuznetsov,Blocker,Washington Capitals,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:58:14Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:58:29Z,3,00:12,19:48,Hit,n/a,84.0,36.0,T.J. Oshie,Hitter,Washington Capitals,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:58:50Z,3,00:32,19:28,Hit,n/a,87.0,32.0,Alex Ovechkin,Hitter,Washington Capitals,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:58:58Z,3,00:33,19:27,Penalty,Tripping,77.0,39.0,Michal Kempny,PenaltyOn,Washington Capitals,Patrick Kane,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T00:59:22Z,3,00:33,19:27,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:00:07Z,3,00:58,19:02,Shot,Wrist Shot,-41.0,18.0,Erik Gustafsson,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:00:49Z,3,01:41,18:19,Blocked Shot,n/a,56.0,7.0,Erik Gustafsson,Blocker,Chicago Blackhawks,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:01:43Z,3,02:35,17:25,Hit,n/a,-81.0,36.0,Radko Gudas,Hitter,Washington Capitals,Brent Seabrook,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:01:48Z,3,02:40,17:20,Shot,Slap Shot,-46.0,27.0,Brent Seabrook,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:02:29Z,3,02:40,17:20,Faceoff,n/a,-69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:03:11Z,3,03:18,16:42,Takeaway,n/a,-32.0,-4.0,Alex Nylander,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:03:22Z,3,03:29,16:31,Hit,n/a,96.0,18.0,Calvin de Haan,Hitter,Chicago Blackhawks,Jakub Vrana,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:03:53Z,3,03:49,16:11,Missed Shot,n/a,38.0,31.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:04:00Z,3,03:52,16:08,Goal,Wrist Shot,61.0,10.0,Alex Ovechkin,Scorer,Washington Capitals,John Carlson,Assist,Washington Capitals,Michal Kempny,Assist,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks
+2019-10-21T01:04:16Z,3,03:52,16:08,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:04:36Z,3,04:05,15:55,Hit,n/a,-35.0,-38.0,John Carlson,Hitter,Washington Capitals,Dylan Strome,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:04:43Z,3,04:12,15:48,Hit,n/a,2.0,-39.0,Alex Ovechkin,Hitter,Washington Capitals,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:04:56Z,3,04:25,15:35,Takeaway,n/a,91.0,-25.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:05:06Z,3,04:34,15:26,Hit,n/a,-93.0,-25.0,Michal Kempny,Hitter,Washington Capitals,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:05:13Z,3,04:41,15:19,Blocked Shot,n/a,-78.0,3.0,T.J. Oshie,Blocker,Washington Capitals,Brent Seabrook,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:05:17Z,3,04:46,15:14,Takeaway,n/a,-3.0,2.0,Alex DeBrincat,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:05:38Z,3,04:53,15:07,Giveaway,n/a,-21.0,29.0,Alex DeBrincat,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:05:53Z,3,05:22,14:38,Hit,n/a,-33.0,40.0,Radko Gudas,Hitter,Washington Capitals,Alex DeBrincat,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:05:57Z,3,05:25,14:35,Missed Shot,n/a,-44.0,24.0,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:06:18Z,3,05:45,14:15,Shot,Slap Shot,-50.0,23.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:06:40Z,3,05:45,14:15,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:06:57Z,3,05:55,14:05,Shot,Slap Shot,-67.0,-8.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:07:21Z,3,06:02,13:58,Takeaway,n/a,-34.0,10.0,Dominik Kubalik,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:07:08Z,3,06:05,13:55,Shot,Backhand,-81.0,7.0,Brandon Saad,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:07:13Z,3,06:05,13:55,Goal,Wrist Shot,-78.0,-7.0,Dominik Kubalik,Scorer,Chicago Blackhawks,Brandon Saad,Assist,Chicago Blackhawks,David Kampf,Assist,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals
+2019-10-21T01:07:48Z,3,06:05,13:55,Faceoff,n/a,0.0,0.0,Ryan Carpenter,Winner,Chicago Blackhawks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:08:16Z,3,06:30,13:30,Blocked Shot,n/a,42.0,-22.0,Alex Nylander,Blocker,Chicago Blackhawks,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:08:20Z,3,06:34,13:26,Giveaway,n/a,96.0,-1.0,Connor Murphy,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:08:43Z,3,06:37,13:23,Missed Shot,n/a,38.0,33.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:08:29Z,3,06:43,13:17,Shot,Wrist Shot,48.0,-16.0,Alex Ovechkin,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:09:05Z,3,07:16,12:44,Shot,Wrist Shot,-64.0,11.0,Dylan Strome,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:11:29Z,3,07:16,12:44,Faceoff,n/a,-69.0,22.0,Lars Eller,Winner,Washington Capitals,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:12:05Z,3,07:38,12:22,Giveaway,n/a,23.0,5.0,Brendan Leipsic,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:12:59Z,3,08:31,11:29,Blocked Shot,n/a,-81.0,11.0,Michal Kempny,Blocker,Washington Capitals,Andrew Shaw,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:13:05Z,3,08:38,11:22,Blocked Shot,n/a,-70.0,-28.0,T.J. Oshie,Blocker,Washington Capitals,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:13:31Z,3,09:01,10:59,Shot,Wrist Shot,-5.0,0.0,Andrew Shaw,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:13:54Z,3,09:01,10:59,Faceoff,n/a,-69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:14:27Z,3,09:25,10:35,Blocked Shot,n/a,-80.0,-5.0,Jonas Siegenthaler,Blocker,Washington Capitals,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:14:42Z,3,09:40,10:20,Takeaway,n/a,68.0,12.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:14:56Z,3,09:52,10:08,Giveaway,n/a,72.0,36.0,Ryan Carpenter,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:15:13Z,3,09:55,10:05,Giveaway,n/a,44.0,37.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:15:00Z,3,09:58,10:02,Goal,Wrist Shot,-73.0,18.0,Patrick Kane,Scorer,Chicago Blackhawks,Alex Nylander,Assist,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a
+2019-10-21T01:15:40Z,3,09:58,10:02,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:15:52Z,3,10:09,09:51,Hit,n/a,56.0,-34.0,Nick Jensen,Hitter,Washington Capitals,Alex Nylander,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:15:59Z,3,10:17,09:43,Hit,n/a,45.0,-36.0,Alex Ovechkin,Hitter,Washington Capitals,Alex Nylander,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:16:11Z,3,10:28,09:32,Blocked Shot,n/a,-80.0,-3.0,Nick Jensen,Blocker,Washington Capitals,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:16:27Z,3,10:44,09:16,Takeaway,n/a,42.0,33.0,Patrick Kane,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:16:37Z,3,10:54,09:06,Hit,n/a,-95.0,-8.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:16:49Z,3,11:06,08:54,Blocked Shot,n/a,-82.0,-4.0,Michal Kempny,Blocker,Washington Capitals,Calvin de Haan,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:16:59Z,3,11:17,08:43,Takeaway,n/a,54.0,34.0,Andrew Shaw,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:17:15Z,3,11:32,08:28,Shot,Wrist Shot,23.0,-21.0,Carl Hagelin,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:17:25Z,3,11:39,08:21,Takeaway,n/a,8.0,-35.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:17:29Z,3,11:46,08:14,Shot,Wrist Shot,84.0,17.0,Lars Eller,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:17:36Z,3,11:47,08:13,Goal,Wrist Shot,82.0,-3.0,Tom Wilson,Scorer,Washington Capitals,Carl Hagelin,Assist,Washington Capitals,Lars Eller,Assist,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks
+2019-10-21T01:18:26Z,3,11:47,08:13,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:18:43Z,3,12:06,07:54,Hit,n/a,96.0,-15.0,Lars Eller,Hitter,Washington Capitals,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:18:50Z,3,12:13,07:47,Shot,Wrist Shot,52.0,-35.0,Radko Gudas,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:18:50Z,3,12:13,07:47,Giveaway,n/a,95.0,-10.0,Olli Maatta,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:18:55Z,3,12:18,07:42,Missed Shot,n/a,82.0,-10.0,Garnet Hathaway,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:19:01Z,3,12:24,07:36,Blocked Shot,n/a,79.0,7.0,Olli Maatta,Blocker,Chicago Blackhawks,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:19:18Z,3,12:41,07:19,Giveaway,n/a,-40.0,17.0,Connor Murphy,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:19:37Z,3,12:59,07:01,Shot,Backhand,82.0,-6.0,Brendan Leipsic,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:21:51Z,3,12:59,07:01,Faceoff,n/a,69.0,-22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:23:10Z,3,13:38,06:22,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:23:26Z,3,13:42,06:18,Blocked Shot,n/a,-64.0,-21.0,T.J. Oshie,Blocker,Washington Capitals,Calvin de Haan,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:23:43Z,3,13:42,06:18,Faceoff,n/a,-69.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Alex DeBrincat,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:24:27Z,3,13:58,06:02,Shot,Wrist Shot,1.0,36.0,Carl Hagelin,Shooter,Washington Capitals,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:25:10Z,3,14:41,05:19,Hit,n/a,42.0,-37.0,Olli Maatta,Hitter,Chicago Blackhawks,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:25:21Z,3,14:53,05:07,Hit,n/a,-95.0,-6.0,David Kampf,Hitter,Chicago Blackhawks,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:25:37Z,3,14:56,05:04,Faceoff,n/a,-69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:26:05Z,3,15:02,04:58,Blocked Shot,n/a,-47.0,-29.0,Radko Gudas,Blocker,Washington Capitals,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:26:11Z,3,15:08,04:52,Blocked Shot,n/a,-81.0,10.0,Jonas Siegenthaler,Blocker,Washington Capitals,Brent Seabrook,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:26:29Z,3,15:26,04:34,Hit,n/a,-74.0,-36.0,Dylan Strome,Hitter,Chicago Blackhawks,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:26:50Z,3,15:37,04:23,Hit,n/a,-59.0,-35.0,Radko Gudas,Hitter,Washington Capitals,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:27:09Z,3,16:05,03:55,Shot,Wrist Shot,-54.0,20.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:27:21Z,3,16:06,03:54,Hit,n/a,-52.0,40.0,Chandler Stephenson,Hitter,Washington Capitals,Duncan Keith,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:30:48Z,3,16:09,03:51,Blocked Shot,n/a,-69.0,1.0,Nicklas Backstrom,Blocker,Washington Capitals,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:27:15Z,3,16:11,03:49,Shot,Wrist Shot,-83.0,-12.0,David Kampf,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:31:07Z,3,16:12,03:48,Shot,Wrist Shot,-80.0,-5.0,David Kampf,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:31:45Z,3,16:13,03:47,Shot,Wrist Shot,-80.0,6.0,Brandon Saad,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:27:29Z,3,16:26,03:34,Blocked Shot,n/a,-75.0,13.0,Nicklas Backstrom,Blocker,Washington Capitals,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:27:49Z,3,16:46,03:14,Hit,n/a,-87.0,-31.0,Nick Jensen,Hitter,Washington Capitals,Jonathan Toews,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:27:58Z,3,16:55,03:05,Shot,Tip-In,-71.0,6.0,Andrew Shaw,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:28:41Z,3,17:19,02:41,Hit,n/a,-90.0,25.0,Nick Jensen,Hitter,Washington Capitals,Andrew Shaw,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:31:29Z,3,17:22,02:38,Faceoff,n/a,-20.0,22.0,David Kampf,Winner,Chicago Blackhawks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:32:40Z,3,17:52,02:08,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:33:07Z,3,18:14,01:46,Blocked Shot,n/a,-49.0,-13.0,Tom Wilson,Blocker,Washington Capitals,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:33:10Z,3,18:17,01:43,Hit,n/a,-90.0,-26.0,Andrew Shaw,Hitter,Chicago Blackhawks,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:33:35Z,3,18:42,01:18,Blocked Shot,n/a,-47.0,9.0,Tom Wilson,Blocker,Washington Capitals,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:33:55Z,3,18:58,01:02,Missed Shot,n/a,-94.0,-7.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:34:57Z,3,18:58,01:02,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:35:31Z,3,19:10,00:50,Goal,Backhand,-73.0,-41.0,Lars Eller,Scorer,Washington Capitals,Dmitry Orlov,Assist,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:36:21Z,3,19:10,00:50,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:36:27Z,3,19:16,00:44,Shot,Backhand,-62.0,37.0,Patrick Kane,Shooter,Chicago Blackhawks,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:36:39Z,3,19:16,00:44,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:37:40Z,3,19:37,00:23,Faceoff,n/a,-69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-21T01:37:52Z,3,19:44,00:16,Blocked Shot,n/a,-58.0,25.0,Alex Ovechkin,Blocker,Washington Capitals,Brent Seabrook,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a

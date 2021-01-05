@@ -1,0 +1,283 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-16T20:33:15Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:34:22Z,1,00:37,19:23,Hit,n/a,83.0,-34.0,Brady Skjei,Hitter,New York Rangers,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:34:31Z,1,00:50,19:10,Shot,Snap Shot,-43.0,-32.0,Chris Kreider,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:34:47Z,1,00:58,19:02,Faceoff,n/a,-69.0,22.0,Ryan Strome,Winner,New York Rangers,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:35:26Z,1,01:02,18:58,Blocked Shot,n/a,-75.0,2.0,Ryan Strome,Blocker,New York Rangers,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:35:33Z,1,01:15,18:45,Shot,Wrist Shot,-33.0,4.0,Ryan Lindgren,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:35:39Z,1,01:21,18:39,Missed Shot,n/a,-78.0,-6.0,Jesper Fast,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:36:22Z,1,02:03,17:57,Hit,n/a,97.0,1.0,Marc Staal,Hitter,New York Rangers,Jake DeBrusk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:36:32Z,1,02:13,17:47,Shot,Tip-In,76.0,1.0,Danton Heinen,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:36:39Z,1,02:21,17:39,Missed Shot,n/a,37.0,-1.0,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:36:40Z,1,02:21,17:39,Hit,n/a,63.0,39.0,Filip Chytil,Hitter,New York Rangers,Anders Bjork,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:36:52Z,1,02:34,17:26,Shot,Wrist Shot,34.0,33.0,Jeremy Lauzon,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:37:28Z,1,02:44,17:16,Faceoff,n/a,-69.0,-22.0,Greg McKegg,Winner,New York Rangers,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:38:03Z,1,02:59,17:01,Faceoff,n/a,0.0,0.0,Greg McKegg,Winner,New York Rangers,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:38:19Z,1,03:08,16:52,Missed Shot,n/a,-76.0,2.0,Brendan Lemieux,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:38:30Z,1,03:18,16:42,Giveaway,n/a,52.0,-38.0,Sean Kuraly,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:38:58Z,1,03:33,16:27,Faceoff,n/a,69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:39:16Z,1,03:38,16:22,Takeaway,n/a,88.0,8.0,Brady Skjei,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:39:21Z,1,03:43,16:17,Giveaway,n/a,97.0,-4.0,Brady Skjei,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:39:26Z,1,03:44,16:16,Hit,n/a,97.0,12.0,Brady Skjei,Hitter,New York Rangers,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:39:26Z,1,03:48,16:12,Missed Shot,n/a,38.0,-20.0,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:39:54Z,1,04:16,15:44,Shot,Wrist Shot,77.0,0.0,David Pastrnak,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:40:04Z,1,04:21,15:39,Hit,n/a,46.0,-39.0,Brady Skjei,Hitter,New York Rangers,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:40:13Z,1,04:24,15:36,Faceoff,n/a,69.0,-22.0,David Krejci,Winner,Boston Bruins,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:40:29Z,1,04:28,15:32,Shot,Slap Shot,38.0,-33.0,Brandon Carlo,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:40:34Z,1,04:29,15:31,Shot,Wrist Shot,66.0,-3.0,Karson Kuhlman,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:40:46Z,1,04:29,15:31,Faceoff,n/a,69.0,-22.0,David Krejci,Winner,Boston Bruins,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:41:14Z,1,04:49,15:11,Hit,n/a,32.0,38.0,Karson Kuhlman,Hitter,Boston Bruins,Marc Staal,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:41:39Z,1,05:06,14:54,Faceoff,n/a,69.0,-22.0,Ryan Strome,Winner,New York Rangers,Danton Heinen,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:42:37Z,1,05:12,14:48,Faceoff,n/a,69.0,-22.0,Ryan Strome,Winner,New York Rangers,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:43:11Z,1,05:52,14:08,Blocked Shot,n/a,-79.0,-8.0,Matt Grzelcyk,Blocker,Boston Bruins,Filip Chytil,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:43:34Z,1,06:15,13:45,Giveaway,n/a,54.0,-38.0,Charlie Coyle,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:43:40Z,1,06:19,13:41,Shot,Wrist Shot,-54.0,-25.0,Brendan Lemieux,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:43:40Z,1,06:21,13:39,Shot,Deflected,-76.0,2.0,Brendan Lemieux,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:45:30Z,1,06:22,13:38,Faceoff,n/a,-69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Greg McKegg,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:46:43Z,1,06:50,13:10,Shot,Deflected,-94.0,14.0,Brett Howden,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:46:55Z,1,06:51,13:09,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Chris Kreider,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:47:55Z,1,07:25,12:35,Shot,Wrist Shot,-48.0,-36.0,Chris Kreider,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:48:26Z,1,07:53,12:07,Shot,Wrist Shot,50.0,27.0,Jake DeBrusk,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:48:31Z,1,07:55,12:05,Shot,Deflected,80.0,0.0,Jake DeBrusk,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:49:00Z,1,07:56,12:04,Faceoff,n/a,69.0,22.0,Ryan Strome,Winner,New York Rangers,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:49:21Z,1,08:00,12:00,Hit,n/a,98.0,12.0,Karson Kuhlman,Hitter,Boston Bruins,Marc Staal,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:49:36Z,1,08:03,11:57,Faceoff,n/a,69.0,-22.0,Ryan Strome,Winner,New York Rangers,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:50:04Z,1,08:15,11:45,Hit,n/a,-55.0,-23.0,Ryan Strome,Hitter,New York Rangers,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:50:24Z,1,08:16,11:44,Faceoff,n/a,20.0,-22.0,Charlie Coyle,Winner,Boston Bruins,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:50:54Z,1,08:35,11:25,Giveaway,n/a,-95.0,8.0,Jeremy Lauzon,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:51:02Z,1,08:42,11:18,Giveaway,n/a,-89.0,-33.0,Kaapo Kakko,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:51:10Z,1,08:50,11:10,Hit,n/a,97.0,16.0,Danton Heinen,Hitter,Boston Bruins,Phillip Di Giuseppe,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:51:19Z,1,09:00,11:00,Shot,Backhand,-82.0,17.0,Phillip Di Giuseppe,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:51:44Z,1,09:25,10:35,Hit,n/a,74.0,40.0,Joakim Nordstrom,Hitter,Boston Bruins,Jacob Trouba,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:51:52Z,1,09:33,10:27,Blocked Shot,n/a,60.0,-15.0,Greg McKegg,Blocker,New York Rangers,Brandon Carlo,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:52:02Z,1,09:42,10:18,Hit,n/a,-96.0,21.0,Brandon Carlo,Hitter,Boston Bruins,Greg McKegg,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:52:15Z,1,09:55,10:05,Hit,n/a,60.0,-39.0,Jacob Trouba,Hitter,New York Rangers,Chris Wagner,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:52:32Z,1,10:13,09:47,Missed Shot,n/a,63.0,-1.0,Chris Wagner,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:53:00Z,1,10:40,09:20,Hit,n/a,96.0,14.0,Mika Zibanejad,Hitter,New York Rangers,Patrice Bergeron,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:53:49Z,1,11:26,08:34,Hit,n/a,14.0,39.0,Ryan Lindgren,Hitter,New York Rangers,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:54:13Z,1,11:31,08:29,Penalty,Roughing,11.0,40.0,Ryan Lindgren,PenaltyOn,New York Rangers,Brad Marchand,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:55:38Z,1,11:31,08:29,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:56:26Z,1,11:37,08:23,Shot,Wrist Shot,64.0,-15.0,Patrice Bergeron,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:56:31Z,1,11:37,08:23,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:57:11Z,1,12:05,07:55,Missed Shot,n/a,76.0,-2.0,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:57:34Z,1,12:15,07:45,Faceoff,n/a,69.0,-22.0,Brett Howden,Winner,New York Rangers,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:57:51Z,1,12:25,07:35,Blocked Shot,n/a,73.0,-10.0,Marc Staal,Blocker,New York Rangers,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:57:59Z,1,12:32,07:28,Missed Shot,n/a,67.0,16.0,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:58:03Z,1,12:37,07:23,Shot,Wrist Shot,82.0,6.0,Jake DeBrusk,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:58:25Z,1,12:58,07:02,Missed Shot,n/a,60.0,18.0,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:59:15Z,1,13:48,06:12,Hit,n/a,88.0,-32.0,Mika Zibanejad,Hitter,New York Rangers,Matt Grzelcyk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:59:31Z,1,14:05,05:55,Blocked Shot,n/a,-58.0,-1.0,Charlie McAvoy,Blocker,Boston Bruins,Chris Kreider,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:59:37Z,1,14:10,05:50,Blocked Shot,n/a,-75.0,13.0,Charlie McAvoy,Blocker,Boston Bruins,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T20:59:51Z,1,14:24,05:36,Shot,Wrist Shot,-53.0,-9.0,Adam Fox,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:02:14Z,1,14:24,05:36,Faceoff,n/a,-69.0,-22.0,Filip Chytil,Winner,New York Rangers,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:02:33Z,1,14:38,05:22,Shot,Wrist Shot,-61.0,-39.0,Phillip Di Giuseppe,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:02:54Z,1,14:38,05:22,Faceoff,n/a,-69.0,-22.0,Charlie Coyle,Winner,Boston Bruins,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:03:59Z,1,15:41,04:19,Missed Shot,n/a,-67.0,1.0,Brendan Smith,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:04:07Z,1,15:50,04:10,Missed Shot,n/a,-54.0,29.0,Brendan Smith,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:04:24Z,1,16:07,03:53,Takeaway,n/a,17.0,-36.0,Sean Kuraly,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:04:46Z,1,16:29,03:31,Giveaway,n/a,-98.0,-11.0,Zdeno Chara,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:05:21Z,1,17:01,02:59,Blocked Shot,n/a,77.0,-10.0,Jacob Trouba,Blocker,New York Rangers,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:05:36Z,1,17:01,02:59,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Brad Marchand,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:06:53Z,1,17:55,02:05,Shot,Wrist Shot,76.0,30.0,Torey Krug,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:07:10Z,1,17:55,02:05,Faceoff,n/a,69.0,22.0,David Krejci,Winner,Boston Bruins,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:07:27Z,1,18:00,02:00,Blocked Shot,n/a,59.0,21.0,Jesper Fast,Blocker,New York Rangers,Torey Krug,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:07:33Z,1,18:06,01:54,Blocked Shot,n/a,-71.0,1.0,Torey Krug,Blocker,Boston Bruins,Brendan Smith,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:07:42Z,1,18:15,01:45,Missed Shot,n/a,-79.0,13.0,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:08:06Z,1,18:18,01:42,Blocked Shot,n/a,59.0,-22.0,Marc Staal,Blocker,New York Rangers,Karson Kuhlman,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:08:15Z,1,18:20,01:40,Faceoff,n/a,69.0,-22.0,Filip Chytil,Winner,New York Rangers,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:09:40Z,1,19:15,00:45,Giveaway,n/a,95.0,-3.0,Alexandar Georgiev,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:09:21Z,1,19:18,00:42,Goal,Deflected,38.0,-25.0,Charlie McAvoy,Scorer,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:10:11Z,1,19:18,00:42,Faceoff,n/a,0.0,0.0,Brett Howden,Winner,New York Rangers,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:10:33Z,1,19:36,00:24,Hit,n/a,2.0,-38.0,Brendan Lemieux,Hitter,New York Rangers,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:10:53Z,1,19:56,00:04,Hit,n/a,37.0,-38.0,Sean Kuraly,Hitter,Boston Bruins,Brett Howden,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:29:34Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:29:53Z,2,00:09,19:51,Shot,Wrist Shot,-38.0,-6.0,David Pastrnak,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:31:00Z,2,01:15,18:45,Shot,Tip-In,76.0,4.0,Ryan Strome,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:31:18Z,2,01:15,18:45,Faceoff,n/a,69.0,22.0,David Krejci,Winner,Boston Bruins,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:31:32Z,2,01:21,18:39,Hit,n/a,79.0,38.0,Brandon Carlo,Hitter,Boston Bruins,Jesper Fast,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:31:54Z,2,01:43,18:17,Missed Shot,n/a,-41.0,14.0,David Krejci,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:31:57Z,2,01:45,18:15,Giveaway,n/a,-76.0,3.0,Ryan Strome,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:31:59Z,2,01:48,18:12,Shot,Tip-In,-79.0,-1.0,David Krejci,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:32:06Z,2,01:51,18:09,Missed Shot,n/a,-37.0,-35.0,Torey Krug,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:32:13Z,2,02:01,17:59,Shot,Wrist Shot,-73.0,29.0,Karson Kuhlman,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:32:18Z,2,02:06,17:54,Missed Shot,n/a,-33.0,26.0,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:32:44Z,2,02:33,17:27,Takeaway,n/a,-89.0,11.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:32:58Z,2,02:47,17:13,Giveaway,n/a,-68.0,38.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:33:04Z,2,02:53,17:07,Hit,n/a,-67.0,39.0,Adam Fox,Hitter,New York Rangers,Anders Bjork,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:33:19Z,2,03:06,16:54,Shot,Deflected,-36.0,-17.0,Torey Krug,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:33:35Z,2,03:06,16:54,Faceoff,n/a,-69.0,-22.0,Sean Kuraly,Winner,Boston Bruins,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:33:53Z,2,03:10,16:50,Missed Shot,n/a,-36.0,-31.0,Torey Krug,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:34:03Z,2,03:20,16:40,Hit,n/a,-71.0,40.0,Brendan Lemieux,Hitter,New York Rangers,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:34:11Z,2,03:28,16:32,Hit,n/a,-68.0,39.0,Chris Wagner,Hitter,Boston Bruins,Brendan Lemieux,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:34:19Z,2,03:36,16:24,Hit,n/a,-84.0,36.0,Chris Wagner,Hitter,Boston Bruins,Brendan Smith,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:34:45Z,2,03:42,16:18,Faceoff,n/a,20.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:35:44Z,2,04:30,15:30,Shot,Wrist Shot,-54.0,-9.0,David Pastrnak,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:35:56Z,2,04:42,15:18,Hit,n/a,17.0,39.0,Mika Zibanejad,Hitter,New York Rangers,Zdeno Chara,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:36:04Z,2,04:50,15:10,Giveaway,n/a,56.0,-27.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:36:08Z,2,04:55,15:05,Blocked Shot,n/a,66.0,-16.0,Charlie McAvoy,Blocker,Boston Bruins,Ryan Strome,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:36:31Z,2,05:06,14:54,Penalty,Hi stick - double minor,-69.0,-4.0,David Krejci,PenaltyOn,Boston Bruins,Ryan Lindgren,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:37:22Z,2,05:06,14:54,Faceoff,n/a,69.0,-22.0,Sean Kuraly,Winner,Boston Bruins,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:38:51Z,2,05:23,14:37,Giveaway,n/a,-33.0,-19.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:39:39Z,2,06:11,13:49,Shot,Wrist Shot,53.0,35.0,Chris Kreider,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:39:47Z,2,06:20,13:40,Hit,n/a,-95.0,22.0,Brad Marchand,Hitter,Boston Bruins,Adam Fox,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:39:56Z,2,06:29,13:31,Shot,Slap Shot,-34.0,0.0,Jeremy Lauzon,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:40:24Z,2,06:57,13:03,Hit,n/a,76.0,38.0,Brandon Carlo,Hitter,Boston Bruins,Filip Chytil,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:40:50Z,2,07:23,12:37,Blocked Shot,n/a,67.0,-13.0,Brandon Carlo,Blocker,Boston Bruins,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:40:58Z,2,07:31,12:29,Shot,Wrist Shot,37.0,25.0,Adam Fox,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:41:39Z,2,08:12,11:48,Giveaway,n/a,33.0,-5.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:42:11Z,2,08:44,11:16,Missed Shot,n/a,37.0,-12.0,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:42:38Z,2,09:11,10:49,Shot,Wrist Shot,73.0,-31.0,Brady Skjei,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:43:09Z,2,09:15,10:45,Faceoff,n/a,69.0,22.0,Greg McKegg,Winner,New York Rangers,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:43:22Z,2,09:22,10:38,Missed Shot,n/a,72.0,-1.0,Greg McKegg,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:43:31Z,2,09:31,10:29,Missed Shot,n/a,44.0,-31.0,Brendan Smith,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:44:01Z,2,10:01,09:59,Takeaway,n/a,-66.0,32.0,David Krejci,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:44:39Z,2,10:39,09:21,Hit,n/a,-83.0,-26.0,Danton Heinen,Hitter,Boston Bruins,Jacob Trouba,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:44:46Z,2,10:46,09:14,Takeaway,n/a,-72.0,-19.0,Brendan Lemieux,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:44:51Z,2,10:51,09:09,Giveaway,n/a,94.0,-3.0,Jaroslav Halak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:45:00Z,2,11:00,09:00,Blocked Shot,n/a,43.0,-27.0,Anders Bjork,Blocker,Boston Bruins,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:45:13Z,2,11:13,08:47,Blocked Shot,n/a,-70.0,2.0,Jacob Trouba,Blocker,New York Rangers,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:45:25Z,2,11:25,08:35,Missed Shot,n/a,-73.0,-1.0,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:45:26Z,2,11:26,08:34,Hit,n/a,-96.0,-2.0,Brady Skjei,Hitter,New York Rangers,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:45:54Z,2,11:33,08:27,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:46:07Z,2,11:39,08:21,Giveaway,n/a,-63.0,39.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:46:38Z,2,11:44,08:16,Takeaway,n/a,-8.0,-20.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:46:17Z,2,11:46,08:14,Shot,Wrist Shot,-73.0,-31.0,Brad Marchand,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:48:53Z,2,11:47,08:13,Faceoff,n/a,-69.0,-22.0,Ryan Strome,Winner,New York Rangers,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:49:10Z,2,11:56,08:04,Giveaway,n/a,-94.0,-28.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:49:15Z,2,12:02,07:58,Hit,n/a,-95.0,-23.0,Patrice Bergeron,Hitter,Boston Bruins,Adam Fox,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:49:56Z,2,12:43,07:17,Shot,Wrist Shot,-6.0,27.0,Torey Krug,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:50:16Z,2,12:50,07:10,Faceoff,n/a,-69.0,22.0,David Krejci,Winner,Boston Bruins,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:50:34Z,2,12:53,07:07,Shot,Wrist Shot,-53.0,26.0,Jake DeBrusk,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:52:35Z,2,12:54,07:06,Faceoff,n/a,-69.0,22.0,David Krejci,Winner,Boston Bruins,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:53:07Z,2,13:05,06:55,Hit,n/a,-95.0,23.0,Jake DeBrusk,Hitter,Boston Bruins,Ryan Strome,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:53:12Z,2,13:09,06:51,Blocked Shot,n/a,-77.0,-10.0,Brendan Smith,Blocker,New York Rangers,Torey Krug,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:53:16Z,2,13:14,06:46,Takeaway,n/a,68.0,13.0,Jake DeBrusk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:53:48Z,2,13:46,06:14,Blocked Shot,n/a,-68.0,13.0,Ryan Strome,Blocker,New York Rangers,Jeremy Lauzon,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:53:52Z,2,13:50,06:10,Hit,n/a,-96.0,-17.0,Jacob Trouba,Hitter,New York Rangers,Matt Grzelcyk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:54:01Z,2,13:59,06:01,Giveaway,n/a,-60.0,38.0,Artemi Panarin,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:54:16Z,2,14:14,05:46,Takeaway,n/a,-62.0,22.0,Brady Skjei,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:54:33Z,2,14:31,05:29,Hit,n/a,96.0,19.0,Charlie Coyle,Hitter,Boston Bruins,Kaapo Kakko,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:54:46Z,2,14:44,05:16,Blocked Shot,n/a,65.0,-13.0,Danton Heinen,Blocker,Boston Bruins,Marc Staal,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:54:57Z,2,14:55,05:05,Giveaway,n/a,39.0,4.0,Filip Chytil,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:55:08Z,2,15:06,04:54,Hit,n/a,-33.0,-39.0,Sean Kuraly,Hitter,Boston Bruins,Filip Chytil,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:55:18Z,2,15:16,04:44,Shot,Wrist Shot,54.0,-27.0,Kaapo Kakko,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:55:44Z,2,15:42,04:18,Giveaway,n/a,92.0,-6.0,Jaroslav Halak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:56:03Z,2,16:01,03:59,Shot,Backhand,77.0,0.0,Ryan Lindgren,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:56:08Z,2,16:06,03:54,Shot,Wrist Shot,53.0,21.0,Brendan Lemieux,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:56:11Z,2,16:09,03:51,Giveaway,n/a,67.0,38.0,Brett Howden,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:58:41Z,2,16:35,03:25,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T21:59:28Z,2,16:51,03:09,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Brad Marchand,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:00:15Z,2,17:04,02:56,Hit,n/a,-94.0,25.0,Pavel Buchnevich,Hitter,New York Rangers,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:00:26Z,2,17:13,02:47,Shot,Tip-In,-75.0,-1.0,Patrice Bergeron,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:00:40Z,2,17:14,02:46,Penalty,Cross checking,-86.0,-2.0,Brad Marchand,PenaltyOn,Boston Bruins,Ryan Lindgren,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:01:43Z,2,17:14,02:46,Faceoff,n/a,69.0,-22.0,Ryan Strome,Winner,New York Rangers,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:02:08Z,2,17:23,02:37,Missed Shot,n/a,35.0,-14.0,Adam Fox,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:02:43Z,2,17:58,02:02,Shot,Tip-In,67.0,0.0,Mika Zibanejad,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:02:56Z,2,18:11,01:49,Giveaway,n/a,98.0,5.0,Chris Kreider,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:03:19Z,2,18:34,01:26,Hit,n/a,93.0,27.0,Jeremy Lauzon,Hitter,Boston Bruins,Brendan Lemieux,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:03:26Z,2,18:41,01:19,Takeaway,n/a,34.0,12.0,Charlie Coyle,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:03:28Z,2,18:42,01:18,Goal,Wrist Shot,-77.0,4.0,Charlie Coyle,Scorer,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:04:13Z,2,18:42,01:18,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:04:29Z,2,19:00,01:00,Hit,n/a,95.0,-26.0,Jeremy Lauzon,Hitter,Boston Bruins,Mika Zibanejad,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:04:39Z,2,19:10,00:50,Giveaway,n/a,60.0,-25.0,Mika Zibanejad,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:04:43Z,2,19:14,00:46,Shot,Wrist Shot,-4.0,12.0,Patrice Bergeron,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:04:47Z,2,19:17,00:43,Giveaway,n/a,-83.0,-4.0,Alexandar Georgiev,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:04:54Z,2,19:24,00:36,Blocked Shot,n/a,-65.0,0.0,Artemi Panarin,Blocker,New York Rangers,David Krejci,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:05:05Z,2,19:33,00:27,Penalty,Tripping,44.0,5.0,Mika Zibanejad,PenaltyOn,New York Rangers,Brad Marchand,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:06:25Z,2,19:33,00:27,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Greg McKegg,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:06:39Z,2,19:40,00:20,Shot,Snap Shot,-67.0,14.0,Patrice Bergeron,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:06:46Z,2,19:41,00:19,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Greg McKegg,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:07:13Z,2,19:55,00:05,Missed Shot,n/a,-78.0,-2.0,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:25:52Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Strome,Winner,New York Rangers,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:26:21Z,3,00:34,19:26,Giveaway,n/a,32.0,5.0,Torey Krug,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:26:39Z,3,00:51,19:09,Hit,n/a,96.0,22.0,Brett Howden,Hitter,New York Rangers,Patrice Bergeron,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:26:46Z,3,00:56,19:04,Shot,Wrist Shot,75.0,-33.0,Torey Krug,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:26:46Z,3,00:57,19:03,Shot,Wrist Shot,79.0,1.0,Danton Heinen,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:27:07Z,3,00:58,19:02,Faceoff,n/a,69.0,-22.0,David Krejci,Winner,Boston Bruins,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:27:29Z,3,01:09,18:51,Shot,Wrist Shot,41.0,-26.0,David Krejci,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:27:42Z,3,01:21,18:39,Shot,Wrist Shot,53.0,0.0,Charlie Coyle,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:27:56Z,3,01:21,18:39,Faceoff,n/a,69.0,-22.0,David Krejci,Winner,Boston Bruins,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:28:15Z,3,01:31,18:29,Blocked Shot,n/a,72.0,14.0,Marc Staal,Blocker,New York Rangers,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:28:42Z,3,01:44,18:16,Faceoff,n/a,-69.0,-22.0,Chris Kreider,Winner,New York Rangers,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:29:02Z,3,01:54,18:06,Shot,Wrist Shot,2.0,-40.0,Charlie McAvoy,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:29:05Z,3,01:57,18:03,Hit,n/a,46.0,39.0,Jake DeBrusk,Hitter,Boston Bruins,Brady Skjei,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:29:13Z,3,02:04,17:56,Hit,n/a,-97.0,3.0,Mika Zibanejad,Hitter,New York Rangers,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:29:29Z,3,02:21,17:39,Shot,Backhand,-69.0,-28.0,Chris Kreider,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:29:49Z,3,02:40,17:20,Blocked Shot,n/a,56.0,-21.0,Jacob Trouba,Blocker,New York Rangers,Joakim Nordstrom,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:30:17Z,3,02:48,17:12,Faceoff,n/a,0.0,0.0,Filip Chytil,Winner,New York Rangers,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:31:48Z,3,04:13,15:47,Missed Shot,n/a,-65.0,16.0,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:32:12Z,3,04:14,15:46,Faceoff,n/a,-69.0,22.0,David Krejci,Winner,Boston Bruins,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:32:29Z,3,04:18,15:42,Hit,n/a,-60.0,-20.0,Marc Staal,Hitter,New York Rangers,Karson Kuhlman,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:32:38Z,3,04:23,15:37,Penalty,Interference,-58.0,-28.0,Karson Kuhlman,PenaltyOn,Boston Bruins,Marc Staal,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:33:04Z,3,04:23,15:37,Faceoff,n/a,-69.0,22.0,Ryan Strome,Winner,New York Rangers,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:33:23Z,3,04:30,15:30,Missed Shot,n/a,-68.0,2.0,Chris Kreider,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:33:29Z,3,04:36,15:24,Giveaway,n/a,-71.0,-39.0,Chris Kreider,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:33:41Z,3,04:48,15:12,Shot,Slap Shot,58.0,25.0,Zdeno Chara,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:33:51Z,3,04:56,15:04,Shot,Wrist Shot,-78.0,10.0,Ryan Strome,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:34:03Z,3,04:57,15:03,Faceoff,n/a,-69.0,22.0,Ryan Strome,Winner,New York Rangers,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:35:06Z,3,05:40,14:20,Faceoff,n/a,69.0,-22.0,Charlie Coyle,Winner,Boston Bruins,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:35:41Z,3,05:57,14:03,Missed Shot,n/a,-76.0,11.0,Adam Fox,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:36:06Z,3,06:22,13:38,Missed Shot,n/a,-35.0,32.0,Pavel Buchnevich,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:36:16Z,3,06:30,13:30,Missed Shot,n/a,-77.0,37.0,Pavel Buchnevich,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:36:34Z,3,06:32,13:28,Faceoff,n/a,-69.0,22.0,Filip Chytil,Winner,New York Rangers,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:36:54Z,3,06:37,13:23,Blocked Shot,n/a,-79.0,0.0,Zdeno Chara,Blocker,Boston Bruins,Brendan Lemieux,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:36:55Z,3,06:39,13:21,Hit,n/a,-54.0,39.0,Brendan Lemieux,Hitter,New York Rangers,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:37:07Z,3,06:51,13:09,Blocked Shot,n/a,75.0,2.0,Jacob Trouba,Blocker,New York Rangers,Joakim Nordstrom,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:37:19Z,3,07:03,12:57,Missed Shot,n/a,-75.0,11.0,Brendan Lemieux,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:37:35Z,3,07:18,12:42,Giveaway,n/a,93.0,-4.0,Alexandar Georgiev,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:37:40Z,3,07:24,12:36,Blocked Shot,n/a,62.0,-20.0,Filip Chytil,Blocker,New York Rangers,Karson Kuhlman,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:37:48Z,3,07:28,12:32,Shot,Wrist Shot,-37.0,17.0,Brady Skjei,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:39:37Z,3,07:29,12:31,Faceoff,n/a,-69.0,22.0,Charlie Coyle,Winner,Boston Bruins,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:40:46Z,3,07:57,12:03,Shot,Wrist Shot,75.0,9.0,Charlie Coyle,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:40:49Z,3,07:59,12:01,Hit,n/a,82.0,-37.0,Jesper Fast,Hitter,New York Rangers,Anders Bjork,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:41:14Z,3,08:24,11:36,Hit,n/a,2.0,-39.0,Brandon Carlo,Hitter,Boston Bruins,Ryan Strome,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:41:29Z,3,08:40,11:20,Hit,n/a,70.0,-40.0,Mika Zibanejad,Hitter,New York Rangers,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:41:32Z,3,08:42,11:18,Blocked Shot,n/a,67.0,-12.0,Adam Fox,Blocker,New York Rangers,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:41:53Z,3,09:04,10:56,Missed Shot,n/a,-82.0,-8.0,Chris Kreider,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:42:03Z,3,09:05,10:55,Penalty,Tripping,-59.0,9.0,Torey Krug,PenaltyOn,Boston Bruins,Mika Zibanejad,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:42:25Z,3,09:05,10:55,Faceoff,n/a,-69.0,22.0,Ryan Strome,Winner,New York Rangers,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:42:41Z,3,09:13,10:47,Missed Shot,n/a,-76.0,2.0,Pavel Buchnevich,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:43:04Z,3,09:39,10:21,Missed Shot,n/a,-79.0,9.0,Chris Kreider,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:43:20Z,3,09:52,10:08,Goal,Wrist Shot,-37.0,-2.0,Mika Zibanejad,Scorer,New York Rangers,Artemi Panarin,Assist,New York Rangers,Ryan Strome,Assist,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins
+2020-02-16T22:44:02Z,3,09:52,10:08,Faceoff,n/a,0.0,0.0,David Krejci,Winner,Boston Bruins,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:44:22Z,3,10:06,09:54,Hit,n/a,-18.0,-29.0,Charlie McAvoy,Hitter,Boston Bruins,Filip Chytil,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:44:59Z,3,10:44,09:16,Blocked Shot,n/a,59.0,-2.0,Brady Skjei,Blocker,New York Rangers,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:45:05Z,3,10:50,09:10,Shot,Wrist Shot,30.0,25.0,Torey Krug,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:45:09Z,3,10:53,09:07,Giveaway,n/a,92.0,26.0,Pavel Buchnevich,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:45:19Z,3,11:03,08:57,Hit,n/a,97.0,-1.0,Jacob Trouba,Hitter,New York Rangers,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:45:54Z,3,11:39,08:21,Giveaway,n/a,-80.0,-36.0,Ryan Strome,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:46:34Z,3,12:19,07:41,Takeaway,n/a,-96.0,-17.0,Kaapo Kakko,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:47:24Z,3,13:09,06:51,Shot,Wrist Shot,-71.0,-5.0,Phillip Di Giuseppe,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:47:27Z,3,13:11,06:49,Hit,n/a,-64.0,39.0,Phillip Di Giuseppe,Hitter,New York Rangers,Chris Wagner,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:47:33Z,3,13:17,06:43,Blocked Shot,n/a,-74.0,2.0,Torey Krug,Blocker,Boston Bruins,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:47:35Z,3,13:20,06:40,Hit,n/a,-97.0,4.0,Jeremy Lauzon,Hitter,Boston Bruins,Kaapo Kakko,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:47:54Z,3,13:38,06:22,Shot,Wrist Shot,-41.0,-5.0,Brady Skjei,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:48:07Z,3,13:52,06:08,Hit,n/a,95.0,22.0,Jacob Trouba,Hitter,New York Rangers,Karson Kuhlman,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:48:25Z,3,14:10,05:50,Hit,n/a,-86.0,-35.0,Chris Kreider,Hitter,New York Rangers,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:48:54Z,3,14:12,05:48,Faceoff,n/a,-69.0,22.0,Ryan Strome,Winner,New York Rangers,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:49:02Z,3,14:19,05:41,Hit,n/a,8.0,39.0,Ryan Lindgren,Hitter,New York Rangers,Jake DeBrusk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:49:33Z,3,14:50,05:10,Missed Shot,n/a,-69.0,16.0,Adam Fox,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:49:35Z,3,14:52,05:08,Giveaway,n/a,-97.0,-5.0,Brandon Carlo,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:49:44Z,3,15:01,04:59,Hit,n/a,-63.0,-39.0,Brandon Carlo,Hitter,Boston Bruins,Artemi Panarin,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:49:57Z,3,15:12,04:48,Shot,Wrist Shot,-36.0,-31.0,Brady Skjei,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:50:02Z,3,15:14,04:46,Shot,Wrist Shot,-73.0,-4.0,Filip Chytil,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:52:13Z,3,15:15,04:45,Faceoff,n/a,-69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:52:42Z,3,15:21,04:39,Blocked Shot,n/a,-55.0,23.0,Anders Bjork,Blocker,Boston Bruins,Brady Skjei,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:52:55Z,3,15:21,04:39,Faceoff,n/a,-69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:53:12Z,3,15:27,04:33,Giveaway,n/a,-84.0,36.0,Torey Krug,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:53:22Z,3,15:37,04:23,Giveaway,n/a,-69.0,39.0,Mika Zibanejad,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:53:38Z,3,15:53,04:07,Missed Shot,n/a,-83.0,-9.0,Pavel Buchnevich,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:53:57Z,3,16:12,03:48,Takeaway,n/a,-32.0,8.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:54:33Z,3,16:48,03:12,Giveaway,n/a,-65.0,-34.0,David Krejci,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:54:52Z,3,17:07,02:53,Shot,Slap Shot,-58.0,-27.0,Artemi Panarin,Shooter,New York Rangers,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:55:02Z,3,17:17,02:43,Hit,n/a,71.0,7.0,Ryan Lindgren,Hitter,New York Rangers,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:55:10Z,3,17:21,02:39,Hit,n/a,71.0,39.0,Jake DeBrusk,Hitter,Boston Bruins,Ryan Lindgren,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:57:32Z,3,17:22,02:38,Faceoff,n/a,69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:58:08Z,3,17:59,02:01,Blocked Shot,n/a,-79.0,-14.0,Matt Grzelcyk,Blocker,Boston Bruins,Filip Chytil,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:58:19Z,3,18:10,01:50,Hit,n/a,-42.0,-32.0,Charlie McAvoy,Hitter,Boston Bruins,Filip Chytil,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:58:27Z,3,18:18,01:42,Shot,Wrist Shot,65.0,18.0,Brad Marchand,Shooter,Boston Bruins,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T22:58:56Z,3,18:47,01:13,Missed Shot,n/a,7.0,-34.0,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T23:00:50Z,3,19:24,00:36,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T23:01:38Z,3,19:43,00:17,Giveaway,n/a,31.0,23.0,Mika Zibanejad,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T23:01:44Z,3,19:47,00:13,Goal,Wrist Shot,49.0,9.0,Patrice Bergeron,Scorer,Boston Bruins,Brad Marchand,Assist,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-16T23:02:26Z,3,19:47,00:13,Faceoff,n/a,0.0,0.0,Sean Kuraly,Winner,Boston Bruins,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a

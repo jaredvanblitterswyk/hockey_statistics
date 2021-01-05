@@ -1,0 +1,271 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-21T00:08:00Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:08:33Z,1,00:18,19:42,Hit,n/a,80.0,37.0,Zach Hyman,Hitter,Toronto Maple Leafs,Jacob Trouba,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:08:53Z,1,00:20,19:40,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:09:10Z,1,00:31,19:29,Takeaway,n/a,-36.0,38.0,Tyson Barrie,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:09:25Z,1,00:35,19:25,Faceoff,n/a,-69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:09:40Z,1,00:39,19:21,Hit,n/a,-97.0,-9.0,Jesper Fast,Hitter,New York Rangers,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:09:48Z,1,00:46,19:14,Penalty,Tripping,-87.0,22.0,Morgan Rielly,PenaltyOn,Toronto Maple Leafs,Jesper Fast,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:10:14Z,1,00:46,19:14,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:10:20Z,1,00:52,19:08,Missed Shot,n/a,-49.0,-22.0,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:10:33Z,1,00:54,19:06,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:10:47Z,1,01:00,19:00,Blocked Shot,n/a,-59.0,-9.0,Mitchell Marner,Blocker,Toronto Maple Leafs,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:10:59Z,1,01:12,18:48,Shot,Wrist Shot,-36.0,-5.0,Tony DeAngelo,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:11:05Z,1,01:18,18:42,Takeaway,n/a,-73.0,-39.0,Cody Ceci,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:11:22Z,1,01:35,18:25,Blocked Shot,n/a,-84.0,3.0,Chris Kreider,Blocker,New York Rangers,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:11:37Z,1,01:50,18:10,Giveaway,n/a,-7.0,-17.0,Pavel Buchnevich,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:12:02Z,1,02:00,18:00,Faceoff,n/a,-69.0,22.0,Zach Hyman,Winner,Toronto Maple Leafs,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:12:20Z,1,02:10,17:50,Takeaway,n/a,-29.0,9.0,Zach Hyman,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:12:27Z,1,02:14,17:46,Shot,Wrist Shot,78.0,2.0,Zach Hyman,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:12:41Z,1,02:14,17:46,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:13:07Z,1,02:29,17:31,Shot,Backhand,88.0,-5.0,Zach Hyman,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:13:40Z,1,02:29,17:31,Faceoff,n/a,69.0,-22.0,Filip Chytil,Winner,New York Rangers,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:13:57Z,1,02:43,17:17,Giveaway,n/a,-57.0,-23.0,Filip Chytil,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:14:22Z,1,03:08,16:52,Hit,n/a,-86.0,33.0,Jesper Fast,Hitter,New York Rangers,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:14:33Z,1,03:20,16:40,Missed Shot,n/a,-34.0,36.0,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:14:45Z,1,03:32,16:28,Missed Shot,n/a,-42.0,21.0,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:15:01Z,1,03:48,16:12,Hit,n/a,98.0,-15.0,Jacob Trouba,Hitter,New York Rangers,Frederik Gauthier,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:15:03Z,1,03:50,16:10,Shot,Wrist Shot,70.0,-12.0,Auston Matthews,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:15:55Z,1,04:42,15:18,Giveaway,n/a,-53.0,-40.0,Greg McKegg,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:16:32Z,1,05:19,14:41,Giveaway,n/a,64.0,-35.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:16:46Z,1,05:33,14:27,Hit,n/a,97.0,3.0,Pierre Engvall,Hitter,Toronto Maple Leafs,Ryan Lindgren,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:16:56Z,1,05:42,14:18,Hit,n/a,-87.0,34.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Ryan Strome,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:17:14Z,1,06:01,13:59,Giveaway,n/a,88.0,-12.0,Brady Skjei,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:17:16Z,1,06:03,13:57,Missed Shot,n/a,74.0,-10.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:19:22Z,1,06:13,13:47,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Chris Kreider,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:20:02Z,1,06:22,13:38,Giveaway,n/a,-62.0,-33.0,Justin Holl,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:20:12Z,1,06:31,13:29,Shot,Slap Shot,-49.0,-24.0,Chris Kreider,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:20:16Z,1,06:33,13:27,Shot,Backhand,-82.0,-3.0,Jesper Fast,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:20:27Z,1,06:46,13:14,Hit,n/a,-97.0,-17.0,Mika Zibanejad,Hitter,New York Rangers,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:20:38Z,1,06:57,13:03,Hit,n/a,-97.0,-16.0,Chris Kreider,Hitter,New York Rangers,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:20:39Z,1,06:58,13:02,Blocked Shot,n/a,-72.0,-7.0,Mitchell Marner,Blocker,Toronto Maple Leafs,Chris Kreider,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:20:51Z,1,07:10,12:50,Missed Shot,n/a,-73.0,-17.0,Jesper Fast,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:21:01Z,1,07:20,12:40,Shot,Snap Shot,71.0,12.0,John Tavares,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:21:57Z,1,08:09,11:51,Blocked Shot,n/a,51.0,29.0,Brendan Lemieux,Blocker,New York Rangers,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:22:11Z,1,08:11,11:49,Faceoff,n/a,69.0,22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:22:27Z,1,08:18,11:42,Shot,Wrist Shot,57.0,8.0,Dmytro Timashov,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:22:39Z,1,08:30,11:30,Hit,n/a,77.0,37.0,Dmytro Timashov,Hitter,Toronto Maple Leafs,Tony DeAngelo,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:23:11Z,1,09:03,10:57,Giveaway,n/a,9.0,23.0,Brendan Smith,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:23:29Z,1,09:19,10:41,Shot,Wrist Shot,57.0,25.0,Pierre Engvall,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:23:46Z,1,09:20,10:40,Faceoff,n/a,69.0,22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:24:07Z,1,09:28,10:32,Blocked Shot,n/a,61.0,23.0,Filip Chytil,Blocker,New York Rangers,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:24:12Z,1,09:33,10:27,Hit,n/a,94.0,27.0,Brady Skjei,Hitter,New York Rangers,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:24:20Z,1,09:38,10:22,Goal,Wrist Shot,73.0,0.0,Pierre Engvall,Scorer,Toronto Maple Leafs,Justin Holl,Assist,Toronto Maple Leafs,Ilya Mikheyev,Assist,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers
+2019-12-21T00:24:53Z,1,09:38,10:22,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Pavel Buchnevich,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:25:43Z,1,10:18,09:42,Giveaway,n/a,64.0,10.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:25:50Z,1,10:25,09:35,Giveaway,n/a,68.0,-35.0,Tony DeAngelo,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:26:22Z,1,10:57,09:03,Hit,n/a,-97.0,5.0,Jesper Fast,Hitter,New York Rangers,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:26:36Z,1,11:11,08:49,Hit,n/a,-95.0,18.0,Travis Dermott,Hitter,Toronto Maple Leafs,Mika Zibanejad,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:28:10Z,1,11:11,08:49,Shot,Tip-In,81.0,-1.0,John Tavares,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:28:39Z,1,11:13,08:47,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:29:07Z,1,11:23,08:37,Missed Shot,n/a,-63.0,10.0,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:29:25Z,1,11:41,08:19,Hit,n/a,-92.0,-30.0,Chris Kreider,Hitter,New York Rangers,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:30:05Z,1,11:49,08:11,Giveaway,n/a,98.0,3.0,Alexandar Georgiev,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:29:35Z,1,11:50,08:10,Shot,Wrist Shot,76.0,-38.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:29:46Z,1,11:52,08:08,Goal,Slap Shot,80.0,0.0,William Nylander,Scorer,Toronto Maple Leafs,Kasperi Kapanen,Assist,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a
+2019-12-21T00:30:18Z,1,11:52,08:08,Faceoff,n/a,0.0,0.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:30:39Z,1,12:08,07:52,Blocked Shot,n/a,-79.0,-9.0,Justin Holl,Blocker,Toronto Maple Leafs,Brendan Smith,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:30:43Z,1,12:12,07:48,Takeaway,n/a,-35.0,-2.0,Brett Howden,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:31:13Z,1,12:42,07:18,Takeaway,n/a,6.0,-34.0,Travis Dermott,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:31:29Z,1,12:50,07:10,Blocked Shot,n/a,61.0,21.0,Kaapo Kakko,Blocker,New York Rangers,Travis Dermott,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:31:45Z,1,12:52,07:08,Faceoff,n/a,69.0,22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:31:57Z,1,12:57,07:03,Shot,Wrist Shot,37.0,38.0,Travis Dermott,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:32:57Z,1,13:35,06:25,Faceoff,n/a,-69.0,22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:26:41Z,1,13:37,06:23,Shot,Slap Shot,-53.0,-31.0,Chris Kreider,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:33:03Z,1,13:39,06:21,Hit,n/a,-90.0,31.0,Cody Ceci,Hitter,Toronto Maple Leafs,Chris Kreider,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:33:10Z,1,13:47,06:13,Hit,n/a,-98.0,7.0,Chris Kreider,Hitter,New York Rangers,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:33:31Z,1,14:04,05:56,Goal,Tip-In,-82.0,2.0,Brady Skjei,Scorer,New York Rangers,Mika Zibanejad,Assist,New York Rangers,Chris Kreider,Assist,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-12-21T00:34:10Z,1,14:04,05:56,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:36:29Z,1,14:09,05:51,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:36:51Z,1,14:26,05:34,Hit,n/a,-67.0,39.0,Chris Kreider,Hitter,New York Rangers,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:37:17Z,1,14:52,05:08,Takeaway,n/a,97.0,-4.0,Jacob Trouba,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:37:40Z,1,15:15,04:45,Takeaway,n/a,-4.0,-3.0,Pavel Buchnevich,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:37:49Z,1,15:24,04:36,Missed Shot,n/a,-45.0,-11.0,Ryan Lindgren,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:37:58Z,1,15:32,04:28,Shot,Wrist Shot,-82.0,8.0,Ryan Strome,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:38:09Z,1,15:44,04:16,Giveaway,n/a,34.0,-22.0,Justin Holl,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:38:56Z,1,16:16,03:44,Faceoff,n/a,20.0,-22.0,Filip Chytil,Winner,New York Rangers,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:39:45Z,1,16:50,03:10,Shot,Tip-In,-80.0,9.0,Kaapo Kakko,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:39:48Z,1,16:53,03:07,Hit,n/a,-53.0,-39.0,Kaapo Kakko,Hitter,New York Rangers,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:40:45Z,1,17:48,02:12,Giveaway,n/a,-96.0,-2.0,Tyson Barrie,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:40:48Z,1,17:51,02:09,Goal,Snap Shot,-82.0,6.0,Ryan Strome,Scorer,New York Rangers,Artemi Panarin,Assist,New York Rangers,Pavel Buchnevich,Assist,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-12-21T00:41:28Z,1,17:51,02:09,Faceoff,n/a,0.0,0.0,Mika Zibanejad,Winner,New York Rangers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:41:40Z,1,18:00,02:00,Hit,n/a,69.0,40.0,Adam Fox,Hitter,New York Rangers,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:42:01Z,1,18:22,01:38,Takeaway,n/a,-32.0,10.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:42:34Z,1,18:34,01:26,Faceoff,n/a,69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:42:52Z,1,18:40,01:20,Blocked Shot,n/a,49.0,4.0,Kaapo Kakko,Blocker,New York Rangers,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:43:13Z,1,19:00,01:00,Giveaway,n/a,97.0,-4.0,Brady Skjei,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:43:21Z,1,19:03,00:57,Blocked Shot,n/a,45.0,27.0,Kaapo Kakko,Blocker,New York Rangers,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:43:37Z,1,19:14,00:46,Shot,Wrist Shot,51.0,27.0,Dmytro Timashov,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:43:52Z,1,19:15,00:45,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:44:19Z,1,19:40,00:20,Takeaway,n/a,67.0,-13.0,Marc Staal,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T00:44:45Z,1,19:42,00:18,Faceoff,n/a,-20.0,-22.0,Mika Zibanejad,Winner,New York Rangers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:03:25Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Strome,Winner,New York Rangers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:04:00Z,2,00:12,19:48,Faceoff,n/a,20.0,22.0,Ryan Strome,Winner,New York Rangers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:04:19Z,2,00:20,19:40,Blocked Shot,n/a,33.0,-17.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:04:39Z,2,00:40,19:20,Shot,Wrist Shot,-81.0,-3.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:05:06Z,2,00:40,19:20,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:05:17Z,2,00:46,19:14,Missed Shot,n/a,-86.0,-35.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:05:29Z,2,00:58,19:02,Hit,n/a,93.0,-29.0,Jesper Fast,Hitter,New York Rangers,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:05:42Z,2,01:11,18:49,Shot,Backhand,-75.0,7.0,Auston Matthews,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:05:58Z,2,01:27,18:33,Missed Shot,n/a,-35.0,1.0,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:06:02Z,2,01:29,18:31,Penalty,Interference,67.0,2.0,Mika Zibanejad,PenaltyOn,New York Rangers,Kasperi Kapanen,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:06:35Z,2,01:29,18:31,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:06:49Z,2,01:42,18:18,Giveaway,n/a,-42.0,-29.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:07:06Z,2,01:50,18:10,Penalty,Slashing,-44.0,-10.0,Brendan Smith,PenaltyOn,New York Rangers,Mitchell Marner,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:07:30Z,2,01:50,18:10,Faceoff,n/a,-69.0,-22.0,Ryan Strome,Winner,New York Rangers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:08:05Z,2,02:20,17:40,Shot,Wrist Shot,-65.0,20.0,Auston Matthews,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:08:40Z,2,02:50,17:10,Goal,Deflected,-71.0,-16.0,Mitchell Marner,Scorer,Toronto Maple Leafs,Auston Matthews,Assist,Toronto Maple Leafs,William Nylander,Assist,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers
+2019-12-21T01:09:19Z,2,02:50,17:10,Faceoff,n/a,0.0,0.0,Mika Zibanejad,Winner,New York Rangers,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:09:42Z,2,03:15,16:45,Blocked Shot,n/a,-64.0,2.0,Mika Zibanejad,Blocker,New York Rangers,Alexander Kerfoot,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:10:00Z,2,03:33,16:27,Blocked Shot,n/a,-76.0,2.0,Ryan Lindgren,Blocker,New York Rangers,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:10:12Z,2,03:45,16:15,Shot,Wrist Shot,-67.0,-16.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:10:59Z,2,04:33,15:27,Takeaway,n/a,-60.0,38.0,Ilya Mikheyev,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:11:40Z,2,05:11,14:49,Blocked Shot,n/a,72.0,-16.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Pavel Buchnevich,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:12:04Z,2,05:12,14:48,Faceoff,n/a,69.0,-22.0,Filip Chytil,Winner,New York Rangers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:12:24Z,2,05:25,14:35,Blocked Shot,n/a,75.0,-1.0,Travis Dermott,Blocker,Toronto Maple Leafs,Marc Staal,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:12:33Z,2,05:27,14:33,Goal,Wrist Shot,68.0,18.0,Pavel Buchnevich,Scorer,New York Rangers,Marc Staal,Assist,New York Rangers,Tony DeAngelo,Assist,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-12-21T01:13:02Z,2,05:27,14:33,Faceoff,n/a,0.0,0.0,Mika Zibanejad,Winner,New York Rangers,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:13:18Z,2,05:45,14:15,Missed Shot,n/a,87.0,8.0,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:13:25Z,2,05:50,14:10,Penalty,Delaying Game - Puck over glass,81.0,0.0,Tyson Barrie,PenaltyOn,Toronto Maple Leafs,Chris Kreider,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:14:13Z,2,05:50,14:10,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:14:25Z,2,06:11,13:49,Blocked Shot,n/a,70.0,0.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:15:03Z,2,06:49,13:11,Blocked Shot,n/a,71.0,-11.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:15:11Z,2,06:57,13:03,Giveaway,n/a,96.0,-1.0,Chris Kreider,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:15:58Z,2,07:44,12:16,Giveaway,n/a,29.0,-7.0,Jacob Trouba,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:16:10Z,2,07:57,12:03,Shot,Wrist Shot,-5.0,-19.0,Adam Fox,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:16:39Z,2,08:25,11:35,Missed Shot,n/a,-47.0,32.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:16:47Z,2,08:33,11:27,Shot,Wrist Shot,-61.0,4.0,John Tavares,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:16:50Z,2,08:36,11:24,Hit,n/a,-42.0,34.0,Cody Ceci,Hitter,Toronto Maple Leafs,Greg McKegg,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:17:00Z,2,08:47,11:13,Missed Shot,n/a,-75.0,1.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:17:10Z,2,08:56,11:04,Missed Shot,n/a,-47.0,-17.0,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:17:30Z,2,09:15,10:45,Missed Shot,n/a,-70.0,14.0,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:19:53Z,2,09:20,10:40,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:20:05Z,2,09:24,10:36,Shot,Wrist Shot,-70.0,-31.0,Jake Muzzin,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:20:31Z,2,09:53,10:07,Shot,Wrist Shot,13.0,-37.0,Mika Zibanejad,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:20:53Z,2,10:14,09:46,Giveaway,n/a,51.0,-37.0,Chris Kreider,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:23:00Z,2,10:26,09:34,Faceoff,n/a,-20.0,22.0,Filip Chytil,Winner,New York Rangers,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:23:43Z,2,10:41,09:19,Missed Shot,n/a,-35.0,-31.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:23:57Z,2,10:46,09:14,Blocked Shot,n/a,-52.0,14.0,Brendan Lemieux,Blocker,New York Rangers,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:23:52Z,2,10:50,09:10,Giveaway,n/a,-59.0,39.0,Brendan Lemieux,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:24:08Z,2,10:57,09:03,Blocked Shot,n/a,-72.0,9.0,Ryan Lindgren,Blocker,New York Rangers,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:24:07Z,2,11:06,08:54,Takeaway,n/a,-96.0,6.0,Ryan Lindgren,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:24:21Z,2,11:19,08:41,Giveaway,n/a,-65.0,40.0,Ilya Mikheyev,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:24:54Z,2,11:52,08:08,Giveaway,n/a,37.0,-37.0,Jacob Trouba,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:25:11Z,2,12:08,07:52,Blocked Shot,n/a,-70.0,15.0,Jacob Trouba,Blocker,New York Rangers,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:25:34Z,2,12:09,07:51,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:26:17Z,2,12:42,07:18,Giveaway,n/a,45.0,-39.0,Tony DeAngelo,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:26:23Z,2,12:49,07:11,Shot,Snap Shot,-78.0,15.0,William Nylander,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:26:23Z,2,12:51,07:09,Missed Shot,n/a,-81.0,4.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:26:23Z,2,12:51,07:09,Shot,Wrist Shot,-87.0,7.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:27:07Z,2,13:32,06:28,Takeaway,n/a,32.0,-26.0,Dmytro Timashov,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:27:12Z,2,13:38,06:22,Missed Shot,n/a,-65.0,-19.0,Dmytro Timashov,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:27:13Z,2,13:38,06:22,Hit,n/a,-78.0,-15.0,Jacob Trouba,Hitter,New York Rangers,Dmytro Timashov,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:27:41Z,2,13:41,06:19,Faceoff,n/a,-69.0,22.0,Filip Chytil,Winner,New York Rangers,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:28:32Z,2,14:18,05:42,Hit,n/a,-43.0,38.0,Brendan Lemieux,Hitter,New York Rangers,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:28:55Z,2,14:36,05:24,Hit,n/a,-35.0,-39.0,Jacob Trouba,Hitter,New York Rangers,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:28:51Z,2,14:37,05:23,Shot,Wrist Shot,-19.0,-37.0,Jake Muzzin,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:30:47Z,2,14:37,05:23,Faceoff,n/a,-69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:31:11Z,2,14:41,05:19,Missed Shot,n/a,-71.0,-8.0,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:31:51Z,2,15:21,04:39,Shot,Tip-In,80.0,4.0,Jesper Fast,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:32:05Z,2,15:35,04:25,Blocked Shot,n/a,-81.0,4.0,Tony DeAngelo,Blocker,New York Rangers,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:32:52Z,2,16:22,03:38,Takeaway,n/a,-2.0,-25.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:33:12Z,2,16:42,03:18,Giveaway,n/a,-44.0,-35.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:33:24Z,2,16:54,03:06,Giveaway,n/a,22.0,-33.0,Alexander Kerfoot,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:33:45Z,2,17:15,02:45,Hit,n/a,-84.0,36.0,Tony DeAngelo,Hitter,New York Rangers,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:33:57Z,2,17:28,02:32,Hit,n/a,64.0,39.0,Brendan Lemieux,Hitter,New York Rangers,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:34:16Z,2,17:47,02:13,Giveaway,n/a,-28.0,-18.0,Filip Chytil,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:34:32Z,2,18:02,01:58,Hit,n/a,31.0,-38.0,Dmytro Timashov,Hitter,Toronto Maple Leafs,Mika Zibanejad,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:34:49Z,2,18:17,01:43,Penalty,Roughing,-77.0,-38.0,Adam Fox,PenaltyOn,New York Rangers,Dmytro Timashov,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:35:33Z,2,18:17,01:43,Faceoff,n/a,-69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:36:30Z,2,19:14,00:46,Hit,n/a,-56.0,-40.0,Jacob Trouba,Hitter,New York Rangers,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:36:41Z,2,19:22,00:38,Blocked Shot,n/a,-72.0,12.0,Brady Skjei,Blocker,New York Rangers,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:37:04Z,2,19:23,00:37,Faceoff,n/a,-69.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:37:17Z,2,19:31,00:29,Shot,Slap Shot,-57.0,22.0,Jason Spezza,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:37:27Z,2,19:32,00:28,Shot,Backhand,-83.0,4.0,Zach Hyman,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:37:40Z,2,19:45,00:15,Faceoff,n/a,-69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:38:12Z,2,19:58,00:02,Hit,n/a,-96.0,-14.0,Jacob Trouba,Hitter,New York Rangers,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:38:12Z,2,19:58,00:02,Shot,Wrist Shot,-91.0,-11.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:56:36Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:57:13Z,3,00:28,19:32,Giveaway,n/a,89.0,-32.0,Morgan Rielly,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:57:25Z,3,00:40,19:20,Shot,Wrist Shot,-79.0,3.0,Artemi Panarin,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:57:45Z,3,01:00,19:00,Shot,Slap Shot,43.0,14.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:57:51Z,3,01:06,18:54,Takeaway,n/a,-60.0,-22.0,Justin Holl,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:57:58Z,3,01:12,18:48,Takeaway,n/a,17.0,33.0,Mika Zibanejad,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:58:09Z,3,01:24,18:36,Missed Shot,n/a,-85.0,19.0,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:58:47Z,3,01:47,18:13,Faceoff,n/a,69.0,22.0,Filip Chytil,Winner,New York Rangers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:59:15Z,3,02:00,18:00,Hit,n/a,-96.0,-1.0,Cody Ceci,Hitter,Toronto Maple Leafs,Filip Chytil,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T01:59:25Z,3,02:10,17:50,Goal,Wrist Shot,60.0,-27.0,William Nylander,Scorer,Toronto Maple Leafs,Auston Matthews,Assist,Toronto Maple Leafs,Travis Dermott,Assist,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers
+2019-12-21T02:00:07Z,3,02:10,17:50,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:00:29Z,3,02:29,17:31,Shot,Wrist Shot,-54.0,-38.0,Pavel Buchnevich,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:00:45Z,3,02:42,17:18,Giveaway,n/a,79.0,6.0,Jacob Trouba,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:00:55Z,3,02:54,17:06,Takeaway,n/a,50.0,36.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:00:59Z,3,02:57,17:03,Goal,Snap Shot,68.0,7.0,Mitchell Marner,Scorer,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:02:17Z,3,02:57,17:03,Faceoff,n/a,0.0,0.0,Brett Howden,Winner,New York Rangers,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:02:37Z,3,03:17,16:43,Hit,n/a,-65.0,-38.0,Greg McKegg,Hitter,New York Rangers,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:03:24Z,3,04:05,15:55,Shot,Backhand,-88.0,-12.0,Mika Zibanejad,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:03:58Z,3,04:38,15:22,Takeaway,n/a,64.0,29.0,Ryan Lindgren,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:04:25Z,3,05:06,14:54,Missed Shot,n/a,-82.0,7.0,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:04:27Z,3,05:06,14:54,Penalty,Hooking,-79.0,4.0,Dmytro Timashov,PenaltyOn,Toronto Maple Leafs,Artemi Panarin,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:05:01Z,3,05:06,14:54,Faceoff,n/a,-69.0,22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:05:46Z,3,05:12,14:48,Missed Shot,n/a,-68.0,15.0,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:05:19Z,3,05:19,14:41,Shot,Wrist Shot,-80.0,5.0,Pavel Buchnevich,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:05:59Z,3,05:46,14:14,Blocked Shot,n/a,-75.0,12.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:06:08Z,3,05:47,14:13,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:06:49Z,3,06:22,13:38,Takeaway,n/a,-21.0,-17.0,Ilya Mikheyev,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:07:15Z,3,06:49,13:11,Shot,Wrist Shot,-97.0,16.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:07:38Z,3,07:12,12:48,Shot,Snap Shot,-69.0,8.0,Ryan Strome,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:08:09Z,3,07:43,12:17,Giveaway,n/a,38.0,38.0,Travis Dermott,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:08:18Z,3,07:51,12:09,Hit,n/a,-6.0,-31.0,Cody Ceci,Hitter,Toronto Maple Leafs,Brett Howden,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:10:15Z,3,07:51,12:09,Faceoff,n/a,0.0,0.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Brendan Lemieux,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:11:02Z,3,08:03,11:57,Shot,Wrist Shot,67.0,18.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:11:05Z,3,08:06,11:54,Hit,n/a,90.0,-30.0,Alexander Kerfoot,Hitter,Toronto Maple Leafs,Ryan Lindgren,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:11:21Z,3,08:18,11:42,Blocked Shot,n/a,-71.0,16.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Brendan Lemieux,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:11:37Z,3,08:19,11:41,Faceoff,n/a,-69.0,22.0,Ryan Strome,Winner,New York Rangers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:11:53Z,3,08:28,11:32,Missed Shot,n/a,-47.0,-20.0,Brady Skjei,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:12:02Z,3,08:36,11:24,Shot,Tip-In,-79.0,4.0,Ryan Strome,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:12:14Z,3,08:49,11:11,Takeaway,n/a,24.0,29.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:12:19Z,3,08:52,11:08,Shot,Snap Shot,71.0,26.0,John Tavares,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:12:38Z,3,08:53,11:07,Faceoff,n/a,69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:13:11Z,3,09:19,10:41,Giveaway,n/a,39.0,-28.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:13:48Z,3,09:23,10:37,Faceoff,n/a,-20.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:14:45Z,3,10:16,09:44,Shot,Wrist Shot,-49.0,-25.0,Brady Skjei,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:16:34Z,3,10:17,09:43,Faceoff,n/a,-69.0,-22.0,Ryan Strome,Winner,New York Rangers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:17:16Z,3,10:23,09:37,Giveaway,n/a,-69.0,-29.0,Pavel Buchnevich,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:17:56Z,3,11:03,08:57,Missed Shot,n/a,-36.0,12.0,Brady Skjei,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:18:00Z,3,11:08,08:52,Shot,Wrist Shot,-80.0,6.0,Ryan Strome,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:18:08Z,3,11:16,08:44,Giveaway,n/a,55.0,-40.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:18:08Z,3,11:16,08:44,Shot,Wrist Shot,63.0,-4.0,John Tavares,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:18:28Z,3,11:36,08:24,Giveaway,n/a,-38.0,-17.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:19:06Z,3,12:14,07:46,Shot,Backhand,82.0,-16.0,Frederik Gauthier,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:19:21Z,3,12:28,07:32,Shot,Wrist Shot,-82.0,12.0,Filip Chytil,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:19:50Z,3,12:58,07:02,Missed Shot,n/a,-88.0,7.0,Marc Staal,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:19:58Z,3,13:05,06:55,Hit,n/a,16.0,-16.0,Ryan Lindgren,Hitter,New York Rangers,Jason Spezza,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:20:14Z,3,13:22,06:38,Giveaway,n/a,26.0,12.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:20:38Z,3,13:45,06:15,Giveaway,n/a,-31.0,-37.0,Tony DeAngelo,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:21:07Z,3,13:48,06:12,Faceoff,n/a,-69.0,22.0,Ryan Strome,Winner,New York Rangers,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:21:44Z,3,14:22,05:38,Blocked Shot,n/a,79.0,16.0,Artemi Panarin,Blocker,New York Rangers,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:21:52Z,3,14:27,05:33,Shot,Snap Shot,65.0,15.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:23:42Z,3,14:28,05:32,Faceoff,n/a,69.0,22.0,Mika Zibanejad,Winner,New York Rangers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:24:24Z,3,14:43,05:17,Giveaway,n/a,-69.0,-13.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:24:35Z,3,14:54,05:06,Giveaway,n/a,-96.0,6.0,Chris Kreider,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:24:52Z,3,15:11,04:49,Shot,Snap Shot,70.0,-10.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:25:08Z,3,15:11,04:49,Faceoff,n/a,69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:25:24Z,3,15:12,04:48,Missed Shot,n/a,65.0,-12.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:25:38Z,3,15:24,04:36,Shot,Slap Shot,60.0,19.0,Jake Muzzin,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:26:22Z,3,16:15,03:45,Giveaway,n/a,6.0,-37.0,Kaapo Kakko,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:26:33Z,3,16:23,03:37,Goal,Wrist Shot,55.0,19.0,Ilya Mikheyev,Scorer,Toronto Maple Leafs,Alexander Kerfoot,Assist,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a
+2019-12-21T02:27:20Z,3,16:23,03:37,Faceoff,n/a,0.0,0.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:27:43Z,3,16:53,03:07,Hit,n/a,-44.0,30.0,Travis Dermott,Hitter,Toronto Maple Leafs,Greg McKegg,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:28:06Z,3,16:53,03:07,Faceoff,n/a,-69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:28:55Z,3,17:00,03:00,Faceoff,n/a,-69.0,22.0,Ryan Strome,Winner,New York Rangers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:29:18Z,3,17:13,02:47,Shot,Wrist Shot,54.0,-9.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:29:41Z,3,17:36,02:24,Shot,Slap Shot,59.0,17.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:30:07Z,3,18:02,01:58,Hit,n/a,-97.0,2.0,William Nylander,Hitter,Toronto Maple Leafs,Kaapo Kakko,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:30:20Z,3,18:15,01:45,Takeaway,n/a,-79.0,31.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:30:58Z,3,18:53,01:07,Shot,Wrist Shot,-76.0,-24.0,Brett Howden,Shooter,New York Rangers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:31:04Z,3,18:59,01:01,Giveaway,n/a,-78.0,7.0,Frederik Gauthier,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:31:10Z,3,19:04,00:56,Blocked Shot,n/a,-80.0,2.0,Cody Ceci,Blocker,Toronto Maple Leafs,Brett Howden,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:31:52Z,3,19:46,00:14,Blocked Shot,n/a,78.0,4.0,Marc Staal,Blocker,New York Rangers,Alexander Kerfoot,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:31:54Z,3,19:48,00:12,Hit,n/a,96.0,-6.0,Tony DeAngelo,Hitter,New York Rangers,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:32:03Z,3,19:58,00:02,Missed Shot,n/a,55.0,-3.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-21T02:32:09Z,3,19:59,00:01,Shot,Wrist Shot,38.0,-11.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,265 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-12T00:10:13Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:11:22Z,1,00:20,19:40,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:12:00Z,1,00:36,19:24,Missed Shot,n/a,-79.0,9.0,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:12:27Z,1,01:03,18:57,Shot,Wrist Shot,-77.0,20.0,Jakub Vrana,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:12:38Z,1,01:15,18:45,Hit,n/a,65.0,40.0,Radko Gudas,Hitter,Washington Capitals,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:13:01Z,1,01:20,18:40,Faceoff,n/a,69.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:13:19Z,1,01:28,18:32,Shot,Slap Shot,32.0,-2.0,Aaron Ness,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:13:28Z,1,01:37,18:23,Takeaway,n/a,28.0,-32.0,Jakub Vrana,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:13:30Z,1,01:39,18:21,Shot,Wrist Shot,-69.0,7.0,Tom Wilson,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:13:47Z,1,01:52,18:08,Takeaway,n/a,68.0,-37.0,Vinnie Hinostroza,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:14:07Z,1,02:15,17:45,Shot,Wrist Shot,60.0,-26.0,Carl Soderberg,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:14:35Z,1,02:17,17:43,Faceoff,n/a,69.0,-22.0,Lars Eller,Winner,Washington Capitals,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:15:13Z,1,02:34,17:26,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:15:23Z,1,02:38,17:22,Blocked Shot,n/a,79.0,-11.0,John Carlson,Blocker,Washington Capitals,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:15:34Z,1,02:49,17:11,Giveaway,n/a,-99.0,2.0,Antti Raanta,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:15:43Z,1,02:58,17:02,Missed Shot,n/a,68.0,-6.0,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:16:03Z,1,03:10,16:50,Takeaway,n/a,73.0,39.0,Vinnie Hinostroza,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:15:57Z,1,03:12,16:48,Hit,n/a,40.0,40.0,Garnet Hathaway,Hitter,Washington Capitals,Vinnie Hinostroza,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:16:15Z,1,03:30,16:30,Hit,n/a,-78.0,36.0,Nic Dowd,Hitter,Washington Capitals,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:16:22Z,1,03:37,16:23,Missed Shot,n/a,-33.0,5.0,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:17:00Z,1,04:15,15:45,Blocked Shot,n/a,-57.0,-15.0,Alex Goligoski,Blocker,Arizona Coyotes,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:17:26Z,1,04:41,15:19,Shot,Snap Shot,-86.0,21.0,John Carlson,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:17:29Z,1,04:44,15:16,Shot,Wrist Shot,-50.0,-20.0,Jakub Vrana,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:17:34Z,1,04:49,15:11,Hit,n/a,-46.0,39.0,Tom Wilson,Hitter,Washington Capitals,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:17:49Z,1,05:02,14:58,Shot,Wrist Shot,-59.0,-17.0,John Carlson,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:18:19Z,1,05:03,14:57,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:18:45Z,1,05:28,14:32,Shot,Wrist Shot,88.0,18.0,Clayton Keller,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:19:28Z,1,06:10,13:50,Shot,Slap Shot,-66.0,-15.0,Nick Jensen,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:19:33Z,1,06:15,13:45,Blocked Shot,n/a,-75.0,-8.0,Brad Richardson,Blocker,Arizona Coyotes,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:20:26Z,1,07:09,12:51,Blocked Shot,n/a,-41.0,21.0,Lawson Crouse,Blocker,Arizona Coyotes,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:21:06Z,1,07:46,12:14,Takeaway,n/a,88.0,29.0,Nick Schmaltz,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:21:34Z,1,08:16,11:44,Takeaway,n/a,89.0,28.0,Nick Schmaltz,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:21:40Z,1,08:22,11:38,Blocked Shot,n/a,58.0,-16.0,John Carlson,Blocker,Washington Capitals,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:21:48Z,1,08:30,11:30,Shot,Wrist Shot,-78.0,27.0,Tom Wilson,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:21:55Z,1,08:37,11:23,Shot,Wrist Shot,25.0,-2.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:21:57Z,1,08:39,11:21,Hit,n/a,52.0,38.0,Tom Wilson,Hitter,Washington Capitals,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:25:02Z,1,09:09,10:51,Faceoff,n/a,-20.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:24:48Z,1,09:17,10:43,Shot,Wrist Shot,77.0,-9.0,Christian Fischer,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:25:02Z,1,09:31,10:29,Shot,Wrist Shot,32.0,10.0,Brad Richardson,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:25:26Z,1,09:52,10:08,Hit,n/a,53.0,29.0,Dmitry Orlov,Hitter,Washington Capitals,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:26:29Z,1,09:56,10:04,Faceoff,n/a,-20.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:26:25Z,1,10:17,09:43,Blocked Shot,n/a,45.0,27.0,T.J. Oshie,Blocker,Washington Capitals,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:26:35Z,1,10:27,09:33,Takeaway,n/a,42.0,-37.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:26:50Z,1,10:42,09:18,Takeaway,n/a,-7.0,39.0,Conor Garland,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:26:52Z,1,10:44,09:16,Shot,Backhand,11.0,36.0,Conor Garland,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:27:15Z,1,10:54,09:06,Penalty,Slashing,-56.0,-32.0,Jakub Vrana,PenaltyOn,Washington Capitals,Jordan Oesterle,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:29:41Z,1,10:54,09:06,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:30:27Z,1,12:04,07:56,Giveaway,n/a,41.0,-15.0,Nick Schmaltz,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:30:51Z,1,12:29,07:31,Blocked Shot,n/a,38.0,3.0,Radko Gudas,Blocker,Washington Capitals,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:30:59Z,1,12:37,07:23,Shot,Wrist Shot,79.0,13.0,Christian Dvorak,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:31:44Z,1,13:22,06:38,Hit,n/a,-96.0,-20.0,Alex Ovechkin,Hitter,Washington Capitals,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:32:40Z,1,14:14,05:46,Shot,Wrist Shot,74.0,-13.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:32:49Z,1,14:15,05:45,Goal,Wrist Shot,84.0,-5.0,Clayton Keller,Scorer,Arizona Coyotes,Vinnie Hinostroza,Assist,Arizona Coyotes,Alex Goligoski,Assist,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals
+2019-11-12T00:33:37Z,1,14:15,05:45,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:33:29Z,1,14:27,05:33,Shot,Backhand,-78.0,2.0,Jakub Vrana,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:34:01Z,1,14:56,05:04,Shot,Wrist Shot,-80.0,7.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:34:10Z,1,14:59,05:01,Blocked Shot,n/a,-83.0,-5.0,Jakob Chychrun,Blocker,Arizona Coyotes,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:34:11Z,1,15:00,05:00,Penalty,Hooking,-81.0,-1.0,Nick Schmaltz,PenaltyOn,Arizona Coyotes,Jakub Vrana,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:36:01Z,1,15:00,05:00,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:36:22Z,1,15:06,04:54,Giveaway,n/a,-97.0,5.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:36:41Z,1,15:25,04:35,Shot,Slap Shot,-55.0,-23.0,Alex Ovechkin,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:37:22Z,1,15:57,04:03,Giveaway,n/a,-11.0,-38.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:37:16Z,1,16:01,03:59,Shot,Wrist Shot,48.0,7.0,Michael Grabner,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:38:10Z,1,16:54,03:06,Shot,Wrist Shot,-48.0,-3.0,Derek Stepan,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:38:44Z,1,17:28,02:32,Shot,Wrist Shot,76.0,-3.0,Nick Schmaltz,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:39:09Z,1,17:49,02:11,Hit,n/a,-6.0,41.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:39:09Z,1,17:54,02:06,Shot,Wrist Shot,-72.0,34.0,Garnet Hathaway,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:39:37Z,1,17:59,02:01,Faceoff,n/a,-69.0,-22.0,Chandler Stephenson,Winner,Washington Capitals,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:40:46Z,1,18:36,01:24,Hit,n/a,-93.0,23.0,Jordan Oesterle,Hitter,Arizona Coyotes,Chandler Stephenson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:40:52Z,1,18:42,01:18,Takeaway,n/a,-24.0,-26.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:41:08Z,1,18:58,01:02,Shot,Backhand,6.0,27.0,Alex Ovechkin,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:41:24Z,1,18:58,01:02,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:42:13Z,1,19:34,00:26,Blocked Shot,n/a,-69.0,-7.0,Alex Goligoski,Blocker,Arizona Coyotes,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T00:42:20Z,1,19:41,00:19,Giveaway,n/a,-16.0,35.0,Alex Ovechkin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:01:18Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:01:20Z,2,00:07,19:53,Takeaway,n/a,1.0,0.0,Brad Richardson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:01:27Z,2,00:10,19:50,Goal,Deflected,-86.0,4.0,Christian Fischer,Scorer,Arizona Coyotes,Brad Richardson,Assist,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a
+2019-11-12T01:04:29Z,2,00:10,19:50,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:04:48Z,2,00:21,19:39,Shot,Wrist Shot,79.0,0.0,Alex Ovechkin,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:05:07Z,2,00:21,19:39,Faceoff,n/a,69.0,22.0,Christian Fischer,Winner,Arizona Coyotes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:05:39Z,2,00:42,19:18,Takeaway,n/a,-17.0,-2.0,Michael Grabner,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:05:46Z,2,00:45,19:15,Goal,Wrist Shot,-72.0,0.0,Michael Grabner,Scorer,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:06:21Z,2,00:45,19:15,Faceoff,n/a,0.0,0.0,Evgeny Kuznetsov,Winner,Washington Capitals,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:06:41Z,2,00:51,19:09,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:06:58Z,2,00:54,19:06,Shot,Slap Shot,-30.0,-11.0,Alex Goligoski,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:07:10Z,2,00:55,19:05,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:07:20Z,2,00:59,19:01,Blocked Shot,n/a,-75.0,-4.0,John Carlson,Blocker,Washington Capitals,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:09:15Z,2,02:53,17:07,Missed Shot,n/a,-74.0,6.0,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:09:27Z,2,03:05,16:55,Shot,Wrist Shot,-77.0,33.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:09:39Z,2,03:07,16:53,Shot,Wrist Shot,-78.0,6.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:10:00Z,2,03:08,16:52,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:10:40Z,2,03:38,16:22,Giveaway,n/a,57.0,38.0,Phil Kessel,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:10:44Z,2,03:45,16:15,Blocked Shot,n/a,72.0,29.0,Jason Demers,Blocker,Arizona Coyotes,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:11:18Z,2,03:46,16:14,Faceoff,n/a,69.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:11:40Z,2,04:13,15:47,Blocked Shot,n/a,81.0,14.0,Conor Garland,Blocker,Arizona Coyotes,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:12:22Z,2,04:24,15:36,Faceoff,n/a,20.0,-22.0,Lars Eller,Winner,Washington Capitals,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:12:50Z,2,04:51,15:09,Hit,n/a,34.0,-39.0,Tom Wilson,Hitter,Washington Capitals,Aaron Ness,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:13:04Z,2,05:07,14:53,Missed Shot,n/a,-34.0,2.0,Aaron Ness,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:13:10Z,2,05:13,14:47,Blocked Shot,n/a,-53.0,-19.0,Chandler Stephenson,Blocker,Washington Capitals,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:13:33Z,2,05:16,14:44,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:13:52Z,2,05:30,14:30,Blocked Shot,n/a,-52.0,1.0,Chandler Stephenson,Blocker,Washington Capitals,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:14:41Z,2,05:43,14:17,Faceoff,n/a,-20.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:14:48Z,2,05:53,14:07,Hit,n/a,-98.0,6.0,Christian Fischer,Hitter,Arizona Coyotes,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:14:53Z,2,05:59,14:01,Shot,Wrist Shot,-31.0,-24.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:15:23Z,2,06:00,14:00,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:15:39Z,2,06:15,13:45,Shot,Wrist Shot,62.0,-8.0,Garnet Hathaway,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:16:05Z,2,06:25,13:35,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:18:33Z,2,06:31,13:29,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:18:43Z,2,06:40,13:20,Shot,Wrist Shot,77.0,-18.0,T.J. Oshie,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:18:43Z,2,06:40,13:20,Blocked Shot,n/a,74.0,0.0,Alex Goligoski,Blocker,Arizona Coyotes,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:18:43Z,2,06:42,13:18,Blocked Shot,n/a,79.0,4.0,Derek Stepan,Blocker,Arizona Coyotes,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:18:50Z,2,06:46,13:14,Shot,Wrist Shot,55.0,27.0,Alex Ovechkin,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:18:58Z,2,06:51,13:09,Hit,n/a,45.0,-25.0,Carl Soderberg,Hitter,Arizona Coyotes,John Carlson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:19:13Z,2,07:09,12:51,Hit,n/a,94.0,23.0,T.J. Oshie,Hitter,Washington Capitals,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:19:46Z,2,07:42,12:18,Shot,Wrist Shot,-61.0,19.0,Dmitry Orlov,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:20:39Z,2,08:36,11:24,Shot,Tip-In,-78.0,0.0,Nick Schmaltz,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:20:45Z,2,08:41,11:19,Shot,Snap Shot,-40.0,-26.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:20:53Z,2,08:47,11:13,Goal,Wrist Shot,70.0,1.0,Evgeny Kuznetsov,Scorer,Washington Capitals,Jakub Vrana,Assist,Washington Capitals,Tom Wilson,Assist,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes
+2019-11-12T01:21:37Z,2,08:47,11:13,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:21:54Z,2,09:12,10:48,Hit,n/a,46.0,-40.0,Chandler Stephenson,Hitter,Washington Capitals,Brad Richardson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:21:55Z,2,09:13,10:47,Shot,Wrist Shot,-83.0,23.0,Christian Fischer,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:22:06Z,2,09:24,10:36,Missed Shot,n/a,49.0,11.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:22:29Z,2,09:47,10:13,Hit,n/a,89.0,-32.0,Chandler Stephenson,Hitter,Washington Capitals,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:22:56Z,2,10:12,09:48,Giveaway,n/a,-53.0,15.0,Michal Kempny,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:23:07Z,2,10:23,09:37,Missed Shot,n/a,-76.0,-39.0,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:23:17Z,2,10:32,09:28,Blocked Shot,n/a,-75.0,2.0,Michal Kempny,Blocker,Washington Capitals,Lawson Crouse,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:23:20Z,2,10:37,09:23,Hit,n/a,-97.0,6.0,Lawson Crouse,Hitter,Arizona Coyotes,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:24:04Z,2,11:21,08:39,Shot,Wrist Shot,-33.0,-13.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:26:33Z,2,11:22,08:38,Faceoff,n/a,-69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:26:52Z,2,11:40,08:20,Blocked Shot,n/a,78.0,5.0,Jakob Chychrun,Blocker,Arizona Coyotes,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:27:03Z,2,11:48,08:12,Giveaway,n/a,96.0,1.0,Jakob Chychrun,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:27:02Z,2,11:50,08:10,Missed Shot,n/a,33.0,-24.0,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:27:20Z,2,11:52,08:08,Hit,n/a,54.0,41.0,Chandler Stephenson,Hitter,Washington Capitals,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:27:20Z,2,11:54,08:06,Hit,n/a,11.0,39.0,Alex Goligoski,Hitter,Arizona Coyotes,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:27:34Z,2,12:22,07:38,Hit,n/a,81.0,38.0,Tom Wilson,Hitter,Washington Capitals,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:28:02Z,2,12:51,07:09,Hit,n/a,-31.0,-38.0,Tom Wilson,Hitter,Washington Capitals,Nick Schmaltz,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:28:07Z,2,12:54,07:06,Shot,Wrist Shot,90.0,16.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:28:13Z,2,13:01,06:59,Hit,n/a,-78.0,39.0,Radko Gudas,Hitter,Washington Capitals,Vinnie Hinostroza,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:29:45Z,2,13:15,06:45,Faceoff,n/a,-69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:29:12Z,2,13:22,06:38,Giveaway,n/a,32.0,35.0,Jordan Oesterle,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:29:45Z,2,13:24,06:36,Faceoff,n/a,20.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:30:00Z,2,13:49,06:11,Blocked Shot,n/a,-62.0,5.0,Brendan Leipsic,Blocker,Washington Capitals,Aaron Ness,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:30:50Z,2,14:39,05:21,Giveaway,n/a,51.0,28.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:31:26Z,2,15:15,04:45,Shot,Snap Shot,-55.0,5.0,Nick Schmaltz,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:31:56Z,2,15:41,04:19,Hit,n/a,70.0,-26.0,Radko Gudas,Hitter,Washington Capitals,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:31:56Z,2,15:45,04:15,Missed Shot,n/a,-68.0,5.0,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:32:37Z,2,16:26,03:34,Missed Shot,n/a,56.0,-2.0,Chandler Stephenson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:32:43Z,2,16:32,03:28,Hit,n/a,-4.0,39.0,Chandler Stephenson,Hitter,Washington Capitals,Derek Stepan,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:33:03Z,2,16:51,03:09,Hit,n/a,97.0,-15.0,Jakob Chychrun,Hitter,Arizona Coyotes,Evgeny Kuznetsov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:33:23Z,2,17:13,02:47,Hit,n/a,94.0,27.0,Conor Garland,Hitter,Arizona Coyotes,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:33:30Z,2,17:20,02:40,Missed Shot,n/a,41.0,37.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:37:08Z,2,18:14,01:46,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:37:02Z,2,18:21,01:39,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:37:24Z,2,18:31,01:29,Shot,Wrist Shot,-48.0,-22.0,Carl Soderberg,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:37:46Z,2,18:32,01:28,Faceoff,n/a,-69.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Christian Fischer,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:38:17Z,2,18:43,01:17,Shot,Wrist Shot,-35.0,-31.0,Michael Grabner,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:38:22Z,2,18:49,01:11,Hit,n/a,-55.0,41.0,Christian Fischer,Hitter,Arizona Coyotes,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:38:38Z,2,19:04,00:56,Hit,n/a,97.0,-6.0,Evgeny Kuznetsov,Hitter,Washington Capitals,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:39:28Z,2,19:17,00:43,Faceoff,n/a,20.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:39:32Z,2,19:22,00:38,Faceoff,n/a,69.0,-22.0,T.J. Oshie,Winner,Washington Capitals,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:39:57Z,2,19:29,00:31,Shot,Slap Shot,55.0,7.0,Nicklas Backstrom,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:40:06Z,2,19:31,00:29,Penalty,Hooking,76.0,0.0,Jason Demers,PenaltyOn,Arizona Coyotes,T.J. Oshie,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:40:37Z,2,19:31,00:29,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:40:43Z,2,19:36,00:24,Shot,Slap Shot,61.0,-22.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T01:59:35Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:00:51Z,3,01:04,18:56,Takeaway,n/a,-59.0,0.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:02:32Z,3,02:18,17:42,Faceoff,n/a,-69.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:02:35Z,3,02:21,17:39,Missed Shot,n/a,-34.0,-15.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:02:49Z,3,02:23,17:37,Goal,Backhand,-80.0,11.0,Evgeny Kuznetsov,Scorer,Washington Capitals,Michal Kempny,Assist,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a
+2019-11-12T02:03:23Z,3,02:23,17:37,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:03:28Z,3,02:36,17:24,Hit,n/a,-78.0,-11.0,Alex Goligoski,Hitter,Arizona Coyotes,Richard Panik,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:04:02Z,3,03:09,16:51,Shot,Wrist Shot,-60.0,2.0,Alex Ovechkin,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:04:06Z,3,03:09,16:51,Missed Shot,n/a,-84.0,-29.0,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:04:14Z,3,03:21,16:39,Missed Shot,n/a,-64.0,30.0,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:04:35Z,3,03:42,16:18,Shot,Snap Shot,-84.0,22.0,T.J. Oshie,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:05:31Z,3,04:38,15:22,Takeaway,n/a,-1.0,-24.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:05:55Z,3,05:03,14:57,Blocked Shot,n/a,-61.0,-15.0,Vinnie Hinostroza,Blocker,Arizona Coyotes,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:06:00Z,3,05:07,14:53,Hit,n/a,-95.0,-10.0,Alex Goligoski,Hitter,Arizona Coyotes,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:06:20Z,3,05:26,14:34,Missed Shot,n/a,-72.0,-29.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:07:05Z,3,05:27,14:33,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:07:16Z,3,05:33,14:27,Penalty,Tripping,-71.0,-29.0,Derek Stepan,PenaltyOn,Arizona Coyotes,Dmitry Orlov,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:07:39Z,3,05:33,14:27,Faceoff,n/a,-69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:08:32Z,3,06:20,13:40,Shot,Wrist Shot,-74.0,-14.0,Alex Ovechkin,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:08:44Z,3,06:33,13:27,Giveaway,n/a,-90.0,24.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:09:11Z,3,06:55,13:05,Hit,n/a,25.0,41.0,John Carlson,Hitter,Washington Capitals,Carl Soderberg,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:09:34Z,3,07:20,12:40,Takeaway,n/a,-66.0,22.0,Alex Goligoski,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:10:09Z,3,07:26,12:34,Faceoff,n/a,-20.0,-22.0,Nic Dowd,Winner,Washington Capitals,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:10:55Z,3,08:09,11:51,Missed Shot,n/a,60.0,38.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:11:45Z,3,08:58,11:02,Hit,n/a,-42.0,39.0,Richard Panik,Hitter,Washington Capitals,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:11:58Z,3,09:12,10:48,Hit,n/a,-38.0,41.0,Carl Soderberg,Hitter,Arizona Coyotes,Nicklas Backstrom,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:12:17Z,3,09:31,10:29,Blocked Shot,n/a,-83.0,-13.0,Jakob Chychrun,Blocker,Arizona Coyotes,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:13:27Z,3,09:47,10:13,Hit,n/a,56.0,40.0,T.J. Oshie,Hitter,Washington Capitals,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:12:44Z,3,09:49,10:11,Penalty,Hi-sticking,62.0,41.0,T.J. Oshie,PenaltyOn,Washington Capitals,Christian Fischer,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:15:03Z,3,09:49,10:11,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:15:26Z,3,10:24,09:36,Shot,Backhand,76.0,-2.0,Carl Soderberg,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:17:11Z,3,10:35,09:25,Takeaway,n/a,37.0,-27.0,Michal Kempny,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:16:08Z,3,10:42,09:18,Faceoff,n/a,20.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:17:17Z,3,11:49,08:11,Shot,Slap Shot,44.0,29.0,Clayton Keller,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:17:39Z,3,12:11,07:49,Hit,n/a,-28.0,40.0,Christian Fischer,Hitter,Arizona Coyotes,Nicklas Backstrom,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:17:57Z,3,12:30,07:30,Missed Shot,n/a,-49.0,-18.0,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:18:03Z,3,12:36,07:24,Shot,Snap Shot,-37.0,-33.0,Dmitry Orlov,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:18:23Z,3,12:55,07:05,Blocked Shot,n/a,-59.0,-17.0,Jordan Oesterle,Blocker,Arizona Coyotes,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:18:33Z,3,13:06,06:54,Takeaway,n/a,76.0,-36.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:18:39Z,3,13:11,06:49,Blocked Shot,n/a,60.0,25.0,Dmitry Orlov,Blocker,Washington Capitals,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:18:39Z,3,13:12,06:48,Giveaway,n/a,55.0,-38.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:18:52Z,3,13:12,06:48,Shot,Wrist Shot,32.0,29.0,Alex Goligoski,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:20:59Z,3,13:13,06:47,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:21:08Z,3,13:20,06:40,Missed Shot,n/a,34.0,0.0,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:21:14Z,3,13:23,06:37,Shot,Snap Shot,32.0,29.0,Jakob Chychrun,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:21:32Z,3,13:24,06:36,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:22:12Z,3,13:58,06:02,Hit,n/a,-98.0,14.0,Alex Goligoski,Hitter,Arizona Coyotes,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:22:20Z,3,14:03,05:57,Hit,n/a,-26.0,40.0,Richard Panik,Hitter,Washington Capitals,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:23:27Z,3,15:10,04:50,Giveaway,n/a,-87.0,31.0,Jason Demers,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:24:07Z,3,15:52,04:08,Giveaway,n/a,-29.0,-24.0,Brendan Leipsic,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:24:24Z,3,16:10,03:50,Takeaway,n/a,-12.0,-15.0,Clayton Keller,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:24:27Z,3,16:12,03:48,Shot,Snap Shot,67.0,-36.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:24:37Z,3,16:23,03:37,Missed Shot,n/a,-52.0,7.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:24:46Z,3,16:31,03:29,Missed Shot,n/a,-49.0,-37.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:24:55Z,3,16:41,03:19,Shot,Wrist Shot,-81.0,19.0,T.J. Oshie,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:25:46Z,3,17:30,02:30,Hit,n/a,97.0,-16.0,Tom Wilson,Hitter,Washington Capitals,Lawson Crouse,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:26:00Z,3,17:43,02:17,Blocked Shot,n/a,-72.0,31.0,Aaron Ness,Blocker,Arizona Coyotes,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:28:07Z,3,17:44,02:16,Faceoff,n/a,-69.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:28:22Z,3,17:52,02:08,Takeaway,n/a,-53.0,40.0,Nicklas Backstrom,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:28:52Z,3,18:20,01:40,Giveaway,n/a,-98.0,3.0,Alex Goligoski,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:29:11Z,3,18:35,01:25,Blocked Shot,n/a,-66.0,7.0,Lawson Crouse,Blocker,Arizona Coyotes,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:29:33Z,3,18:36,01:24,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:29:46Z,3,18:43,01:17,Shot,Slap Shot,-52.0,-24.0,Alex Ovechkin,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:29:56Z,3,18:44,01:16,Goal,Wrist Shot,-82.0,4.0,T.J. Oshie,Scorer,Washington Capitals,Alex Ovechkin,Assist,Washington Capitals,John Carlson,Assist,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes
+2019-11-12T02:33:09Z,3,18:44,01:16,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:33:28Z,3,18:56,01:04,Hit,n/a,84.0,28.0,Derek Stepan,Hitter,Arizona Coyotes,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:33:34Z,3,19:03,00:57,Shot,Wrist Shot,57.0,-37.0,Derek Stepan,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:33:44Z,3,19:12,00:48,Hit,n/a,-33.0,42.0,Lars Eller,Hitter,Washington Capitals,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:33:48Z,3,19:16,00:44,Shot,Wrist Shot,-87.0,15.0,Chandler Stephenson,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:34:23Z,3,19:16,00:44,Hit,n/a,-90.0,5.0,Alex Goligoski,Hitter,Arizona Coyotes,Chandler Stephenson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:34:33Z,3,19:17,00:43,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:34:50Z,3,19:29,00:31,Giveaway,n/a,-85.0,18.0,Nicklas Backstrom,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:35:20Z,3,19:32,00:28,Faceoff,n/a,20.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:35:36Z,3,19:49,00:11,Shot,Wrist Shot,-80.0,4.0,Nicklas Backstrom,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:35:48Z,3,19:59,00:01,Shot,Wrist Shot,-75.0,39.0,John Carlson,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:37:58Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Nick Schmaltz,Winner,Arizona Coyotes,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:38:36Z,4,00:27,04:33,Shot,Wrist Shot,-75.0,2.0,Jakob Chychrun,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:39:46Z,4,01:10,03:50,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:39:58Z,4,01:25,03:35,Missed Shot,n/a,65.0,-5.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:40:20Z,4,01:47,03:13,Missed Shot,n/a,-81.0,28.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:40:39Z,4,02:06,02:54,Takeaway,n/a,-55.0,39.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:45:22Z,4,02:14,02:46,Faceoff,n/a,20.0,22.0,Lars Eller,Winner,Washington Capitals,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:45:21Z,4,02:30,02:30,Blocked Shot,n/a,57.0,25.0,Jakob Chychrun,Blocker,Arizona Coyotes,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:45:35Z,4,02:43,02:17,Hit,n/a,94.0,-22.0,Jakob Chychrun,Hitter,Arizona Coyotes,T.J. Oshie,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:45:40Z,4,02:46,02:14,Takeaway,n/a,97.0,-11.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:45:43Z,4,02:51,02:09,Shot,Wrist Shot,83.0,-21.0,Lars Eller,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:46:18Z,4,02:52,02:08,Faceoff,n/a,69.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:46:52Z,4,03:29,01:31,Hit,n/a,77.0,1.0,Jordan Oesterle,Hitter,Arizona Coyotes,Jakub Vrana,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:46:58Z,4,03:34,01:26,Shot,Wrist Shot,-72.0,20.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:47:08Z,4,03:44,01:16,Missed Shot,n/a,74.0,6.0,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:47:16Z,4,03:53,01:07,Takeaway,n/a,36.0,6.0,Vinnie Hinostroza,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:47:32Z,4,04:08,00:52,Shot,Wrist Shot,-51.0,-20.0,Phil Kessel,Shooter,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:48:02Z,4,04:10,00:50,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:48:19Z,4,04:27,00:33,Shot,Slap Shot,78.0,25.0,Nicklas Backstrom,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:48:39Z,4,04:46,00:14,Hit,n/a,-89.0,-28.0,Tom Wilson,Hitter,Washington Capitals,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:48:53Z,4,04:59,00:01,Missed Shot,n/a,35.0,29.0,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:50:58Z,5,00:00,00:00,Shot,Wrist Shot,-81.0,5.0,T.J. Oshie,Shooter,Washington Capitals,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:51:28Z,5,00:00,00:00,Goal,Wrist Shot,75.0,0.0,Nick Schmaltz,Scorer,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:51:55Z,5,00:00,00:00,Missed Shot,n/a,-71.0,2.0,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-12T02:52:19Z,5,00:00,00:00,Goal,Wrist Shot,72.0,2.0,Conor Garland,Scorer,Arizona Coyotes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a

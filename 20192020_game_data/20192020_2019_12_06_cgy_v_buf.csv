@@ -1,0 +1,265 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-06T02:11:03Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Elias Lindholm,Winner,Calgary Flames,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:12:19Z,1,00:11,19:49,Hit,n/a,-99.0,13.0,Matthew Tkachuk,Hitter,Calgary Flames,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:12:31Z,1,00:23,19:37,Giveaway,n/a,98.0,1.0,David Rittich,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:12:45Z,1,00:35,19:25,Shot,Wrist Shot,-33.0,15.0,Travis Hamonic,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:13:05Z,1,00:35,19:25,Faceoff,n/a,-69.0,22.0,Sean Monahan,Winner,Calgary Flames,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:13:23Z,1,00:42,19:18,Missed Shot,n/a,-34.0,-27.0,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:13:32Z,1,00:50,19:10,Giveaway,n/a,-56.0,-25.0,Jimmy Vesey,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:13:57Z,1,01:17,18:43,Blocked Shot,n/a,60.0,5.0,Travis Hamonic,Blocker,Calgary Flames,Casey Mittelstadt,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:14:33Z,1,01:52,18:08,Blocked Shot,n/a,-71.0,6.0,Johan Larsson,Blocker,Buffalo Sabres,Milan Lucic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:14:48Z,1,02:03,17:57,Missed Shot,n/a,-34.0,-29.0,Oliver Kylington,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:14:46Z,1,02:06,17:54,Missed Shot,n/a,-39.0,1.0,Derek Ryan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:14:59Z,1,02:18,17:42,Giveaway,n/a,23.0,7.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:15:18Z,1,02:20,17:40,Faceoff,n/a,20.0,22.0,Rasmus Asplund,Winner,Buffalo Sabres,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:16:13Z,1,03:09,16:51,Takeaway,n/a,7.0,11.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:16:19Z,1,03:15,16:45,Hit,n/a,63.0,-5.0,TJ Brodie,Hitter,Calgary Flames,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:16:38Z,1,03:29,16:31,Goal,Tip-In,72.0,-11.0,Sam Reinhart,Scorer,Buffalo Sabres,Rasmus Ristolainen,Assist,Buffalo Sabres,Victor Olofsson,Assist,Buffalo Sabres,David Rittich,Goalie,Calgary Flames
+2019-12-06T02:17:15Z,1,03:29,16:31,Faceoff,n/a,0.0,0.0,Marcus Johansson,Winner,Buffalo Sabres,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:17:29Z,1,03:33,16:27,Faceoff,n/a,-69.0,-22.0,Mikael Backlund,Winner,Calgary Flames,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:18:04Z,1,03:42,16:18,Shot,Wrist Shot,57.0,16.0,Casey Mittelstadt,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:18:12Z,1,03:42,16:18,Faceoff,n/a,69.0,22.0,Casey Mittelstadt,Winner,Buffalo Sabres,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:18:46Z,1,03:57,16:03,Shot,Wrist Shot,54.0,29.0,Jimmy Vesey,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:19:03Z,1,03:57,16:03,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:20:16Z,1,04:54,15:06,Penalty,Delaying Game - Puck over glass,19.0,40.0,Matthew Tkachuk,PenaltyOn,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:20:57Z,1,04:54,15:06,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:20:56Z,1,05:05,14:55,Missed Shot,n/a,78.0,-8.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:21:10Z,1,05:17,14:43,Hit,n/a,-40.0,-38.0,Elias Lindholm,Hitter,Calgary Flames,Victor Olofsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:21:24Z,1,05:33,14:27,Shot,Snap Shot,-65.0,-12.0,Travis Hamonic,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:21:44Z,1,05:53,14:07,Takeaway,n/a,38.0,36.0,TJ Brodie,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:21:58Z,1,06:07,13:53,Takeaway,n/a,17.0,-30.0,Mark Giordano,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:22:09Z,1,06:18,13:42,Takeaway,n/a,-98.0,1.0,Colin Miller,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:22:52Z,1,07:01,12:59,Hit,n/a,-7.0,-33.0,Matthew Tkachuk,Hitter,Calgary Flames,Rasmus Asplund,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:22:59Z,1,07:04,12:56,Takeaway,n/a,-37.0,-21.0,Johan Larsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:23:19Z,1,07:28,12:32,Hit,n/a,-98.0,19.0,Jake McCabe,Hitter,Buffalo Sabres,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:25:57Z,1,07:50,12:10,Faceoff,n/a,-20.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:26:47Z,1,08:04,11:56,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:27:10Z,1,08:10,11:50,Blocked Shot,n/a,69.0,-9.0,TJ Brodie,Blocker,Calgary Flames,Zach Bogosian,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:27:16Z,1,08:16,11:44,Giveaway,n/a,14.0,31.0,Milan Lucic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:27:53Z,1,08:33,11:27,Faceoff,n/a,69.0,22.0,Mark Jankowski,Winner,Calgary Flames,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:28:10Z,1,08:37,11:23,Giveaway,n/a,37.0,37.0,Michael Frolik,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:28:15Z,1,08:43,11:17,Shot,Wrist Shot,62.0,-6.0,Jeff Skinner,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:28:36Z,1,09:08,10:52,Blocked Shot,n/a,-71.0,-18.0,Conor Sheary,Blocker,Buffalo Sabres,Mark Jankowski,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:28:50Z,1,09:21,10:39,Shot,Slap Shot,33.0,-31.0,Jeff Skinner,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:29:13Z,1,09:42,10:18,Hit,n/a,-38.0,-41.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Sean Monahan,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:29:13Z,1,09:43,10:17,Shot,Wrist Shot,-43.0,-37.0,Oliver Kylington,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:29:38Z,1,09:43,10:17,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:30:15Z,1,10:18,09:42,Hit,n/a,-98.0,-7.0,Sean Monahan,Hitter,Calgary Flames,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:30:25Z,1,10:28,09:32,Shot,Wrist Shot,-46.0,21.0,TJ Brodie,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:30:43Z,1,10:45,09:15,Takeaway,n/a,29.0,2.0,TJ Brodie,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:30:52Z,1,10:56,09:04,Shot,Wrist Shot,16.0,34.0,Rasmus Asplund,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:31:16Z,1,11:20,08:40,Blocked Shot,n/a,-80.0,0.0,Henri Jokiharju,Blocker,Buffalo Sabres,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:31:34Z,1,11:38,08:22,Missed Shot,n/a,-87.0,5.0,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:31:39Z,1,11:43,08:17,Hit,n/a,-74.0,37.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Travis Hamonic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:32:19Z,1,12:23,07:37,Shot,Snap Shot,64.0,1.0,Sam Reinhart,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:32:23Z,1,12:23,07:37,Penalty,Slashing,-58.0,7.0,Michael Frolik,PenaltyOn,Calgary Flames,Jack Eichel,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:34:33Z,1,12:23,07:37,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:35:12Z,1,12:46,07:14,Takeaway,n/a,82.0,0.0,Mark Giordano,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:35:27Z,1,13:01,06:59,Shot,Wrist Shot,71.0,-15.0,Jack Eichel,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:36:29Z,1,14:00,06:00,Penalty,Hi-sticking,-94.0,-14.0,Mikael Backlund,PenaltyOn,Calgary Flames,Colin Miller,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:36:52Z,1,14:00,06:00,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:37:30Z,1,14:20,05:40,Blocked Shot,n/a,76.0,-10.0,Mark Giordano,Blocker,Calgary Flames,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:38:06Z,1,14:56,05:04,Shot,Wrist Shot,60.0,25.0,Jack Eichel,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:38:15Z,1,14:57,05:03,Blocked Shot,n/a,73.0,4.0,Mark Giordano,Blocker,Calgary Flames,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:38:12Z,1,14:58,05:02,Penalty,Hi-sticking,70.0,3.0,Jeff Skinner,PenaltyOn,Buffalo Sabres,Mark Giordano,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:38:45Z,1,14:58,05:02,Faceoff,n/a,-69.0,-22.0,Milan Lucic,Winner,Calgary Flames,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:39:12Z,1,15:17,04:43,Shot,Wrist Shot,-72.0,-38.0,Noah Hanifin,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:39:21Z,1,15:26,04:34,Shot,Snap Shot,-48.0,25.0,Rasmus Andersson,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:39:43Z,1,15:48,04:12,Hit,n/a,65.0,-41.0,Rasmus Andersson,Hitter,Calgary Flames,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:39:56Z,1,16:01,03:59,Shot,Wrist Shot,62.0,-13.0,Rasmus Asplund,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:40:04Z,1,16:08,03:52,Takeaway,n/a,45.0,32.0,Rasmus Asplund,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:40:34Z,1,16:37,03:23,Shot,Snap Shot,-62.0,0.0,Sean Monahan,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:40:45Z,1,16:42,03:18,Goal,Wrist Shot,-69.0,-20.0,Johnny Gaudreau,Scorer,Calgary Flames,Sean Monahan,Assist,Calgary Flames,Matthew Tkachuk,Assist,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres
+2019-12-06T02:41:46Z,1,16:42,03:18,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:42:02Z,1,17:19,02:41,Missed Shot,n/a,85.0,-14.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:42:10Z,1,17:28,02:32,Missed Shot,n/a,71.0,-15.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:42:47Z,1,18:05,01:55,Missed Shot,n/a,85.0,-13.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:42:53Z,1,18:11,01:49,Hit,n/a,34.0,-37.0,Mikael Backlund,Hitter,Calgary Flames,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:43:13Z,1,18:31,01:29,Hit,n/a,-7.0,-41.0,Jeff Skinner,Hitter,Buffalo Sabres,Oliver Kylington,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:43:53Z,1,18:46,01:14,Faceoff,n/a,-69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:44:26Z,1,19:10,00:50,Takeaway,n/a,-38.0,-2.0,Brandon Montour,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:44:30Z,1,19:13,00:47,Giveaway,n/a,-70.0,-10.0,Brandon Montour,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:44:37Z,1,19:22,00:38,Shot,Wrist Shot,-60.0,-1.0,Johnny Gaudreau,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:46:46Z,1,19:22,00:38,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:47:23Z,1,19:34,00:26,Giveaway,n/a,72.0,38.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:47:36Z,1,19:50,00:10,Hit,n/a,-96.0,17.0,Victor Olofsson,Hitter,Buffalo Sabres,Mikael Backlund,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:06:15Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Elias Lindholm,Winner,Calgary Flames,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:06:30Z,2,00:14,19:46,Missed Shot,n/a,75.0,1.0,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:06:37Z,2,00:23,19:37,Takeaway,n/a,39.0,-35.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:06:39Z,2,00:26,19:34,Shot,Wrist Shot,61.0,-35.0,Elias Lindholm,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:07:28Z,2,01:12,18:48,Giveaway,n/a,-43.0,-37.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:07:39Z,2,01:25,18:35,Blocked Shot,n/a,68.0,9.0,Brandon Montour,Blocker,Buffalo Sabres,Sean Monahan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:08:20Z,2,02:01,17:59,Shot,Deflected,2.0,-36.0,Jeff Skinner,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:08:35Z,2,02:01,17:59,Faceoff,n/a,-69.0,-22.0,Jeff Skinner,Winner,Buffalo Sabres,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:08:50Z,2,02:08,17:52,Blocked Shot,n/a,-74.0,0.0,Noah Hanifin,Blocker,Calgary Flames,Zach Bogosian,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:08:58Z,2,02:15,17:45,Shot,Wrist Shot,-82.0,-32.0,Jeff Skinner,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:09:22Z,2,02:42,17:18,Shot,Snap Shot,-77.0,-27.0,Jeff Skinner,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:09:42Z,2,02:42,17:18,Faceoff,n/a,-69.0,-22.0,Mark Jankowski,Winner,Calgary Flames,Rasmus Asplund,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:09:58Z,2,02:47,17:13,Blocked Shot,n/a,-52.0,-27.0,Michael Frolik,Blocker,Calgary Flames,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:10:06Z,2,02:55,17:05,Takeaway,n/a,42.0,-41.0,Michael Frolik,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:10:10Z,2,02:59,17:01,Shot,Wrist Shot,81.0,-2.0,Michael Frolik,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:10:17Z,2,03:04,16:56,Shot,Wrist Shot,71.0,17.0,Michael Frolik,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:10:33Z,2,03:05,16:55,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Sam Reinhart,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:11:03Z,2,03:15,16:45,Hit,n/a,97.0,-22.0,Jake McCabe,Hitter,Buffalo Sabres,Elias Lindholm,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:11:16Z,2,03:28,16:32,Missed Shot,n/a,72.0,6.0,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:12:07Z,2,04:19,15:41,Shot,Wrist Shot,52.0,4.0,Mikael Backlund,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:12:37Z,2,04:45,15:15,Blocked Shot,n/a,73.0,7.0,Marcus Johansson,Blocker,Buffalo Sabres,Dillon Dube,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:12:41Z,2,04:53,15:07,Hit,n/a,43.0,38.0,Mikael Backlund,Hitter,Calgary Flames,Zach Bogosian,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:12:56Z,2,05:08,14:52,Shot,Tip-In,-79.0,-6.0,Marco Scandella,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:13:07Z,2,05:18,14:42,Giveaway,n/a,98.0,-2.0,Linus Ullmark,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:13:12Z,2,05:22,14:38,Hit,n/a,48.0,-38.0,Marco Scandella,Hitter,Buffalo Sabres,Milan Lucic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:13:14Z,2,05:26,14:34,Missed Shot,n/a,63.0,16.0,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:13:19Z,2,05:31,14:29,Shot,Slap Shot,35.0,-8.0,Travis Hamonic,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:13:34Z,2,05:46,14:14,Missed Shot,n/a,73.0,15.0,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:13:39Z,2,05:51,14:09,Takeaway,n/a,45.0,12.0,Conor Sheary,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:13:58Z,2,06:10,13:50,Shot,Wrist Shot,-43.0,2.0,Conor Sheary,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:15:44Z,2,06:10,13:50,Faceoff,n/a,-69.0,22.0,Andrew Mangiapane,Winner,Calgary Flames,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:17:17Z,2,06:34,13:26,Faceoff,n/a,20.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:17:49Z,2,06:53,13:07,Hit,n/a,-87.0,34.0,Victor Olofsson,Hitter,Buffalo Sabres,Mark Giordano,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:17:57Z,2,07:01,12:59,Missed Shot,n/a,77.0,-10.0,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:18:02Z,2,07:07,12:53,Hit,n/a,65.0,38.0,Sam Reinhart,Hitter,Buffalo Sabres,Mark Giordano,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:18:26Z,2,07:21,12:39,Faceoff,n/a,69.0,22.0,Mark Jankowski,Winner,Calgary Flames,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:18:53Z,2,07:28,12:32,Missed Shot,n/a,64.0,1.0,Mark Jankowski,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:19:01Z,2,07:37,12:23,Blocked Shot,n/a,61.0,11.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,Tobias Rieder,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:19:06Z,2,07:42,12:18,Missed Shot,n/a,75.0,-5.0,Michael Frolik,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:19:17Z,2,07:48,12:12,Shot,Wrist Shot,62.0,-4.0,Mark Jankowski,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:19:24Z,2,07:57,12:03,Takeaway,n/a,91.0,-30.0,Tobias Rieder,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:20:07Z,2,08:43,11:17,Shot,Tip-In,-78.0,13.0,Zemgus Girgensons,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:20:11Z,2,08:45,11:15,Takeaway,n/a,-11.0,-6.0,Dillon Dube,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:20:21Z,2,08:57,11:03,Hit,n/a,-17.0,-36.0,Milan Lucic,Hitter,Calgary Flames,Zemgus Girgensons,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:20:40Z,2,09:15,10:45,Giveaway,n/a,79.0,-2.0,Brandon Montour,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:20:48Z,2,09:23,10:37,Giveaway,n/a,34.0,28.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:21:04Z,2,09:37,10:23,Takeaway,n/a,-52.0,-35.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:21:02Z,2,09:38,10:22,Missed Shot,n/a,-73.0,26.0,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:21:13Z,2,09:49,10:11,Missed Shot,n/a,78.0,18.0,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:21:22Z,2,09:55,10:05,Shot,Tip-In,80.0,3.0,Derek Ryan,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:21:26Z,2,09:58,10:02,Shot,Wrist Shot,87.0,29.0,Johnny Gaudreau,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:22:04Z,2,10:07,09:53,Faceoff,n/a,69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:22:09Z,2,10:13,09:47,Missed Shot,n/a,65.0,-35.0,TJ Brodie,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:22:30Z,2,10:32,09:28,Penalty,Hooking,94.0,23.0,Johnny Gaudreau,PenaltyOn,Calgary Flames,Marco Scandella,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:24:34Z,2,10:32,09:28,Faceoff,n/a,-69.0,22.0,Mark Jankowski,Winner,Calgary Flames,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:24:51Z,2,10:38,09:22,Hit,n/a,-83.0,35.0,Travis Hamonic,Hitter,Calgary Flames,Jeff Skinner,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:25:09Z,2,10:55,09:05,Takeaway,n/a,13.0,39.0,Elias Lindholm,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:25:28Z,2,11:14,08:46,Giveaway,n/a,-98.0,3.0,David Rittich,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:25:34Z,2,11:18,08:42,Goal,Backhand,82.0,-3.0,Tobias Rieder,Scorer,Calgary Flames,Derek Ryan,Assist,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a
+2019-12-06T03:26:32Z,2,11:18,08:42,Faceoff,n/a,0.0,0.0,Derek Ryan,Winner,Calgary Flames,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:27:43Z,2,12:38,07:22,Missed Shot,n/a,-77.0,1.0,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:27:58Z,2,12:54,07:06,Takeaway,n/a,-43.0,4.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:28:08Z,2,13:05,06:55,Shot,Wrist Shot,-70.0,22.0,Jack Eichel,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:28:42Z,2,13:05,06:55,Faceoff,n/a,-69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:28:53Z,2,13:13,06:47,Hit,n/a,-81.0,-38.0,Travis Hamonic,Hitter,Calgary Flames,Victor Olofsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:28:59Z,2,13:19,06:41,Takeaway,n/a,35.0,11.0,Jake McCabe,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:29:20Z,2,13:40,06:20,Shot,Wrist Shot,-85.0,12.0,Brandon Montour,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:29:30Z,2,13:50,06:10,Blocked Shot,n/a,69.0,8.0,Sam Reinhart,Blocker,Buffalo Sabres,Sean Monahan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:30:04Z,2,14:09,05:51,Faceoff,n/a,69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:30:25Z,2,14:15,05:45,Shot,Wrist Shot,64.0,14.0,Sean Monahan,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:32:11Z,2,14:16,05:44,Faceoff,n/a,69.0,22.0,Rasmus Asplund,Winner,Buffalo Sabres,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:32:53Z,2,14:25,05:35,Hit,n/a,-22.0,1.0,Rasmus Andersson,Hitter,Calgary Flames,Zemgus Girgensons,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:33:00Z,2,14:33,05:27,Blocked Shot,n/a,65.0,5.0,Zach Bogosian,Blocker,Buffalo Sabres,Sean Monahan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:33:10Z,2,14:43,05:17,Blocked Shot,n/a,-70.0,-1.0,Oliver Kylington,Blocker,Calgary Flames,Jimmy Vesey,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:33:33Z,2,15:02,04:58,Goal,Snap Shot,78.0,-17.0,Sean Monahan,Scorer,Calgary Flames,Mikael Backlund,Assist,Calgary Flames,Rasmus Andersson,Assist,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres
+2019-12-06T03:34:13Z,2,15:02,04:58,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:35:13Z,2,15:59,04:01,Hit,n/a,98.0,-1.0,Dillon Dube,Hitter,Calgary Flames,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:35:22Z,2,16:03,03:57,Hit,n/a,90.0,-31.0,Milan Lucic,Hitter,Calgary Flames,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:35:48Z,2,16:07,03:53,Faceoff,n/a,-69.0,-22.0,Casey Mittelstadt,Winner,Buffalo Sabres,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:36:05Z,2,16:17,03:43,Giveaway,n/a,-37.0,39.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:36:22Z,2,16:20,03:40,Faceoff,n/a,-69.0,-22.0,Mark Jankowski,Winner,Calgary Flames,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:36:54Z,2,16:29,03:31,Blocked Shot,n/a,-68.0,-14.0,Travis Hamonic,Blocker,Calgary Flames,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:37:35Z,2,17:10,02:50,Shot,Backhand,-82.0,17.0,Marcus Johansson,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:37:45Z,2,17:20,02:40,Shot,Snap Shot,-59.0,9.0,Colin Miller,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:38:01Z,2,17:36,02:24,Blocked Shot,n/a,-72.0,-16.0,Travis Hamonic,Blocker,Calgary Flames,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:38:11Z,2,17:46,02:14,Missed Shot,n/a,-64.0,-26.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:38:39Z,2,18:14,01:46,Giveaway,n/a,36.0,37.0,Elias Lindholm,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:38:45Z,2,18:17,01:43,Penalty,Interference,-73.0,35.0,Oliver Kylington,PenaltyOn,Calgary Flames,Conor Sheary,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:39:25Z,2,18:17,01:43,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:39:35Z,2,18:26,01:34,Missed Shot,n/a,-75.0,12.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:39:53Z,2,18:45,01:15,Shot,Slap Shot,-50.0,-22.0,Jack Eichel,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:40:03Z,2,18:53,01:07,Giveaway,n/a,-57.0,35.0,Sam Reinhart,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:40:32Z,2,19:18,00:42,Giveaway,n/a,-60.0,39.0,Victor Olofsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:40:59Z,2,19:50,00:10,Takeaway,n/a,56.0,26.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:41:03Z,2,19:54,00:06,Missed Shot,n/a,64.0,34.0,Michael Frolik,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:41:12Z,2,19:59,00:01,Takeaway,n/a,-12.0,-32.0,Michael Frolik,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T03:59:36Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:00:14Z,3,00:30,19:30,Shot,Wrist Shot,74.0,-26.0,Victor Olofsson,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:00:31Z,3,00:37,19:23,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:01:08Z,3,00:56,19:04,Shot,Wrist Shot,-44.0,-17.0,Noah Hanifin,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:01:15Z,3,01:03,18:57,Takeaway,n/a,19.0,39.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:01:42Z,3,01:30,18:30,Giveaway,n/a,-93.0,1.0,Brandon Montour,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:01:44Z,3,01:31,18:29,Shot,Wrist Shot,-45.0,13.0,Rasmus Andersson,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:02:17Z,3,01:31,18:29,Faceoff,n/a,-69.0,22.0,Rasmus Asplund,Winner,Buffalo Sabres,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:02:57Z,3,01:51,18:09,Faceoff,n/a,-69.0,-22.0,Mark Jankowski,Winner,Calgary Flames,Rasmus Asplund,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:03:09Z,3,01:56,18:04,Giveaway,n/a,-29.0,-24.0,Oliver Kylington,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:03:14Z,3,02:01,17:59,Shot,Snap Shot,75.0,-1.0,Jimmy Vesey,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:04:06Z,3,02:50,17:10,Giveaway,n/a,95.0,-26.0,Victor Olofsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:04:08Z,3,02:54,17:06,Shot,Snap Shot,47.0,-5.0,Henri Jokiharju,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:04:40Z,3,02:55,17:05,Faceoff,n/a,69.0,-22.0,Marcus Johansson,Winner,Buffalo Sabres,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:04:48Z,3,02:57,17:03,Missed Shot,n/a,55.0,-26.0,Jimmy Vesey,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:05:14Z,3,03:02,16:58,Faceoff,n/a,20.0,22.0,Sean Monahan,Winner,Calgary Flames,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:05:45Z,3,03:12,16:48,Shot,Wrist Shot,-62.0,-16.0,Johnny Gaudreau,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:06:08Z,3,03:12,16:48,Faceoff,n/a,-69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:06:36Z,3,03:30,16:30,Shot,Wrist Shot,83.0,6.0,Jeff Skinner,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:06:51Z,3,03:30,16:30,Faceoff,n/a,69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Milan Lucic,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:07:22Z,3,03:48,16:12,Giveaway,n/a,98.0,2.0,Rasmus Andersson,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:07:26Z,3,03:53,16:07,Takeaway,n/a,87.0,-34.0,Derek Ryan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:07:36Z,3,03:58,16:02,Goal,Wrist Shot,-75.0,-4.0,Milan Lucic,Scorer,Calgary Flames,Derek Ryan,Assist,Calgary Flames,Dillon Dube,Assist,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres
+2019-12-06T04:08:26Z,3,03:58,16:02,Faceoff,n/a,0.0,0.0,Rasmus Asplund,Winner,Buffalo Sabres,Tobias Rieder,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:09:04Z,3,04:21,15:39,Penalty,Cross checking,84.0,-38.0,Oliver Kylington,PenaltyOn,Calgary Flames,Rasmus Asplund,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:09:59Z,3,04:21,15:39,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:10:39Z,3,04:51,15:09,Takeaway,n/a,92.0,29.0,Jeff Skinner,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:11:18Z,3,05:24,14:36,Penalty,Hi-sticking,58.0,-4.0,Noah Hanifin,PenaltyOn,Calgary Flames,Marcus Johansson,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:12:36Z,3,05:24,14:36,Faceoff,n/a,69.0,-22.0,Mikael Backlund,Winner,Calgary Flames,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:13:23Z,3,05:58,14:02,Blocked Shot,n/a,77.0,-5.0,Mark Giordano,Blocker,Calgary Flames,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:13:40Z,3,06:13,13:47,Takeaway,n/a,61.0,6.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:13:55Z,3,06:31,13:29,Takeaway,n/a,52.0,-4.0,Oliver Kylington,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:14:18Z,3,06:53,13:07,Giveaway,n/a,98.0,-1.0,TJ Brodie,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:14:22Z,3,06:58,13:02,Giveaway,n/a,89.0,-32.0,Marcus Johansson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:14:40Z,3,07:15,12:45,Giveaway,n/a,38.0,17.0,Marcus Johansson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:15:04Z,3,07:39,12:21,Shot,Wrist Shot,-65.0,-18.0,Noah Hanifin,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:15:11Z,3,07:46,12:14,Takeaway,n/a,-43.0,-39.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:15:15Z,3,07:49,12:11,Shot,Wrist Shot,-78.0,17.0,Johnny Gaudreau,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:17:30Z,3,07:49,12:11,Faceoff,n/a,-69.0,22.0,Sean Monahan,Winner,Calgary Flames,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:17:48Z,3,07:57,12:03,Giveaway,n/a,-29.0,-20.0,Oliver Kylington,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:17:56Z,3,08:03,11:57,Penalty,Holding,86.0,-32.0,Jimmy Vesey,PenaltyOn,Buffalo Sabres,Oliver Kylington,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:18:26Z,3,08:03,11:57,Faceoff,n/a,-69.0,-22.0,Zemgus Girgensons,Winner,Buffalo Sabres,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:19:47Z,3,09:03,10:57,Shot,Wrist Shot,-74.0,12.0,Sean Monahan,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:19:58Z,3,09:14,10:46,Missed Shot,n/a,-51.0,4.0,Sean Monahan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:20:01Z,3,09:18,10:42,Hit,n/a,-89.0,-34.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:20:38Z,3,09:55,10:05,Missed Shot,n/a,-40.0,-16.0,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:21:05Z,3,10:22,09:38,Missed Shot,n/a,-77.0,-2.0,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:21:07Z,3,10:23,09:37,Hit,n/a,-44.0,41.0,Milan Lucic,Hitter,Calgary Flames,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:21:15Z,3,10:29,09:31,Shot,Wrist Shot,-63.0,-16.0,Michael Frolik,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:23:14Z,3,10:30,09:30,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Andrew Mangiapane,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:24:14Z,3,10:59,09:01,Blocked Shot,n/a,-73.0,-2.0,Colin Miller,Blocker,Buffalo Sabres,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:24:22Z,3,11:07,08:53,Giveaway,n/a,-97.0,16.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:24:56Z,3,11:19,08:41,Faceoff,n/a,69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:25:18Z,3,11:37,08:23,Takeaway,n/a,3.0,-31.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:26:19Z,3,12:35,07:25,Takeaway,n/a,-38.0,-14.0,Jimmy Vesey,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:26:34Z,3,12:53,07:07,Takeaway,n/a,-96.0,-7.0,Henri Jokiharju,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:26:46Z,3,13:05,06:55,Shot,Wrist Shot,-68.0,-12.0,Dillon Dube,Shooter,Calgary Flames,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:26:57Z,3,13:16,06:44,Hit,n/a,-95.0,20.0,Mark Jankowski,Hitter,Calgary Flames,Marco Scandella,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:27:03Z,3,13:20,06:40,Blocked Shot,n/a,-71.0,3.0,Zach Bogosian,Blocker,Buffalo Sabres,Tobias Rieder,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:27:22Z,3,13:24,06:36,Missed Shot,n/a,-74.0,-1.0,Tobias Rieder,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:27:12Z,3,13:26,06:34,Missed Shot,n/a,-66.0,-13.0,Tobias Rieder,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:27:34Z,3,13:26,06:34,Faceoff,n/a,-69.0,-22.0,Mark Jankowski,Winner,Calgary Flames,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:28:24Z,3,14:13,05:47,Blocked Shot,n/a,58.0,-15.0,Noah Hanifin,Blocker,Calgary Flames,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:28:33Z,3,14:18,05:42,Takeaway,n/a,50.0,-21.0,Rasmus Asplund,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:28:30Z,3,14:19,05:41,Giveaway,n/a,47.0,-4.0,Rasmus Asplund,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:28:43Z,3,14:32,05:28,Missed Shot,n/a,-76.0,-20.0,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:29:07Z,3,14:56,05:04,Giveaway,n/a,98.0,2.0,David Rittich,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:29:52Z,3,15:41,04:19,Missed Shot,n/a,38.0,-32.0,Zach Bogosian,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:30:06Z,3,15:55,04:05,Giveaway,n/a,50.0,34.0,Johan Larsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:31:31Z,3,17:16,02:44,Goal,Snap Shot,56.0,24.0,Jake McCabe,Scorer,Buffalo Sabres,Victor Olofsson,Assist,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a
+2019-12-06T04:31:59Z,3,17:16,02:44,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:32:48Z,3,17:56,02:04,Shot,Wrist Shot,83.0,2.0,Jeff Skinner,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:33:15Z,3,18:23,01:37,Blocked Shot,n/a,65.0,0.0,Travis Hamonic,Blocker,Calgary Flames,Casey Mittelstadt,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:33:19Z,3,18:25,01:35,Hit,n/a,96.0,-7.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Noah Hanifin,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:33:26Z,3,18:29,01:31,Shot,Slap Shot,44.0,9.0,Marcus Johansson,Shooter,Buffalo Sabres,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:33:29Z,3,18:32,01:28,Penalty,Tripping,73.0,-1.0,Noah Hanifin,PenaltyOn,Calgary Flames,Johan Larsson,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:34:14Z,3,18:32,01:28,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:34:58Z,3,19:12,00:48,Goal,Wrist Shot,60.0,10.0,Jack Eichel,Scorer,Buffalo Sabres,Brandon Montour,Assist,Buffalo Sabres,Marcus Johansson,Assist,Buffalo Sabres,David Rittich,Goalie,Calgary Flames
+2019-12-06T04:36:21Z,3,19:12,00:48,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:36:52Z,3,19:29,00:31,Missed Shot,n/a,56.0,8.0,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:37:22Z,3,19:46,00:14,Faceoff,n/a,69.0,-22.0,Mikael Backlund,Winner,Calgary Flames,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:38:14Z,3,19:51,00:09,Giveaway,n/a,94.0,-28.0,Mark Giordano,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:38:22Z,3,19:54,00:06,Missed Shot,n/a,55.0,4.0,Brandon Montour,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T04:38:28Z,3,19:59,00:01,Blocked Shot,n/a,79.0,16.0,Travis Hamonic,Blocker,Calgary Flames,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a

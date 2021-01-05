@@ -1,0 +1,237 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-28T00:09:26Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:09:51Z,1,00:25,19:35,Hit,n/a,-93.0,-27.0,Jonathan Huberdeau,Hitter,Florida Panthers,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:09:56Z,1,00:31,19:29,Hit,n/a,29.0,41.0,MacKenzie Weegar,Hitter,Florida Panthers,Mitchell Marner,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:10:48Z,1,01:22,18:38,Giveaway,n/a,15.0,-11.0,Mike Hoffman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:10:48Z,1,01:23,18:37,Missed Shot,n/a,34.0,32.0,Martin Marincin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:11:12Z,1,01:46,18:14,Giveaway,n/a,-37.0,-39.0,Tyson Barrie,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:11:30Z,1,02:05,17:55,Shot,Wrist Shot,50.0,-24.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:11:33Z,1,02:07,17:53,Hit,n/a,87.0,29.0,Lucas Wallmark,Hitter,Florida Panthers,Rasmus Sandin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:11:39Z,1,02:14,17:46,Shot,Wrist Shot,54.0,21.0,Rasmus Sandin,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:11:40Z,1,02:14,17:46,Takeaway,n/a,-18.0,34.0,Brett Connolly,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:11:57Z,1,02:23,17:37,Goal,Slap Shot,-56.0,23.0,Mark Pysyk,Scorer,Florida Panthers,Aaron Ekblad,Assist,Florida Panthers,Keith Yandle,Assist,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs
+2020-02-28T00:12:33Z,1,02:23,17:37,Faceoff,n/a,0.0,0.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:12:58Z,1,02:51,17:09,Missed Shot,n/a,40.0,27.0,Martin Marincin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:13:03Z,1,02:56,17:04,Hit,n/a,-46.0,-39.0,Kyle Clifford,Hitter,Toronto Maple Leafs,Noel Acciari,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:13:43Z,1,03:29,16:31,Shot,Backhand,81.0,-14.0,Auston Matthews,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:13:58Z,1,03:32,16:28,Goal,Backhand,78.0,-1.0,Zach Hyman,Scorer,Toronto Maple Leafs,Auston Matthews,Assist,Toronto Maple Leafs,Justin Holl,Assist,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers
+2020-02-28T00:14:16Z,1,03:32,16:28,Faceoff,n/a,0.0,0.0,Erik Haula,Winner,Florida Panthers,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:14:31Z,1,03:48,16:12,Hit,n/a,97.0,-10.0,Alexander Kerfoot,Hitter,Toronto Maple Leafs,Mike Matheson,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:15:21Z,1,04:12,15:48,Faceoff,n/a,69.0,-22.0,Noel Acciari,Winner,Florida Panthers,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:15:47Z,1,04:19,15:41,Faceoff,n/a,69.0,22.0,Noel Acciari,Winner,Florida Panthers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:16:03Z,1,04:28,15:32,Takeaway,n/a,18.0,2.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:16:07Z,1,04:32,15:28,Giveaway,n/a,80.0,15.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:16:38Z,1,05:03,14:57,Blocked Shot,n/a,-78.0,-10.0,John Tavares,Blocker,Toronto Maple Leafs,Brett Connolly,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:16:59Z,1,05:24,14:36,Hit,n/a,92.0,29.0,Frederik Gauthier,Hitter,Toronto Maple Leafs,Anton Stralman,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:17:15Z,1,05:41,14:19,Giveaway,n/a,-57.0,-38.0,Timothy Liljegren,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:17:29Z,1,05:55,14:05,Shot,Snap Shot,-37.0,0.0,Jonathan Huberdeau,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:17:38Z,1,06:02,13:58,Blocked Shot,n/a,71.0,1.0,Aaron Ekblad,Blocker,Florida Panthers,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:19:36Z,1,06:02,13:58,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:20:00Z,1,06:10,13:50,Giveaway,n/a,97.0,14.0,Zach Hyman,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:20:04Z,1,06:13,13:47,Giveaway,n/a,78.0,11.0,MacKenzie Weegar,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:20:27Z,1,06:37,13:23,Blocked Shot,n/a,-81.0,0.0,Rasmus Sandin,Blocker,Toronto Maple Leafs,Noel Acciari,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:20:35Z,1,06:44,13:16,Giveaway,n/a,-84.0,17.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:20:44Z,1,06:54,13:06,Blocked Shot,n/a,-77.0,14.0,Auston Matthews,Blocker,Toronto Maple Leafs,Noel Acciari,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:21:17Z,1,07:23,12:37,Shot,Wrist Shot,-59.0,17.0,Frank Vatrano,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:21:26Z,1,07:25,12:35,Goal,Wrist Shot,-64.0,-10.0,Mike Hoffman,Scorer,Florida Panthers,Frank Vatrano,Assist,Florida Panthers,Erik Haula,Assist,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs
+2020-02-28T00:22:02Z,1,07:25,12:35,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Erik Haula,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:22:14Z,1,07:38,12:22,Hit,n/a,-40.0,41.0,Justin Holl,Hitter,Toronto Maple Leafs,Frank Vatrano,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:22:18Z,1,07:42,12:18,Hit,n/a,-80.0,35.0,Erik Haula,Hitter,Florida Panthers,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:22:24Z,1,07:45,12:15,Giveaway,n/a,-74.0,10.0,Erik Haula,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:22:36Z,1,08:01,11:59,Hit,n/a,98.0,-9.0,Riley Stillman,Hitter,Florida Panthers,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:22:42Z,1,08:07,11:53,Hit,n/a,-36.0,-39.0,Travis Dermott,Hitter,Toronto Maple Leafs,Aleksi Saarela,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:24:26Z,1,09:50,10:10,Missed Shot,n/a,60.0,1.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:24:39Z,1,10:03,09:57,Hit,n/a,80.0,39.0,Aaron Ekblad,Hitter,Florida Panthers,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:24:54Z,1,10:18,09:42,Takeaway,n/a,83.0,25.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:24:57Z,1,10:21,09:39,Takeaway,n/a,35.0,38.0,Zach Hyman,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:25:02Z,1,10:27,09:33,Blocked Shot,n/a,51.0,8.0,Aleksander Barkov,Blocker,Florida Panthers,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:25:18Z,1,10:28,09:32,Shot,Slap Shot,41.0,31.0,Aaron Ekblad,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:25:27Z,1,10:51,09:09,Hit,n/a,-99.0,6.0,Erik Haula,Hitter,Florida Panthers,Calle Rosen,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:25:51Z,1,11:06,08:54,Missed Shot,n/a,68.0,-3.0,Pierre Engvall,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:26:07Z,1,11:31,08:29,Giveaway,n/a,77.0,-38.0,Sergei Bobrovsky,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:26:20Z,1,11:44,08:16,Giveaway,n/a,-8.0,-20.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:27:16Z,1,12:30,07:30,Giveaway,n/a,13.0,38.0,Alexander Kerfoot,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:27:16Z,1,12:36,07:24,Goal,Wrist Shot,-79.0,23.0,Noel Acciari,Scorer,Florida Panthers,Keith Yandle,Assist,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a
+2020-02-28T00:28:10Z,1,12:36,07:24,Faceoff,n/a,0.0,0.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:28:33Z,1,12:54,07:06,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:28:52Z,1,13:02,06:58,Missed Shot,n/a,-36.0,32.0,Mike Matheson,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:28:50Z,1,13:03,06:57,Hit,n/a,-45.0,40.0,Evgenii Dadonov,Hitter,Florida Panthers,Kyle Clifford,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:31:05Z,1,13:06,06:54,Faceoff,n/a,-69.0,22.0,Erik Haula,Winner,Florida Panthers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:31:10Z,1,13:11,06:49,Missed Shot,n/a,-39.0,33.0,MacKenzie Weegar,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:31:46Z,1,13:47,06:13,Missed Shot,n/a,-82.0,-7.0,Mark Pysyk,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:33:04Z,1,15:05,04:55,Giveaway,n/a,88.0,-16.0,Jason Spezza,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:33:26Z,1,15:11,04:49,Faceoff,n/a,69.0,22.0,Lucas Wallmark,Winner,Florida Panthers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:33:46Z,1,15:19,04:41,Hit,n/a,76.0,5.0,Brett Connolly,Hitter,Florida Panthers,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:33:51Z,1,15:25,04:35,Shot,Wrist Shot,-19.0,27.0,Aleksi Saarela,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:35:19Z,1,15:42,04:18,Penalty,Too many men on the ice,19.0,40.0,Aleksi Saarela,PenaltyOn,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:36:22Z,1,15:42,04:18,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:36:31Z,1,15:56,04:04,Takeaway,n/a,78.0,-17.0,Erik Haula,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:37:07Z,1,16:31,03:29,Shot,Slap Shot,68.0,7.0,Auston Matthews,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:37:07Z,1,16:31,03:29,Shot,Wrist Shot,39.0,-35.0,William Nylander,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:37:07Z,1,16:31,03:29,Hit,n/a,30.0,-37.0,Riley Stillman,Hitter,Florida Panthers,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:37:17Z,1,16:41,03:19,Shot,Slap Shot,31.0,34.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:37:22Z,1,16:46,03:14,Blocked Shot,n/a,73.0,18.0,Anton Stralman,Blocker,Florida Panthers,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:37:28Z,1,16:52,03:08,Takeaway,n/a,36.0,38.0,Erik Haula,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:37:48Z,1,16:59,03:01,Missed Shot,n/a,-80.0,-6.0,Colton Sceviour,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:37:58Z,1,17:00,03:00,Shot,Wrist Shot,-75.0,0.0,Erik Haula,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:38:20Z,1,17:01,02:59,Faceoff,n/a,-69.0,-22.0,Lucas Wallmark,Winner,Florida Panthers,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:39:04Z,1,17:43,02:17,Goal,Snap Shot,44.0,25.0,Kasperi Kapanen,Scorer,Toronto Maple Leafs,Jason Spezza,Assist,Toronto Maple Leafs,Alexander Kerfoot,Assist,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers
+2020-02-28T00:39:48Z,1,17:43,02:17,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:40:11Z,1,17:47,02:13,Faceoff,n/a,-20.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:40:29Z,1,18:00,02:00,Hit,n/a,-98.0,-10.0,Travis Dermott,Hitter,Toronto Maple Leafs,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:40:42Z,1,18:12,01:48,Blocked Shot,n/a,-75.0,12.0,Pierre Engvall,Blocker,Toronto Maple Leafs,Mike Matheson,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:40:53Z,1,18:24,01:36,Giveaway,n/a,95.0,-20.0,Justin Holl,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:41:14Z,1,18:41,01:19,Shot,Snap Shot,-73.0,35.0,Frank Vatrano,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:41:25Z,1,18:55,01:05,Missed Shot,n/a,-80.0,-15.0,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:41:26Z,1,18:56,01:04,Hit,n/a,96.0,-15.0,Auston Matthews,Hitter,Toronto Maple Leafs,MacKenzie Weegar,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:41:46Z,1,18:58,01:02,Goal,Slap Shot,74.0,-10.0,Auston Matthews,Scorer,Toronto Maple Leafs,Zach Hyman,Assist,Toronto Maple Leafs,Mitchell Marner,Assist,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers
+2020-02-28T00:42:16Z,1,18:58,01:02,Faceoff,n/a,0.0,0.0,Noel Acciari,Winner,Florida Panthers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:43:00Z,1,19:41,00:19,Hit,n/a,-91.0,25.0,Lucas Wallmark,Hitter,Florida Panthers,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:43:13Z,1,19:54,00:06,Hit,n/a,59.0,-40.0,Kasperi Kapanen,Hitter,Toronto Maple Leafs,MacKenzie Weegar,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:43:19Z,1,19:57,00:03,Hit,n/a,-20.0,-39.0,John Tavares,Hitter,Toronto Maple Leafs,Aleksi Saarela,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:43:43Z,1,20:00,00:00,Penalty,Fighting,26.0,-8.0,MacKenzie Weegar,PenaltyOn,Florida Panthers,Kasperi Kapanen,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T00:43:54Z,1,20:00,00:00,Penalty,Fighting,27.0,-4.0,Kasperi Kapanen,PenaltyOn,Toronto Maple Leafs,MacKenzie Weegar,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:17:03Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Noel Acciari,Winner,Florida Panthers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:03:15Z,2,00:14,19:46,Shot,Snap Shot,61.0,16.0,Noel Acciari,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:03:21Z,2,00:21,19:39,Blocked Shot,n/a,72.0,14.0,Travis Dermott,Blocker,Toronto Maple Leafs,Anton Stralman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:03:26Z,2,00:26,19:34,Blocked Shot,n/a,71.0,13.0,Mitchell Marner,Blocker,Toronto Maple Leafs,Noel Acciari,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:03:33Z,2,00:33,19:27,Blocked Shot,n/a,77.0,20.0,Travis Dermott,Blocker,Toronto Maple Leafs,Noel Acciari,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:04:17Z,2,01:17,18:43,Giveaway,n/a,60.0,-40.0,Martin Marincin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:04:30Z,2,01:30,18:30,Shot,Snap Shot,44.0,-23.0,Aaron Ekblad,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:04:42Z,2,01:41,18:19,Blocked Shot,n/a,71.0,14.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Aleksander Barkov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:04:43Z,2,01:43,18:17,Hit,n/a,83.0,-35.0,Martin Marincin,Hitter,Toronto Maple Leafs,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:04:58Z,2,01:57,18:03,Giveaway,n/a,36.0,32.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:05:07Z,2,02:07,17:53,Hit,n/a,-95.0,-8.0,Jonathan Huberdeau,Hitter,Florida Panthers,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:05:42Z,2,02:40,17:20,Missed Shot,n/a,-95.0,27.0,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:06:15Z,2,02:42,17:18,Faceoff,n/a,20.0,22.0,Zach Hyman,Winner,Toronto Maple Leafs,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:06:30Z,2,02:50,17:10,Hit,n/a,13.0,-40.0,Noel Acciari,Hitter,Florida Panthers,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:06:50Z,2,02:50,17:10,Faceoff,n/a,-20.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:07:28Z,2,03:23,16:37,Shot,Snap Shot,-53.0,4.0,Auston Matthews,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:07:51Z,2,03:24,16:36,Faceoff,n/a,-69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Lucas Wallmark,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:08:04Z,2,03:29,16:31,Missed Shot,n/a,-71.0,17.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:08:26Z,2,03:50,16:10,Giveaway,n/a,-16.0,20.0,Mike Matheson,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:08:29Z,2,03:53,16:07,Giveaway,n/a,-79.0,24.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:09:21Z,2,04:26,15:34,Faceoff,n/a,-69.0,-22.0,Lucas Wallmark,Winner,Florida Panthers,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:09:51Z,2,04:40,15:20,Giveaway,n/a,-55.0,-4.0,Pierre Engvall,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:10:49Z,2,05:38,14:22,Giveaway,n/a,-32.0,7.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:10:57Z,2,05:44,14:16,Shot,Snap Shot,-64.0,13.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:10:57Z,2,05:46,14:14,Shot,Snap Shot,-95.0,12.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:10:57Z,2,05:47,14:13,Shot,Wrist Shot,-97.0,8.0,Zach Hyman,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:11:38Z,2,06:27,13:33,Shot,Slap Shot,-41.0,8.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:11:43Z,2,06:32,13:28,Giveaway,n/a,-71.0,-2.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:11:47Z,2,06:33,13:27,Missed Shot,n/a,-75.0,5.0,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:13:00Z,2,07:49,12:11,Shot,Snap Shot,42.0,-2.0,Noel Acciari,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:13:20Z,2,08:09,11:51,Blocked Shot,n/a,63.0,-13.0,Frederik Gauthier,Blocker,Toronto Maple Leafs,Riley Stillman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T03:19:03Z,2,08:16,11:44,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:14:12Z,2,08:31,11:29,Takeaway,n/a,-84.0,-7.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:14:16Z,2,08:36,11:24,Shot,Backhand,-84.0,-8.0,Auston Matthews,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:17:45Z,2,08:50,11:10,Faceoff,n/a,20.0,22.0,Erik Haula,Winner,Florida Panthers,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:17:06Z,2,09:10,10:50,Blocked Shot,n/a,-75.0,-8.0,MacKenzie Weegar,Blocker,Florida Panthers,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:17:15Z,2,09:19,10:41,Blocked Shot,n/a,-82.0,-14.0,Frank Vatrano,Blocker,Florida Panthers,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:17:45Z,2,09:22,10:38,Faceoff,n/a,-20.0,22.0,Lucas Wallmark,Winner,Florida Panthers,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:18:07Z,2,09:38,10:22,Giveaway,n/a,-35.0,16.0,Alexander Kerfoot,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:18:18Z,2,09:50,10:10,Hit,n/a,19.0,41.0,Lucas Wallmark,Hitter,Florida Panthers,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:18:33Z,2,10:07,09:53,Takeaway,n/a,7.0,-24.0,Martin Marincin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:20:15Z,2,11:49,08:11,Hit,n/a,-82.0,-41.0,Anton Stralman,Hitter,Florida Panthers,Frederik Gauthier,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:20:20Z,2,11:54,08:06,Hit,n/a,-75.0,41.0,Kyle Clifford,Hitter,Toronto Maple Leafs,Aleksander Barkov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:21:13Z,2,12:47,07:13,Hit,n/a,89.0,34.0,Frank Vatrano,Hitter,Florida Panthers,Rasmus Sandin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:21:41Z,2,13:15,06:45,Hit,n/a,-83.0,-33.0,Alexander Kerfoot,Hitter,Toronto Maple Leafs,Riley Stillman,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:22:03Z,2,13:37,06:23,Shot,Tip-In,-74.0,-8.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:22:13Z,2,13:47,06:13,Hit,n/a,92.0,30.0,Justin Holl,Hitter,Toronto Maple Leafs,Mark Pysyk,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:23:04Z,2,14:38,05:22,Shot,Wrist Shot,30.0,7.0,Mike Matheson,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:23:32Z,2,15:06,04:54,Blocked Shot,n/a,-71.0,-10.0,Jonathan Huberdeau,Blocker,Florida Panthers,Travis Dermott,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:23:41Z,2,15:15,04:45,Shot,Slap Shot,-90.0,33.0,Kyle Clifford,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:23:49Z,2,15:19,04:41,Shot,Wrap-around,-92.0,-7.0,Zach Hyman,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:26:08Z,2,15:24,04:36,Faceoff,n/a,-20.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:26:43Z,2,16:06,03:54,Takeaway,n/a,96.0,-17.0,Noel Acciari,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:26:55Z,2,16:15,03:45,Shot,Wrist Shot,-53.0,2.0,John Tavares,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:27:27Z,2,16:16,03:44,Faceoff,n/a,-69.0,22.0,Erik Haula,Winner,Florida Panthers,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:27:42Z,2,16:24,03:36,Penalty,Interference,16.0,39.0,Martin Marincin,PenaltyOn,Toronto Maple Leafs,Lucas Wallmark,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:29:47Z,2,16:24,03:36,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:30:31Z,2,16:59,03:01,Shot,Wrist Shot,-78.0,1.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:30:31Z,2,17:00,03:00,Shot,Tip-In,-88.0,9.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:30:58Z,2,17:03,02:57,Faceoff,n/a,-69.0,-22.0,Pierre Engvall,Winner,Toronto Maple Leafs,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:31:35Z,2,17:43,02:17,Takeaway,n/a,33.0,-38.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:31:43Z,2,17:50,02:10,Missed Shot,n/a,-62.0,17.0,Pierre Engvall,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:32:41Z,2,18:48,01:12,Shot,Wrist Shot,-12.0,1.0,William Nylander,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:33:01Z,2,19:07,00:53,Blocked Shot,n/a,-77.0,17.0,Noel Acciari,Blocker,Florida Panthers,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:33:06Z,2,19:12,00:48,Hit,n/a,3.0,-39.0,Auston Matthews,Hitter,Toronto Maple Leafs,Mark Pysyk,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:33:23Z,2,19:29,00:31,Hit,n/a,-46.0,-40.0,Colton Sceviour,Hitter,Florida Panthers,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:33:29Z,2,19:35,00:25,Shot,Snap Shot,-62.0,-17.0,John Tavares,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:52:29Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:53:19Z,3,00:58,19:02,Missed Shot,n/a,-42.0,-32.0,MacKenzie Weegar,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:53:35Z,3,01:10,18:50,Shot,Tip-In,-80.0,-3.0,Evgenii Dadonov,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:54:19Z,3,01:10,18:50,Faceoff,n/a,-69.0,-22.0,Erik Haula,Winner,Florida Panthers,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:54:45Z,3,01:35,18:25,Blocked Shot,n/a,46.0,-29.0,Frank Vatrano,Blocker,Florida Panthers,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:54:52Z,3,01:42,18:18,Shot,Slap Shot,-80.0,-21.0,Mike Hoffman,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:55:29Z,3,02:19,17:41,Blocked Shot,n/a,70.0,18.0,Aaron Ekblad,Blocker,Florida Panthers,Pierre Engvall,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:55:37Z,3,02:27,17:33,Giveaway,n/a,52.0,-39.0,MacKenzie Weegar,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:56:01Z,3,02:51,17:09,Giveaway,n/a,-11.0,-11.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:56:06Z,3,02:56,17:04,Hit,n/a,-84.0,35.0,Martin Marincin,Hitter,Toronto Maple Leafs,Mark Pysyk,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:56:12Z,3,03:02,16:58,Missed Shot,n/a,-38.0,29.0,Anton Stralman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:56:29Z,3,03:16,16:44,Shot,Slap Shot,-60.0,11.0,Noel Acciari,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:56:56Z,3,03:27,16:33,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:57:06Z,3,03:35,16:25,Blocked Shot,n/a,-80.0,-14.0,Martin Marincin,Blocker,Toronto Maple Leafs,Jonathan Huberdeau,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:57:49Z,3,03:54,16:06,Faceoff,n/a,0.0,0.0,Erik Haula,Winner,Florida Panthers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:58:05Z,3,04:08,15:52,Missed Shot,n/a,58.0,-4.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:58:53Z,3,04:51,15:09,Hit,n/a,-68.0,-32.0,Martin Marincin,Hitter,Toronto Maple Leafs,Lucas Wallmark,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:58:53Z,3,04:54,15:06,Missed Shot,n/a,-85.0,-24.0,Lucas Wallmark,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:59:00Z,3,04:55,15:05,Shot,Wrist Shot,-54.0,41.0,Brett Connolly,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:59:30Z,3,04:56,15:04,Faceoff,n/a,-69.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,Lucas Wallmark,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:59:39Z,3,05:04,14:56,Giveaway,n/a,-11.0,5.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T01:59:45Z,3,05:09,14:51,Giveaway,n/a,5.0,-35.0,Keith Yandle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:00:01Z,3,05:26,14:34,Blocked Shot,n/a,80.0,17.0,Lucas Wallmark,Blocker,Florida Panthers,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:00:14Z,3,05:39,14:21,Takeaway,n/a,37.0,-36.0,Aleksi Saarela,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:00:17Z,3,05:39,14:21,Giveaway,n/a,32.0,-31.0,Aleksi Saarela,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:00:24Z,3,05:48,14:12,Takeaway,n/a,80.0,31.0,Keith Yandle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:00:58Z,3,05:57,14:03,Faceoff,n/a,-20.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Colton Sceviour,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:01:19Z,3,06:05,13:55,Takeaway,n/a,-99.0,-11.0,Mark Pysyk,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:01:20Z,3,06:09,13:51,Shot,Backhand,-79.0,7.0,Noel Acciari,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:01:42Z,3,06:30,13:30,Missed Shot,n/a,-38.0,34.0,Colton Sceviour,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:02:54Z,3,07:41,12:19,Giveaway,n/a,35.0,-8.0,Anton Stralman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:03:04Z,3,07:49,12:11,Shot,Slap Shot,73.0,-31.0,Kyle Clifford,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:05:10Z,3,07:50,12:10,Faceoff,n/a,69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:05:53Z,3,08:31,11:29,Missed Shot,n/a,82.0,-11.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:06:08Z,3,08:46,11:14,Shot,Slap Shot,44.0,29.0,Martin Marincin,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:06:29Z,3,08:58,11:02,Blocked Shot,n/a,78.0,6.0,Anton Stralman,Blocker,Florida Panthers,Martin Marincin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:06:35Z,3,09:00,11:00,Goal,Wrist Shot,75.0,-16.0,William Nylander,Scorer,Toronto Maple Leafs,Kyle Clifford,Assist,Toronto Maple Leafs,Martin Marincin,Assist,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers
+2020-02-28T02:07:10Z,3,09:00,11:00,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:07:32Z,3,09:21,10:39,Shot,Wrist Shot,-82.0,-9.0,Evgenii Dadonov,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:07:43Z,3,09:30,10:30,Shot,Wrist Shot,69.0,-8.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:08:12Z,3,09:30,10:30,Faceoff,n/a,69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Lucas Wallmark,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:09:23Z,3,10:37,09:23,Giveaway,n/a,40.0,36.0,Mark Pysyk,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:12:43Z,3,11:22,08:38,Faceoff,n/a,20.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:12:43Z,3,11:28,08:32,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:13:23Z,3,12:01,07:59,Giveaway,n/a,58.0,-29.0,Aaron Ekblad,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:13:30Z,3,12:09,07:51,Missed Shot,n/a,44.0,29.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:14:41Z,3,12:56,07:04,Blocked Shot,n/a,-78.0,22.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Erik Haula,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:14:34Z,3,12:57,07:03,Blocked Shot,n/a,-73.0,-7.0,Martin Marincin,Blocker,Toronto Maple Leafs,Riley Stillman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:14:27Z,3,13:00,07:00,Blocked Shot,n/a,-73.0,9.0,Martin Marincin,Blocker,Toronto Maple Leafs,Erik Haula,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:14:49Z,3,13:00,07:00,Faceoff,n/a,-69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Frank Vatrano,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:15:22Z,3,13:19,06:41,Shot,Snap Shot,-60.0,31.0,Mike Hoffman,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:16:27Z,3,14:23,05:37,Giveaway,n/a,9.0,36.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:16:28Z,3,14:24,05:36,Missed Shot,n/a,71.0,-24.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:16:30Z,3,14:26,05:34,Hit,n/a,28.0,-40.0,Evgenii Dadonov,Hitter,Florida Panthers,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:16:55Z,3,14:51,05:09,Shot,Backhand,76.0,-12.0,Auston Matthews,Shooter,Toronto Maple Leafs,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:17:12Z,3,15:09,04:51,Blocked Shot,n/a,72.0,10.0,Jonathan Huberdeau,Blocker,Florida Panthers,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:17:40Z,3,15:36,04:24,Giveaway,n/a,35.0,-32.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:18:10Z,3,16:06,03:54,Hit,n/a,48.0,-36.0,Riley Stillman,Hitter,Florida Panthers,Pierre Engvall,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:18:39Z,3,16:29,03:31,Takeaway,n/a,-96.0,5.0,Colton Sceviour,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:18:42Z,3,16:39,03:21,Blocked Shot,n/a,-71.0,13.0,John Tavares,Blocker,Toronto Maple Leafs,MacKenzie Weegar,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:19:19Z,3,17:16,02:44,Blocked Shot,n/a,-75.0,-5.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Aleksander Barkov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:20:10Z,3,18:07,01:53,Blocked Shot,n/a,-76.0,-19.0,Justin Holl,Blocker,Toronto Maple Leafs,Aleksi Saarela,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:20:20Z,3,18:07,01:53,Shot,Slap Shot,-62.0,37.0,Brett Connolly,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:21:58Z,3,18:08,01:52,Faceoff,n/a,-69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:22:15Z,3,18:23,01:37,Blocked Shot,n/a,60.0,3.0,Mike Hoffman,Blocker,Florida Panthers,Travis Dermott,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:22:30Z,3,18:38,01:22,Shot,Wrist Shot,-48.0,22.0,Aleksander Barkov,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:22:35Z,3,18:43,01:17,Shot,Slap Shot,-39.0,31.0,Keith Yandle,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:23:04Z,3,19:03,00:57,Missed Shot,n/a,-78.0,0.0,Jonathan Huberdeau,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:23:04Z,3,19:11,00:49,Missed Shot,n/a,-72.0,18.0,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:23:09Z,3,19:16,00:44,Shot,Slap Shot,-66.0,23.0,Mike Hoffman,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:23:12Z,3,19:19,00:41,Giveaway,n/a,-43.0,36.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:23:23Z,3,19:30,00:30,Shot,Slap Shot,-75.0,13.0,Mike Hoffman,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:23:29Z,3,19:36,00:24,Shot,Wrist Shot,-77.0,17.0,Mike Hoffman,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:23:36Z,3,19:39,00:21,Goal,Wrist Shot,-50.0,-30.0,Justin Holl,Scorer,Toronto Maple Leafs,John Tavares,Assist,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:24:19Z,3,19:39,00:21,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Lucas Wallmark,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:24:30Z,3,19:51,00:09,Giveaway,n/a,63.0,-10.0,Lucas Wallmark,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-28T02:24:40Z,3,19:59,00:01,Shot,Snap Shot,-48.0,25.0,Aleksi Saarela,Shooter,Florida Panthers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a

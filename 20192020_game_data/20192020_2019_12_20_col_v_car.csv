@@ -1,0 +1,249 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-20T02:07:55Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:08:54Z,1,00:22,19:38,Shot,Wrist Shot,34.0,31.0,Joel Edmundson,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:09:32Z,1,00:56,19:04,Penalty,Tripping,-86.0,1.0,James Reimer,PenaltyOn,Carolina Hurricanes,Valeri Nichushkin,DrewBy,Carolina Hurricanes,Nino Niederreiter,ServedBy,Colorado Avalanche,n/a,n/a,n/a
+2019-12-20T02:10:28Z,1,00:56,19:04,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:10:29Z,1,01:12,18:48,Missed Shot,n/a,-65.0,-5.0,Nazem Kadri,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:10:50Z,1,01:34,18:26,Shot,Wrist Shot,-93.0,16.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:11:05Z,1,01:49,18:11,Blocked Shot,n/a,-73.0,-3.0,Brett Pesce,Blocker,Carolina Hurricanes,Nazem Kadri,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:11:46Z,1,02:30,17:30,Hit,n/a,-44.0,-39.0,Dougie Hamilton,Hitter,Carolina Hurricanes,J.T. Compher,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:12:01Z,1,02:45,17:15,Shot,Tip-In,-81.0,-2.0,Joonas Donskoi,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:13:04Z,1,03:48,16:12,Giveaway,n/a,61.0,28.0,Gabriel Landeskog,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:13:07Z,1,03:50,16:10,Shot,Wrist Shot,56.0,7.0,Ryan Dzingel,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:14:03Z,1,04:46,15:14,Blocked Shot,n/a,-75.0,-4.0,Dougie Hamilton,Blocker,Carolina Hurricanes,Andre Burakovsky,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:14:13Z,1,04:57,15:03,Takeaway,n/a,42.0,38.0,Warren Foegele,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:14:22Z,1,05:06,14:54,Missed Shot,n/a,57.0,4.0,Jordan Martinook,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:14:29Z,1,05:09,14:51,Shot,Wrist Shot,70.0,-34.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:14:56Z,1,05:09,14:51,Faceoff,n/a,69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:15:51Z,1,05:55,14:05,Takeaway,n/a,-18.0,29.0,Jordan Martinook,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:16:02Z,1,06:04,13:56,Blocked Shot,n/a,-75.0,-8.0,Brett Pesce,Blocker,Carolina Hurricanes,Matt Calvert,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:16:08Z,1,06:10,13:50,Shot,Wrist Shot,65.0,-17.0,Martin Necas,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:17:46Z,1,06:10,13:50,Faceoff,n/a,69.0,-22.0,Lucas Wallmark,Winner,Carolina Hurricanes,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:18:28Z,1,06:17,13:43,Shot,Snap Shot,52.0,39.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:19:14Z,1,07:03,12:57,Shot,Snap Shot,-50.0,7.0,J.T. Compher,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:19:30Z,1,07:03,12:57,Faceoff,n/a,-69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:19:54Z,1,07:21,12:39,Giveaway,n/a,73.0,0.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:20:07Z,1,07:35,12:25,Missed Shot,n/a,-34.0,-35.0,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:20:19Z,1,07:46,12:14,Shot,Backhand,79.0,-24.0,Nino Niederreiter,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:20:27Z,1,07:55,12:05,Shot,Wrist Shot,75.0,-7.0,Nino Niederreiter,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:20:33Z,1,07:56,12:04,Shot,Backhand,83.0,5.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:20:33Z,1,08:01,11:59,Blocked Shot,n/a,65.0,-8.0,Mikko Rantanen,Blocker,Colorado Avalanche,Trevor van Riemsdyk,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:20:38Z,1,08:04,11:56,Shot,Slap Shot,43.0,-18.0,Trevor van Riemsdyk,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:20:57Z,1,08:04,11:56,Faceoff,n/a,69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:21:23Z,1,08:18,11:42,Giveaway,n/a,-96.0,-3.0,Jordan Staal,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:21:27Z,1,08:21,11:39,Blocked Shot,n/a,-51.0,22.0,Trevor van Riemsdyk,Blocker,Carolina Hurricanes,Tyson Jost,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:21:54Z,1,08:39,11:21,Blocked Shot,n/a,68.0,-8.0,Ian Cole,Blocker,Colorado Avalanche,Jake Gardiner,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:21:47Z,1,08:42,11:18,Shot,Wrist Shot,68.0,-1.0,Jordan Staal,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:22:21Z,1,08:46,11:14,Blocked Shot,n/a,79.0,3.0,Ian Cole,Blocker,Colorado Avalanche,Trevor van Riemsdyk,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:22:21Z,1,09:16,10:44,Takeaway,n/a,-29.0,-4.0,Jaccob Slavin,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:22:50Z,1,09:19,10:41,Faceoff,n/a,-20.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:23:12Z,1,09:34,10:26,Penalty,Hi-sticking,-54.0,-16.0,Lucas Wallmark,PenaltyOn,Carolina Hurricanes,J.T. Compher,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:23:52Z,1,09:34,10:26,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:24:53Z,1,10:18,09:42,Faceoff,n/a,-69.0,-22.0,Jordan Martinook,Winner,Carolina Hurricanes,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:26:36Z,1,10:40,09:20,Giveaway,n/a,-73.0,-16.0,Dougie Hamilton,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:26:36Z,1,11:52,08:08,Shot,Snap Shot,-53.0,-2.0,Valeri Nichushkin,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:27:06Z,1,12:01,07:59,Faceoff,n/a,-69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:27:32Z,1,12:08,07:52,Blocked Shot,n/a,-60.0,2.0,Ryan Dzingel,Blocker,Carolina Hurricanes,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:27:43Z,1,12:17,07:43,Hit,n/a,-96.0,-17.0,Pierre-Edouard Bellemare,Hitter,Colorado Avalanche,Lucas Wallmark,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:27:47Z,1,12:17,07:43,Shot,Backhand,-77.0,-5.0,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:29:48Z,1,12:17,07:43,Faceoff,n/a,-69.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:30:16Z,1,12:39,07:21,Missed Shot,n/a,62.0,19.0,Warren Foegele,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:30:26Z,1,12:47,07:13,Shot,Wrist Shot,68.0,29.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:30:34Z,1,12:57,07:03,Shot,Wrist Shot,-84.0,-34.0,Mikko Rantanen,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:30:46Z,1,13:03,06:57,Penalty,Too many men on the ice,-13.0,42.0,Andrei Svechnikov,PenaltyOn,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:31:32Z,1,13:03,06:57,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:32:00Z,1,13:38,06:22,Blocked Shot,n/a,-81.0,8.0,Joel Edmundson,Blocker,Carolina Hurricanes,Mikko Rantanen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:32:05Z,1,13:44,06:16,Giveaway,n/a,-96.0,8.0,Joel Edmundson,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:33:39Z,1,13:45,06:15,Shot,Wrist Shot,-94.0,17.0,Joel Edmundson,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:32:09Z,1,13:52,06:08,Missed Shot,n/a,-35.0,3.0,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:32:50Z,1,14:27,05:33,Shot,Wrist Shot,-76.0,0.0,Erik Johnson,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:33:13Z,1,14:27,05:33,Faceoff,n/a,-69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:33:41Z,1,14:47,05:13,Shot,Deflected,-79.0,-13.0,Joonas Donskoi,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:34:07Z,1,14:48,05:12,Faceoff,n/a,-69.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:34:20Z,1,14:56,05:04,Missed Shot,n/a,-84.0,-6.0,Gabriel Landeskog,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:34:57Z,1,15:16,04:44,Faceoff,n/a,69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:35:27Z,1,15:38,04:22,Hit,n/a,-96.0,0.0,Trevor van Riemsdyk,Hitter,Carolina Hurricanes,Gabriel Landeskog,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:35:30Z,1,15:41,04:19,Shot,Wrist Shot,-62.0,35.0,Ian Cole,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:37:30Z,1,15:41,04:19,Faceoff,n/a,-69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:38:04Z,1,15:53,04:07,Hit,n/a,-91.0,-31.0,Lucas Wallmark,Hitter,Carolina Hurricanes,Pierre-Edouard Bellemare,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:38:10Z,1,16:05,03:55,Hit,n/a,-46.0,40.0,Ryan Dzingel,Hitter,Carolina Hurricanes,Ian Cole,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:38:19Z,1,16:11,03:49,Hit,n/a,-97.0,-14.0,Lucas Wallmark,Hitter,Carolina Hurricanes,Matt Calvert,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:38:30Z,1,16:26,03:34,Hit,n/a,-97.0,-8.0,Matt Calvert,Hitter,Colorado Avalanche,Jaccob Slavin,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:38:54Z,1,16:50,03:10,Takeaway,n/a,-34.0,-32.0,Warren Foegele,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:38:58Z,1,16:54,03:06,Shot,Wrist Shot,64.0,-22.0,Jordan Staal,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:39:05Z,1,17:00,03:00,Hit,n/a,90.0,31.0,Andre Burakovsky,Hitter,Colorado Avalanche,Andrei Svechnikov,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:39:14Z,1,17:01,02:59,Hit,n/a,64.0,-37.0,Warren Foegele,Hitter,Carolina Hurricanes,Anton Lindholm,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:39:14Z,1,17:09,02:51,Giveaway,n/a,59.0,-39.0,Andrei Svechnikov,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:39:21Z,1,17:16,02:44,Shot,Wrist Shot,-56.0,-26.0,Tyson Jost,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:39:49Z,1,17:16,02:44,Faceoff,n/a,-69.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:40:10Z,1,17:36,02:24,Blocked Shot,n/a,-88.0,10.0,Brett Pesce,Blocker,Carolina Hurricanes,Mikko Rantanen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:40:11Z,1,17:37,02:23,Missed Shot,n/a,-36.0,-33.0,Ryan Graves,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:40:28Z,1,17:52,02:08,Shot,Wrist Shot,45.0,39.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:40:56Z,1,17:52,02:08,Faceoff,n/a,69.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:41:15Z,1,18:09,01:51,Missed Shot,n/a,43.0,-20.0,Jaccob Slavin,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:41:21Z,1,18:14,01:46,Shot,Wrist Shot,36.0,41.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:41:58Z,1,18:14,01:46,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:41:58Z,1,18:20,01:40,Takeaway,n/a,39.0,-3.0,Nazem Kadri,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:42:09Z,1,18:23,01:37,Shot,Backhand,-81.0,6.0,Nazem Kadri,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:42:24Z,1,18:33,01:27,Shot,Wrist Shot,-32.0,1.0,Erik Johnson,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:43:17Z,1,18:43,01:17,Blocked Shot,n/a,-80.0,9.0,Trevor van Riemsdyk,Blocker,Carolina Hurricanes,Tyson Jost,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:43:17Z,1,19:36,00:24,Giveaway,n/a,-92.0,-20.0,Jaccob Slavin,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:43:59Z,1,19:49,00:11,Faceoff,n/a,0.0,0.0,Sebastian Aho,Winner,Carolina Hurricanes,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:02:49Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Gabriel Landeskog,Winner,Colorado Avalanche,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:03:17Z,2,00:24,19:36,Hit,n/a,-49.0,-38.0,Jordan Staal,Hitter,Carolina Hurricanes,Gabriel Landeskog,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:04:04Z,2,01:11,18:49,Takeaway,n/a,-94.0,30.0,Nino Niederreiter,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:04:36Z,2,01:25,18:35,Faceoff,n/a,0.0,0.0,Lucas Wallmark,Winner,Carolina Hurricanes,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:05:00Z,2,01:40,18:20,Blocked Shot,n/a,-86.0,-14.0,Erik Johnson,Blocker,Colorado Avalanche,Lucas Wallmark,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:05:05Z,2,01:40,18:20,Faceoff,n/a,-69.0,-22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:05:53Z,2,02:11,17:49,Blocked Shot,n/a,70.0,3.0,Trevor van Riemsdyk,Blocker,Carolina Hurricanes,Nazem Kadri,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:06:37Z,2,02:30,17:30,Faceoff,n/a,69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:06:40Z,2,02:34,17:26,Shot,Wrist Shot,47.0,9.0,Nikita Zadorov,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:06:59Z,2,02:34,17:26,Faceoff,n/a,69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:07:35Z,2,02:44,17:16,Faceoff,n/a,69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:07:46Z,2,02:48,17:12,Shot,Wrist Shot,31.0,-19.0,Ryan Graves,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:08:21Z,2,03:24,16:36,Missed Shot,n/a,-61.0,-5.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:08:50Z,2,03:53,16:07,Giveaway,n/a,43.0,-5.0,Matt Calvert,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:09:06Z,2,03:54,16:06,Penalty,Too many men on the ice,8.0,40.0,Tyson Jost,PenaltyOn,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:09:55Z,2,03:54,16:06,Faceoff,n/a,-69.0,-22.0,Lucas Wallmark,Winner,Carolina Hurricanes,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:10:44Z,2,04:51,15:09,Blocked Shot,n/a,-76.0,12.0,Ryan Graves,Blocker,Colorado Avalanche,Ryan Dzingel,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:10:51Z,2,04:58,15:02,Shot,Wrist Shot,-35.0,0.0,Jake Gardiner,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:11:13Z,2,05:20,14:40,Shot,Slap Shot,-35.0,-1.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:11:32Z,2,05:39,14:21,Blocked Shot,n/a,-61.0,-14.0,Erik Johnson,Blocker,Colorado Avalanche,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:11:48Z,2,05:56,14:04,Blocked Shot,n/a,-65.0,-12.0,Erik Johnson,Blocker,Colorado Avalanche,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:12:30Z,2,06:19,13:41,Faceoff,n/a,-69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:12:57Z,2,06:26,13:34,Faceoff,n/a,-69.0,-22.0,Jordan Martinook,Winner,Carolina Hurricanes,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:13:16Z,2,06:31,13:29,Missed Shot,n/a,-37.0,-25.0,Joel Edmundson,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:13:19Z,2,06:34,13:26,Hit,n/a,-86.0,35.0,Pierre-Edouard Bellemare,Hitter,Colorado Avalanche,Brock McGinn,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:13:25Z,2,06:40,13:20,Shot,Wrist Shot,-35.0,27.0,Brett Pesce,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:13:37Z,2,06:53,13:07,Hit,n/a,-71.0,41.0,Tyson Jost,Hitter,Colorado Avalanche,Brett Pesce,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:16:05Z,2,07:00,13:00,Faceoff,n/a,-69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Martin Necas,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:16:26Z,2,07:07,12:53,Faceoff,n/a,-69.0,-22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:17:02Z,2,07:16,12:44,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Ryan Dzingel,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:17:56Z,2,07:36,12:24,Blocked Shot,n/a,78.0,-10.0,Martin Necas,Blocker,Carolina Hurricanes,Anton Lindholm,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:18:16Z,2,07:50,12:10,Penalty,Hooking,59.0,-37.0,Dougie Hamilton,PenaltyOn,Carolina Hurricanes,Andre Burakovsky,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:18:50Z,2,07:50,12:10,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:19:12Z,2,08:09,11:51,Shot,Snap Shot,53.0,-20.0,Mikko Rantanen,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:19:34Z,2,08:23,11:37,Hit,n/a,-25.0,10.0,Jordan Staal,Hitter,Carolina Hurricanes,Mikko Rantanen,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:19:58Z,2,08:54,11:06,Shot,Snap Shot,67.0,23.0,Nathan MacKinnon,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:20:35Z,2,08:55,11:05,Faceoff,n/a,69.0,22.0,Jordan Martinook,Winner,Carolina Hurricanes,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:21:02Z,2,09:05,10:55,Shot,Wrist Shot,40.0,3.0,Joonas Donskoi,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:21:02Z,2,09:05,10:55,Giveaway,n/a,64.0,41.0,Jaccob Slavin,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:21:23Z,2,09:05,10:55,Faceoff,n/a,69.0,22.0,Jordan Martinook,Winner,Carolina Hurricanes,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:22:00Z,2,09:13,10:47,Shot,Wrist Shot,61.0,-37.0,Warren Foegele,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:22:03Z,2,09:30,10:30,Penalty,Delaying Game - Puck over glass,32.0,-39.0,Warren Foegele,PenaltyOn,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:22:20Z,2,09:30,10:30,Faceoff,n/a,69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:22:41Z,2,09:35,10:25,Hit,n/a,76.0,41.0,Joel Edmundson,Hitter,Carolina Hurricanes,Gabriel Landeskog,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:22:55Z,2,09:49,10:11,Missed Shot,n/a,78.0,2.0,Gabriel Landeskog,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:23:36Z,2,10:30,09:30,Missed Shot,n/a,64.0,-2.0,Mikko Rantanen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:23:51Z,2,10:45,09:15,Shot,Wrist Shot,82.0,5.0,Gabriel Landeskog,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:23:51Z,2,10:46,09:14,Shot,Wrist Shot,81.0,7.0,Gabriel Landeskog,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:24:07Z,2,11:00,09:00,Shot,Tip-In,78.0,-1.0,Valeri Nichushkin,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:24:28Z,2,11:22,08:38,Shot,Wrist Shot,52.0,1.0,Andre Burakovsky,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:24:32Z,2,11:26,08:34,Shot,Wrist Shot,67.0,2.0,Valeri Nichushkin,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:24:39Z,2,11:32,08:28,Shot,Wrist Shot,34.0,4.0,Erik Johnson,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:24:42Z,2,11:35,08:25,Blocked Shot,n/a,67.0,1.0,Teuvo Teravainen,Blocker,Carolina Hurricanes,J.T. Compher,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:26:49Z,2,11:35,08:25,Faceoff,n/a,69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:27:15Z,2,11:40,08:20,Missed Shot,n/a,60.0,38.0,Nikita Zadorov,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:27:40Z,2,11:49,08:11,Faceoff,n/a,0.0,0.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:28:01Z,2,12:05,07:55,Blocked Shot,n/a,68.0,0.0,Trevor van Riemsdyk,Blocker,Carolina Hurricanes,Matt Nieto,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:28:04Z,2,12:08,07:52,Shot,Slap Shot,-50.0,13.0,Lucas Wallmark,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:28:23Z,2,12:27,07:33,Hit,n/a,-48.0,39.0,Ian Cole,Hitter,Colorado Avalanche,Jordan Staal,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:28:38Z,2,12:42,07:18,Shot,Wrist Shot,-20.0,1.0,Warren Foegele,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:29:28Z,2,12:42,07:18,Faceoff,n/a,-69.0,22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:29:17Z,2,12:49,07:11,Hit,n/a,-88.0,-34.0,Jaccob Slavin,Hitter,Carolina Hurricanes,Nathan MacKinnon,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:29:19Z,2,12:51,07:09,Shot,Wrist Shot,-87.0,-34.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:29:27Z,2,12:59,07:01,Blocked Shot,n/a,-61.0,12.0,Nathan MacKinnon,Blocker,Colorado Avalanche,Dougie Hamilton,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:29:32Z,2,13:04,06:56,Hit,n/a,-89.0,25.0,Nathan MacKinnon,Hitter,Colorado Avalanche,Sebastian Aho,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:29:45Z,2,13:14,06:46,Shot,Tip-In,-83.0,-7.0,Nino Niederreiter,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:29:56Z,2,13:28,06:32,Giveaway,n/a,-90.0,-25.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:30:43Z,2,14:11,05:49,Penalty,Interference,40.0,-25.0,Nazem Kadri,PenaltyOn,Colorado Avalanche,Joel Edmundson,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:32:39Z,2,14:11,05:49,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:33:06Z,2,14:20,05:40,Shot,Backhand,-68.0,2.0,Sebastian Aho,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:33:24Z,2,14:37,05:23,Shot,Wrist Shot,-53.0,6.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:33:29Z,2,14:43,05:17,Shot,Slap Shot,-47.0,-20.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:33:50Z,2,15:04,04:56,Hit,n/a,62.0,40.0,Pierre-Edouard Bellemare,Hitter,Colorado Avalanche,Dougie Hamilton,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:34:29Z,2,15:13,04:47,Faceoff,n/a,20.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Martin Necas,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:35:10Z,2,15:31,04:29,Blocked Shot,n/a,-71.0,3.0,Ian Cole,Blocker,Colorado Avalanche,Martin Necas,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:35:27Z,2,15:32,04:28,Faceoff,n/a,-69.0,22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:35:48Z,2,15:38,04:22,Missed Shot,n/a,-63.0,-8.0,Martin Necas,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:36:25Z,2,16:15,03:45,Shot,Snap Shot,-41.0,-15.0,Lucas Wallmark,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:36:40Z,2,16:30,03:30,Missed Shot,n/a,52.0,-7.0,Erik Johnson,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:36:47Z,2,16:37,03:23,Blocked Shot,n/a,43.0,-18.0,Ryan Dzingel,Blocker,Carolina Hurricanes,Erik Johnson,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:37:30Z,2,17:20,02:40,Giveaway,n/a,42.0,40.0,Mikko Rantanen,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:38:03Z,2,17:47,02:13,Hit,n/a,-92.0,-28.0,Jordan Staal,Hitter,Carolina Hurricanes,Erik Johnson,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:38:03Z,2,17:53,02:07,Shot,Wrist Shot,60.0,-9.0,Nathan MacKinnon,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:38:10Z,2,17:54,02:06,Missed Shot,n/a,69.0,-9.0,Gabriel Landeskog,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:38:10Z,2,17:59,02:01,Hit,n/a,17.0,40.0,Jordan Staal,Hitter,Carolina Hurricanes,Valeri Nichushkin,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:39:09Z,2,18:59,01:01,Hit,n/a,-85.0,-36.0,Nikita Zadorov,Hitter,Colorado Avalanche,Nino Niederreiter,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:40:10Z,2,19:15,00:45,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:40:57Z,2,19:59,00:01,Shot,Wrist Shot,6.0,38.0,Nazem Kadri,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:59:26Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:59:43Z,3,00:09,19:51,Hit,n/a,49.0,-38.0,Andrei Svechnikov,Hitter,Carolina Hurricanes,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:00:30Z,3,00:32,19:28,Faceoff,n/a,69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:01:04Z,3,01:00,19:00,Shot,Wrist Shot,-43.0,-23.0,Nazem Kadri,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:01:20Z,3,01:16,18:44,Blocked Shot,n/a,84.0,-9.0,Erik Johnson,Blocker,Colorado Avalanche,Sebastian Aho,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:01:41Z,3,01:37,18:23,Takeaway,n/a,90.0,18.0,Samuel Girard,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:01:56Z,3,01:50,18:10,Hit,n/a,-62.0,41.0,Martin Necas,Hitter,Carolina Hurricanes,Joonas Donskoi,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:02:08Z,3,02:04,17:56,Missed Shot,n/a,-87.0,21.0,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:02:11Z,3,02:05,17:55,Blocked Shot,n/a,-45.0,-21.0,Brock McGinn,Blocker,Carolina Hurricanes,Ryan Graves,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:02:51Z,3,02:09,17:51,Hit,n/a,-80.0,40.0,Jordan Martinook,Hitter,Carolina Hurricanes,Joonas Donskoi,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:02:51Z,3,02:44,17:16,Penalty,Hi-sticking,-85.0,-11.0,Brian Gibbons,PenaltyOn,Carolina Hurricanes,Matt Calvert,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:03:38Z,3,02:44,17:16,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:04:14Z,3,03:09,16:51,Faceoff,n/a,69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:05:20Z,3,04:05,15:55,Goal,Tip-In,-83.0,2.0,Gabriel Landeskog,Scorer,Colorado Avalanche,Nathan MacKinnon,Assist,Colorado Avalanche,Samuel Girard,Assist,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes
+2019-12-20T04:06:18Z,3,04:05,15:55,Faceoff,n/a,0.0,0.0,Lucas Wallmark,Winner,Carolina Hurricanes,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:06:57Z,3,04:41,15:19,Blocked Shot,n/a,74.0,16.0,Ian Cole,Blocker,Colorado Avalanche,Martin Necas,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:07:05Z,3,04:48,15:12,Missed Shot,n/a,65.0,-10.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:07:19Z,3,04:52,15:08,Blocked Shot,n/a,77.0,0.0,Ian Cole,Blocker,Colorado Avalanche,Dougie Hamilton,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:07:41Z,3,05:10,14:50,Faceoff,n/a,69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:08:59Z,3,06:16,13:44,Giveaway,n/a,-97.0,-7.0,Brett Pesce,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:11:11Z,3,06:23,13:37,Faceoff,n/a,0.0,0.0,Sebastian Aho,Winner,Carolina Hurricanes,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:11:37Z,3,06:30,13:30,Faceoff,n/a,-69.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:11:59Z,3,06:36,13:24,Hit,n/a,-99.0,10.0,Joel Edmundson,Hitter,Carolina Hurricanes,Nathan MacKinnon,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:12:15Z,3,06:54,13:06,Penalty,Interference,89.0,-7.0,Gabriel Landeskog,PenaltyOn,Colorado Avalanche,Sebastian Aho,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:12:52Z,3,06:54,13:06,Faceoff,n/a,69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:13:07Z,3,07:03,12:57,Blocked Shot,n/a,67.0,-16.0,Ian Cole,Blocker,Colorado Avalanche,Teuvo Teravainen,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:13:17Z,3,07:12,12:48,Takeaway,n/a,32.0,-29.0,J.T. Compher,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:13:23Z,3,07:19,12:41,Hit,n/a,-26.0,-11.0,Andrei Svechnikov,Hitter,Carolina Hurricanes,J.T. Compher,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:14:01Z,3,07:58,12:02,Shot,Snap Shot,33.0,-30.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:15:17Z,3,09:13,10:47,Blocked Shot,n/a,-53.0,-12.0,Brock McGinn,Blocker,Carolina Hurricanes,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:15:39Z,3,09:35,10:25,Missed Shot,n/a,79.0,-7.0,Jordan Martinook,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:16:28Z,3,10:24,09:36,Hit,n/a,0.0,41.0,Joel Edmundson,Hitter,Carolina Hurricanes,Andre Burakovsky,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:16:41Z,3,10:35,09:25,Giveaway,n/a,-94.0,18.0,Dougie Hamilton,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:17:39Z,3,11:34,08:26,Takeaway,n/a,-87.0,-15.0,Pierre-Edouard Bellemare,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:18:06Z,3,11:38,08:22,Blocked Shot,n/a,-74.0,-4.0,Jake Gardiner,Blocker,Carolina Hurricanes,Matt Nieto,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:18:06Z,3,11:59,08:01,Hit,n/a,16.0,-39.0,Jordan Staal,Hitter,Carolina Hurricanes,Valeri Nichushkin,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:20:20Z,3,12:03,07:57,Faceoff,n/a,-20.0,22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:20:51Z,3,12:31,07:29,Shot,Backhand,-76.0,-6.0,Mikko Rantanen,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:21:20Z,3,12:31,07:29,Faceoff,n/a,-69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:21:54Z,3,12:59,07:01,Shot,Slap Shot,43.0,-10.0,Brett Pesce,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:22:04Z,3,13:04,06:56,Shot,Wrist Shot,71.0,5.0,Warren Foegele,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:22:04Z,3,13:06,06:54,Shot,Wrist Shot,82.0,7.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:22:43Z,3,13:06,06:54,Faceoff,n/a,69.0,22.0,Joonas Donskoi,Winner,Colorado Avalanche,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:23:40Z,3,13:43,06:17,Shot,Wrist Shot,62.0,-34.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:24:16Z,3,14:18,05:42,Shot,Snap Shot,41.0,-8.0,Brett Pesce,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:24:29Z,3,14:32,05:28,Shot,Wrist Shot,37.0,33.0,Joel Edmundson,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:25:16Z,3,14:58,05:02,Faceoff,n/a,69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:25:28Z,3,15:05,04:55,Missed Shot,n/a,39.0,36.0,Jake Gardiner,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:25:35Z,3,15:11,04:49,Shot,Wrist Shot,-77.0,17.0,Gabriel Landeskog,Shooter,Colorado Avalanche,James Reimer,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:26:00Z,3,15:35,04:25,Hit,n/a,-97.0,-9.0,Jordan Staal,Hitter,Carolina Hurricanes,Mikko Rantanen,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:28:29Z,3,15:55,04:05,Faceoff,n/a,20.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:29:03Z,3,16:03,03:57,Faceoff,n/a,69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:29:24Z,3,16:17,03:43,Blocked Shot,n/a,78.0,-1.0,Erik Johnson,Blocker,Colorado Avalanche,Teuvo Teravainen,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:29:42Z,3,16:17,03:43,Faceoff,n/a,69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:29:57Z,3,16:24,03:36,Shot,Wrist Shot,42.0,-37.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:30:16Z,3,16:24,03:36,Faceoff,n/a,69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:31:02Z,3,16:59,03:01,Hit,n/a,92.0,-32.0,Warren Foegele,Hitter,Carolina Hurricanes,Pierre-Edouard Bellemare,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:32:15Z,3,17:02,02:58,Blocked Shot,n/a,79.0,0.0,Samuel Girard,Blocker,Colorado Avalanche,Warren Foegele,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:31:08Z,3,17:03,02:57,Shot,Wrist Shot,76.0,-2.0,Warren Foegele,Shooter,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:31:08Z,3,17:04,02:56,Goal,Wrist Shot,76.0,7.0,Andrei Svechnikov,Scorer,Carolina Hurricanes,Warren Foegele,Assist,Carolina Hurricanes,Jordan Staal,Assist,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche
+2019-12-20T04:31:51Z,3,17:04,02:56,Faceoff,n/a,0.0,0.0,Sebastian Aho,Winner,Carolina Hurricanes,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:33:08Z,3,18:21,01:39,Goal,Snap Shot,75.0,-19.0,Jaccob Slavin,Scorer,Carolina Hurricanes,Lucas Wallmark,Assist,Carolina Hurricanes,Jordan Martinook,Assist,Carolina Hurricanes,Philipp Grubauer,Goalie,Colorado Avalanche
+2019-12-20T04:33:53Z,3,18:21,01:39,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:34:55Z,3,18:56,01:04,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:35:49Z,3,19:07,00:53,Giveaway,n/a,-96.0,-11.0,Warren Foegele,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:35:58Z,3,19:12,00:48,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:36:27Z,3,19:17,00:43,Giveaway,n/a,-95.0,-25.0,Brett Pesce,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:36:37Z,3,19:30,00:30,Blocked Shot,n/a,-47.0,-7.0,Andrei Svechnikov,Blocker,Carolina Hurricanes,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:37:03Z,3,19:54,00:06,Goal,Wrist Shot,64.0,-2.0,Sebastian Aho,Scorer,Carolina Hurricanes,Jordan Martinook,Assist,Carolina Hurricanes,Teuvo Teravainen,Assist,Colorado Avalanche,n/a,n/a,n/a
+2019-12-20T04:37:38Z,3,19:54,00:06,Faceoff,n/a,0.0,0.0,Lucas Wallmark,Winner,Carolina Hurricanes,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a

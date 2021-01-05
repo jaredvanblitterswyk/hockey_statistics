@@ -1,0 +1,238 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-09T02:02:56Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:10:52Z,1,00:16,19:44,Giveaway,n/a,59.0,-1.0,Victor Olofsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:11:02Z,1,00:37,19:23,Shot,Wrap-around,88.0,4.0,Leon Draisaitl,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:11:42Z,1,01:10,18:50,Giveaway,n/a,54.0,-8.0,Jujhar Khaira,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:11:59Z,1,01:14,18:46,Faceoff,n/a,69.0,22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:13:26Z,1,02:22,17:38,Shot,Wrist Shot,-46.0,-11.0,Evan Rodrigues,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:13:58Z,1,03:02,16:58,Hit,n/a,61.0,-6.0,Colin Miller,Hitter,Buffalo Sabres,Zack Kassian,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:14:11Z,1,03:12,16:48,Blocked Shot,n/a,58.0,-6.0,Colin Miller,Blocker,Buffalo Sabres,Zack Kassian,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:14:11Z,1,03:19,16:41,Blocked Shot,n/a,-53.0,27.0,Leon Draisaitl,Blocker,Edmonton Oilers,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:53:56Z,1,03:25,16:35,Shot,Wrist Shot,-76.0,-33.0,Brandon Montour,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:14:30Z,1,03:35,16:25,Missed Shot,n/a,-53.0,-14.0,Brandon Montour,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:14:37Z,1,03:42,16:18,Shot,Wrist Shot,-66.0,-5.0,Sam Reinhart,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:14:48Z,1,03:53,16:07,Missed Shot,n/a,-65.0,12.0,Brandon Montour,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:14:57Z,1,03:58,16:02,Hit,n/a,-80.0,35.0,Oscar Klefbom,Hitter,Edmonton Oilers,Zemgus Girgensons,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:15:06Z,1,04:05,15:55,Giveaway,n/a,-87.0,34.0,Riley Sheahan,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:15:06Z,1,04:08,15:52,Goal,Tip-In,-85.0,-4.0,Kyle Okposo,Scorer,Buffalo Sabres,Marco Scandella,Assist,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a
+2019-12-09T01:15:46Z,1,04:08,15:52,Faceoff,n/a,0.0,0.0,Riley Sheahan,Winner,Edmonton Oilers,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:16:00Z,1,04:21,15:39,Hit,n/a,96.0,-23.0,Markus Granlund,Hitter,Edmonton Oilers,Colin Miller,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:16:13Z,1,04:33,15:27,Takeaway,n/a,-30.0,40.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:16:18Z,1,04:39,15:21,Shot,Wrist Shot,45.0,42.0,Oscar Klefbom,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:16:38Z,1,04:58,15:02,Shot,Wrist Shot,46.0,-12.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:17:05Z,1,05:22,14:38,Blocked Shot,n/a,82.0,4.0,Brandon Montour,Blocker,Buffalo Sabres,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:17:09Z,1,05:22,14:38,Penalty,Tripping,62.0,-6.0,Brandon Montour,PenaltyOn,Buffalo Sabres,James Neal,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:17:46Z,1,05:22,14:38,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:17:50Z,1,05:32,14:28,Shot,Wrist Shot,69.0,-5.0,Leon Draisaitl,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:18:10Z,1,05:52,14:08,Shot,Backhand,85.0,4.0,Alex Chiasson,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:18:17Z,1,05:55,14:05,Giveaway,n/a,61.0,-23.0,Johan Larsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:18:35Z,1,06:17,13:43,Giveaway,n/a,-50.0,25.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:18:56Z,1,06:38,13:22,Shot,Wrist Shot,84.0,-1.0,Connor McDavid,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:19:07Z,1,06:49,13:11,Giveaway,n/a,62.0,37.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:19:34Z,1,07:16,12:44,Hit,n/a,93.0,27.0,Connor McDavid,Hitter,Edmonton Oilers,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:20:04Z,1,07:36,12:24,Takeaway,n/a,88.0,-14.0,Riley Sheahan,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:20:00Z,1,07:42,12:18,Blocked Shot,n/a,74.0,3.0,Zach Bogosian,Blocker,Buffalo Sabres,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:20:16Z,1,07:42,12:18,Penalty,Hi-sticking,73.0,5.0,Markus Granlund,PenaltyOn,Edmonton Oilers,Zach Bogosian,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:22:26Z,1,07:42,12:18,Faceoff,n/a,-69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:23:28Z,1,08:42,11:18,Shot,Snap Shot,62.0,-17.0,Riley Sheahan,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:23:39Z,1,08:52,11:08,Takeaway,n/a,-45.0,31.0,Josh Archibald,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:24:24Z,1,09:02,10:58,Faceoff,n/a,-20.0,22.0,Jujhar Khaira,Winner,Edmonton Oilers,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:25:11Z,1,09:46,10:14,Hit,n/a,-76.0,-37.0,Ethan Bear,Hitter,Edmonton Oilers,Brandon Montour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:25:43Z,1,10:21,09:39,Blocked Shot,n/a,-53.0,-17.0,Zack Kassian,Blocker,Edmonton Oilers,Marco Scandella,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:25:57Z,1,10:35,09:25,Blocked Shot,n/a,-44.0,-7.0,Connor McDavid,Blocker,Edmonton Oilers,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:26:06Z,1,10:42,09:18,Shot,Tip-In,-82.0,-2.0,Rasmus Asplund,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:26:24Z,1,10:43,09:17,Goal,Wrist Shot,-77.0,3.0,Johan Larsson,Scorer,Buffalo Sabres,Jimmy Vesey,Assist,Buffalo Sabres,Rasmus Asplund,Assist,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers
+2019-12-09T01:27:04Z,1,10:43,09:17,Faceoff,n/a,0.0,0.0,Gaetan Haas,Winner,Edmonton Oilers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:27:18Z,1,10:53,09:07,Hit,n/a,-95.0,-16.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Joel Persson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:27:26Z,1,11:01,08:59,Blocked Shot,n/a,-69.0,6.0,Joel Persson,Blocker,Edmonton Oilers,Zemgus Girgensons,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:27:37Z,1,11:12,08:48,Hit,n/a,-83.0,-38.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Joel Persson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:30:09Z,1,11:24,08:36,Faceoff,n/a,20.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:30:19Z,1,11:42,08:18,Shot,Backhand,-69.0,-35.0,Brandon Montour,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:30:34Z,1,11:57,08:03,Shot,Wrist Shot,-37.0,-27.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:30:45Z,1,11:59,08:01,Hit,n/a,-57.0,-26.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:30:43Z,1,12:04,07:56,Blocked Shot,n/a,-66.0,-2.0,Leon Draisaitl,Blocker,Edmonton Oilers,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:31:12Z,1,12:04,07:56,Faceoff,n/a,-69.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:32:05Z,1,12:39,07:21,Faceoff,n/a,69.0,-22.0,Gaetan Haas,Winner,Edmonton Oilers,Rasmus Asplund,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:32:15Z,1,12:45,07:15,Shot,Backhand,83.0,-1.0,Adam Larsson,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:32:40Z,1,12:46,07:14,Faceoff,n/a,69.0,22.0,Evan Rodrigues,Winner,Buffalo Sabres,Joakim Nygard,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:33:27Z,1,12:57,07:03,Faceoff,n/a,-20.0,-22.0,Gaetan Haas,Winner,Edmonton Oilers,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:34:06Z,1,13:03,06:57,Faceoff,n/a,-69.0,22.0,Gaetan Haas,Winner,Edmonton Oilers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:34:38Z,1,13:21,06:39,Takeaway,n/a,-57.0,-4.0,Kris Russell,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:34:41Z,1,13:24,06:36,Blocked Shot,n/a,60.0,-14.0,Zach Bogosian,Blocker,Buffalo Sabres,Alex Chiasson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:34:51Z,1,13:35,06:25,Giveaway,n/a,62.0,-37.0,Markus Granlund,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:35:30Z,1,14:13,05:47,Hit,n/a,-51.0,-41.0,Ethan Bear,Hitter,Edmonton Oilers,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:35:37Z,1,14:21,05:39,Hit,n/a,-35.0,-38.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Riley Sheahan,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:35:43Z,1,14:26,05:34,Shot,Tip-In,-30.0,-5.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:36:07Z,1,14:50,05:10,Giveaway,n/a,26.0,13.0,Zack Kassian,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:36:28Z,1,15:12,04:48,Missed Shot,n/a,-78.0,-22.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:36:54Z,1,15:26,04:34,Penalty,Hooking,-81.0,-19.0,Connor McDavid,PenaltyOn,Edmonton Oilers,Jeff Skinner,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:39:12Z,1,15:26,04:34,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:39:21Z,1,15:41,04:19,Shot,Backhand,83.0,-4.0,Riley Sheahan,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:39:59Z,1,16:18,03:42,Missed Shot,n/a,-63.0,21.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:40:20Z,1,16:40,03:20,Takeaway,n/a,-35.0,1.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:40:37Z,1,16:56,03:04,Blocked Shot,n/a,-70.0,-2.0,Kris Russell,Blocker,Edmonton Oilers,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:41:00Z,1,17:19,02:41,Missed Shot,n/a,-31.0,0.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:41:47Z,1,18:06,01:54,Blocked Shot,n/a,78.0,0.0,Colin Miller,Blocker,Buffalo Sabres,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:41:57Z,1,18:16,01:44,Missed Shot,n/a,-62.0,7.0,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:42:04Z,1,18:23,01:37,Shot,Wrist Shot,-40.0,-21.0,Marco Scandella,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:42:11Z,1,18:30,01:30,Shot,Backhand,-84.0,3.0,Jimmy Vesey,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:42:23Z,1,18:42,01:18,Shot,Backhand,73.0,-6.0,Leon Draisaitl,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:42:52Z,1,19:10,00:50,Missed Shot,n/a,-63.0,-16.0,Zemgus Girgensons,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:43:21Z,1,19:35,00:25,Takeaway,n/a,-48.0,-39.0,Kyle Okposo,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:43:56Z,1,19:40,00:20,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:44:03Z,1,19:44,00:16,Missed Shot,n/a,-46.0,-20.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T01:44:11Z,1,19:52,00:08,Blocked Shot,n/a,-77.0,0.0,Josh Archibald,Blocker,Edmonton Oilers,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:03:27Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:03:27Z,2,00:06,19:54,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:04:26Z,2,00:53,19:07,Missed Shot,n/a,79.0,-8.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:04:35Z,2,01:01,18:59,Blocked Shot,n/a,65.0,0.0,Leon Draisaitl,Blocker,Edmonton Oilers,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:05:11Z,2,01:37,18:23,Shot,Wrist Shot,-60.0,-30.0,Oscar Klefbom,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:05:15Z,2,01:42,18:18,Hit,n/a,-80.0,39.0,Johan Larsson,Hitter,Buffalo Sabres,Ryan Nugent-Hopkins,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:06:05Z,2,02:02,17:58,Faceoff,n/a,-69.0,22.0,Rasmus Asplund,Winner,Buffalo Sabres,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:07:04Z,2,02:44,17:16,Blocked Shot,n/a,60.0,-29.0,Kris Russell,Blocker,Edmonton Oilers,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:07:30Z,2,02:44,17:16,Faceoff,n/a,69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:07:37Z,2,02:48,17:12,Faceoff,n/a,69.0,-22.0,Evan Rodrigues,Winner,Buffalo Sabres,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:08:02Z,2,03:00,17:00,Shot,Slap Shot,35.0,-19.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:08:15Z,2,03:00,17:00,Faceoff,n/a,69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:08:35Z,2,03:09,16:51,Missed Shot,n/a,75.0,-8.0,Jimmy Vesey,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:10:02Z,2,03:20,16:40,Giveaway,n/a,-96.0,20.0,Evan Rodrigues,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:08:54Z,2,03:31,16:29,Shot,Slap Shot,-32.0,-24.0,Joel Persson,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:09:23Z,2,03:33,16:27,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:09:39Z,2,03:45,16:15,Giveaway,n/a,-96.0,-3.0,Zack Kassian,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:10:02Z,2,03:49,16:11,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:10:24Z,2,04:01,15:59,Giveaway,n/a,77.0,39.0,Darnell Nurse,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:10:53Z,2,04:34,15:26,Missed Shot,n/a,58.0,-25.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:11:19Z,2,05:00,15:00,Hit,n/a,-46.0,36.0,James Neal,Hitter,Edmonton Oilers,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:11:38Z,2,05:19,14:41,Giveaway,n/a,4.0,10.0,Johan Larsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:11:57Z,2,05:38,14:22,Shot,Wrist Shot,-33.0,1.0,Adam Larsson,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:12:12Z,2,05:40,14:20,Penalty,Holding the stick,-82.0,5.0,Zach Bogosian,PenaltyOn,Buffalo Sabres,Ryan Nugent-Hopkins,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:13:04Z,2,05:40,14:20,Faceoff,n/a,-69.0,-22.0,Rasmus Asplund,Winner,Buffalo Sabres,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:13:10Z,2,06:02,13:58,Giveaway,n/a,-51.0,38.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:13:20Z,2,06:12,13:48,Shot,Backhand,73.0,2.0,Jimmy Vesey,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:13:49Z,2,06:43,13:17,Giveaway,n/a,-60.0,34.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:14:21Z,2,07:16,12:44,Takeaway,n/a,-33.0,36.0,Jimmy Vesey,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:15:08Z,2,07:26,12:34,Faceoff,n/a,69.0,-22.0,Gaetan Haas,Winner,Edmonton Oilers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:15:48Z,2,08:02,11:58,Giveaway,n/a,43.0,-27.0,Brandon Montour,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:16:06Z,2,08:25,11:35,Goal,Backhand,-82.0,1.0,Riley Sheahan,Scorer,Edmonton Oilers,Joakim Nygard,Assist,Edmonton Oilers,Darnell Nurse,Assist,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres
+2019-12-09T02:16:55Z,2,08:25,11:35,Faceoff,n/a,0.0,0.0,Marcus Johansson,Winner,Buffalo Sabres,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:17:39Z,2,09:13,10:47,Takeaway,n/a,61.0,5.0,Jujhar Khaira,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:17:45Z,2,09:19,10:41,Shot,Snap Shot,-69.0,-9.0,Jujhar Khaira,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:18:12Z,2,09:47,10:13,Shot,Snap Shot,-74.0,-29.0,James Neal,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:18:31Z,2,10:05,09:55,Shot,Wrist Shot,-71.0,18.0,Connor McDavid,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:18:43Z,2,10:11,09:49,Missed Shot,n/a,-78.0,7.0,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:18:51Z,2,10:26,09:34,Giveaway,n/a,-94.0,-1.0,Zach Bogosian,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:18:57Z,2,10:32,09:28,Shot,Wrist Shot,-37.0,-24.0,Darnell Nurse,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:19:05Z,2,10:37,09:23,Missed Shot,n/a,-34.0,28.0,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:19:11Z,2,10:45,09:15,Missed Shot,n/a,-44.0,-10.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:19:27Z,2,11:01,08:59,Giveaway,n/a,-83.0,23.0,Zack Kassian,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:19:57Z,2,11:31,08:29,Takeaway,n/a,52.0,16.0,Adam Larsson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:20:23Z,2,11:56,08:04,Blocked Shot,n/a,60.0,16.0,Adam Larsson,Blocker,Edmonton Oilers,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:22:36Z,2,11:56,08:04,Faceoff,n/a,69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Sam Reinhart,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:23:38Z,2,12:41,07:19,Blocked Shot,n/a,-37.0,14.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,Joel Persson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:23:51Z,2,12:59,07:01,Hit,n/a,-51.0,38.0,Josh Archibald,Hitter,Edmonton Oilers,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:24:34Z,2,13:42,06:18,Hit,n/a,92.0,28.0,Marcus Johansson,Hitter,Buffalo Sabres,Kris Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:24:40Z,2,13:48,06:12,Takeaway,n/a,80.0,39.0,Kris Russell,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:25:45Z,2,13:57,06:03,Penalty,Hooking,-84.0,7.0,Zach Bogosian,PenaltyOn,Buffalo Sabres,Jujhar Khaira,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:27:00Z,2,13:57,06:03,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:27:33Z,2,14:24,05:36,Shot,Snap Shot,-63.0,25.0,Connor McDavid,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:27:57Z,2,14:48,05:12,Shot,Slap Shot,-95.0,-7.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:28:51Z,2,15:11,04:49,Faceoff,n/a,-69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:29:05Z,2,15:19,04:41,Blocked Shot,n/a,-65.0,-3.0,Henri Jokiharju,Blocker,Buffalo Sabres,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:29:31Z,2,15:41,04:19,Giveaway,n/a,-81.0,-36.0,Brandon Montour,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:30:06Z,2,15:44,04:16,Faceoff,n/a,-69.0,-22.0,Gaetan Haas,Winner,Edmonton Oilers,Rasmus Asplund,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:30:05Z,2,15:48,04:12,Shot,Slap Shot,-34.0,6.0,Darnell Nurse,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:30:12Z,2,15:49,04:11,Faceoff,n/a,-69.0,22.0,Gaetan Haas,Winner,Edmonton Oilers,Rasmus Asplund,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:30:35Z,2,15:56,04:04,Goal,Tip-In,-73.0,2.0,Joakim Nygard,Scorer,Edmonton Oilers,Darnell Nurse,Assist,Edmonton Oilers,Gaetan Haas,Assist,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres
+2019-12-09T02:31:36Z,2,15:56,04:04,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:32:46Z,2,17:04,02:56,Takeaway,n/a,93.0,27.0,Conor Sheary,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:33:36Z,2,17:31,02:29,Penalty,Hooking,55.0,6.0,Joel Persson,PenaltyOn,Edmonton Oilers,Kyle Okposo,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:35:33Z,2,17:31,02:29,Faceoff,n/a,69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:35:50Z,2,17:52,02:08,Hit,n/a,46.0,-39.0,Josh Archibald,Hitter,Edmonton Oilers,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:36:13Z,2,18:15,01:45,Missed Shot,n/a,52.0,38.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:36:38Z,2,18:29,01:31,Giveaway,n/a,84.0,25.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:36:38Z,2,18:29,01:31,Giveaway,n/a,94.0,17.0,Kris Russell,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:36:30Z,2,18:32,01:28,Hit,n/a,95.0,27.0,Adam Larsson,Hitter,Edmonton Oilers,Jeff Skinner,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:36:38Z,2,18:33,01:27,Shot,Wrist Shot,68.0,9.0,Riley Sheahan,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:36:55Z,2,18:57,01:03,Giveaway,n/a,90.0,-25.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:37:15Z,2,19:14,00:46,Blocked Shot,n/a,83.0,-2.0,Ethan Bear,Blocker,Edmonton Oilers,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:37:16Z,2,19:17,00:43,Giveaway,n/a,96.0,2.0,Jujhar Khaira,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:37:28Z,2,19:29,00:31,Hit,n/a,53.0,37.0,Ethan Bear,Hitter,Edmonton Oilers,Colin Miller,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:37:41Z,2,19:38,00:22,Hit,n/a,73.0,3.0,Jujhar Khaira,Hitter,Edmonton Oilers,Conor Sheary,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:37:46Z,2,19:42,00:18,Hit,n/a,78.0,39.0,Kyle Okposo,Hitter,Buffalo Sabres,Ethan Bear,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:38:01Z,2,19:59,00:01,Shot,Backhand,-33.0,33.0,Brandon Montour,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:56:53Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:57:04Z,3,00:06,19:54,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:57:23Z,3,00:14,19:46,Shot,Wrist Shot,-80.0,16.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:57:26Z,3,00:16,19:44,Giveaway,n/a,-90.0,10.0,Darnell Nurse,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:57:40Z,3,00:31,19:29,Giveaway,n/a,14.0,37.0,Marco Scandella,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:57:44Z,3,00:35,19:25,Missed Shot,n/a,79.0,-6.0,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:57:50Z,3,00:40,19:20,Shot,Snap Shot,65.0,4.0,Connor McDavid,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:58:13Z,3,00:40,19:20,Faceoff,n/a,69.0,22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:58:21Z,3,00:47,19:13,Blocked Shot,n/a,58.0,7.0,Marco Scandella,Blocker,Buffalo Sabres,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:58:39Z,3,01:05,18:55,Hit,n/a,-94.0,-19.0,Johan Larsson,Hitter,Buffalo Sabres,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:58:47Z,3,01:11,18:49,Takeaway,n/a,12.0,38.0,Jujhar Khaira,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:58:56Z,3,01:12,18:48,Hit,n/a,11.0,37.0,Kyle Okposo,Hitter,Buffalo Sabres,Jujhar Khaira,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:59:17Z,3,01:43,18:17,Giveaway,n/a,60.0,38.0,Kris Russell,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T02:59:54Z,3,01:47,18:13,Faceoff,n/a,-20.0,-22.0,Evan Rodrigues,Winner,Buffalo Sabres,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:00:12Z,3,02:00,18:00,Giveaway,n/a,95.0,5.0,Colin Miller,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:00:09Z,3,02:04,17:56,Shot,Wrist Shot,83.0,5.0,Josh Archibald,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:00:30Z,3,02:21,17:39,Blocked Shot,n/a,42.0,-19.0,Jimmy Vesey,Blocker,Buffalo Sabres,Joel Persson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:01:19Z,3,03:13,16:47,Giveaway,n/a,5.0,-38.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:01:21Z,3,03:15,16:45,Missed Shot,n/a,-52.0,-6.0,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:02:01Z,3,03:19,16:41,Giveaway,n/a,-86.0,-36.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:02:05Z,3,04:00,16:00,Missed Shot,n/a,-80.0,8.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:02:40Z,3,04:10,15:50,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:03:50Z,3,05:16,14:44,Hit,n/a,-12.0,38.0,Gaetan Haas,Hitter,Edmonton Oilers,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:04:06Z,3,05:32,14:28,Takeaway,n/a,-39.0,-2.0,Adam Larsson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:04:25Z,3,05:51,14:09,Hit,n/a,87.0,-30.0,Colin Miller,Hitter,Buffalo Sabres,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:04:34Z,3,05:57,14:03,Hit,n/a,51.0,-31.0,Josh Archibald,Hitter,Edmonton Oilers,Zach Bogosian,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:04:33Z,3,05:59,14:01,Blocked Shot,n/a,-78.0,-17.0,Adam Larsson,Blocker,Edmonton Oilers,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:04:54Z,3,06:18,13:42,Shot,Wrist Shot,-78.0,27.0,Evan Rodrigues,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:07:13Z,3,06:20,13:40,Faceoff,n/a,-69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:07:47Z,3,06:47,13:13,Shot,Slap Shot,32.0,6.0,Darnell Nurse,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:08:15Z,3,07:15,12:45,Giveaway,n/a,-94.0,16.0,Ethan Bear,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:08:51Z,3,07:40,12:20,Giveaway,n/a,-97.0,1.0,Adam Larsson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:08:50Z,3,07:48,12:12,Shot,Backhand,-82.0,0.0,Conor Sheary,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:09:46Z,3,07:48,12:12,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:10:03Z,3,08:12,11:48,Blocked Shot,n/a,-36.0,7.0,Josh Archibald,Blocker,Edmonton Oilers,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:10:40Z,3,08:23,11:37,Faceoff,n/a,20.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:11:18Z,3,09:01,10:59,Giveaway,n/a,-71.0,36.0,Rasmus Asplund,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:11:33Z,3,09:16,10:44,Shot,Slap Shot,-44.0,-27.0,Jeff Skinner,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:11:50Z,3,09:33,10:27,Giveaway,n/a,33.0,39.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:12:07Z,3,09:47,10:13,Missed Shot,n/a,-61.0,0.0,Zemgus Girgensons,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:12:39Z,3,09:47,10:13,Faceoff,n/a,-69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Kyle Okposo,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:13:13Z,3,09:55,10:05,Faceoff,n/a,69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:14:13Z,3,10:59,09:01,Missed Shot,n/a,48.0,28.0,Alex Chiasson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:14:23Z,3,11:09,08:51,Giveaway,n/a,79.0,-18.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:14:47Z,3,11:33,08:27,Hit,n/a,95.0,-23.0,Marco Scandella,Hitter,Buffalo Sabres,Gaetan Haas,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:14:58Z,3,11:40,08:20,Takeaway,n/a,33.0,-19.0,Joel Persson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:15:12Z,3,11:58,08:02,Takeaway,n/a,-48.0,6.0,Joakim Nygard,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:15:19Z,3,12:05,07:55,Hit,n/a,49.0,-39.0,Zach Bogosian,Hitter,Buffalo Sabres,James Neal,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:15:45Z,3,12:10,07:50,Faceoff,n/a,69.0,22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:16:25Z,3,12:42,07:18,Faceoff,n/a,-69.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Rasmus Asplund,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:17:13Z,3,13:06,06:54,Missed Shot,n/a,74.0,-1.0,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:17:25Z,3,13:18,06:42,Takeaway,n/a,97.0,2.0,Zack Kassian,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:19:22Z,3,13:24,06:36,Faceoff,n/a,-20.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:20:21Z,3,13:57,06:03,Shot,Wrist Shot,-43.0,-26.0,Darnell Nurse,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:20:58Z,3,13:57,06:03,Faceoff,n/a,69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:21:30Z,3,14:29,05:31,Giveaway,n/a,-78.0,10.0,Mike Smith,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:21:38Z,3,14:37,05:23,Shot,Wrist Shot,5.0,-27.0,Joel Persson,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:22:06Z,3,15:05,04:55,Hit,n/a,68.0,-36.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Markus Granlund,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:22:28Z,3,15:27,04:33,Shot,Snap Shot,72.0,35.0,Kris Russell,Shooter,Edmonton Oilers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:22:53Z,3,15:52,04:08,Blocked Shot,n/a,-56.0,16.0,Adam Larsson,Blocker,Edmonton Oilers,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:23:02Z,3,16:01,03:59,Missed Shot,n/a,-42.0,-15.0,Marco Scandella,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:23:09Z,3,16:08,03:52,Giveaway,n/a,-35.0,-27.0,Marco Scandella,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:24:32Z,3,17:31,02:29,Blocked Shot,n/a,-71.0,9.0,Oscar Klefbom,Blocker,Edmonton Oilers,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:24:47Z,3,17:46,02:14,Hit,n/a,-34.0,37.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Alex Chiasson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:25:00Z,3,17:59,02:01,Missed Shot,n/a,86.0,-32.0,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:25:02Z,3,18:01,01:59,Hit,n/a,70.0,-37.0,Kyle Okposo,Hitter,Buffalo Sabres,Ryan Nugent-Hopkins,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:26:12Z,3,18:20,01:40,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:25:55Z,3,18:24,01:36,Shot,Wrist Shot,-76.0,31.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:26:12Z,3,18:24,01:36,Shot,Backhand,-85.0,4.0,Jack Eichel,Shooter,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:26:41Z,3,18:25,01:35,Faceoff,n/a,-69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:26:57Z,3,18:30,01:30,Faceoff,n/a,0.0,0.0,Riley Sheahan,Winner,Edmonton Oilers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:27:27Z,3,19:00,01:00,Hit,n/a,97.0,-10.0,Zach Bogosian,Hitter,Buffalo Sabres,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:27:53Z,3,19:25,00:35,Giveaway,n/a,-69.0,35.0,Kyle Okposo,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:30:53Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:31:19Z,4,00:28,04:32,Giveaway,n/a,32.0,1.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-09T03:32:02Z,4,01:13,03:47,Goal,Slap Shot,84.0,6.0,Colin Miller,Scorer,Buffalo Sabres,Marcus Johansson,Assist,Buffalo Sabres,Jack Eichel,Assist,Buffalo Sabres,Mike Smith,Goalie,Edmonton Oilers

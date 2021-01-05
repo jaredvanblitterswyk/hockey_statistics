@@ -1,0 +1,222 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-30T23:43:58Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:44:55Z,1,00:38,19:22,Missed Shot,n/a,45.0,-18.0,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:45:10Z,1,00:53,19:07,Blocked Shot,n/a,-38.0,-2.0,Seth Jones,Blocker,Columbus Blue Jackets,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:45:20Z,1,01:03,18:57,Hit,n/a,-96.0,-14.0,Ryan Nugent-Hopkins,Hitter,Edmonton Oilers,Seth Jones,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:45:29Z,1,01:12,18:48,Blocked Shot,n/a,-73.0,-18.0,Oliver Bjorkstrand,Blocker,Columbus Blue Jackets,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:45:34Z,1,01:15,18:45,Blocked Shot,n/a,-86.0,-15.0,Seth Jones,Blocker,Columbus Blue Jackets,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:45:51Z,1,01:15,18:45,Faceoff,n/a,-69.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:46:24Z,1,01:43,18:17,Missed Shot,n/a,-37.0,31.0,Joel Persson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:46:28Z,1,01:46,18:14,Blocked Shot,n/a,-55.0,-34.0,Josh Anderson,Blocker,Columbus Blue Jackets,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:46:30Z,1,01:48,18:12,Missed Shot,n/a,-81.0,-12.0,Jujhar Khaira,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:46:32Z,1,01:52,18:08,Shot,Wrist Shot,-36.0,34.0,Joel Persson,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:46:37Z,1,01:56,18:04,Missed Shot,n/a,-85.0,8.0,Jujhar Khaira,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:46:48Z,1,02:06,17:54,Hit,n/a,-67.0,39.0,Markus Nutivaara,Hitter,Columbus Blue Jackets,Ryan Nugent-Hopkins,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:47:16Z,1,02:26,17:34,Faceoff,n/a,-69.0,22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:48:52Z,1,03:12,16:48,Penalty,Holding,-69.0,40.0,Oliver Bjorkstrand,PenaltyOn,Columbus Blue Jackets,Riley Sheahan,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:49:31Z,1,03:12,16:48,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:49:14Z,1,03:30,16:30,Shot,Wrist Shot,-72.0,-15.0,Connor McDavid,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:50:53Z,1,04:35,15:25,Faceoff,n/a,20.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Sam Gagner,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:51:43Z,1,05:11,14:49,Faceoff,n/a,-20.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:52:50Z,1,06:17,13:43,Hit,n/a,56.0,39.0,Vladislav Gavrikov,Hitter,Columbus Blue Jackets,Jujhar Khaira,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:52:58Z,1,06:25,13:35,Shot,Wrist Shot,-55.0,12.0,Jujhar Khaira,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:55:12Z,1,06:27,13:33,Faceoff,n/a,-69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:55:13Z,1,06:33,13:27,Shot,Wrist Shot,9.0,5.0,Cam Atkinson,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:55:33Z,1,06:38,13:22,Faceoff,n/a,69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:56:34Z,1,07:24,12:36,Blocked Shot,n/a,-47.0,17.0,Pierre-Luc Dubois,Blocker,Columbus Blue Jackets,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:56:43Z,1,07:28,12:32,Penalty,Tripping,-19.0,3.0,Pierre-Luc Dubois,PenaltyOn,Columbus Blue Jackets,Ethan Bear,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:57:21Z,1,07:28,12:32,Faceoff,n/a,-69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Sam Gagner,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:57:21Z,1,07:34,12:26,Missed Shot,n/a,-36.0,-6.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:57:43Z,1,07:57,12:03,Giveaway,n/a,-36.0,4.0,Sam Gagner,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:57:55Z,1,08:09,11:51,Missed Shot,n/a,-61.0,-7.0,Alex Chiasson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:58:12Z,1,08:26,11:34,Blocked Shot,n/a,61.0,-6.0,Oscar Klefbom,Blocker,Edmonton Oilers,Cam Atkinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:58:42Z,1,08:56,11:04,Missed Shot,n/a,-68.0,0.0,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:59:04Z,1,09:04,10:56,Hit,n/a,-76.0,39.0,James Neal,Hitter,Edmonton Oilers,Vladislav Gavrikov,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:58:59Z,1,09:11,10:49,Goal,Snap Shot,-68.0,7.0,James Neal,Scorer,Edmonton Oilers,Leon Draisaitl,Assist,Edmonton Oilers,Connor McDavid,Assist,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets
+2019-10-30T23:59:45Z,1,09:11,10:49,Faceoff,n/a,0.0,0.0,Riley Sheahan,Winner,Edmonton Oilers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-30T23:59:59Z,1,09:17,10:43,Faceoff,n/a,69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:00:49Z,1,09:54,10:06,Hit,n/a,-40.0,-36.0,Riley Nash,Hitter,Columbus Blue Jackets,Patrick Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:01:51Z,1,10:54,09:06,Takeaway,n/a,48.0,36.0,Sonny Milano,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:01:52Z,1,10:57,09:03,Shot,Wrist Shot,85.0,16.0,Sonny Milano,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:02:07Z,1,11:08,08:52,Shot,Tip-In,80.0,5.0,Boone Jenner,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:04:26Z,1,11:09,08:51,Faceoff,n/a,69.0,22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Josh Anderson,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:04:53Z,1,11:31,08:29,Hit,n/a,-98.0,-5.0,Jujhar Khaira,Hitter,Edmonton Oilers,Sonny Milano,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:04:58Z,1,11:40,08:20,Shot,Wrist Shot,-81.0,-3.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:05:05Z,1,11:47,08:13,Hit,n/a,-34.0,-33.0,Oscar Klefbom,Hitter,Edmonton Oilers,Sonny Milano,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:06:41Z,1,13:23,06:37,Shot,Snap Shot,30.0,22.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:06:53Z,1,13:35,06:25,Giveaway,n/a,-11.0,31.0,Gustav Nyquist,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:07:43Z,1,14:24,05:36,Hit,n/a,97.0,21.0,Jakob Lilja,Hitter,Columbus Blue Jackets,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:07:56Z,1,14:38,05:22,Hit,n/a,22.0,-38.0,Josh Anderson,Hitter,Columbus Blue Jackets,Gaetan Haas,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:08:06Z,1,14:48,05:12,Shot,Wrist Shot,74.0,8.0,Boone Jenner,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:08:26Z,1,14:59,05:01,Penalty,Interference,24.0,-29.0,Sonny Milano,PenaltyOn,Columbus Blue Jackets,Matt Benning,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:10:43Z,1,14:59,05:01,Faceoff,n/a,-69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:10:35Z,1,15:10,04:50,Blocked Shot,n/a,-67.0,2.0,Nick Foligno,Blocker,Columbus Blue Jackets,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:10:42Z,1,15:17,04:43,Blocked Shot,n/a,-81.0,10.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:11:20Z,1,15:54,04:06,Shot,Snap Shot,-45.0,-8.0,Oscar Klefbom,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:11:38Z,1,15:55,04:05,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:11:55Z,1,15:59,04:01,Faceoff,n/a,-69.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:12:20Z,1,16:04,03:56,Shot,Slap Shot,-46.0,18.0,Leon Draisaitl,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:12:33Z,1,16:18,03:42,Blocked Shot,n/a,61.0,-1.0,Oscar Klefbom,Blocker,Edmonton Oilers,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:12:47Z,1,16:32,03:28,Missed Shot,n/a,-80.0,1.0,Alex Chiasson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:13:13Z,1,16:57,03:03,Missed Shot,n/a,-75.0,1.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:13:21Z,1,17:02,02:58,Shot,Wrist Shot,-90.0,-19.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:13:33Z,1,17:02,02:58,Goal,Wrist Shot,-76.0,10.0,Leon Draisaitl,Scorer,Edmonton Oilers,Ryan Nugent-Hopkins,Assist,Edmonton Oilers,Alex Chiasson,Assist,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets
+2019-10-31T00:14:04Z,1,17:02,02:58,Faceoff,n/a,0.0,0.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:14:15Z,1,17:12,02:48,Hit,n/a,98.0,7.0,Pierre-Luc Dubois,Hitter,Columbus Blue Jackets,Riley Sheahan,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:14:47Z,1,17:44,02:16,Hit,n/a,77.0,38.0,Pierre-Luc Dubois,Hitter,Columbus Blue Jackets,Riley Sheahan,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:14:49Z,1,17:46,02:14,Missed Shot,n/a,41.0,36.0,Markus Nutivaara,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:15:39Z,1,18:36,01:24,Blocked Shot,n/a,-54.0,20.0,Jakob Lilja,Blocker,Columbus Blue Jackets,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:16:22Z,1,19:18,00:42,Blocked Shot,n/a,35.0,-13.0,Leon Draisaitl,Blocker,Edmonton Oilers,Dean Kukan,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:16:32Z,1,19:28,00:32,Missed Shot,n/a,85.0,-7.0,Cam Atkinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:16:36Z,1,19:32,00:28,Hit,n/a,49.0,39.0,Zack Kassian,Hitter,Edmonton Oilers,Dean Kukan,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:16:46Z,1,19:42,00:18,Blocked Shot,n/a,59.0,9.0,Oscar Klefbom,Blocker,Edmonton Oilers,Dean Kukan,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:17:01Z,1,19:56,00:04,Missed Shot,n/a,-77.0,-17.0,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:17:39Z,1,19:56,00:04,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:36:03Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:36:16Z,2,00:11,19:49,Missed Shot,n/a,33.0,16.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:36:26Z,2,00:21,19:39,Missed Shot,n/a,86.0,10.0,Zack Kassian,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:37:14Z,2,00:29,19:31,Faceoff,n/a,-69.0,-22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:37:31Z,2,00:36,19:24,Missed Shot,n/a,-68.0,7.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:37:42Z,2,00:46,19:14,Shot,Tip-In,-78.0,4.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:37:53Z,2,00:47,19:13,Faceoff,n/a,-69.0,22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:38:11Z,2,00:53,19:07,Shot,Wrist Shot,-81.0,-14.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:38:25Z,2,01:07,18:53,Blocked Shot,n/a,-37.0,-28.0,Oscar Klefbom,Blocker,Edmonton Oilers,Markus Nutivaara,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:38:38Z,2,01:20,18:40,Shot,Wrist Shot,65.0,-20.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:39:04Z,2,01:20,18:40,Goal,Deflected,84.0,-4.0,Jujhar Khaira,Scorer,Edmonton Oilers,Ryan Nugent-Hopkins,Assist,Edmonton Oilers,Sam Gagner,Assist,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets
+2019-10-31T00:39:41Z,2,01:20,18:40,Faceoff,n/a,0.0,0.0,Gaetan Haas,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:39:56Z,2,01:26,18:34,Faceoff,n/a,20.0,-22.0,Gaetan Haas,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:40:45Z,2,01:47,18:13,Takeaway,n/a,-8.0,39.0,Boone Jenner,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:41:48Z,2,02:50,17:10,Giveaway,n/a,64.0,38.0,Seth Jones,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:41:52Z,2,02:52,17:08,Hit,n/a,54.0,40.0,Seth Jones,Hitter,Columbus Blue Jackets,Patrick Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:42:14Z,2,02:54,17:06,Hit,n/a,95.0,-27.0,Jujhar Khaira,Hitter,Edmonton Oilers,Zach Werenski,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:43:05Z,2,04:07,15:53,Shot,Wrist Shot,-61.0,-31.0,Cam Atkinson,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:43:36Z,2,04:08,15:52,Faceoff,n/a,-69.0,-22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:44:06Z,2,04:30,15:30,Giveaway,n/a,-94.0,1.0,Gustav Nyquist,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:44:27Z,2,04:51,15:09,Giveaway,n/a,-84.0,27.0,Oliver Bjorkstrand,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:44:38Z,2,04:56,15:04,Goal,Snap Shot,76.0,10.0,Leon Draisaitl,Scorer,Edmonton Oilers,Zack Kassian,Assist,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a
+2019-10-31T00:45:36Z,2,04:56,15:04,Faceoff,n/a,0.0,0.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:45:48Z,2,05:06,14:54,Penalty,Holding,87.0,27.0,Ryan Nugent-Hopkins,PenaltyOn,Edmonton Oilers,Boone Jenner,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:46:20Z,2,05:06,14:54,Faceoff,n/a,-69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Markus Granlund,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:47:23Z,2,06:06,13:54,Blocked Shot,n/a,-59.0,-5.0,Markus Granlund,Blocker,Edmonton Oilers,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:47:40Z,2,06:23,13:37,Missed Shot,n/a,-63.0,33.0,Alexander Wennberg,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:48:07Z,2,06:50,13:10,Shot,Wrist Shot,-90.0,14.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:48:13Z,2,06:55,13:05,Goal,Slap Shot,-52.0,-3.0,Zach Werenski,Scorer,Columbus Blue Jackets,Cam Atkinson,Assist,Columbus Blue Jackets,Pierre-Luc Dubois,Assist,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers
+2019-10-31T00:48:58Z,2,06:55,13:05,Faceoff,n/a,0.0,0.0,Boone Jenner,Winner,Columbus Blue Jackets,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:49:29Z,2,07:26,12:34,Hit,n/a,-98.0,0.0,Josh Anderson,Hitter,Columbus Blue Jackets,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:49:30Z,2,07:28,12:32,Shot,Wrist Shot,-70.0,-37.0,Sonny Milano,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:49:40Z,2,07:39,12:21,Shot,Wrist Shot,37.0,13.0,James Neal,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:52:00Z,2,07:39,12:21,Faceoff,n/a,69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Oliver Bjorkstrand,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:52:27Z,2,07:46,12:14,Blocked Shot,n/a,69.0,0.0,Oliver Bjorkstrand,Blocker,Columbus Blue Jackets,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:52:39Z,2,07:58,12:02,Missed Shot,n/a,72.0,3.0,Zack Kassian,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:53:18Z,2,08:12,11:48,Faceoff,n/a,0.0,0.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:54:14Z,2,09:05,10:55,Shot,Tip-In,-72.0,1.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:54:21Z,2,09:11,10:49,Shot,Wrist Shot,-84.0,3.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:54:59Z,2,09:27,10:33,Faceoff,n/a,-69.0,-22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:55:25Z,2,09:44,10:16,Giveaway,n/a,-97.0,-6.0,Jakob Lilja,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:55:39Z,2,09:57,10:03,Shot,Wrist Shot,3.0,-29.0,Sam Gagner,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:55:46Z,2,10:05,09:55,Takeaway,n/a,-5.0,-1.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:56:07Z,2,10:26,09:34,Shot,Snap Shot,51.0,31.0,Kris Russell,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:56:18Z,2,10:36,09:24,Blocked Shot,n/a,52.0,-6.0,Zach Werenski,Blocker,Columbus Blue Jackets,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:58:22Z,2,10:36,09:24,Faceoff,n/a,69.0,-22.0,James Neal,Winner,Edmonton Oilers,Josh Anderson,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:58:44Z,2,10:43,09:17,Blocked Shot,n/a,51.0,-6.0,Dean Kukan,Blocker,Columbus Blue Jackets,Alex Chiasson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:58:51Z,2,10:50,09:10,Shot,Wrist Shot,68.0,-25.0,Ethan Bear,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T00:59:53Z,2,11:27,08:33,Faceoff,n/a,69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:00:23Z,2,11:54,08:06,Hit,n/a,36.0,-39.0,Nick Foligno,Hitter,Columbus Blue Jackets,Zack Kassian,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:00:55Z,2,12:26,07:34,Hit,n/a,-62.0,-40.0,Matt Benning,Hitter,Edmonton Oilers,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:01:16Z,2,12:47,07:13,Shot,Snap Shot,-70.0,-1.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:01:33Z,2,13:04,06:56,Blocked Shot,n/a,-69.0,-10.0,Markus Granlund,Blocker,Edmonton Oilers,Gustav Nyquist,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:02:16Z,2,13:47,06:13,Shot,Wrist Shot,82.0,-9.0,Patrick Russell,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:03:12Z,2,13:49,06:11,Faceoff,n/a,69.0,-22.0,Gaetan Haas,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:03:21Z,2,13:58,06:02,Blocked Shot,n/a,48.0,-19.0,Markus Nutivaara,Blocker,Columbus Blue Jackets,Alex Chiasson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:03:34Z,2,13:59,06:01,Faceoff,n/a,69.0,-22.0,Josh Anderson,Winner,Columbus Blue Jackets,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:04:47Z,2,14:52,05:08,Blocked Shot,n/a,42.0,-13.0,Josh Anderson,Blocker,Columbus Blue Jackets,Joel Persson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:06:37Z,2,14:52,05:08,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:07:20Z,2,15:12,04:48,Missed Shot,n/a,-59.0,14.0,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:07:44Z,2,15:19,04:41,Faceoff,n/a,-69.0,-22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:08:38Z,2,15:52,04:08,Penalty,Holding the stick,61.0,40.0,Zack Kassian,PenaltyOn,Edmonton Oilers,Gustav Nyquist,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:09:07Z,2,15:52,04:08,Faceoff,n/a,-69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:09:38Z,2,16:05,03:55,Penalty,Hi-sticking,-69.0,-25.0,Ethan Bear,PenaltyOn,Edmonton Oilers,Cam Atkinson,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:10:03Z,2,16:05,03:55,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:10:44Z,2,16:43,03:17,Blocked Shot,n/a,-74.0,3.0,Darnell Nurse,Blocker,Edmonton Oilers,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:11:12Z,2,17:11,02:49,Shot,Snap Shot,-81.0,-18.0,Cam Atkinson,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:15:41Z,2,17:20,02:40,Blocked Shot,n/a,-74.0,-4.0,Darnell Nurse,Blocker,Edmonton Oilers,Seth Jones,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:11:31Z,2,17:30,02:30,Shot,Wrist Shot,-55.0,-16.0,Seth Jones,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:11:59Z,2,17:31,02:29,Faceoff,n/a,-69.0,-22.0,Gustav Nyquist,Winner,Columbus Blue Jackets,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:12:27Z,2,18:00,02:00,Shot,Backhand,77.0,8.0,Zack Kassian,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:12:48Z,2,18:22,01:38,Blocked Shot,n/a,-81.0,5.0,Kris Russell,Blocker,Edmonton Oilers,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:13:07Z,2,18:41,01:19,Shot,Wrist Shot,54.0,11.0,Connor McDavid,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:13:14Z,2,18:48,01:12,Blocked Shot,n/a,56.0,-14.0,Riley Nash,Blocker,Columbus Blue Jackets,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:13:39Z,2,19:12,00:48,Hit,n/a,84.0,30.0,David Savard,Hitter,Columbus Blue Jackets,Jujhar Khaira,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:14:00Z,2,19:33,00:27,Hit,n/a,-83.0,-34.0,Boone Jenner,Hitter,Columbus Blue Jackets,Ethan Bear,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:14:19Z,2,19:39,00:21,Penalty,Too many men on the ice,-20.0,40.0,Sonny Milano,PenaltyOn,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:14:46Z,2,19:39,00:21,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:15:11Z,2,19:56,00:04,Blocked Shot,n/a,44.0,-20.0,Nick Foligno,Blocker,Columbus Blue Jackets,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:15:13Z,2,19:58,00:02,Shot,Wrist Shot,35.0,-28.0,Nick Foligno,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:33:33Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:34:40Z,3,01:01,18:59,Shot,Wrist Shot,-31.0,23.0,Oscar Klefbom,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:34:42Z,3,01:03,18:57,Shot,Wrist Shot,-81.0,2.0,Alex Chiasson,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:34:52Z,3,01:12,18:48,Shot,Wrist Shot,-73.0,20.0,Zach Werenski,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:35:30Z,3,01:51,18:09,Shot,Backhand,64.0,-36.0,Boone Jenner,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:35:49Z,3,02:10,17:50,Takeaway,n/a,76.0,-15.0,Darnell Nurse,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:35:57Z,3,02:18,17:42,Blocked Shot,n/a,31.0,-10.0,James Neal,Blocker,Edmonton Oilers,Dean Kukan,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:36:58Z,3,03:19,16:41,Hit,n/a,-97.0,10.0,Jujhar Khaira,Hitter,Edmonton Oilers,David Savard,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:37:06Z,3,03:27,16:33,Blocked Shot,n/a,-79.0,-2.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:37:15Z,3,03:36,16:24,Shot,Snap Shot,49.0,25.0,Jakob Lilja,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:37:28Z,3,03:49,16:11,Giveaway,n/a,36.0,40.0,Seth Jones,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:38:03Z,3,04:23,15:37,Blocked Shot,n/a,74.0,-3.0,Ethan Bear,Blocker,Edmonton Oilers,Riley Nash,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:38:35Z,3,04:56,15:04,Hit,n/a,-93.0,27.0,Ryan Nugent-Hopkins,Hitter,Edmonton Oilers,Markus Nutivaara,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:38:48Z,3,05:09,14:51,Hit,n/a,-97.0,12.0,Jujhar Khaira,Hitter,Edmonton Oilers,Sonny Milano,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:39:02Z,3,05:23,14:37,Shot,Snap Shot,33.0,10.0,Dean Kukan,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:39:43Z,3,05:23,14:37,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:39:50Z,3,05:31,14:29,Blocked Shot,n/a,60.0,6.0,Gaetan Haas,Blocker,Edmonton Oilers,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:39:56Z,3,05:37,14:23,Shot,Wrist Shot,-69.0,-13.0,Gaetan Haas,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:40:33Z,3,06:14,13:46,Takeaway,n/a,-45.0,-24.0,Cam Atkinson,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:40:44Z,3,06:24,13:36,Shot,Wrist Shot,-82.0,5.0,Patrick Russell,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:41:44Z,3,07:25,12:35,Missed Shot,n/a,35.0,34.0,Markus Nutivaara,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:42:20Z,3,07:58,12:02,Shot,Deflected,83.0,-4.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:44:26Z,3,07:59,12:01,Faceoff,n/a,69.0,-22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:44:52Z,3,08:13,11:47,Hit,n/a,98.0,4.0,Gustav Nyquist,Hitter,Columbus Blue Jackets,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:45:45Z,3,09:06,10:54,Blocked Shot,n/a,-51.0,-13.0,Zach Werenski,Blocker,Columbus Blue Jackets,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:45:52Z,3,09:13,10:47,Missed Shot,n/a,-50.0,14.0,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:45:53Z,3,09:14,10:46,Hit,n/a,-84.0,28.0,Alex Chiasson,Hitter,Edmonton Oilers,Dean Kukan,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:46:02Z,3,09:18,10:42,Shot,Wrist Shot,80.0,13.0,Sonny Milano,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:46:41Z,3,09:22,10:38,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:46:53Z,3,09:28,10:32,Missed Shot,n/a,32.0,-18.0,Dean Kukan,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:47:05Z,3,09:40,10:20,Shot,Wrist Shot,-80.0,6.0,Alex Chiasson,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:47:13Z,3,09:47,10:13,Shot,Wrist Shot,-93.0,18.0,James Neal,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:47:40Z,3,09:47,10:13,Faceoff,n/a,-69.0,22.0,Markus Granlund,Winner,Edmonton Oilers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:48:01Z,3,09:54,10:06,Shot,Snap Shot,-65.0,-29.0,Kris Russell,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:48:29Z,3,10:02,09:58,Faceoff,n/a,-69.0,22.0,Markus Granlund,Winner,Edmonton Oilers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:48:43Z,3,10:12,09:48,Shot,Slap Shot,-36.0,-25.0,Oscar Klefbom,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:48:48Z,3,10:17,09:43,Hit,n/a,-85.0,-34.0,David Savard,Hitter,Columbus Blue Jackets,Markus Granlund,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:48:56Z,3,10:25,09:35,Missed Shot,n/a,-64.0,13.0,Markus Granlund,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:49:04Z,3,10:33,09:27,Blocked Shot,n/a,-77.0,8.0,David Savard,Blocker,Columbus Blue Jackets,Joel Persson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:49:22Z,3,10:51,09:09,Takeaway,n/a,-31.0,36.0,Jakob Lilja,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:49:40Z,3,11:09,08:51,Hit,n/a,-23.0,-40.0,Ryan Nugent-Hopkins,Hitter,Edmonton Oilers,Seth Jones,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:50:06Z,3,11:35,08:25,Giveaway,n/a,-9.0,35.0,Zach Werenski,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:50:42Z,3,12:11,07:49,Shot,Wrist Shot,13.0,26.0,Matt Benning,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:50:47Z,3,12:16,07:44,Giveaway,n/a,-90.0,9.0,Elvis Merzlikins,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:51:18Z,3,12:47,07:13,Shot,Wrist Shot,-53.0,-30.0,Oscar Klefbom,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:53:19Z,3,12:48,07:12,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:53:48Z,3,13:06,06:54,Shot,Wrist Shot,-32.0,-30.0,Oscar Klefbom,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:54:28Z,3,13:46,06:14,Takeaway,n/a,-84.0,-32.0,Markus Granlund,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:54:54Z,3,14:12,05:48,Hit,n/a,-83.0,37.0,Emil Bemstrom,Hitter,Columbus Blue Jackets,Connor McDavid,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:55:11Z,3,14:29,05:31,Hit,n/a,-53.0,40.0,Patrick Russell,Hitter,Edmonton Oilers,Vladislav Gavrikov,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:55:38Z,3,14:45,05:15,Penalty,Too many men on the ice,-17.0,42.0,Sonny Milano,PenaltyOn,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:57:40Z,3,14:45,05:15,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:58:08Z,3,15:08,04:52,Takeaway,n/a,25.0,9.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:58:10Z,3,15:10,04:50,Shot,Wrist Shot,-82.0,-15.0,Connor McDavid,Shooter,Edmonton Oilers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:58:25Z,3,15:25,04:35,Blocked Shot,n/a,-65.0,-7.0,Boone Jenner,Blocker,Columbus Blue Jackets,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:58:30Z,3,15:30,04:30,Giveaway,n/a,-95.0,-14.0,James Neal,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:58:49Z,3,15:47,04:13,Takeaway,n/a,-33.0,-4.0,Cam Atkinson,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:59:13Z,3,16:13,03:47,Hit,n/a,-70.0,-41.0,David Savard,Hitter,Columbus Blue Jackets,Gaetan Haas,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T01:59:30Z,3,16:30,03:30,Blocked Shot,n/a,-74.0,-1.0,Zach Werenski,Blocker,Columbus Blue Jackets,Alex Chiasson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:01:03Z,3,17:23,02:37,Faceoff,n/a,-69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Markus Granlund,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:01:27Z,3,17:30,02:30,Faceoff,n/a,20.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Markus Granlund,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:01:54Z,3,17:58,02:02,Hit,n/a,56.0,40.0,Emil Bemstrom,Hitter,Columbus Blue Jackets,Patrick Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:02:18Z,3,18:00,02:00,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Markus Granlund,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:02:34Z,3,18:10,01:50,Hit,n/a,74.0,-39.0,Jujhar Khaira,Hitter,Edmonton Oilers,Seth Jones,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:03:16Z,3,18:50,01:10,Shot,Wrist Shot,43.0,35.0,Dean Kukan,Shooter,Columbus Blue Jackets,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:03:52Z,3,18:52,01:08,Faceoff,n/a,69.0,22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:04:16Z,3,19:21,00:39,Hit,n/a,92.0,-32.0,Alexander Wennberg,Hitter,Columbus Blue Jackets,Gaetan Haas,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:04:33Z,3,19:38,00:22,Giveaway,n/a,46.0,-7.0,Gaetan Haas,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

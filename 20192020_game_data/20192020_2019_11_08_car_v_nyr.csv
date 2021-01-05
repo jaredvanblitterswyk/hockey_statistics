@@ -1,0 +1,271 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-08T00:08:21Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:08:49Z,1,00:16,19:44,Hit,n/a,-25.0,-40.0,Nino Niederreiter,Hitter,Carolina Hurricanes,Jacob Trouba,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:08:51Z,1,00:16,19:44,Blocked Shot,n/a,-53.0,3.0,Libor Hajek,Blocker,New York Rangers,Teuvo Teravainen,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:09:05Z,1,00:17,19:43,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:09:23Z,1,00:27,19:33,Blocked Shot,n/a,-55.0,-19.0,Jesper Fast,Blocker,New York Rangers,Jaccob Slavin,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:09:33Z,1,00:36,19:24,Takeaway,n/a,-45.0,-33.0,Teuvo Teravainen,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:09:32Z,1,00:38,19:22,Shot,Wrist Shot,-61.0,-9.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:09:43Z,1,00:47,19:13,Missed Shot,n/a,-69.0,-9.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:10:12Z,1,01:01,18:59,Faceoff,n/a,20.0,22.0,Filip Chytil,Winner,New York Rangers,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:10:34Z,1,01:11,18:49,Hit,n/a,-32.0,40.0,Andrei Svechnikov,Hitter,Carolina Hurricanes,Marc Staal,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:14:51Z,1,01:41,18:19,Blocked Shot,n/a,-74.0,-6.0,Marc Staal,Blocker,New York Rangers,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:11:09Z,1,01:54,18:06,Takeaway,n/a,48.0,40.0,Brett Howden,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:11:16Z,1,01:59,18:01,Hit,n/a,29.0,37.0,Brendan Lemieux,Hitter,New York Rangers,Martin Necas,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:11:37Z,1,02:23,17:37,Missed Shot,n/a,67.0,36.0,Brett Howden,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:11:46Z,1,02:32,17:28,Shot,Wrist Shot,65.0,3.0,Kaapo Kakko,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:11:55Z,1,02:37,17:23,Shot,Deflected,20.0,12.0,Kaapo Kakko,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:12:07Z,1,02:39,17:21,Faceoff,n/a,69.0,22.0,Lias Andersson,Winner,New York Rangers,Eetu Luostarinen,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:12:30Z,1,02:47,17:13,Shot,Wrist Shot,37.0,39.0,Libor Hajek,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:12:46Z,1,02:58,17:02,Hit,n/a,-75.0,41.0,Eetu Luostarinen,Hitter,Carolina Hurricanes,Libor Hajek,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:13:24Z,1,03:32,16:28,Penalty,Roughing,1.0,40.0,Lias Andersson,PenaltyOn,New York Rangers,Brock McGinn,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:14:14Z,1,03:32,16:28,Faceoff,n/a,-69.0,-22.0,Ryan Dzingel,Winner,Carolina Hurricanes,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:14:19Z,1,03:36,16:24,Blocked Shot,n/a,-51.0,-1.0,Jesper Fast,Blocker,New York Rangers,Teuvo Teravainen,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:14:29Z,1,03:43,16:17,Shot,Snap Shot,-66.0,15.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:15:06Z,1,03:44,16:16,Faceoff,n/a,-69.0,22.0,Brett Howden,Winner,New York Rangers,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:15:19Z,1,03:47,16:13,Faceoff,n/a,-69.0,22.0,Brett Howden,Winner,New York Rangers,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:16:19Z,1,04:16,15:44,Missed Shot,n/a,-84.0,7.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:16:35Z,1,04:23,15:37,Hit,n/a,52.0,-22.0,Sebastian Aho,Hitter,Carolina Hurricanes,Brendan Smith,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:16:47Z,1,04:26,15:34,Giveaway,n/a,47.0,-11.0,Dougie Hamilton,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:16:30Z,1,04:29,15:31,Missed Shot,n/a,55.0,-30.0,Ryan Strome,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:16:55Z,1,04:52,15:08,Blocked Shot,n/a,-72.0,-7.0,Jacob Trouba,Blocker,New York Rangers,Lucas Wallmark,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:17:05Z,1,05:02,14:58,Missed Shot,n/a,-73.0,5.0,Jordan Staal,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:17:13Z,1,05:08,14:52,Shot,Snap Shot,-67.0,16.0,Martin Necas,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:17:28Z,1,05:27,14:33,Giveaway,n/a,-49.0,39.0,Jordan Staal,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:17:38Z,1,05:36,14:24,Shot,Snap Shot,44.0,-31.0,Brendan Lemieux,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:17:53Z,1,05:51,14:09,Hit,n/a,-69.0,40.0,Libor Hajek,Hitter,New York Rangers,Eetu Luostarinen,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:18:09Z,1,06:04,13:56,Shot,Snap Shot,-38.0,28.0,Brett Pesce,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:18:11Z,1,06:08,13:52,Hit,n/a,-50.0,41.0,Libor Hajek,Hitter,New York Rangers,Brian Gibbons,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:20:46Z,1,06:25,13:35,Faceoff,n/a,-20.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:21:26Z,1,06:57,13:03,Blocked Shot,n/a,-62.0,14.0,Chris Kreider,Blocker,New York Rangers,Dougie Hamilton,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:21:37Z,1,07:09,12:51,Takeaway,n/a,29.0,40.0,Pavel Buchnevich,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:22:01Z,1,07:35,12:25,Missed Shot,n/a,-39.0,38.0,Trevor van Riemsdyk,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:22:39Z,1,08:09,11:51,Giveaway,n/a,91.0,34.0,Trevor van Riemsdyk,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:22:46Z,1,08:17,11:43,Shot,Wrist Shot,84.0,19.0,Brendan Lemieux,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:23:40Z,1,09:10,10:50,Penalty,Tripping,-95.0,25.0,Marc Staal,PenaltyOn,New York Rangers,Eetu Luostarinen,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:24:14Z,1,09:10,10:50,Faceoff,n/a,-69.0,-22.0,Ryan Dzingel,Winner,Carolina Hurricanes,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:24:37Z,1,09:14,10:46,Shot,Slap Shot,-46.0,-5.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:24:53Z,1,09:28,10:32,Giveaway,n/a,14.0,-36.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:25:22Z,1,09:59,10:01,Shot,Deflected,-78.0,-1.0,Sebastian Aho,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:25:34Z,1,10:08,09:52,Missed Shot,n/a,-50.0,30.0,Dougie Hamilton,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:25:41Z,1,10:18,09:42,Shot,Snap Shot,-66.0,-5.0,Ryan Dzingel,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:26:03Z,1,10:19,09:41,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:26:58Z,1,11:07,08:53,Missed Shot,n/a,-35.0,1.0,Jake Gardiner,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:27:13Z,1,11:16,08:44,Hit,n/a,-97.0,-6.0,Martin Necas,Hitter,Carolina Hurricanes,Ryan Lindgren,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:27:29Z,1,11:37,08:23,Giveaway,n/a,-72.0,-16.0,Jacob Trouba,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:27:43Z,1,11:50,08:10,Takeaway,n/a,-81.0,-33.0,Brian Gibbons,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:28:02Z,1,12:12,07:48,Giveaway,n/a,98.0,-2.0,Brett Pesce,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:28:10Z,1,12:17,07:43,Hit,n/a,89.0,-32.0,Eetu Luostarinen,Hitter,Carolina Hurricanes,Filip Chytil,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:29:02Z,1,12:37,07:23,Shot,Backhand,-78.0,3.0,Sebastian Aho,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:28:27Z,1,12:38,07:22,Missed Shot,n/a,-82.0,-7.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:28:33Z,1,12:39,07:21,Missed Shot,n/a,-75.0,5.0,Warren Foegele,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:51:52Z,1,12:43,07:17,Blocked Shot,n/a,-82.0,-1.0,Jacob Trouba,Blocker,New York Rangers,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:54:51Z,1,12:46,07:14,Missed Shot,n/a,-76.0,-40.0,Joel Edmundson,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:28:41Z,1,12:51,07:09,Shot,Snap Shot,-75.0,-38.0,Joel Edmundson,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:28:49Z,1,12:57,07:03,Missed Shot,n/a,-76.0,1.0,Warren Foegele,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:28:51Z,1,13:00,07:00,Takeaway,n/a,-98.0,3.0,Libor Hajek,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:29:10Z,1,13:16,06:44,Shot,Snap Shot,-62.0,-16.0,Warren Foegele,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:29:18Z,1,13:28,06:32,Blocked Shot,n/a,-76.0,-2.0,Libor Hajek,Blocker,New York Rangers,Joel Edmundson,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:29:42Z,1,13:32,06:28,Faceoff,n/a,-69.0,-22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:30:12Z,1,13:55,06:05,Shot,Snap Shot,-80.0,-18.0,Lucas Wallmark,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:30:18Z,1,13:59,06:01,Missed Shot,n/a,-64.0,-1.0,Lucas Wallmark,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:30:29Z,1,14:10,05:50,Missed Shot,n/a,-49.0,26.0,Dougie Hamilton,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:30:37Z,1,14:12,05:48,Shot,Wrist Shot,-79.0,7.0,Ryan Dzingel,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:32:51Z,1,14:13,05:47,Faceoff,n/a,-69.0,-22.0,Eetu Luostarinen,Winner,Carolina Hurricanes,Lias Andersson,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:33:20Z,1,14:23,05:37,Faceoff,n/a,20.0,22.0,Eetu Luostarinen,Winner,Carolina Hurricanes,Lias Andersson,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:33:38Z,1,14:34,05:26,Shot,Deflected,-66.0,10.0,Eetu Luostarinen,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:33:50Z,1,14:43,05:17,Hit,n/a,-26.0,40.0,Lias Andersson,Hitter,New York Rangers,Eetu Luostarinen,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:34:18Z,1,15:12,04:48,Hit,n/a,-8.0,-41.0,Andrei Svechnikov,Hitter,Carolina Hurricanes,Brendan Smith,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:34:20Z,1,15:16,04:44,Blocked Shot,n/a,-52.0,-13.0,Libor Hajek,Blocker,New York Rangers,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:34:44Z,1,15:28,04:32,Blocked Shot,n/a,-83.0,7.0,Jacob Trouba,Blocker,New York Rangers,Sebastian Aho,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:34:41Z,1,15:35,04:25,Takeaway,n/a,33.0,41.0,Brendan Lemieux,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:34:57Z,1,15:52,04:08,Missed Shot,n/a,74.0,-1.0,Brendan Lemieux,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:35:16Z,1,16:09,03:51,Takeaway,n/a,-92.0,-29.0,Nino Niederreiter,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:35:17Z,1,16:13,03:47,Shot,Slap Shot,-58.0,19.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:35:36Z,1,16:29,03:31,Takeaway,n/a,-78.0,-39.0,Filip Chytil,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:35:45Z,1,16:41,03:19,Shot,Slap Shot,-30.0,-26.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:35:55Z,1,16:50,03:10,Missed Shot,n/a,-83.0,7.0,Nino Niederreiter,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:36:01Z,1,16:56,03:04,Missed Shot,n/a,-77.0,-7.0,Jordan Staal,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:36:14Z,1,17:01,02:59,Shot,Wrist Shot,-73.0,-13.0,Nino Niederreiter,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:36:07Z,1,17:03,02:57,Shot,Backhand,-81.0,-7.0,Jordan Staal,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:36:32Z,1,17:19,02:41,Giveaway,n/a,99.0,2.0,Martin Necas,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:53:55Z,1,17:24,02:36,Takeaway,n/a,97.0,3.0,Martin Necas,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:53:09Z,1,17:30,02:30,Shot,Wrist Shot,91.0,21.0,Martin Necas,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:36:47Z,1,17:41,02:19,Takeaway,n/a,5.0,-39.0,Jake Gardiner,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:36:53Z,1,17:49,02:11,Shot,Wrist Shot,-6.0,-35.0,Lucas Wallmark,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:38:50Z,1,17:51,02:09,Faceoff,n/a,-69.0,-22.0,Brett Howden,Winner,New York Rangers,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:40:04Z,1,17:56,02:04,Faceoff,n/a,-69.0,-22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:40:38Z,1,18:09,01:51,Giveaway,n/a,-95.0,7.0,Tony DeAngelo,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:40:37Z,1,18:10,01:50,Shot,Slap Shot,-36.0,33.0,Brett Pesce,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:41:10Z,1,18:12,01:48,Faceoff,n/a,-69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:41:23Z,1,18:15,01:45,Missed Shot,n/a,-80.0,11.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:41:26Z,1,18:19,01:41,Hit,n/a,-88.0,-35.0,Pavel Buchnevich,Hitter,New York Rangers,Sebastian Aho,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:41:49Z,1,18:41,01:19,Giveaway,n/a,-31.0,-37.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:42:01Z,1,18:53,01:07,Hit,n/a,91.0,-30.0,Sebastian Aho,Hitter,Carolina Hurricanes,Adam Fox,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:42:09Z,1,19:00,01:00,Blocked Shot,n/a,36.0,-29.0,Joel Edmundson,Blocker,Carolina Hurricanes,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:42:16Z,1,19:04,00:56,Hit,n/a,89.0,-31.0,Joel Edmundson,Hitter,Carolina Hurricanes,Filip Chytil,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:42:22Z,1,19:15,00:45,Missed Shot,n/a,70.0,-20.0,Chris Kreider,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:42:40Z,1,19:21,00:39,Faceoff,n/a,69.0,-22.0,Ryan Strome,Winner,New York Rangers,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:43:04Z,1,19:32,00:28,Goal,Snap Shot,72.0,-1.0,Artemi Panarin,Scorer,New York Rangers,Ryan Strome,Assist,New York Rangers,Jesper Fast,Assist,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes
+2019-11-08T00:43:27Z,1,19:32,00:28,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:43:53Z,1,19:42,00:18,Hit,n/a,-38.0,-40.0,Ryan Strome,Hitter,New York Rangers,Jordan Staal,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:44:06Z,1,19:58,00:02,Shot,Wrist Shot,-87.0,-12.0,Nino Niederreiter,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:44:30Z,1,19:59,00:01,Shot,Snap Shot,-64.0,14.0,Brett Pesce,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:02:57Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:03:05Z,2,00:17,19:43,Shot,Snap Shot,69.0,16.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:03:33Z,2,00:18,19:42,Faceoff,n/a,69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:05:37Z,2,00:23,19:37,Missed Shot,n/a,73.0,5.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:04:01Z,2,00:39,19:21,Shot,Tip-In,64.0,12.0,Warren Foegele,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:04:13Z,2,00:49,19:11,Giveaway,n/a,-25.0,19.0,Jake Gardiner,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:05:56Z,2,02:05,17:55,Faceoff,n/a,-20.0,22.0,Ryan Strome,Winner,New York Rangers,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:06:20Z,2,02:20,17:40,Faceoff,n/a,20.0,-22.0,Ryan Strome,Winner,New York Rangers,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:06:52Z,2,02:39,17:21,Shot,Wrist Shot,54.0,8.0,Nino Niederreiter,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:07:07Z,2,02:54,17:06,Shot,Snap Shot,46.0,-23.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:07:30Z,2,02:56,17:04,Faceoff,n/a,69.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Chris Kreider,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:08:09Z,2,03:25,16:35,Blocked Shot,n/a,-72.0,-25.0,Trevor van Riemsdyk,Blocker,Carolina Hurricanes,Ryan Lindgren,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:08:47Z,2,03:53,16:07,Hit,n/a,-34.0,18.0,Jake Gardiner,Hitter,Carolina Hurricanes,Kaapo Kakko,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:08:38Z,2,03:56,16:04,Takeaway,n/a,-55.0,1.0,Martin Necas,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:08:48Z,2,04:04,15:56,Blocked Shot,n/a,73.0,18.0,Jacob Trouba,Blocker,New York Rangers,Ryan Dzingel,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:09:19Z,2,04:34,15:26,Missed Shot,n/a,40.0,-38.0,Martin Necas,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:09:33Z,2,04:35,15:25,Faceoff,n/a,69.0,-22.0,Lias Andersson,Winner,New York Rangers,Eetu Luostarinen,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:09:58Z,2,04:37,15:23,Hit,n/a,99.0,-13.0,Brian Gibbons,Hitter,Carolina Hurricanes,Tony DeAngelo,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:10:20Z,2,05:00,15:00,Missed Shot,n/a,-88.0,-6.0,Greg McKegg,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:10:24Z,2,05:02,14:58,Hit,n/a,-84.0,-9.0,Dougie Hamilton,Hitter,Carolina Hurricanes,Greg McKegg,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:10:38Z,2,05:19,14:41,Shot,Wrist Shot,-60.0,21.0,Brendan Smith,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:10:52Z,2,05:29,14:31,Giveaway,n/a,-21.0,35.0,Jesper Fast,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:10:57Z,2,05:38,14:22,Missed Shot,n/a,30.0,-26.0,Brett Pesce,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:11:01Z,2,05:40,14:20,Takeaway,n/a,1.0,-38.0,Teuvo Teravainen,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:11:28Z,2,06:08,13:52,Missed Shot,n/a,43.0,28.0,Nino Niederreiter,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:11:38Z,2,06:19,13:41,Hit,n/a,-76.0,41.0,Joel Edmundson,Hitter,Carolina Hurricanes,Jesper Fast,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:12:23Z,2,07:04,12:56,Missed Shot,n/a,-84.0,-6.0,Libor Hajek,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:12:50Z,2,07:28,12:32,Hit,n/a,-97.0,24.0,Brendan Lemieux,Hitter,New York Rangers,Joel Edmundson,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:12:55Z,2,07:34,12:26,Missed Shot,n/a,-33.0,34.0,Brett Howden,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:13:12Z,2,07:37,12:23,Missed Shot,n/a,-69.0,11.0,Brendan Lemieux,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:13:07Z,2,07:41,12:19,Shot,Snap Shot,-35.0,36.0,Tony DeAngelo,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:15:04Z,2,07:42,12:18,Faceoff,n/a,-69.0,22.0,Ryan Dzingel,Winner,Carolina Hurricanes,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:15:43Z,2,07:45,12:15,Penalty,Interference,-89.0,27.0,Jake Gardiner,PenaltyOn,Carolina Hurricanes,Brendan Lemieux,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:16:16Z,2,07:45,12:15,Faceoff,n/a,-69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:17:14Z,2,08:46,11:14,Shot,Slap Shot,-63.0,23.0,Kaapo Kakko,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:17:39Z,2,08:47,11:13,Faceoff,n/a,-69.0,22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:18:23Z,2,09:20,10:40,Blocked Shot,n/a,-76.0,6.0,Brett Pesce,Blocker,Carolina Hurricanes,Tony DeAngelo,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:18:35Z,2,09:32,10:28,Giveaway,n/a,-97.0,-6.0,Petr Mrazek,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:18:42Z,2,09:39,10:21,Shot,Slap Shot,-39.0,-27.0,Jacob Trouba,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:19:16Z,2,09:40,10:20,Faceoff,n/a,-69.0,-22.0,Brett Howden,Winner,New York Rangers,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:19:28Z,2,09:46,10:14,Missed Shot,n/a,-33.0,40.0,Adam Fox,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:20:04Z,2,10:21,09:39,Blocked Shot,n/a,79.0,-1.0,Adam Fox,Blocker,New York Rangers,Trevor van Riemsdyk,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:20:20Z,2,10:38,09:22,Takeaway,n/a,-96.0,-8.0,Jaccob Slavin,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:20:44Z,2,11:02,08:58,Missed Shot,n/a,-53.0,-23.0,Libor Hajek,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:23:04Z,2,11:10,08:50,Faceoff,n/a,69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Chris Kreider,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:23:47Z,2,11:26,08:34,Shot,Deflected,-76.0,-14.0,Chris Kreider,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:24:00Z,2,11:40,08:20,Blocked Shot,n/a,75.0,-9.0,Adam Fox,Blocker,New York Rangers,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:24:06Z,2,11:45,08:15,Hit,n/a,74.0,-41.0,Ryan Lindgren,Hitter,New York Rangers,Warren Foegele,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:24:23Z,2,12:04,07:56,Takeaway,n/a,-72.0,-39.0,Pavel Buchnevich,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:24:31Z,2,12:06,07:54,Hit,n/a,-50.0,-39.0,Andrei Svechnikov,Hitter,Carolina Hurricanes,Pavel Buchnevich,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:24:32Z,2,12:13,07:47,Shot,Snap Shot,52.0,-8.0,Martin Necas,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:24:55Z,2,12:33,07:27,Hit,n/a,40.0,-41.0,Brendan Smith,Hitter,New York Rangers,Martin Necas,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:25:14Z,2,12:54,07:06,Missed Shot,n/a,64.0,-16.0,Dougie Hamilton,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:25:33Z,2,13:11,06:49,Giveaway,n/a,80.0,-13.0,Ryan Dzingel,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:25:55Z,2,13:18,06:42,Missed Shot,n/a,30.0,-11.0,Trevor van Riemsdyk,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:25:40Z,2,13:20,06:40,Shot,Slap Shot,63.0,35.0,Joel Edmundson,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:26:10Z,2,13:21,06:39,Faceoff,n/a,69.0,22.0,Eetu Luostarinen,Winner,Carolina Hurricanes,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:26:35Z,2,13:40,06:20,Shot,Snap Shot,83.0,-15.0,Brock McGinn,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:26:41Z,2,13:45,06:15,Shot,Tip-In,77.0,5.0,Eetu Luostarinen,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:27:12Z,2,14:14,05:46,Hit,n/a,-94.0,-28.0,Jordan Staal,Hitter,Carolina Hurricanes,Brendan Lemieux,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:27:18Z,2,14:20,05:40,Blocked Shot,n/a,-56.0,25.0,Jordan Staal,Blocker,Carolina Hurricanes,Adam Fox,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:27:18Z,2,14:23,05:37,Missed Shot,n/a,59.0,-12.0,Dougie Hamilton,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:27:35Z,2,14:32,05:28,Goal,Tip-In,60.0,-4.0,Dougie Hamilton,Scorer,Carolina Hurricanes,Jaccob Slavin,Assist,Carolina Hurricanes,Teuvo Teravainen,Assist,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers
+2019-11-08T01:28:19Z,2,14:32,05:28,Faceoff,n/a,0.0,0.0,Chris Kreider,Winner,New York Rangers,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:28:41Z,2,14:40,05:20,Hit,n/a,80.0,39.0,Jacob Trouba,Hitter,New York Rangers,Andrei Svechnikov,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:28:53Z,2,15:00,05:00,Hit,n/a,30.0,-37.0,Libor Hajek,Hitter,New York Rangers,Warren Foegele,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:29:13Z,2,15:22,04:38,Missed Shot,n/a,-65.0,5.0,Greg McKegg,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:29:37Z,2,15:30,04:30,Giveaway,n/a,-84.0,-34.0,Ryan Lindgren,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:29:25Z,2,15:31,04:29,Hit,n/a,4.0,39.0,Adam Fox,Hitter,New York Rangers,Lucas Wallmark,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:31:37Z,2,15:40,04:20,Faceoff,n/a,-20.0,22.0,Lias Andersson,Winner,New York Rangers,Eetu Luostarinen,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:31:59Z,2,15:45,04:15,Faceoff,n/a,0.0,0.0,Eetu Luostarinen,Winner,Carolina Hurricanes,Lias Andersson,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:32:35Z,2,16:07,03:53,Shot,Wrist Shot,15.0,1.0,Joel Edmundson,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:33:00Z,2,16:08,03:52,Faceoff,n/a,69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:33:12Z,2,16:13,03:47,Missed Shot,n/a,43.0,35.0,Jaccob Slavin,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:33:43Z,2,16:32,03:28,Faceoff,n/a,69.0,22.0,Ryan Strome,Winner,New York Rangers,Teuvo Teravainen,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:34:29Z,2,16:54,03:06,Hit,n/a,96.0,-22.0,Nino Niederreiter,Hitter,Carolina Hurricanes,Jacob Trouba,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:34:32Z,2,17:00,03:00,Shot,Backhand,77.0,2.0,Lucas Wallmark,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:34:52Z,2,17:07,02:53,Hit,n/a,63.0,-39.0,Lucas Wallmark,Hitter,Carolina Hurricanes,Jesper Fast,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:35:12Z,2,17:37,02:23,Giveaway,n/a,-90.0,35.0,Lucas Wallmark,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:35:27Z,2,17:46,02:14,Penalty,Tripping,-79.0,-5.0,Brett Pesce,PenaltyOn,Carolina Hurricanes,Kaapo Kakko,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:36:00Z,2,17:46,02:14,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:36:25Z,2,18:04,01:56,Goal,Tip-In,-76.0,1.0,Brendan Lemieux,Scorer,New York Rangers,Tony DeAngelo,Assist,New York Rangers,Pavel Buchnevich,Assist,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes
+2019-11-08T01:37:20Z,2,18:04,01:56,Faceoff,n/a,0.0,0.0,Chris Kreider,Winner,New York Rangers,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:37:39Z,2,18:17,01:43,Missed Shot,n/a,-82.0,-8.0,Filip Chytil,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:37:53Z,2,18:28,01:32,Giveaway,n/a,-54.0,-34.0,Pavel Buchnevich,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:38:09Z,2,18:38,01:22,Giveaway,n/a,-98.0,2.0,Joel Edmundson,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:38:04Z,2,18:41,01:19,Shot,Snap Shot,-84.0,9.0,Chris Kreider,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:38:21Z,2,18:59,01:01,Shot,Snap Shot,-45.0,37.0,Artemi Panarin,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:39:02Z,2,19:40,00:20,Blocked Shot,n/a,70.0,-20.0,Libor Hajek,Blocker,New York Rangers,Nino Niederreiter,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:39:10Z,2,19:48,00:12,Shot,Slap Shot,35.0,27.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:58:03Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Strome,Winner,New York Rangers,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:58:49Z,3,00:35,19:25,Blocked Shot,n/a,-74.0,6.0,Adam Fox,Blocker,New York Rangers,Dougie Hamilton,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:58:51Z,3,00:39,19:21,Giveaway,n/a,-65.0,41.0,Artemi Panarin,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:59:20Z,3,01:09,18:51,Takeaway,n/a,55.0,29.0,Pavel Buchnevich,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:59:27Z,3,01:15,18:45,Goal,Wrist Shot,88.0,-3.0,Filip Chytil,Scorer,New York Rangers,Pavel Buchnevich,Assist,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a
+2019-11-08T02:00:31Z,3,01:15,18:45,Faceoff,n/a,0.0,0.0,Lucas Wallmark,Winner,Carolina Hurricanes,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:01:20Z,3,01:50,18:10,Giveaway,n/a,-18.0,-40.0,Andrei Svechnikov,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:01:29Z,3,02:09,17:51,Shot,Slap Shot,-33.0,-34.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:01:34Z,3,02:10,17:50,Takeaway,n/a,-44.0,22.0,Warren Foegele,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:01:52Z,3,02:32,17:28,Shot,Snap Shot,74.0,-39.0,Brendan Smith,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:02:09Z,3,02:45,17:15,Shot,Snap Shot,-40.0,25.0,Jake Gardiner,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:02:18Z,3,02:52,17:08,Shot,Tip-In,-83.0,0.0,Brock McGinn,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:02:47Z,3,02:53,17:07,Faceoff,n/a,-69.0,-22.0,Ryan Strome,Winner,New York Rangers,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:02:58Z,3,03:02,16:58,Hit,n/a,95.0,29.0,Jesper Fast,Hitter,New York Rangers,Jake Gardiner,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:03:22Z,3,03:17,16:43,Hit,n/a,93.0,-29.0,Jake Gardiner,Hitter,Carolina Hurricanes,Jesper Fast,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:03:24Z,3,03:27,16:33,Shot,Snap Shot,-59.0,-1.0,Brett Pesce,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:03:55Z,3,03:59,16:01,Hit,n/a,-91.0,32.0,Jacob Trouba,Hitter,New York Rangers,Nino Niederreiter,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:04:17Z,3,04:22,15:38,Shot,Deflected,-25.0,-12.0,Lucas Wallmark,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:04:43Z,3,04:23,15:37,Faceoff,n/a,-69.0,-22.0,Chris Kreider,Winner,New York Rangers,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:05:48Z,3,04:51,15:09,Faceoff,n/a,-69.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Chris Kreider,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:07:37Z,3,06:31,13:29,Shot,Snap Shot,-77.0,-9.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:08:22Z,3,07:14,12:46,Hit,n/a,-87.0,-34.0,Warren Foegele,Hitter,Carolina Hurricanes,Tony DeAngelo,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:08:23Z,3,07:17,12:43,Shot,Slap Shot,-36.0,36.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:09:05Z,3,07:59,12:01,Giveaway,n/a,-75.0,40.0,Tony DeAngelo,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:09:12Z,3,08:02,11:58,Takeaway,n/a,-73.0,1.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:09:29Z,3,08:22,11:38,Missed Shot,n/a,-90.0,5.0,Sebastian Aho,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:09:30Z,3,08:24,11:36,Giveaway,n/a,-84.0,-23.0,Ryan Dzingel,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:09:46Z,3,08:40,11:20,Shot,Wrist Shot,73.0,36.0,Lias Andersson,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:10:00Z,3,08:51,11:09,Hit,n/a,-86.0,37.0,Brian Gibbons,Hitter,Carolina Hurricanes,Libor Hajek,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:10:16Z,3,09:09,10:51,Hit,n/a,-95.0,-25.0,Libor Hajek,Hitter,New York Rangers,Eetu Luostarinen,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:10:33Z,3,09:26,10:34,Hit,n/a,71.0,41.0,Pavel Buchnevich,Hitter,New York Rangers,Eetu Luostarinen,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:10:50Z,3,09:44,10:16,Blocked Shot,n/a,-76.0,16.0,Marc Staal,Blocker,New York Rangers,Jordan Staal,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:11:03Z,3,09:57,10:03,Shot,Snap Shot,-72.0,-8.0,Nino Niederreiter,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:13:13Z,3,09:59,10:01,Faceoff,n/a,-20.0,22.0,Ryan Strome,Winner,New York Rangers,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:14:13Z,3,10:51,09:09,Faceoff,n/a,69.0,22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:14:47Z,3,10:58,09:02,Faceoff,n/a,69.0,22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:15:18Z,3,11:07,08:53,Hit,n/a,81.0,40.0,Brendan Lemieux,Hitter,New York Rangers,Dougie Hamilton,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:16:33Z,3,12:26,07:34,Missed Shot,n/a,-39.0,-12.0,Joel Edmundson,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:16:45Z,3,12:33,07:27,Takeaway,n/a,-96.0,16.0,Ryan Dzingel,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:16:52Z,3,12:36,07:24,Takeaway,n/a,-55.0,20.0,Greg McKegg,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:17:03Z,3,12:56,07:04,Giveaway,n/a,0.0,34.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:17:33Z,3,13:27,06:33,Missed Shot,n/a,32.0,-23.0,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:17:47Z,3,13:40,06:20,Blocked Shot,n/a,-64.0,-8.0,Jacob Trouba,Blocker,New York Rangers,Jake Gardiner,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:20:07Z,3,13:49,06:11,Faceoff,n/a,-69.0,22.0,Brett Howden,Winner,New York Rangers,Teuvo Teravainen,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:20:32Z,3,13:57,06:03,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Brett Howden,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:21:13Z,3,14:17,05:43,Takeaway,n/a,0.0,-40.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:21:34Z,3,14:37,05:23,Giveaway,n/a,-25.0,-39.0,Nino Niederreiter,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:21:46Z,3,14:50,05:10,Shot,Wrist Shot,-83.0,-4.0,Warren Foegele,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:22:02Z,3,15:04,04:56,Hit,n/a,-53.0,-40.0,Jacob Trouba,Hitter,New York Rangers,Warren Foegele,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:22:15Z,3,15:14,04:46,Giveaway,n/a,82.0,31.0,Jake Gardiner,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:22:18Z,3,15:21,04:39,Shot,Snap Shot,76.0,-8.0,Kaapo Kakko,Shooter,New York Rangers,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:22:36Z,3,15:40,04:20,Missed Shot,n/a,31.0,-3.0,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:22:55Z,3,15:58,04:02,Goal,Wrist Shot,-69.0,40.0,Sebastian Aho,Scorer,Carolina Hurricanes,Ryan Dzingel,Assist,Carolina Hurricanes,Martin Necas,Assist,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers
+2019-11-08T02:23:41Z,3,15:58,04:02,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:25:18Z,3,17:15,02:45,Shot,Wrist Shot,-66.0,-14.0,Martin Necas,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:25:31Z,3,17:39,02:21,Takeaway,n/a,72.0,31.0,Jaccob Slavin,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:25:41Z,3,17:39,02:21,Giveaway,n/a,-56.0,15.0,Dougie Hamilton,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:25:52Z,3,18:01,01:59,Shot,Wrist Shot,-85.0,12.0,Lucas Wallmark,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:26:06Z,3,18:15,01:45,Missed Shot,n/a,-11.0,38.0,Kaapo Kakko,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:26:14Z,3,18:22,01:38,Takeaway,n/a,94.0,28.0,Kaapo Kakko,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:26:26Z,3,18:35,01:25,Goal,Wrist Shot,43.0,-22.0,Adam Fox,Scorer,New York Rangers,Artemi Panarin,Assist,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:27:17Z,3,18:35,01:25,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:27:30Z,3,18:44,01:16,Hit,n/a,-97.0,21.0,Jordan Staal,Hitter,Carolina Hurricanes,Adam Fox,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:29:06Z,3,19:06,00:54,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:29:06Z,3,19:08,00:52,Shot,Snap Shot,-44.0,-28.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:29:34Z,3,19:09,00:51,Faceoff,n/a,-69.0,-22.0,Brett Howden,Winner,New York Rangers,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:29:46Z,3,19:21,00:39,Hit,n/a,-80.0,-39.0,Jordan Staal,Hitter,Carolina Hurricanes,Ryan Lindgren,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:30:22Z,3,19:55,00:05,Missed Shot,n/a,-77.0,2.0,Sebastian Aho,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,268 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-01T00:38:20Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:38:47Z,1,00:25,19:35,Shot,Wrist Shot,-44.0,10.0,Alex Ovechkin,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:38:52Z,1,00:30,19:30,Shot,Deflected,-81.0,-6.0,Alex Ovechkin,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:38:59Z,1,00:37,19:23,Missed Shot,n/a,-55.0,-2.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:39:34Z,1,01:11,18:49,Giveaway,n/a,-63.0,41.0,Marcus Hogberg,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:40:00Z,1,01:37,18:23,Hit,n/a,-98.0,-9.0,Lars Eller,Hitter,Washington Capitals,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:40:09Z,1,01:47,18:13,Hit,n/a,61.0,-39.0,Drake Batherson,Hitter,Ottawa Senators,Carl Hagelin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:40:17Z,1,01:54,18:06,Hit,n/a,-99.0,9.0,Richard Panik,Hitter,Washington Capitals,Tyler Ennis,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:40:38Z,1,02:15,17:45,Takeaway,n/a,-57.0,3.0,Drake Batherson,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:40:58Z,1,02:36,17:24,Hit,n/a,-98.0,19.0,Garnet Hathaway,Hitter,Washington Capitals,Ron Hainsey,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:41:08Z,1,02:46,17:14,Hit,n/a,83.0,-37.0,Scott Sabourin,Hitter,Ottawa Senators,Brendan Leipsic,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:41:44Z,1,03:21,16:39,Hit,n/a,-16.0,-39.0,Dmitry Orlov,Hitter,Washington Capitals,Connor Brown,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:42:32Z,1,04:10,15:50,Goal,Deflected,-79.0,-1.0,T.J. Oshie,Scorer,Washington Capitals,John Carlson,Assist,Washington Capitals,Jakub Vrana,Assist,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators
+2020-02-01T00:43:17Z,1,04:10,15:50,Faceoff,n/a,0.0,0.0,Evgeny Kuznetsov,Winner,Washington Capitals,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:43:53Z,1,04:26,15:34,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:44:14Z,1,04:40,15:20,Shot,Wrist Shot,-2.0,40.0,Radko Gudas,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:44:28Z,1,04:54,15:06,Hit,n/a,-97.0,-13.0,Thomas Chabot,Hitter,Ottawa Senators,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:44:56Z,1,05:22,14:38,Giveaway,n/a,99.0,9.0,Radko Gudas,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:45:01Z,1,05:27,14:33,Blocked Shot,n/a,67.0,20.0,Garnet Hathaway,Blocker,Washington Capitals,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:45:25Z,1,05:51,14:09,Hit,n/a,79.0,40.0,Michal Kempny,Hitter,Washington Capitals,Scott Sabourin,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:45:29Z,1,05:54,14:06,Blocked Shot,n/a,81.0,14.0,Brendan Leipsic,Blocker,Washington Capitals,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:45:41Z,1,06:07,13:53,Shot,Slap Shot,57.0,-31.0,Nikita Zaitsev,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:46:01Z,1,06:27,13:33,Giveaway,n/a,-59.0,39.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:46:17Z,1,06:43,13:17,Hit,n/a,32.0,-40.0,Dmitry Orlov,Hitter,Washington Capitals,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:46:26Z,1,06:48,13:12,Giveaway,n/a,-40.0,2.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:46:26Z,1,06:51,13:09,Shot,Deflected,-81.0,-3.0,Tom Wilson,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:46:43Z,1,07:08,12:52,Shot,Slap Shot,-67.0,-13.0,Alex Ovechkin,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:46:49Z,1,07:15,12:45,Blocked Shot,n/a,-70.0,4.0,Dylan DeMelo,Blocker,Ottawa Senators,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:46:57Z,1,07:22,12:38,Missed Shot,n/a,-54.0,-23.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:47:11Z,1,07:26,12:34,Penalty,Slashing,-69.0,-3.0,Thomas Chabot,PenaltyOn,Ottawa Senators,Alex Ovechkin,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:49:09Z,1,07:26,12:34,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:49:44Z,1,07:45,12:15,Hit,n/a,-98.0,1.0,Jakub Vrana,Hitter,Washington Capitals,Ron Hainsey,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:50:03Z,1,08:04,11:56,Giveaway,n/a,-42.0,35.0,Ron Hainsey,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:50:08Z,1,08:10,11:50,Blocked Shot,n/a,-56.0,4.0,Jean-Gabriel Pageau,Blocker,Ottawa Senators,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:50:38Z,1,08:30,11:30,Faceoff,n/a,-20.0,22.0,Chris Tierney,Winner,Ottawa Senators,Tom Wilson,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:51:27Z,1,08:57,11:03,Hit,n/a,-96.0,-7.0,Mark Borowiecki,Hitter,Ottawa Senators,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:51:39Z,1,09:08,10:52,Shot,Wrist Shot,-74.0,26.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:51:49Z,1,09:09,10:51,Shot,Wrist Shot,-79.0,0.0,Tom Wilson,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:51:55Z,1,09:19,10:41,Giveaway,n/a,-48.0,3.0,Chris Tierney,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:51:55Z,1,09:22,10:38,Blocked Shot,n/a,-60.0,2.0,Dylan DeMelo,Blocker,Ottawa Senators,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:52:18Z,1,09:23,10:37,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:52:45Z,1,09:36,10:24,Missed Shot,n/a,-24.0,-24.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:52:51Z,1,09:40,10:20,Shot,Wrist Shot,-61.0,29.0,Nick Jensen,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:53:12Z,1,09:41,10:19,Faceoff,n/a,-69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:53:23Z,1,09:45,10:15,Shot,Wrist Shot,-56.0,32.0,Richard Panik,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:53:43Z,1,10:05,09:55,Hit,n/a,-96.0,-14.0,Richard Panik,Hitter,Washington Capitals,Mike Reilly,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:53:47Z,1,10:09,09:51,Missed Shot,n/a,-61.0,-10.0,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:54:06Z,1,10:28,09:32,Blocked Shot,n/a,73.0,29.0,Nick Jensen,Blocker,Washington Capitals,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:54:21Z,1,10:43,09:17,Hit,n/a,-22.0,-26.0,Brendan Leipsic,Hitter,Washington Capitals,Anthony Duclair,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:54:36Z,1,10:56,09:04,Shot,Tip-In,-74.0,-3.0,Brendan Leipsic,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:56:55Z,1,10:57,09:03,Faceoff,n/a,-69.0,-22.0,Colin White,Winner,Ottawa Senators,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:57:12Z,1,11:22,08:38,Goal,Wrist Shot,-83.0,7.0,Evgeny Kuznetsov,Scorer,Washington Capitals,Jakub Vrana,Assist,Washington Capitals,Dmitry Orlov,Assist,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators
+2020-02-01T00:58:25Z,1,11:22,08:38,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:59:19Z,1,12:08,07:52,Missed Shot,n/a,-65.0,-2.0,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:59:47Z,1,12:36,07:24,Hit,n/a,84.0,-36.0,Anthony Duclair,Hitter,Ottawa Senators,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T00:59:54Z,1,12:43,07:17,Hit,n/a,-96.0,-16.0,Jakub Vrana,Hitter,Washington Capitals,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:00:16Z,1,12:49,07:11,Takeaway,n/a,2.0,-37.0,Chris Tierney,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:00:04Z,1,12:52,07:08,Shot,Wrist Shot,74.0,0.0,Vladislav Namestnikov,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:00:28Z,1,12:53,07:07,Faceoff,n/a,69.0,-22.0,Lars Eller,Winner,Washington Capitals,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:00:50Z,1,13:11,06:49,Missed Shot,n/a,79.0,11.0,Drake Batherson,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:01:04Z,1,13:22,06:38,Hit,n/a,-42.0,40.0,Colin White,Hitter,Ottawa Senators,Richard Panik,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:01:08Z,1,13:30,06:30,Giveaway,n/a,-9.0,-16.0,Carl Hagelin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:01:15Z,1,13:37,06:23,Shot,Wrist Shot,81.0,-1.0,Scott Sabourin,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:01:28Z,1,13:50,06:10,Giveaway,n/a,37.0,-37.0,Ilya Samsonov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:01:31Z,1,13:51,06:09,Hit,n/a,36.0,-39.0,Brendan Leipsic,Hitter,Washington Capitals,Scott Sabourin,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:01:49Z,1,13:51,06:09,Faceoff,n/a,20.0,-22.0,Nic Dowd,Winner,Washington Capitals,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:02:32Z,1,14:09,05:51,Faceoff,n/a,-69.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:03:01Z,1,14:16,05:44,Faceoff,n/a,-69.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:03:39Z,1,14:29,05:31,Hit,n/a,98.0,1.0,Scott Sabourin,Hitter,Ottawa Senators,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:03:49Z,1,14:39,05:21,Hit,n/a,-1.0,-40.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Evgeny Kuznetsov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:05:09Z,1,15:59,04:01,Blocked Shot,n/a,43.0,-4.0,Tom Wilson,Blocker,Washington Capitals,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:05:20Z,1,16:09,03:51,Hit,n/a,98.0,9.0,Radko Gudas,Hitter,Washington Capitals,Drake Batherson,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:05:24Z,1,16:13,03:47,Blocked Shot,n/a,71.0,9.0,Radko Gudas,Blocker,Washington Capitals,Drake Batherson,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:06:12Z,1,17:01,02:59,Blocked Shot,n/a,58.0,22.0,Nic Dowd,Blocker,Washington Capitals,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:06:20Z,1,17:10,02:50,Hit,n/a,76.0,-39.0,Filip Chlapik,Hitter,Ottawa Senators,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:06:44Z,1,17:32,02:28,Shot,Wrist Shot,-80.0,15.0,Garnet Hathaway,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:08:29Z,1,17:33,02:27,Faceoff,n/a,-69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:09:27Z,1,18:00,02:00,Hit,n/a,96.0,-23.0,John Carlson,Hitter,Washington Capitals,Connor Brown,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:09:48Z,1,18:16,01:44,Shot,Wrist Shot,88.0,-7.0,Brady Tkachuk,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:09:56Z,1,18:23,01:37,Shot,Wrap-around,90.0,7.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:10:14Z,1,18:43,01:17,Shot,Wrist Shot,-57.0,2.0,Alex Ovechkin,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:10:25Z,1,18:44,01:16,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:10:50Z,1,18:48,01:12,Missed Shot,n/a,-69.0,-2.0,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:11:27Z,1,19:06,00:54,Faceoff,n/a,-20.0,-22.0,Colin White,Winner,Ottawa Senators,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:11:59Z,1,19:12,00:48,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:12:13Z,1,19:19,00:41,Hit,n/a,-97.0,-2.0,Thomas Chabot,Hitter,Ottawa Senators,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:12:21Z,1,19:26,00:34,Shot,Backhand,-86.0,-9.0,Nicklas Backstrom,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:12:35Z,1,19:41,00:19,Blocked Shot,n/a,61.0,9.0,Tom Wilson,Blocker,Washington Capitals,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:12:37Z,1,19:42,00:18,Shot,Snap Shot,-28.0,31.0,Alex Ovechkin,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:31:24Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:31:44Z,2,00:14,19:46,Missed Shot,n/a,41.0,13.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:31:47Z,2,00:21,19:39,Shot,Wrist Shot,47.0,29.0,Michal Kempny,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:32:50Z,2,01:24,18:36,Takeaway,n/a,-65.0,38.0,Vladislav Namestnikov,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:32:57Z,2,01:28,18:32,Shot,Wrist Shot,-88.0,8.0,Chris Tierney,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:32:57Z,2,01:29,18:31,Shot,Wrap-around,-89.0,7.0,Chris Tierney,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:32:57Z,2,01:31,18:29,Shot,Wrist Shot,-85.0,7.0,Vladislav Namestnikov,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:33:36Z,2,01:32,18:28,Faceoff,n/a,-69.0,22.0,Colin White,Winner,Ottawa Senators,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:34:13Z,2,01:46,18:14,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:34:29Z,2,02:01,17:59,Blocked Shot,n/a,-50.0,-13.0,Lars Eller,Blocker,Washington Capitals,Colin White,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:34:55Z,2,02:18,17:42,Penalty,Holding,97.0,19.0,Dylan DeMelo,PenaltyOn,Ottawa Senators,Lars Eller,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:35:22Z,2,02:18,17:42,Faceoff,n/a,69.0,-22.0,T.J. Oshie,Winner,Washington Capitals,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:35:40Z,2,02:38,17:22,Blocked Shot,n/a,59.0,8.0,Nikita Zaitsev,Blocker,Ottawa Senators,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:35:45Z,2,02:43,17:17,Shot,Slap Shot,67.0,-28.0,Jakub Vrana,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:36:01Z,2,02:44,17:16,Faceoff,n/a,69.0,-22.0,T.J. Oshie,Winner,Washington Capitals,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:36:44Z,2,02:54,17:06,Giveaway,n/a,55.0,-20.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:37:22Z,2,03:32,16:28,Blocked Shot,n/a,52.0,-2.0,Jean-Gabriel Pageau,Blocker,Ottawa Senators,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:37:48Z,2,03:56,16:04,Shot,Wrist Shot,52.0,4.0,Lars Eller,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:38:40Z,2,04:50,15:10,Shot,Backhand,79.0,-1.0,Carl Hagelin,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:39:03Z,2,05:10,14:50,Shot,Wrist Shot,-81.0,-33.0,Artem Anisimov,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:39:37Z,2,05:11,14:49,Faceoff,n/a,-69.0,-22.0,Filip Chlapik,Winner,Ottawa Senators,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:39:49Z,2,05:17,14:43,Missed Shot,n/a,-67.0,5.0,Filip Chlapik,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:40:04Z,2,05:18,14:42,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Filip Chlapik,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:40:34Z,2,05:34,14:26,Hit,n/a,-98.0,2.0,Colin White,Hitter,Ottawa Senators,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:40:49Z,2,05:38,14:22,Penalty,Tripping,-33.0,-1.0,Scott Sabourin,PenaltyOn,Ottawa Senators,Garnet Hathaway,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:41:15Z,2,05:38,14:22,Faceoff,n/a,69.0,-22.0,T.J. Oshie,Winner,Washington Capitals,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:41:44Z,2,06:02,13:58,Blocked Shot,n/a,80.0,2.0,Nikita Zaitsev,Blocker,Ottawa Senators,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:41:52Z,2,06:09,13:51,Shot,Slap Shot,53.0,25.0,Alex Ovechkin,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:43:04Z,2,06:57,13:03,Faceoff,n/a,69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:43:19Z,2,07:10,12:50,Takeaway,n/a,55.0,-7.0,Connor Brown,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:43:24Z,2,07:15,12:45,Goal,Tip-In,-82.0,-2.0,Chris Tierney,Scorer,Ottawa Senators,Dylan DeMelo,Assist,Ottawa Senators,Connor Brown,Assist,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals
+2020-02-01T01:44:17Z,2,07:15,12:45,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:44:41Z,2,07:43,12:17,Shot,Slap Shot,32.0,2.0,Dmitry Orlov,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:45:07Z,2,08:10,11:50,Giveaway,n/a,95.0,-13.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:45:16Z,2,08:15,11:45,Blocked Shot,n/a,55.0,14.0,Brady Tkachuk,Blocker,Ottawa Senators,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:47:17Z,2,08:17,11:43,Faceoff,n/a,69.0,22.0,Colin White,Winner,Ottawa Senators,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:47:50Z,2,08:34,11:26,Shot,Wrap-around,-87.0,7.0,Tyler Ennis,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:48:07Z,2,08:51,11:09,Hit,n/a,95.0,-23.0,Garnet Hathaway,Hitter,Washington Capitals,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:48:11Z,2,08:53,11:07,Hit,n/a,43.0,40.0,Drake Batherson,Hitter,Ottawa Senators,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:48:11Z,2,08:55,11:05,Giveaway,n/a,42.0,39.0,Ron Hainsey,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:48:29Z,2,09:13,10:47,Shot,Wrist Shot,-72.0,-2.0,Tyler Ennis,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:48:35Z,2,09:19,10:41,Missed Shot,n/a,-37.0,32.0,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:48:43Z,2,09:27,10:33,Takeaway,n/a,-92.0,28.0,Brady Tkachuk,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:49:02Z,2,09:42,10:18,Giveaway,n/a,56.0,38.0,Mike Reilly,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:49:08Z,2,09:52,10:08,Hit,n/a,-35.0,41.0,Jonas Siegenthaler,Hitter,Washington Capitals,Anthony Duclair,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:49:27Z,2,10:08,09:52,Shot,Wrist Shot,-54.0,37.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:49:57Z,2,10:09,09:51,Shot,Backhand,-83.0,6.0,Brady Tkachuk,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:51:26Z,2,10:10,09:50,Faceoff,n/a,-69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:51:54Z,2,10:27,09:33,Goal,Wrist Shot,67.0,-11.0,Alex Ovechkin,Scorer,Washington Capitals,Nicklas Backstrom,Assist,Washington Capitals,Tom Wilson,Assist,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators
+2020-02-01T01:52:39Z,2,10:27,09:33,Faceoff,n/a,0.0,0.0,Artem Anisimov,Winner,Ottawa Senators,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:53:25Z,2,10:44,09:16,Faceoff,n/a,20.0,22.0,Filip Chlapik,Winner,Ottawa Senators,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:53:48Z,2,11:01,08:59,Shot,Wrist Shot,-40.0,34.0,Artem Anisimov,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:54:08Z,2,11:01,08:59,Faceoff,n/a,-69.0,22.0,Colin White,Winner,Ottawa Senators,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:54:36Z,2,11:07,08:53,Shot,Wrist Shot,-32.0,20.0,Ron Hainsey,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:54:43Z,2,11:09,08:51,Shot,Backhand,-81.0,3.0,Tyler Ennis,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:54:43Z,2,11:14,08:46,Hit,n/a,-97.0,-3.0,Drake Batherson,Hitter,Ottawa Senators,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:55:01Z,2,11:31,08:29,Goal,Snap Shot,-51.0,2.0,Thomas Chabot,Scorer,Ottawa Senators,Tyler Ennis,Assist,Ottawa Senators,Ron Hainsey,Assist,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals
+2020-02-01T01:55:47Z,2,11:31,08:29,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:56:15Z,2,11:55,08:05,Takeaway,n/a,62.0,-28.0,Mike Reilly,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:56:25Z,2,12:04,07:56,Hit,n/a,-1.0,0.0,Chris Tierney,Hitter,Ottawa Senators,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:56:33Z,2,12:13,07:47,Hit,n/a,17.0,-25.0,Richard Panik,Hitter,Washington Capitals,Vladislav Namestnikov,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:56:44Z,2,12:24,07:36,Hit,n/a,23.0,-39.0,Mark Borowiecki,Hitter,Ottawa Senators,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:56:52Z,2,12:29,07:31,Hit,n/a,85.0,37.0,Garnet Hathaway,Hitter,Washington Capitals,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:57:03Z,2,12:39,07:21,Hit,n/a,89.0,34.0,Brendan Leipsic,Hitter,Washington Capitals,Colin White,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:57:11Z,2,12:42,07:18,Shot,Wrist Shot,-37.0,25.0,Colin White,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:57:27Z,2,12:43,07:17,Hit,n/a,-82.0,-5.0,Jonas Siegenthaler,Hitter,Washington Capitals,Brady Tkachuk,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:57:34Z,2,12:44,07:16,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:57:57Z,2,12:58,07:02,Hit,n/a,-98.0,-10.0,Brady Tkachuk,Hitter,Ottawa Senators,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:58:06Z,2,13:04,06:56,Hit,n/a,-25.0,40.0,Brady Tkachuk,Hitter,Ottawa Senators,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:58:25Z,2,13:06,06:54,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:58:38Z,2,13:12,06:48,Giveaway,n/a,-53.0,39.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:58:45Z,2,13:19,06:41,Shot,Slap Shot,-66.0,-12.0,Tyler Ennis,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:58:55Z,2,13:22,06:38,Giveaway,n/a,-60.0,3.0,Nic Dowd,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:59:27Z,2,13:33,06:27,Faceoff,n/a,-20.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T01:59:46Z,2,13:52,06:08,Hit,n/a,94.0,26.0,Nikita Zaitsev,Hitter,Ottawa Senators,Jonas Siegenthaler,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:00:16Z,2,14:15,05:45,Shot,Slap Shot,-70.0,-13.0,Vladislav Namestnikov,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:02:24Z,2,14:18,05:42,Faceoff,n/a,-69.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:02:48Z,2,14:42,05:18,Shot,Wrist Shot,-14.0,1.0,Mark Borowiecki,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:03:19Z,2,14:48,05:12,Faceoff,n/a,20.0,22.0,Lars Eller,Winner,Washington Capitals,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:04:01Z,2,15:25,04:35,Blocked Shot,n/a,47.0,-10.0,Connor Brown,Blocker,Ottawa Senators,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:04:07Z,2,15:31,04:29,Shot,Wrist Shot,83.0,-16.0,Carl Hagelin,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:04:21Z,2,15:45,04:15,Shot,Wrist Shot,45.0,-10.0,John Carlson,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:04:50Z,2,16:06,03:54,Shot,Snap Shot,74.0,-17.0,Alex Ovechkin,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:05:15Z,2,16:07,03:53,Faceoff,n/a,69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:05:39Z,2,16:28,03:32,Giveaway,n/a,-17.0,-7.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:05:57Z,2,16:44,03:16,Penalty,Hooking,-50.0,19.0,Dmitry Orlov,PenaltyOn,Washington Capitals,Vladislav Namestnikov,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:06:29Z,2,16:44,03:16,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:06:56Z,2,17:06,02:54,Giveaway,n/a,-54.0,33.0,Anthony Duclair,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:07:53Z,2,18:03,01:57,Hit,n/a,-78.0,-39.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:08:14Z,2,18:24,01:36,Hit,n/a,-76.0,40.0,Michal Kempny,Hitter,Washington Capitals,Jean-Gabriel Pageau,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:08:21Z,2,18:31,01:29,Missed Shot,n/a,-84.0,9.0,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:08:29Z,2,18:39,01:21,Blocked Shot,n/a,-61.0,-14.0,Carl Hagelin,Blocker,Washington Capitals,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:08:45Z,2,18:48,01:12,Hit,n/a,-73.0,41.0,Brady Tkachuk,Hitter,Ottawa Senators,Carl Hagelin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:08:39Z,2,18:49,01:11,Missed Shot,n/a,-80.0,-6.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:09:05Z,2,19:14,00:46,Blocked Shot,n/a,-47.0,21.0,Nicklas Backstrom,Blocker,Washington Capitals,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:09:47Z,2,19:54,00:06,Blocked Shot,n/a,-52.0,-13.0,Jonas Siegenthaler,Blocker,Washington Capitals,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:28:21Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:29:01Z,3,00:33,19:27,Missed Shot,n/a,-46.0,14.0,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:29:13Z,3,00:45,19:15,Shot,Wrap-around,-87.0,-5.0,Nicklas Backstrom,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:29:18Z,3,00:47,19:13,Shot,Wrist Shot,-81.0,2.0,Tom Wilson,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:29:20Z,3,00:52,19:08,Blocked Shot,n/a,-77.0,1.0,Brady Tkachuk,Blocker,Ottawa Senators,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:30:08Z,3,01:40,18:20,Missed Shot,n/a,-64.0,3.0,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:30:29Z,3,01:51,18:09,Penalty,Too many men on the ice,9.0,39.0,Brendan Leipsic,PenaltyOn,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:31:06Z,3,01:51,18:09,Faceoff,n/a,69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:31:26Z,3,02:10,17:50,Hit,n/a,35.0,39.0,Nic Dowd,Hitter,Washington Capitals,Tyler Ennis,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:32:05Z,3,02:25,17:35,Faceoff,n/a,20.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:32:21Z,3,02:42,17:18,Blocked Shot,n/a,64.0,17.0,Michal Kempny,Blocker,Washington Capitals,Anthony Duclair,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:32:42Z,3,03:03,16:57,Takeaway,n/a,31.0,10.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:32:47Z,3,03:07,16:53,Goal,Wrist Shot,-68.0,-2.0,Carl Hagelin,Scorer,Washington Capitals,Lars Eller,Assist,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a
+2020-02-01T02:33:29Z,3,03:07,16:53,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:34:08Z,3,03:50,16:10,Blocked Shot,n/a,73.0,5.0,Jonas Siegenthaler,Blocker,Washington Capitals,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:34:12Z,3,03:54,16:06,Hit,n/a,79.0,39.0,Radko Gudas,Hitter,Washington Capitals,Tyler Ennis,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:34:21Z,3,04:04,15:56,Blocked Shot,n/a,61.0,-19.0,Nic Dowd,Blocker,Washington Capitals,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:34:41Z,3,04:19,15:41,Penalty,Hooking,80.0,1.0,Jonas Siegenthaler,PenaltyOn,Washington Capitals,Brady Tkachuk,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:35:15Z,3,04:19,15:41,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:35:42Z,3,04:42,15:18,Giveaway,n/a,51.0,35.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:35:50Z,3,04:45,15:15,Blocked Shot,n/a,70.0,7.0,John Carlson,Blocker,Washington Capitals,Anthony Duclair,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:35:45Z,3,04:47,15:13,Goal,Wrist Shot,72.0,11.0,Artem Anisimov,Scorer,Ottawa Senators,Anthony Duclair,Assist,Ottawa Senators,Thomas Chabot,Assist,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals
+2020-02-01T02:36:45Z,3,04:47,15:13,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:37:39Z,3,05:21,14:39,Faceoff,n/a,-20.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:38:07Z,3,05:45,14:15,Blocked Shot,n/a,62.0,0.0,Nick Jensen,Blocker,Washington Capitals,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:38:12Z,3,05:53,14:07,Shot,Wrist Shot,84.0,-18.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:38:42Z,3,06:23,13:37,Shot,Wrist Shot,52.0,27.0,Brady Tkachuk,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:39:03Z,3,06:42,13:18,Missed Shot,n/a,-48.0,14.0,Brendan Leipsic,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:41:46Z,3,06:43,13:17,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:41:48Z,3,07:11,12:49,Hit,n/a,51.0,40.0,Nic Dowd,Hitter,Washington Capitals,Tyler Ennis,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:42:06Z,3,07:27,12:33,Missed Shot,n/a,44.0,10.0,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:42:23Z,3,07:47,12:13,Hit,n/a,83.0,37.0,Radko Gudas,Hitter,Washington Capitals,Filip Chlapik,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:42:46Z,3,08:10,11:50,Giveaway,n/a,49.0,-25.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:43:26Z,3,08:46,11:14,Blocked Shot,n/a,71.0,7.0,John Carlson,Blocker,Washington Capitals,Mark Borowiecki,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:43:45Z,3,08:48,11:12,Blocked Shot,n/a,65.0,10.0,John Carlson,Blocker,Washington Capitals,Vladislav Namestnikov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:43:54Z,3,09:06,10:54,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:44:30Z,3,09:26,10:34,Missed Shot,n/a,-78.0,9.0,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:44:40Z,3,09:28,10:32,Shot,Slap Shot,-79.0,-33.0,Dmitry Orlov,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:44:51Z,3,09:30,10:30,Faceoff,n/a,-69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:45:21Z,3,09:40,10:20,Shot,Wrist Shot,-86.0,35.0,Thomas Chabot,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:45:30Z,3,09:49,10:11,Hit,n/a,21.0,41.0,Brady Tkachuk,Hitter,Ottawa Senators,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:45:42Z,3,10:02,09:58,Shot,Deflected,81.0,-4.0,Brady Tkachuk,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:46:10Z,3,10:29,09:31,Hit,n/a,99.0,7.0,Jonas Siegenthaler,Hitter,Washington Capitals,Colin White,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:46:17Z,3,10:37,09:23,Giveaway,n/a,-30.0,-8.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:46:28Z,3,10:48,09:12,Blocked Shot,n/a,61.0,11.0,Nicklas Backstrom,Blocker,Washington Capitals,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:46:53Z,3,11:12,08:48,Shot,Wrist Shot,-42.0,-5.0,Michal Kempny,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:47:11Z,3,11:30,08:30,Missed Shot,n/a,76.0,3.0,Filip Chlapik,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:47:19Z,3,11:38,08:22,Hit,n/a,85.0,-36.0,Michal Kempny,Hitter,Washington Capitals,Filip Chlapik,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:47:19Z,3,11:55,08:05,Giveaway,n/a,69.0,-21.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:47:47Z,3,12:06,07:54,Giveaway,n/a,20.0,-21.0,Dylan DeMelo,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:47:49Z,3,12:08,07:52,Shot,Slap Shot,-45.0,-32.0,Lars Eller,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:48:02Z,3,12:21,07:39,Hit,n/a,89.0,-33.0,Dmitry Orlov,Hitter,Washington Capitals,Brady Tkachuk,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:48:02Z,3,12:23,07:37,Blocked Shot,n/a,74.0,3.0,Dmitry Orlov,Blocker,Washington Capitals,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:48:08Z,3,12:27,07:33,Blocked Shot,n/a,63.0,2.0,Dmitry Orlov,Blocker,Washington Capitals,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:48:14Z,3,12:33,07:27,Hit,n/a,25.0,-40.0,Garnet Hathaway,Hitter,Washington Capitals,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:48:42Z,3,13:01,06:59,Hit,n/a,96.0,-23.0,Drake Batherson,Hitter,Ottawa Senators,Brendan Leipsic,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:48:51Z,3,13:10,06:50,Shot,Wrist Shot,82.0,24.0,Vladislav Namestnikov,Shooter,Ottawa Senators,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:49:22Z,3,13:41,06:19,Hit,n/a,54.0,-17.0,Dmitry Orlov,Hitter,Washington Capitals,Chris Tierney,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:49:44Z,3,14:04,05:56,Giveaway,n/a,38.0,-35.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:50:40Z,3,14:57,05:03,Blocked Shot,n/a,-59.0,0.0,Dylan DeMelo,Blocker,Ottawa Senators,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:52:48Z,3,14:58,05:02,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:53:06Z,3,15:12,04:48,Hit,n/a,96.0,-18.0,Chris Tierney,Hitter,Ottawa Senators,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:53:42Z,3,15:22,04:38,Faceoff,n/a,-20.0,22.0,Brady Tkachuk,Winner,Ottawa Senators,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:53:52Z,3,15:30,04:30,Hit,n/a,3.0,40.0,T.J. Oshie,Hitter,Washington Capitals,Jean-Gabriel Pageau,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:54:00Z,3,15:38,04:22,Hit,n/a,98.0,16.0,Brady Tkachuk,Hitter,Ottawa Senators,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:54:43Z,3,15:57,04:03,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:54:56Z,3,16:01,03:59,Shot,Wrist Shot,-32.0,-26.0,Dmitry Orlov,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:56:45Z,3,16:02,03:58,Faceoff,n/a,-69.0,-22.0,Colin White,Winner,Ottawa Senators,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:57:14Z,3,16:14,03:46,Missed Shot,n/a,81.0,-6.0,Colin White,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:57:28Z,3,16:18,03:42,Penalty,Hi stick - double minor,72.0,41.0,Colin White,PenaltyOn,Ottawa Senators,Lars Eller,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:58:30Z,3,16:18,03:42,Faceoff,n/a,-69.0,22.0,T.J. Oshie,Winner,Washington Capitals,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:59:28Z,3,16:49,03:11,Shot,Slap Shot,-49.0,-18.0,Alex Ovechkin,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T02:59:47Z,3,16:50,03:10,Faceoff,n/a,-69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T03:00:02Z,3,17:02,02:58,Missed Shot,n/a,-43.0,-18.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T03:00:24Z,3,17:24,02:36,Takeaway,n/a,64.0,-28.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T03:00:42Z,3,17:42,02:18,Shot,Slap Shot,-52.0,-24.0,Alex Ovechkin,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T03:01:26Z,3,18:25,01:35,Shot,Wrist Shot,-80.0,28.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T03:02:01Z,3,18:26,01:34,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T03:03:00Z,3,19:21,00:39,Missed Shot,n/a,85.0,-9.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T03:03:09Z,3,19:29,00:31,Blocked Shot,n/a,35.0,-25.0,John Carlson,Blocker,Washington Capitals,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T03:03:24Z,3,19:45,00:15,Goal,Wrist Shot,-48.0,-5.0,Alex Ovechkin,Scorer,Washington Capitals,John Carlson,Assist,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-01T03:04:18Z,3,19:45,00:15,Faceoff,n/a,0.0,0.0,Filip Chlapik,Winner,Ottawa Senators,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a

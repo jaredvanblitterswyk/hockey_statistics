@@ -1,0 +1,244 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-05T02:08:24Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:26:21Z,1,00:04,19:56,Hit,n/a,4.0,-39.0,Josh Archibald,Hitter,Edmonton Oilers,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:08:46Z,1,00:12,19:48,Hit,n/a,-83.0,-36.0,Zack Kassian,Hitter,Edmonton Oilers,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:08:54Z,1,00:20,19:40,Missed Shot,n/a,-85.0,-15.0,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:09:14Z,1,00:23,19:37,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Zack Kassian,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:09:44Z,1,00:36,19:24,Shot,Wrist Shot,-23.0,-23.0,Zack Kassian,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:10:00Z,1,00:37,19:23,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:10:16Z,1,00:47,19:13,Giveaway,n/a,-41.0,-30.0,Jordan Oesterle,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:10:18Z,1,00:48,19:12,Shot,Wrist Shot,-60.0,-27.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:10:20Z,1,00:51,19:09,Takeaway,n/a,-23.0,2.0,Taylor Hall,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:10:36Z,1,01:06,18:54,Blocked Shot,n/a,76.0,-6.0,Leon Draisaitl,Blocker,Edmonton Oilers,Niklas Hjalmarsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:10:51Z,1,01:11,18:49,Giveaway,n/a,45.0,-31.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:11:01Z,1,01:32,18:28,Missed Shot,n/a,-54.0,3.0,Riley Sheahan,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:11:08Z,1,01:39,18:21,Blocked Shot,n/a,-74.0,7.0,Vinnie Hinostroza,Blocker,Arizona Coyotes,Riley Sheahan,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:11:19Z,1,01:40,18:20,Hit,n/a,-2.0,-36.0,Matt Benning,Hitter,Edmonton Oilers,Nick Schmaltz,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:11:28Z,1,01:51,18:09,Shot,Wrist Shot,73.0,0.0,Clayton Keller,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:11:46Z,1,01:56,18:04,Faceoff,n/a,0.0,0.0,Gaetan Haas,Winner,Edmonton Oilers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:11:58Z,1,02:05,17:55,Hit,n/a,-91.0,27.0,Gaetan Haas,Hitter,Edmonton Oilers,Niklas Hjalmarsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:12:13Z,1,02:17,17:43,Missed Shot,n/a,85.0,14.0,Brad Richardson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:12:13Z,1,02:20,17:40,Hit,n/a,53.0,-41.0,Christian Fischer,Hitter,Arizona Coyotes,Sam Gagner,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:12:31Z,1,02:38,17:22,Shot,Slap Shot,50.0,0.0,Derek Stepan,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:12:45Z,1,02:52,17:08,Hit,n/a,-97.0,-15.0,Zack Kassian,Hitter,Edmonton Oilers,Aaron Ness,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:13:04Z,1,03:11,16:49,Shot,Wrist Shot,16.0,-15.0,Derek Stepan,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:13:14Z,1,03:21,16:39,Giveaway,n/a,38.0,8.0,Zack Kassian,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:13:27Z,1,03:22,16:38,Hit,n/a,78.0,40.0,Adam Larsson,Hitter,Edmonton Oilers,Lawson Crouse,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:13:55Z,1,04:02,15:58,Blocked Shot,n/a,-73.0,-6.0,Taylor Hall,Blocker,Arizona Coyotes,Caleb Jones,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:14:09Z,1,04:16,15:44,Shot,Wrist Shot,74.0,15.0,Conor Garland,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:14:11Z,1,04:18,15:42,Shot,Snap Shot,79.0,10.0,Christian Dvorak,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:16:09Z,1,04:22,15:38,Giveaway,n/a,91.0,28.0,Matt Benning,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:14:19Z,1,04:26,15:34,Missed Shot,n/a,66.0,4.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:14:39Z,1,04:36,15:24,Shot,Wrist Shot,63.0,3.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:14:52Z,1,04:37,15:23,Faceoff,n/a,69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:15:05Z,1,04:45,15:15,Hit,n/a,-12.0,-38.0,Clayton Keller,Hitter,Arizona Coyotes,Jujhar Khaira,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:16:20Z,1,05:42,14:18,Hit,n/a,57.0,-40.0,Alex Goligoski,Hitter,Arizona Coyotes,Alex Chiasson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:16:04Z,1,05:44,14:16,Hit,n/a,85.0,-36.0,Brad Richardson,Hitter,Arizona Coyotes,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:16:20Z,1,05:45,14:15,Missed Shot,n/a,36.0,-25.0,Christian Fischer,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:16:34Z,1,05:46,14:14,Faceoff,n/a,69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:16:48Z,1,05:56,14:04,Missed Shot,n/a,72.0,-18.0,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:17:02Z,1,06:09,13:51,Giveaway,n/a,38.0,30.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:17:03Z,1,06:10,13:50,Shot,Wrist Shot,76.0,1.0,Conor Garland,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:17:45Z,1,06:10,13:50,Missed Shot,n/a,37.0,7.0,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:17:15Z,1,06:22,13:38,Missed Shot,n/a,-56.0,-31.0,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:18:31Z,1,07:38,12:22,Giveaway,n/a,-1.0,-9.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:19:03Z,1,08:00,12:00,Hit,n/a,34.0,-39.0,Alex Chiasson,Hitter,Edmonton Oilers,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:18:55Z,1,08:02,11:58,Shot,Wrist Shot,35.0,-29.0,Ilya Lyubushkin,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:19:01Z,1,08:04,11:56,Blocked Shot,n/a,73.0,0.0,Ethan Bear,Blocker,Edmonton Oilers,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:21:15Z,1,08:05,11:55,Faceoff,n/a,69.0,22.0,Gaetan Haas,Winner,Edmonton Oilers,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:21:29Z,1,08:13,11:47,Hit,n/a,97.0,9.0,Christian Fischer,Hitter,Arizona Coyotes,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:22:24Z,1,09:08,10:52,Hit,n/a,94.0,29.0,Zack Kassian,Hitter,Edmonton Oilers,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:22:30Z,1,09:13,10:47,Hit,n/a,72.0,-40.0,Josh Archibald,Hitter,Edmonton Oilers,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:22:35Z,1,09:19,10:41,Blocked Shot,n/a,51.0,3.0,Josh Archibald,Blocker,Edmonton Oilers,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:22:46Z,1,09:30,10:30,Shot,Backhand,75.0,9.0,Taylor Hall,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:23:09Z,1,09:32,10:28,Blocked Shot,n/a,80.0,-2.0,Patrick Russell,Blocker,Edmonton Oilers,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:23:30Z,1,10:02,09:58,Hit,n/a,-98.0,1.0,Patrick Russell,Hitter,Edmonton Oilers,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:24:02Z,1,10:46,09:14,Hit,n/a,-62.0,39.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Kailer Yamamoto,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:26:21Z,1,10:46,09:14,Faceoff,n/a,-69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:26:57Z,1,11:18,08:42,Hit,n/a,52.0,41.0,Christian Fischer,Hitter,Arizona Coyotes,Kailer Yamamoto,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:29:21Z,1,11:25,08:35,Giveaway,n/a,39.0,38.0,Carl Soderberg,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:27:35Z,1,11:56,08:04,Blocked Shot,n/a,-71.0,-4.0,Jordan Oesterle,Blocker,Arizona Coyotes,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:28:17Z,1,12:10,07:50,Faceoff,n/a,20.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:28:30Z,1,12:25,07:35,Giveaway,n/a,-77.0,-26.0,Alex Goligoski,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:28:40Z,1,12:34,07:26,Missed Shot,n/a,-79.0,-14.0,Sam Gagner,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:29:13Z,1,12:40,07:20,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:29:20Z,1,12:47,07:13,Blocked Shot,n/a,70.0,-1.0,Caleb Jones,Blocker,Edmonton Oilers,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:30:24Z,1,13:48,06:12,Hit,n/a,-91.0,27.0,Josh Archibald,Hitter,Edmonton Oilers,Aaron Ness,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:30:52Z,1,14:19,05:41,Missed Shot,n/a,-47.0,15.0,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:30:58Z,1,14:25,05:35,Shot,Wrist Shot,-53.0,13.0,Adam Larsson,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:31:06Z,1,14:31,05:29,Takeaway,n/a,-44.0,12.0,Riley Sheahan,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:33:33Z,1,14:49,05:11,Faceoff,n/a,20.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:33:41Z,1,14:56,05:04,Hit,n/a,22.0,-36.0,Jujhar Khaira,Hitter,Edmonton Oilers,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:33:47Z,1,15:01,04:59,Shot,Wrist Shot,39.0,29.0,Jakob Chychrun,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:34:08Z,1,15:02,04:58,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:34:28Z,1,15:08,04:52,Hit,n/a,96.0,7.0,Christian Fischer,Hitter,Arizona Coyotes,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:35:24Z,1,15:33,04:27,Faceoff,n/a,-69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:35:55Z,1,16:02,03:58,Blocked Shot,n/a,-67.0,4.0,Alex Goligoski,Blocker,Arizona Coyotes,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:36:18Z,1,16:25,03:35,Missed Shot,n/a,-47.0,-11.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:36:40Z,1,16:26,03:34,Shot,Wrist Shot,70.0,14.0,Alex Goligoski,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:36:33Z,1,16:38,03:22,Shot,Wrist Shot,67.0,-16.0,Taylor Hall,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:37:04Z,1,16:38,03:22,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:37:13Z,1,16:50,03:10,Missed Shot,n/a,38.0,29.0,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:37:22Z,1,16:59,03:01,Blocked Shot,n/a,82.0,6.0,Matt Benning,Blocker,Edmonton Oilers,Lawson Crouse,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:37:48Z,1,17:25,02:35,Missed Shot,n/a,-80.0,-5.0,Kailer Yamamoto,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:37:52Z,1,17:25,02:35,Penalty,Hooking,-78.0,-1.0,Niklas Hjalmarsson,PenaltyOn,Arizona Coyotes,Kailer Yamamoto,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:38:38Z,1,17:25,02:35,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:39:00Z,1,17:51,02:09,Hit,n/a,-89.0,-28.0,Alex Goligoski,Hitter,Arizona Coyotes,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:39:42Z,1,18:34,01:26,Hit,n/a,90.0,-33.0,Darnell Nurse,Hitter,Edmonton Oilers,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:40:05Z,1,18:56,01:04,Hit,n/a,-33.0,-19.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Leon Draisaitl,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:41:21Z,1,19:11,00:49,Giveaway,n/a,-34.0,6.0,Jakob Chychrun,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:40:35Z,1,19:25,00:35,Shot,Slap Shot,-80.0,31.0,Sam Gagner,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:41:06Z,1,19:26,00:34,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T02:41:36Z,1,19:50,00:10,Blocked Shot,n/a,-53.0,12.0,Carl Soderberg,Blocker,Arizona Coyotes,Adam Larsson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:00:25Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:00:32Z,2,00:09,19:51,Hit,n/a,-9.0,39.0,Conor Garland,Hitter,Arizona Coyotes,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:00:50Z,2,00:18,19:42,Missed Shot,n/a,-40.0,-19.0,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:01:01Z,2,00:38,19:22,Hit,n/a,-80.0,39.0,Josh Archibald,Hitter,Edmonton Oilers,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:01:10Z,2,00:46,19:14,Giveaway,n/a,-40.0,30.0,Phil Kessel,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:02:39Z,2,00:48,19:12,Shot,Wrist Shot,-49.0,36.0,Darnell Nurse,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:01:35Z,2,00:49,19:11,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:01:52Z,2,00:51,19:09,Shot,Wrist Shot,67.0,3.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:02:02Z,2,00:59,19:01,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:03:00Z,2,01:43,18:17,Shot,Wrist Shot,85.0,23.0,Oscar Klefbom,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:03:47Z,2,02:31,17:29,Blocked Shot,n/a,55.0,-7.0,Jordan Oesterle,Blocker,Arizona Coyotes,Matt Benning,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:03:56Z,2,02:39,17:21,Blocked Shot,n/a,75.0,-2.0,Nick Schmaltz,Blocker,Arizona Coyotes,Caleb Jones,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:04:07Z,2,02:51,17:09,Hit,n/a,16.0,-39.0,Matt Benning,Hitter,Edmonton Oilers,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:05:15Z,2,03:59,16:01,Hit,n/a,-94.0,-27.0,Carl Soderberg,Hitter,Arizona Coyotes,Matt Benning,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:05:26Z,2,04:09,15:51,Hit,n/a,97.0,17.0,Jujhar Khaira,Hitter,Edmonton Oilers,Niklas Hjalmarsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:06:02Z,2,04:10,15:50,Faceoff,n/a,69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:06:07Z,2,04:15,15:45,Shot,Wrist Shot,38.0,36.0,Darnell Nurse,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:06:24Z,2,04:16,15:44,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:10:33Z,2,04:32,15:28,Missed Shot,n/a,80.0,19.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:06:48Z,2,04:37,15:23,Blocked Shot,n/a,59.0,2.0,Alex Goligoski,Blocker,Arizona Coyotes,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:06:56Z,2,04:45,15:15,Shot,Wrist Shot,-46.0,-20.0,Jakob Chychrun,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:07:05Z,2,04:50,15:10,Goal,Wrist Shot,-80.0,6.0,Conor Garland,Scorer,Arizona Coyotes,Taylor Hall,Assist,Arizona Coyotes,Jakob Chychrun,Assist,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers
+2020-02-05T03:07:46Z,2,04:50,15:10,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:08:03Z,2,05:08,14:52,Hit,n/a,5.0,-39.0,Adam Larsson,Hitter,Edmonton Oilers,Lawson Crouse,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:09:05Z,2,05:20,14:40,Penalty,Tripping,-53.0,-34.0,Phil Kessel,PenaltyOn,Arizona Coyotes,Kailer Yamamoto,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:09:08Z,2,05:20,14:40,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:09:33Z,2,05:55,14:05,Shot,Snap Shot,64.0,-17.0,Leon Draisaitl,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:09:48Z,2,06:10,13:50,Shot,Wrist Shot,75.0,13.0,Connor McDavid,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:10:11Z,2,06:34,13:26,Giveaway,n/a,52.0,-10.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:10:28Z,2,06:47,13:13,Shot,Wrist Shot,73.0,0.0,Zack Kassian,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:10:32Z,2,06:53,13:07,Blocked Shot,n/a,45.0,14.0,Lawson Crouse,Blocker,Arizona Coyotes,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:10:54Z,2,06:58,13:02,Goal,Wrist Shot,-68.0,-25.0,Lawson Crouse,Scorer,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:11:35Z,2,06:58,13:02,Faceoff,n/a,0.0,0.0,Gaetan Haas,Winner,Edmonton Oilers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:12:16Z,2,07:18,12:42,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:12:23Z,2,07:25,12:35,Blocked Shot,n/a,-64.0,9.0,Jujhar Khaira,Blocker,Edmonton Oilers,Ilya Lyubushkin,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:12:43Z,2,07:44,12:16,Blocked Shot,n/a,57.0,11.0,Derek Stepan,Blocker,Arizona Coyotes,Sam Gagner,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:14:09Z,2,09:08,10:52,Giveaway,n/a,-77.0,38.0,Nick Schmaltz,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:14:26Z,2,09:27,10:33,Shot,Snap Shot,79.0,-15.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:14:33Z,2,09:31,10:29,Shot,Tip-In,76.0,-3.0,Kailer Yamamoto,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:16:36Z,2,09:32,10:28,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:17:22Z,2,09:59,10:01,Shot,Wrap-around,-86.0,7.0,Carl Soderberg,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:17:48Z,2,09:59,10:01,Penalty,Slashing,-83.0,6.0,Adam Larsson,PenaltyOn,Edmonton Oilers,Carl Soderberg,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:18:22Z,2,09:59,10:01,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:18:45Z,2,10:37,09:23,Blocked Shot,n/a,-75.0,5.0,Darnell Nurse,Blocker,Edmonton Oilers,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:19:31Z,2,11:23,08:37,Missed Shot,n/a,-65.0,-13.0,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:19:45Z,2,11:37,08:23,Missed Shot,n/a,57.0,-19.0,Jujhar Khaira,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:19:52Z,2,11:44,08:16,Hit,n/a,-67.0,40.0,Darnell Nurse,Hitter,Edmonton Oilers,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:20:19Z,2,12:12,07:48,Giveaway,n/a,-95.0,-1.0,Clayton Keller,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:21:30Z,2,13:23,06:37,Missed Shot,n/a,-42.0,-6.0,Aaron Ness,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:22:23Z,2,14:03,05:57,Penalty,Interference,-72.0,3.0,Carl Soderberg,PenaltyOn,Arizona Coyotes,Oscar Klefbom,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:24:30Z,2,14:03,05:57,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:24:58Z,2,14:08,05:52,Blocked Shot,n/a,54.0,7.0,Brad Richardson,Blocker,Arizona Coyotes,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:25:24Z,2,14:44,05:16,Giveaway,n/a,88.0,33.0,Alex Goligoski,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:25:30Z,2,15:02,04:58,Shot,Wrist Shot,50.0,15.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:25:52Z,2,15:31,04:29,Blocked Shot,n/a,68.0,7.0,Vinnie Hinostroza,Blocker,Arizona Coyotes,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:26:31Z,2,15:34,04:26,Blocked Shot,n/a,82.0,-17.0,Alex Goligoski,Blocker,Arizona Coyotes,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:26:35Z,2,16:03,03:57,Shot,Wrist Shot,59.0,22.0,Connor McDavid,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:26:50Z,2,16:07,03:53,Shot,Tip-In,78.0,1.0,Zack Kassian,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:29:08Z,2,16:08,03:52,Faceoff,n/a,69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:29:11Z,2,16:16,03:44,Hit,n/a,46.0,39.0,Zack Kassian,Hitter,Edmonton Oilers,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:29:15Z,2,16:33,03:27,Shot,Wrist Shot,44.0,35.0,Darnell Nurse,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:29:31Z,2,16:49,03:11,Giveaway,n/a,40.0,34.0,Sam Gagner,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:29:48Z,2,16:57,03:03,Hit,n/a,-76.0,38.0,Gaetan Haas,Hitter,Edmonton Oilers,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:30:18Z,2,17:35,02:25,Hit,n/a,78.0,-38.0,Riley Sheahan,Hitter,Edmonton Oilers,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:31:05Z,2,17:49,02:11,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:31:10Z,2,18:02,01:58,Shot,Wrist Shot,-85.0,11.0,Derek Stepan,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:31:17Z,2,18:09,01:51,Takeaway,n/a,-97.0,-5.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:31:39Z,2,18:31,01:29,Blocked Shot,n/a,83.0,-7.0,Jakob Chychrun,Blocker,Arizona Coyotes,Josh Archibald,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:31:51Z,2,18:43,01:17,Blocked Shot,n/a,-82.0,-6.0,Oscar Klefbom,Blocker,Edmonton Oilers,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:32:11Z,2,19:02,00:58,Missed Shot,n/a,-52.0,27.0,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:32:17Z,2,19:08,00:52,Blocked Shot,n/a,-53.0,12.0,Josh Archibald,Blocker,Edmonton Oilers,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:32:28Z,2,19:10,00:50,Hit,n/a,-44.0,39.0,Josh Archibald,Hitter,Edmonton Oilers,Brad Richardson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:32:22Z,2,19:13,00:47,Blocked Shot,n/a,-77.0,-6.0,Adam Larsson,Blocker,Edmonton Oilers,Niklas Hjalmarsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:32:51Z,2,19:42,00:18,Shot,Wrist Shot,-62.0,-3.0,Christian Dvorak,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:32:57Z,2,19:48,00:12,Shot,Wrist Shot,65.0,13.0,Leon Draisaitl,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:51:38Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:51:55Z,3,00:19,19:41,Missed Shot,n/a,35.0,30.0,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:52:04Z,3,00:28,19:32,Missed Shot,n/a,72.0,8.0,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:52:41Z,3,01:05,18:55,Hit,n/a,96.0,-27.0,Adam Larsson,Hitter,Edmonton Oilers,Brad Richardson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:52:57Z,3,01:21,18:39,Shot,Slap Shot,-35.0,-30.0,Oscar Klefbom,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:53:15Z,3,01:25,18:35,Blocked Shot,n/a,-74.0,18.0,Jordan Oesterle,Blocker,Arizona Coyotes,Adam Larsson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:53:05Z,3,01:29,18:31,Hit,n/a,-73.0,35.0,Brad Richardson,Hitter,Arizona Coyotes,Adam Larsson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:53:13Z,3,01:37,18:23,Shot,Wrist Shot,-84.0,-13.0,Sam Gagner,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:53:22Z,3,01:46,18:14,Hit,n/a,-64.0,-38.0,Christian Fischer,Hitter,Arizona Coyotes,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:53:31Z,3,01:54,18:06,Shot,Wrist Shot,59.0,-24.0,Christian Fischer,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:54:07Z,3,02:25,17:35,Missed Shot,n/a,61.0,-26.0,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:54:38Z,3,02:27,17:33,Faceoff,n/a,69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:54:43Z,3,02:33,17:27,Hit,n/a,95.0,-17.0,Vinnie Hinostroza,Hitter,Arizona Coyotes,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:55:20Z,3,03:10,16:50,Missed Shot,n/a,87.0,-11.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:55:50Z,3,03:40,16:20,Shot,Slap Shot,-66.0,29.0,Leon Draisaitl,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:56:17Z,3,04:07,15:53,Blocked Shot,n/a,68.0,-3.0,Oscar Klefbom,Blocker,Edmonton Oilers,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:56:46Z,3,04:34,15:26,Missed Shot,n/a,-64.0,-26.0,Sam Gagner,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:56:46Z,3,04:36,15:24,Hit,n/a,-86.0,33.0,Jordan Oesterle,Hitter,Arizona Coyotes,Alex Chiasson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:00:53Z,3,04:43,15:17,Shot,Snap Shot,-89.0,11.0,Alex Chiasson,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:57:09Z,3,04:59,15:01,Blocked Shot,n/a,-71.0,-4.0,Niklas Hjalmarsson,Blocker,Arizona Coyotes,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:58:04Z,3,05:23,14:37,Faceoff,n/a,0.0,0.0,Gaetan Haas,Winner,Edmonton Oilers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:58:37Z,3,05:56,14:04,Shot,Wrist Shot,59.0,28.0,Phil Kessel,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T03:59:04Z,3,06:21,13:39,Shot,Wrist Shot,-47.0,-36.0,Oscar Klefbom,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:01:21Z,3,06:22,13:38,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:01:38Z,3,06:44,13:16,Takeaway,n/a,-39.0,37.0,Jakob Chychrun,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:01:59Z,3,07:05,12:55,Shot,Wrist Shot,-84.0,13.0,Ethan Bear,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:02:05Z,3,07:10,12:50,Shot,Wrist Shot,-81.0,-5.0,Leon Draisaitl,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:03:14Z,3,08:20,11:40,Blocked Shot,n/a,-64.0,-30.0,Carl Soderberg,Blocker,Arizona Coyotes,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:03:21Z,3,08:24,11:36,Penalty,Hi stick - double minor,50.0,17.0,Alex Chiasson,PenaltyOn,Edmonton Oilers,Carl Soderberg,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:04:22Z,3,08:24,11:36,Faceoff,n/a,69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:04:47Z,3,08:52,11:08,Blocked Shot,n/a,70.0,3.0,Adam Larsson,Blocker,Edmonton Oilers,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:05:02Z,3,09:09,10:51,Missed Shot,n/a,54.0,-19.0,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:06:32Z,3,09:10,10:50,Blocked Shot,n/a,82.0,6.0,Josh Archibald,Blocker,Edmonton Oilers,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:06:09Z,3,10:18,09:42,Shot,Wrist Shot,54.0,23.0,Jakob Chychrun,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:06:27Z,3,10:36,09:24,Shot,Wrist Shot,78.0,5.0,Taylor Hall,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:07:29Z,3,11:31,08:29,Shot,Wrist Shot,55.0,21.0,Taylor Hall,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:08:28Z,3,11:32,08:28,Faceoff,n/a,69.0,22.0,Nick Schmaltz,Winner,Arizona Coyotes,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:08:35Z,3,11:38,08:22,Shot,Slap Shot,55.0,-22.0,Jakob Chychrun,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:08:43Z,3,11:45,08:15,Hit,n/a,91.0,32.0,Adam Larsson,Hitter,Edmonton Oilers,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:09:21Z,3,12:24,07:36,Shot,Wrist Shot,54.0,33.0,Lawson Crouse,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:11:36Z,3,12:25,07:35,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:11:59Z,3,12:40,07:20,Blocked Shot,n/a,78.0,0.0,Darnell Nurse,Blocker,Edmonton Oilers,Lawson Crouse,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:12:23Z,3,13:05,06:55,Giveaway,n/a,-23.0,1.0,Darnell Nurse,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:12:28Z,3,13:07,06:53,Shot,Wrist Shot,62.0,11.0,Carl Soderberg,Shooter,Arizona Coyotes,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:13:37Z,3,13:10,06:50,Missed Shot,n/a,83.0,20.0,Christian Fischer,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:13:37Z,3,13:11,06:49,Faceoff,n/a,69.0,22.0,Sam Gagner,Winner,Edmonton Oilers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:13:37Z,3,13:19,06:41,Faceoff,n/a,69.0,22.0,Sam Gagner,Winner,Edmonton Oilers,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:14:12Z,3,13:40,06:20,Hit,n/a,72.0,41.0,Brad Richardson,Hitter,Arizona Coyotes,Matt Benning,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:14:30Z,3,13:51,06:09,Blocked Shot,n/a,-70.0,10.0,Jordan Oesterle,Blocker,Arizona Coyotes,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:14:56Z,3,14:00,06:00,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:15:31Z,3,14:20,05:40,Shot,Wrist Shot,-59.0,-30.0,Darnell Nurse,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:17:36Z,3,14:21,05:39,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:18:01Z,3,14:36,05:24,Shot,Wrist Shot,-82.0,-10.0,Connor McDavid,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:18:12Z,3,14:46,05:14,Blocked Shot,n/a,-52.0,-18.0,Christian Dvorak,Blocker,Arizona Coyotes,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:18:22Z,3,14:57,05:03,Takeaway,n/a,-34.0,20.0,Taylor Hall,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:19:28Z,3,16:02,03:58,Takeaway,n/a,-31.0,39.0,Carl Soderberg,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:19:36Z,3,16:11,03:49,Giveaway,n/a,-69.0,-23.0,Matt Benning,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:20:23Z,3,16:17,03:43,Blocked Shot,n/a,70.0,-1.0,Oscar Klefbom,Blocker,Edmonton Oilers,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:20:44Z,3,16:39,03:21,Faceoff,n/a,-69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:21:17Z,3,16:48,03:12,Faceoff,n/a,-20.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:21:49Z,3,17:15,02:45,Blocked Shot,n/a,-51.0,-12.0,Conor Garland,Blocker,Arizona Coyotes,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:22:22Z,3,17:49,02:11,Blocked Shot,n/a,68.0,11.0,Caleb Jones,Blocker,Edmonton Oilers,Lawson Crouse,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:22:39Z,3,17:49,02:11,Goal,Wrist Shot,45.0,28.0,Christian Dvorak,Scorer,Arizona Coyotes,Lawson Crouse,Assist,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:23:16Z,3,17:49,02:11,Faceoff,n/a,0.0,0.0,Gaetan Haas,Winner,Edmonton Oilers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:23:31Z,3,17:57,02:03,Faceoff,n/a,69.0,-22.0,Gaetan Haas,Winner,Edmonton Oilers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:23:47Z,3,18:13,01:47,Missed Shot,n/a,-42.0,-24.0,Sam Gagner,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:23:54Z,3,18:20,01:40,Missed Shot,n/a,-64.0,-25.0,Sam Gagner,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:24:36Z,3,18:28,01:32,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:24:46Z,3,18:46,01:14,Missed Shot,n/a,-84.0,-19.0,Jujhar Khaira,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:24:53Z,3,18:53,01:07,Shot,Wrist Shot,-72.0,1.0,Riley Sheahan,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:25:46Z,3,19:16,00:44,Penalty,Unsportsmanlike conduct,0.0,2.0,Jakob Chychrun,PenaltyOn,Arizona Coyotes,Jujhar Khaira,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:26:01Z,3,19:16,00:44,Penalty,Unsportsmanlike conduct,1.0,3.0,Jujhar Khaira,PenaltyOn,Edmonton Oilers,Jakob Chychrun,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:26:30Z,3,19:16,00:44,Faceoff,n/a,69.0,22.0,Gaetan Haas,Winner,Edmonton Oilers,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:26:50Z,3,19:30,00:30,Blocked Shot,n/a,-63.0,4.0,Jordan Oesterle,Blocker,Arizona Coyotes,Adam Larsson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:26:52Z,3,19:33,00:27,Shot,Wrist Shot,-81.0,4.0,Adam Larsson,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:27:15Z,3,19:56,00:04,Shot,Wrist Shot,-61.0,17.0,Adam Larsson,Shooter,Edmonton Oilers,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-05T04:27:38Z,3,19:58,00:02,Faceoff,n/a,-69.0,22.0,Gaetan Haas,Winner,Edmonton Oilers,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a

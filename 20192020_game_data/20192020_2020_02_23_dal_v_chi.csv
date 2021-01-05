@@ -1,0 +1,264 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-23T20:13:40Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:14:23Z,1,00:15,19:45,Blocked Shot,n/a,-55.0,-24.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Radek Faksa,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:14:32Z,1,00:23,19:37,Missed Shot,n/a,50.0,-24.0,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:15:00Z,1,00:51,19:09,Giveaway,n/a,-63.0,-39.0,Andrew Cogliano,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:15:17Z,1,01:07,18:53,Hit,n/a,-94.0,27.0,Corey Perry,Hitter,Dallas Stars,Lucas Carlsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:15:34Z,1,01:25,18:35,Takeaway,n/a,43.0,-38.0,John Klingberg,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:15:39Z,1,01:31,18:29,Hit,n/a,51.0,40.0,Brandon Saad,Hitter,Chicago Blackhawks,John Klingberg,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:15:44Z,1,01:35,18:25,Takeaway,n/a,21.0,-14.0,Jamie Benn,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:15:53Z,1,01:44,18:16,Blocked Shot,n/a,-42.0,-27.0,Alex DeBrincat,Blocker,Chicago Blackhawks,Jamie Oleksiak,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:16:13Z,1,01:49,18:11,Hit,n/a,-42.0,-40.0,Connor Murphy,Hitter,Chicago Blackhawks,Jason Dickinson,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:16:32Z,1,02:17,17:43,Hit,n/a,70.0,41.0,Stephen Johns,Hitter,Dallas Stars,Matthew Highmore,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:16:27Z,1,02:18,17:42,Missed Shot,n/a,64.0,32.0,Matthew Highmore,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:17:13Z,1,03:03,16:57,Shot,Backhand,73.0,-33.0,Jonathan Toews,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:17:38Z,1,03:05,16:55,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:17:43Z,1,03:07,16:53,Shot,Wrist Shot,52.0,-19.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:17:51Z,1,03:08,16:52,Faceoff,n/a,69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:18:11Z,1,03:22,16:38,Shot,Deflected,-77.0,5.0,Andrew Cogliano,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:18:35Z,1,03:23,16:37,Faceoff,n/a,-69.0,-22.0,Roope Hintz,Winner,Dallas Stars,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:19:27Z,1,04:10,15:50,Hit,n/a,-46.0,-20.0,Connor Murphy,Hitter,Chicago Blackhawks,John Klingberg,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:19:33Z,1,04:16,15:44,Hit,n/a,-39.0,31.0,Jason Dickinson,Hitter,Dallas Stars,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:19:56Z,1,04:39,15:21,Hit,n/a,-87.0,35.0,Jason Dickinson,Hitter,Dallas Stars,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:19:58Z,1,04:41,15:19,Shot,Wrist Shot,-52.0,-2.0,Jamie Benn,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:20:04Z,1,04:48,15:12,Missed Shot,n/a,-58.0,-5.0,Denis Gurianov,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:20:12Z,1,04:55,15:05,Hit,n/a,-98.0,0.0,Kirby Dach,Hitter,Chicago Blackhawks,Denis Gurianov,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:20:22Z,1,05:05,14:55,Giveaway,n/a,-47.0,40.0,Jason Dickinson,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:20:31Z,1,05:15,14:45,Hit,n/a,88.0,-31.0,Jamie Oleksiak,Hitter,Dallas Stars,Alex DeBrincat,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:20:34Z,1,05:17,14:43,Shot,Snap Shot,81.0,-15.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:20:54Z,1,05:36,14:24,Faceoff,n/a,-69.0,22.0,Joe Pavelski,Winner,Dallas Stars,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:21:29Z,1,05:40,14:20,Blocked Shot,n/a,-64.0,18.0,Duncan Keith,Blocker,Chicago Blackhawks,Alexander Radulov,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:21:46Z,1,05:59,14:01,Hit,n/a,80.0,-38.0,Miro Heiskanen,Hitter,Dallas Stars,Matthew Highmore,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:22:15Z,1,06:29,13:31,Hit,n/a,-94.0,-26.0,Lucas Carlsson,Hitter,Chicago Blackhawks,Andrew Cogliano,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:22:32Z,1,06:45,13:15,Blocked Shot,n/a,-68.0,17.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Blake Comeau,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:23:00Z,1,07:13,12:47,Giveaway,n/a,-15.0,-39.0,Brandon Saad,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:23:15Z,1,07:29,12:31,Shot,Slap Shot,-57.0,18.0,Corey Perry,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:23:31Z,1,07:31,12:29,Takeaway,n/a,-32.0,-5.0,Roope Hintz,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:23:45Z,1,07:56,12:04,Shot,Wrist Shot,-79.0,-34.0,Denis Gurianov,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:23:45Z,1,07:58,12:02,Missed Shot,n/a,-94.0,-18.0,Denis Gurianov,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:23:51Z,1,08:00,12:00,Missed Shot,n/a,-78.0,11.0,Jamie Benn,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:23:58Z,1,08:12,11:48,Giveaway,n/a,70.0,-8.0,Denis Gurianov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:24:08Z,1,08:22,11:38,Hit,n/a,32.0,-39.0,Olli Maatta,Hitter,Chicago Blackhawks,Jason Dickinson,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:24:23Z,1,08:37,11:23,Takeaway,n/a,71.0,-40.0,Miro Heiskanen,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:24:53Z,1,09:06,10:54,Hit,n/a,96.0,23.0,David Kampf,Hitter,Chicago Blackhawks,Andrej Sekera,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:25:01Z,1,09:12,10:48,Hit,n/a,26.0,-36.0,Matthew Highmore,Hitter,Chicago Blackhawks,Joe Pavelski,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:25:02Z,1,09:15,10:45,Shot,Snap Shot,-59.0,-36.0,Andrej Sekera,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:25:08Z,1,09:19,10:41,Hit,n/a,-98.0,-3.0,Joe Pavelski,Hitter,Dallas Stars,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:25:27Z,1,09:41,10:19,Shot,Wrist Shot,-61.0,14.0,Andrew Cogliano,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:25:33Z,1,09:47,10:13,Hit,n/a,-43.0,-37.0,Drake Caggiula,Hitter,Chicago Blackhawks,Andrew Cogliano,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:25:39Z,1,09:52,10:08,Shot,Snap Shot,-61.0,-8.0,Andrew Cogliano,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:25:56Z,1,10:07,09:53,Hit,n/a,-98.0,18.0,Blake Comeau,Hitter,Dallas Stars,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:26:12Z,1,10:12,09:48,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:26:36Z,1,10:18,09:42,Hit,n/a,-65.0,41.0,Dominik Kubalik,Hitter,Chicago Blackhawks,Miro Heiskanen,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:26:49Z,1,10:31,09:29,Missed Shot,n/a,86.0,-31.0,Ryan Carpenter,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:26:55Z,1,10:37,09:23,Blocked Shot,n/a,81.0,5.0,Stephen Johns,Blocker,Dallas Stars,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:27:10Z,1,10:52,09:08,Missed Shot,n/a,-76.0,-7.0,Corey Perry,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:27:51Z,1,11:32,08:28,Shot,Wrist Shot,62.0,13.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:30:04Z,1,11:34,08:26,Faceoff,n/a,69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:30:37Z,1,11:59,08:01,Takeaway,n/a,-28.0,38.0,Stephen Johns,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:30:50Z,1,12:15,07:45,Hit,n/a,-49.0,-38.0,Lucas Carlsson,Hitter,Chicago Blackhawks,Blake Comeau,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:31:17Z,1,12:42,07:18,Hit,n/a,-89.0,-35.0,Joe Pavelski,Hitter,Dallas Stars,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:31:27Z,1,12:52,07:08,Takeaway,n/a,-24.0,-26.0,Andrej Sekera,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:31:32Z,1,12:57,07:03,Hit,n/a,25.0,-5.0,Connor Murphy,Hitter,Chicago Blackhawks,Mattias Janmark,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:32:01Z,1,13:22,06:38,Hit,n/a,-73.0,41.0,Roope Hintz,Hitter,Dallas Stars,Adam Boqvist,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:32:14Z,1,13:39,06:21,Shot,Wrist Shot,-61.0,15.0,Tyler Seguin,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:34:18Z,1,13:53,06:07,Faceoff,n/a,0.0,0.0,Dylan Strome,Winner,Chicago Blackhawks,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:35:20Z,1,14:31,05:29,Missed Shot,n/a,-81.0,-11.0,Denis Gurianov,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:35:48Z,1,14:59,05:01,Missed Shot,n/a,-76.0,-5.0,Mattias Janmark,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:36:06Z,1,15:03,04:57,Blocked Shot,n/a,-52.0,24.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Joe Pavelski,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:35:54Z,1,15:04,04:56,Shot,Slap Shot,-53.0,-21.0,Miro Heiskanen,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:37:18Z,1,15:05,04:55,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Mattias Janmark,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:38:19Z,1,15:13,04:47,Shot,Wrist Shot,-82.0,-12.0,Joe Pavelski,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:38:29Z,1,15:14,04:46,Shot,Wrist Shot,-83.0,-6.0,Joe Pavelski,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:38:37Z,1,15:15,04:45,Faceoff,n/a,-69.0,-22.0,Mattias Janmark,Winner,Dallas Stars,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:38:47Z,1,15:20,04:40,Goal,Wrist Shot,-77.0,3.0,Joe Pavelski,Scorer,Dallas Stars,Alexander Radulov,Assist,Dallas Stars,Mattias Janmark,Assist,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks
+2020-02-23T20:39:26Z,1,15:20,04:40,Faceoff,n/a,0.0,0.0,Ryan Carpenter,Winner,Chicago Blackhawks,Blake Comeau,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:40:19Z,1,16:06,03:54,Hit,n/a,85.0,-36.0,Esa Lindell,Hitter,Dallas Stars,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:40:32Z,1,16:13,03:47,Hit,n/a,54.0,-34.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Esa Lindell,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:41:00Z,1,16:47,03:13,Hit,n/a,67.0,-40.0,Tyler Seguin,Hitter,Dallas Stars,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:41:03Z,1,16:50,03:10,Shot,Wrist Shot,57.0,0.0,Matthew Highmore,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:41:36Z,1,16:50,03:10,Faceoff,n/a,69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:41:46Z,1,16:53,03:07,Shot,Wrist Shot,70.0,-37.0,Connor Murphy,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:41:53Z,1,17:00,03:00,Shot,Wrist Shot,69.0,-34.0,Connor Murphy,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:42:01Z,1,17:04,02:56,Shot,Wrist Shot,39.0,-25.0,Connor Murphy,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:42:33Z,1,17:10,02:50,Penalty,Hooking,83.0,-8.0,John Klingberg,PenaltyOn,Dallas Stars,Kirby Dach,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:42:55Z,1,17:10,02:50,Faceoff,n/a,69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:43:33Z,1,17:51,02:09,Shot,Slap Shot,38.0,-12.0,Duncan Keith,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:43:52Z,1,17:52,02:08,Faceoff,n/a,69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:44:37Z,1,18:34,01:26,Missed Shot,n/a,38.0,-9.0,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:44:45Z,1,18:42,01:18,Blocked Shot,n/a,64.0,-16.0,Esa Lindell,Blocker,Dallas Stars,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:45:00Z,1,18:57,01:03,Missed Shot,n/a,56.0,-19.0,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:45:05Z,1,19:01,00:59,Shot,Slap Shot,40.0,7.0,Duncan Keith,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:45:13Z,1,19:08,00:52,Blocked Shot,n/a,60.0,-11.0,Radek Faksa,Blocker,Dallas Stars,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:45:58Z,1,19:09,00:51,Faceoff,n/a,69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:45:52Z,1,19:15,00:45,Blocked Shot,n/a,65.0,-8.0,Miro Heiskanen,Blocker,Dallas Stars,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:46:00Z,1,19:23,00:37,Hit,n/a,40.0,-37.0,Connor Murphy,Hitter,Chicago Blackhawks,Andrew Cogliano,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T20:46:29Z,1,19:53,00:07,Hit,n/a,98.0,0.0,Miro Heiskanen,Hitter,Dallas Stars,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:04:52Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:05:25Z,2,00:24,19:36,Giveaway,n/a,43.0,29.0,Drake Caggiula,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:05:32Z,2,00:33,19:27,Hit,n/a,85.0,-35.0,Tyler Seguin,Hitter,Dallas Stars,Duncan Keith,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:05:42Z,2,00:40,19:20,Hit,n/a,-96.0,-20.0,Drake Caggiula,Hitter,Chicago Blackhawks,Stephen Johns,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:05:56Z,2,00:59,19:01,Shot,Wrist Shot,-74.0,-16.0,Brandon Saad,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:06:11Z,2,01:12,18:48,Takeaway,n/a,-51.0,-9.0,Radek Faksa,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:06:18Z,2,01:21,18:39,Shot,Wrist Shot,65.0,-36.0,Blake Comeau,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:06:43Z,2,01:45,18:15,Takeaway,n/a,50.0,37.0,Andrej Sekera,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:07:34Z,2,02:17,17:43,Faceoff,n/a,-69.0,22.0,Jason Dickinson,Winner,Dallas Stars,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:08:49Z,2,03:30,16:30,Shot,Wrist Shot,-41.0,-21.0,Jonathan Toews,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:09:06Z,2,03:47,16:13,Shot,Wrist Shot,63.0,-17.0,Corey Perry,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:09:14Z,2,03:52,16:08,Shot,Slap Shot,52.0,9.0,Tyler Seguin,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:09:42Z,2,03:53,16:07,Faceoff,n/a,69.0,22.0,Mattias Janmark,Winner,Dallas Stars,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:10:11Z,2,04:21,15:39,Shot,Backhand,-76.0,13.0,Patrick Kane,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:10:50Z,2,04:34,15:26,Faceoff,n/a,-20.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:11:08Z,2,04:49,15:11,Giveaway,n/a,-19.0,-32.0,Dylan Strome,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:11:49Z,2,05:06,14:54,Penalty,Interference,-86.0,-10.0,Radek Faksa,PenaltyOn,Dallas Stars,Adam Boqvist,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:12:20Z,2,05:06,14:54,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:12:27Z,2,05:10,14:50,Penalty,Interference,-82.0,-1.0,Jonathan Toews,PenaltyOn,Chicago Blackhawks,Tyler Seguin,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:13:09Z,2,05:10,14:50,Faceoff,n/a,69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:13:32Z,2,05:36,14:24,Shot,Slap Shot,-71.0,-19.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:13:44Z,2,05:46,14:14,Missed Shot,n/a,72.0,-10.0,Esa Lindell,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:15:32Z,2,05:54,14:06,Blocked Shot,n/a,-56.0,5.0,Roope Hintz,Blocker,Dallas Stars,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:14:24Z,2,06:00,14:00,Penalty,Hi-sticking,-55.0,-40.0,Roope Hintz,PenaltyOn,Dallas Stars,Alex DeBrincat,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:17:04Z,2,06:00,14:00,Faceoff,n/a,-69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Blake Comeau,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:17:00Z,2,06:01,13:59,Shot,Snap Shot,-67.0,-20.0,Dylan Strome,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:17:28Z,2,06:06,13:54,Faceoff,n/a,-69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:17:42Z,2,06:22,13:38,Shot,Wrist Shot,-39.0,-1.0,Patrick Kane,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:18:14Z,2,06:54,13:06,Shot,Snap Shot,-58.0,-16.0,Patrick Kane,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:18:26Z,2,07:06,12:54,Goal,Slap Shot,-67.0,21.0,Dominik Kubalik,Scorer,Chicago Blackhawks,Patrick Kane,Assist,Chicago Blackhawks,Duncan Keith,Assist,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars
+2020-02-23T21:19:35Z,2,07:06,12:54,Faceoff,n/a,0.0,0.0,Andrew Cogliano,Winner,Dallas Stars,Alex DeBrincat,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:19:39Z,2,07:14,12:46,Takeaway,n/a,-31.0,37.0,Mattias Janmark,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:20:38Z,2,08:11,11:49,Giveaway,n/a,-63.0,36.0,Andrej Sekera,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:20:45Z,2,08:21,11:39,Hit,n/a,98.0,-22.0,Blake Comeau,Hitter,Dallas Stars,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:20:48Z,2,08:24,11:36,Blocked Shot,n/a,77.0,4.0,Connor Murphy,Blocker,Chicago Blackhawks,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:21:23Z,2,08:52,11:08,Hit,n/a,43.0,13.0,Jamie Benn,Hitter,Dallas Stars,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:21:57Z,2,08:54,11:06,Faceoff,n/a,69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:22:02Z,2,09:06,10:54,Shot,Snap Shot,85.0,-20.0,Corey Perry,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:22:17Z,2,09:24,10:36,Blocked Shot,n/a,68.0,-15.0,Olli Maatta,Blocker,Chicago Blackhawks,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:22:23Z,2,09:30,10:30,Shot,Wrist Shot,38.0,-21.0,John Klingberg,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:22:28Z,2,09:35,10:25,Hit,n/a,89.0,34.0,Jamie Benn,Hitter,Dallas Stars,Alex Nylander,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:23:04Z,2,09:41,10:19,Faceoff,n/a,-20.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Mattias Janmark,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:23:11Z,2,09:46,10:14,Penalty,Slashing,13.0,34.0,Alexander Radulov,PenaltyOn,Dallas Stars,Brandon Saad,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:23:54Z,2,09:46,10:14,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:23:54Z,2,09:55,10:05,Shot,Wrist Shot,-49.0,-19.0,Patrick Kane,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:24:06Z,2,10:08,09:52,Giveaway,n/a,98.0,2.0,Corey Crawford,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:24:14Z,2,10:17,09:43,Giveaway,n/a,-54.0,-19.0,Esa Lindell,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:24:50Z,2,10:52,09:08,Shot,Wrist Shot,-85.0,-22.0,Jonathan Toews,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:25:15Z,2,11:17,08:43,Missed Shot,n/a,-59.0,-9.0,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:25:29Z,2,11:31,08:29,Hit,n/a,-98.0,1.0,Andrej Sekera,Hitter,Dallas Stars,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:26:19Z,2,12:20,07:40,Takeaway,n/a,15.0,-39.0,Radek Faksa,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:26:42Z,2,12:43,07:17,Hit,n/a,51.0,40.0,Connor Murphy,Hitter,Chicago Blackhawks,Roope Hintz,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:26:53Z,2,12:55,07:05,Hit,n/a,98.0,15.0,Lucas Carlsson,Hitter,Chicago Blackhawks,Tyler Seguin,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:27:01Z,2,13:03,06:57,Hit,n/a,89.0,-32.0,Roope Hintz,Hitter,Dallas Stars,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:27:23Z,2,13:25,06:35,Shot,Wrist Shot,58.0,27.0,John Klingberg,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:27:42Z,2,13:36,06:24,Penalty,Interference,60.0,39.0,Jamie Oleksiak,PenaltyOn,Dallas Stars,Dominik Kubalik,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:29:36Z,2,13:36,06:24,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:30:21Z,2,13:56,06:04,Blocked Shot,n/a,-71.0,-4.0,Andrej Sekera,Blocker,Dallas Stars,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:30:46Z,2,14:21,05:39,Missed Shot,n/a,-63.0,-15.0,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:31:14Z,2,14:22,05:38,Faceoff,n/a,-69.0,-22.0,Joe Pavelski,Winner,Dallas Stars,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:31:21Z,2,14:27,05:33,Giveaway,n/a,-98.0,2.0,Miro Heiskanen,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:31:36Z,2,14:42,05:18,Blocked Shot,n/a,-56.0,-8.0,Jason Dickinson,Blocker,Dallas Stars,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:31:39Z,2,14:45,05:15,Giveaway,n/a,-74.0,-9.0,Stephen Johns,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:31:44Z,2,14:49,05:11,Shot,Wrist Shot,-41.0,-18.0,Patrick Kane,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:32:07Z,2,14:50,05:10,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:32:30Z,2,15:03,04:57,Giveaway,n/a,-94.0,-25.0,Patrick Kane,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:33:21Z,2,15:55,04:05,Shot,Wrist Shot,48.0,11.0,Stephen Johns,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:35:23Z,2,15:56,04:04,Faceoff,n/a,69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:35:41Z,2,16:10,03:50,Missed Shot,n/a,-82.0,-19.0,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:35:55Z,2,16:23,03:37,Hit,n/a,13.0,-40.0,Corey Perry,Hitter,Dallas Stars,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:36:03Z,2,16:29,03:31,Goal,Wrist Shot,77.0,0.0,Tyler Seguin,Scorer,Dallas Stars,Corey Perry,Assist,Dallas Stars,Jamie Benn,Assist,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks
+2020-02-23T21:37:00Z,2,16:29,03:31,Faceoff,n/a,0.0,0.0,Ryan Carpenter,Winner,Chicago Blackhawks,Mattias Janmark,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:37:14Z,2,16:59,03:01,Shot,Wrist Shot,77.0,4.0,Mattias Janmark,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:37:26Z,2,17:00,03:00,Penalty,PS - Hooking on breakaway,72.0,3.0,Duncan Keith,PenaltyOn,Chicago Blackhawks,Mattias Janmark,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:37:55Z,2,17:00,03:00,Shot,Wrist Shot,79.0,7.0,Mattias Janmark,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:38:32Z,2,17:00,03:00,Faceoff,n/a,69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:39:06Z,2,17:31,02:29,Hit,n/a,86.0,-32.0,Tyler Seguin,Hitter,Dallas Stars,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:39:18Z,2,17:43,02:17,Takeaway,n/a,-98.0,19.0,Jamie Benn,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:40:04Z,2,17:45,02:15,Faceoff,n/a,-69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Mattias Janmark,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:39:53Z,2,17:48,02:12,Shot,Wrist Shot,-36.0,30.0,Adam Boqvist,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:40:16Z,2,17:49,02:11,Faceoff,n/a,-69.0,22.0,Radek Faksa,Winner,Dallas Stars,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:40:25Z,2,17:56,02:04,Hit,n/a,-95.0,27.0,Dylan Strome,Hitter,Chicago Blackhawks,Joe Pavelski,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:40:27Z,2,17:59,02:01,Blocked Shot,n/a,-49.0,-16.0,Joe Pavelski,Blocker,Dallas Stars,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:40:46Z,2,18:17,01:43,Hit,n/a,98.0,18.0,Joe Pavelski,Hitter,Dallas Stars,Adam Boqvist,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:41:01Z,2,18:29,01:31,Hit,n/a,-93.0,-27.0,Alex DeBrincat,Hitter,Chicago Blackhawks,John Klingberg,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:41:27Z,2,18:59,01:01,Missed Shot,n/a,63.0,-16.0,Blake Comeau,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:41:40Z,2,19:09,00:51,Hit,n/a,57.0,-39.0,Andrew Cogliano,Hitter,Dallas Stars,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:41:50Z,2,19:19,00:41,Shot,Wrist Shot,-55.0,-18.0,Ryan Carpenter,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:42:16Z,2,19:20,00:40,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:42:22Z,2,19:24,00:36,Missed Shot,n/a,-38.0,-31.0,Lucas Carlsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T21:42:52Z,2,19:54,00:06,Takeaway,n/a,18.0,32.0,Tyler Seguin,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:01:32Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Blake Comeau,Winner,Dallas Stars,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:02:56Z,3,01:15,18:45,Blocked Shot,n/a,-78.0,18.0,Lucas Carlsson,Blocker,Chicago Blackhawks,Jamie Benn,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:03:17Z,3,01:16,18:44,Faceoff,n/a,-69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:04:00Z,3,01:51,18:09,Takeaway,n/a,20.0,13.0,Mattias Janmark,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:04:11Z,3,02:02,17:58,Shot,Wrap-around,-84.0,-8.0,Alexander Radulov,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:04:24Z,3,02:14,17:46,Giveaway,n/a,69.0,-30.0,Olli Maatta,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:04:42Z,3,02:32,17:28,Blocked Shot,n/a,55.0,-1.0,Jamie Oleksiak,Blocker,Dallas Stars,Dylan Strome,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:04:50Z,3,02:35,17:25,Shot,Wrist Shot,54.0,-35.0,Adam Boqvist,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:05:41Z,3,02:36,17:24,Faceoff,n/a,69.0,-22.0,Andrew Cogliano,Winner,Dallas Stars,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:05:54Z,3,03:07,16:53,Blocked Shot,n/a,44.0,-13.0,Blake Comeau,Blocker,Dallas Stars,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:06:17Z,3,03:12,16:48,Faceoff,n/a,69.0,-22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:06:29Z,3,03:19,16:41,Blocked Shot,n/a,77.0,-8.0,Radek Faksa,Blocker,Dallas Stars,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:07:09Z,3,04:01,15:59,Hit,n/a,49.0,7.0,Esa Lindell,Hitter,Dallas Stars,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:07:16Z,3,04:08,15:52,Blocked Shot,n/a,-76.0,15.0,Olli Maatta,Blocker,Chicago Blackhawks,Roope Hintz,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:07:31Z,3,04:16,15:44,Shot,Wrist Shot,51.0,-20.0,Alex Nylander,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:07:53Z,3,04:17,15:43,Faceoff,n/a,69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:08:09Z,3,04:27,15:33,Shot,Wrist Shot,44.0,-25.0,Adam Boqvist,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:08:18Z,3,04:28,15:32,Faceoff,n/a,69.0,-22.0,Radek Faksa,Winner,Dallas Stars,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:08:39Z,3,04:39,15:21,Missed Shot,n/a,37.0,25.0,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:08:51Z,3,04:49,15:11,Giveaway,n/a,55.0,40.0,Tyler Seguin,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:09:50Z,3,05:50,14:10,Blocked Shot,n/a,67.0,7.0,Mattias Janmark,Blocker,Dallas Stars,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:10:21Z,3,06:19,13:41,Giveaway,n/a,28.0,-30.0,Joe Pavelski,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:10:38Z,3,06:38,13:22,Hit,n/a,45.0,40.0,Dominik Kubalik,Hitter,Chicago Blackhawks,Denis Gurianov,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:10:49Z,3,06:49,13:11,Takeaway,n/a,26.0,-31.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:11:04Z,3,07:05,12:55,Giveaway,n/a,79.0,38.0,Dominik Kubalik,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:11:22Z,3,07:18,12:42,Shot,Wrap-around,-82.0,8.0,Radek Faksa,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:11:28Z,3,07:20,12:40,Missed Shot,n/a,-75.0,18.0,Radek Faksa,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:11:38Z,3,07:31,12:29,Hit,n/a,40.0,-40.0,Andrew Cogliano,Hitter,Dallas Stars,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:11:39Z,3,07:39,12:21,Blocked Shot,n/a,42.0,-19.0,Andrew Cogliano,Blocker,Dallas Stars,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:11:47Z,3,07:47,12:13,Shot,Wrist Shot,55.0,34.0,Brandon Saad,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:11:57Z,3,07:57,12:03,Hit,n/a,94.0,-28.0,John Klingberg,Hitter,Dallas Stars,Drake Caggiula,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:12:23Z,3,08:20,11:40,Shot,Slap Shot,-38.0,21.0,Stephen Johns,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:14:24Z,3,08:21,11:39,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:14:46Z,3,08:24,11:36,Shot,Wrist Shot,-41.0,30.0,John Klingberg,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:14:55Z,3,08:26,11:34,Faceoff,n/a,-69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:16:17Z,3,09:11,10:49,Faceoff,n/a,-20.0,22.0,Joe Pavelski,Winner,Dallas Stars,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:17:24Z,3,10:13,09:47,Giveaway,n/a,-49.0,-37.0,Patrick Kane,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:17:28Z,3,10:16,09:44,Shot,Wrist Shot,-75.0,12.0,Blake Comeau,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:19:17Z,3,10:17,09:43,Faceoff,n/a,-69.0,22.0,Radek Faksa,Winner,Dallas Stars,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:20:08Z,3,10:45,09:15,Shot,Wrist Shot,-38.0,-26.0,Esa Lindell,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:20:34Z,3,11:11,08:49,Blocked Shot,n/a,74.0,5.0,Andrej Sekera,Blocker,Dallas Stars,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:20:50Z,3,11:23,08:37,Giveaway,n/a,70.0,-10.0,Esa Lindell,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:20:57Z,3,11:31,08:29,Takeaway,n/a,20.0,38.0,Radek Faksa,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:21:35Z,3,11:52,08:08,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:21:57Z,3,12:05,07:55,Giveaway,n/a,39.0,39.0,Jamie Benn,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:22:24Z,3,12:36,07:24,Giveaway,n/a,73.0,22.0,Tyler Seguin,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:22:30Z,3,12:43,07:17,Giveaway,n/a,17.0,-37.0,Adam Boqvist,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:22:58Z,3,13:11,06:49,Shot,Wrist Shot,-53.0,-30.0,John Klingberg,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:23:24Z,3,13:12,06:48,Faceoff,n/a,-69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:23:38Z,3,13:19,06:41,Faceoff,n/a,-69.0,-22.0,Roope Hintz,Winner,Dallas Stars,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:24:19Z,3,13:46,06:14,Shot,Wrist Shot,-80.0,-1.0,Denis Gurianov,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:24:41Z,3,14:02,05:58,Takeaway,n/a,-21.0,-38.0,Andrew Cogliano,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:24:51Z,3,14:10,05:50,Takeaway,n/a,4.0,-40.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:24:55Z,3,14:19,05:41,Shot,Wrist Shot,-38.0,-26.0,Esa Lindell,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:26:53Z,3,14:20,05:40,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:27:50Z,3,14:59,05:01,Takeaway,n/a,-19.0,30.0,Tyler Seguin,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:28:01Z,3,15:09,04:51,Giveaway,n/a,-45.0,-27.0,Jamie Oleksiak,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:28:07Z,3,15:15,04:45,Giveaway,n/a,-31.0,-18.0,Patrick Kane,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:28:18Z,3,15:26,04:34,Giveaway,n/a,-51.0,36.0,Dylan Strome,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:28:28Z,3,15:36,04:24,Takeaway,n/a,-47.0,33.0,Alexander Radulov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:28:33Z,3,15:41,04:19,Shot,Backhand,-81.0,12.0,Alexander Radulov,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:29:24Z,3,16:32,03:28,Giveaway,n/a,46.0,40.0,Miro Heiskanen,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:29:37Z,3,16:44,03:16,Shot,Wrist Shot,-73.0,1.0,Denis Gurianov,Shooter,Dallas Stars,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:30:08Z,3,16:45,03:15,Faceoff,n/a,-20.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:30:33Z,3,17:08,02:52,Giveaway,n/a,-87.0,33.0,Dominik Kubalik,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:30:54Z,3,17:29,02:31,Missed Shot,n/a,47.0,9.0,Brandon Saad,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:31:23Z,3,17:54,02:06,Takeaway,n/a,84.0,-35.0,Miro Heiskanen,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:31:23Z,3,17:58,02:02,Shot,Wrist Shot,95.0,-21.0,Kirby Dach,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:31:34Z,3,18:00,02:00,Blocked Shot,n/a,75.0,0.0,Miro Heiskanen,Blocker,Dallas Stars,Dylan Strome,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:31:34Z,3,18:01,01:59,Shot,Slap Shot,41.0,19.0,Olli Maatta,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:32:02Z,3,18:03,01:57,Shot,Wrist Shot,73.0,-1.0,Kirby Dach,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:32:44Z,3,18:04,01:56,Faceoff,n/a,69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:32:36Z,3,18:12,01:48,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:33:46Z,3,18:53,01:07,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:34:20Z,3,19:16,00:44,Shot,Slap Shot,59.0,-23.0,Jonathan Toews,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:34:54Z,3,19:50,00:10,Shot,Wrist Shot,41.0,13.0,Patrick Kane,Shooter,Chicago Blackhawks,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-23T22:35:02Z,3,19:58,00:02,Blocked Shot,n/a,51.0,12.0,Andrew Cogliano,Blocker,Dallas Stars,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a

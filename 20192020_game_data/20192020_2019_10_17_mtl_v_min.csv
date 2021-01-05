@@ -1,0 +1,284 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-18T00:07:04Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Mikko Koivu,Winner,Minnesota Wild,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:08:26Z,1,00:12,19:48,Hit,n/a,99.0,-9.0,Jason Zucker,Hitter,Minnesota Wild,Victor Mete,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:08:36Z,1,00:22,19:38,Blocked Shot,n/a,-81.0,-3.0,Jonas Brodin,Blocker,Minnesota Wild,Brendan Gallagher,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:08:48Z,1,00:33,19:27,Shot,Wrist Shot,-89.0,30.0,Brendan Gallagher,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:09:01Z,1,00:34,19:26,Blocked Shot,n/a,-59.0,3.0,Jason Zucker,Blocker,Minnesota Wild,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:09:16Z,1,00:37,19:23,Faceoff,n/a,20.0,22.0,Max Domi,Winner,Montréal Canadiens,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:10:01Z,1,01:13,18:47,Takeaway,n/a,26.0,21.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:10:04Z,1,01:24,18:36,Shot,Wrist Shot,-62.0,-28.0,Jonathan Drouin,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:10:16Z,1,01:25,18:35,Faceoff,n/a,-69.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:10:54Z,1,01:40,18:20,Hit,n/a,-35.0,42.0,Jesperi Kotkaniemi,Hitter,Montréal Canadiens,Joel Eriksson Ek,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:10:49Z,1,01:50,18:10,Missed Shot,n/a,-12.0,-3.0,Cale Fleury,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:11:16Z,1,02:13,17:47,Shot,Wrist Shot,-21.0,28.0,Gerald Mayhew,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:11:26Z,1,02:30,17:30,Shot,Wrist Shot,54.0,-22.0,Gerald Mayhew,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:11:59Z,1,03:00,17:00,Shot,Slap Shot,-31.0,2.0,Jeff Petry,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:12:33Z,1,03:17,16:43,Penalty,Hi-sticking,-29.0,23.0,Zach Parise,PenaltyOn,Minnesota Wild,Brendan Gallagher,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:13:28Z,1,03:17,16:43,Faceoff,n/a,-69.0,-22.0,Nick Suzuki,Winner,Montréal Canadiens,Luke Kunin,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:14:17Z,1,03:59,16:01,Faceoff,n/a,-20.0,-22.0,Ryan Hartman,Winner,Minnesota Wild,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:14:20Z,1,04:04,15:56,Shot,Wrist Shot,-65.0,-19.0,Brendan Gallagher,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:14:24Z,1,04:08,15:52,Takeaway,n/a,-99.0,-9.0,Matt Dumba,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:14:42Z,1,04:25,15:35,Giveaway,n/a,-28.0,35.0,Jonas Brodin,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:14:54Z,1,04:39,15:21,Missed Shot,n/a,31.0,27.0,Jordan Greenway,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:15:07Z,1,04:50,15:10,Takeaway,n/a,6.0,30.0,Luke Kunin,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:15:22Z,1,05:07,14:53,Shot,Backhand,-69.0,38.0,Artturi Lehkonen,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:16:04Z,1,05:48,14:12,Hit,n/a,69.0,42.0,Cale Fleury,Hitter,Montréal Canadiens,Nick Seeler,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:16:26Z,1,06:10,13:50,Hit,n/a,-27.0,-40.0,Phillip Danault,Hitter,Montréal Canadiens,Matt Dumba,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:16:34Z,1,06:19,13:41,Shot,Slap Shot,71.0,-20.0,Jonas Brodin,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:16:43Z,1,06:26,13:34,Missed Shot,n/a,68.0,26.0,Ryan Donato,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:19:43Z,1,06:33,13:27,Faceoff,n/a,-69.0,-22.0,Jesperi Kotkaniemi,Winner,Montréal Canadiens,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:17:37Z,1,06:38,13:22,Missed Shot,n/a,-81.0,-17.0,Jonathan Drouin,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:17:29Z,1,06:39,13:21,Faceoff,n/a,69.0,22.0,Jesperi Kotkaniemi,Winner,Montréal Canadiens,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:20:39Z,1,07:32,12:28,Shot,Slap Shot,-39.0,-21.0,Cale Fleury,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:21:03Z,1,07:33,12:27,Faceoff,n/a,-69.0,22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:21:13Z,1,07:40,12:20,Giveaway,n/a,-30.0,-41.0,Brad Hunt,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:21:37Z,1,08:04,11:56,Hit,n/a,99.0,22.0,Marcus Foligno,Hitter,Minnesota Wild,Cale Fleury,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:22:21Z,1,08:35,11:25,Faceoff,n/a,69.0,22.0,Eric Staal,Winner,Minnesota Wild,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:22:21Z,1,08:37,11:23,Blocked Shot,n/a,53.0,23.0,Nate Thompson,Blocker,Montréal Canadiens,Jonas Brodin,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:22:44Z,1,08:42,11:18,Blocked Shot,n/a,58.0,-1.0,Brett Kulak,Blocker,Montréal Canadiens,Kevin Fiala,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:23:02Z,1,09:00,11:00,Hit,n/a,90.0,-35.0,Nick Cousins,Hitter,Montréal Canadiens,Matt Dumba,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:23:11Z,1,09:08,10:52,Shot,Backhand,-57.0,36.0,Brett Kulak,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:23:38Z,1,09:09,10:51,Faceoff,n/a,-69.0,22.0,Mikko Koivu,Winner,Minnesota Wild,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:24:04Z,1,09:16,10:44,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:24:34Z,1,09:29,10:31,Hit,n/a,67.0,42.0,Shea Weber,Hitter,Montréal Canadiens,Zach Parise,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:24:50Z,1,09:45,10:15,Shot,Wrist Shot,78.0,-33.0,Jared Spurgeon,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:25:11Z,1,09:46,10:14,Faceoff,n/a,69.0,-22.0,Jesperi Kotkaniemi,Winner,Montréal Canadiens,Gerald Mayhew,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:25:32Z,1,09:52,10:08,Hit,n/a,99.0,-20.0,Jordan Greenway,Hitter,Minnesota Wild,Cale Fleury,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:25:43Z,1,10:00,10:00,Hit,n/a,-17.0,42.0,Gerald Mayhew,Hitter,Minnesota Wild,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:26:09Z,1,10:11,09:49,Missed Shot,n/a,-81.0,-2.0,Jonathan Drouin,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:28:09Z,1,10:12,09:48,Faceoff,n/a,-69.0,-22.0,Max Domi,Winner,Montréal Canadiens,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:28:19Z,1,10:23,09:37,Hit,n/a,-32.0,40.0,Marcus Foligno,Hitter,Minnesota Wild,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:28:40Z,1,10:30,09:30,Faceoff,n/a,-69.0,-22.0,Max Domi,Winner,Montréal Canadiens,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:28:50Z,1,10:32,09:28,Missed Shot,n/a,-33.0,-30.0,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:29:08Z,1,10:33,09:27,Faceoff,n/a,-69.0,-22.0,Luke Kunin,Winner,Minnesota Wild,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:29:34Z,1,10:43,09:17,Penalty,Holding,-70.0,-28.0,Artturi Lehkonen,PenaltyOn,Montréal Canadiens,Jared Spurgeon,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:30:02Z,1,10:43,09:17,Faceoff,n/a,69.0,22.0,Eric Staal,Winner,Minnesota Wild,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:30:05Z,1,10:51,09:09,Missed Shot,n/a,45.0,-25.0,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:22:55Z,1,10:52,09:08,Blocked Shot,n/a,79.0,6.0,Paul Byron,Blocker,Montréal Canadiens,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:30:14Z,1,10:55,09:05,Giveaway,n/a,29.0,23.0,Shea Weber,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:30:41Z,1,11:25,08:35,Shot,Wrist Shot,72.0,-4.0,Kevin Fiala,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:30:49Z,1,11:35,08:25,Shot,Slap Shot,-55.0,20.0,Phillip Danault,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:31:15Z,1,11:56,08:04,Hit,n/a,99.0,-4.0,Ben Chiarot,Hitter,Montréal Canadiens,Ryan Donato,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:31:24Z,1,12:08,07:52,Blocked Shot,n/a,75.0,11.0,Victor Mete,Blocker,Montréal Canadiens,Ryan Donato,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:31:49Z,1,12:33,07:27,Blocked Shot,n/a,79.0,7.0,Shea Weber,Blocker,Montréal Canadiens,Ryan Donato,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:31:52Z,1,12:35,07:25,Giveaway,n/a,68.0,42.0,Ben Chiarot,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:32:25Z,1,12:41,07:19,Faceoff,n/a,69.0,22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:32:56Z,1,12:57,07:03,Shot,Wrist Shot,-41.0,-21.0,Brett Kulak,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:33:09Z,1,12:58,07:02,Faceoff,n/a,-69.0,-22.0,Luke Kunin,Winner,Minnesota Wild,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:32:46Z,1,13:00,07:00,Blocked Shot,n/a,-64.0,-17.0,Jonas Brodin,Blocker,Minnesota Wild,Brendan Gallagher,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:33:35Z,1,13:06,06:54,Giveaway,n/a,-47.0,41.0,Joel Eriksson Ek,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:33:40Z,1,13:12,06:48,Giveaway,n/a,-29.0,-38.0,Luke Kunin,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:34:15Z,1,13:46,06:14,Giveaway,n/a,19.0,27.0,Brett Kulak,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:34:24Z,1,13:56,06:04,Hit,n/a,97.0,-1.0,Brett Kulak,Hitter,Montréal Canadiens,Jared Spurgeon,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:35:09Z,1,14:21,05:39,Faceoff,n/a,69.0,22.0,Eric Staal,Winner,Minnesota Wild,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:35:33Z,1,14:35,05:25,Takeaway,n/a,-99.0,-19.0,Nick Cousins,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:35:33Z,1,14:37,05:23,Goal,Snap Shot,-69.0,0.0,Victor Mete,Scorer,Montréal Canadiens,Nick Cousins,Assist,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a
+2019-10-17T23:36:19Z,1,14:37,05:23,Faceoff,n/a,0.0,0.0,Mikko Koivu,Winner,Minnesota Wild,Brendan Gallagher,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:39:24Z,1,15:13,04:47,Faceoff,n/a,-20.0,22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:39:40Z,1,15:30,04:30,Missed Shot,n/a,-38.0,18.0,Joel Armia,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:39:52Z,1,15:41,04:19,Hit,n/a,-99.0,7.0,Nick Seeler,Hitter,Minnesota Wild,Joel Armia,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:40:00Z,1,15:50,04:10,Giveaway,n/a,-29.0,11.0,Joel Eriksson Ek,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:40:24Z,1,16:02,03:58,Penalty,Delaying Game - Puck over glass,-76.0,-41.0,Nick Seeler,PenaltyOn,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:40:54Z,1,16:02,03:58,Faceoff,n/a,-69.0,-22.0,Mikko Koivu,Winner,Minnesota Wild,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:41:46Z,1,16:41,03:19,Giveaway,n/a,-74.0,-8.0,Nick Suzuki,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:41:51Z,1,16:46,03:14,Shot,Wrist Shot,-67.0,23.0,Max Domi,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:42:33Z,1,16:47,03:13,Faceoff,n/a,-69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:42:23Z,1,16:57,03:03,Shot,Slap Shot,-36.0,-5.0,Jonathan Drouin,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:42:32Z,1,17:05,02:55,Shot,Wrist Shot,55.0,-16.0,Joel Eriksson Ek,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:42:51Z,1,17:18,02:42,Penalty,Hi-sticking,-94.0,-30.0,Luke Kunin,PenaltyOn,Minnesota Wild,Jonathan Drouin,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:43:43Z,1,17:18,02:42,Faceoff,n/a,-69.0,-22.0,Max Domi,Winner,Montréal Canadiens,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:44:04Z,1,17:32,02:28,Goal,Backhand,-82.0,-10.0,Joel Armia,Scorer,Montréal Canadiens,Jonathan Drouin,Assist,Montréal Canadiens,Shea Weber,Assist,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild
+2019-10-17T23:45:05Z,1,17:32,02:28,Faceoff,n/a,0.0,0.0,Nick Cousins,Winner,Montréal Canadiens,Marcus Foligno,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:45:19Z,1,17:44,02:16,Takeaway,n/a,-32.0,23.0,Joel Eriksson Ek,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:45:45Z,1,18:13,01:47,Shot,Wrist Shot,-61.0,6.0,Brendan Gallagher,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:46:06Z,1,18:34,01:26,Missed Shot,n/a,-31.0,16.0,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:46:11Z,1,18:38,01:22,Giveaway,n/a,-29.0,28.0,Jonas Brodin,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:46:58Z,1,19:21,00:39,Blocked Shot,n/a,-60.0,11.0,Jason Zucker,Blocker,Minnesota Wild,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:47:08Z,1,19:23,00:37,Goal,Backhand,-82.0,-8.0,Nick Suzuki,Scorer,Montréal Canadiens,Jeff Petry,Assist,Montréal Canadiens,Max Domi,Assist,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild
+2019-10-17T23:47:46Z,1,19:23,00:37,Faceoff,n/a,0.0,0.0,Eric Staal,Winner,Minnesota Wild,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-17T23:48:27Z,1,19:42,00:18,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:00:16Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Eric Staal,Winner,Minnesota Wild,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:07:38Z,2,00:35,19:25,Giveaway,n/a,28.0,33.0,Jonas Brodin,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:08:02Z,2,01:01,18:59,Missed Shot,n/a,-41.0,-35.0,Ryan Suter,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:08:20Z,2,01:18,18:42,Blocked Shot,n/a,80.0,-3.0,Jared Spurgeon,Blocker,Minnesota Wild,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:08:38Z,2,01:22,18:38,Penalty,Hooking,78.0,-1.0,Jason Zucker,PenaltyOn,Minnesota Wild,Artturi Lehkonen,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:09:09Z,2,01:22,18:38,Faceoff,n/a,69.0,22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:09:43Z,2,02:04,17:56,Missed Shot,n/a,-53.0,31.0,Joel Eriksson Ek,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:10:05Z,2,02:24,17:36,Giveaway,n/a,-5.0,-34.0,Max Domi,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:10:28Z,2,02:26,17:34,Penalty,Holding,-77.0,-21.0,Shea Weber,PenaltyOn,Montréal Canadiens,Jordan Greenway,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:11:06Z,2,02:26,17:34,Faceoff,n/a,-69.0,-22.0,Jesperi Kotkaniemi,Winner,Montréal Canadiens,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:11:08Z,2,02:44,17:16,Hit,n/a,80.0,-39.0,Ryan Suter,Hitter,Minnesota Wild,Brett Kulak,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:11:17Z,2,02:48,17:12,Shot,Wrist Shot,-49.0,-20.0,Luke Kunin,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:11:53Z,2,02:50,17:10,Faceoff,n/a,-69.0,22.0,Mikko Koivu,Winner,Minnesota Wild,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:12:34Z,2,03:36,16:24,Shot,Wrist Shot,-77.0,-10.0,Kevin Fiala,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:12:39Z,2,03:41,16:19,Missed Shot,n/a,-35.0,19.0,Ryan Suter,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:12:52Z,2,03:54,16:06,Shot,Slap Shot,-35.0,31.0,Kevin Fiala,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:13:19Z,2,03:55,16:05,Faceoff,n/a,-69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:13:30Z,2,04:04,15:56,Giveaway,n/a,-31.0,-40.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:14:07Z,2,04:40,15:20,Hit,n/a,-36.0,40.0,Ben Chiarot,Hitter,Montréal Canadiens,Gerald Mayhew,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:14:14Z,2,04:45,15:15,Hit,n/a,-70.0,41.0,Jeff Petry,Hitter,Montréal Canadiens,Gerald Mayhew,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:14:47Z,2,04:48,15:12,Penalty,Holding,-91.0,-16.0,Gerald Mayhew,PenaltyOn,Minnesota Wild,Max Domi,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:16:17Z,2,04:48,15:12,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:15:39Z,2,05:02,14:58,Blocked Shot,n/a,74.0,-2.0,Joel Eriksson Ek,Blocker,Minnesota Wild,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:15:39Z,2,05:19,14:41,Blocked Shot,n/a,34.0,-2.0,Joel Eriksson Ek,Blocker,Minnesota Wild,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:15:39Z,2,05:29,14:31,Blocked Shot,n/a,-38.0,-11.0,Joel Eriksson Ek,Blocker,Minnesota Wild,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:15:39Z,2,05:30,14:30,Blocked Shot,n/a,73.0,6.0,Joel Eriksson Ek,Blocker,Minnesota Wild,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:15:50Z,2,05:40,14:20,Blocked Shot,n/a,70.0,-9.0,Jared Spurgeon,Blocker,Minnesota Wild,Brendan Gallagher,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:16:15Z,2,06:05,13:55,Giveaway,n/a,64.0,41.0,Ryan Suter,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:16:17Z,2,06:08,13:52,Shot,Tip-In,-19.0,0.0,Nick Suzuki,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:17:09Z,2,06:59,13:01,Blocked Shot,n/a,-75.0,-4.0,Cale Fleury,Blocker,Montréal Canadiens,Nick Seeler,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:17:25Z,2,07:16,12:44,Shot,Wrist Shot,71.0,39.0,Artturi Lehkonen,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:19:39Z,2,07:18,12:42,Faceoff,n/a,69.0,22.0,Max Domi,Winner,Montréal Canadiens,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:19:58Z,2,07:23,12:37,Faceoff,n/a,69.0,22.0,Eric Staal,Winner,Minnesota Wild,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:21:11Z,2,07:53,12:07,Faceoff,n/a,-69.0,-22.0,Ryan Donato,Winner,Minnesota Wild,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:21:06Z,2,07:54,12:06,Missed Shot,n/a,-35.0,-22.0,Nick Seeler,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:21:18Z,2,08:06,11:54,Missed Shot,n/a,-46.0,-5.0,Brad Hunt,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:21:19Z,2,08:07,11:53,Missed Shot,n/a,45.0,-18.0,Nick Suzuki,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:21:55Z,2,08:20,11:40,Shot,Wrist Shot,67.0,-8.0,Nick Cousins,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:21:44Z,2,08:32,11:28,Blocked Shot,n/a,74.0,3.0,Ben Chiarot,Blocker,Montréal Canadiens,Gerald Mayhew,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:22:08Z,2,08:57,11:03,Giveaway,n/a,28.0,-29.0,Kevin Fiala,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:22:32Z,2,09:00,11:00,Faceoff,n/a,69.0,22.0,Ryan Donato,Winner,Minnesota Wild,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:22:57Z,2,09:19,10:41,Takeaway,n/a,-9.0,-39.0,Jordan Greenway,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:23:20Z,2,09:30,10:30,Penalty,Interference,-99.0,-6.0,Tomas Tatar,PenaltyOn,Montréal Canadiens,Jordan Greenway,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:24:01Z,2,09:30,10:30,Faceoff,n/a,-69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:24:07Z,2,09:45,10:15,Takeaway,n/a,-15.0,-30.0,Matt Dumba,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:24:38Z,2,10:16,09:44,Missed Shot,n/a,-68.0,22.0,Eric Staal,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:25:01Z,2,10:39,09:21,Blocked Shot,n/a,-80.0,-2.0,Shea Weber,Blocker,Montréal Canadiens,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:25:10Z,2,10:46,09:14,Shot,Backhand,-71.0,-2.0,Zach Parise,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:25:59Z,2,11:34,08:26,Hit,n/a,-98.0,18.0,Jason Zucker,Hitter,Minnesota Wild,Victor Mete,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:26:08Z,2,11:36,08:24,Giveaway,n/a,-29.0,18.0,Victor Mete,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:26:00Z,2,11:38,08:22,Blocked Shot,n/a,-74.0,5.0,Jeff Petry,Blocker,Montréal Canadiens,Ryan Donato,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:26:09Z,2,11:46,08:14,Blocked Shot,n/a,-60.0,24.0,Artturi Lehkonen,Blocker,Montréal Canadiens,Jared Spurgeon,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:26:42Z,2,12:20,07:40,Missed Shot,n/a,42.0,29.0,Joel Armia,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:27:02Z,2,12:40,07:20,Giveaway,n/a,-57.0,-38.0,Cale Fleury,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:27:04Z,2,12:41,07:19,Blocked Shot,n/a,-77.0,-6.0,Jesperi Kotkaniemi,Blocker,Montréal Canadiens,Joel Eriksson Ek,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:29:29Z,2,12:41,07:19,Faceoff,n/a,-69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:29:30Z,2,12:57,07:03,Hit,n/a,-98.0,18.0,Shea Weber,Hitter,Montréal Canadiens,Zach Parise,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:29:46Z,2,13:10,06:50,Giveaway,n/a,-80.0,41.0,Tomas Tatar,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:30:01Z,2,13:17,06:43,Shot,Wrist Shot,46.0,-19.0,Tomas Tatar,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:30:25Z,2,13:18,06:42,Faceoff,n/a,69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Ryan Donato,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:30:55Z,2,13:28,06:32,Faceoff,n/a,69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Ryan Donato,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:31:20Z,2,13:44,06:16,Hit,n/a,92.0,-31.0,Jonas Brodin,Hitter,Minnesota Wild,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:31:39Z,2,14:03,05:57,Hit,n/a,34.0,-42.0,Jordan Greenway,Hitter,Minnesota Wild,Cale Fleury,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:32:10Z,2,14:34,05:26,Hit,n/a,-72.0,41.0,Ryan Hartman,Hitter,Minnesota Wild,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:32:13Z,2,14:36,05:24,Shot,Slap Shot,-36.0,22.0,Brad Hunt,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:32:20Z,2,14:44,05:16,Blocked Shot,n/a,-75.0,-4.0,Ben Chiarot,Blocker,Montréal Canadiens,Luke Kunin,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:32:54Z,2,14:55,05:05,Faceoff,n/a,-69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:33:29Z,2,15:21,04:39,Hit,n/a,-99.0,-6.0,Eric Staal,Hitter,Minnesota Wild,Jeff Petry,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:33:30Z,2,15:21,04:39,Missed Shot,n/a,-38.0,30.0,Jared Spurgeon,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:33:36Z,2,15:28,04:32,Blocked Shot,n/a,-81.0,-5.0,Jeff Petry,Blocker,Montréal Canadiens,Ryan Suter,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:33:44Z,2,15:35,04:25,Blocked Shot,n/a,-75.0,16.0,Paul Byron,Blocker,Montréal Canadiens,Ryan Suter,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:34:00Z,2,15:50,04:10,Missed Shot,n/a,-41.0,1.0,Brett Kulak,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:35:11Z,2,15:50,04:10,Missed Shot,n/a,-54.0,-7.0,Marcus Foligno,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:34:39Z,2,15:51,04:09,Blocked Shot,n/a,-80.0,0.0,Cale Fleury,Blocker,Montréal Canadiens,Marcus Foligno,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:34:39Z,2,15:51,04:09,Faceoff,n/a,-69.0,-22.0,Max Domi,Winner,Montréal Canadiens,Marcus Foligno,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:36:43Z,2,16:09,03:51,Hit,n/a,-4.0,-42.0,Cale Fleury,Hitter,Montréal Canadiens,Marcus Foligno,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:36:51Z,2,16:17,03:43,Hit,n/a,-22.0,-40.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Jordan Greenway,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:36:54Z,2,16:20,03:40,Blocked Shot,n/a,-77.0,14.0,Cale Fleury,Blocker,Montréal Canadiens,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:37:45Z,2,17:11,02:49,Shot,Wrist Shot,-34.0,-28.0,Nick Seeler,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:38:10Z,2,17:12,02:48,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:38:34Z,2,17:25,02:35,Shot,Wrist Shot,59.0,8.0,Victor Mete,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:38:59Z,2,17:26,02:34,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:39:28Z,2,17:29,02:31,Shot,Wrist Shot,32.0,19.0,Brett Kulak,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:39:47Z,2,17:48,02:12,Blocked Shot,n/a,-78.0,-1.0,Brett Kulak,Blocker,Montréal Canadiens,Zach Parise,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:39:56Z,2,17:55,02:05,Blocked Shot,n/a,70.0,-2.0,Jonas Brodin,Blocker,Minnesota Wild,Brendan Gallagher,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:40:00Z,2,18:01,01:59,Takeaway,n/a,-29.0,-35.0,Jason Zucker,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:40:24Z,2,18:25,01:35,Giveaway,n/a,-44.0,-41.0,Joel Armia,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:40:49Z,2,18:50,01:10,Takeaway,n/a,83.0,40.0,Jesperi Kotkaniemi,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:41:10Z,2,19:11,00:49,Shot,Wrist Shot,19.0,-1.0,Joel Armia,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:41:28Z,2,19:29,00:31,Hit,n/a,-78.0,41.0,Ben Chiarot,Hitter,Montréal Canadiens,Ryan Donato,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T00:42:03Z,2,19:58,00:02,Blocked Shot,n/a,-42.0,-20.0,Ryan Suter,Blocker,Minnesota Wild,Brett Kulak,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:00:27Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Eric Staal,Winner,Minnesota Wild,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:00:40Z,3,00:17,19:43,Blocked Shot,n/a,-63.0,13.0,Brendan Gallagher,Blocker,Montréal Canadiens,Eric Staal,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:00:48Z,3,00:25,19:35,Shot,Slap Shot,-46.0,1.0,Brendan Gallagher,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:00:57Z,3,00:34,19:26,Shot,Wrist Shot,-49.0,-31.0,Victor Mete,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:01:04Z,3,00:39,19:21,Giveaway,n/a,-13.0,-18.0,Jason Zucker,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:01:30Z,3,01:07,18:53,Giveaway,n/a,-27.0,-39.0,Alex Stalock,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:01:31Z,3,01:07,18:53,Shot,Tip-In,-45.0,-7.0,Brett Kulak,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:01:56Z,3,01:10,18:50,Faceoff,n/a,-69.0,-22.0,Mikko Koivu,Winner,Minnesota Wild,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:02:17Z,3,01:25,18:35,Giveaway,n/a,59.0,42.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:02:18Z,3,01:27,18:33,Shot,Wrist Shot,70.0,32.0,Mikko Koivu,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:02:26Z,3,01:35,18:25,Shot,Wrist Shot,-56.0,-19.0,Artturi Lehkonen,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:04:07Z,3,02:32,17:28,Faceoff,n/a,69.0,22.0,Eric Staal,Winner,Minnesota Wild,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:04:23Z,3,03:01,16:59,Missed Shot,n/a,37.0,-25.0,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:04:33Z,3,03:12,16:48,Shot,Wrist Shot,-71.0,-28.0,Nate Thompson,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:04:44Z,3,03:23,16:37,Giveaway,n/a,37.0,34.0,Brett Kulak,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:04:56Z,3,03:35,16:25,Hit,n/a,-99.0,21.0,Ryan Hartman,Hitter,Minnesota Wild,Brendan Gallagher,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:05:08Z,3,03:44,16:16,Giveaway,n/a,43.0,33.0,Ryan Hartman,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:05:48Z,3,04:07,15:53,Giveaway,n/a,44.0,-30.0,Cale Fleury,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:06:33Z,3,05:09,14:51,Blocked Shot,n/a,-81.0,-5.0,Matt Dumba,Blocker,Minnesota Wild,Jonathan Drouin,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:07:07Z,3,05:24,14:36,Faceoff,n/a,-69.0,-22.0,Ryan Donato,Winner,Minnesota Wild,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:07:32Z,3,05:40,14:20,Giveaway,n/a,-57.0,-31.0,Jesperi Kotkaniemi,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:08:02Z,3,05:48,14:12,Faceoff,n/a,0.0,0.0,Nate Thompson,Winner,Montréal Canadiens,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:08:15Z,3,06:00,14:00,Hit,n/a,-90.0,-34.0,Jared Spurgeon,Hitter,Minnesota Wild,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:08:24Z,3,06:10,13:50,Shot,Wrist Shot,37.0,30.0,Zach Parise,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:08:44Z,3,06:28,13:32,Giveaway,n/a,-56.0,11.0,Eric Staal,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:08:50Z,3,06:36,13:24,Shot,Backhand,-81.0,8.0,Brendan Gallagher,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:08:58Z,3,06:44,13:16,Missed Shot,n/a,-76.0,-7.0,Brendan Gallagher,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:11:25Z,3,06:45,13:15,Faceoff,n/a,-69.0,-22.0,Max Domi,Winner,Montréal Canadiens,Jordan Greenway,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:11:29Z,3,06:57,13:03,Hit,n/a,-96.0,27.0,Cale Fleury,Hitter,Montréal Canadiens,Marcus Foligno,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:11:38Z,3,07:09,12:51,Missed Shot,n/a,-34.0,8.0,Cale Fleury,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:12:00Z,3,07:21,12:39,Hit,n/a,-12.0,-42.0,Jordan Greenway,Hitter,Minnesota Wild,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:12:27Z,3,07:58,12:02,Hit,n/a,50.0,-42.0,Victor Mete,Hitter,Montréal Canadiens,Ryan Donato,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:12:36Z,3,08:03,11:57,Takeaway,n/a,55.0,40.0,Mikko Koivu,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:12:49Z,3,08:19,11:41,Blocked Shot,n/a,53.0,-16.0,Shea Weber,Blocker,Montréal Canadiens,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:13:17Z,3,08:20,11:40,Faceoff,n/a,69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Gerald Mayhew,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:14:06Z,3,08:57,11:03,Takeaway,n/a,-7.0,-32.0,Nick Cousins,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:14:20Z,3,09:00,11:00,Takeaway,n/a,-62.0,-2.0,Nick Suzuki,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:14:31Z,3,09:11,10:49,Shot,Tip-In,-76.0,1.0,Phillip Danault,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:14:54Z,3,09:12,10:48,Faceoff,n/a,-69.0,-22.0,Jesperi Kotkaniemi,Winner,Montréal Canadiens,Ryan Hartman,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:15:07Z,3,09:18,10:42,Hit,n/a,-65.0,42.0,Joel Armia,Hitter,Montréal Canadiens,Jordan Greenway,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:15:16Z,3,09:26,10:34,Shot,Wrap-around,85.0,-5.0,Jason Zucker,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:15:30Z,3,09:41,10:19,Hit,n/a,-92.0,32.0,Cale Fleury,Hitter,Montréal Canadiens,Ryan Suter,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:15:37Z,3,09:47,10:13,Giveaway,n/a,-33.0,-5.0,Jason Zucker,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:16:04Z,3,10:15,09:45,Giveaway,n/a,58.0,2.0,Phillip Danault,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:16:21Z,3,10:17,09:43,Penalty,Hi-sticking,97.0,0.0,Cale Fleury,PenaltyOn,Montréal Canadiens,Luke Kunin,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:18:17Z,3,10:17,09:43,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:18:44Z,3,10:26,09:34,Hit,n/a,-57.0,41.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Brad Hunt,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:19:03Z,3,10:44,09:16,Hit,n/a,-77.0,-41.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Jared Spurgeon,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:19:35Z,3,11:24,08:36,Hit,n/a,-96.0,-25.0,Ryan Donato,Hitter,Minnesota Wild,Nate Thompson,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:20:43Z,3,12:08,07:52,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:21:04Z,3,12:27,07:33,Hit,n/a,94.0,31.0,Eric Staal,Hitter,Minnesota Wild,Cale Fleury,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:21:29Z,3,12:38,07:22,Giveaway,n/a,42.0,35.0,Matt Dumba,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:21:14Z,3,12:40,07:20,Goal,Wrist Shot,-81.0,-8.0,Brendan Gallagher,Scorer,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:21:56Z,3,12:40,07:20,Faceoff,n/a,0.0,0.0,Jordan Greenway,Winner,Minnesota Wild,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:22:03Z,3,12:52,07:08,Missed Shot,n/a,33.0,-17.0,Jonas Brodin,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:22:14Z,3,13:01,06:59,Hit,n/a,59.0,12.0,Marcus Foligno,Hitter,Minnesota Wild,Cale Fleury,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:22:23Z,3,13:11,06:49,Blocked Shot,n/a,-75.0,-7.0,Nick Seeler,Blocker,Minnesota Wild,Jesperi Kotkaniemi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:23:01Z,3,13:45,06:15,Hit,n/a,-9.0,41.0,Joel Armia,Hitter,Montréal Canadiens,Jordan Greenway,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:23:15Z,3,14:02,05:58,Shot,Wrist Shot,-59.0,-13.0,Max Domi,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:25:23Z,3,14:03,05:57,Faceoff,n/a,-69.0,-22.0,Ryan Hartman,Winner,Minnesota Wild,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:25:50Z,3,14:15,05:45,Hit,n/a,46.0,-42.0,Ryan Hartman,Hitter,Minnesota Wild,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:25:50Z,3,14:18,05:42,Shot,Wrist Shot,51.0,-18.0,Ryan Donato,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:26:13Z,3,14:19,05:41,Penalty,Roughing,98.0,-4.0,Ben Chiarot,PenaltyOn,Montréal Canadiens,Ryan Hartman,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:26:41Z,3,14:19,05:41,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Ryan Hartman,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:27:03Z,3,14:26,05:34,Giveaway,n/a,32.0,-38.0,Carey Price,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:27:13Z,3,14:36,05:24,Blocked Shot,n/a,60.0,6.0,Jeff Petry,Blocker,Montréal Canadiens,Ryan Donato,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:27:30Z,3,14:52,05:08,Takeaway,n/a,51.0,-40.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:28:08Z,3,15:30,04:30,Blocked Shot,n/a,59.0,-5.0,Artturi Lehkonen,Blocker,Montréal Canadiens,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:28:51Z,3,15:31,04:29,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:28:39Z,3,15:35,04:25,Shot,Wrist Shot,39.0,17.0,Matt Dumba,Shooter,Minnesota Wild,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:28:55Z,3,15:36,04:24,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:30:05Z,3,16:11,03:49,Faceoff,n/a,-69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:30:38Z,3,16:41,03:19,Hit,n/a,-39.0,-37.0,Matt Dumba,Hitter,Minnesota Wild,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:31:10Z,3,16:55,03:05,Faceoff,n/a,-69.0,-22.0,Jordan Greenway,Winner,Minnesota Wild,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:31:32Z,3,17:07,02:53,Hit,n/a,-70.0,42.0,Matt Dumba,Hitter,Minnesota Wild,Brendan Gallagher,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:31:41Z,3,17:16,02:44,Hit,n/a,-93.0,27.0,Phillip Danault,Hitter,Montréal Canadiens,Jonas Brodin,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:31:48Z,3,17:24,02:36,Hit,n/a,92.0,-32.0,Kevin Fiala,Hitter,Minnesota Wild,Tomas Tatar,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:31:57Z,3,17:30,02:30,Missed Shot,n/a,33.0,35.0,Nick Seeler,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:32:17Z,3,17:35,02:25,Faceoff,n/a,-69.0,-22.0,Jordan Greenway,Winner,Minnesota Wild,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:32:31Z,3,17:42,02:18,Giveaway,n/a,-40.0,29.0,Marcus Foligno,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:33:14Z,3,18:23,01:37,Giveaway,n/a,52.0,-41.0,Carey Price,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:33:14Z,3,18:25,01:35,Blocked Shot,n/a,70.0,-9.0,Nate Thompson,Blocker,Montréal Canadiens,Jared Spurgeon,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:33:21Z,3,18:32,01:28,Shot,Wrist Shot,-65.0,21.0,Nick Suzuki,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:33:48Z,3,18:49,01:11,Penalty,Fighting,-4.0,26.0,Nate Thompson,PenaltyOn,Montréal Canadiens,Luke Kunin,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:34:18Z,3,18:49,01:11,Penalty,Fighting,-8.0,28.0,Luke Kunin,PenaltyOn,Minnesota Wild,Nate Thompson,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:35:01Z,3,18:49,01:11,Faceoff,n/a,69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:35:11Z,3,18:59,01:01,Missed Shot,n/a,39.0,-31.0,Brad Hunt,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:35:18Z,3,19:05,00:55,Blocked Shot,n/a,81.0,2.0,Ben Chiarot,Blocker,Montréal Canadiens,Jason Zucker,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:35:38Z,3,19:12,00:48,Missed Shot,n/a,-43.0,22.0,Cale Fleury,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:35:42Z,3,19:14,00:46,Penalty,Slashing,-69.0,-27.0,Nick Seeler,PenaltyOn,Minnesota Wild,Paul Byron,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:36:00Z,3,19:14,00:46,Penalty,Slashing,-72.0,-6.0,Paul Byron,PenaltyOn,Montréal Canadiens,Nick Seeler,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:36:25Z,3,19:14,00:46,Faceoff,n/a,20.0,22.0,Jordan Greenway,Winner,Minnesota Wild,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:37:04Z,3,19:49,00:11,Shot,Backhand,-71.0,9.0,Nick Suzuki,Shooter,Montréal Canadiens,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-18T01:37:18Z,3,19:50,00:10,Faceoff,n/a,-69.0,22.0,Jesperi Kotkaniemi,Winner,Montréal Canadiens,Ryan Donato,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a

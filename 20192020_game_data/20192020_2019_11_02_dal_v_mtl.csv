@@ -1,0 +1,288 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-02T23:14:36Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:17:18Z,1,00:09,19:51,Shot,Wrist Shot,35.0,33.0,Tomas Tatar,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:17:37Z,1,00:27,19:33,Hit,n/a,30.0,-40.0,Phillip Danault,Hitter,Montréal Canadiens,Esa Lindell,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:17:55Z,1,00:46,19:14,Hit,n/a,-99.0,16.0,Blake Comeau,Hitter,Dallas Stars,Victor Mete,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:18:05Z,1,00:54,19:06,Hit,n/a,60.0,-19.0,Jamie Oleksiak,Hitter,Dallas Stars,Max Domi,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:18:13Z,1,01:04,18:56,Hit,n/a,-63.0,41.0,Blake Comeau,Hitter,Dallas Stars,Cale Fleury,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:18:53Z,1,01:43,18:17,Giveaway,n/a,97.0,22.0,John Klingberg,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:18:53Z,1,01:44,18:16,Shot,Wrist Shot,35.0,12.0,Ben Chiarot,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:19:17Z,1,02:08,17:52,Shot,Snap Shot,84.0,-7.0,Artturi Lehkonen,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:19:44Z,1,02:19,17:41,Faceoff,n/a,69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:20:01Z,1,02:25,17:35,Shot,Slap Shot,58.0,-22.0,Nick Cousins,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:20:08Z,1,02:31,17:29,Shot,Tip-In,81.0,-6.0,Jordan Weal,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:20:12Z,1,02:35,17:25,Blocked Shot,n/a,84.0,-8.0,Esa Lindell,Blocker,Dallas Stars,Jordan Weal,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:20:49Z,1,03:13,16:47,Giveaway,n/a,98.0,-5.0,Taylor Fedun,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:20:58Z,1,03:18,16:42,Hit,n/a,94.0,28.0,Phillip Danault,Hitter,Montréal Canadiens,Taylor Fedun,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:21:20Z,1,03:18,16:42,Missed Shot,n/a,39.0,-25.0,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:20:56Z,1,03:20,16:40,Missed Shot,n/a,36.0,33.0,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:21:02Z,1,03:26,16:34,Missed Shot,n/a,52.0,-37.0,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:21:29Z,1,03:28,16:32,Penalty,Cross checking,52.0,41.0,Alexander Radulov,PenaltyOn,Dallas Stars,Ben Chiarot,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:21:46Z,1,03:28,16:32,Faceoff,n/a,69.0,22.0,Max Domi,Winner,Montréal Canadiens,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:22:12Z,1,03:39,16:21,Shot,Snap Shot,60.0,-21.0,Tomas Tatar,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:22:45Z,1,04:12,15:48,Blocked Shot,n/a,-63.0,26.0,Joel Armia,Blocker,Montréal Canadiens,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:23:06Z,1,04:17,15:43,Penalty,Interference,-71.0,-40.0,Joel Armia,PenaltyOn,Montréal Canadiens,Jason Dickinson,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:23:40Z,1,04:17,15:43,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:23:49Z,1,04:25,15:35,Blocked Shot,n/a,-59.0,10.0,Ben Chiarot,Blocker,Montréal Canadiens,Taylor Fedun,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:23:52Z,1,04:26,15:34,Takeaway,n/a,-92.0,31.0,Tyler Seguin,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:23:55Z,1,04:27,15:33,Shot,Wrist Shot,-81.0,13.0,Jamie Benn,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:24:04Z,1,04:28,15:32,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:24:26Z,1,04:37,15:23,Shot,Slap Shot,63.0,-22.0,Ben Chiarot,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:24:34Z,1,04:44,15:16,Shot,Wrist Shot,71.0,21.0,Jonathan Drouin,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:24:38Z,1,04:47,15:13,Shot,Wrist Shot,-58.0,-1.0,John Klingberg,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:25:15Z,1,04:47,15:13,Faceoff,n/a,-69.0,-22.0,Max Domi,Winner,Montréal Canadiens,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:25:29Z,1,05:03,14:57,Giveaway,n/a,-83.0,37.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:25:37Z,1,05:11,14:49,Missed Shot,n/a,-70.0,4.0,Jason Dickinson,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:26:22Z,1,05:56,14:04,Shot,Wrist Shot,-79.0,20.0,Alexander Radulov,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:26:35Z,1,06:03,13:57,Giveaway,n/a,-66.0,-36.0,Corey Perry,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:27:17Z,1,06:51,13:09,Hit,n/a,-48.0,-40.0,Denis Gurianov,Hitter,Dallas Stars,Brendan Gallagher,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:27:38Z,1,07:11,12:49,Shot,Wrist Shot,56.0,-22.0,Brendan Gallagher,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:27:55Z,1,07:28,12:32,Giveaway,n/a,-90.0,32.0,Blake Comeau,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:28:15Z,1,07:32,12:28,Giveaway,n/a,-60.0,-40.0,Brendan Gallagher,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:28:39Z,1,08:13,11:47,Hit,n/a,-23.0,-41.0,Cale Fleury,Hitter,Montréal Canadiens,Mattias Janmark,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:28:48Z,1,08:22,11:38,Shot,Deflected,-72.0,-6.0,Roope Hintz,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:28:58Z,1,08:31,11:29,Giveaway,n/a,-87.0,35.0,Nick Cousins,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:29:38Z,1,08:38,11:22,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:29:40Z,1,08:49,11:11,Blocked Shot,n/a,-44.0,26.0,Mike Reilly,Blocker,Montréal Canadiens,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:29:41Z,1,08:50,11:10,Shot,Wrist Shot,-56.0,-19.0,Jamie Oleksiak,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:30:01Z,1,08:55,11:05,Penalty,Hooking,96.0,-1.0,Jamie Benn,PenaltyOn,Dallas Stars,Paul Byron,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:32:05Z,1,08:55,11:05,Faceoff,n/a,69.0,22.0,Max Domi,Winner,Montréal Canadiens,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:32:38Z,1,09:26,10:34,Takeaway,n/a,88.0,34.0,Miro Heiskanen,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:33:36Z,1,10:26,09:34,Shot,Slap Shot,36.0,16.0,Shea Weber,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:33:42Z,1,10:32,09:28,Shot,Wrist Shot,50.0,4.0,Andrew Cogliano,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:33:54Z,1,10:44,09:16,Takeaway,n/a,47.0,-35.0,Jason Dickinson,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:34:16Z,1,11:03,08:57,Giveaway,n/a,-99.0,2.0,Carey Price,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:34:23Z,1,11:08,08:52,Giveaway,n/a,-78.0,40.0,Alexander Radulov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:34:50Z,1,11:18,08:42,Takeaway,n/a,-65.0,19.0,Jamie Benn,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:34:31Z,1,11:21,08:39,Giveaway,n/a,-99.0,17.0,Tyler Seguin,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:34:32Z,1,11:21,08:39,Shot,Snap Shot,-47.0,-19.0,Jamie Oleksiak,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:34:36Z,1,11:25,08:35,Shot,Slap Shot,-35.0,35.0,Taylor Fedun,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:36:45Z,1,11:25,08:35,Faceoff,n/a,-69.0,22.0,Joe Pavelski,Winner,Dallas Stars,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:37:00Z,1,11:30,08:30,Shot,Tip-In,-76.0,1.0,Roope Hintz,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:37:09Z,1,11:36,08:24,Hit,n/a,-73.0,39.0,Jeff Petry,Hitter,Montréal Canadiens,Roope Hintz,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:37:07Z,1,11:38,08:22,Blocked Shot,n/a,-78.0,2.0,Jeff Petry,Blocker,Montréal Canadiens,Roope Hintz,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:37:15Z,1,11:45,08:15,Missed Shot,n/a,-35.0,-27.0,Esa Lindell,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:37:23Z,1,11:53,08:07,Takeaway,n/a,37.0,41.0,John Klingberg,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:38:01Z,1,12:32,07:28,Shot,Slap Shot,40.0,-21.0,Cale Fleury,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:38:07Z,1,12:38,07:22,Giveaway,n/a,76.0,-19.0,Jason Dickinson,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:38:10Z,1,12:40,07:20,Missed Shot,n/a,79.0,-7.0,Joel Armia,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:38:17Z,1,12:47,07:13,Blocked Shot,n/a,78.0,-5.0,Miro Heiskanen,Blocker,Dallas Stars,Jonathan Drouin,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:38:36Z,1,12:59,07:01,Missed Shot,n/a,-40.0,-14.0,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:38:37Z,1,13:04,06:56,Hit,n/a,-87.0,36.0,Jonathan Drouin,Hitter,Montréal Canadiens,Joel Hanley,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:39:19Z,1,13:50,06:10,Blocked Shot,n/a,42.0,-28.0,Alexander Radulov,Blocker,Dallas Stars,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:39:34Z,1,14:05,05:55,Shot,Wrist Shot,42.0,20.0,Jamie Benn,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:39:52Z,1,14:22,05:38,Blocked Shot,n/a,74.0,5.0,Jamie Benn,Blocker,Dallas Stars,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:40:06Z,1,14:36,05:24,Shot,Backhand,88.0,-25.0,Nate Thompson,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:40:20Z,1,14:51,05:09,Giveaway,n/a,56.0,35.0,John Klingberg,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:40:26Z,1,14:57,05:03,Takeaway,n/a,38.0,25.0,John Klingberg,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:40:33Z,1,15:01,04:59,Hit,n/a,-96.0,-22.0,Denis Gurianov,Hitter,Dallas Stars,Cale Fleury,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:41:01Z,1,15:23,04:37,Penalty,Cross checking,-96.0,24.0,Ben Chiarot,PenaltyOn,Montréal Canadiens,Jason Dickinson,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:42:55Z,1,15:23,04:37,Faceoff,n/a,-69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:43:38Z,1,15:24,04:36,Goal,Wrist Shot,-60.0,3.0,Alexander Radulov,Scorer,Dallas Stars,Tyler Seguin,Assist,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a
+2019-11-02T23:44:20Z,1,15:24,04:36,Faceoff,n/a,0.0,0.0,Radek Faksa,Winner,Dallas Stars,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:44:32Z,1,15:35,04:25,Shot,Wrist Shot,-80.0,-5.0,Andrew Cogliano,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:44:42Z,1,15:45,04:15,Missed Shot,n/a,-81.0,6.0,Radek Faksa,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:44:57Z,1,15:59,04:01,Shot,Wrist Shot,-36.0,-23.0,Jamie Oleksiak,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:45:29Z,1,15:59,04:01,Faceoff,n/a,-69.0,-22.0,Roope Hintz,Winner,Dallas Stars,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:46:07Z,1,16:36,03:24,Hit,n/a,-48.0,-40.0,Jeff Petry,Hitter,Montréal Canadiens,Denis Gurianov,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:46:28Z,1,16:51,03:09,Penalty,Slashing,25.0,-27.0,Alexander Radulov,PenaltyOn,Dallas Stars,Jordan Weal,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:47:11Z,1,16:51,03:09,Faceoff,n/a,69.0,22.0,Joe Pavelski,Winner,Dallas Stars,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:47:20Z,1,16:57,03:03,Hit,n/a,99.0,3.0,Joel Armia,Hitter,Montréal Canadiens,Miro Heiskanen,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:47:23Z,1,17:02,02:58,Missed Shot,n/a,-57.0,25.0,Joe Pavelski,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:47:50Z,1,17:12,02:48,Faceoff,n/a,20.0,-22.0,Jason Dickinson,Winner,Dallas Stars,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:48:28Z,1,17:31,02:29,Faceoff,n/a,20.0,22.0,Jordan Weal,Winner,Montréal Canadiens,Andrew Cogliano,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:49:18Z,1,18:02,01:58,Takeaway,n/a,41.0,-40.0,Esa Lindell,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:49:36Z,1,18:12,01:48,Faceoff,n/a,-69.0,-22.0,Joe Pavelski,Winner,Dallas Stars,Nick Cousins,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:50:27Z,1,18:27,01:33,Faceoff,n/a,20.0,22.0,Max Domi,Winner,Montréal Canadiens,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:51:09Z,1,19:09,00:51,Missed Shot,n/a,-54.0,-7.0,Corey Perry,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:51:26Z,1,19:27,00:33,Hit,n/a,61.0,40.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Miro Heiskanen,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:51:29Z,1,19:30,00:30,Shot,Wrist Shot,50.0,15.0,Paul Byron,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:51:38Z,1,19:38,00:22,Blocked Shot,n/a,73.0,5.0,Roope Hintz,Blocker,Dallas Stars,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:51:51Z,1,19:50,00:10,Shot,Backhand,-80.0,7.0,Denis Gurianov,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:52:20Z,1,19:52,00:08,Faceoff,n/a,-69.0,22.0,Joe Pavelski,Winner,Dallas Stars,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:52:42Z,1,19:57,00:03,Blocked Shot,n/a,-68.0,-11.0,Brendan Gallagher,Blocker,Montréal Canadiens,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:11:55Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:11:26Z,2,00:11,19:49,Missed Shot,n/a,-35.0,-9.0,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:11:29Z,2,00:14,19:46,Hit,n/a,-93.0,30.0,Tomas Tatar,Hitter,Montréal Canadiens,John Klingberg,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:11:37Z,2,00:22,19:38,Shot,Wrist Shot,62.0,9.0,Denis Gurianov,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:11:53Z,2,00:37,19:23,Giveaway,n/a,-33.0,9.0,Roope Hintz,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:12:14Z,2,00:37,19:23,Faceoff,n/a,-20.0,22.0,Max Domi,Winner,Montréal Canadiens,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:12:51Z,2,01:05,18:55,Hit,n/a,45.0,-40.0,Blake Comeau,Hitter,Dallas Stars,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:12:59Z,2,01:13,18:47,Hit,n/a,89.0,-34.0,Blake Comeau,Hitter,Dallas Stars,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:14:21Z,2,02:06,17:54,Faceoff,n/a,69.0,22.0,Jason Dickinson,Winner,Dallas Stars,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:14:17Z,2,02:11,17:49,Shot,Slap Shot,42.0,6.0,Jason Dickinson,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:14:29Z,2,02:12,17:48,Faceoff,n/a,69.0,22.0,Jason Dickinson,Winner,Dallas Stars,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:14:44Z,2,02:18,17:42,Blocked Shot,n/a,36.0,4.0,Artturi Lehkonen,Blocker,Montréal Canadiens,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:15:41Z,2,03:16,16:44,Blocked Shot,n/a,-47.0,-17.0,Denis Gurianov,Blocker,Dallas Stars,Victor Mete,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:15:58Z,2,03:30,16:30,Giveaway,n/a,-72.0,40.0,Jamie Oleksiak,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:16:03Z,2,03:38,16:22,Blocked Shot,n/a,-56.0,18.0,Jamie Oleksiak,Blocker,Dallas Stars,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:16:19Z,2,03:54,16:06,Blocked Shot,n/a,66.0,4.0,Victor Mete,Blocker,Montréal Canadiens,Blake Comeau,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:16:28Z,2,04:00,16:00,Giveaway,n/a,77.0,13.0,Jonathan Drouin,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:16:28Z,2,04:02,15:58,Shot,Wrist Shot,71.0,5.0,Blake Comeau,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:16:49Z,2,04:09,15:51,Missed Shot,n/a,-67.0,-10.0,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:16:42Z,2,04:10,15:50,Blocked Shot,n/a,-73.0,0.0,Radek Faksa,Blocker,Dallas Stars,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:17:10Z,2,04:10,15:50,Faceoff,n/a,-69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:17:42Z,2,04:15,15:45,Blocked Shot,n/a,-81.0,-1.0,Tyler Seguin,Blocker,Dallas Stars,Mike Reilly,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:18:08Z,2,04:20,15:40,Faceoff,n/a,-69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:18:15Z,2,04:33,15:27,Faceoff,n/a,-69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:18:42Z,2,04:41,15:19,Takeaway,n/a,-33.0,-40.0,Ben Chiarot,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:19:13Z,2,05:12,14:48,Takeaway,n/a,-98.0,20.0,John Klingberg,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:19:21Z,2,05:20,14:40,Hit,n/a,37.0,-40.0,Jeff Petry,Hitter,Montréal Canadiens,Mattias Janmark,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:19:46Z,2,05:45,14:15,Shot,Wrist Shot,-43.0,-25.0,Mike Reilly,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:20:20Z,2,06:19,13:41,Blocked Shot,n/a,73.0,5.0,Victor Mete,Blocker,Montréal Canadiens,Denis Gurianov,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:20:41Z,2,06:40,13:20,Shot,Wrist Shot,-52.0,-25.0,Phillip Danault,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:20:57Z,2,06:56,13:04,Hit,n/a,-94.0,-27.0,Andrew Cogliano,Hitter,Dallas Stars,Brendan Gallagher,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:21:06Z,2,07:02,12:58,Hit,n/a,-22.0,-39.0,Andrew Cogliano,Hitter,Dallas Stars,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:21:36Z,2,07:35,12:25,Giveaway,n/a,-98.0,-9.0,Joel Hanley,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:22:30Z,2,08:04,11:56,Faceoff,n/a,69.0,22.0,Jamie Benn,Winner,Dallas Stars,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:22:43Z,2,08:07,11:53,Shot,Wrist Shot,36.0,-23.0,Esa Lindell,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:25:29Z,2,08:17,11:43,Faceoff,n/a,0.0,0.0,Nate Thompson,Winner,Montréal Canadiens,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:25:49Z,2,08:41,11:19,Shot,Slap Shot,-35.0,29.0,Cale Fleury,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:26:13Z,2,08:42,11:18,Faceoff,n/a,-69.0,22.0,Jamie Benn,Winner,Dallas Stars,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:26:50Z,2,08:57,11:03,Hit,n/a,56.0,-40.0,Jamie Benn,Hitter,Dallas Stars,Artturi Lehkonen,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:26:56Z,2,09:03,10:57,Blocked Shot,n/a,70.0,4.0,Phillip Danault,Blocker,Montréal Canadiens,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:27:03Z,2,09:14,10:46,Hit,n/a,98.0,19.0,Phillip Danault,Hitter,Montréal Canadiens,Tyler Seguin,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:27:15Z,2,09:23,10:37,Hit,n/a,98.0,3.0,Jamie Benn,Hitter,Dallas Stars,Victor Mete,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:27:17Z,2,09:25,10:35,Missed Shot,n/a,43.0,22.0,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:27:41Z,2,09:52,10:08,Missed Shot,n/a,-74.0,4.0,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:27:59Z,2,10:10,09:50,Shot,Wrist Shot,-60.0,-15.0,Brendan Gallagher,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:28:08Z,2,10:19,09:41,Giveaway,n/a,-11.0,40.0,Roope Hintz,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:28:34Z,2,10:45,09:15,Blocked Shot,n/a,53.0,4.0,Jonathan Drouin,Blocker,Montréal Canadiens,Joel Hanley,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:28:35Z,2,10:46,09:14,Giveaway,n/a,15.0,-30.0,Joel Armia,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:28:50Z,2,10:58,09:02,Blocked Shot,n/a,-48.0,18.0,Joel Hanley,Blocker,Dallas Stars,Jonathan Drouin,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:29:17Z,2,11:23,08:37,Giveaway,n/a,7.0,-39.0,Max Domi,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:29:24Z,2,11:33,08:27,Shot,Snap Shot,41.0,-22.0,Taylor Fedun,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:31:47Z,2,11:35,08:25,Faceoff,n/a,69.0,-22.0,Joe Pavelski,Winner,Dallas Stars,Nick Cousins,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:32:41Z,2,11:37,08:23,Blocked Shot,n/a,50.0,21.0,Jordan Weal,Blocker,Montréal Canadiens,Taylor Fedun,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:32:09Z,2,11:41,08:19,Blocked Shot,n/a,70.0,4.0,Cale Fleury,Blocker,Montréal Canadiens,Taylor Fedun,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:32:18Z,2,11:48,08:12,Shot,Wrap-around,43.0,5.0,Taylor Fedun,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:32:54Z,2,11:48,08:12,Faceoff,n/a,69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:33:04Z,2,11:56,08:04,Blocked Shot,n/a,77.0,1.0,Phillip Danault,Blocker,Montréal Canadiens,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:33:11Z,2,12:01,07:59,Blocked Shot,n/a,-76.0,2.0,Esa Lindell,Blocker,Dallas Stars,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:33:33Z,2,12:02,07:58,Faceoff,n/a,-69.0,22.0,Jamie Benn,Winner,Dallas Stars,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:33:47Z,2,12:10,07:50,Giveaway,n/a,-45.0,-39.0,Alexander Radulov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:34:25Z,2,12:29,07:31,Blocked Shot,n/a,-68.0,7.0,Jamie Benn,Blocker,Dallas Stars,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:34:59Z,2,13:22,06:38,Hit,n/a,-17.0,40.0,Jonathan Drouin,Hitter,Montréal Canadiens,Radek Faksa,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:35:08Z,2,13:31,06:29,Giveaway,n/a,85.0,22.0,Brendan Gallagher,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:35:12Z,2,13:35,06:25,Shot,Wrist Shot,-51.0,-16.0,Max Domi,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:35:20Z,2,13:36,06:24,Penalty,Hooking,8.0,-35.0,John Klingberg,PenaltyOn,Dallas Stars,Max Domi,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:35:55Z,2,13:36,06:24,Faceoff,n/a,-69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:37:19Z,2,14:23,05:37,Takeaway,n/a,-88.0,13.0,Nick Suzuki,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:37:31Z,2,14:33,05:27,Giveaway,n/a,-86.0,35.0,Miro Heiskanen,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:37:31Z,2,14:33,05:27,Faceoff,n/a,-20.0,22.0,Jordan Weal,Winner,Montréal Canadiens,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:37:39Z,2,14:51,05:09,Takeaway,n/a,-81.0,-23.0,Blake Comeau,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:37:41Z,2,14:52,05:08,Shot,Snap Shot,-79.0,3.0,Nick Cousins,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:39:09Z,2,15:23,04:37,Shot,Wrist Shot,-55.0,-17.0,Jonathan Drouin,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:38:44Z,2,15:24,04:36,Faceoff,n/a,-69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:39:09Z,2,15:49,04:11,Hit,n/a,-34.0,40.0,Ben Chiarot,Hitter,Montréal Canadiens,John Klingberg,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:39:43Z,2,16:24,03:36,Shot,Backhand,79.0,1.0,Denis Gurianov,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:39:54Z,2,16:31,03:29,Shot,Wrist Shot,81.0,3.0,Joe Pavelski,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:39:52Z,2,16:32,03:28,Shot,Snap Shot,81.0,1.0,Joe Pavelski,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:39:48Z,2,16:34,03:26,Shot,Slap Shot,50.0,18.0,Denis Gurianov,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:40:51Z,2,17:01,02:59,Faceoff,n/a,69.0,22.0,Radek Faksa,Winner,Dallas Stars,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:41:06Z,2,17:14,02:46,Shot,Slap Shot,41.0,4.0,Esa Lindell,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:43:10Z,2,17:15,02:45,Faceoff,n/a,69.0,22.0,Jamie Benn,Winner,Dallas Stars,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:43:45Z,2,17:31,02:29,Shot,Tip-In,81.0,0.0,Jamie Benn,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:43:49Z,2,17:34,02:26,Hit,n/a,86.0,-35.0,Tyler Seguin,Hitter,Dallas Stars,Victor Mete,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:44:37Z,2,18:04,01:56,Missed Shot,n/a,78.0,7.0,Corey Perry,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:44:56Z,2,18:05,01:55,Faceoff,n/a,69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:45:19Z,2,18:24,01:36,Blocked Shot,n/a,-48.0,18.0,Esa Lindell,Blocker,Dallas Stars,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:45:24Z,2,18:29,01:31,Shot,Slap Shot,-43.0,20.0,Ben Chiarot,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:45:28Z,2,18:34,01:26,Shot,Slap Shot,-45.0,-5.0,Ben Chiarot,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:45:40Z,2,18:46,01:14,Blocked Shot,n/a,-73.0,1.0,Joe Pavelski,Blocker,Dallas Stars,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:45:46Z,2,18:48,01:12,Shot,Wrist Shot,73.0,3.0,Denis Gurianov,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:45:46Z,2,18:49,01:11,Penalty,PS - Slash on breakaway,52.0,4.0,Nick Suzuki,PenaltyOn,Montréal Canadiens,Denis Gurianov,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:47:03Z,2,18:49,01:11,Goal,Snap Shot,77.0,4.0,Denis Gurianov,Scorer,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:47:07Z,2,18:49,01:11,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:47:55Z,2,19:36,00:24,Giveaway,n/a,35.0,-2.0,Max Domi,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:48:00Z,2,19:41,00:19,Missed Shot,n/a,80.0,-15.0,Jason Dickinson,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:48:15Z,2,19:56,00:04,Giveaway,n/a,31.0,-38.0,Ben Chiarot,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:48:16Z,2,19:57,00:03,Missed Shot,n/a,22.0,-12.0,Jamie Oleksiak,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:07:25Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:07:02Z,3,00:06,19:54,Giveaway,n/a,-54.0,22.0,Victor Mete,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:07:10Z,3,00:10,19:50,Blocked Shot,n/a,74.0,-1.0,Esa Lindell,Blocker,Dallas Stars,Brendan Gallagher,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:07:51Z,3,00:54,19:06,Hit,n/a,-44.0,-40.0,Cale Fleury,Hitter,Montréal Canadiens,Radek Faksa,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:08:18Z,3,01:14,18:46,Penalty,Tripping,-93.0,-30.0,Andrew Cogliano,PenaltyOn,Dallas Stars,Mike Reilly,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:08:53Z,3,01:14,18:46,Faceoff,n/a,69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:09:28Z,3,01:52,18:08,Blocked Shot,n/a,52.0,2.0,Jason Dickinson,Blocker,Dallas Stars,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:09:35Z,3,01:57,18:03,Giveaway,n/a,-94.0,-11.0,Carey Price,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:09:44Z,3,02:08,17:52,Hit,n/a,-98.0,19.0,Jeff Petry,Hitter,Montréal Canadiens,Mattias Janmark,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:10:10Z,3,02:34,17:26,Takeaway,n/a,25.0,35.0,Joe Pavelski,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:10:18Z,3,02:42,17:18,Hit,n/a,-93.0,29.0,Shea Weber,Hitter,Montréal Canadiens,Radek Faksa,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:10:34Z,3,02:49,17:11,Shot,Wrist Shot,25.0,34.0,Esa Lindell,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:10:39Z,3,03:03,16:57,Shot,Wrist Shot,85.0,22.0,Nick Cousins,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:10:55Z,3,03:14,16:46,Hit,n/a,-60.0,41.0,Shea Weber,Hitter,Montréal Canadiens,Mattias Janmark,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:11:02Z,3,03:26,16:34,Shot,Wrist Shot,44.0,-25.0,Nate Thompson,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:11:16Z,3,03:40,16:20,Shot,Slap Shot,-47.0,19.0,Miro Heiskanen,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:11:49Z,3,04:13,15:47,Blocked Shot,n/a,84.0,21.0,Taylor Fedun,Blocker,Dallas Stars,Mike Reilly,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:11:58Z,3,04:22,15:38,Blocked Shot,n/a,79.0,-5.0,Joel Hanley,Blocker,Dallas Stars,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:12:42Z,3,04:34,15:26,Faceoff,n/a,0.0,0.0,Max Domi,Winner,Montréal Canadiens,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:13:01Z,3,04:57,15:03,Hit,n/a,-12.0,-40.0,Joel Armia,Hitter,Montréal Canadiens,Andrew Cogliano,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:13:16Z,3,05:12,14:48,Blocked Shot,n/a,-49.0,-1.0,Shea Weber,Blocker,Montréal Canadiens,Esa Lindell,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:13:42Z,3,05:19,14:41,Faceoff,n/a,-69.0,22.0,Jamie Benn,Winner,Dallas Stars,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:14:01Z,3,05:27,14:33,Shot,Wrist Shot,-47.0,-6.0,Tyler Seguin,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:14:04Z,3,05:30,14:30,Shot,Snap Shot,-82.0,3.0,Jamie Benn,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:14:10Z,3,05:36,14:24,Blocked Shot,n/a,-54.0,11.0,Nick Suzuki,Blocker,Montréal Canadiens,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:14:43Z,3,06:09,13:51,Hit,n/a,-34.0,-40.0,Cale Fleury,Hitter,Montréal Canadiens,Roope Hintz,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:15:40Z,3,07:06,12:54,Giveaway,n/a,54.0,-35.0,John Klingberg,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:15:43Z,3,07:09,12:51,Shot,Wrist Shot,58.0,0.0,Ben Chiarot,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:18:21Z,3,07:09,12:51,Faceoff,n/a,69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:18:28Z,3,07:19,12:41,Shot,Wrist Shot,70.0,-11.0,Tomas Tatar,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:19:30Z,3,07:20,12:40,Faceoff,n/a,69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:20:35Z,3,08:25,11:35,Shot,Snap Shot,84.0,3.0,Joel Armia,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:20:35Z,3,08:25,11:35,Shot,Tip-In,84.0,2.0,Joel Armia,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:21:23Z,3,08:26,11:34,Faceoff,n/a,69.0,22.0,Max Domi,Winner,Montréal Canadiens,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:21:31Z,3,08:34,11:26,Blocked Shot,n/a,71.0,5.0,Tyler Seguin,Blocker,Dallas Stars,Mike Reilly,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:21:38Z,3,08:41,11:19,Shot,Wrist Shot,-72.0,-12.0,Alexander Radulov,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:22:13Z,3,08:41,11:19,Faceoff,n/a,-69.0,-22.0,Roope Hintz,Winner,Dallas Stars,Jordan Weal,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:22:13Z,3,08:46,11:14,Shot,Slap Shot,-48.0,18.0,Taylor Fedun,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:22:44Z,3,08:47,11:13,Faceoff,n/a,-69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:22:55Z,3,08:51,11:09,Giveaway,n/a,-98.0,1.0,Shea Weber,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:23:03Z,3,09:07,10:53,Shot,Slap Shot,70.0,5.0,Nate Thompson,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:23:38Z,3,09:08,10:52,Faceoff,n/a,69.0,22.0,Joe Pavelski,Winner,Dallas Stars,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:24:10Z,3,09:29,10:31,Penalty,Tripping,42.0,38.0,Jordan Weal,PenaltyOn,Montréal Canadiens,Denis Gurianov,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:24:39Z,3,09:29,10:31,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:25:25Z,3,10:16,09:44,Shot,Slap Shot,-69.0,5.0,Tyler Seguin,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:25:34Z,3,10:25,09:35,Missed Shot,n/a,61.0,36.0,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:25:53Z,3,10:43,09:17,Goal,Wrist Shot,-68.0,-10.0,Denis Gurianov,Scorer,Dallas Stars,Roope Hintz,Assist,Dallas Stars,Joe Pavelski,Assist,Dallas Stars,Carey Price,Goalie,Montréal Canadiens
+2019-11-03T01:26:43Z,3,10:43,09:17,Faceoff,n/a,0.0,0.0,Max Domi,Winner,Montréal Canadiens,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:26:57Z,3,11:01,08:59,Giveaway,n/a,-36.0,10.0,Mike Reilly,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:27:04Z,3,11:09,08:51,Hit,n/a,-94.0,28.0,Radek Faksa,Hitter,Dallas Stars,Mike Reilly,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:29:47Z,3,11:41,08:19,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:48:04Z,3,11:59,08:01,Shot,Wrist Shot,87.0,5.0,Victor Mete,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:30:41Z,3,12:16,07:44,Giveaway,n/a,34.0,-38.0,Jamie Benn,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:30:51Z,3,12:26,07:34,Missed Shot,n/a,39.0,24.0,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:31:13Z,3,12:47,07:13,Shot,Wrist Shot,42.0,-22.0,Nate Thompson,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:31:44Z,3,12:51,07:09,Faceoff,n/a,69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:31:56Z,3,12:57,07:03,Shot,Wrist Shot,40.0,-24.0,Jeff Petry,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:32:08Z,3,13:10,06:50,Shot,Wrist Shot,-72.0,-11.0,Andrew Cogliano,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:32:13Z,3,13:11,06:49,Shot,Backhand,-76.0,13.0,Andrew Cogliano,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:32:40Z,3,13:12,06:48,Faceoff,n/a,-69.0,22.0,Jason Dickinson,Winner,Dallas Stars,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:32:51Z,3,13:21,06:39,Hit,n/a,-94.0,27.0,Ben Chiarot,Hitter,Montréal Canadiens,Mattias Janmark,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:33:26Z,3,13:35,06:25,Faceoff,n/a,0.0,0.0,Nick Suzuki,Winner,Montréal Canadiens,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:34:02Z,3,13:55,06:05,Blocked Shot,n/a,69.0,-4.0,Joel Hanley,Blocker,Dallas Stars,Cale Fleury,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:34:06Z,3,13:59,06:01,Giveaway,n/a,-15.0,-37.0,Jamie Benn,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:34:35Z,3,14:28,05:32,Shot,Wrap-around,86.0,-18.0,Andrew Cogliano,Shooter,Dallas Stars,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:37:24Z,3,14:32,05:28,Faceoff,n/a,69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:37:23Z,3,14:39,05:21,Giveaway,n/a,97.0,-4.0,Esa Lindell,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:37:38Z,3,14:55,05:05,Shot,Slap Shot,44.0,-19.0,Jeff Petry,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:38:19Z,3,14:55,05:05,Faceoff,n/a,69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:38:16Z,3,15:02,04:58,Shot,Wrist Shot,74.0,-5.0,Brendan Gallagher,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:38:47Z,3,15:02,04:58,Faceoff,n/a,69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:38:49Z,3,15:08,04:52,Goal,Wrist Shot,72.0,-40.0,Miro Heiskanen,Scorer,Dallas Stars,Radek Faksa,Assist,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:39:45Z,3,15:08,04:52,Faceoff,n/a,0.0,0.0,Nate Thompson,Winner,Montréal Canadiens,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:40:35Z,3,16:01,03:59,Missed Shot,n/a,80.0,1.0,Paul Byron,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:40:46Z,3,16:12,03:48,Hit,n/a,97.0,20.0,Radek Faksa,Hitter,Dallas Stars,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:40:53Z,3,16:18,03:42,Goal,Slap Shot,56.0,-23.0,Artturi Lehkonen,Scorer,Montréal Canadiens,Nick Suzuki,Assist,Montréal Canadiens,Paul Byron,Assist,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars
+2019-11-03T01:41:31Z,3,16:18,03:42,Faceoff,n/a,0.0,0.0,Max Domi,Winner,Montréal Canadiens,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:42:12Z,3,16:25,03:35,Faceoff,n/a,69.0,-22.0,Max Domi,Winner,Montréal Canadiens,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:42:26Z,3,16:34,03:26,Missed Shot,n/a,37.0,-8.0,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:42:57Z,3,16:36,03:24,Faceoff,n/a,20.0,22.0,Max Domi,Winner,Montréal Canadiens,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:43:43Z,3,16:53,03:07,Faceoff,n/a,69.0,-22.0,Nick Suzuki,Winner,Montréal Canadiens,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:44:14Z,3,17:23,02:37,Shot,Wrist Shot,69.0,-5.0,Tomas Tatar,Shooter,Montréal Canadiens,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:44:48Z,3,17:52,02:08,Blocked Shot,n/a,34.0,-23.0,Jonathan Drouin,Blocker,Montréal Canadiens,Esa Lindell,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:44:57Z,3,17:56,02:04,Penalty,Interference,-57.0,2.0,Jeff Petry,PenaltyOn,Montréal Canadiens,Roope Hintz,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:45:42Z,3,17:56,02:04,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:46:26Z,3,18:52,01:08,Blocked Shot,n/a,78.0,6.0,Corey Perry,Blocker,Dallas Stars,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:46:53Z,3,19:18,00:42,Blocked Shot,n/a,-49.0,-5.0,Artturi Lehkonen,Blocker,Montréal Canadiens,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T01:47:55Z,3,19:53,00:07,Faceoff,n/a,-20.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a

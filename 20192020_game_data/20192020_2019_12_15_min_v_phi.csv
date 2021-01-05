@@ -1,0 +1,173 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-15T00:08:16Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:09:59Z,1,01:19,18:41,Faceoff,n/a,20.0,22.0,Morgan Frost,Winner,Philadelphia Flyers,Ryan Donato,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:10:21Z,1,01:25,18:35,Faceoff,n/a,-20.0,-22.0,Morgan Frost,Winner,Philadelphia Flyers,Ryan Donato,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:10:41Z,1,01:34,18:26,Goal,Wrist Shot,15.0,-30.0,James van Riemsdyk,Scorer,Philadelphia Flyers,Morgan Frost,Assist,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a
+2019-12-15T00:11:11Z,1,01:34,18:26,Faceoff,n/a,0.0,0.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Ryan Donato,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:14:29Z,1,04:50,15:10,Missed Shot,n/a,-78.0,-6.0,Zach Parise,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:14:48Z,1,04:56,15:04,Shot,Deflected,-83.0,0.0,Kevin Fiala,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:15:06Z,1,04:57,15:03,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:15:17Z,1,05:08,14:52,Missed Shot,n/a,-76.0,-1.0,Joel Eriksson Ek,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:16:12Z,1,06:01,13:59,Giveaway,n/a,78.0,38.0,Matt Dumba,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:16:23Z,1,06:12,13:48,Takeaway,n/a,-52.0,7.0,Ryan Donato,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:16:36Z,1,06:16,13:44,Goal,Deflected,-87.0,6.0,Zach Parise,Scorer,Minnesota Wild,Kevin Fiala,Assist,Minnesota Wild,Ryan Donato,Assist,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers
+2019-12-15T00:17:07Z,1,06:16,13:44,Faceoff,n/a,0.0,0.0,Ryan Hartman,Winner,Minnesota Wild,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:17:43Z,1,06:46,13:14,Shot,Wrist Shot,-41.0,37.0,Ryan Hartman,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:18:27Z,1,07:29,12:31,Giveaway,n/a,-57.0,38.0,Mats Zuccarello,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:18:36Z,1,07:41,12:19,Hit,n/a,-82.0,-36.0,Justin Braun,Hitter,Philadelphia Flyers,Eric Staal,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:18:44Z,1,07:45,12:15,Giveaway,n/a,-45.0,34.0,David Kase,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:18:50Z,1,07:51,12:09,Goal,Backhand,-87.0,6.0,Eric Staal,Scorer,Minnesota Wild,Jonas Brodin,Assist,Minnesota Wild,Ryan Suter,Assist,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers
+2019-12-15T00:19:28Z,1,07:51,12:09,Faceoff,n/a,0.0,0.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:20:12Z,1,08:26,11:34,Hit,n/a,74.0,-38.0,Chris Stewart,Hitter,Philadelphia Flyers,Matt Dumba,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:20:34Z,1,08:48,11:12,Takeaway,n/a,76.0,29.0,Ryan Suter,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:21:01Z,1,09:17,10:43,Hit,n/a,-91.0,-29.0,Matt Niskanen,Hitter,Philadelphia Flyers,Zach Parise,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:21:15Z,1,09:18,10:42,Blocked Shot,n/a,-45.0,-27.0,Tyler Pitlick,Blocker,Philadelphia Flyers,Brad Hunt,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:23:16Z,1,09:19,10:41,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Victor Rask,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:23:30Z,1,09:37,10:23,Hit,n/a,98.0,-15.0,Sean Couturier,Hitter,Philadelphia Flyers,Carson Soucy,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:23:50Z,1,09:54,10:06,Blocked Shot,n/a,43.0,29.0,Ryan Hartman,Blocker,Minnesota Wild,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:24:17Z,1,10:22,09:38,Missed Shot,n/a,41.0,-37.0,Justin Braun,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:26:24Z,1,10:26,09:34,Faceoff,n/a,-69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Jason Zucker,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:26:58Z,1,10:43,09:17,Missed Shot,n/a,78.0,5.0,Joel Farabee,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:27:16Z,1,11:01,08:59,Missed Shot,n/a,37.0,-33.0,Justin Braun,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:27:40Z,1,11:25,08:35,Hit,n/a,97.0,-7.0,Morgan Frost,Hitter,Philadelphia Flyers,Brennan Menell,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:28:02Z,1,11:47,08:13,Shot,Wrist Shot,48.0,-28.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:28:11Z,1,11:57,08:03,Shot,Snap Shot,-58.0,17.0,Zach Parise,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:28:32Z,1,12:02,07:58,Faceoff,n/a,-69.0,-22.0,Victor Rask,Winner,Minnesota Wild,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:29:20Z,1,12:32,07:28,Shot,Wrist Shot,-24.0,-27.0,Ryan Suter,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:29:43Z,1,12:56,07:04,Hit,n/a,-62.0,-40.0,Claude Giroux,Hitter,Philadelphia Flyers,Joel Eriksson Ek,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:29:58Z,1,13:08,06:52,Shot,Deflected,83.0,4.0,Matt Niskanen,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:29:58Z,1,13:09,06:51,Takeaway,n/a,34.0,-24.0,Jordan Greenway,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:30:05Z,1,13:18,06:42,Hit,n/a,-61.0,-38.0,Sean Couturier,Hitter,Philadelphia Flyers,Jordan Greenway,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:30:10Z,1,13:22,06:38,Hit,n/a,-77.0,-37.0,Luke Kunin,Hitter,Minnesota Wild,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:30:21Z,1,13:34,06:26,Missed Shot,n/a,-56.0,-18.0,Jonas Brodin,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:30:54Z,1,14:06,05:54,Shot,Wrist Shot,61.0,18.0,Kevin Hayes,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:32:54Z,1,14:09,05:51,Faceoff,n/a,69.0,22.0,Eric Staal,Winner,Minnesota Wild,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:33:43Z,1,14:35,05:25,Shot,Wrist Shot,32.0,-31.0,Matt Niskanen,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:33:56Z,1,14:50,05:10,Missed Shot,n/a,-40.0,-37.0,Mats Zuccarello,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:34:42Z,1,15:22,04:38,Faceoff,n/a,69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Ryan Donato,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:35:21Z,1,15:47,04:13,Blocked Shot,n/a,43.0,-17.0,Brennan Menell,Blocker,Minnesota Wild,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:35:45Z,1,15:48,04:12,Faceoff,n/a,69.0,-22.0,Victor Rask,Winner,Minnesota Wild,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:36:05Z,1,15:55,04:05,Faceoff,n/a,-20.0,-22.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Victor Rask,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:36:45Z,1,16:01,03:59,Faceoff,n/a,-69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:37:43Z,1,16:54,03:06,Shot,Wrist Shot,-57.0,36.0,Zach Parise,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:37:56Z,1,17:07,02:53,Blocked Shot,n/a,59.0,-5.0,Matt Dumba,Blocker,Minnesota Wild,Joel Farabee,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:38:17Z,1,17:24,02:36,Blocked Shot,n/a,74.0,-2.0,Kevin Fiala,Blocker,Minnesota Wild,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:38:48Z,1,17:31,02:29,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Victor Rask,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:39:44Z,1,18:18,01:42,Penalty,Hi-sticking,96.0,-7.0,Tyler Pitlick,PenaltyOn,Philadelphia Flyers,Victor Rask,DrewBy,Philadelphia Flyers,Jakub Voracek,ServedBy,Minnesota Wild,n/a,n/a,n/a
+2019-12-15T00:40:29Z,1,18:18,01:42,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:41:37Z,1,19:27,00:33,Takeaway,n/a,-37.0,37.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T00:41:53Z,1,19:44,00:16,Missed Shot,n/a,-35.0,0.0,Brad Hunt,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:00:51Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:03:05Z,2,02:00,18:00,Faceoff,n/a,69.0,22.0,Morgan Frost,Winner,Philadelphia Flyers,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:03:19Z,2,02:04,17:56,Shot,Wrist Shot,35.0,-21.0,Brennan Menell,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:03:45Z,2,02:05,17:55,Faceoff,n/a,69.0,-22.0,Zach Parise,Winner,Minnesota Wild,Morgan Frost,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:04:19Z,2,02:33,17:27,Giveaway,n/a,-77.0,14.0,Alex Stalock,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:04:54Z,2,02:46,17:14,Faceoff,n/a,20.0,-22.0,Victor Rask,Winner,Minnesota Wild,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:05:58Z,2,03:20,16:40,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Luke Kunin,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:06:34Z,2,03:39,16:21,Takeaway,n/a,-90.0,29.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:06:28Z,2,03:41,16:19,Blocked Shot,n/a,-73.0,7.0,Jonas Brodin,Blocker,Minnesota Wild,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:07:00Z,2,04:17,15:43,Hit,n/a,-60.0,-40.0,Matt Dumba,Hitter,Minnesota Wild,Joel Farabee,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:07:07Z,2,04:23,15:37,Missed Shot,n/a,-31.0,-25.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:07:32Z,2,04:49,15:11,Shot,Wrist Shot,79.0,-9.0,Ryan Donato,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:13:07Z,2,04:56,15:04,Shot,Wrist Shot,79.0,3.0,Ryan Donato,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:09:02Z,2,04:57,15:03,Penalty,Hooking,63.0,3.0,Shayne Gostisbehere,PenaltyOn,Philadelphia Flyers,Kevin Fiala,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:37:04Z,2,04:57,15:03,Faceoff,n/a,69.0,22.0,Eric Staal,Winner,Minnesota Wild,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:13:51Z,2,07:37,12:23,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:14:06Z,2,07:47,12:13,Shot,Wrist Shot,77.0,8.0,Luke Kunin,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:15:13Z,2,08:55,11:05,Blocked Shot,n/a,64.0,-4.0,Justin Braun,Blocker,Philadelphia Flyers,Ryan Hartman,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:16:00Z,2,09:42,10:18,Blocked Shot,n/a,80.0,5.0,Ivan Provorov,Blocker,Philadelphia Flyers,Ryan Suter,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:16:00Z,2,09:43,10:17,Giveaway,n/a,81.0,-2.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:16:07Z,2,09:47,10:13,Goal,Wrist Shot,72.0,-4.0,Eric Staal,Scorer,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:16:55Z,2,09:47,10:13,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:17:51Z,2,10:47,09:13,Hit,n/a,-87.0,34.0,Brennan Menell,Hitter,Minnesota Wild,David Kase,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:22:19Z,2,10:49,09:11,Hit,n/a,-95.0,17.0,Ryan Donato,Hitter,Minnesota Wild,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:18:29Z,2,11:27,08:33,Blocked Shot,n/a,63.0,-24.0,Travis Sanheim,Blocker,Philadelphia Flyers,Ryan Donato,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:19:36Z,2,12:04,07:56,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Ryan Hartman,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:19:41Z,2,12:13,07:47,Blocked Shot,n/a,-73.0,-10.0,Ryan Hartman,Blocker,Minnesota Wild,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:20:11Z,2,12:43,07:17,Hit,n/a,-67.0,39.0,Ryan Suter,Hitter,Minnesota Wild,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:20:18Z,2,13:06,06:54,Shot,Wrist Shot,-62.0,14.0,Chris Stewart,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:21:13Z,2,13:42,06:18,Missed Shot,n/a,50.0,9.0,Eric Staal,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:22:18Z,2,14:50,05:10,Shot,Wrist Shot,80.0,6.0,Zach Parise,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:22:31Z,2,14:55,05:05,Penalty,Tripping,89.0,11.0,Matt Niskanen,PenaltyOn,Philadelphia Flyers,Ryan Donato,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:24:49Z,2,14:55,05:05,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Zach Parise,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:25:21Z,2,15:30,04:30,Hit,n/a,2.0,23.0,Mikhail Vorobyev,Hitter,Philadelphia Flyers,Ryan Donato,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:26:33Z,2,16:42,03:18,Giveaway,n/a,95.0,-6.0,Eric Staal,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:27:05Z,2,17:13,02:47,Shot,Wrist Shot,70.0,-33.0,Jason Zucker,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:27:44Z,2,17:19,02:41,Penalty,Tripping,-67.0,-13.0,Brennan Menell,PenaltyOn,Minnesota Wild,Jakub Voracek,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:29:46Z,2,17:19,02:41,Faceoff,n/a,-69.0,22.0,Luke Kunin,Winner,Minnesota Wild,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:30:05Z,2,17:23,02:37,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Marcus Foligno,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:30:48Z,2,17:29,02:31,Shot,Wrist Shot,-55.0,-20.0,Jakub Voracek,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:31:02Z,2,17:30,02:30,Faceoff,n/a,-69.0,-22.0,Luke Kunin,Winner,Minnesota Wild,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:31:47Z,2,18:10,01:50,Blocked Shot,n/a,-71.0,13.0,Jonas Brodin,Blocker,Minnesota Wild,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:32:46Z,2,19:02,00:58,Hit,n/a,-21.0,32.0,Marcus Foligno,Hitter,Minnesota Wild,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:32:41Z,2,19:03,00:57,Hit,n/a,-5.0,33.0,Joel Farabee,Hitter,Philadelphia Flyers,Marcus Foligno,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:33:07Z,2,19:06,00:54,Penalty,Fighting,50.0,35.0,Marcus Foligno,PenaltyOn,Minnesota Wild,Joel Farabee,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:33:16Z,2,19:06,00:54,Penalty,Fighting,-5.0,31.0,Joel Farabee,PenaltyOn,Philadelphia Flyers,Marcus Foligno,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:34:15Z,2,19:06,00:54,Faceoff,n/a,69.0,22.0,Ryan Hartman,Winner,Minnesota Wild,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:35:36Z,2,19:50,00:10,Faceoff,n/a,69.0,22.0,Eric Staal,Winner,Minnesota Wild,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:35:36Z,2,19:54,00:06,Shot,Slap Shot,34.0,13.0,Brad Hunt,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:35:38Z,2,19:59,00:01,Shot,Slap Shot,8.0,-26.0,David Kase,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:54:59Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Victor Rask,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:55:12Z,3,00:17,19:43,Shot,Wrist Shot,45.0,0.0,Ivan Provorov,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:55:27Z,3,00:32,19:28,Shot,Slap Shot,31.0,29.0,Philippe Myers,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:56:31Z,3,01:02,18:58,Faceoff,n/a,69.0,22.0,David Kase,Winner,Philadelphia Flyers,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:56:41Z,3,01:09,18:51,Shot,Slap Shot,60.0,3.0,David Kase,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:56:44Z,3,01:14,18:46,Blocked Shot,n/a,68.0,19.0,Eric Staal,Blocker,Minnesota Wild,David Kase,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:58:01Z,3,02:08,17:52,Faceoff,n/a,-69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Luke Kunin,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:59:05Z,3,02:35,17:25,Faceoff,n/a,-20.0,-22.0,Victor Rask,Winner,Minnesota Wild,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:59:40Z,3,03:09,16:51,Shot,Wrist Shot,11.0,-29.0,Claude Giroux,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:00:02Z,3,03:10,16:50,Faceoff,n/a,69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:00:42Z,3,03:20,16:40,Faceoff,n/a,69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:00:57Z,3,03:31,16:29,Shot,Slap Shot,33.0,16.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:01:24Z,3,03:35,16:25,Shot,Backhand,77.0,-2.0,Matt Niskanen,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:01:27Z,3,03:50,16:10,Penalty,Tripping,-37.0,3.0,Kevin Fiala,PenaltyOn,Minnesota Wild,Shayne Gostisbehere,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:02:03Z,3,03:50,16:10,Faceoff,n/a,69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Ryan Hartman,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:02:54Z,3,04:42,15:18,Penalty,Tripping,47.0,-27.0,James van Riemsdyk,PenaltyOn,Philadelphia Flyers,Ryan Suter,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:03:58Z,3,04:42,15:18,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:03:58Z,3,05:01,14:59,Shot,Wrist Shot,-34.0,-5.0,Jonas Brodin,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:04:17Z,3,05:20,14:40,Blocked Shot,n/a,59.0,16.0,Jonas Brodin,Blocker,Minnesota Wild,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:05:13Z,3,06:16,13:44,Shot,Slap Shot,-43.0,-24.0,Matt Dumba,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:05:42Z,3,06:45,13:15,Missed Shot,n/a,-78.0,2.0,Zach Parise,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:08:34Z,3,07:21,12:39,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Victor Rask,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:09:13Z,3,08:04,11:56,Blocked Shot,n/a,41.0,6.0,Luke Kunin,Blocker,Minnesota Wild,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:09:41Z,3,08:31,11:29,Shot,Slap Shot,33.0,-29.0,Justin Braun,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:09:41Z,3,08:32,11:28,Blocked Shot,n/a,68.0,0.0,Brennan Menell,Blocker,Minnesota Wild,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:23:47Z,3,08:37,11:23,Shot,Slap Shot,34.0,-20.0,Justin Braun,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:10:07Z,3,08:56,11:04,Shot,Tip-In,-76.0,4.0,Zach Parise,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:10:53Z,3,09:14,10:46,Penalty,Slashing,-18.0,-35.0,Chris Stewart,PenaltyOn,Philadelphia Flyers,Kevin Fiala,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:11:48Z,3,09:14,10:46,Faceoff,n/a,-69.0,-22.0,Jason Zucker,Winner,Minnesota Wild,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:11:56Z,3,09:25,10:35,Missed Shot,n/a,-37.0,-31.0,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:12:14Z,3,09:42,10:18,Missed Shot,n/a,-82.0,10.0,Jason Zucker,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:12:49Z,3,10:17,09:43,Blocked Shot,n/a,58.0,2.0,Jason Zucker,Blocker,Minnesota Wild,Travis Sanheim,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:13:15Z,3,10:43,09:17,Shot,Slap Shot,-39.0,-26.0,Brad Hunt,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:13:27Z,3,10:48,09:12,Shot,Slap Shot,-56.0,-19.0,Brad Hunt,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:13:53Z,3,10:49,09:11,Faceoff,n/a,-69.0,-22.0,Kevin Fiala,Winner,Minnesota Wild,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:14:20Z,3,11:15,08:45,Missed Shot,n/a,-81.0,2.0,Ryan Donato,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:14:40Z,3,11:35,08:25,Takeaway,n/a,-94.0,10.0,Shayne Gostisbehere,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:15:00Z,3,11:55,08:05,Shot,Wrist Shot,-30.0,-36.0,Marcus Foligno,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:15:15Z,3,12:06,07:54,Hit,n/a,-78.0,-38.0,Philippe Myers,Hitter,Philadelphia Flyers,Victor Rask,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:17:12Z,3,12:10,07:50,Shot,Slap Shot,38.0,-22.0,Kevin Hayes,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:15:26Z,3,12:21,07:39,Missed Shot,n/a,-83.0,14.0,Ryan Hartman,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:15:36Z,3,12:32,07:28,Shot,Wrist Shot,-71.0,-20.0,Victor Rask,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:18:09Z,3,13:04,06:56,Faceoff,n/a,69.0,22.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:18:49Z,3,13:14,06:46,Faceoff,n/a,20.0,-22.0,Mikhail Vorobyev,Winner,Philadelphia Flyers,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:19:12Z,3,13:34,06:26,Blocked Shot,n/a,54.0,-1.0,Mats Zuccarello,Blocker,Minnesota Wild,Mikhail Vorobyev,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:21:41Z,3,15:05,04:55,Faceoff,n/a,69.0,22.0,Victor Rask,Winner,Minnesota Wild,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:21:50Z,3,15:28,04:32,Blocked Shot,n/a,74.0,-1.0,Carson Soucy,Blocker,Minnesota Wild,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:22:38Z,3,15:47,04:13,Penalty,Holding,-78.0,14.0,Kevin Fiala,PenaltyOn,Minnesota Wild,Shayne Gostisbehere,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:24:12Z,3,15:47,04:13,Faceoff,n/a,69.0,22.0,Luke Kunin,Winner,Minnesota Wild,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:24:51Z,3,16:05,03:55,Shot,Wrist Shot,6.0,3.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:25:05Z,3,16:21,03:39,Shot,Slap Shot,-39.0,-33.0,Carson Soucy,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:25:39Z,3,16:47,03:13,Missed Shot,n/a,81.0,-5.0,James van Riemsdyk,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:27:33Z,3,16:48,03:12,Faceoff,n/a,69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Luke Kunin,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:27:51Z,3,17:26,02:34,Missed Shot,n/a,54.0,21.0,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:28:26Z,3,17:46,02:14,Goal,Wrist Shot,94.0,-7.0,Carson Soucy,Scorer,Minnesota Wild,Jonas Brodin,Assist,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:28:51Z,3,17:46,02:14,Faceoff,n/a,0.0,0.0,Ryan Hartman,Winner,Minnesota Wild,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:29:14Z,3,18:08,01:52,Shot,Slap Shot,-32.0,-24.0,Brad Hunt,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:29:20Z,3,18:12,01:48,Missed Shot,n/a,-61.0,-3.0,Ryan Hartman,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:30:12Z,3,19:05,00:55,Shot,Slap Shot,-41.0,32.0,Carson Soucy,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:30:54Z,3,19:06,00:54,Faceoff,n/a,-69.0,22.0,Eric Staal,Winner,Minnesota Wild,Mikhail Vorobyev,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:30:56Z,3,19:22,00:38,Shot,Slap Shot,-72.0,37.0,Brennan Menell,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:31:06Z,3,19:29,00:31,Takeaway,n/a,-40.0,36.0,Eric Staal,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:31:06Z,3,19:32,00:28,Shot,Snap Shot,-58.0,-26.0,Eric Staal,Shooter,Minnesota Wild,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:31:38Z,3,19:33,00:27,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a

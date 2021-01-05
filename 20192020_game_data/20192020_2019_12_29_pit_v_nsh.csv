@@ -1,0 +1,285 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-29T00:08:11Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:08:56Z,1,00:11,19:49,Faceoff,n/a,-20.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:09:13Z,1,00:19,19:41,Missed Shot,n/a,-48.0,-6.0,Calle Jarnkrok,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:09:28Z,1,00:30,19:30,Shot,Wrist Shot,69.0,3.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:09:35Z,1,00:32,19:28,Goal,Wrist Shot,81.0,1.0,Bryan Rust,Scorer,Pittsburgh Penguins,Jake Guentzel,Assist,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Juuse Saros,Goalie,Nashville Predators
+2019-12-29T00:10:12Z,1,00:32,19:28,Faceoff,n/a,0.0,0.0,Matt Duchene,Winner,Nashville Predators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:10:30Z,1,00:50,19:10,Shot,Wrist Shot,79.0,34.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:10:33Z,1,00:50,19:10,Hit,n/a,-64.0,41.0,Mikael Granlund,Hitter,Nashville Predators,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:10:55Z,1,00:51,19:09,Faceoff,n/a,69.0,22.0,Nick Bonino,Winner,Nashville Predators,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:11:22Z,1,00:58,19:02,Faceoff,n/a,69.0,22.0,Dominik Kahun,Winner,Pittsburgh Penguins,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:12:01Z,1,01:02,18:58,Shot,Wrist Shot,45.0,31.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:11:44Z,1,01:05,18:55,Goal,Wrist Shot,69.0,-2.0,Dominik Kahun,Scorer,Pittsburgh Penguins,Alex Galchenyuk,Assist,Pittsburgh Penguins,Juuso Riikola,Assist,Pittsburgh Penguins,Juuse Saros,Goalie,Nashville Predators
+2019-12-29T00:12:34Z,1,01:05,18:55,Faceoff,n/a,0.0,0.0,Sam Lafferty,Winner,Pittsburgh Penguins,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:12:41Z,1,01:13,18:47,Hit,n/a,-12.0,41.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Yannick Weber,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:12:56Z,1,01:18,18:42,Hit,n/a,-89.0,-32.0,Kris Letang,Hitter,Pittsburgh Penguins,Jarred Tinordi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:13:16Z,1,01:23,18:37,Faceoff,n/a,-69.0,-22.0,Brandon Tanev,Winner,Pittsburgh Penguins,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:13:36Z,1,01:28,18:32,Hit,n/a,-97.0,4.0,Colin Blackwell,Hitter,Nashville Predators,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:14:01Z,1,01:53,18:07,Hit,n/a,98.0,1.0,Jarred Tinordi,Hitter,Nashville Predators,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:14:47Z,1,02:39,17:21,Shot,Wrist Shot,-59.0,5.0,Viktor Arvidsson,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:16:04Z,1,03:38,16:22,Takeaway,n/a,-92.0,-10.0,Nick Bonino,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:16:09Z,1,03:41,16:19,Giveaway,n/a,-85.0,-7.0,Nick Bonino,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:15:54Z,1,03:46,16:14,Shot,Wrist Shot,-88.0,-9.0,Nick Bonino,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:16:21Z,1,03:48,16:12,Faceoff,n/a,-20.0,-22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:16:48Z,1,04:16,15:44,Hit,n/a,87.0,-35.0,Rocco Grimaldi,Hitter,Nashville Predators,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:16:57Z,1,04:25,15:35,Hit,n/a,-6.0,41.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Austin Watson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:17:26Z,1,04:46,15:14,Faceoff,n/a,69.0,-22.0,Kyle Turris,Winner,Nashville Predators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:17:56Z,1,04:55,15:05,Takeaway,n/a,-46.0,5.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:18:26Z,1,05:24,14:36,Shot,Snap Shot,-49.0,-18.0,Craig Smith,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:18:48Z,1,05:25,14:35,Faceoff,n/a,-69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:19:00Z,1,05:27,14:33,Shot,Wrist Shot,-55.0,-15.0,Calle Jarnkrok,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:19:15Z,1,05:28,14:32,Faceoff,n/a,-69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:19:25Z,1,05:34,14:26,Shot,Wrist Shot,-43.0,-18.0,Mattias Ekholm,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:19:37Z,1,05:39,14:21,Blocked Shot,n/a,-42.0,-23.0,Brandon Tanev,Blocker,Pittsburgh Penguins,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:19:49Z,1,05:40,14:20,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Dominik Simon,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:20:11Z,1,05:43,14:17,Blocked Shot,n/a,-60.0,-12.0,Patric Hornqvist,Blocker,Pittsburgh Penguins,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:20:22Z,1,05:44,14:16,Shot,Wrist Shot,-46.0,-33.0,Mattias Ekholm,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:20:37Z,1,05:45,14:15,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:20:57Z,1,06:01,13:59,Shot,Tip-In,79.0,-1.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:22:53Z,1,06:02,13:58,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:23:23Z,1,06:09,13:51,Shot,Wrist Shot,68.0,33.0,Jack Johnson,Shooter,Pittsburgh Penguins,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:23:38Z,1,06:10,13:50,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:23:58Z,1,06:20,13:40,Hit,n/a,-67.0,-19.0,Jack Johnson,Hitter,Pittsburgh Penguins,Calle Jarnkrok,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:25:50Z,1,08:01,11:59,Penalty,Hi-sticking,-98.0,12.0,Kyle Turris,PenaltyOn,Nashville Predators,John Marino,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:26:25Z,1,08:01,11:59,Faceoff,n/a,69.0,22.0,Nick Bonino,Winner,Nashville Predators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:27:07Z,1,08:30,11:30,Faceoff,n/a,20.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:27:29Z,1,08:53,11:07,Missed Shot,n/a,41.0,-18.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:27:41Z,1,09:04,10:56,Goal,Slap Shot,36.0,-3.0,Kris Letang,Scorer,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Bryan Rust,Assist,Pittsburgh Penguins,Juuse Saros,Goalie,Nashville Predators
+2019-12-29T00:28:41Z,1,09:04,10:56,Faceoff,n/a,0.0,0.0,Matt Duchene,Winner,Nashville Predators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:29:46Z,1,09:50,10:10,Shot,Slap Shot,37.0,31.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:29:55Z,1,09:56,10:04,Hit,n/a,23.0,42.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:30:08Z,1,10:11,09:49,Shot,Snap Shot,53.0,11.0,Jared McCann,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:31:50Z,1,10:12,09:48,Faceoff,n/a,69.0,22.0,Nick Bonino,Winner,Nashville Predators,Dominik Kahun,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:33:19Z,1,10:59,09:01,Shot,Wrist Shot,51.0,-35.0,Kris Letang,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:33:43Z,1,11:00,09:00,Faceoff,n/a,69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:34:34Z,1,11:28,08:32,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:34:57Z,1,11:29,08:31,Blocked Shot,n/a,71.0,5.0,Mattias Ekholm,Blocker,Nashville Predators,Jake Guentzel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:35:12Z,1,11:46,08:14,Shot,Wrist Shot,59.0,-16.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:35:36Z,1,11:47,08:13,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:35:54Z,1,11:54,08:06,Hit,n/a,58.0,40.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:35:57Z,1,11:56,08:04,Shot,Snap Shot,36.0,31.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:36:05Z,1,12:05,07:55,Hit,n/a,98.0,-20.0,Matt Duchene,Hitter,Nashville Predators,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:36:24Z,1,12:23,07:37,Hit,n/a,83.0,22.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Filip Forsberg,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:36:54Z,1,12:44,07:16,Giveaway,n/a,-43.0,36.0,Matt Duchene,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:37:26Z,1,13:26,06:34,Blocked Shot,n/a,-65.0,8.0,Jack Johnson,Blocker,Pittsburgh Penguins,Colin Blackwell,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:37:39Z,1,13:38,06:22,Shot,Snap Shot,58.0,-21.0,Sam Lafferty,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:37:45Z,1,13:41,06:19,Shot,Wrist Shot,76.0,0.0,Dominik Simon,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:37:54Z,1,13:44,06:16,Missed Shot,n/a,-21.0,-16.0,Austin Watson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:38:16Z,1,14:16,05:44,Hit,n/a,-31.0,-26.0,Chad Ruhwedel,Hitter,Pittsburgh Penguins,Rocco Grimaldi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:38:43Z,1,14:38,05:22,Missed Shot,n/a,55.0,5.0,Jake Guentzel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:38:51Z,1,14:39,05:21,Shot,Wrist Shot,84.0,-10.0,Bryan Rust,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:40:28Z,1,14:40,05:20,Faceoff,n/a,69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:41:52Z,1,15:02,04:58,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:42:33Z,1,15:39,04:21,Hit,n/a,-98.0,-11.0,Filip Forsberg,Hitter,Nashville Predators,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:42:51Z,1,15:58,04:02,Hit,n/a,98.0,-15.0,Jarred Tinordi,Hitter,Nashville Predators,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:43:01Z,1,16:08,03:52,Hit,n/a,74.0,38.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Austin Watson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:43:13Z,1,16:11,03:49,Hit,n/a,75.0,-40.0,John Marino,Hitter,Pittsburgh Penguins,Nick Bonino,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:43:34Z,1,16:40,03:20,Shot,Snap Shot,-52.0,-13.0,Colin Blackwell,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:43:59Z,1,16:41,03:19,Faceoff,n/a,-69.0,-22.0,Kyle Turris,Winner,Nashville Predators,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:44:12Z,1,16:52,03:08,Hit,n/a,-52.0,40.0,Chad Ruhwedel,Hitter,Pittsburgh Penguins,Colin Blackwell,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:44:17Z,1,16:57,03:03,Shot,Backhand,-76.0,-9.0,Colin Blackwell,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:44:45Z,1,17:03,02:57,Missed Shot,n/a,-32.0,-22.0,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:44:32Z,1,17:13,02:47,Hit,n/a,69.0,41.0,Colin Blackwell,Hitter,Nashville Predators,Sam Lafferty,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:44:36Z,1,17:17,02:43,Shot,Slap Shot,34.0,29.0,Jack Johnson,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:44:50Z,1,17:20,02:40,Hit,n/a,50.0,40.0,Colin Blackwell,Hitter,Nashville Predators,Sam Lafferty,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:45:14Z,1,17:46,02:14,Hit,n/a,-31.0,-16.0,Alex Galchenyuk,Hitter,Pittsburgh Penguins,Ryan Johansen,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:45:23Z,1,18:02,01:58,Hit,n/a,-65.0,41.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:45:33Z,1,18:14,01:46,Blocked Shot,n/a,66.0,4.0,Ryan Johansen,Blocker,Nashville Predators,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:45:38Z,1,18:18,01:42,Hit,n/a,99.0,-11.0,Ryan Ellis,Hitter,Nashville Predators,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:45:55Z,1,18:35,01:25,Takeaway,n/a,12.0,27.0,Dante Fabbro,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:46:16Z,1,18:56,01:04,Takeaway,n/a,-72.0,17.0,Filip Forsberg,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:46:20Z,1,19:00,01:00,Giveaway,n/a,-80.0,25.0,Filip Forsberg,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:46:43Z,1,19:04,00:56,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:47:20Z,1,19:25,00:35,Giveaway,n/a,-70.0,-36.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:47:11Z,1,19:26,00:34,Giveaway,n/a,-41.0,34.0,Roman Josi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:47:23Z,1,19:32,00:28,Shot,Wrist Shot,-44.0,-37.0,Nick Bonino,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:47:27Z,1,19:32,00:28,Hit,n/a,-58.0,41.0,Austin Watson,Hitter,Nashville Predators,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T00:47:29Z,1,19:44,00:16,Shot,Wrist Shot,-52.0,-15.0,Rocco Grimaldi,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:06:11Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:06:20Z,2,00:06,19:54,Hit,n/a,15.0,-40.0,Jack Johnson,Hitter,Pittsburgh Penguins,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:06:29Z,2,00:15,19:45,Hit,n/a,88.0,37.0,Ryan Johansen,Hitter,Nashville Predators,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:06:59Z,2,00:46,19:14,Takeaway,n/a,54.0,9.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:07:08Z,2,00:54,19:06,Hit,n/a,-98.0,13.0,Ryan Ellis,Hitter,Nashville Predators,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:07:11Z,2,00:58,19:02,Shot,Wrist Shot,-37.0,0.0,John Marino,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:07:16Z,2,00:58,19:02,Shot,Wrist Shot,-74.0,-9.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:07:32Z,2,00:59,19:01,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:08:16Z,2,01:36,18:24,Hit,n/a,-95.0,-26.0,Dante Fabbro,Hitter,Nashville Predators,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:08:28Z,2,01:48,18:12,Hit,n/a,89.0,-36.0,Nick Bonino,Hitter,Nashville Predators,Juuso Riikola,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:08:48Z,2,01:58,18:02,Hit,n/a,57.0,41.0,Austin Watson,Hitter,Nashville Predators,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:09:08Z,2,02:28,17:32,Shot,Snap Shot,36.0,7.0,Yannick Weber,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:09:13Z,2,02:32,17:28,Hit,n/a,93.0,-32.0,Austin Watson,Hitter,Nashville Predators,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:09:26Z,2,02:46,17:14,Shot,Wrist Shot,-51.0,-20.0,Jared McCann,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:09:46Z,2,03:06,16:54,Hit,n/a,5.0,-40.0,Dominik Simon,Hitter,Pittsburgh Penguins,Ryan Ellis,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:10:24Z,2,03:41,16:19,Penalty,Hi-sticking,-71.0,2.0,Sam Lafferty,PenaltyOn,Pittsburgh Penguins,Mattias Ekholm,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:11:03Z,2,03:41,16:19,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:11:28Z,2,04:01,15:59,Missed Shot,n/a,63.0,7.0,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:11:33Z,2,04:05,15:55,Giveaway,n/a,68.0,41.0,Teddy Blueger,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:12:00Z,2,04:06,15:54,Shot,Tip-In,60.0,4.0,Ryan Ellis,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:11:40Z,2,04:07,15:53,Goal,Wrist Shot,79.0,4.0,Viktor Arvidsson,Scorer,Nashville Predators,Calle Jarnkrok,Assist,Nashville Predators,Roman Josi,Assist,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins
+2019-12-29T01:12:16Z,2,04:07,15:53,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:12:57Z,2,04:31,15:29,Penalty,Hooking,54.0,-27.0,Kyle Turris,PenaltyOn,Nashville Predators,Evgeni Malkin,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:13:30Z,2,04:31,15:29,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:13:53Z,2,05:10,14:50,Takeaway,n/a,-50.0,15.0,Nick Bonino,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:14:11Z,2,05:28,14:32,Shot,Snap Shot,-66.0,-13.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:14:35Z,2,05:52,14:08,Blocked Shot,n/a,-62.0,-5.0,Calle Jarnkrok,Blocker,Nashville Predators,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:17:35Z,2,06:53,13:07,Penalty,Too many men on the ice,14.0,39.0,Craig Smith,PenaltyOn,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:17:47Z,2,06:53,13:07,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:19:06Z,2,08:02,11:58,Goal,Snap Shot,-62.0,1.0,Alex Galchenyuk,Scorer,Pittsburgh Penguins,John Marino,Assist,Pittsburgh Penguins,Juuso Riikola,Assist,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators
+2019-12-29T01:19:58Z,2,08:02,11:58,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:20:00Z,2,08:14,11:46,Hit,n/a,65.0,40.0,John Marino,Hitter,Pittsburgh Penguins,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:20:05Z,2,08:18,11:42,Hit,n/a,99.0,16.0,Viktor Arvidsson,Hitter,Nashville Predators,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:20:14Z,2,08:28,11:32,Takeaway,n/a,-37.0,-23.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:20:43Z,2,08:57,11:03,Giveaway,n/a,-98.0,0.0,Matt Murray,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:20:53Z,2,09:06,10:54,Shot,Wrist Shot,-54.0,-17.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:21:02Z,2,09:15,10:45,Shot,Snap Shot,-62.0,12.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:21:07Z,2,09:20,10:40,Hit,n/a,-93.0,-29.0,Viktor Arvidsson,Hitter,Nashville Predators,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:21:36Z,2,09:27,10:33,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:22:09Z,2,09:50,10:10,Shot,Wrist Shot,-70.0,38.0,Kris Letang,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:22:43Z,2,09:51,10:09,Faceoff,n/a,-69.0,22.0,Nick Bonino,Winner,Nashville Predators,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:22:39Z,2,09:58,10:02,Hit,n/a,-63.0,40.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Mattias Ekholm,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:23:02Z,2,10:20,09:40,Shot,Wrist Shot,-13.0,14.0,Colin Blackwell,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:23:06Z,2,10:25,09:35,Hit,n/a,65.0,-39.0,Colin Blackwell,Hitter,Nashville Predators,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:23:32Z,2,10:39,09:21,Blocked Shot,n/a,-51.0,10.0,Austin Watson,Blocker,Nashville Predators,Chad Ruhwedel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:23:26Z,2,10:45,09:15,Hit,n/a,-57.0,-40.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Colin Blackwell,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:23:49Z,2,10:49,09:11,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Dominik Kahun,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:24:17Z,2,11:09,08:51,Hit,n/a,-3.0,9.0,Matt Duchene,Hitter,Nashville Predators,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:24:17Z,2,11:14,08:46,Blocked Shot,n/a,70.0,-22.0,Juuso Riikola,Blocker,Pittsburgh Penguins,Mikael Granlund,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:24:35Z,2,11:17,08:43,Hit,n/a,95.0,-26.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:24:28Z,2,11:18,08:42,Shot,Wrist Shot,79.0,-12.0,Matt Duchene,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:24:28Z,2,11:18,08:42,Blocked Shot,n/a,65.0,4.0,Alex Galchenyuk,Blocker,Pittsburgh Penguins,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:24:28Z,2,11:26,08:34,Blocked Shot,n/a,71.0,9.0,Juuso Riikola,Blocker,Pittsburgh Penguins,Mikael Granlund,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:25:24Z,2,12:15,07:45,Hit,n/a,-90.0,-29.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Ryan Ellis,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:25:36Z,2,12:27,07:33,Shot,Backhand,81.0,-19.0,Roman Josi,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:25:47Z,2,12:33,07:27,Blocked Shot,n/a,68.0,-22.0,Zach Aston-Reese,Blocker,Pittsburgh Penguins,Yannick Weber,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:27:43Z,2,12:34,07:26,Faceoff,n/a,69.0,-22.0,Kyle Turris,Winner,Nashville Predators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:28:06Z,2,12:40,07:20,Shot,Tip-In,81.0,-2.0,Kyle Turris,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:28:20Z,2,12:41,07:19,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:29:15Z,2,13:35,06:25,Shot,Snap Shot,61.0,16.0,Filip Forsberg,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:29:19Z,2,13:39,06:21,Hit,n/a,94.0,24.0,Matt Duchene,Hitter,Nashville Predators,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:29:24Z,2,13:45,06:15,Blocked Shot,n/a,61.0,-14.0,Dominik Simon,Blocker,Pittsburgh Penguins,Ryan Ellis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:29:38Z,2,13:58,06:02,Takeaway,n/a,77.0,10.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:30:24Z,2,14:40,05:20,Missed Shot,n/a,36.0,-27.0,Yannick Weber,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:30:20Z,2,14:41,05:19,Giveaway,n/a,97.0,-7.0,Jack Johnson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:30:24Z,2,14:43,05:17,Shot,Wrist Shot,87.0,-11.0,Calle Jarnkrok,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:30:24Z,2,14:44,05:16,Shot,Wrist Shot,79.0,1.0,Viktor Arvidsson,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:30:34Z,2,14:51,05:09,Shot,Wrist Shot,35.0,2.0,Yannick Weber,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:32:34Z,2,14:51,05:09,Faceoff,n/a,69.0,22.0,Nick Bonino,Winner,Nashville Predators,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:33:21Z,2,15:13,04:47,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:34:32Z,2,15:41,04:19,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:34:40Z,2,15:46,04:14,Faceoff,n/a,69.0,22.0,Kyle Turris,Winner,Nashville Predators,Brandon Tanev,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:35:08Z,2,15:53,04:07,Missed Shot,n/a,42.0,-7.0,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:35:27Z,2,16:03,03:57,Goal,Wrist Shot,78.0,-13.0,Craig Smith,Scorer,Nashville Predators,Colin Blackwell,Assist,Nashville Predators,Roman Josi,Assist,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins
+2019-12-29T01:35:54Z,2,16:03,03:57,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:36:15Z,2,16:22,03:38,Blocked Shot,n/a,77.0,-17.0,Jack Johnson,Blocker,Pittsburgh Penguins,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:36:33Z,2,16:35,03:25,Blocked Shot,n/a,49.0,20.0,Bryan Rust,Blocker,Pittsburgh Penguins,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:36:48Z,2,16:55,03:05,Takeaway,n/a,-44.0,-14.0,Jake Guentzel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:37:09Z,2,17:14,02:46,Shot,Snap Shot,69.0,-4.0,Filip Forsberg,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:37:35Z,2,17:19,02:41,Faceoff,n/a,69.0,22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:37:52Z,2,17:29,02:31,Hit,n/a,68.0,40.0,John Marino,Hitter,Pittsburgh Penguins,Ryan Johansen,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:38:06Z,2,17:40,02:20,Shot,Slap Shot,63.0,6.0,Ryan Johansen,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:38:48Z,2,17:41,02:19,Faceoff,n/a,69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:39:22Z,2,18:14,01:46,Hit,n/a,95.0,27.0,Mattias Ekholm,Hitter,Nashville Predators,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:39:54Z,2,18:46,01:14,Giveaway,n/a,46.0,7.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:40:00Z,2,18:52,01:08,Shot,Wrist Shot,82.0,-21.0,Craig Smith,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:40:11Z,2,18:52,01:08,Hit,n/a,99.0,4.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Craig Smith,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:40:37Z,2,18:53,01:07,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Mikael Granlund,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:41:09Z,2,18:57,01:03,Missed Shot,n/a,75.0,10.0,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:41:19Z,2,18:59,01:01,Shot,Wrist Shot,69.0,13.0,Matt Duchene,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:41:27Z,2,19:01,00:59,Goal,Wrist Shot,68.0,1.0,Mikael Granlund,Scorer,Nashville Predators,Matt Duchene,Assist,Nashville Predators,Filip Forsberg,Assist,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins
+2019-12-29T01:41:37Z,2,19:01,00:59,Faceoff,n/a,0.0,0.0,Sam Lafferty,Winner,Pittsburgh Penguins,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:41:54Z,2,19:18,00:42,Shot,Wrist Shot,-39.0,32.0,Kris Letang,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:41:59Z,2,19:24,00:36,Hit,n/a,-55.0,41.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Colin Blackwell,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:42:24Z,2,19:49,00:11,Missed Shot,n/a,-39.0,-15.0,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T01:42:36Z,2,19:58,00:02,Blocked Shot,n/a,-72.0,-3.0,Dante Fabbro,Blocker,Nashville Predators,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:01:22Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:01:46Z,3,00:22,19:38,Blocked Shot,n/a,-67.0,1.0,Kris Letang,Blocker,Pittsburgh Penguins,Ryan Johansen,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:02:36Z,3,00:51,19:09,Faceoff,n/a,20.0,22.0,Matt Duchene,Winner,Nashville Predators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:02:49Z,3,00:59,19:01,Shot,Wrist Shot,-73.0,7.0,Matt Duchene,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:03:13Z,3,01:00,19:00,Faceoff,n/a,-69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Mikael Granlund,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:04:10Z,3,01:53,18:07,Hit,n/a,-22.0,-40.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Jarred Tinordi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:04:19Z,3,01:57,18:03,Shot,Wrist Shot,-51.0,5.0,Kyle Turris,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:04:39Z,3,01:58,18:02,Faceoff,n/a,-69.0,22.0,Kyle Turris,Winner,Nashville Predators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:04:57Z,3,02:04,17:56,Blocked Shot,n/a,-48.0,-18.0,Bryan Rust,Blocker,Pittsburgh Penguins,Jarred Tinordi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:05:09Z,3,02:16,17:44,Shot,Backhand,-70.0,4.0,Craig Smith,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:05:26Z,3,02:20,17:40,Giveaway,n/a,55.0,-6.0,Jarred Tinordi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:05:20Z,3,02:22,17:38,Shot,Wrist Shot,70.0,-10.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:05:29Z,3,02:23,17:37,Shot,Backhand,79.0,3.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:05:45Z,3,02:24,17:36,Faceoff,n/a,69.0,22.0,Nick Bonino,Winner,Nashville Predators,Zach Aston-Reese,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:07:06Z,3,03:02,16:58,Faceoff,n/a,-69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:07:57Z,3,03:35,16:25,Shot,Wrist Shot,-48.0,-15.0,Viktor Arvidsson,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:08:01Z,3,03:39,16:21,Hit,n/a,-98.0,14.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:08:10Z,3,03:49,16:11,Giveaway,n/a,-62.0,-35.0,Viktor Arvidsson,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:08:21Z,3,03:59,16:01,Takeaway,n/a,33.0,34.0,Dominik Simon,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:08:37Z,3,04:16,15:44,Giveaway,n/a,-64.0,41.0,Patric Hornqvist,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:08:39Z,3,04:18,15:42,Shot,Wrist Shot,-59.0,13.0,Matt Duchene,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:08:44Z,3,04:23,15:37,Shot,Snap Shot,-53.0,-13.0,Filip Forsberg,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:09:10Z,3,04:36,15:24,Shot,Backhand,-74.0,5.0,Matt Duchene,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:09:12Z,3,04:37,15:23,Penalty,Hooking,-67.0,20.0,Evgeni Malkin,PenaltyOn,Pittsburgh Penguins,Matt Duchene,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:09:52Z,3,04:37,15:23,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:09:55Z,3,04:42,15:18,Giveaway,n/a,-98.0,-2.0,Marcus Pettersson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:10:12Z,3,04:59,15:01,Shot,Wrist Shot,-84.0,-24.0,Matt Duchene,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:10:13Z,3,05:00,15:00,Giveaway,n/a,-92.0,-13.0,Chad Ruhwedel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:10:19Z,3,05:06,14:54,Shot,Wrist Shot,-50.0,-13.0,Calle Jarnkrok,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:10:25Z,3,05:09,14:51,Shot,Wrist Shot,-86.0,-12.0,Matt Duchene,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:11:23Z,3,06:10,13:50,Shot,Slap Shot,-34.0,0.0,Mattias Ekholm,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:11:29Z,3,06:13,13:47,Shot,Wrist Shot,-74.0,-4.0,Ryan Johansen,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:11:57Z,3,06:14,13:46,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:12:14Z,3,06:24,13:36,Blocked Shot,n/a,-46.0,1.0,Teddy Blueger,Blocker,Pittsburgh Penguins,Ryan Ellis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:12:47Z,3,06:29,13:31,Shot,Slap Shot,-35.0,-6.0,Ryan Ellis,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:12:56Z,3,06:30,13:30,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:13:16Z,3,06:50,13:10,Hit,n/a,-4.0,40.0,Jared McCann,Hitter,Pittsburgh Penguins,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:13:24Z,3,06:58,13:02,Hit,n/a,-23.0,40.0,Austin Watson,Hitter,Nashville Predators,Jake Guentzel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:13:33Z,3,07:07,12:53,Missed Shot,n/a,-86.0,-15.0,Rocco Grimaldi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:13:42Z,3,07:15,12:45,Blocked Shot,n/a,-72.0,-10.0,Kris Letang,Blocker,Pittsburgh Penguins,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:13:51Z,3,07:25,12:35,Hit,n/a,40.0,35.0,Austin Watson,Hitter,Nashville Predators,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:14:33Z,3,08:07,11:53,Shot,Backhand,-77.0,3.0,Colin Blackwell,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:14:46Z,3,08:20,11:40,Blocked Shot,n/a,-51.0,-15.0,Patric Hornqvist,Blocker,Pittsburgh Penguins,Jarred Tinordi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:15:09Z,3,08:24,11:36,Faceoff,n/a,-69.0,22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:13:51Z,3,08:44,11:16,Missed Shot,n/a,-48.0,13.0,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:15:46Z,3,08:49,11:11,Shot,Slap Shot,-39.0,-16.0,Roman Josi,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:17:55Z,3,08:49,11:11,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:18:49Z,3,08:56,11:04,Goal,Backhand,-80.0,1.0,Mikael Granlund,Scorer,Nashville Predators,Matt Duchene,Assist,Nashville Predators,Roman Josi,Assist,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins
+2019-12-29T02:19:17Z,3,08:56,11:04,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:19:36Z,3,09:13,10:47,Hit,n/a,-97.0,9.0,Ryan Ellis,Hitter,Nashville Predators,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:19:51Z,3,09:29,10:31,Shot,Wrist Shot,-81.0,21.0,Matt Duchene,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:19:51Z,3,09:30,10:30,Blocked Shot,n/a,-58.0,-15.0,Bryan Rust,Blocker,Pittsburgh Penguins,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:22:29Z,3,10:01,09:59,Faceoff,n/a,-69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:22:46Z,3,10:09,09:51,Missed Shot,n/a,-40.0,-12.0,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:22:54Z,3,10:17,09:43,Takeaway,n/a,-51.0,-1.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:23:28Z,3,10:24,09:36,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:23:41Z,3,10:27,09:33,Blocked Shot,n/a,42.0,6.0,Austin Watson,Blocker,Nashville Predators,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:23:50Z,3,10:28,09:32,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:23:56Z,3,10:35,09:25,Hit,n/a,99.0,-5.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Nick Bonino,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:24:35Z,3,11:01,08:59,Shot,Wrist Shot,-65.0,11.0,Matt Duchene,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:24:49Z,3,11:02,08:58,Faceoff,n/a,-69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Mikael Granlund,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:25:32Z,3,11:37,08:23,Shot,Wrist Shot,61.0,-28.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:26:00Z,3,11:38,08:22,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:26:13Z,3,11:50,08:10,Hit,n/a,-62.0,40.0,Kris Letang,Hitter,Pittsburgh Penguins,Calle Jarnkrok,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:26:30Z,3,12:06,07:54,Takeaway,n/a,-94.0,-26.0,Viktor Arvidsson,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:26:43Z,3,12:20,07:40,Shot,Wrist Shot,69.0,10.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:27:14Z,3,12:50,07:10,Hit,n/a,69.0,41.0,Colin Blackwell,Hitter,Nashville Predators,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:27:39Z,3,13:15,06:45,Shot,Wrist Shot,84.0,12.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:28:06Z,3,13:15,06:45,Faceoff,n/a,69.0,22.0,Nick Bonino,Winner,Nashville Predators,Dominik Kahun,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:28:26Z,3,13:32,06:28,Hit,n/a,-92.0,-28.0,Rocco Grimaldi,Hitter,Nashville Predators,Juuso Riikola,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:28:36Z,3,13:42,06:18,Hit,n/a,99.0,-5.0,Alex Galchenyuk,Hitter,Pittsburgh Penguins,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:29:13Z,3,14:19,05:41,Shot,Wrist Shot,78.0,-20.0,Sam Lafferty,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:29:26Z,3,14:28,05:32,Blocked Shot,n/a,78.0,-8.0,Roman Josi,Blocker,Nashville Predators,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:31:09Z,3,15:20,04:40,Shot,Wrist Shot,37.0,-14.0,John Marino,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:30:17Z,3,15:21,04:39,Shot,Wrist Shot,78.0,-2.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:32:18Z,3,15:22,04:38,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:34:01Z,3,16:07,03:53,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:34:26Z,3,16:50,03:10,Hit,n/a,62.0,41.0,Matt Duchene,Hitter,Nashville Predators,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:34:52Z,3,17:16,02:44,Takeaway,n/a,47.0,-5.0,Calle Jarnkrok,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:34:59Z,3,17:23,02:37,Hit,n/a,-22.0,-41.0,Chad Ruhwedel,Hitter,Pittsburgh Penguins,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:34:59Z,3,17:23,02:37,Shot,Snap Shot,-61.0,-15.0,Calle Jarnkrok,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:35:07Z,3,17:31,02:29,Shot,Slap Shot,-31.0,2.0,Roman Josi,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:35:21Z,3,17:45,02:15,Missed Shot,n/a,-69.0,-9.0,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:35:41Z,3,18:05,01:55,Shot,Snap Shot,-36.0,-24.0,Mattias Ekholm,Shooter,Nashville Predators,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:36:00Z,3,18:24,01:36,Hit,n/a,-95.0,26.0,Kris Letang,Hitter,Pittsburgh Penguins,Rocco Grimaldi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:36:26Z,3,18:34,01:26,Penalty,Interference - Goalkeeper,-83.0,0.0,Austin Watson,PenaltyOn,Nashville Predators,Matt Murray,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:36:58Z,3,18:34,01:26,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:37:24Z,3,18:57,01:03,Goal,Wrist Shot,86.0,-6.0,Jake Guentzel,Scorer,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Bryan Rust,Assist,Pittsburgh Penguins,Pekka Rinne,Goalie,Nashville Predators
+2019-12-29T02:40:13Z,3,18:57,01:03,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:40:43Z,3,19:22,00:38,Goal,Wrist Shot,49.0,27.0,Bryan Rust,Scorer,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-29T02:41:29Z,3,19:22,00:38,Faceoff,n/a,0.0,0.0,Matt Duchene,Winner,Nashville Predators,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a

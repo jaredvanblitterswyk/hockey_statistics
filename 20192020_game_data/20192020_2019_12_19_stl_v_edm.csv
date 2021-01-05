@@ -1,0 +1,242 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-19T01:42:27Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:43:47Z,1,00:45,19:15,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:44:43Z,1,01:24,18:36,Giveaway,n/a,-70.0,39.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:45:01Z,1,01:42,18:18,Shot,Tip-In,-21.0,0.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:45:13Z,1,01:54,18:06,Hit,n/a,-98.0,2.0,Robert Bortuzzo,Hitter,St. Louis Blues,Jujhar Khaira,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:45:31Z,1,02:12,17:48,Hit,n/a,43.0,-39.0,Jujhar Khaira,Hitter,Edmonton Oilers,Zach Sanford,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:46:01Z,1,02:42,17:18,Missed Shot,n/a,64.0,-22.0,Troy Brouwer,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:46:10Z,1,02:51,17:09,Blocked Shot,n/a,71.0,-12.0,Gaetan Haas,Blocker,Edmonton Oilers,Colton Parayko,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:46:14Z,1,02:56,17:04,Hit,n/a,17.0,40.0,Josh Archibald,Hitter,Edmonton Oilers,Jay Bouwmeester,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:47:27Z,1,03:56,16:04,Penalty,Hooking,-53.0,15.0,Connor McDavid,PenaltyOn,Edmonton Oilers,Justin Faulk,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:47:57Z,1,03:56,16:04,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:48:17Z,1,04:21,15:39,Blocked Shot,n/a,66.0,-15.0,Oscar Klefbom,Blocker,Edmonton Oilers,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:48:54Z,1,04:58,15:02,Shot,Slap Shot,32.0,3.0,Alex Pietrangelo,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:49:02Z,1,05:06,14:54,Shot,Slap Shot,66.0,-22.0,Brayden Schenn,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:49:24Z,1,05:07,14:53,Faceoff,n/a,69.0,-22.0,Oskar Sundqvist,Winner,St. Louis Blues,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:49:55Z,1,05:31,14:29,Shot,Wrist Shot,62.0,-20.0,Justin Faulk,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:50:15Z,1,05:33,14:27,Faceoff,n/a,69.0,-22.0,Robert Thomas,Winner,St. Louis Blues,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:50:44Z,1,05:38,14:22,Shot,Wrist Shot,67.0,-19.0,Robert Thomas,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:50:49Z,1,05:40,14:20,Faceoff,n/a,69.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Oskar Sundqvist,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:51:32Z,1,06:07,13:53,Missed Shot,n/a,-76.0,-4.0,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:51:40Z,1,06:16,13:44,Shot,Wrist Shot,48.0,9.0,Vince Dunn,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:53:34Z,1,06:17,13:43,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:54:08Z,1,06:24,13:36,Faceoff,n/a,0.0,0.0,Sam Gagner,Winner,Edmonton Oilers,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:54:55Z,1,06:48,13:12,Giveaway,n/a,-55.0,39.0,Colton Parayko,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:55:09Z,1,07:03,12:57,Shot,Wrist Shot,-52.0,3.0,Leon Draisaitl,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:55:15Z,1,07:09,12:51,Giveaway,n/a,5.0,-31.0,Jay Bouwmeester,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:55:36Z,1,07:28,12:32,Giveaway,n/a,-43.0,-22.0,Alex Pietrangelo,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:55:38Z,1,07:32,12:28,Missed Shot,n/a,-76.0,-4.0,Joakim Nygard,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:55:56Z,1,07:50,12:10,Shot,Wrist Shot,74.0,-21.0,Ryan O'Reilly,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:56:06Z,1,07:58,12:02,Shot,Wrist Shot,68.0,10.0,Oskar Sundqvist,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:56:11Z,1,08:00,12:00,Shot,Wrist Shot,79.0,-3.0,Ryan O'Reilly,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:56:36Z,1,08:01,11:59,Faceoff,n/a,69.0,22.0,Jacob de la Rose,Winner,St. Louis Blues,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:56:57Z,1,08:20,11:40,Shot,Wrist Shot,74.0,15.0,Mackenzie MacEachern,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:57:04Z,1,08:22,11:38,Shot,Wrist Shot,77.0,3.0,Jacob de la Rose,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:57:20Z,1,08:41,11:19,Giveaway,n/a,-87.0,14.0,Vince Dunn,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:57:20Z,1,08:43,11:17,Shot,Wrist Shot,-74.0,-7.0,Jujhar Khaira,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:57:27Z,1,08:48,11:12,Shot,Wrist Shot,-36.0,-24.0,Oscar Klefbom,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:58:09Z,1,08:49,11:11,Faceoff,n/a,-69.0,-22.0,Sam Gagner,Winner,Edmonton Oilers,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:58:14Z,1,08:52,11:08,Shot,Slap Shot,-60.0,-19.0,James Neal,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:58:39Z,1,09:17,10:43,Giveaway,n/a,-2.0,-36.0,Sam Gagner,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:59:07Z,1,09:45,10:15,Takeaway,n/a,44.0,-36.0,Zach Sanford,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:59:15Z,1,09:53,10:07,Shot,Wrist Shot,63.0,30.0,Justin Faulk,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T01:59:52Z,1,10:30,09:30,Hit,n/a,61.0,-40.0,Brayden Schenn,Hitter,St. Louis Blues,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:00:00Z,1,10:38,09:22,Giveaway,n/a,35.0,25.0,Adam Larsson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:00:23Z,1,11:00,09:00,Missed Shot,n/a,-79.0,6.0,Zack Kassian,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:00:31Z,1,11:09,08:51,Takeaway,n/a,-87.0,-32.0,Robert Bortuzzo,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:00:53Z,1,11:31,08:29,Takeaway,n/a,-51.0,-14.0,Troy Brouwer,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:01:18Z,1,11:56,08:04,Giveaway,n/a,58.0,-30.0,Troy Brouwer,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:03:40Z,1,12:01,07:59,Faceoff,n/a,-20.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:03:55Z,1,12:19,07:41,Shot,Wrist Shot,-60.0,-1.0,Leon Draisaitl,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:04:15Z,1,12:40,07:20,Blocked Shot,n/a,-77.0,-12.0,Alexander Steen,Blocker,St. Louis Blues,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:04:54Z,1,13:19,06:41,Shot,Wrist Shot,74.0,9.0,Jaden Schwartz,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:05:28Z,1,13:21,06:39,Faceoff,n/a,69.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:05:58Z,1,13:51,06:09,Shot,Wrist Shot,40.0,-25.0,Robert Bortuzzo,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:06:20Z,1,14:09,05:51,Giveaway,n/a,-41.0,28.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:06:29Z,1,14:22,05:38,Shot,Slap Shot,37.0,25.0,Justin Faulk,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:06:50Z,1,14:43,05:17,Blocked Shot,n/a,68.0,-9.0,Caleb Jones,Blocker,Edmonton Oilers,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:07:06Z,1,14:58,05:02,Shot,Wrist Shot,46.0,21.0,Justin Faulk,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:09:25Z,1,15:00,05:00,Faceoff,n/a,69.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:09:38Z,1,15:14,04:46,Blocked Shot,n/a,69.0,3.0,Adam Larsson,Blocker,Edmonton Oilers,Jay Bouwmeester,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:09:44Z,1,15:21,04:39,Blocked Shot,n/a,75.0,-4.0,Oscar Klefbom,Blocker,Edmonton Oilers,Colton Parayko,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:09:55Z,1,15:32,04:28,Hit,n/a,-88.0,-35.0,Jay Bouwmeester,Hitter,St. Louis Blues,Leon Draisaitl,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:10:29Z,1,16:03,03:57,Takeaway,n/a,84.0,13.0,Ethan Bear,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:10:35Z,1,16:12,03:48,Giveaway,n/a,93.0,-22.0,Ethan Bear,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:10:36Z,1,16:13,03:47,Blocked Shot,n/a,68.0,-14.0,Connor McDavid,Blocker,Edmonton Oilers,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:10:46Z,1,16:23,03:37,Shot,Wrist Shot,-36.0,-3.0,Darnell Nurse,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:11:27Z,1,16:34,03:26,Hit,n/a,-69.0,-40.0,Zack Kassian,Hitter,Edmonton Oilers,Oskar Sundqvist,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:11:27Z,1,16:35,03:25,Penalty,Holding,-91.0,-23.0,Oskar Sundqvist,PenaltyOn,St. Louis Blues,Ethan Bear,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:13:09Z,1,16:35,03:25,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:13:02Z,1,16:44,03:16,Missed Shot,n/a,-68.0,-1.0,Alex Chiasson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:13:16Z,1,16:58,03:02,Blocked Shot,n/a,-71.0,4.0,Jay Bouwmeester,Blocker,St. Louis Blues,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:13:34Z,1,17:16,02:44,Hit,n/a,-87.0,-35.0,Robert Bortuzzo,Hitter,St. Louis Blues,Connor McDavid,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:14:54Z,1,18:36,01:24,Hit,n/a,-68.0,-39.0,Robert Bortuzzo,Hitter,St. Louis Blues,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:15:09Z,1,18:47,01:13,Hit,n/a,-70.0,-41.0,Robert Bortuzzo,Hitter,St. Louis Blues,Sam Gagner,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:15:07Z,1,18:49,01:11,Shot,Wrist Shot,-85.0,11.0,James Neal,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:15:16Z,1,18:50,01:10,Shot,Tip-In,-79.0,0.0,Joakim Nygard,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:15:54Z,1,18:51,01:09,Faceoff,n/a,-69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:16:10Z,1,19:05,00:55,Giveaway,n/a,-2.0,-11.0,Robert Thomas,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:16:26Z,1,19:21,00:39,Hit,n/a,-89.0,34.0,Justin Faulk,Hitter,St. Louis Blues,Riley Sheahan,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:16:42Z,1,19:23,00:37,Penalty,Slashing,-68.0,22.0,Alex Pietrangelo,PenaltyOn,St. Louis Blues,Gaetan Haas,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:17:11Z,1,19:23,00:37,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:17:14Z,1,19:33,00:27,Shot,Wrist Shot,-68.0,16.0,Connor McDavid,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:17:32Z,1,19:34,00:26,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:37:23Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:37:20Z,2,00:16,19:44,Shot,Wrist Shot,39.0,27.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:37:37Z,2,00:33,19:27,Takeaway,n/a,51.0,22.0,Alexander Steen,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:38:43Z,2,01:38,18:22,Takeaway,n/a,-87.0,-17.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:38:51Z,2,01:47,18:13,Shot,Backhand,76.0,7.0,Leon Draisaitl,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:39:24Z,2,01:48,18:12,Faceoff,n/a,69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:39:31Z,2,01:58,18:02,Missed Shot,n/a,-56.0,2.0,Brayden Schenn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:39:45Z,2,02:13,17:47,Giveaway,n/a,62.0,-39.0,Jake Allen,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:40:14Z,2,02:42,17:18,Shot,Wrist Shot,-79.0,12.0,Alex Pietrangelo,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:40:42Z,2,03:09,16:51,Shot,Wrist Shot,-35.0,-3.0,Justin Faulk,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:41:19Z,2,03:10,16:50,Faceoff,n/a,-69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:41:34Z,2,03:16,16:44,Penalty,Delaying Game - Puck over glass,-78.0,28.0,Oscar Klefbom,PenaltyOn,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:41:59Z,2,03:16,16:44,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:42:21Z,2,03:32,16:28,Shot,Wrist Shot,-39.0,19.0,Alex Pietrangelo,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:42:44Z,2,03:46,16:14,Penalty,Cross checking,-65.0,40.0,Kris Russell,PenaltyOn,Edmonton Oilers,Brayden Schenn,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:43:12Z,2,03:46,16:14,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:43:42Z,2,04:13,15:47,Shot,Wrist Shot,-77.0,-22.0,David Perron,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:43:58Z,2,04:15,15:45,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:44:30Z,2,04:33,15:27,Takeaway,n/a,-37.0,-25.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:44:32Z,2,04:37,15:23,Shot,Backhand,76.0,-7.0,Leon Draisaitl,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:45:10Z,2,05:14,14:46,Shot,Wrist Shot,-70.0,-15.0,David Perron,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:45:19Z,2,05:24,14:36,Shot,Backhand,-86.0,7.0,Alex Pietrangelo,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:46:11Z,2,06:07,13:53,Giveaway,n/a,-25.0,35.0,Colton Parayko,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:47:09Z,2,07:10,12:50,Hit,n/a,53.0,-40.0,Jacob de la Rose,Hitter,St. Louis Blues,Zack Kassian,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:47:28Z,2,07:33,12:27,Giveaway,n/a,49.0,40.0,Justin Faulk,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:47:45Z,2,07:50,12:10,Shot,Wrist Shot,-52.0,-30.0,Vince Dunn,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:47:55Z,2,07:59,12:01,Takeaway,n/a,39.0,36.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:48:01Z,2,08:04,11:56,Goal,Wrist Shot,-63.0,-2.0,Brayden Schenn,Scorer,St. Louis Blues,Vince Dunn,Assist,St. Louis Blues,Jaden Schwartz,Assist,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers
+2019-12-19T02:49:04Z,2,08:04,11:56,Faceoff,n/a,0.0,0.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:49:19Z,2,08:39,11:21,Blocked Shot,n/a,-73.0,-5.0,Caleb Jones,Blocker,Edmonton Oilers,Zach Sanford,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:49:27Z,2,08:47,11:13,Shot,Wrist Shot,-76.0,-2.0,Alexander Steen,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:50:03Z,2,09:18,10:42,Penalty,Tripping,-33.0,18.0,Oscar Klefbom,PenaltyOn,Edmonton Oilers,Alex Pietrangelo,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:52:16Z,2,09:18,10:42,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:52:34Z,2,09:33,10:27,Shot,Slap Shot,-58.0,-20.0,David Perron,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:52:45Z,2,09:43,10:17,Shot,Slap Shot,-64.0,26.0,Ryan O'Reilly,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:53:19Z,2,10:17,09:43,Blocked Shot,n/a,-73.0,3.0,Jujhar Khaira,Blocker,Edmonton Oilers,Brayden Schenn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:53:22Z,2,10:20,09:40,Hit,n/a,-43.0,-40.0,Jujhar Khaira,Hitter,Edmonton Oilers,Brayden Schenn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:53:40Z,2,10:28,09:32,Penalty,Interference,-23.0,10.0,Robert Thomas,PenaltyOn,St. Louis Blues,Jujhar Khaira,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:54:14Z,2,10:28,09:32,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Oskar Sundqvist,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:54:26Z,2,10:34,09:26,Shot,Wrist Shot,40.0,25.0,Leon Draisaitl,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:57:05Z,2,10:36,09:24,Faceoff,n/a,69.0,22.0,Gaetan Haas,Winner,Edmonton Oilers,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:57:38Z,2,11:07,08:53,Hit,n/a,63.0,38.0,Gaetan Haas,Hitter,Edmonton Oilers,Alexander Steen,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:58:24Z,2,11:55,08:05,Hit,n/a,65.0,-38.0,Alex Pietrangelo,Hitter,St. Louis Blues,Leon Draisaitl,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:58:34Z,2,12:02,07:58,Takeaway,n/a,27.0,1.0,Oskar Sundqvist,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:58:46Z,2,12:17,07:43,Shot,Wrist Shot,62.0,11.0,James Neal,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:59:29Z,2,12:18,07:42,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:59:26Z,2,12:23,07:37,Giveaway,n/a,33.0,41.0,Justin Faulk,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:59:31Z,2,12:30,07:30,Blocked Shot,n/a,62.0,-6.0,Robert Bortuzzo,Blocker,St. Louis Blues,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:59:38Z,2,12:32,07:28,Shot,Wrist Shot,72.0,-15.0,Alex Chiasson,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:59:47Z,2,12:46,07:14,Takeaway,n/a,-83.0,37.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T02:59:54Z,2,12:54,07:06,Missed Shot,n/a,-38.0,-2.0,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:00:38Z,2,13:37,06:23,Hit,n/a,-33.0,40.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Zack Kassian,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:00:58Z,2,13:58,06:02,Missed Shot,n/a,75.0,1.0,Jujhar Khaira,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:01:40Z,2,14:13,05:47,Penalty,Delaying Game - Puck over glass,-92.0,-30.0,Ryan Nugent-Hopkins,PenaltyOn,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:03:35Z,2,14:13,05:47,Faceoff,n/a,-69.0,-22.0,Brayden Schenn,Winner,St. Louis Blues,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:03:52Z,2,14:25,05:35,Takeaway,n/a,-78.0,34.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:04:30Z,2,15:04,04:56,Shot,Slap Shot,-44.0,1.0,Alex Pietrangelo,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:04:52Z,2,15:05,04:55,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:05:08Z,2,15:15,04:45,Blocked Shot,n/a,-71.0,-13.0,Ethan Bear,Blocker,Edmonton Oilers,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:05:32Z,2,15:40,04:20,Missed Shot,n/a,-50.0,11.0,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:06:01Z,2,15:48,04:12,Faceoff,n/a,-69.0,22.0,Oskar Sundqvist,Winner,St. Louis Blues,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:06:15Z,2,15:54,04:06,Shot,Slap Shot,-53.0,-32.0,Justin Faulk,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:06:31Z,2,16:10,03:50,Missed Shot,n/a,-75.0,12.0,Oskar Sundqvist,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:06:43Z,2,16:12,03:48,Blocked Shot,n/a,-81.0,0.0,Adam Larsson,Blocker,Edmonton Oilers,Justin Faulk,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:07:00Z,2,16:14,03:46,Shot,Wrist Shot,-75.0,-1.0,Justin Faulk,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:07:38Z,2,16:15,03:45,Faceoff,n/a,-69.0,-22.0,Jacob de la Rose,Winner,St. Louis Blues,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:07:48Z,2,16:28,03:32,Faceoff,n/a,-69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:08:11Z,2,16:39,03:21,Shot,Slap Shot,65.0,-25.0,Zack Kassian,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:08:30Z,2,16:58,03:02,Missed Shot,n/a,-39.0,34.0,Colton Parayko,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:09:30Z,2,17:58,02:02,Shot,Tip-In,31.0,-8.0,Sam Gagner,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:09:36Z,2,18:04,01:56,Shot,Wrist Shot,-60.0,-13.0,David Perron,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:09:54Z,2,18:21,01:39,Missed Shot,n/a,72.0,-20.0,Sam Gagner,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:10:34Z,2,18:22,01:38,Faceoff,n/a,69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:10:50Z,2,18:36,01:24,Takeaway,n/a,72.0,39.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:11:01Z,2,18:50,01:10,Hit,n/a,26.0,-39.0,Oskar Sundqvist,Hitter,St. Louis Blues,Joakim Nygard,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:11:23Z,2,19:09,00:51,Shot,Deflected,-93.0,-8.0,Brayden Schenn,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:11:46Z,2,19:10,00:50,Faceoff,n/a,-69.0,-22.0,Brayden Schenn,Winner,St. Louis Blues,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:12:08Z,2,19:19,00:41,Shot,Wrist Shot,-67.0,36.0,Alex Pietrangelo,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:12:14Z,2,19:20,00:40,Faceoff,n/a,-69.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:12:40Z,2,19:27,00:33,Shot,Wrist Shot,-70.0,-18.0,Justin Faulk,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:12:57Z,2,19:31,00:29,Faceoff,n/a,-69.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:13:40Z,2,19:36,00:24,Hit,n/a,-98.0,-9.0,Jaden Schwartz,Hitter,St. Louis Blues,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:13:49Z,2,19:45,00:15,Shot,Tip-In,-64.0,0.0,David Perron,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:14:37Z,2,19:53,00:07,Faceoff,n/a,20.0,22.0,Robert Thomas,Winner,St. Louis Blues,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:33:25Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Brayden Schenn,Winner,St. Louis Blues,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:34:08Z,3,00:40,19:20,Shot,Slap Shot,39.0,-33.0,Colton Parayko,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:35:10Z,3,01:41,18:19,Shot,Wrist Shot,84.0,8.0,Oskar Sundqvist,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:35:19Z,3,01:51,18:09,Shot,Wrist Shot,-82.0,-17.0,Leon Draisaitl,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:36:01Z,3,02:33,17:27,Hit,n/a,86.0,-33.0,Gaetan Haas,Hitter,Edmonton Oilers,Robert Thomas,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:36:43Z,3,03:13,16:47,Hit,n/a,-38.0,39.0,Vince Dunn,Hitter,St. Louis Blues,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:36:57Z,3,03:28,16:32,Hit,n/a,-93.0,-28.0,Jujhar Khaira,Hitter,Edmonton Oilers,Vince Dunn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:37:35Z,3,03:42,16:18,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:38:08Z,3,04:12,15:48,Shot,Tip-In,-67.0,2.0,Leon Draisaitl,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:38:22Z,3,04:23,15:37,Hit,n/a,-85.0,-34.0,Jay Bouwmeester,Hitter,St. Louis Blues,Connor McDavid,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:38:34Z,3,04:38,15:22,Missed Shot,n/a,79.0,14.0,Brayden Schenn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:39:01Z,3,05:05,14:55,Blocked Shot,n/a,72.0,-9.0,Caleb Jones,Blocker,Edmonton Oilers,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:39:08Z,3,05:09,14:51,Shot,Wrist Shot,-49.0,-19.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:39:41Z,3,05:10,14:50,Faceoff,n/a,-69.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:39:41Z,3,05:14,14:46,Shot,Slap Shot,-40.0,14.0,Caleb Jones,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:40:14Z,3,05:44,14:16,Missed Shot,n/a,-61.0,33.0,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:40:38Z,3,05:46,14:14,Faceoff,n/a,-69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:41:21Z,3,06:23,13:37,Goal,Wrist Shot,72.0,-2.0,Mackenzie MacEachern,Scorer,St. Louis Blues,Ryan O'Reilly,Assist,St. Louis Blues,David Perron,Assist,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers
+2019-12-19T03:42:10Z,3,06:23,13:37,Faceoff,n/a,0.0,0.0,Gaetan Haas,Winner,Edmonton Oilers,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:42:16Z,3,06:36,13:24,Takeaway,n/a,-24.0,17.0,Mackenzie MacEachern,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:42:34Z,3,06:54,13:06,Hit,n/a,0.0,-41.0,Troy Brouwer,Hitter,St. Louis Blues,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:42:59Z,3,07:19,12:41,Hit,n/a,39.0,-39.0,Caleb Jones,Hitter,Edmonton Oilers,Jordan Kyrou,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:43:06Z,3,07:26,12:34,Shot,Slap Shot,38.0,-7.0,Justin Faulk,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:43:19Z,3,07:39,12:21,Shot,Wrist Shot,-62.0,31.0,Jujhar Khaira,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:43:40Z,3,07:41,12:19,Shot,Backhand,-74.0,10.0,Riley Sheahan,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:45:25Z,3,07:50,12:10,Faceoff,n/a,-69.0,-22.0,Robert Thomas,Winner,St. Louis Blues,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:46:07Z,3,08:13,11:47,Takeaway,n/a,-9.0,25.0,Alexander Steen,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:46:15Z,3,08:19,11:41,Shot,Wrist Shot,-63.0,6.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:46:30Z,3,08:20,11:40,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:46:51Z,3,08:33,11:27,Shot,Backhand,73.0,6.0,Ryan O'Reilly,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:47:12Z,3,08:50,11:10,Takeaway,n/a,-41.0,39.0,Jay Bouwmeester,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:47:23Z,3,09:04,10:56,Hit,n/a,-40.0,-39.0,Jaden Schwartz,Hitter,St. Louis Blues,Gaetan Haas,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:48:15Z,3,09:57,10:03,Missed Shot,n/a,47.0,-6.0,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:48:23Z,3,10:02,09:58,Hit,n/a,48.0,40.0,Riley Sheahan,Hitter,Edmonton Oilers,Jordan Kyrou,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:48:44Z,3,10:23,09:37,Takeaway,n/a,5.0,-34.0,Jacob de la Rose,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:48:47Z,3,10:28,09:32,Shot,Backhand,78.0,6.0,Troy Brouwer,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:50:47Z,3,10:30,09:30,Faceoff,n/a,69.0,22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:52:09Z,3,11:37,08:23,Takeaway,n/a,97.0,1.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:52:19Z,3,11:45,08:15,Hit,n/a,-91.0,30.0,Jay Bouwmeester,Hitter,St. Louis Blues,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:52:22Z,3,11:49,08:11,Shot,Wrist Shot,-72.0,9.0,Darnell Nurse,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:52:40Z,3,11:52,08:08,Shot,Backhand,-75.0,2.0,Zack Kassian,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:52:54Z,3,11:53,08:07,Faceoff,n/a,-20.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:54:08Z,3,12:10,07:50,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:54:37Z,3,12:28,07:32,Shot,Wrist Shot,5.0,-35.0,Jordan Kyrou,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:55:08Z,3,13:01,06:59,Shot,Wrist Shot,-62.0,-27.0,Alex Chiasson,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:55:40Z,3,13:02,06:58,Faceoff,n/a,-69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:55:55Z,3,13:15,06:45,Shot,Wrist Shot,-37.0,2.0,Caleb Jones,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:56:07Z,3,13:28,06:32,Takeaway,n/a,-58.0,27.0,Justin Faulk,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:56:43Z,3,14:00,06:00,Takeaway,n/a,-97.0,1.0,Ryan O'Reilly,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:56:48Z,3,14:06,05:54,Shot,Backhand,4.0,39.0,David Perron,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:58:44Z,3,14:14,05:46,Faceoff,n/a,69.0,22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T03:59:26Z,3,14:26,05:34,Hit,n/a,83.0,36.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Ethan Bear,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:00:03Z,3,14:36,05:24,Faceoff,n/a,20.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:00:14Z,3,14:43,05:17,Blocked Shot,n/a,67.0,-12.0,Darnell Nurse,Blocker,Edmonton Oilers,Jordan Kyrou,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:00:20Z,3,14:49,05:11,Shot,Wrist Shot,66.0,-28.0,Jordan Kyrou,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:00:26Z,3,14:55,05:05,Hit,n/a,5.0,-40.0,Jordan Kyrou,Hitter,St. Louis Blues,Gaetan Haas,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:00:31Z,3,15:00,05:00,Hit,n/a,-98.0,13.0,Alex Chiasson,Hitter,Edmonton Oilers,Vince Dunn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:02:01Z,3,16:28,03:32,Hit,n/a,-95.0,23.0,Ryan Nugent-Hopkins,Hitter,Edmonton Oilers,Jay Bouwmeester,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:02:18Z,3,16:47,03:13,Blocked Shot,n/a,73.0,-3.0,Kris Russell,Blocker,Edmonton Oilers,Alexander Steen,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:02:26Z,3,16:55,03:05,Shot,Wrist Shot,69.0,-5.0,Alexander Steen,Shooter,St. Louis Blues,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:03:25Z,3,17:22,02:38,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:03:37Z,3,17:40,02:20,Shot,Wrist Shot,-60.0,32.0,Sam Gagner,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:04:23Z,3,17:41,02:19,Faceoff,n/a,-69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:04:26Z,3,17:51,02:09,Missed Shot,n/a,-66.0,1.0,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:04:32Z,3,17:52,02:08,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:05:12Z,3,18:10,01:50,Goal,Tip-In,-86.0,21.0,James Neal,Scorer,Edmonton Oilers,Zack Kassian,Assist,Edmonton Oilers,Leon Draisaitl,Assist,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues
+2019-12-19T04:08:28Z,3,18:10,01:50,Faceoff,n/a,0.0,0.0,Ryan O'Reilly,Winner,St. Louis Blues,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:08:28Z,3,18:10,01:50,Penalty,Delay of game,1.0,1.0,David Perron,PenaltyOn,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:08:24Z,3,18:27,01:33,Shot,Slap Shot,-36.0,2.0,Oscar Klefbom,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:08:36Z,3,18:40,01:20,Shot,Slap Shot,-66.0,-24.0,Leon Draisaitl,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:08:56Z,3,19:00,01:00,Shot,Wrist Shot,-84.0,11.0,Connor McDavid,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:09:28Z,3,19:30,00:30,Shot,Wrist Shot,-66.0,-20.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:09:40Z,3,19:42,00:18,Missed Shot,n/a,-56.0,3.0,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-19T04:09:56Z,3,19:59,00:01,Shot,Wrist Shot,-55.0,23.0,Connor McDavid,Shooter,Edmonton Oilers,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a

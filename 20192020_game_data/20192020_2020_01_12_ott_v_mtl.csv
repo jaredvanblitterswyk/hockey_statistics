@@ -1,0 +1,289 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-12T00:16:01Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:16:58Z,1,00:48,19:12,Shot,Wrist Shot,60.0,-31.0,Dylan DeMelo,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:17:09Z,1,00:58,19:02,Missed Shot,n/a,-46.0,-27.0,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:17:18Z,1,01:07,18:53,Takeaway,n/a,-98.0,13.0,Artturi Lehkonen,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:17:38Z,1,01:27,18:33,Hit,n/a,-13.0,38.0,Rudolfs Balcers,Hitter,Ottawa Senators,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:17:44Z,1,01:33,18:27,Hit,n/a,-69.0,-39.0,Ron Hainsey,Hitter,Ottawa Senators,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:17:58Z,1,01:47,18:13,Hit,n/a,30.0,3.0,Andreas Englund,Hitter,Ottawa Senators,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:18:50Z,1,02:37,17:23,Shot,Backhand,-85.0,22.0,Marco Scandella,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:19:04Z,1,02:38,17:22,Faceoff,n/a,-69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:19:20Z,1,02:46,17:14,Missed Shot,n/a,-48.0,6.0,Ilya Kovalchuk,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:19:37Z,1,03:03,16:57,Hit,n/a,-91.0,-30.0,Victor Mete,Hitter,Montréal Canadiens,Jean-Gabriel Pageau,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:19:44Z,1,03:10,16:50,Shot,Snap Shot,-36.0,34.0,Shea Weber,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:19:56Z,1,03:22,16:38,Giveaway,n/a,-87.0,-16.0,Ron Hainsey,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:20:01Z,1,03:27,16:33,Blocked Shot,n/a,-78.0,-7.0,Ron Hainsey,Blocker,Ottawa Senators,Victor Mete,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:20:13Z,1,03:34,16:26,Missed Shot,n/a,-77.0,5.0,Ilya Kovalchuk,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:20:28Z,1,03:54,16:06,Giveaway,n/a,-60.0,40.0,Brady Tkachuk,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:20:46Z,1,04:11,15:49,Hit,n/a,-81.0,34.0,Nick Suzuki,Hitter,Montréal Canadiens,Mike Reilly,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:21:17Z,1,04:13,15:47,Faceoff,n/a,-69.0,22.0,Jesperi Kotkaniemi,Winner,Montréal Canadiens,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:22:10Z,1,04:32,15:28,Faceoff,n/a,69.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:22:20Z,1,04:39,15:21,Hit,n/a,22.0,40.0,Matthew Peca,Hitter,Montréal Canadiens,Andreas Englund,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:22:46Z,1,05:05,14:55,Hit,n/a,97.0,13.0,Dale Weise,Hitter,Montréal Canadiens,Vladislav Namestnikov,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:23:01Z,1,05:20,14:40,Hit,n/a,22.0,37.0,Shea Weber,Hitter,Montréal Canadiens,Filip Chlapik,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:23:13Z,1,05:29,14:31,Shot,Wrap-around,88.0,-3.0,Tyler Ennis,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:23:43Z,1,06:02,13:58,Missed Shot,n/a,-77.0,-5.0,Marco Scandella,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:23:47Z,1,06:06,13:54,Missed Shot,n/a,-84.0,10.0,Marco Scandella,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:23:52Z,1,06:11,13:49,Missed Shot,n/a,-82.0,0.0,Nate Thompson,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:24:03Z,1,06:22,13:38,Hit,n/a,-48.0,-40.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Marco Scandella,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:24:24Z,1,06:30,13:30,Faceoff,n/a,-69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:25:15Z,1,06:55,13:05,Hit,n/a,-97.0,-12.0,Dylan DeMelo,Hitter,Ottawa Senators,Tomas Tatar,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:25:35Z,1,07:12,12:48,Shot,Wrist Shot,49.0,35.0,Brady Tkachuk,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:27:25Z,1,07:13,12:47,Faceoff,n/a,69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:27:50Z,1,07:22,12:38,Hit,n/a,-18.0,-39.0,Brady Tkachuk,Hitter,Ottawa Senators,Nick Suzuki,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:28:05Z,1,07:38,12:22,Shot,Snap Shot,34.0,-27.0,Dylan DeMelo,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:28:21Z,1,07:42,12:18,Penalty,Cross checking,-4.0,38.0,Dylan DeMelo,PenaltyOn,Ottawa Senators,Max Domi,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:29:03Z,1,07:42,12:18,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:29:34Z,1,08:04,11:56,Blocked Shot,n/a,-41.0,-1.0,Chris Tierney,Blocker,Ottawa Senators,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:29:41Z,1,08:08,11:52,Missed Shot,n/a,-55.0,-16.0,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:29:51Z,1,08:24,11:36,Goal,Wrist Shot,-47.0,26.0,Nick Suzuki,Scorer,Montréal Canadiens,Jeff Petry,Assist,Montréal Canadiens,Tomas Tatar,Assist,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators
+2020-01-12T00:30:49Z,1,08:24,11:36,Faceoff,n/a,0.0,0.0,Artem Anisimov,Winner,Ottawa Senators,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:31:02Z,1,08:44,11:16,Takeaway,n/a,-65.0,-38.0,Artem Anisimov,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:31:13Z,1,08:45,11:15,Hit,n/a,-13.0,-36.0,Nick Cousins,Hitter,Montréal Canadiens,Artem Anisimov,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:31:36Z,1,09:13,10:47,Shot,Tip-In,-68.0,-3.0,Jesperi Kotkaniemi,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:35:20Z,1,09:14,10:46,Faceoff,n/a,-69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:35:59Z,1,09:21,10:39,Takeaway,n/a,-74.0,-26.0,Colin White,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:36:07Z,1,09:29,10:31,Hit,n/a,13.0,-37.0,Brady Tkachuk,Hitter,Ottawa Senators,Nate Thompson,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:36:26Z,1,09:48,10:12,Hit,n/a,-98.0,-6.0,Ryan Poehling,Hitter,Montréal Canadiens,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:37:27Z,1,10:36,09:24,Faceoff,n/a,-20.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:37:46Z,1,10:44,09:16,Giveaway,n/a,-70.0,39.0,Anthony Duclair,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:37:52Z,1,10:48,09:12,Shot,Wrist Shot,-75.0,2.0,Artturi Lehkonen,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:37:52Z,1,10:50,09:10,Missed Shot,n/a,-78.0,0.0,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:37:52Z,1,10:51,09:09,Missed Shot,n/a,-89.0,11.0,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:38:44Z,1,11:38,08:22,Shot,Slap Shot,-34.0,33.0,Cale Fleury,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:38:45Z,1,11:43,08:17,Blocked Shot,n/a,-47.0,15.0,Artem Anisimov,Blocker,Ottawa Senators,Cale Fleury,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:39:15Z,1,12:10,07:50,Penalty,Cross checking,-95.0,-13.0,Nick Cousins,PenaltyOn,Montréal Canadiens,Cody Goloubef,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:39:59Z,1,12:10,07:50,Faceoff,n/a,69.0,22.0,Brady Tkachuk,Winner,Ottawa Senators,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:40:08Z,1,12:18,07:42,Shot,Wrist Shot,51.0,23.0,Anthony Duclair,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:40:16Z,1,12:19,07:41,Faceoff,n/a,69.0,22.0,Brady Tkachuk,Winner,Ottawa Senators,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:40:29Z,1,12:27,07:33,Shot,Tip-In,85.0,-7.0,Brady Tkachuk,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:40:42Z,1,12:33,07:27,Penalty,Hooking,66.0,-38.0,Drake Batherson,PenaltyOn,Ottawa Senators,Artturi Lehkonen,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:41:07Z,1,12:33,07:27,Faceoff,n/a,-69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:42:09Z,1,13:24,06:36,Giveaway,n/a,-23.0,-23.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:42:13Z,1,13:28,06:32,Takeaway,n/a,-77.0,-35.0,Jean-Gabriel Pageau,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:42:31Z,1,13:45,06:15,Blocked Shot,n/a,66.0,14.0,Tomas Tatar,Blocker,Montréal Canadiens,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:42:38Z,1,13:53,06:07,Shot,Wrap-around,87.0,-8.0,Chris Tierney,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:43:25Z,1,14:13,05:47,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:44:08Z,1,14:38,05:22,Penalty,Interference,-15.0,-39.0,Drake Batherson,PenaltyOn,Ottawa Senators,Ilya Kovalchuk,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:46:25Z,1,14:38,05:22,Faceoff,n/a,-69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:47:35Z,1,15:02,04:58,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Ilya Kovalchuk,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:48:08Z,1,15:29,04:31,Hit,n/a,-86.0,-30.0,Connor Brown,Hitter,Ottawa Senators,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:48:14Z,1,15:36,04:24,Missed Shot,n/a,61.0,-19.0,Chris Tierney,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:48:46Z,1,16:07,03:53,Missed Shot,n/a,-51.0,-7.0,Ilya Kovalchuk,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:49:05Z,1,16:24,03:36,Shot,Backhand,-82.0,4.0,Phillip Danault,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:49:46Z,1,16:25,03:35,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:50:31Z,1,17:19,02:41,Hit,n/a,94.0,-8.0,Brady Tkachuk,Hitter,Ottawa Senators,Jeff Petry,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:50:39Z,1,17:27,02:33,Takeaway,n/a,43.0,-35.0,Rudolfs Balcers,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:50:56Z,1,17:44,02:16,Missed Shot,n/a,-53.0,-22.0,Brett Kulak,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:51:00Z,1,17:48,02:12,Blocked Shot,n/a,-77.0,7.0,Artem Anisimov,Blocker,Ottawa Senators,Cale Fleury,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:51:03Z,1,17:48,02:12,Hit,n/a,-61.0,-36.0,Vladislav Namestnikov,Hitter,Ottawa Senators,Ryan Poehling,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:51:32Z,1,17:49,02:11,Faceoff,n/a,-20.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:51:41Z,1,17:59,02:01,Hit,n/a,76.0,36.0,Tyler Ennis,Hitter,Ottawa Senators,Victor Mete,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:51:49Z,1,18:07,01:53,Hit,n/a,93.0,25.0,Filip Chlapik,Hitter,Ottawa Senators,Shea Weber,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:52:12Z,1,18:30,01:30,Takeaway,n/a,-97.0,1.0,Jesperi Kotkaniemi,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:52:22Z,1,18:40,01:20,Giveaway,n/a,-51.0,24.0,Jean-Gabriel Pageau,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:52:25Z,1,18:43,01:17,Shot,Snap Shot,-70.0,15.0,Artturi Lehkonen,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:52:34Z,1,18:52,01:08,Blocked Shot,n/a,-69.0,4.0,Ron Hainsey,Blocker,Ottawa Senators,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:52:34Z,1,18:56,01:04,Hit,n/a,-81.0,37.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Artturi Lehkonen,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:52:43Z,1,19:00,01:00,Blocked Shot,n/a,-77.0,1.0,Ron Hainsey,Blocker,Ottawa Senators,Jesperi Kotkaniemi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:54:31Z,1,19:04,00:56,Blocked Shot,n/a,-85.0,5.0,Ron Hainsey,Blocker,Ottawa Senators,Nick Suzuki,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:52:52Z,1,19:06,00:54,Blocked Shot,n/a,-48.0,6.0,Anthony Duclair,Blocker,Ottawa Senators,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:53:02Z,1,19:16,00:44,Shot,Deflected,66.0,-6.0,Chris Tierney,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:53:25Z,1,19:17,00:43,Faceoff,n/a,69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:53:43Z,1,19:37,00:23,Giveaway,n/a,74.0,6.0,Victor Mete,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T00:53:52Z,1,19:46,00:14,Hit,n/a,98.0,-8.0,Shea Weber,Hitter,Montréal Canadiens,Drake Batherson,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:12:39Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:13:07Z,2,00:15,19:45,Faceoff,n/a,69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:13:32Z,2,00:18,19:42,Shot,Deflected,40.0,-24.0,Ilya Kovalchuk,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:13:47Z,2,00:19,19:41,Faceoff,n/a,69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:13:58Z,2,00:25,19:35,Missed Shot,n/a,33.0,11.0,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:14:00Z,2,00:27,19:33,Shot,Wrist Shot,85.0,-28.0,Ilya Kovalchuk,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:14:04Z,2,00:31,19:29,Missed Shot,n/a,31.0,30.0,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:14:56Z,2,01:04,18:56,Faceoff,n/a,-69.0,-22.0,Nick Suzuki,Winner,Montréal Canadiens,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:15:45Z,2,01:45,18:15,Giveaway,n/a,61.0,36.0,Nick Suzuki,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:16:16Z,2,01:51,18:09,Faceoff,n/a,-69.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:16:25Z,2,02:03,17:57,Missed Shot,n/a,-66.0,7.0,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:16:59Z,2,02:36,17:24,Takeaway,n/a,59.0,38.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:17:12Z,2,02:49,17:11,Hit,n/a,-87.0,-32.0,Filip Chlapik,Hitter,Ottawa Senators,Brett Kulak,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:17:24Z,2,03:02,16:58,Shot,Snap Shot,-51.0,-16.0,Filip Chlapik,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:17:56Z,2,03:33,16:27,Hit,n/a,88.0,-28.0,Dale Weise,Hitter,Montréal Canadiens,Andreas Englund,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:17:59Z,2,03:36,16:24,Giveaway,n/a,-80.0,6.0,Carey Price,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:33:29Z,2,03:50,16:10,Giveaway,n/a,99.0,6.0,Dylan DeMelo,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:18:36Z,2,04:06,15:54,Missed Shot,n/a,-56.0,28.0,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:19:03Z,2,04:25,15:35,Faceoff,n/a,69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:19:30Z,2,04:33,15:27,Faceoff,n/a,69.0,22.0,Max Domi,Winner,Montréal Canadiens,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:20:01Z,2,04:38,15:22,Shot,Wrist Shot,52.0,-34.0,Jeff Petry,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:20:14Z,2,04:39,15:21,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:20:41Z,2,04:57,15:03,Blocked Shot,n/a,-75.0,-7.0,Jeff Petry,Blocker,Montréal Canadiens,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:21:24Z,2,05:40,14:20,Missed Shot,n/a,18.0,0.0,Cale Fleury,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:21:26Z,2,05:42,14:18,Hit,n/a,97.0,17.0,Nick Cousins,Hitter,Montréal Canadiens,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:21:46Z,2,06:00,14:00,Shot,Snap Shot,-60.0,-20.0,Rudolfs Balcers,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:23:44Z,2,06:01,13:59,Faceoff,n/a,-69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:24:14Z,2,06:09,13:51,Giveaway,n/a,-2.0,12.0,Dale Weise,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:24:21Z,2,06:15,13:45,Blocked Shot,n/a,-79.0,-10.0,Cale Fleury,Blocker,Montréal Canadiens,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:24:29Z,2,06:23,13:37,Hit,n/a,-97.0,11.0,Nate Thompson,Hitter,Montréal Canadiens,Vladislav Namestnikov,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:24:55Z,2,06:50,13:10,Hit,n/a,34.0,38.0,Dale Weise,Hitter,Montréal Canadiens,Vladislav Namestnikov,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:25:11Z,2,07:03,12:57,Missed Shot,n/a,61.0,2.0,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:25:13Z,2,07:05,12:55,Shot,Wrist Shot,78.0,11.0,Tomas Tatar,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:33:29Z,2,07:06,12:54,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:25:52Z,2,07:14,12:46,Missed Shot,n/a,36.0,31.0,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:26:04Z,2,07:35,12:25,Hit,n/a,-7.0,39.0,Thomas Chabot,Hitter,Ottawa Senators,Ilya Kovalchuk,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:26:15Z,2,07:46,12:14,Shot,Wrist Shot,-45.0,1.0,Thomas Chabot,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:26:31Z,2,08:02,11:58,Shot,Wrist Shot,-37.0,31.0,Mike Reilly,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:26:35Z,2,08:04,11:56,Shot,Wrist Shot,-78.0,-35.0,Thomas Chabot,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:27:01Z,2,08:05,11:55,Faceoff,n/a,-69.0,-22.0,Nick Suzuki,Winner,Montréal Canadiens,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:27:48Z,2,08:25,11:35,Faceoff,n/a,20.0,-22.0,Jesperi Kotkaniemi,Winner,Montréal Canadiens,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:28:50Z,2,08:43,11:17,Faceoff,n/a,20.0,22.0,Colin White,Winner,Ottawa Senators,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:29:09Z,2,09:11,10:49,Shot,Wrap-around,85.0,4.0,Jeff Petry,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:29:22Z,2,09:14,10:46,Hit,n/a,91.0,-23.0,Jesperi Kotkaniemi,Hitter,Montréal Canadiens,Colin White,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:29:39Z,2,09:42,10:18,Hit,n/a,95.0,14.0,Dale Weise,Hitter,Montréal Canadiens,Andreas Englund,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:30:17Z,2,10:19,09:41,Takeaway,n/a,17.0,26.0,Ron Hainsey,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:30:34Z,2,10:37,09:23,Missed Shot,n/a,-53.0,5.0,Connor Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:30:38Z,2,10:40,09:20,Hit,n/a,-84.0,-24.0,Cale Fleury,Hitter,Montréal Canadiens,Brady Tkachuk,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:31:05Z,2,10:59,09:01,Penalty,Interference,-80.0,1.0,Brady Tkachuk,PenaltyOn,Ottawa Senators,Victor Mete,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:33:19Z,2,10:59,09:01,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:33:44Z,2,11:22,08:38,Giveaway,n/a,55.0,7.0,Phillip Danault,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:34:16Z,2,11:53,08:07,Shot,Wrist Shot,-77.0,0.0,Chris Tierney,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:34:54Z,2,11:54,08:06,Faceoff,n/a,-69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:34:55Z,2,11:56,08:04,Shot,Snap Shot,-53.0,-9.0,Anthony Duclair,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:35:12Z,2,12:15,07:45,Blocked Shot,n/a,79.0,-16.0,Ron Hainsey,Blocker,Ottawa Senators,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:35:33Z,2,12:32,07:28,Blocked Shot,n/a,63.0,4.0,Dylan DeMelo,Blocker,Ottawa Senators,Ilya Kovalchuk,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:35:54Z,2,12:33,07:27,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:36:11Z,2,12:46,07:14,Missed Shot,n/a,-59.0,22.0,Connor Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:36:26Z,2,13:02,06:58,Shot,Wrist Shot,59.0,27.0,Jesperi Kotkaniemi,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:37:01Z,2,13:37,06:23,Blocked Shot,n/a,74.0,-6.0,Thomas Chabot,Blocker,Ottawa Senators,Victor Mete,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:37:12Z,2,13:48,06:12,Hit,n/a,-96.0,-9.0,Nate Thompson,Hitter,Montréal Canadiens,Brady Tkachuk,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:37:26Z,2,14:02,05:58,Hit,n/a,95.0,-13.0,Dale Weise,Hitter,Montréal Canadiens,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:38:12Z,2,14:48,05:12,Blocked Shot,n/a,80.0,-5.0,Cale Fleury,Blocker,Montréal Canadiens,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:38:20Z,2,14:56,05:04,Giveaway,n/a,54.0,19.0,Colin White,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:38:32Z,2,15:08,04:52,Hit,n/a,51.0,40.0,Cale Fleury,Hitter,Montréal Canadiens,Tyler Ennis,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:39:02Z,2,15:18,04:42,Faceoff,n/a,-69.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:39:11Z,2,15:24,04:36,Missed Shot,n/a,-38.0,-8.0,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:39:14Z,2,15:24,04:36,Shot,Wrist Shot,-86.0,24.0,Dylan DeMelo,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:39:22Z,2,15:25,04:35,Shot,Wrist Shot,-64.0,0.0,Artem Anisimov,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:41:20Z,2,15:26,04:34,Faceoff,n/a,-69.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:41:44Z,2,15:40,04:20,Hit,n/a,-57.0,-39.0,Dylan DeMelo,Hitter,Ottawa Senators,Nick Suzuki,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:42:03Z,2,15:59,04:01,Shot,Wrist Shot,45.0,-33.0,Artturi Lehkonen,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:42:17Z,2,16:13,03:47,Shot,Wrist Shot,-52.0,30.0,Dylan DeMelo,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:42:25Z,2,16:21,03:39,Hit,n/a,97.0,11.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Artturi Lehkonen,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:42:52Z,2,16:26,03:34,Faceoff,n/a,20.0,-22.0,Brady Tkachuk,Winner,Ottawa Senators,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:43:39Z,2,16:36,03:24,Faceoff,n/a,20.0,22.0,Colin White,Winner,Ottawa Senators,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:43:43Z,2,16:45,03:15,Shot,Snap Shot,-60.0,23.0,Colin White,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:43:46Z,2,16:48,03:12,Missed Shot,n/a,-73.0,-34.0,Filip Chlapik,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:44:04Z,2,17:06,02:54,Giveaway,n/a,59.0,37.0,Tyler Ennis,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:44:32Z,2,17:33,02:27,Shot,Wrist Shot,-45.0,-32.0,Brady Tkachuk,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:45:01Z,2,17:34,02:26,Faceoff,n/a,-69.0,-22.0,Brady Tkachuk,Winner,Ottawa Senators,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:45:13Z,2,17:45,02:15,Shot,Snap Shot,-71.0,-24.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:45:22Z,2,17:46,02:14,Shot,Wrist Shot,-80.0,-4.0,Brady Tkachuk,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:45:44Z,2,17:47,02:13,Faceoff,n/a,-69.0,-22.0,Brady Tkachuk,Winner,Ottawa Senators,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:46:14Z,2,18:00,02:00,Shot,Wrist Shot,-40.0,2.0,Mike Reilly,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:46:41Z,2,18:39,01:21,Blocked Shot,n/a,-79.0,5.0,Jeff Petry,Blocker,Montréal Canadiens,Chris Tierney,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:46:47Z,2,18:42,01:18,Missed Shot,n/a,-54.0,-16.0,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:46:57Z,2,18:46,01:14,Faceoff,n/a,-69.0,-22.0,Drake Batherson,Winner,Ottawa Senators,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:48:48Z,2,19:50,00:10,Shot,Snap Shot,-63.0,-26.0,Connor Brown,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T01:49:10Z,2,19:51,00:09,Faceoff,n/a,-69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:08:15Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:08:42Z,3,00:22,19:38,Missed Shot,n/a,-46.0,-1.0,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:08:45Z,3,00:26,19:34,Shot,Deflected,-82.0,6.0,Phillip Danault,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:08:52Z,3,00:32,19:28,Hit,n/a,-55.0,40.0,Brady Tkachuk,Hitter,Ottawa Senators,Shea Weber,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:09:00Z,3,00:40,19:20,Giveaway,n/a,-96.0,-6.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:09:13Z,3,00:53,19:07,Blocked Shot,n/a,-57.0,-5.0,Thomas Chabot,Blocker,Ottawa Senators,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:09:44Z,3,01:25,18:35,Missed Shot,n/a,36.0,-34.0,Dylan DeMelo,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:09:50Z,3,01:25,18:35,Blocked Shot,n/a,79.0,10.0,Artturi Lehkonen,Blocker,Montréal Canadiens,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:09:55Z,3,01:28,18:32,Penalty,Interference,29.0,-8.0,Marco Scandella,PenaltyOn,Montréal Canadiens,Chris Tierney,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:10:20Z,3,01:28,18:32,Penalty,Embellishment,29.0,-18.0,Chris Tierney,PenaltyOn,Ottawa Senators,Marco Scandella,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:10:45Z,3,01:28,18:32,Faceoff,n/a,-20.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:11:42Z,3,02:13,17:47,Faceoff,n/a,-69.0,-22.0,Colin White,Winner,Ottawa Senators,Ilya Kovalchuk,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:12:12Z,3,02:35,17:25,Hit,n/a,87.0,34.0,Jeff Petry,Hitter,Montréal Canadiens,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:12:33Z,3,02:55,17:05,Hit,n/a,95.0,-22.0,Max Domi,Hitter,Montréal Canadiens,Anthony Duclair,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:12:39Z,3,02:57,17:03,Shot,Slap Shot,67.0,25.0,Mike Reilly,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:13:03Z,3,02:59,17:01,Faceoff,n/a,69.0,22.0,Brady Tkachuk,Winner,Ottawa Senators,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:13:10Z,3,03:11,16:49,Giveaway,n/a,-23.0,-8.0,Victor Mete,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:13:42Z,3,03:42,16:18,Shot,Snap Shot,50.0,-3.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:14:18Z,3,03:52,16:08,Faceoff,n/a,0.0,0.0,Jesperi Kotkaniemi,Winner,Montréal Canadiens,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:14:27Z,3,04:05,15:55,Hit,n/a,-9.0,39.0,Andreas Englund,Hitter,Ottawa Senators,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:14:33Z,3,04:08,15:52,Blocked Shot,n/a,-72.0,2.0,Andreas Englund,Blocker,Ottawa Senators,Cale Fleury,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:14:36Z,3,04:11,15:49,Shot,Wrist Shot,-58.0,12.0,Nick Cousins,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:14:48Z,3,04:12,15:48,Faceoff,n/a,-69.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Matthew Peca,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:15:10Z,3,04:22,15:38,Missed Shot,n/a,34.0,25.0,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:15:14Z,3,04:27,15:33,Hit,n/a,-18.0,-38.0,Rudolfs Balcers,Hitter,Ottawa Senators,Jesperi Kotkaniemi,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:15:59Z,3,05:11,14:49,Takeaway,n/a,73.0,4.0,Marco Scandella,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:16:25Z,3,05:18,14:42,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:16:55Z,3,05:37,14:23,Hit,n/a,-96.0,-8.0,Tomas Tatar,Hitter,Montréal Canadiens,Ron Hainsey,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:16:56Z,3,05:38,14:22,Takeaway,n/a,-96.0,12.0,Tomas Tatar,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:17:26Z,3,06:05,13:55,Penalty,Interference,59.0,-33.0,Victor Mete,PenaltyOn,Montréal Canadiens,Chris Tierney,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:19:12Z,3,06:05,13:55,Faceoff,n/a,69.0,22.0,Brady Tkachuk,Winner,Ottawa Senators,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:19:48Z,3,06:18,13:42,Shot,Snap Shot,59.0,28.0,Anthony Duclair,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:20:22Z,3,06:51,13:09,Shot,Slap Shot,34.0,-3.0,Thomas Chabot,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:21:33Z,3,08:02,11:58,Shot,Wrist Shot,73.0,32.0,Artem Anisimov,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:21:57Z,3,08:27,11:33,Missed Shot,n/a,66.0,28.0,Filip Chlapik,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:22:09Z,3,08:38,11:22,Blocked Shot,n/a,-64.0,2.0,Mike Reilly,Blocker,Ottawa Senators,Nick Cousins,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:22:21Z,3,08:50,11:10,Giveaway,n/a,-95.0,23.0,Mike Reilly,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:22:33Z,3,09:03,10:57,Hit,n/a,-65.0,-38.0,Dylan DeMelo,Hitter,Ottawa Senators,Nick Suzuki,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:22:44Z,3,09:08,10:52,Hit,n/a,-27.0,37.0,Ron Hainsey,Hitter,Ottawa Senators,Tomas Tatar,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:23:03Z,3,09:27,10:33,Penalty,Holding,-92.0,-26.0,Tomas Tatar,PenaltyOn,Montréal Canadiens,Dylan DeMelo,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:23:41Z,3,09:27,10:33,Faceoff,n/a,69.0,22.0,Brady Tkachuk,Winner,Ottawa Senators,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:23:40Z,3,09:36,10:24,Missed Shot,n/a,59.0,-2.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:23:54Z,3,09:49,10:11,Shot,Wrist Shot,82.0,1.0,Brady Tkachuk,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:24:02Z,3,09:57,10:03,Hit,n/a,64.0,-38.0,Brady Tkachuk,Hitter,Ottawa Senators,Marco Scandella,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:24:17Z,3,10:13,09:47,Hit,n/a,34.0,-37.0,Ryan Poehling,Hitter,Montréal Canadiens,Jean-Gabriel Pageau,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:24:32Z,3,10:26,09:34,Blocked Shot,n/a,76.0,-17.0,Marco Scandella,Blocker,Montréal Canadiens,Drake Batherson,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:24:55Z,3,10:27,09:33,Faceoff,n/a,69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:25:06Z,3,10:31,09:29,Giveaway,n/a,95.0,-10.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:25:11Z,3,10:36,09:24,Missed Shot,n/a,81.0,-5.0,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:25:38Z,3,11:02,08:58,Hit,n/a,96.0,-8.0,Cale Fleury,Hitter,Montréal Canadiens,Tyler Ennis,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:25:50Z,3,11:15,08:45,Shot,Snap Shot,80.0,16.0,Tyler Ennis,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:25:51Z,3,11:16,08:44,Giveaway,n/a,83.0,6.0,Cale Fleury,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:25:58Z,3,11:23,08:37,Blocked Shot,n/a,60.0,-11.0,Nate Thompson,Blocker,Montréal Canadiens,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:26:01Z,3,11:24,08:36,Shot,Wrist Shot,52.0,23.0,Tyler Ennis,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:26:29Z,3,11:25,08:35,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:26:39Z,3,11:30,08:30,Shot,Wrist Shot,32.0,-19.0,Ron Hainsey,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:26:57Z,3,11:48,08:12,Shot,Wrist Shot,54.0,-1.0,Ron Hainsey,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:29:34Z,3,11:55,08:05,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:30:09Z,3,12:06,07:54,Faceoff,n/a,20.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:30:53Z,3,12:47,07:13,Missed Shot,n/a,-45.0,-22.0,Brett Kulak,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:31:18Z,3,13:12,06:48,Hit,n/a,96.0,-19.0,Filip Chlapik,Hitter,Ottawa Senators,Max Domi,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:31:32Z,3,13:26,06:34,Missed Shot,n/a,-66.0,28.0,Matthew Peca,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:31:41Z,3,13:32,06:28,Goal,Wrist Shot,71.0,1.0,Drake Batherson,Scorer,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:32:43Z,3,13:32,06:28,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:32:55Z,3,13:45,06:15,Takeaway,n/a,70.0,-21.0,Chris Tierney,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:33:06Z,3,13:56,06:04,Shot,Wrist Shot,35.0,20.0,Mike Reilly,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:33:34Z,3,14:02,05:58,Faceoff,n/a,69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:33:52Z,3,14:10,05:50,Shot,Tip-In,57.0,11.0,Rudolfs Balcers,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:34:20Z,3,14:38,05:22,Hit,n/a,94.0,21.0,Vladislav Namestnikov,Hitter,Ottawa Senators,Shea Weber,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:34:52Z,3,15:09,04:51,Shot,Snap Shot,58.0,-18.0,Connor Brown,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:36:42Z,3,15:10,04:50,Faceoff,n/a,69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:37:17Z,3,15:15,04:45,Shot,Wrist Shot,40.0,-16.0,Connor Brown,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:37:22Z,3,15:17,04:43,Blocked Shot,n/a,79.0,4.0,Victor Mete,Blocker,Montréal Canadiens,Jean-Gabriel Pageau,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:37:40Z,3,15:18,04:42,Faceoff,n/a,69.0,22.0,Brady Tkachuk,Winner,Ottawa Senators,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:37:55Z,3,15:23,04:37,Blocked Shot,n/a,80.0,1.0,Victor Mete,Blocker,Montréal Canadiens,Jean-Gabriel Pageau,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:38:03Z,3,15:32,04:28,Hit,n/a,97.0,-5.0,Brady Tkachuk,Hitter,Ottawa Senators,Shea Weber,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:38:06Z,3,15:34,04:26,Blocked Shot,n/a,81.0,5.0,Ilya Kovalchuk,Blocker,Montréal Canadiens,Jean-Gabriel Pageau,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:38:25Z,3,15:40,04:20,Faceoff,n/a,-69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:38:55Z,3,15:56,04:04,Blocked Shot,n/a,79.0,-9.0,Marco Scandella,Blocker,Montréal Canadiens,Anthony Duclair,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:39:06Z,3,15:57,04:03,Penalty,Tripping,49.0,-18.0,Marco Scandella,PenaltyOn,Montréal Canadiens,Mike Reilly,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:39:37Z,3,15:57,04:03,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:39:52Z,3,16:14,03:46,Hit,n/a,-92.0,-27.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Anthony Duclair,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:40:15Z,3,16:37,03:23,Shot,Snap Shot,53.0,-12.0,Jean-Gabriel Pageau,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:40:37Z,3,16:59,03:01,Giveaway,n/a,96.0,6.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:40:59Z,3,17:21,02:39,Missed Shot,n/a,-79.0,9.0,Nate Thompson,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:41:09Z,3,17:28,02:32,Takeaway,n/a,-71.0,-17.0,Drake Batherson,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:41:57Z,3,18:19,01:41,Giveaway,n/a,88.0,-25.0,Marco Scandella,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:42:26Z,3,18:48,01:12,Hit,n/a,56.0,38.0,Nick Suzuki,Hitter,Montréal Canadiens,Filip Chlapik,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:42:42Z,3,19:03,00:57,Blocked Shot,n/a,-60.0,-2.0,Mike Reilly,Blocker,Ottawa Senators,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:43:31Z,3,19:52,00:08,Giveaway,n/a,-74.0,-16.0,Mike Reilly,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:45:54Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:46:30Z,4,00:34,04:26,Shot,Wrist Shot,60.0,-23.0,Jeff Petry,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:46:38Z,4,00:42,04:18,Shot,Wrist Shot,-78.0,-12.0,Brady Tkachuk,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:47:16Z,4,01:20,03:40,Shot,Snap Shot,70.0,-1.0,Ilya Kovalchuk,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:47:27Z,4,01:29,03:31,Shot,Slap Shot,53.0,19.0,Max Domi,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:47:44Z,4,01:31,03:29,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:48:26Z,4,01:47,03:13,Shot,Slap Shot,-40.0,-11.0,Mike Reilly,Shooter,Ottawa Senators,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:48:38Z,4,01:59,03:01,Shot,Wrist Shot,45.0,22.0,Max Domi,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:49:11Z,4,02:31,02:29,Shot,Snap Shot,48.0,29.0,Shea Weber,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:49:24Z,4,02:32,02:28,Faceoff,n/a,69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:49:41Z,4,02:36,02:24,Hit,n/a,30.0,38.0,Shea Weber,Hitter,Montréal Canadiens,Jean-Gabriel Pageau,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:50:30Z,4,03:25,01:35,Shot,Wrist Shot,43.0,1.0,Phillip Danault,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:50:48Z,4,03:43,01:17,Shot,Slap Shot,35.0,12.0,Tomas Tatar,Shooter,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:51:06Z,4,04:00,01:00,Hit,n/a,-73.0,2.0,Jeff Petry,Hitter,Montréal Canadiens,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-12T02:51:16Z,4,04:08,00:52,Goal,Snap Shot,69.0,16.0,Ilya Kovalchuk,Scorer,Montréal Canadiens,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a

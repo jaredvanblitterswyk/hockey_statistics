@@ -1,0 +1,277 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-03-08T00:10:08Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Cedric Paquette,Winner,Tampa Bay Lightning,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:10:44Z,1,00:13,19:47,Faceoff,n/a,-69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:11:29Z,1,00:31,19:29,Shot,Wrist Shot,-19.0,-27.0,Patrice Bergeron,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:11:14Z,1,00:38,19:22,Takeaway,n/a,-45.0,33.0,Anthony Cirelli,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:11:38Z,1,00:59,19:01,Blocked Shot,n/a,74.0,-12.0,Kevin Shattenkirk,Blocker,Tampa Bay Lightning,Torey Krug,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:12:07Z,1,01:31,18:29,Hit,n/a,94.0,8.0,Barclay Goodrow,Hitter,Tampa Bay Lightning,Sean Kuraly,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:12:49Z,1,02:13,17:47,Takeaway,n/a,-56.0,-39.0,Matt Grzelcyk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:12:53Z,1,02:17,17:43,Hit,n/a,-72.0,-22.0,Ondrej Palat,Hitter,Tampa Bay Lightning,Matt Grzelcyk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:13:21Z,1,02:45,17:15,Blocked Shot,n/a,-73.0,-10.0,John Moore,Blocker,Boston Bruins,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:13:26Z,1,02:50,17:10,Shot,Slap Shot,40.0,-15.0,David Krejci,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:13:40Z,1,03:04,16:56,Giveaway,n/a,55.0,37.0,David Krejci,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:13:41Z,1,03:05,16:55,Hit,n/a,63.0,37.0,Victor Hedman,Hitter,Tampa Bay Lightning,David Krejci,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:13:56Z,1,03:20,16:40,Shot,Wrist Shot,53.0,12.0,David Pastrnak,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:14:11Z,1,03:35,16:25,Hit,n/a,-69.0,-34.0,Anthony Cirelli,Hitter,Tampa Bay Lightning,Patrice Bergeron,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:14:19Z,1,03:43,16:17,Giveaway,n/a,82.0,-17.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:14:46Z,1,04:10,15:50,Blocked Shot,n/a,-72.0,8.0,Zdeno Chara,Blocker,Boston Bruins,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:15:02Z,1,04:26,15:34,Blocked Shot,n/a,63.0,-8.0,Ondrej Palat,Blocker,Tampa Bay Lightning,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:15:13Z,1,04:37,15:23,Blocked Shot,n/a,57.0,13.0,Ondrej Palat,Blocker,Tampa Bay Lightning,Zdeno Chara,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:15:52Z,1,05:01,14:59,Penalty,Elbowing,61.0,-35.0,Barclay Goodrow,PenaltyOn,Tampa Bay Lightning,Ondrej Kase,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:16:40Z,1,05:01,14:59,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:16:52Z,1,05:08,14:52,Goal,Wrist Shot,-49.0,-26.0,Anthony Cirelli,Scorer,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:17:35Z,1,05:08,14:52,Faceoff,n/a,0.0,0.0,Anthony Cirelli,Winner,Tampa Bay Lightning,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:18:32Z,1,05:45,14:15,Faceoff,n/a,20.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:18:35Z,1,05:55,14:05,Hit,n/a,33.0,40.0,Yanni Gourde,Hitter,Tampa Bay Lightning,Torey Krug,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:18:46Z,1,06:06,13:54,Hit,n/a,-7.0,38.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Torey Krug,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:18:52Z,1,06:10,13:50,Goal,Wrist Shot,-68.0,-3.0,Mikhail Sergachev,Scorer,Tampa Bay Lightning,Yanni Gourde,Assist,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a
+2020-03-08T00:19:31Z,1,06:10,13:50,Faceoff,n/a,0.0,0.0,David Krejci,Winner,Boston Bruins,Blake Coleman,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:19:49Z,1,06:28,13:32,Shot,Wrist Shot,-71.0,-8.0,Blake Coleman,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:20:02Z,1,06:42,13:18,Shot,Wrist Shot,61.0,29.0,Nick Ritchie,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:20:54Z,1,07:33,12:27,Shot,Tip-In,57.0,24.0,Jake DeBrusk,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:21:00Z,1,07:39,12:21,Hit,n/a,93.0,12.0,Charlie Coyle,Hitter,Boston Bruins,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:21:48Z,1,08:28,11:32,Hit,n/a,-93.0,-21.0,Barclay Goodrow,Hitter,Tampa Bay Lightning,Jeremy Lauzon,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:21:59Z,1,08:38,11:22,Hit,n/a,89.0,24.0,Chris Wagner,Hitter,Boston Bruins,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:22:36Z,1,08:39,11:21,Penalty,Unsportsmanlike conduct,14.0,-20.0,Chris Wagner,PenaltyOn,Boston Bruins,Barclay Goodrow,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:22:47Z,1,08:39,11:21,Penalty,Unsportsmanlike conduct,18.0,-20.0,Barclay Goodrow,PenaltyOn,Tampa Bay Lightning,Chris Wagner,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:23:09Z,1,08:39,11:21,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:23:32Z,1,08:52,11:08,Blocked Shot,n/a,54.0,26.0,Cedric Paquette,Blocker,Tampa Bay Lightning,John Moore,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:24:08Z,1,09:28,10:32,Takeaway,n/a,39.0,-19.0,Anthony Cirelli,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:25:02Z,1,10:22,09:38,Shot,Wrist Shot,-79.0,0.0,Brayden Point,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:25:19Z,1,10:39,09:21,Shot,Snap Shot,42.0,-11.0,Zdeno Chara,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:25:56Z,1,10:45,09:15,Penalty,Fighting,-33.0,-3.0,Chris Wagner,PenaltyOn,Boston Bruins,Barclay Goodrow,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:26:23Z,1,10:45,09:15,Penalty,Fighting,-36.0,-22.0,Barclay Goodrow,PenaltyOn,Tampa Bay Lightning,Chris Wagner,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:28:41Z,1,10:45,09:15,Faceoff,n/a,69.0,22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:29:15Z,1,11:09,08:51,Shot,Slap Shot,47.0,32.0,David Krejci,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:29:16Z,1,11:11,08:49,Hit,n/a,68.0,-36.0,Blake Coleman,Hitter,Tampa Bay Lightning,Ondrej Kase,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:29:23Z,1,11:17,08:43,Hit,n/a,6.0,39.0,Mitchell Stephens,Hitter,Tampa Bay Lightning,David Krejci,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:29:42Z,1,11:37,08:23,Hit,n/a,65.0,-36.0,Sean Kuraly,Hitter,Boston Bruins,Braydon Coburn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:29:59Z,1,11:54,08:06,Shot,Slap Shot,32.0,30.0,Torey Krug,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:30:13Z,1,12:07,07:53,Shot,Wrist Shot,56.0,-10.0,Charlie Coyle,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:30:35Z,1,12:20,07:40,Penalty,Hooking,79.0,2.0,Braydon Coburn,PenaltyOn,Tampa Bay Lightning,Jake DeBrusk,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:32:40Z,1,12:20,07:40,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:33:02Z,1,12:36,07:24,Shot,Tip-In,71.0,-1.0,Patrice Bergeron,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:33:14Z,1,12:48,07:12,Shot,Wrist Shot,84.0,-8.0,Torey Krug,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:33:33Z,1,13:07,06:53,Takeaway,n/a,67.0,-32.0,Zach Bogosian,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:34:20Z,1,13:54,06:06,Blocked Shot,n/a,68.0,-9.0,Zach Bogosian,Blocker,Tampa Bay Lightning,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:34:29Z,1,14:02,05:58,Missed Shot,n/a,70.0,21.0,David Krejci,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:34:40Z,1,14:14,05:46,Blocked Shot,n/a,68.0,4.0,Erik Cernak,Blocker,Tampa Bay Lightning,Nick Ritchie,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:34:53Z,1,14:27,05:33,Blocked Shot,n/a,69.0,5.0,Anthony Cirelli,Blocker,Tampa Bay Lightning,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:35:44Z,1,15:15,04:45,Hit,n/a,9.0,37.0,Ondrej Palat,Hitter,Tampa Bay Lightning,Joakim Nordstrom,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:36:09Z,1,15:42,04:18,Hit,n/a,59.0,-37.0,Erik Cernak,Hitter,Tampa Bay Lightning,Charlie Coyle,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:36:23Z,1,15:57,04:03,Missed Shot,n/a,36.0,-6.0,Jeremy Lauzon,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:36:29Z,1,16:03,03:57,Shot,Wrist Shot,82.0,-10.0,Sean Kuraly,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:36:45Z,1,16:19,03:41,Shot,Backhand,76.0,-13.0,Jake DeBrusk,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:36:58Z,1,16:32,03:28,Hit,n/a,62.0,39.0,Patrice Bergeron,Hitter,Boston Bruins,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:37:15Z,1,16:48,03:12,Blocked Shot,n/a,-69.0,-12.0,John Moore,Blocker,Boston Bruins,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:37:26Z,1,17:00,03:00,Missed Shot,n/a,81.0,16.0,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:37:35Z,1,17:09,02:51,Hit,n/a,62.0,39.0,Alex Killorn,Hitter,Tampa Bay Lightning,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:38:05Z,1,17:39,02:21,Shot,Slap Shot,-38.0,-11.0,Braydon Coburn,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:38:14Z,1,17:48,02:12,Blocked Shot,n/a,-66.0,-2.0,Zdeno Chara,Blocker,Boston Bruins,Braydon Coburn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:41:28Z,1,18:00,02:00,Faceoff,n/a,-69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:41:44Z,1,18:10,01:50,Blocked Shot,n/a,-57.0,-16.0,Chris Wagner,Blocker,Boston Bruins,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:41:59Z,1,18:25,01:35,Blocked Shot,n/a,-50.0,12.0,Chris Wagner,Blocker,Boston Bruins,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:42:17Z,1,18:43,01:17,Hit,n/a,-82.0,-37.0,Zdeno Chara,Hitter,Boston Bruins,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:42:24Z,1,18:50,01:10,Shot,Wrist Shot,56.0,-5.0,Chris Wagner,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:42:30Z,1,18:56,01:04,Giveaway,n/a,78.0,-1.0,Andrei Vasilevskiy,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:42:34Z,1,19:00,01:00,Missed Shot,n/a,59.0,20.0,Chris Wagner,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:43:24Z,1,19:07,00:53,Blocked Shot,n/a,64.0,-4.0,Ondrej Palat,Blocker,Tampa Bay Lightning,Par Lindholm,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:42:53Z,1,19:14,00:46,Penalty,Interference,-72.0,15.0,Jeremy Lauzon,PenaltyOn,Boston Bruins,Yanni Gourde,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:43:40Z,1,19:14,00:46,Faceoff,n/a,-69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T00:43:53Z,1,19:25,00:35,Giveaway,n/a,-55.0,20.0,Nikita Kucherov,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:03:23Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Par Lindholm,Winner,Boston Bruins,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:04:16Z,2,00:50,19:10,Missed Shot,n/a,64.0,4.0,Tyler Johnson,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:04:32Z,2,01:06,18:54,Takeaway,n/a,54.0,-30.0,Par Lindholm,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:04:42Z,2,01:15,18:45,Hit,n/a,72.0,-37.0,Zdeno Chara,Hitter,Boston Bruins,Alex Killorn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:04:47Z,2,01:21,18:39,Hit,n/a,92.0,-22.0,Tyler Johnson,Hitter,Tampa Bay Lightning,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:05:01Z,2,01:35,18:25,Hit,n/a,-6.0,36.0,Chris Wagner,Hitter,Boston Bruins,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:05:40Z,2,02:14,17:46,Hit,n/a,97.0,-10.0,John Moore,Hitter,Boston Bruins,Blake Coleman,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:05:46Z,2,02:20,17:40,Blocked Shot,n/a,71.0,7.0,David Pastrnak,Blocker,Boston Bruins,Braydon Coburn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:06:16Z,2,02:28,17:32,Faceoff,n/a,69.0,22.0,Charlie Coyle,Winner,Boston Bruins,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:06:57Z,2,03:03,16:57,Shot,Slap Shot,36.0,21.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:07:14Z,2,03:20,16:40,Hit,n/a,-96.0,-5.0,Kevin Shattenkirk,Hitter,Tampa Bay Lightning,Patrice Bergeron,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:07:20Z,2,03:26,16:34,Hit,n/a,2.0,-37.0,Cedric Paquette,Hitter,Tampa Bay Lightning,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:07:38Z,2,03:42,16:18,Takeaway,n/a,74.0,5.0,Mitchell Stephens,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:08:06Z,2,03:42,16:18,Faceoff,n/a,69.0,-22.0,David Krejci,Winner,Boston Bruins,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:08:36Z,2,04:07,15:53,Hit,n/a,-60.0,-35.0,Nick Ritchie,Hitter,Boston Bruins,Braydon Coburn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:08:49Z,2,04:20,15:40,Blocked Shot,n/a,-65.0,1.0,Braydon Coburn,Blocker,Tampa Bay Lightning,Ondrej Kase,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:09:00Z,2,04:31,15:29,Shot,Wrist Shot,67.0,0.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:09:31Z,2,05:02,14:58,Giveaway,n/a,-36.0,-18.0,Jake DeBrusk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:10:27Z,2,05:58,14:02,Shot,Wrist Shot,42.0,-29.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:10:29Z,2,06:00,14:00,Hit,n/a,97.0,-8.0,Matt Grzelcyk,Hitter,Boston Bruins,Alex Killorn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:10:30Z,2,06:01,13:59,Shot,Wrist Shot,84.0,-14.0,Blake Coleman,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:10:38Z,2,06:07,13:53,Blocked Shot,n/a,64.0,-16.0,Par Lindholm,Blocker,Boston Bruins,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:11:15Z,2,06:46,13:14,Missed Shot,n/a,71.0,9.0,Cedric Paquette,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:11:22Z,2,06:50,13:10,Goal,Wrist Shot,72.0,8.0,Cedric Paquette,Scorer,Tampa Bay Lightning,Zach Bogosian,Assist,Tampa Bay Lightning,Braydon Coburn,Assist,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins
+2020-03-08T01:12:02Z,2,06:50,13:10,Faceoff,n/a,0.0,0.0,David Krejci,Winner,Boston Bruins,Barclay Goodrow,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:12:25Z,2,07:12,12:48,Hit,n/a,-62.0,-30.0,Barclay Goodrow,Hitter,Tampa Bay Lightning,David Krejci,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:12:47Z,2,07:35,12:25,Giveaway,n/a,41.0,-19.0,Erik Cernak,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:12:59Z,2,07:46,12:14,Shot,Backhand,-75.0,34.0,Sean Kuraly,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:15:28Z,2,07:46,12:14,Faceoff,n/a,-69.0,22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:16:08Z,2,08:27,11:33,Hit,n/a,-95.0,14.0,Sean Kuraly,Hitter,Boston Bruins,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:16:20Z,2,08:38,11:22,Blocked Shot,n/a,64.0,10.0,Ondrej Kase,Blocker,Boston Bruins,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:16:20Z,2,08:39,11:21,Missed Shot,n/a,68.0,-13.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:16:29Z,2,08:48,11:12,Blocked Shot,n/a,54.0,14.0,Sean Kuraly,Blocker,Boston Bruins,Braydon Coburn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:16:43Z,2,09:01,10:59,Giveaway,n/a,45.0,-23.0,Sean Kuraly,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:16:49Z,2,09:07,10:53,Giveaway,n/a,42.0,-26.0,Nikita Kucherov,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:17:00Z,2,09:19,10:41,Takeaway,n/a,35.0,-28.0,Ondrej Palat,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:17:04Z,2,09:19,10:41,Blocked Shot,n/a,64.0,-13.0,Zdeno Chara,Blocker,Boston Bruins,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:17:43Z,2,09:19,10:41,Faceoff,n/a,69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:17:53Z,2,09:33,10:27,Shot,Slap Shot,33.0,-27.0,Zach Bogosian,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:17:53Z,2,09:34,10:26,Blocked Shot,n/a,80.0,10.0,Matt Grzelcyk,Blocker,Boston Bruins,Alex Killorn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:18:30Z,2,10:11,09:49,Hit,n/a,-70.0,36.0,Nick Ritchie,Hitter,Boston Bruins,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:18:32Z,2,10:12,09:48,Shot,Wrist Shot,-78.0,7.0,Jake DeBrusk,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:18:43Z,2,10:23,09:37,Giveaway,n/a,17.0,8.0,John Moore,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:18:48Z,2,10:28,09:32,Hit,n/a,98.0,-8.0,John Moore,Hitter,Boston Bruins,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:19:43Z,2,11:24,08:36,Blocked Shot,n/a,72.0,9.0,Patrice Bergeron,Blocker,Boston Bruins,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:19:57Z,2,11:37,08:23,Hit,n/a,96.0,-9.0,Yanni Gourde,Hitter,Tampa Bay Lightning,John Moore,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:22:11Z,2,11:41,08:19,Faceoff,n/a,0.0,0.0,Barclay Goodrow,Winner,Tampa Bay Lightning,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:22:49Z,2,11:53,08:07,Hit,n/a,12.0,-39.0,Matt Grzelcyk,Hitter,Boston Bruins,Tyler Johnson,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:22:54Z,2,11:56,08:04,Giveaway,n/a,77.0,34.0,Matt Grzelcyk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:22:57Z,2,11:58,08:02,Shot,Slap Shot,44.0,17.0,Mitchell Stephens,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:23:15Z,2,11:58,08:02,Faceoff,n/a,69.0,22.0,Barclay Goodrow,Winner,Tampa Bay Lightning,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:24:22Z,2,12:30,07:30,Hit,n/a,-85.0,33.0,Braydon Coburn,Hitter,Tampa Bay Lightning,Chris Wagner,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:24:30Z,2,12:38,07:22,Hit,n/a,-70.0,37.0,Chris Wagner,Hitter,Boston Bruins,Braydon Coburn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:24:41Z,2,12:49,07:11,Hit,n/a,-36.0,36.0,Par Lindholm,Hitter,Boston Bruins,Barclay Goodrow,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:25:16Z,2,13:23,06:37,Hit,n/a,-50.0,-36.0,David Krejci,Hitter,Boston Bruins,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:25:24Z,2,13:32,06:28,Shot,Snap Shot,-41.0,-20.0,Nick Ritchie,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:25:55Z,2,14:02,05:58,Shot,Wrist Shot,76.0,23.0,Alex Killorn,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:26:00Z,2,14:07,05:53,Takeaway,n/a,52.0,-25.0,David Krejci,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:26:05Z,2,14:13,05:47,Shot,Wrist Shot,-74.0,-13.0,David Pastrnak,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:27:32Z,2,14:13,05:47,Penalty,Roughing,-82.0,-20.0,Anthony Cirelli,PenaltyOn,Tampa Bay Lightning,Brad Marchand,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:27:57Z,2,14:13,05:47,Penalty,Roughing,-82.0,-25.0,Brad Marchand,PenaltyOn,Boston Bruins,Anthony Cirelli,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:29:49Z,2,14:13,05:47,Faceoff,n/a,-20.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:30:10Z,2,14:34,05:26,Blocked Shot,n/a,69.0,1.0,Charlie McAvoy,Blocker,Boston Bruins,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:30:19Z,2,14:34,05:26,Faceoff,n/a,69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Jake DeBrusk,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:31:00Z,2,14:43,05:17,Shot,Wrist Shot,34.0,6.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:31:09Z,2,14:50,05:10,Goal,Wrist Shot,-57.0,-7.0,Charlie McAvoy,Scorer,Boston Bruins,Charlie Coyle,Assist,Boston Bruins,Matt Grzelcyk,Assist,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning
+2020-03-08T01:32:10Z,2,14:50,05:10,Faceoff,n/a,0.0,0.0,Tyler Johnson,Winner,Tampa Bay Lightning,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:32:24Z,2,15:23,04:37,Shot,Wrist Shot,-42.0,14.0,Ondrej Kase,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:33:01Z,2,15:23,04:37,Faceoff,n/a,-69.0,22.0,Charlie Coyle,Winner,Boston Bruins,Yanni Gourde,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:33:12Z,2,15:34,04:26,Shot,Snap Shot,-66.0,2.0,Charlie Coyle,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:33:15Z,2,15:36,04:24,Hit,n/a,-69.0,-36.0,Blake Coleman,Hitter,Tampa Bay Lightning,Matt Grzelcyk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:33:30Z,2,15:51,04:09,Blocked Shot,n/a,-68.0,-1.0,Erik Cernak,Blocker,Tampa Bay Lightning,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:33:49Z,2,16:11,03:49,Missed Shot,n/a,-77.0,-5.0,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:34:08Z,2,16:30,03:30,Hit,n/a,-18.0,-29.0,Blake Coleman,Hitter,Tampa Bay Lightning,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:34:28Z,2,16:50,03:10,Hit,n/a,97.0,-7.0,Mitchell Stephens,Hitter,Tampa Bay Lightning,John Moore,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:34:48Z,2,17:09,02:51,Hit,n/a,-10.0,-37.0,Zach Bogosian,Hitter,Tampa Bay Lightning,John Moore,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:35:04Z,2,17:26,02:34,Hit,n/a,-97.0,-10.0,Joakim Nordstrom,Hitter,Boston Bruins,Zach Bogosian,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:35:09Z,2,17:31,02:29,Hit,n/a,-94.0,13.0,Zach Bogosian,Hitter,Tampa Bay Lightning,Joakim Nordstrom,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:35:19Z,2,17:38,02:22,Hit,n/a,49.0,37.0,Charlie McAvoy,Hitter,Boston Bruins,Mitchell Stephens,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:35:25Z,2,17:47,02:13,Hit,n/a,-77.0,34.0,Joakim Nordstrom,Hitter,Boston Bruins,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:35:40Z,2,18:01,01:59,Missed Shot,n/a,-42.0,25.0,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:35:44Z,2,18:06,01:54,Hit,n/a,-92.0,-24.0,Nikita Kucherov,Hitter,Tampa Bay Lightning,Zdeno Chara,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:36:05Z,2,18:27,01:33,Missed Shot,n/a,-39.0,5.0,Zdeno Chara,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:36:09Z,2,18:31,01:29,Shot,Wrist Shot,-79.0,9.0,Sean Kuraly,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:36:15Z,2,18:37,01:23,Shot,Wrist Shot,-65.0,6.0,Charlie McAvoy,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:36:15Z,2,18:37,01:23,Goal,Wrist Shot,-79.0,1.0,Sean Kuraly,Scorer,Boston Bruins,Charlie McAvoy,Assist,Boston Bruins,Ondrej Kase,Assist,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning
+2020-03-08T01:36:15Z,2,18:37,01:23,Penalty,Fighting,15.0,28.0,Pat Maroon,PenaltyOn,Tampa Bay Lightning,Zdeno Chara,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:36:15Z,2,18:37,01:23,Penalty,Misconduct,17.0,23.0,Erik Cernak,PenaltyOn,Tampa Bay Lightning,Sean Kuraly,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:39:54Z,2,18:37,01:23,Penalty,Game Misconduct - Team staff,18.0,36.0,Ondrej Palat,PenaltyOn,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:39:54Z,2,18:37,01:23,Penalty,Fighting,16.0,29.0,Zdeno Chara,PenaltyOn,Boston Bruins,Pat Maroon,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:39:54Z,2,18:37,01:23,Penalty,Misconduct,46.0,29.0,Sean Kuraly,PenaltyOn,Boston Bruins,Erik Cernak,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:39:54Z,2,18:37,01:23,Penalty,Delay of game,19.0,36.0,Ondrej Palat,PenaltyOn,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:44:40Z,2,18:37,01:23,Faceoff,n/a,0.0,0.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:44:20Z,2,18:58,01:02,Giveaway,n/a,-45.0,19.0,Torey Krug,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:44:34Z,2,19:15,00:45,Shot,Slap Shot,-52.0,-23.0,David Pastrnak,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:44:47Z,2,19:28,00:32,Missed Shot,n/a,-69.0,14.0,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:44:54Z,2,19:34,00:26,Hit,n/a,-66.0,-37.0,Braydon Coburn,Hitter,Tampa Bay Lightning,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:45:40Z,2,19:34,00:26,Shot,Tip-In,-77.0,1.0,Patrice Bergeron,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:45:14Z,2,19:55,00:05,Shot,Wrist Shot,-6.0,4.0,Braydon Coburn,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:45:21Z,2,20:00,00:00,Missed Shot,n/a,-34.0,27.0,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:45:23Z,2,20:00,00:00,Penalty,Slashing,15.0,34.0,Brad Marchand,PenaltyOn,Boston Bruins,Blake Coleman,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:45:23Z,2,20:00,00:00,Penalty,Misconduct,20.0,32.0,Blake Coleman,PenaltyOn,Tampa Bay Lightning,Brad Marchand,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:45:23Z,2,20:00,00:00,Penalty,Misconduct,38.0,37.0,Nick Ritchie,PenaltyOn,Boston Bruins,Blake Coleman,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:05:19Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:06:21Z,3,00:06,19:54,Shot,Wrist Shot,62.0,33.0,Jake DeBrusk,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:06:38Z,3,00:22,19:38,Giveaway,n/a,90.0,24.0,Charlie Coyle,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:06:49Z,3,00:33,19:27,Hit,n/a,-95.0,20.0,Charlie McAvoy,Hitter,Boston Bruins,Anthony Cirelli,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:06:55Z,3,00:40,19:20,Shot,Backhand,82.0,18.0,Charlie Coyle,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:07:26Z,3,01:08,18:52,Goal,Tip-In,-79.0,-2.0,Alex Killorn,Scorer,Tampa Bay Lightning,Mikhail Sergachev,Assist,Tampa Bay Lightning,Brayden Point,Assist,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins
+2020-03-08T01:08:39Z,3,01:08,18:52,Faceoff,n/a,0.0,0.0,Brayden Point,Winner,Tampa Bay Lightning,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:09:14Z,3,01:27,18:33,Faceoff,n/a,69.0,22.0,David Krejci,Winner,Boston Bruins,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:10:05Z,3,01:57,18:03,Takeaway,n/a,-94.0,15.0,Tyler Johnson,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:09:58Z,3,01:59,18:01,Blocked Shot,n/a,-72.0,-1.0,Jeremy Lauzon,Blocker,Boston Bruins,Mitchell Stephens,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:10:36Z,3,02:02,17:58,Faceoff,n/a,-20.0,22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:10:51Z,3,02:24,17:36,Shot,Wrist Shot,66.0,32.0,Patrice Bergeron,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:11:03Z,3,02:36,17:24,Hit,n/a,-47.0,-36.0,David Pastrnak,Hitter,Boston Bruins,Yanni Gourde,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:11:40Z,3,02:44,17:16,Faceoff,n/a,0.0,0.0,Par Lindholm,Winner,Boston Bruins,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:11:53Z,3,02:59,17:01,Hit,n/a,65.0,34.0,Joakim Nordstrom,Hitter,Boston Bruins,Zach Bogosian,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:12:05Z,3,03:11,16:49,Blocked Shot,n/a,-76.0,11.0,John Moore,Blocker,Boston Bruins,Zach Bogosian,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:12:35Z,3,03:13,16:47,Faceoff,n/a,69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:12:52Z,3,03:25,16:35,Giveaway,n/a,-38.0,-13.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:13:10Z,3,03:42,16:18,Shot,Wrist Shot,-33.0,10.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:13:56Z,3,03:42,16:18,Faceoff,n/a,-69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:13:58Z,3,03:45,16:15,Shot,Wrist Shot,-40.0,18.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:14:05Z,3,03:45,16:15,Faceoff,n/a,-69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:14:34Z,3,04:03,15:57,Shot,Wrist Shot,51.0,34.0,Joakim Nordstrom,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:15:00Z,3,04:03,15:57,Faceoff,n/a,69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:15:26Z,3,04:28,15:32,Shot,Wrist Shot,66.0,-15.0,David Pastrnak,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:16:21Z,3,05:09,14:51,Faceoff,n/a,0.0,0.0,Charlie Coyle,Winner,Boston Bruins,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:16:56Z,3,05:27,14:33,Shot,Wrist Shot,-71.0,-3.0,Anthony Cirelli,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:17:00Z,3,05:32,14:28,Hit,n/a,-74.0,34.0,Jeremy Lauzon,Hitter,Boston Bruins,Alex Killorn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:17:06Z,3,05:37,14:23,Hit,n/a,-73.0,-38.0,Anthony Cirelli,Hitter,Tampa Bay Lightning,Ondrej Kase,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:17:32Z,3,05:48,14:12,Penalty,Cross checking,-74.0,-31.0,Nikita Kucherov,PenaltyOn,Tampa Bay Lightning,Matt Grzelcyk,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:18:04Z,3,05:48,14:12,Faceoff,n/a,69.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:18:17Z,3,05:59,14:01,Blocked Shot,n/a,70.0,5.0,Zach Bogosian,Blocker,Tampa Bay Lightning,Torey Krug,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:18:25Z,3,05:59,14:01,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Barclay Goodrow,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:18:44Z,3,06:07,13:53,Hit,n/a,60.0,-34.0,Mikhail Sergachev,Hitter,Tampa Bay Lightning,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:18:53Z,3,06:16,13:44,Hit,n/a,73.0,-36.0,Mikhail Sergachev,Hitter,Tampa Bay Lightning,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:19:10Z,3,06:32,13:28,Shot,Wrist Shot,57.0,-17.0,Patrice Bergeron,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:19:33Z,3,06:32,13:28,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Barclay Goodrow,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:19:45Z,3,06:37,13:23,Goal,Slap Shot,34.0,25.0,David Pastrnak,Scorer,Boston Bruins,Torey Krug,Assist,Boston Bruins,Brad Marchand,Assist,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning
+2020-03-08T01:20:33Z,3,06:37,13:23,Faceoff,n/a,0.0,0.0,Cedric Paquette,Winner,Tampa Bay Lightning,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:20:35Z,3,06:50,13:10,Giveaway,n/a,-96.0,8.0,Tuukka Rask,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:20:42Z,3,06:57,13:03,Shot,Wrist Shot,-54.0,1.0,Cedric Paquette,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:20:46Z,3,07:01,12:59,Takeaway,n/a,-58.0,-8.0,Cedric Paquette,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:20:47Z,3,07:02,12:58,Blocked Shot,n/a,-75.0,7.0,Jeremy Lauzon,Blocker,Boston Bruins,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:20:51Z,3,07:06,12:54,Shot,Wrist Shot,-38.0,29.0,Pat Maroon,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:20:56Z,3,07:10,12:50,Blocked Shot,n/a,-70.0,9.0,Jeremy Lauzon,Blocker,Boston Bruins,Cedric Paquette,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:21:14Z,3,07:29,12:31,Giveaway,n/a,16.0,-32.0,Pat Maroon,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:21:22Z,3,07:37,12:23,Blocked Shot,n/a,65.0,7.0,Kevin Shattenkirk,Blocker,Tampa Bay Lightning,David Krejci,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:21:30Z,3,07:45,12:15,Shot,Snap Shot,-49.0,-14.0,Brayden Point,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:21:43Z,3,07:58,12:02,Takeaway,n/a,88.0,-22.0,Joakim Nordstrom,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:21:48Z,3,08:03,11:57,Shot,Snap Shot,45.0,17.0,Zdeno Chara,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:22:28Z,3,08:43,11:17,Hit,n/a,-72.0,-39.0,Mitchell Stephens,Hitter,Tampa Bay Lightning,Torey Krug,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:22:28Z,3,08:43,11:17,Penalty,Delaying Game - Puck over glass,-78.0,-31.0,Patrice Bergeron,PenaltyOn,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:22:28Z,3,08:43,11:17,Penalty,Roughing,-38.0,33.0,Patrice Bergeron,PenaltyOn,Boston Bruins,Barclay Goodrow,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:22:28Z,3,08:43,11:17,Penalty,Roughing,-57.0,-27.0,Torey Krug,PenaltyOn,Boston Bruins,Mitchell Stephens,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:22:28Z,3,08:43,11:17,Penalty,Roughing,-63.0,-30.0,Barclay Goodrow,PenaltyOn,Tampa Bay Lightning,Patrice Bergeron,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:22:28Z,3,08:43,11:17,Penalty,Roughing,-71.0,-28.0,Mitchell Stephens,PenaltyOn,Tampa Bay Lightning,Torey Krug,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:22:28Z,3,08:43,11:17,Takeaway,n/a,-63.0,6.0,Patrice Bergeron,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:28:33Z,3,08:43,11:17,Faceoff,n/a,-20.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:26:43Z,3,09:01,10:59,Missed Shot,n/a,-36.0,20.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:26:52Z,3,09:10,10:50,Missed Shot,n/a,52.0,27.0,Joakim Nordstrom,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:28:04Z,3,09:13,10:47,Faceoff,n/a,-20.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:28:04Z,3,09:46,10:14,Hit,n/a,-95.0,-2.0,Charlie McAvoy,Hitter,Boston Bruins,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:29:09Z,3,09:55,10:05,Faceoff,n/a,-69.0,22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:30:47Z,3,11:26,08:34,Blocked Shot,n/a,63.0,1.0,Zach Bogosian,Blocker,Tampa Bay Lightning,Sean Kuraly,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:31:09Z,3,11:48,08:12,Giveaway,n/a,11.0,8.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:31:29Z,3,12:08,07:52,Shot,Wrist Shot,-58.0,-21.0,Cedric Paquette,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:32:13Z,3,12:42,07:18,Shot,Wrist Shot,75.0,-7.0,David Pastrnak,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:33:44Z,3,13:10,06:50,Penalty,Hooking,53.0,3.0,Tyler Johnson,PenaltyOn,Tampa Bay Lightning,Ondrej Kase,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:34:01Z,3,13:10,06:50,Penalty,Embellishment,42.0,-21.0,Ondrej Kase,PenaltyOn,Boston Bruins,Tyler Johnson,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:34:58Z,3,13:10,06:50,Faceoff,n/a,20.0,22.0,Charlie Coyle,Winner,Boston Bruins,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:35:24Z,3,13:39,06:21,Takeaway,n/a,91.0,21.0,Erik Cernak,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:35:34Z,3,13:49,06:11,Takeaway,n/a,55.0,-35.0,Jake DeBrusk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:36:00Z,3,14:04,05:56,Takeaway,n/a,-77.0,5.0,Matt Grzelcyk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:36:49Z,3,14:33,05:27,Faceoff,n/a,-69.0,-22.0,David Krejci,Winner,Boston Bruins,Blake Coleman,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:37:24Z,3,15:07,04:53,Takeaway,n/a,79.0,-29.0,David Krejci,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:37:28Z,3,15:11,04:49,Missed Shot,n/a,82.0,21.0,Torey Krug,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:37:35Z,3,15:18,04:42,Giveaway,n/a,71.0,33.0,Blake Coleman,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:37:42Z,3,15:25,04:35,Shot,Wrist Shot,72.0,-7.0,David Krejci,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:37:56Z,3,15:35,04:25,Hit,n/a,35.0,31.0,Ondrej Palat,Hitter,Tampa Bay Lightning,Ondrej Kase,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:38:35Z,3,15:44,04:16,Shot,Backhand,61.0,11.0,Brad Marchand,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:40:41Z,3,15:47,04:13,Faceoff,n/a,20.0,22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:41:08Z,3,16:00,04:00,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Barclay Goodrow,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:42:13Z,3,16:55,03:05,Shot,Slap Shot,-40.0,-23.0,Blake Coleman,Shooter,Tampa Bay Lightning,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:42:42Z,3,16:55,03:05,Faceoff,n/a,-69.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:43:11Z,3,17:24,02:36,Hit,n/a,-49.0,-35.0,Charlie McAvoy,Hitter,Boston Bruins,Yanni Gourde,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:44:27Z,3,18:07,01:53,Faceoff,n/a,20.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:44:52Z,3,18:22,01:38,Blocked Shot,n/a,53.0,4.0,Ondrej Palat,Blocker,Tampa Bay Lightning,David Krejci,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:45:01Z,3,18:31,01:29,Blocked Shot,n/a,-68.0,7.0,Patrice Bergeron,Blocker,Boston Bruins,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:45:20Z,3,18:50,01:10,Takeaway,n/a,80.0,33.0,Nikita Kucherov,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:45:27Z,3,18:57,01:03,Takeaway,n/a,-30.0,-6.0,Nikita Kucherov,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:45:31Z,3,18:58,01:02,Goal,Wrist Shot,-48.0,-7.0,Nikita Kucherov,Scorer,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:46:27Z,3,18:58,01:02,Faceoff,n/a,0.0,0.0,Sean Kuraly,Winner,Boston Bruins,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T01:46:22Z,3,19:08,00:52,Shot,Backhand,64.0,0.0,Sean Kuraly,Shooter,Boston Bruins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,267 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-01T23:08:40Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:10:02Z,1,00:19,19:41,Hit,n/a,68.0,40.0,Michael Dal Colle,Hitter,New York Islanders,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:10:21Z,1,00:38,19:22,Takeaway,n/a,-62.0,-40.0,Scott Mayfield,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:10:32Z,1,00:44,19:16,Faceoff,n/a,69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:11:00Z,1,00:52,19:08,Hit,n/a,93.0,-23.0,Derick Brassard,Hitter,New York Islanders,Ryan McDonagh,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:11:26Z,1,01:19,18:41,Blocked Shot,n/a,67.0,9.0,Erik Cernak,Blocker,Tampa Bay Lightning,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:11:44Z,1,01:36,18:24,Missed Shot,n/a,49.0,15.0,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:11:45Z,1,01:37,18:23,Missed Shot,n/a,63.0,-6.0,Mathew Barzal,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:11:47Z,1,01:39,18:21,Blocked Shot,n/a,-36.0,-12.0,Mathew Barzal,Blocker,New York Islanders,Jan Rutta,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:11:57Z,1,01:49,18:11,Hit,n/a,96.0,20.0,Alexander Volkov,Hitter,Tampa Bay Lightning,Anders Lee,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:12:17Z,1,02:09,17:51,Hit,n/a,97.0,-19.0,Cole Bardreau,Hitter,New York Islanders,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:12:31Z,1,02:24,17:36,Giveaway,n/a,-96.0,-16.0,Ryan Pulock,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:12:34Z,1,02:27,17:33,Shot,Tip-In,73.0,5.0,Cole Bardreau,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:13:01Z,1,02:54,17:06,Hit,n/a,-41.0,35.0,Luke Witkowski,Hitter,Tampa Bay Lightning,Adam Pelech,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:13:14Z,1,03:06,16:54,Hit,n/a,-68.0,-40.0,Luke Witkowski,Hitter,Tampa Bay Lightning,Johnny Boychuk,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:13:30Z,1,03:22,16:38,Hit,n/a,83.0,33.0,Casey Cizikas,Hitter,New York Islanders,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:13:35Z,1,03:28,16:32,Shot,Wrist Shot,-66.0,0.0,Yanni Gourde,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:13:42Z,1,03:34,16:26,Hit,n/a,-36.0,39.0,Casey Cizikas,Hitter,New York Islanders,Luke Witkowski,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:13:48Z,1,03:41,16:19,Hit,n/a,-95.0,24.0,Yanni Gourde,Hitter,Tampa Bay Lightning,Johnny Boychuk,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:13:59Z,1,03:51,16:09,Shot,Wrist Shot,-59.0,6.0,Ondrej Palat,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:14:14Z,1,04:07,15:53,Takeaway,n/a,-6.0,39.0,Brock Nelson,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:14:37Z,1,04:15,15:45,Faceoff,n/a,69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:15:43Z,1,04:54,15:06,Missed Shot,n/a,65.0,9.0,Anders Lee,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:15:57Z,1,05:04,14:56,Blocked Shot,n/a,32.0,20.0,Devon Toews,Blocker,New York Islanders,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:16:22Z,1,05:34,14:26,Missed Shot,n/a,37.0,24.0,Cal Clutterbuck,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:16:26Z,1,05:38,14:22,Blocked Shot,n/a,54.0,-28.0,Alex Killorn,Blocker,Tampa Bay Lightning,Ryan Pulock,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:17:10Z,1,06:20,13:40,Penalty,Hooking,96.0,4.0,Mikhail Sergachev,PenaltyOn,Tampa Bay Lightning,Cal Clutterbuck,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:26:41Z,1,06:20,13:40,Faceoff,n/a,69.0,22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:19:33Z,1,06:27,13:33,Hit,n/a,62.0,-40.0,Steven Stamkos,Hitter,Tampa Bay Lightning,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:19:42Z,1,06:37,13:23,Shot,Wrist Shot,59.0,8.0,Mathew Barzal,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:20:01Z,1,06:56,13:04,Shot,Tip-In,81.0,-1.0,Anders Lee,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:20:06Z,1,07:01,12:59,Missed Shot,n/a,81.0,8.0,Anthony Beauvillier,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:20:50Z,1,07:44,12:16,Hit,n/a,95.0,19.0,Luke Schenn,Hitter,Tampa Bay Lightning,Nick Leddy,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:21:17Z,1,07:50,12:10,Faceoff,n/a,0.0,0.0,Brock Nelson,Winner,New York Islanders,Mathieu Joseph,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:21:47Z,1,08:22,11:38,Giveaway,n/a,43.0,-39.0,Brock Nelson,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:22:06Z,1,08:40,11:20,Shot,Wrist Shot,35.0,-12.0,Michael Dal Colle,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:22:44Z,1,08:40,11:20,Faceoff,n/a,69.0,-22.0,Cal Clutterbuck,Winner,New York Islanders,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:22:51Z,1,08:51,11:09,Hit,n/a,83.0,-35.0,Casey Cizikas,Hitter,New York Islanders,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:23:19Z,1,09:19,10:41,Takeaway,n/a,63.0,-26.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:23:21Z,1,09:20,10:40,Shot,Snap Shot,36.0,20.0,Johnny Boychuk,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:23:45Z,1,09:44,10:16,Giveaway,n/a,77.0,-40.0,Ondrej Palat,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:23:52Z,1,09:52,10:08,Hit,n/a,54.0,40.0,Johnny Boychuk,Hitter,New York Islanders,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:24:16Z,1,10:16,09:44,Hit,n/a,-18.0,28.0,Ross Johnston,Hitter,New York Islanders,Luke Schenn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:24:39Z,1,10:39,09:21,Missed Shot,n/a,-79.0,-10.0,Cedric Paquette,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:24:45Z,1,10:44,09:16,Blocked Shot,n/a,-83.0,7.0,Scott Mayfield,Blocker,New York Islanders,Yanni Gourde,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:25:16Z,1,11:15,08:45,Giveaway,n/a,53.0,9.0,Brock Nelson,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:25:57Z,1,11:56,08:04,Missed Shot,n/a,35.0,23.0,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:25:59Z,1,11:58,08:02,Takeaway,n/a,97.0,-3.0,Michael Dal Colle,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:26:10Z,1,12:05,07:55,Blocked Shot,n/a,72.0,5.0,Ryan McDonagh,Blocker,Tampa Bay Lightning,Cal Clutterbuck,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:28:14Z,1,12:05,07:55,Faceoff,n/a,69.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Cole Bardreau,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:29:06Z,1,12:51,07:09,Shot,Wrist Shot,-35.0,19.0,Erik Cernak,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:29:16Z,1,12:51,07:09,Penalty,Fighting,-12.0,39.0,Luke Witkowski,PenaltyOn,Tampa Bay Lightning,Ross Johnston,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:29:36Z,1,12:51,07:09,Penalty,Fighting,-14.0,39.0,Ross Johnston,PenaltyOn,New York Islanders,Luke Witkowski,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:30:25Z,1,12:51,07:09,Faceoff,n/a,-69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:31:07Z,1,13:03,06:57,Giveaway,n/a,-61.0,39.0,Steven Stamkos,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:32:24Z,1,14:20,05:40,Hit,n/a,-57.0,38.0,Scott Mayfield,Hitter,New York Islanders,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:32:30Z,1,14:26,05:34,Shot,Wrist Shot,-70.0,2.0,Ondrej Palat,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:32:31Z,1,14:26,05:34,Giveaway,n/a,-38.0,0.0,Anthony Beauvillier,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:32:47Z,1,14:43,05:17,Takeaway,n/a,32.0,-40.0,Mathieu Joseph,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:33:00Z,1,14:56,05:04,Hit,n/a,82.0,-36.0,Casey Cizikas,Hitter,New York Islanders,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:33:44Z,1,15:39,04:21,Missed Shot,n/a,-84.0,-15.0,Jan Rutta,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:33:56Z,1,15:52,04:08,Hit,n/a,41.0,40.0,Cole Bardreau,Hitter,New York Islanders,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:34:16Z,1,16:12,03:48,Takeaway,n/a,86.0,18.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:34:21Z,1,16:16,03:44,Blocked Shot,n/a,60.0,-3.0,Alexander Volkov,Blocker,Tampa Bay Lightning,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:34:57Z,1,16:33,03:27,Faceoff,n/a,69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:35:31Z,1,17:03,02:57,Shot,Wrist Shot,-35.0,-20.0,Ondrej Palat,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:36:00Z,1,17:32,02:28,Giveaway,n/a,-14.0,-39.0,Cal Clutterbuck,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:36:04Z,1,17:36,02:24,Hit,n/a,-7.0,0.0,Cal Clutterbuck,Hitter,New York Islanders,Ondrej Palat,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:36:31Z,1,17:50,02:10,Faceoff,n/a,69.0,22.0,Josh Bailey,Winner,New York Islanders,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:37:07Z,1,18:12,01:48,Blocked Shot,n/a,74.0,6.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Mathew Barzal,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:37:23Z,1,18:23,01:37,Blocked Shot,n/a,76.0,7.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Josh Bailey,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:37:45Z,1,18:50,01:10,Blocked Shot,n/a,-77.0,-7.0,Ryan Pulock,Blocker,New York Islanders,Ryan McDonagh,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:37:56Z,1,19:00,01:00,Blocked Shot,n/a,-53.0,-16.0,Derick Brassard,Blocker,New York Islanders,Ryan McDonagh,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:38:07Z,1,19:11,00:49,Giveaway,n/a,-48.0,-40.0,Alex Killorn,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:38:26Z,1,19:30,00:30,Hit,n/a,-58.0,-39.0,Scott Mayfield,Hitter,New York Islanders,Nikita Kucherov,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:57:21Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:57:52Z,2,00:26,19:34,Hit,n/a,-96.0,18.0,Cal Clutterbuck,Hitter,New York Islanders,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:57:58Z,2,00:33,19:27,Hit,n/a,-96.0,-2.0,Cal Clutterbuck,Hitter,New York Islanders,Tyler Johnson,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:58:19Z,2,00:53,19:07,Shot,Snap Shot,-32.0,-13.0,Derick Brassard,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:58:21Z,2,00:55,19:05,Hit,n/a,-80.0,37.0,Luke Schenn,Hitter,Tampa Bay Lightning,Brock Nelson,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:58:34Z,2,01:08,18:52,Hit,n/a,71.0,-39.0,Scott Mayfield,Hitter,New York Islanders,Alexander Volkov,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:58:36Z,2,01:10,18:50,Shot,Backhand,72.0,-8.0,Alexander Volkov,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:58:41Z,2,01:15,18:45,Giveaway,n/a,-96.0,4.0,Andrei Vasilevskiy,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:58:44Z,2,01:18,18:42,Hit,n/a,-95.0,20.0,Luke Schenn,Hitter,Tampa Bay Lightning,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:58:48Z,2,01:22,18:38,Shot,Wrap-around,-87.0,-8.0,Derick Brassard,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:59:01Z,2,01:35,18:25,Hit,n/a,96.0,1.0,Scott Mayfield,Hitter,New York Islanders,Alexander Volkov,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:59:07Z,2,01:41,18:19,Shot,Snap Shot,30.0,0.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:59:17Z,2,01:49,18:11,Penalty,Holding,87.0,-29.0,Devon Toews,PenaltyOn,New York Islanders,Nikita Kucherov,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-01T23:59:54Z,2,01:49,18:11,Faceoff,n/a,69.0,22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:00:08Z,2,01:58,18:02,Shot,Slap Shot,34.0,18.0,Alex Killorn,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:00:21Z,2,01:58,18:02,Faceoff,n/a,69.0,22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:00:45Z,2,02:12,17:48,Shot,Wrist Shot,55.0,2.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:00:58Z,2,02:25,17:35,Shot,Slap Shot,36.0,20.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:01:14Z,2,02:38,17:22,Blocked Shot,n/a,73.0,-8.0,Adam Pelech,Blocker,New York Islanders,Tyler Johnson,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:01:38Z,2,02:38,17:22,Faceoff,n/a,69.0,-22.0,Brock Nelson,Winner,New York Islanders,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:02:16Z,2,03:16,16:44,Blocked Shot,n/a,47.0,15.0,Scott Mayfield,Blocker,New York Islanders,Steven Stamkos,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:02:30Z,2,03:30,16:30,Missed Shot,n/a,60.0,-14.0,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:03:01Z,2,04:00,16:00,Giveaway,n/a,21.0,29.0,Anthony Beauvillier,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:03:08Z,2,04:07,15:53,Shot,Slap Shot,47.0,28.0,Johnny Boychuk,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:03:33Z,2,04:32,15:28,Blocked Shot,n/a,-71.0,-9.0,Cedric Paquette,Blocker,Tampa Bay Lightning,Nick Leddy,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:03:52Z,2,04:51,15:09,Blocked Shot,n/a,-70.0,7.0,Mathew Barzal,Blocker,New York Islanders,Alex Killorn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:04:05Z,2,04:58,15:02,Goal,Wrist Shot,-78.0,8.0,Mathew Barzal,Scorer,New York Islanders,Nick Leddy,Assist,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a
+2019-11-02T00:04:51Z,2,04:58,15:02,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:05:33Z,2,05:33,14:27,Hit,n/a,-96.0,7.0,Casey Cizikas,Hitter,New York Islanders,Jan Rutta,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:05:53Z,2,05:45,14:15,Penalty,Interference,80.0,1.0,Cal Clutterbuck,PenaltyOn,New York Islanders,Anthony Cirelli,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:06:32Z,2,05:45,14:15,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:06:41Z,2,05:57,14:03,Shot,Slap Shot,31.0,1.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:06:50Z,2,05:57,14:03,Faceoff,n/a,69.0,-22.0,Brock Nelson,Winner,New York Islanders,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:07:39Z,2,06:20,13:40,Takeaway,n/a,-15.0,-39.0,Casey Cizikas,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:07:43Z,2,06:23,13:37,Shot,Snap Shot,-56.0,-11.0,Casey Cizikas,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:08:15Z,2,06:55,13:05,Blocked Shot,n/a,67.0,22.0,Scott Mayfield,Blocker,New York Islanders,Steven Stamkos,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:08:30Z,2,07:11,12:49,Shot,Wrist Shot,67.0,-1.0,Brayden Point,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:08:39Z,2,07:19,12:41,Giveaway,n/a,95.0,19.0,Anthony Beauvillier,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:09:00Z,2,07:41,12:19,Giveaway,n/a,98.0,-1.0,Johnny Boychuk,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:11:33Z,2,07:46,12:14,Giveaway,n/a,53.0,19.0,Johnny Boychuk,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:09:13Z,2,07:49,12:11,Goal,Backhand,73.0,-6.0,Yanni Gourde,Scorer,Tampa Bay Lightning,Kevin Shattenkirk,Assist,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a
+2019-11-02T00:09:58Z,2,07:49,12:11,Faceoff,n/a,0.0,0.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:10:25Z,2,08:21,11:39,Blocked Shot,n/a,53.0,23.0,Josh Bailey,Blocker,New York Islanders,Anthony Cirelli,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:10:27Z,2,08:23,11:37,Shot,Wrist Shot,59.0,2.0,Alex Killorn,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:10:43Z,2,08:37,11:23,Shot,Snap Shot,34.0,-3.0,Erik Cernak,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:13:03Z,2,08:37,11:23,Faceoff,n/a,69.0,-22.0,Brock Nelson,Winner,New York Islanders,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:13:02Z,2,08:43,11:17,Giveaway,n/a,96.0,-16.0,Adam Pelech,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:13:10Z,2,08:51,11:09,Shot,Snap Shot,38.0,9.0,Jan Rutta,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:13:12Z,2,08:53,11:07,Takeaway,n/a,47.0,14.0,Steven Stamkos,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:13:29Z,2,09:10,10:50,Giveaway,n/a,-44.0,-38.0,Steven Stamkos,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:13:41Z,2,09:22,10:38,Takeaway,n/a,48.0,-27.0,Ross Johnston,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:13:51Z,2,09:33,10:27,Giveaway,n/a,-41.0,-31.0,Oliver Wahlstrom,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:13:58Z,2,09:40,10:20,Hit,n/a,-17.0,39.0,Ross Johnston,Hitter,New York Islanders,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:14:05Z,2,09:46,10:14,Shot,Slap Shot,58.0,-2.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:14:19Z,2,10:00,10:00,Blocked Shot,n/a,76.0,-2.0,Scott Mayfield,Blocker,New York Islanders,Ondrej Palat,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:16:52Z,2,10:21,09:39,Faceoff,n/a,-20.0,22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:17:31Z,2,10:54,09:06,Hit,n/a,37.0,38.0,Luke Witkowski,Hitter,Tampa Bay Lightning,Josh Bailey,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:17:37Z,2,11:00,09:00,Shot,Wrist Shot,-71.0,0.0,Anders Lee,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:17:49Z,2,11:12,08:48,Hit,n/a,-21.0,-38.0,Yanni Gourde,Hitter,Tampa Bay Lightning,Adam Pelech,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:18:02Z,2,11:26,08:34,Blocked Shot,n/a,-70.0,-5.0,Ryan McDonagh,Blocker,Tampa Bay Lightning,Derick Brassard,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:18:14Z,2,11:33,08:27,Goal,Snap Shot,-39.0,15.0,Ryan Pulock,Scorer,New York Islanders,Derick Brassard,Assist,New York Islanders,Anthony Beauvillier,Assist,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning
+2019-11-02T00:18:59Z,2,11:33,08:27,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:19:13Z,2,11:45,08:15,Shot,Wrist Shot,-10.0,-31.0,Devon Toews,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:19:25Z,2,11:56,08:04,Hit,n/a,66.0,40.0,Scott Mayfield,Hitter,New York Islanders,Alex Killorn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:19:37Z,2,12:09,07:51,Hit,n/a,-96.0,7.0,Jan Rutta,Hitter,Tampa Bay Lightning,Casey Cizikas,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:19:46Z,2,12:17,07:43,Shot,Slap Shot,-7.0,11.0,Mathieu Joseph,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:20:03Z,2,12:35,07:25,Giveaway,n/a,45.0,-34.0,Alexander Volkov,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:20:12Z,2,12:43,07:17,Hit,n/a,-10.0,-40.0,Anders Lee,Hitter,New York Islanders,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:20:23Z,2,12:54,07:06,Giveaway,n/a,10.0,2.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:20:35Z,2,13:06,06:54,Takeaway,n/a,6.0,18.0,Ryan McDonagh,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:20:42Z,2,13:14,06:46,Blocked Shot,n/a,64.0,0.0,Adam Pelech,Blocker,New York Islanders,Erik Cernak,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:21:13Z,2,13:44,06:16,Giveaway,n/a,94.0,18.0,Johnny Boychuk,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:21:18Z,2,13:49,06:11,Shot,Wrist Shot,34.0,12.0,Jan Rutta,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:21:25Z,2,13:57,06:03,Hit,n/a,-45.0,39.0,Ross Johnston,Hitter,New York Islanders,Ondrej Palat,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:21:26Z,2,13:57,06:03,Missed Shot,n/a,29.0,8.0,Jan Rutta,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:21:55Z,2,14:27,05:33,Giveaway,n/a,-96.0,-9.0,Kevin Shattenkirk,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:22:04Z,2,14:35,05:25,Hit,n/a,-84.0,-37.0,Cole Bardreau,Hitter,New York Islanders,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:22:08Z,2,14:39,05:21,Hit,n/a,-77.0,37.0,Cole Bardreau,Hitter,New York Islanders,Cedric Paquette,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:22:16Z,2,14:47,05:13,Shot,Tip-In,-77.0,-2.0,Cole Bardreau,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:22:19Z,2,14:51,05:09,Hit,n/a,-94.0,-26.0,Mikhail Sergachev,Hitter,Tampa Bay Lightning,Cal Clutterbuck,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:22:24Z,2,14:55,05:05,Giveaway,n/a,-96.0,-5.0,Kevin Shattenkirk,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:22:39Z,2,15:10,04:50,Hit,n/a,-93.0,26.0,Cal Clutterbuck,Hitter,New York Islanders,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:22:46Z,2,15:17,04:43,Shot,Slap Shot,-40.0,25.0,Scott Mayfield,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:23:04Z,2,15:33,04:27,Penalty,Tripping,-93.0,-24.0,Kevin Shattenkirk,PenaltyOn,Tampa Bay Lightning,Casey Cizikas,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:25:14Z,2,15:33,04:27,Faceoff,n/a,-69.0,-22.0,Josh Bailey,Winner,New York Islanders,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:25:20Z,2,15:39,04:21,Giveaway,n/a,-49.0,-29.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:25:49Z,2,16:09,03:51,Blocked Shot,n/a,-64.0,-8.0,Erik Cernak,Blocker,Tampa Bay Lightning,Josh Bailey,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:26:08Z,2,16:27,03:33,Shot,Snap Shot,-36.0,-10.0,Devon Toews,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:26:32Z,2,16:51,03:09,Takeaway,n/a,-32.0,25.0,Ondrej Palat,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:27:07Z,2,17:27,02:33,Takeaway,n/a,-38.0,-23.0,Mikhail Sergachev,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:27:54Z,2,18:14,01:46,Giveaway,n/a,72.0,-1.0,Yanni Gourde,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:28:01Z,2,18:18,01:42,Shot,Wrist Shot,-67.0,-9.0,Derick Brassard,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:28:06Z,2,18:26,01:34,Giveaway,n/a,-94.0,21.0,Ryan McDonagh,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:28:09Z,2,18:27,01:33,Shot,Wrist Shot,-60.0,14.0,Cal Clutterbuck,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:28:33Z,2,18:27,01:33,Faceoff,n/a,-69.0,22.0,Casey Cizikas,Winner,New York Islanders,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:29:27Z,2,19:11,00:49,Blocked Shot,n/a,-71.0,-5.0,Kevin Shattenkirk,Blocker,Tampa Bay Lightning,Adam Pelech,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:29:49Z,2,19:11,00:49,Faceoff,n/a,-69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:30:10Z,2,19:29,00:31,Hit,n/a,57.0,-39.0,Scott Mayfield,Hitter,New York Islanders,Ondrej Palat,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:30:20Z,2,19:39,00:21,Giveaway,n/a,94.0,-23.0,Ondrej Palat,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:30:33Z,2,19:51,00:09,Shot,Wrist Shot,43.0,-10.0,Erik Cernak,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:30:52Z,2,19:51,00:09,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:31:06Z,2,19:55,00:05,Shot,Wrist Shot,67.0,-6.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:31:15Z,2,19:55,00:05,Faceoff,n/a,69.0,-22.0,Brock Nelson,Winner,New York Islanders,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:31:32Z,2,19:59,00:01,Hit,n/a,58.0,-38.0,Derick Brassard,Hitter,New York Islanders,Nikita Kucherov,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:50:01Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Brayden Point,Winner,Tampa Bay Lightning,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:50:50Z,3,00:25,19:35,Faceoff,n/a,-69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:51:06Z,3,00:36,19:24,Shot,Wrist Shot,-31.0,22.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:51:11Z,3,00:41,19:19,Hit,n/a,-36.0,17.0,Nikita Kucherov,Hitter,Tampa Bay Lightning,Michael Dal Colle,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:51:36Z,3,01:07,18:53,Hit,n/a,43.0,-39.0,Mikhail Sergachev,Hitter,Tampa Bay Lightning,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:51:46Z,3,01:16,18:44,Blocked Shot,n/a,54.0,22.0,Nikita Kucherov,Blocker,Tampa Bay Lightning,Adam Pelech,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:51:46Z,3,01:16,18:44,Shot,Wrist Shot,61.0,-2.0,Derick Brassard,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:52:21Z,3,01:37,18:23,Faceoff,n/a,-69.0,22.0,Josh Bailey,Winner,New York Islanders,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:52:53Z,3,01:57,18:03,Giveaway,n/a,-95.0,-22.0,Johnny Boychuk,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:53:04Z,3,02:08,17:52,Hit,n/a,-19.0,40.0,Erik Cernak,Hitter,Tampa Bay Lightning,Josh Bailey,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:53:14Z,3,02:18,17:42,Hit,n/a,-80.0,37.0,Josh Bailey,Hitter,New York Islanders,Anthony Cirelli,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:53:29Z,3,02:34,17:26,Shot,Wrist Shot,-59.0,13.0,Brayden Point,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:53:37Z,3,02:41,17:19,Blocked Shot,n/a,-74.0,7.0,Oliver Wahlstrom,Blocker,New York Islanders,Jan Rutta,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:53:58Z,3,02:47,17:13,Faceoff,n/a,-69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Cole Bardreau,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:54:29Z,3,03:06,16:54,Hit,n/a,-81.0,37.0,Scott Mayfield,Hitter,New York Islanders,Ondrej Palat,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:54:36Z,3,03:13,16:47,Hit,n/a,-83.0,36.0,Cole Bardreau,Hitter,New York Islanders,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:54:46Z,3,03:23,16:37,Hit,n/a,93.0,20.0,Michael Dal Colle,Hitter,New York Islanders,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:54:55Z,3,03:32,16:28,Giveaway,n/a,-16.0,25.0,Yanni Gourde,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:55:32Z,3,03:38,16:22,Hit,n/a,-51.0,40.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Adam Pelech,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:55:35Z,3,03:41,16:19,Faceoff,n/a,-69.0,22.0,Michael Dal Colle,Winner,New York Islanders,Alexander Volkov,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:56:14Z,3,03:53,16:07,Faceoff,n/a,-69.0,22.0,Casey Cizikas,Winner,New York Islanders,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:57:16Z,3,04:27,15:33,Blocked Shot,n/a,-72.0,11.0,Ryan Pulock,Blocker,New York Islanders,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:57:29Z,3,04:39,15:21,Hit,n/a,-41.0,-37.0,Jan Rutta,Hitter,Tampa Bay Lightning,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:57:56Z,3,05:07,14:53,Blocked Shot,n/a,-49.0,22.0,Anders Lee,Blocker,New York Islanders,Luke Schenn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:58:02Z,3,05:12,14:48,Shot,Wrist Shot,-50.0,18.0,Anthony Cirelli,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:58:24Z,3,05:35,14:25,Blocked Shot,n/a,-41.0,15.0,Anders Lee,Blocker,New York Islanders,Luke Schenn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:58:29Z,3,05:40,14:20,Blocked Shot,n/a,-53.0,-18.0,Mathew Barzal,Blocker,New York Islanders,Anthony Cirelli,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:58:34Z,3,05:45,14:15,Shot,Wrist Shot,-53.0,-10.0,Mathieu Joseph,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:58:43Z,3,05:53,14:07,Hit,n/a,-43.0,-39.0,Johnny Boychuk,Hitter,New York Islanders,Alex Killorn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:58:58Z,3,06:08,13:52,Giveaway,n/a,11.0,33.0,Luke Schenn,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:59:13Z,3,06:24,13:36,Hit,n/a,-19.0,-38.0,Cal Clutterbuck,Hitter,New York Islanders,Ryan McDonagh,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T00:59:51Z,3,07:02,12:58,Shot,Wrist Shot,-57.0,15.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:00:00Z,3,07:10,12:50,Shot,Wrist Shot,-35.0,-12.0,Cedric Paquette,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:00:03Z,3,07:13,12:47,Hit,n/a,-55.0,39.0,Ross Johnston,Hitter,New York Islanders,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:00:15Z,3,07:21,12:39,Hit,n/a,-82.0,-37.0,Luke Witkowski,Hitter,Tampa Bay Lightning,Scott Mayfield,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:00:41Z,3,07:21,12:39,Penalty,Delaying Game - Puck over glass,-84.0,-36.0,Scott Mayfield,PenaltyOn,New York Islanders,Yanni Gourde,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:02:19Z,3,07:21,12:39,Faceoff,n/a,-69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:02:31Z,3,07:30,12:30,Shot,Wrist Shot,-42.0,4.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:02:40Z,3,07:39,12:21,Blocked Shot,n/a,-69.0,-1.0,Casey Cizikas,Blocker,New York Islanders,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:02:53Z,3,07:48,12:12,Shot,Wrist Shot,-34.0,-8.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:03:10Z,3,07:48,12:12,Faceoff,n/a,-69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:03:56Z,3,08:30,11:30,Shot,Slap Shot,-64.0,19.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:04:20Z,3,08:30,11:30,Faceoff,n/a,-69.0,22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:04:39Z,3,08:50,11:10,Blocked Shot,n/a,-56.0,0.0,Casey Cizikas,Blocker,New York Islanders,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:05:37Z,3,09:46,10:14,Shot,Snap Shot,56.0,4.0,Anders Lee,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:06:00Z,3,09:46,10:14,Faceoff,n/a,69.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:06:40Z,3,10:12,09:48,Missed Shot,n/a,-42.0,19.0,Erik Cernak,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:06:44Z,3,10:15,09:45,Giveaway,n/a,-96.0,2.0,Alexander Volkov,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:07:02Z,3,10:33,09:27,Missed Shot,n/a,38.0,-14.0,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:07:14Z,3,10:44,09:16,Shot,Wrist Shot,-37.0,-10.0,Luke Schenn,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:09:22Z,3,10:44,09:16,Faceoff,n/a,-69.0,-22.0,Mathieu Joseph,Winner,Tampa Bay Lightning,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:09:39Z,3,10:51,09:09,Shot,Wrist Shot,-85.0,-7.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:10:03Z,3,10:51,09:09,Faceoff,n/a,-69.0,22.0,Alexander Volkov,Winner,Tampa Bay Lightning,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:10:26Z,3,10:59,09:01,Blocked Shot,n/a,-78.0,11.0,Ryan Pulock,Blocker,New York Islanders,Steven Stamkos,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:10:34Z,3,11:07,08:53,Hit,n/a,-97.0,7.0,Nikita Kucherov,Hitter,Tampa Bay Lightning,Adam Pelech,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:11:09Z,3,11:42,08:18,Missed Shot,n/a,-65.0,21.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:12:11Z,3,12:41,07:19,Goal,Snap Shot,58.0,-10.0,Josh Bailey,Scorer,New York Islanders,Mathew Barzal,Assist,New York Islanders,Anders Lee,Assist,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning
+2019-11-02T01:12:56Z,3,12:41,07:19,Faceoff,n/a,0.0,0.0,Brock Nelson,Winner,New York Islanders,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:13:03Z,3,12:53,07:07,Giveaway,n/a,33.0,-39.0,Ondrej Palat,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:13:51Z,3,13:09,06:51,Faceoff,n/a,-69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:13:54Z,3,13:17,06:43,Shot,Slap Shot,-33.0,22.0,Erik Cernak,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:14:01Z,3,13:24,06:36,Hit,n/a,-19.0,-39.0,Cal Clutterbuck,Hitter,New York Islanders,Ryan McDonagh,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:14:30Z,3,13:52,06:08,Hit,n/a,-98.0,-7.0,Nikita Kucherov,Hitter,Tampa Bay Lightning,Johnny Boychuk,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:14:53Z,3,14:16,05:44,Hit,n/a,-17.0,-31.0,Luke Witkowski,Hitter,Tampa Bay Lightning,Johnny Boychuk,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:15:04Z,3,14:27,05:33,Goal,Wrist Shot,77.0,-7.0,Anders Lee,Scorer,New York Islanders,Johnny Boychuk,Assist,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a
+2019-11-02T01:18:06Z,3,14:27,05:33,Penalty,Delay of game,-4.0,0.0,Anders Lee,PenaltyOn,Tampa Bay Lightning,Tyler Johnson,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:18:17Z,3,14:27,05:33,Faceoff,n/a,0.0,0.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:19:21Z,3,15:32,04:28,Shot,Snap Shot,40.0,-2.0,Devon Toews,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:19:42Z,3,15:54,04:06,Giveaway,n/a,53.0,39.0,Mathieu Joseph,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:20:18Z,3,15:55,04:05,Faceoff,n/a,69.0,-22.0,Brock Nelson,Winner,New York Islanders,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:20:33Z,3,16:14,03:46,Shot,Backhand,71.0,-1.0,Nick Leddy,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:21:01Z,3,16:14,03:46,Faceoff,n/a,69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:21:20Z,3,16:22,03:38,Giveaway,n/a,33.0,38.0,Nick Leddy,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:21:52Z,3,16:54,03:06,Hit,n/a,-96.0,5.0,Adam Pelech,Hitter,New York Islanders,Anthony Cirelli,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:23:00Z,3,18:02,01:58,Blocked Shot,n/a,-55.0,8.0,Anders Lee,Blocker,New York Islanders,Ryan McDonagh,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:23:11Z,3,18:03,01:57,Goal,Wrist Shot,-32.0,8.0,Ryan McDonagh,Scorer,Tampa Bay Lightning,Ondrej Palat,Assist,Tampa Bay Lightning,Steven Stamkos,Assist,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders
+2019-11-02T01:23:43Z,3,18:03,01:57,Faceoff,n/a,0.0,0.0,Brock Nelson,Winner,New York Islanders,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:23:53Z,3,18:14,01:46,Hit,n/a,-11.0,39.0,Erik Cernak,Hitter,Tampa Bay Lightning,Casey Cizikas,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:24:07Z,3,18:27,01:33,Giveaway,n/a,-98.0,5.0,Ryan Pulock,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:24:47Z,3,18:39,01:21,Faceoff,n/a,-69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:25:07Z,3,18:54,01:06,Blocked Shot,n/a,78.0,10.0,Tyler Johnson,Blocker,Tampa Bay Lightning,Brock Nelson,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:25:22Z,3,19:11,00:49,Shot,Wrist Shot,-29.0,19.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:25:40Z,3,19:24,00:36,Goal,Wrist Shot,68.0,7.0,Derick Brassard,Scorer,New York Islanders,Anders Lee,Assist,New York Islanders,Josh Bailey,Assist,Tampa Bay Lightning,n/a,n/a,n/a
+2019-11-02T01:26:32Z,3,19:24,00:36,Faceoff,n/a,0.0,0.0,Cedric Paquette,Winner,Tampa Bay Lightning,Cole Bardreau,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:26:22Z,3,19:35,00:25,Giveaway,n/a,-96.0,5.0,Nick Leddy,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:26:38Z,3,19:51,00:09,Hit,n/a,33.0,34.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Nick Leddy,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T01:26:50Z,3,19:59,00:01,Shot,Wrist Shot,31.0,10.0,Johnny Boychuk,Shooter,New York Islanders,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a

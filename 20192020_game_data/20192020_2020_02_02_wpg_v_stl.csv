@@ -1,0 +1,259 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-02T00:14:55Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Brayden Schenn,Winner,St. Louis Blues,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:15:30Z,1,00:13,19:47,Hit,n/a,94.0,27.0,Brayden Schenn,Hitter,St. Louis Blues,Blake Wheeler,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:15:33Z,1,00:15,19:45,Shot,Wrist Shot,42.0,-7.0,Colton Parayko,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:15:45Z,1,00:16,19:44,Faceoff,n/a,69.0,-22.0,Brayden Schenn,Winner,St. Louis Blues,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:16:03Z,1,00:20,19:40,Missed Shot,n/a,34.0,-22.0,Colton Parayko,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:16:12Z,1,00:29,19:31,Hit,n/a,-98.0,1.0,Blake Wheeler,Hitter,Winnipeg Jets,Colton Parayko,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:16:27Z,1,00:44,19:16,Hit,n/a,89.0,34.0,Sami Niku,Hitter,Winnipeg Jets,Zach Sanford,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:16:38Z,1,00:54,19:06,Shot,Slap Shot,36.0,-21.0,David Perron,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:17:37Z,1,01:54,18:06,Blocked Shot,n/a,44.0,3.0,Anthony Bitetto,Blocker,Winnipeg Jets,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:17:46Z,1,02:02,17:58,Shot,Wrist Shot,55.0,-30.0,Tyler Bozak,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:17:51Z,1,02:08,17:52,Missed Shot,n/a,68.0,16.0,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:18:03Z,1,02:20,17:40,Hit,n/a,-93.0,29.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Jack Roslovic,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:18:15Z,1,02:32,17:28,Shot,Wrist Shot,-63.0,36.0,Nicholas Shore,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:18:20Z,1,02:34,17:26,Shot,Wrist Shot,-84.0,5.0,Logan Shaw,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:18:41Z,1,02:59,17:01,Hit,n/a,-24.0,-40.0,Gabriel Bourque,Hitter,Winnipeg Jets,Colton Parayko,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:19:02Z,1,03:19,16:41,Blocked Shot,n/a,-51.0,26.0,Troy Brouwer,Blocker,St. Louis Blues,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:19:02Z,1,03:46,16:14,Shot,Wrist Shot,75.0,39.0,Zach Sanford,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:19:46Z,1,04:04,15:56,Giveaway,n/a,31.0,29.0,Nikolaj Ehlers,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:20:03Z,1,04:21,15:39,Giveaway,n/a,98.0,-1.0,Josh Morrissey,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:20:08Z,1,04:25,15:35,Shot,Wrist Shot,47.0,26.0,Tyler Bozak,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:20:17Z,1,04:30,15:30,Takeaway,n/a,69.0,-37.0,Tyler Bozak,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:20:15Z,1,04:32,15:28,Shot,Wrist Shot,70.0,-36.0,Tyler Bozak,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:20:25Z,1,04:41,15:19,Shot,Wrist Shot,-77.0,37.0,Patrik Laine,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:21:01Z,1,04:50,15:10,Faceoff,n/a,69.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:21:25Z,1,05:09,14:51,Shot,Slap Shot,38.0,-32.0,Robert Bortuzzo,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:21:56Z,1,05:10,14:50,Faceoff,n/a,69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:22:17Z,1,05:22,14:38,Shot,Wrist Shot,-79.0,-37.0,Andrew Copp,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:22:30Z,1,05:35,14:25,Hit,n/a,94.0,-24.0,Dmitry Kulikov,Hitter,Winnipeg Jets,Sammy Blais,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:22:36Z,1,05:41,14:19,Hit,n/a,-63.0,-39.0,Robert Bortuzzo,Hitter,St. Louis Blues,Jack Roslovic,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:23:29Z,1,06:34,13:26,Shot,Wrist Shot,-56.0,19.0,Mark Scheifele,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:25:10Z,1,06:35,13:25,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:25:52Z,1,06:47,13:13,Hit,n/a,71.0,-41.0,Patrik Laine,Hitter,Winnipeg Jets,Zach Sanford,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:25:58Z,1,06:52,13:08,Missed Shot,n/a,55.0,10.0,Zach Sanford,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:26:08Z,1,07:02,12:58,Shot,Wrist Shot,58.0,-15.0,Ryan O'Reilly,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:26:34Z,1,07:03,12:57,Faceoff,n/a,69.0,-22.0,Blake Wheeler,Winner,Winnipeg Jets,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:27:14Z,1,07:24,12:36,Faceoff,n/a,-69.0,-22.0,Blake Wheeler,Winner,Winnipeg Jets,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:27:49Z,1,07:32,12:28,Blocked Shot,n/a,-63.0,-11.0,Tyler Bozak,Blocker,St. Louis Blues,Dmitry Kulikov,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:28:15Z,1,07:58,12:02,Missed Shot,n/a,-35.0,-24.0,Anthony Bitetto,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:29:01Z,1,08:22,11:38,Shot,Wrist Shot,-72.0,2.0,Jack Roslovic,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:29:01Z,1,08:23,11:37,Faceoff,n/a,-69.0,22.0,Jack Roslovic,Winner,Winnipeg Jets,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:29:20Z,1,08:29,11:31,Blocked Shot,n/a,-48.0,10.0,Alexander Steen,Blocker,St. Louis Blues,Luca Sbisa,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:30:39Z,1,08:36,11:24,Penalty,Roughing,-95.0,20.0,Troy Brouwer,PenaltyOn,St. Louis Blues,Jansen Harkins,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:30:39Z,1,08:36,11:24,Penalty,Slashing,-94.0,22.0,Andrew Copp,PenaltyOn,Winnipeg Jets,Robert Bortuzzo,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:31:45Z,1,08:36,11:24,Faceoff,n/a,-20.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:32:47Z,1,10:02,09:58,Shot,Wrist Shot,53.0,-7.0,Colton Parayko,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:33:11Z,1,10:26,09:34,Shot,Wrist Shot,57.0,-7.0,Vince Dunn,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:35:40Z,1,10:27,09:33,Faceoff,n/a,69.0,-22.0,Tyler Bozak,Winner,St. Louis Blues,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:36:01Z,1,10:39,09:21,Hit,n/a,95.0,26.0,Dmitry Kulikov,Hitter,Winnipeg Jets,Tyler Bozak,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:37:00Z,1,11:36,08:24,Shot,Wrist Shot,80.0,5.0,Sammy Blais,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:37:07Z,1,11:40,08:20,Missed Shot,n/a,51.0,23.0,Colton Parayko,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:37:20Z,1,11:57,08:03,Shot,Wrist Shot,58.0,16.0,Ivan Barbashev,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:37:46Z,1,12:23,07:37,Hit,n/a,12.0,41.0,Ivan Barbashev,Hitter,St. Louis Blues,Luca Sbisa,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:38:45Z,1,13:21,06:39,Shot,Wrist Shot,11.0,-37.0,Alex Pietrangelo,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:39:22Z,1,13:23,06:37,Faceoff,n/a,69.0,-22.0,Brayden Schenn,Winner,St. Louis Blues,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:39:32Z,1,13:27,06:33,Missed Shot,n/a,37.0,-30.0,Robert Bortuzzo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:39:41Z,1,13:36,06:24,Missed Shot,n/a,-69.0,-3.0,Andrew Copp,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:40:05Z,1,13:44,06:16,Faceoff,n/a,20.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:40:36Z,1,13:57,06:03,Giveaway,n/a,45.0,38.0,Anthony Bitetto,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:40:36Z,1,13:59,06:01,Shot,Deflected,71.0,6.0,Troy Brouwer,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:40:59Z,1,14:24,05:36,Giveaway,n/a,87.0,-32.0,Dmitry Kulikov,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:41:05Z,1,14:28,05:32,Blocked Shot,n/a,49.0,10.0,Gabriel Bourque,Blocker,Winnipeg Jets,Jay Bouwmeester,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:42:12Z,1,15:35,04:25,Missed Shot,n/a,-54.0,-26.0,Kyle Connor,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:42:20Z,1,15:44,04:16,Shot,Wrist Shot,-50.0,-35.0,Josh Morrissey,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:42:34Z,1,15:58,04:02,Takeaway,n/a,95.0,-27.0,Neal Pionk,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:42:54Z,1,16:14,03:46,Hit,n/a,-58.0,-38.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Mark Scheifele,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:43:34Z,1,16:36,03:24,Penalty,Slashing,-70.0,-15.0,Colton Parayko,PenaltyOn,St. Louis Blues,Kyle Connor,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:45:11Z,1,16:36,03:24,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:45:40Z,1,16:49,03:11,Shot,Wrist Shot,-84.0,9.0,Kyle Connor,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:45:48Z,1,16:50,03:10,Shot,Wrist Shot,-84.0,6.0,Kyle Connor,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:45:58Z,1,16:51,03:09,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:46:15Z,1,17:03,02:57,Blocked Shot,n/a,-57.0,-22.0,Robert Bortuzzo,Blocker,St. Louis Blues,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:46:52Z,1,17:38,02:22,Hit,n/a,-14.0,40.0,Ivan Barbashev,Hitter,St. Louis Blues,Kyle Connor,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:47:02Z,1,17:50,02:10,Shot,Wrist Shot,-41.0,36.0,Blake Wheeler,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:47:40Z,1,18:05,01:55,Faceoff,n/a,-20.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:48:23Z,1,18:44,01:16,Goal,Wrist Shot,-73.0,10.0,Jack Roslovic,Scorer,Winnipeg Jets,Sami Niku,Assist,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a
+2020-02-02T00:49:09Z,1,18:44,01:16,Faceoff,n/a,0.0,0.0,Brayden Schenn,Winner,St. Louis Blues,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:49:25Z,1,19:01,00:59,Takeaway,n/a,81.0,-1.0,Anthony Bitetto,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:49:55Z,1,19:05,00:55,Faceoff,n/a,69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:50:12Z,1,19:19,00:41,Missed Shot,n/a,-73.0,-25.0,Mark Scheifele,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:50:32Z,1,19:39,00:21,Shot,Wrist Shot,-45.0,-15.0,Patrik Laine,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:51:03Z,1,19:40,00:20,Faceoff,n/a,-69.0,-22.0,Tyler Bozak,Winner,St. Louis Blues,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:51:01Z,1,19:45,00:15,Giveaway,n/a,-36.0,38.0,Jay Bouwmeester,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:51:17Z,1,19:58,00:02,Hit,n/a,-58.0,-38.0,Colton Parayko,Hitter,St. Louis Blues,Blake Wheeler,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T00:51:18Z,1,19:59,00:01,Missed Shot,n/a,-36.0,-28.0,Josh Morrissey,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:09:48Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Brayden Schenn,Winner,St. Louis Blues,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:10:10Z,2,00:15,19:45,Hit,n/a,-94.0,-26.0,Luca Sbisa,Hitter,Winnipeg Jets,Brayden Schenn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:10:04Z,2,00:16,19:44,Shot,Wrist Shot,-70.0,-9.0,Troy Brouwer,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:10:29Z,2,00:17,19:43,Faceoff,n/a,-69.0,-22.0,Brayden Schenn,Winner,St. Louis Blues,Mason Appleton,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:10:56Z,2,00:34,19:26,Shot,Wrist Shot,47.0,34.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:11:18Z,2,00:35,19:25,Faceoff,n/a,69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:11:30Z,2,00:39,19:21,Blocked Shot,n/a,45.0,6.0,Zach Sanford,Blocker,St. Louis Blues,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:11:47Z,2,00:52,19:08,Giveaway,n/a,-35.0,-5.0,Kyle Connor,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:11:46Z,2,00:55,19:05,Shot,Slap Shot,-74.0,1.0,Ryan O'Reilly,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:11:46Z,2,00:57,19:03,Shot,Backhand,-75.0,-2.0,Zach Sanford,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:11:59Z,2,01:00,19:00,Giveaway,n/a,-34.0,-16.0,Josh Morrissey,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:11:59Z,2,01:10,18:50,Hit,n/a,-90.0,31.0,Neal Pionk,Hitter,Winnipeg Jets,Ryan O'Reilly,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:12:29Z,2,01:23,18:37,Penalty,Hooking,-59.0,-40.0,Mark Scheifele,PenaltyOn,Winnipeg Jets,David Perron,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:12:57Z,2,01:23,18:37,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:12:55Z,2,01:32,18:28,Blocked Shot,n/a,-52.0,-17.0,Luca Sbisa,Blocker,Winnipeg Jets,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:13:27Z,2,02:03,17:57,Shot,Slap Shot,-33.0,6.0,Alex Pietrangelo,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:13:54Z,2,02:04,17:56,Faceoff,n/a,-69.0,22.0,Andrew Copp,Winner,Winnipeg Jets,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:13:59Z,2,02:08,17:52,Giveaway,n/a,-35.0,-36.0,Dmitry Kulikov,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:14:03Z,2,02:11,17:49,Shot,Wrist Shot,-46.0,-18.0,Ryan O'Reilly,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:14:22Z,2,02:12,17:48,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Winnipeg Jets,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:14:55Z,2,02:37,17:23,Shot,Slap Shot,-48.0,-23.0,Alex Pietrangelo,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:15:05Z,2,02:46,17:14,Shot,Wrist Shot,52.0,11.0,Josh Morrissey,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:15:22Z,2,02:47,17:13,Shot,Wrist Shot,80.0,3.0,Josh Morrissey,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:15:37Z,2,02:48,17:12,Faceoff,n/a,69.0,22.0,Andrew Copp,Winner,Winnipeg Jets,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:16:10Z,2,03:12,16:48,Blocked Shot,n/a,-58.0,16.0,Anthony Bitetto,Blocker,Winnipeg Jets,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:16:12Z,2,03:15,16:45,Giveaway,n/a,-36.0,23.0,Mason Appleton,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:16:24Z,2,03:27,16:33,Shot,Wrist Shot,-50.0,27.0,Vince Dunn,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:16:36Z,2,03:39,16:21,Shot,Tip-In,64.0,-3.0,Andrew Copp,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:16:49Z,2,03:51,16:09,Missed Shot,n/a,51.0,33.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:16:58Z,2,04:02,15:58,Giveaway,n/a,38.0,-35.0,Vince Dunn,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:17:04Z,2,04:07,15:53,Missed Shot,n/a,58.0,3.0,Blake Wheeler,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:17:35Z,2,04:10,15:50,Faceoff,n/a,69.0,22.0,Ivan Barbashev,Winner,St. Louis Blues,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:18:03Z,2,04:17,15:43,Faceoff,n/a,69.0,-22.0,Ivan Barbashev,Winner,St. Louis Blues,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:18:38Z,2,04:36,15:24,Hit,n/a,94.0,29.0,Sammy Blais,Hitter,St. Louis Blues,Blake Wheeler,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:18:53Z,2,04:50,15:10,Blocked Shot,n/a,-66.0,7.0,Sami Niku,Blocker,Winnipeg Jets,Sammy Blais,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:18:58Z,2,04:56,15:04,Giveaway,n/a,-31.0,32.0,Patrik Laine,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:19:50Z,2,05:03,14:57,Faceoff,n/a,20.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:20:35Z,2,05:50,14:10,Shot,Backhand,-74.0,18.0,Troy Brouwer,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:20:55Z,2,05:55,14:05,Faceoff,n/a,-69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:21:28Z,2,06:18,13:42,Missed Shot,n/a,-49.0,-2.0,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:21:46Z,2,06:37,13:23,Hit,n/a,85.0,38.0,Gabriel Bourque,Hitter,Winnipeg Jets,Vince Dunn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:22:20Z,2,07:10,12:50,Shot,Wrist Shot,-37.0,32.0,Alex Pietrangelo,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:22:33Z,2,07:21,12:39,Blocked Shot,n/a,-50.0,-20.0,Josh Morrissey,Blocker,Winnipeg Jets,Robert Thomas,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:24:38Z,2,07:22,12:38,Faceoff,n/a,-69.0,-22.0,Blake Wheeler,Winner,Winnipeg Jets,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:25:13Z,2,07:47,12:13,Shot,Wrist Shot,45.0,-18.0,Sami Niku,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:25:51Z,2,08:00,12:00,Faceoff,n/a,20.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:26:11Z,2,08:17,11:43,Takeaway,n/a,-57.0,0.0,David Perron,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:26:34Z,2,08:40,11:20,Giveaway,n/a,-32.0,-32.0,Patrik Laine,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:27:05Z,2,09:10,10:50,Missed Shot,n/a,59.0,8.0,Kyle Connor,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:28:10Z,2,09:23,10:37,Faceoff,n/a,69.0,22.0,Ivan Barbashev,Winner,St. Louis Blues,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:28:23Z,2,09:34,10:26,Giveaway,n/a,34.0,-38.0,Sammy Blais,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:28:29Z,2,09:39,10:21,Shot,Wrist Shot,72.0,10.0,Jack Roslovic,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:29:14Z,2,10:23,09:37,Shot,Slap Shot,-63.0,31.0,Tyler Bozak,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:29:25Z,2,10:27,09:33,Shot,Wrist Shot,-76.0,-22.0,Robert Thomas,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:29:30Z,2,10:40,09:20,Giveaway,n/a,-90.0,27.0,Gabriel Bourque,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:29:36Z,2,10:45,09:15,Shot,Tip-In,-73.0,-5.0,Tyler Bozak,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:29:41Z,2,10:51,09:09,Hit,n/a,-71.0,39.0,Gabriel Bourque,Hitter,Winnipeg Jets,Tyler Bozak,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:30:23Z,2,11:18,08:42,Penalty,Holding,-94.0,-24.0,Sami Niku,PenaltyOn,Winnipeg Jets,Jaden Schwartz,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:32:08Z,2,11:18,08:42,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:33:18Z,2,11:43,08:17,Penalty,Hooking,38.0,36.0,David Perron,PenaltyOn,St. Louis Blues,Nicholas Shore,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:33:41Z,2,11:43,08:17,Faceoff,n/a,69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:33:59Z,2,12:00,08:00,Giveaway,n/a,-42.0,-11.0,Blake Wheeler,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:34:09Z,2,12:10,07:50,Shot,Wrist Shot,-35.0,15.0,Jay Bouwmeester,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:34:43Z,2,12:43,07:17,Missed Shot,n/a,-70.0,-20.0,Brayden Schenn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:35:23Z,2,12:56,07:04,Faceoff,n/a,69.0,22.0,Robert Thomas,Winner,St. Louis Blues,Patrik Laine,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:35:46Z,2,13:16,06:44,Missed Shot,n/a,-53.0,-10.0,Robert Thomas,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:35:56Z,2,13:27,06:33,Hit,n/a,-92.0,31.0,Dmitry Kulikov,Hitter,Winnipeg Jets,Alex Pietrangelo,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:36:13Z,2,13:43,06:17,Blocked Shot,n/a,47.0,-3.0,Robert Bortuzzo,Blocker,St. Louis Blues,Kyle Connor,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:36:27Z,2,13:57,06:03,Missed Shot,n/a,53.0,-33.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:36:42Z,2,14:12,05:48,Blocked Shot,n/a,-47.0,-12.0,Anthony Bitetto,Blocker,Winnipeg Jets,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:38:56Z,2,14:23,05:37,Faceoff,n/a,-20.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:39:23Z,2,14:38,05:22,Hit,n/a,48.0,39.0,Sammy Blais,Hitter,St. Louis Blues,Anthony Bitetto,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:39:28Z,2,14:41,05:19,Giveaway,n/a,33.0,38.0,Colton Parayko,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:39:29Z,2,14:43,05:17,Missed Shot,n/a,66.0,5.0,Logan Shaw,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:39:47Z,2,15:02,04:58,Hit,n/a,-29.0,36.0,Gabriel Bourque,Hitter,Winnipeg Jets,Colton Parayko,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:40:05Z,2,15:18,04:42,Missed Shot,n/a,49.0,-33.0,Mason Appleton,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:40:48Z,2,15:47,04:13,Takeaway,n/a,-90.0,33.0,Neal Pionk,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:40:40Z,2,15:50,04:10,Giveaway,n/a,-50.0,16.0,Blake Wheeler,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:40:40Z,2,15:54,04:06,Shot,Wrist Shot,-37.0,-6.0,Justin Faulk,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:41:05Z,2,16:17,03:43,Takeaway,n/a,7.0,5.0,Jansen Harkins,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:41:05Z,2,16:20,03:40,Shot,Wrist Shot,56.0,36.0,Jansen Harkins,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:41:33Z,2,16:24,03:36,Faceoff,n/a,69.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:42:18Z,2,17:01,02:59,Shot,Wrist Shot,59.0,16.0,Dmitry Kulikov,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:42:29Z,2,17:05,02:55,Goal,Wrist Shot,79.0,-11.0,Jack Roslovic,Scorer,Winnipeg Jets,Dmitry Kulikov,Assist,Winnipeg Jets,Mark Scheifele,Assist,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues
+2020-02-02T01:43:05Z,2,17:05,02:55,Faceoff,n/a,0.0,0.0,Mark Scheifele,Winner,Winnipeg Jets,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:43:57Z,2,17:59,02:01,Shot,Backhand,79.0,-6.0,Kyle Connor,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:44:04Z,2,18:05,01:55,Shot,Wrist Shot,80.0,4.0,Kyle Connor,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:44:44Z,2,18:06,01:54,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:45:14Z,2,18:28,01:32,Shot,Wrist Shot,78.0,-38.0,Mason Appleton,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:45:21Z,2,18:31,01:29,Hit,n/a,74.0,-40.0,Jay Bouwmeester,Hitter,St. Louis Blues,Mason Appleton,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:45:28Z,2,18:42,01:18,Blocked Shot,n/a,67.0,-6.0,Zach Sanford,Blocker,St. Louis Blues,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:45:41Z,2,18:55,01:05,Shot,Wrist Shot,50.0,-34.0,Neal Pionk,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:46:06Z,2,18:56,01:04,Faceoff,n/a,69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:46:18Z,2,19:02,00:58,Missed Shot,n/a,35.0,9.0,Sami Niku,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:47:05Z,2,19:45,00:15,Goal,Wrist Shot,61.0,16.0,Andrew Copp,Scorer,Winnipeg Jets,Jack Roslovic,Assist,Winnipeg Jets,Sami Niku,Assist,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues
+2020-02-02T01:47:38Z,2,19:45,00:15,Faceoff,n/a,0.0,0.0,Mark Scheifele,Winner,Winnipeg Jets,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:06:57Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Brayden Schenn,Winner,St. Louis Blues,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:07:10Z,3,00:13,19:47,Giveaway,n/a,61.0,-37.0,Andrew Copp,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:07:12Z,3,00:15,19:45,Missed Shot,n/a,74.0,-29.0,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:07:55Z,3,00:59,19:01,Takeaway,n/a,-88.0,-27.0,Ryan O'Reilly,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:08:01Z,3,01:04,18:56,Shot,Backhand,-69.0,14.0,Kyle Connor,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:08:20Z,3,01:05,18:55,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:09:19Z,3,01:23,18:37,Faceoff,n/a,20.0,-22.0,Blake Wheeler,Winner,Winnipeg Jets,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:09:52Z,3,02:04,17:56,Giveaway,n/a,31.0,38.0,Blake Wheeler,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:09:59Z,3,02:10,17:50,Missed Shot,n/a,52.0,-37.0,Robert Bortuzzo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:10:04Z,3,02:14,17:46,Giveaway,n/a,34.0,-37.0,Anthony Bitetto,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:10:08Z,3,02:19,17:41,Blocked Shot,n/a,74.0,-2.0,Luca Sbisa,Blocker,Winnipeg Jets,Tyler Bozak,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:10:35Z,3,02:47,17:13,Takeaway,n/a,-58.0,37.0,Nicholas Shore,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:10:36Z,3,02:47,17:13,Shot,Wrist Shot,-72.0,28.0,Nicholas Shore,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:11:02Z,3,03:13,16:47,Shot,Wrist Shot,-79.0,0.0,Colton Parayko,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:11:43Z,3,03:54,16:06,Shot,Wrist Shot,59.0,26.0,Brayden Schenn,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:12:02Z,3,03:55,16:05,Faceoff,n/a,69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:12:35Z,3,04:18,15:42,Takeaway,n/a,8.0,-38.0,Patrik Laine,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:13:06Z,3,04:27,15:33,Faceoff,n/a,20.0,-22.0,Blake Wheeler,Winner,Winnipeg Jets,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:13:39Z,3,05:00,15:00,Shot,Wrist Shot,-62.0,32.0,Mason Appleton,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:14:28Z,3,05:50,14:10,Giveaway,n/a,31.0,38.0,Sami Niku,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:14:35Z,3,05:55,14:05,Shot,Wrap-around,81.0,-7.0,Ivan Barbashev,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:14:38Z,3,06:00,14:00,Giveaway,n/a,36.0,-2.0,Nicholas Shore,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:14:49Z,3,06:10,13:50,Shot,Tip-In,74.0,-2.0,Ivan Barbashev,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:15:00Z,3,06:20,13:40,Shot,Wrist Shot,-46.0,-36.0,Andrew Copp,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:15:16Z,3,06:36,13:24,Blocked Shot,n/a,-57.0,-6.0,Colton Parayko,Blocker,St. Louis Blues,Andrew Copp,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:15:37Z,3,06:53,13:07,Takeaway,n/a,43.0,-35.0,Robert Thomas,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:15:47Z,3,07:07,12:53,Blocked Shot,n/a,45.0,-18.0,Jack Roslovic,Blocker,Winnipeg Jets,Jay Bouwmeester,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:15:57Z,3,07:17,12:43,Missed Shot,n/a,81.0,-14.0,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:16:03Z,3,07:23,12:37,Shot,Wrist Shot,62.0,-3.0,Robert Thomas,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:16:26Z,3,07:48,12:12,Hit,n/a,95.0,28.0,Zach Sanford,Hitter,St. Louis Blues,Neal Pionk,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:16:30Z,3,07:50,12:10,Shot,Wrist Shot,56.0,25.0,Vince Dunn,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:16:35Z,3,07:54,12:06,Shot,Wrist Shot,54.0,-16.0,Alex Pietrangelo,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:16:41Z,3,07:58,12:02,Blocked Shot,n/a,70.0,14.0,Josh Morrissey,Blocker,Winnipeg Jets,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:18:37Z,3,07:59,12:01,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:19:12Z,3,08:22,11:38,Blocked Shot,n/a,-60.0,12.0,Justin Faulk,Blocker,St. Louis Blues,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:19:20Z,3,08:31,11:29,Missed Shot,n/a,-35.0,-14.0,Josh Morrissey,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:19:29Z,3,08:40,11:20,Hit,n/a,-96.0,-5.0,Justin Faulk,Hitter,St. Louis Blues,Patrik Laine,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:19:59Z,3,08:52,11:08,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:20:23Z,3,09:07,10:53,Blocked Shot,n/a,-61.0,16.0,Colton Parayko,Blocker,St. Louis Blues,Mason Appleton,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:20:37Z,3,09:22,10:38,Shot,Wrist Shot,-36.0,12.0,Sami Niku,Shooter,Winnipeg Jets,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:21:08Z,3,09:52,10:08,Blocked Shot,n/a,48.0,17.0,Jansen Harkins,Blocker,Winnipeg Jets,Jay Bouwmeester,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:21:24Z,3,10:05,09:55,Takeaway,n/a,52.0,-26.0,Jansen Harkins,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:21:51Z,3,10:32,09:28,Blocked Shot,n/a,-73.0,-15.0,Jay Bouwmeester,Blocker,St. Louis Blues,Andrew Copp,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:22:00Z,3,10:42,09:18,Hit,n/a,31.0,37.0,Nicholas Shore,Hitter,Winnipeg Jets,Vince Dunn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:22:38Z,3,11:24,08:36,Hit,n/a,39.0,-40.0,Dmitry Kulikov,Hitter,Winnipeg Jets,Colton Parayko,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:23:15Z,3,11:59,08:01,Blocked Shot,n/a,62.0,-16.0,Dmitry Kulikov,Blocker,Winnipeg Jets,Ivan Barbashev,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:23:18Z,3,12:04,07:56,Hit,n/a,84.0,37.0,Ivan Barbashev,Hitter,St. Louis Blues,Anthony Bitetto,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:23:37Z,3,12:22,07:38,Takeaway,n/a,0.0,-26.0,Josh Morrissey,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:24:41Z,3,12:49,07:11,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:25:08Z,3,13:06,06:54,Giveaway,n/a,34.0,37.0,Neal Pionk,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:25:25Z,3,13:20,06:40,Goal,Snap Shot,62.0,-17.0,Brayden Schenn,Scorer,St. Louis Blues,Jaden Schwartz,Assist,St. Louis Blues,Robert Thomas,Assist,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets
+2020-02-02T02:26:05Z,3,13:20,06:40,Faceoff,n/a,0.0,0.0,Blake Wheeler,Winner,Winnipeg Jets,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:26:25Z,3,13:36,06:24,Takeaway,n/a,78.0,-39.0,Robert Thomas,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:27:44Z,3,14:42,05:18,Blocked Shot,n/a,-79.0,0.0,Alexander Steen,Blocker,St. Louis Blues,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:29:58Z,3,14:52,05:08,Faceoff,n/a,20.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:30:07Z,3,14:59,05:01,Takeaway,n/a,-41.0,4.0,Kyle Connor,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:30:08Z,3,15:02,04:58,Blocked Shot,n/a,-56.0,-8.0,Justin Faulk,Blocker,St. Louis Blues,Mark Scheifele,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:30:43Z,3,15:38,04:22,Giveaway,n/a,51.0,-40.0,Connor Hellebuyck,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:30:59Z,3,15:50,04:10,Goal,Wrist Shot,57.0,-18.0,Ryan O'Reilly,Scorer,St. Louis Blues,Zach Sanford,Assist,St. Louis Blues,Jay Bouwmeester,Assist,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets
+2020-02-02T02:31:38Z,3,15:50,04:10,Faceoff,n/a,0.0,0.0,Brayden Schenn,Winner,St. Louis Blues,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:33:44Z,3,16:14,03:46,Faceoff,n/a,0.0,0.0,Blake Wheeler,Winner,Winnipeg Jets,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:34:44Z,3,16:43,03:17,Giveaway,n/a,35.0,37.0,Sami Niku,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:34:45Z,3,16:45,03:15,Shot,Wrist Shot,47.0,37.0,Robert Thomas,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:35:14Z,3,16:46,03:14,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:35:21Z,3,16:51,03:09,Missed Shot,n/a,33.0,6.0,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:36:15Z,3,17:46,02:14,Giveaway,n/a,46.0,29.0,Jack Roslovic,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:36:22Z,3,17:52,02:08,Missed Shot,n/a,70.0,-1.0,Robert Thomas,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:36:39Z,3,18:07,01:53,Missed Shot,n/a,83.0,16.0,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:37:03Z,3,18:29,01:31,Goal,Wrist Shot,-40.0,32.0,Blake Wheeler,Scorer,Winnipeg Jets,Mark Scheifele,Assist,Winnipeg Jets,Kyle Connor,Assist,St. Louis Blues,n/a,n/a,n/a
+2020-02-02T02:37:49Z,3,18:29,01:31,Faceoff,n/a,0.0,0.0,Ryan O'Reilly,Winner,St. Louis Blues,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:38:01Z,3,18:42,01:18,Shot,Wrist Shot,67.0,-8.0,Ryan O'Reilly,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:38:38Z,3,18:43,01:17,Faceoff,n/a,69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:38:51Z,3,18:48,01:12,Shot,Wrist Shot,38.0,-24.0,Alex Pietrangelo,Shooter,St. Louis Blues,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:39:01Z,3,18:49,01:11,Faceoff,n/a,69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:40:12Z,3,19:20,00:40,Faceoff,n/a,20.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:40:19Z,3,19:30,00:30,Giveaway,n/a,38.0,31.0,Patrik Laine,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:40:38Z,3,19:39,00:21,Goal,Wrist Shot,-33.0,23.0,Patrik Laine,Scorer,Winnipeg Jets,Blake Wheeler,Assist,Winnipeg Jets,Nikolaj Ehlers,Assist,St. Louis Blues,n/a,n/a,n/a
+2020-02-02T02:41:10Z,3,19:39,00:21,Faceoff,n/a,0.0,0.0,Ivan Barbashev,Winner,St. Louis Blues,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,250 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-08T01:07:45Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Kevin Rooney,Winner,New Jersey Devils,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:08:59Z,1,00:08,19:52,Faceoff,n/a,20.0,-22.0,Matt Duchene,Winner,Nashville Predators,Kevin Rooney,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:09:17Z,1,00:20,19:40,Giveaway,n/a,33.0,-28.0,Kevin Rooney,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:09:31Z,1,00:33,19:27,Shot,Snap Shot,41.0,-31.0,Yannick Weber,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:09:44Z,1,00:46,19:14,Goal,Deflected,69.0,4.0,Daniel Carr,Scorer,Nashville Predators,Dan Hamhuis,Assist,Nashville Predators,Yannick Weber,Assist,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils
+2019-12-08T01:10:27Z,1,00:46,19:14,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:10:53Z,1,01:17,18:43,Takeaway,n/a,41.0,-20.0,Damon Severson,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:11:01Z,1,01:21,18:39,Shot,Wrist Shot,35.0,-27.0,Jack Hughes,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:11:01Z,1,01:25,18:35,Hit,n/a,-55.0,-34.0,Kyle Palmieri,Hitter,New Jersey Devils,Ryan Ellis,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:11:27Z,1,01:51,18:09,Shot,Wrist Shot,80.0,-27.0,Rocco Grimaldi,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:11:41Z,1,01:52,18:08,Faceoff,n/a,20.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:12:12Z,1,02:13,17:47,Goal,Wrist Shot,78.0,-18.0,Dante Fabbro,Scorer,Nashville Predators,Nick Bonino,Assist,Nashville Predators,Craig Smith,Assist,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils
+2019-12-08T01:13:03Z,1,02:13,17:47,Faceoff,n/a,0.0,0.0,Austin Watson,Winner,Nashville Predators,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:13:32Z,1,02:45,17:15,Goal,Wrist Shot,-55.0,-1.0,Jesper Bratt,Scorer,New Jersey Devils,Pavel Zacha,Assist,New Jersey Devils,Sami Vatanen,Assist,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators
+2019-12-08T01:14:23Z,1,02:45,17:15,Faceoff,n/a,0.0,0.0,Jack Hughes,Winner,New Jersey Devils,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:14:35Z,1,02:53,17:07,Faceoff,n/a,20.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:14:57Z,1,03:01,16:59,Blocked Shot,n/a,65.0,-20.0,Taylor Hall,Blocker,New Jersey Devils,Ryan Ellis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:15:07Z,1,03:11,16:49,Shot,Slap Shot,55.0,28.0,Filip Forsberg,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:15:15Z,1,03:20,16:40,Missed Shot,n/a,59.0,-12.0,Calle Jarnkrok,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:15:25Z,1,03:27,16:33,Shot,Deflected,74.0,-3.0,Calle Jarnkrok,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:15:52Z,1,03:27,16:33,Faceoff,n/a,69.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:16:29Z,1,03:59,16:01,Goal,Wrist Shot,-80.0,6.0,Travis Zajac,Scorer,New Jersey Devils,Nikita Gusev,Assist,New Jersey Devils,Blake Coleman,Assist,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators
+2019-12-08T01:17:06Z,1,03:59,16:01,Faceoff,n/a,0.0,0.0,Kevin Rooney,Winner,New Jersey Devils,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:18:20Z,1,05:09,14:51,Blocked Shot,n/a,72.0,-19.0,Andy Greene,Blocker,New Jersey Devils,Ryan Ellis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:18:58Z,1,05:47,14:13,Takeaway,n/a,-88.0,14.0,Dante Fabbro,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:19:30Z,1,06:19,13:41,Shot,Wrist Shot,-83.0,24.0,Kyle Palmieri,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:21:50Z,1,06:19,13:41,Faceoff,n/a,-69.0,22.0,Matt Duchene,Winner,Nashville Predators,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:22:13Z,1,06:29,13:31,Shot,Wrist Shot,-84.0,23.0,Blake Coleman,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:22:20Z,1,06:37,13:23,Shot,Wrist Shot,-76.0,2.0,Travis Zajac,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:22:25Z,1,06:42,13:18,Blocked Shot,n/a,45.0,-3.0,Andy Greene,Blocker,New Jersey Devils,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:23:03Z,1,07:20,12:40,Giveaway,n/a,69.0,39.0,Sami Vatanen,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:23:16Z,1,07:33,12:27,Blocked Shot,n/a,61.0,9.0,Sami Vatanen,Blocker,New Jersey Devils,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:23:20Z,1,07:37,12:23,Hit,n/a,83.0,-36.0,Filip Forsberg,Hitter,Nashville Predators,Jesper Boqvist,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:24:08Z,1,08:25,11:35,Shot,Wrist Shot,-48.0,-3.0,Kyle Palmieri,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:24:51Z,1,08:52,11:08,Faceoff,n/a,-20.0,22.0,Colton Sissons,Winner,Nashville Predators,Kevin Rooney,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:25:14Z,1,09:07,10:53,Missed Shot,n/a,-74.0,12.0,Kevin Rooney,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:25:27Z,1,09:20,10:40,Hit,n/a,62.0,37.0,Kevin Rooney,Hitter,New Jersey Devils,Yakov Trenin,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:25:25Z,1,09:23,10:37,Missed Shot,n/a,65.0,6.0,Dan Hamhuis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:26:17Z,1,09:39,10:21,Penalty,Unsportsmanlike conduct,-35.0,3.0,Yannick Weber,PenaltyOn,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:26:36Z,1,09:39,10:21,Faceoff,n/a,-69.0,-22.0,Pavel Zacha,Winner,New Jersey Devils,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:26:52Z,1,09:59,10:01,Blocked Shot,n/a,-71.0,5.0,Nick Bonino,Blocker,Nashville Predators,Sami Vatanen,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:27:05Z,1,10:12,09:48,Shot,Wrist Shot,68.0,-18.0,Ryan Ellis,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:27:29Z,1,10:12,09:48,Penalty,Slashing,63.0,-27.0,Nikita Gusev,PenaltyOn,New Jersey Devils,Ryan Ellis,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:27:52Z,1,10:12,09:48,Faceoff,n/a,69.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:29:01Z,1,11:23,08:37,Shot,Wrist Shot,63.0,24.0,Ryan Johansen,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:29:08Z,1,11:29,08:31,Penalty,Hooking,91.0,31.0,P.K. Subban,PenaltyOn,New Jersey Devils,Kyle Turris,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:31:22Z,1,11:29,08:31,Faceoff,n/a,69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:31:53Z,1,11:48,08:12,Shot,Wrist Shot,81.0,-13.0,Matt Duchene,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:32:22Z,1,12:17,07:43,Shot,Slap Shot,37.0,1.0,Roman Josi,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:32:56Z,1,12:17,07:43,Faceoff,n/a,69.0,22.0,Pavel Zacha,Winner,New Jersey Devils,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:33:09Z,1,12:39,07:21,Missed Shot,n/a,81.0,-9.0,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:33:59Z,1,13:29,06:31,Giveaway,n/a,53.0,-26.0,Filip Forsberg,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:34:08Z,1,13:38,06:22,Shot,Wrist Shot,-62.0,29.0,Damon Severson,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:34:41Z,1,14:11,05:49,Shot,Wrist Shot,57.0,14.0,Yakov Trenin,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:34:55Z,1,14:25,05:35,Blocked Shot,n/a,-70.0,13.0,Dan Hamhuis,Blocker,Nashville Predators,Jack Hughes,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:35:01Z,1,14:30,05:30,Giveaway,n/a,-31.0,20.0,Dan Hamhuis,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:35:05Z,1,14:34,05:26,Blocked Shot,n/a,-75.0,-4.0,Dan Hamhuis,Blocker,Nashville Predators,Will Butcher,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:36:06Z,1,15:15,04:45,Faceoff,n/a,-69.0,-22.0,Pavel Zacha,Winner,New Jersey Devils,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:36:47Z,1,15:37,04:23,Shot,Deflected,79.0,-4.0,Roman Josi,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:37:07Z,1,15:57,04:03,Blocked Shot,n/a,76.0,-1.0,P.K. Subban,Blocker,New Jersey Devils,Dante Fabbro,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:37:23Z,1,16:13,03:47,Hit,n/a,-89.0,34.0,Dante Fabbro,Hitter,Nashville Predators,Kevin Rooney,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:38:03Z,1,16:53,03:07,Shot,Wrist Shot,-55.0,-21.0,Wayne Simmonds,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:40:35Z,1,16:53,03:07,Faceoff,n/a,-69.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:40:25Z,1,16:57,03:03,Shot,Backhand,-68.0,-4.0,Blake Coleman,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:40:33Z,1,16:57,03:03,Faceoff,n/a,-69.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:40:46Z,1,17:03,02:57,Shot,Wrist Shot,-48.0,-11.0,Nikita Gusev,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:41:15Z,1,17:32,02:28,Takeaway,n/a,-39.0,30.0,Mattias Ekholm,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:41:27Z,1,17:44,02:16,Hit,n/a,-89.0,31.0,Blake Coleman,Hitter,New Jersey Devils,Ryan Ellis,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:41:47Z,1,18:03,01:57,Giveaway,n/a,-54.0,40.0,Pekka Rinne,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:41:54Z,1,18:10,01:50,Shot,Wrist Shot,59.0,-24.0,Filip Forsberg,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:42:32Z,1,18:26,01:34,Faceoff,n/a,-69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:43:48Z,1,19:31,00:29,Blocked Shot,n/a,64.0,-5.0,Wayne Simmonds,Blocker,New Jersey Devils,Yannick Weber,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:43:49Z,1,19:31,00:29,Hit,n/a,50.0,38.0,Daniel Carr,Hitter,Nashville Predators,Wayne Simmonds,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:43:57Z,1,19:39,00:21,Blocked Shot,n/a,78.0,6.0,Mirco Mueller,Blocker,New Jersey Devils,Dan Hamhuis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:02:53Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Matt Duchene,Winner,Nashville Predators,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:03:32Z,2,00:32,19:28,Penalty,Hooking,96.0,-8.0,Dante Fabbro,PenaltyOn,Nashville Predators,Jesper Bratt,DrewBy,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:04:01Z,2,00:32,19:28,Faceoff,n/a,69.0,22.0,Pavel Zacha,Winner,New Jersey Devils,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:04:29Z,2,01:12,18:48,Hit,n/a,93.0,25.0,Taylor Hall,Hitter,New Jersey Devils,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:04:39Z,2,01:21,18:39,Shot,Slap Shot,76.0,-25.0,Taylor Hall,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:04:45Z,2,01:27,18:33,Shot,Slap Shot,39.0,-16.0,Sami Vatanen,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:05:35Z,2,02:17,17:43,Giveaway,n/a,35.0,37.0,Mattias Ekholm,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:05:41Z,2,02:24,17:36,Missed Shot,n/a,47.0,22.0,P.K. Subban,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:06:06Z,2,02:47,17:13,Hit,n/a,-95.0,22.0,Daniel Carr,Hitter,Nashville Predators,Will Butcher,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:06:14Z,2,02:47,17:13,Penalty,Hi-sticking,-82.0,14.0,Miles Wood,PenaltyOn,New Jersey Devils,Daniel Carr,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:06:48Z,2,02:47,17:13,Faceoff,n/a,-69.0,22.0,Blake Coleman,Winner,New Jersey Devils,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:07:22Z,2,03:23,16:37,Giveaway,n/a,-55.0,22.0,Matt Duchene,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:07:50Z,2,03:51,16:09,Blocked Shot,n/a,-73.0,-14.0,Sami Vatanen,Blocker,New Jersey Devils,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:08:28Z,2,04:28,15:32,Takeaway,n/a,8.0,23.0,Travis Zajac,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:08:47Z,2,04:48,15:12,Shot,Slap Shot,-45.0,-24.0,Mattias Ekholm,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:08:50Z,2,04:51,15:09,Takeaway,n/a,-90.0,-14.0,P.K. Subban,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:09:28Z,2,05:29,14:31,Missed Shot,n/a,53.0,-13.0,Kyle Palmieri,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:09:34Z,2,05:35,14:25,Blocked Shot,n/a,68.0,5.0,Austin Watson,Blocker,Nashville Predators,Andy Greene,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:10:13Z,2,05:40,14:20,Faceoff,n/a,69.0,22.0,Colton Sissons,Winner,Nashville Predators,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:10:22Z,2,05:50,14:10,Giveaway,n/a,-62.0,37.0,Sami Vatanen,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:10:23Z,2,05:52,14:08,Goal,Slap Shot,-80.0,7.0,Yakov Trenin,Scorer,Nashville Predators,Rocco Grimaldi,Assist,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a
+2019-12-08T02:11:34Z,2,05:52,14:08,Faceoff,n/a,0.0,0.0,Travis Zajac,Winner,New Jersey Devils,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:11:37Z,2,06:05,13:55,Shot,Wrist Shot,36.0,10.0,Sami Vatanen,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:13:57Z,2,06:06,13:54,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:14:14Z,2,06:41,13:19,Hit,n/a,-94.0,-20.0,Damon Severson,Hitter,New Jersey Devils,Colton Sissons,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:14:18Z,2,06:45,13:15,Shot,Backhand,-70.0,18.0,Austin Watson,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:14:46Z,2,06:45,13:15,Faceoff,n/a,-69.0,22.0,Kevin Rooney,Winner,New Jersey Devils,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:15:03Z,2,06:54,13:06,Blocked Shot,n/a,73.0,-29.0,Kyle Turris,Blocker,Nashville Predators,Wayne Simmonds,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:15:15Z,2,06:54,13:06,Faceoff,n/a,69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Wayne Simmonds,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:15:27Z,2,07:00,13:00,Hit,n/a,97.0,9.0,Wayne Simmonds,Hitter,New Jersey Devils,Yannick Weber,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:15:42Z,2,07:16,12:44,Shot,Wrist Shot,-60.0,20.0,Kyle Turris,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:15:48Z,2,07:18,12:42,Shot,Wrist Shot,-77.0,8.0,Kyle Turris,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:16:22Z,2,07:18,12:42,Faceoff,n/a,-69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:16:25Z,2,07:22,12:38,Shot,Slap Shot,-38.0,27.0,Roman Josi,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:16:34Z,2,07:24,12:36,Goal,Wrist Shot,-84.0,2.0,Filip Forsberg,Scorer,Nashville Predators,Calle Jarnkrok,Assist,Nashville Predators,Roman Josi,Assist,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils
+2019-12-08T02:17:22Z,2,07:24,12:36,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:17:46Z,2,07:59,12:01,Shot,Backhand,83.0,-5.0,Kyle Palmieri,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:18:42Z,2,08:26,11:34,Faceoff,n/a,20.0,22.0,Jesper Boqvist,Winner,New Jersey Devils,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:19:06Z,2,08:41,11:19,Shot,Wrist Shot,75.0,33.0,Jesper Boqvist,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:19:23Z,2,08:41,11:19,Faceoff,n/a,69.0,22.0,Pavel Zacha,Winner,New Jersey Devils,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:20:08Z,2,08:56,11:04,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:20:37Z,2,09:19,10:41,Shot,Wrist Shot,-38.0,18.0,Dan Hamhuis,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:21:09Z,2,09:21,10:39,Faceoff,n/a,-69.0,22.0,Kyle Turris,Winner,Nashville Predators,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:21:27Z,2,09:35,10:25,Giveaway,n/a,21.0,39.0,Yannick Weber,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:21:55Z,2,10:01,09:59,Penalty,Illegal check to head,85.0,34.0,Blake Coleman,PenaltyOn,New Jersey Devils,Yannick Weber,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:24:36Z,2,10:01,09:59,Faceoff,n/a,-69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:24:41Z,2,10:06,09:54,Penalty,Interference,-67.0,22.0,Ryan Johansen,PenaltyOn,Nashville Predators,Pavel Zacha,DrewBy,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:25:27Z,2,10:06,09:54,Faceoff,n/a,69.0,22.0,Taylor Hall,Winner,New Jersey Devils,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:25:53Z,2,10:38,09:22,Missed Shot,n/a,-77.0,13.0,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:26:27Z,2,10:43,09:17,Faceoff,n/a,-69.0,22.0,Kyle Turris,Winner,Nashville Predators,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:26:52Z,2,11:14,08:46,Giveaway,n/a,40.0,18.0,Jack Hughes,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:27:00Z,2,11:21,08:39,Missed Shot,n/a,-79.0,24.0,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:27:09Z,2,11:30,08:30,Missed Shot,n/a,-39.0,8.0,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:27:17Z,2,11:38,08:22,Takeaway,n/a,11.0,38.0,Dante Fabbro,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:27:24Z,2,11:45,08:15,Shot,Snap Shot,-64.0,-14.0,Matt Duchene,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:27:29Z,2,11:50,08:10,Takeaway,n/a,-53.0,35.0,Jesper Boqvist,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:27:39Z,2,12:00,08:00,Giveaway,n/a,36.0,27.0,P.K. Subban,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:27:45Z,2,12:06,07:54,Shot,Wrist Shot,-66.0,6.0,Roman Josi,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:27:52Z,2,12:14,07:46,Shot,Backhand,78.0,-3.0,Blake Coleman,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:28:03Z,2,12:15,07:45,Penalty,Tripping,76.0,1.0,Filip Forsberg,PenaltyOn,Nashville Predators,Blake Coleman,DrewBy,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:28:58Z,2,12:15,07:45,Faceoff,n/a,69.0,22.0,Pavel Zacha,Winner,New Jersey Devils,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:28:50Z,2,12:24,07:36,Giveaway,n/a,32.0,29.0,Mattias Ekholm,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:28:50Z,2,12:24,07:36,Shot,Slap Shot,75.0,-22.0,Taylor Hall,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:29:02Z,2,12:25,07:35,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:29:53Z,2,13:07,06:53,Goal,Wrist Shot,66.0,-2.0,Kyle Palmieri,Scorer,New Jersey Devils,Taylor Hall,Assist,New Jersey Devils,Sami Vatanen,Assist,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators
+2019-12-08T02:30:55Z,2,13:07,06:53,Faceoff,n/a,0.0,0.0,Matt Duchene,Winner,Nashville Predators,Wayne Simmonds,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:31:17Z,2,13:33,06:27,Shot,Wrist Shot,49.0,30.0,Miles Wood,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:31:47Z,2,13:34,06:26,Faceoff,n/a,69.0,22.0,Colton Sissons,Winner,Nashville Predators,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:32:37Z,2,14:20,05:40,Shot,Wrist Shot,64.0,-29.0,Kyle Palmieri,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:32:44Z,2,14:27,05:33,Hit,n/a,27.0,39.0,Blake Coleman,Hitter,New Jersey Devils,Yannick Weber,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:32:49Z,2,14:32,05:28,Missed Shot,n/a,-74.0,4.0,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:33:06Z,2,14:40,05:20,Shot,Wrist Shot,-18.0,9.0,Blake Coleman,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:33:21Z,2,14:41,05:19,Faceoff,n/a,69.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:33:38Z,2,14:48,05:12,Missed Shot,n/a,42.0,-9.0,Travis Zajac,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:33:44Z,2,14:54,05:06,Blocked Shot,n/a,58.0,-7.0,Yannick Weber,Blocker,Nashville Predators,Blake Coleman,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:34:23Z,2,15:32,04:28,Shot,Slap Shot,-41.0,-19.0,Roman Josi,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:34:29Z,2,15:38,04:22,Giveaway,n/a,-9.0,31.0,Nikita Gusev,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:34:36Z,2,15:46,04:14,Takeaway,n/a,-36.0,-6.0,Travis Zajac,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:34:59Z,2,16:08,03:52,Giveaway,n/a,-7.0,-2.0,Jesper Bratt,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:35:59Z,2,17:09,02:51,Takeaway,n/a,93.0,-18.0,Miles Wood,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:36:02Z,2,17:11,02:49,Blocked Shot,n/a,47.0,16.0,Yakov Trenin,Blocker,Nashville Predators,Will Butcher,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:36:55Z,2,18:04,01:56,Giveaway,n/a,18.0,5.0,Filip Forsberg,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:36:58Z,2,18:08,01:52,Takeaway,n/a,22.0,18.0,Roman Josi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:37:01Z,2,18:10,01:50,Shot,Wrist Shot,-50.0,8.0,Roman Josi,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:37:17Z,2,18:27,01:33,Hit,n/a,94.0,-25.0,Roman Josi,Hitter,Nashville Predators,Damon Severson,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:40:19Z,2,18:51,01:09,Faceoff,n/a,20.0,22.0,Travis Zajac,Winner,New Jersey Devils,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:40:50Z,2,19:20,00:40,Shot,Slap Shot,44.0,30.0,Blake Coleman,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:41:42Z,2,19:30,00:30,Faceoff,n/a,69.0,22.0,Matt Duchene,Winner,Nashville Predators,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:42:23Z,2,19:53,00:07,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:00:54Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Matt Duchene,Winner,Nashville Predators,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:01:25Z,3,00:25,19:35,Missed Shot,n/a,-67.0,13.0,Nikita Gusev,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:01:35Z,3,00:35,19:25,Shot,Wrist Shot,-67.0,0.0,Blake Coleman,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:01:46Z,3,00:42,19:18,Penalty,Holding,-31.0,1.0,Blake Coleman,PenaltyOn,New Jersey Devils,Kyle Turris,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:02:26Z,3,00:42,19:18,Faceoff,n/a,69.0,-22.0,Pavel Zacha,Winner,New Jersey Devils,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:03:05Z,3,01:23,18:37,Missed Shot,n/a,59.0,22.0,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:03:11Z,3,01:29,18:31,Shot,Slap Shot,39.0,-19.0,Roman Josi,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:04:15Z,3,02:33,17:27,Shot,Wrist Shot,-78.0,-22.0,Kevin Rooney,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:04:20Z,3,02:39,17:21,Takeaway,n/a,-36.0,-38.0,Austin Watson,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:04:26Z,3,02:44,17:16,Shot,Backhand,58.0,28.0,Austin Watson,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:05:10Z,3,02:45,17:15,Faceoff,n/a,69.0,22.0,Jack Hughes,Winner,New Jersey Devils,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:05:38Z,3,03:14,16:46,Blocked Shot,n/a,74.0,-16.0,P.K. Subban,Blocker,New Jersey Devils,Daniel Carr,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:06:14Z,3,03:17,16:43,Faceoff,n/a,69.0,22.0,Kevin Rooney,Winner,New Jersey Devils,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:06:56Z,3,03:28,16:32,Shot,Deflected,-38.0,13.0,Miles Wood,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:07:05Z,3,03:28,16:32,Faceoff,n/a,-69.0,-22.0,Kevin Rooney,Winner,New Jersey Devils,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:07:29Z,3,03:39,16:21,Takeaway,n/a,-72.0,-19.0,Yannick Weber,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:07:35Z,3,03:45,16:15,Missed Shot,n/a,76.0,-23.0,Ryan Johansen,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:08:10Z,3,04:20,15:40,Takeaway,n/a,-30.0,29.0,Travis Zajac,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:08:22Z,3,04:32,15:28,Giveaway,n/a,31.0,-10.0,Travis Zajac,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:08:41Z,3,04:51,15:09,Blocked Shot,n/a,60.0,-12.0,Blake Coleman,Blocker,New Jersey Devils,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:08:54Z,3,05:04,14:56,Hit,n/a,84.0,35.0,Jesper Boqvist,Hitter,New Jersey Devils,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:09:00Z,3,05:10,14:50,Blocked Shot,n/a,79.0,-13.0,Nikita Gusev,Blocker,New Jersey Devils,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:09:11Z,3,05:21,14:39,Shot,Wrist Shot,80.0,0.0,Rocco Grimaldi,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:09:37Z,3,05:21,14:39,Faceoff,n/a,69.0,22.0,Nick Bonino,Winner,Nashville Predators,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:09:48Z,3,05:32,14:28,Missed Shot,n/a,38.0,29.0,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:09:53Z,3,05:37,14:23,Blocked Shot,n/a,70.0,5.0,P.K. Subban,Blocker,New Jersey Devils,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:09:56Z,3,05:39,14:21,Hit,n/a,34.0,-37.0,Jesper Boqvist,Hitter,New Jersey Devils,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:10:04Z,3,05:47,14:13,Goal,Wrist Shot,82.0,12.0,Nick Bonino,Scorer,Nashville Predators,Dante Fabbro,Assist,Nashville Predators,Mattias Ekholm,Assist,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils
+2019-12-08T03:10:51Z,3,05:47,14:13,Faceoff,n/a,0.0,0.0,Colton Sissons,Winner,Nashville Predators,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:10:58Z,3,05:59,14:01,Giveaway,n/a,33.0,-31.0,Damon Severson,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:11:04Z,3,06:05,13:55,Hit,n/a,86.0,35.0,Colton Sissons,Hitter,Nashville Predators,Sami Vatanen,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:11:41Z,3,06:42,13:18,Missed Shot,n/a,55.0,20.0,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:11:49Z,3,06:51,13:09,Shot,Wrist Shot,58.0,-11.0,Roman Josi,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:11:57Z,3,06:59,13:01,Shot,Snap Shot,38.0,23.0,Ryan Ellis,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:14:09Z,3,06:59,13:01,Faceoff,n/a,69.0,22.0,Travis Zajac,Winner,New Jersey Devils,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:14:38Z,3,07:25,12:35,Giveaway,n/a,-74.0,38.0,Mattias Ekholm,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:14:54Z,3,07:41,12:19,Shot,Wrist Shot,-71.0,14.0,Blake Coleman,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:15:27Z,3,07:51,12:09,Faceoff,n/a,-69.0,-22.0,Kyle Turris,Winner,Nashville Predators,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:16:06Z,3,08:21,11:39,Missed Shot,n/a,-67.0,0.0,Taylor Hall,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:16:28Z,3,08:43,11:17,Takeaway,n/a,-32.0,22.0,Filip Forsberg,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:16:43Z,3,08:57,11:03,Takeaway,n/a,-74.0,-19.0,Miles Wood,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:16:48Z,3,09:03,10:57,Blocked Shot,n/a,-50.0,-15.0,Ryan Johansen,Blocker,Nashville Predators,Damon Severson,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:16:57Z,3,09:11,10:49,Shot,Wrist Shot,-57.0,1.0,Kevin Rooney,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:17:22Z,3,09:11,10:49,Faceoff,n/a,-69.0,22.0,Nick Bonino,Winner,Nashville Predators,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:17:43Z,3,09:32,10:28,Shot,Wrist Shot,-66.0,19.0,Pavel Zacha,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:18:01Z,3,09:50,10:10,Shot,Slap Shot,60.0,-29.0,Craig Smith,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:18:33Z,3,10:21,09:39,Blocked Shot,n/a,-72.0,-20.0,Ryan Ellis,Blocker,Nashville Predators,Travis Zajac,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:18:35Z,3,10:23,09:37,Hit,n/a,-78.0,37.0,Yakov Trenin,Hitter,Nashville Predators,Nikita Gusev,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:18:57Z,3,10:46,09:14,Missed Shot,n/a,-66.0,-29.0,Mirco Mueller,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:19:20Z,3,11:07,08:53,Takeaway,n/a,-43.0,2.0,Jack Hughes,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:19:21Z,3,11:09,08:51,Shot,Wrist Shot,-50.0,-8.0,Jack Hughes,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:19:26Z,3,11:09,08:51,Goal,Wrist Shot,-84.0,1.0,Taylor Hall,Scorer,New Jersey Devils,Jack Hughes,Assist,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a
+2019-12-08T03:20:02Z,3,11:09,08:51,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:20:22Z,3,11:21,08:39,Giveaway,n/a,60.0,-22.0,Taylor Hall,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:20:25Z,3,11:24,08:36,Shot,Wrist Shot,49.0,-14.0,Calle Jarnkrok,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:22:34Z,3,11:24,08:36,Faceoff,n/a,69.0,-22.0,Jack Hughes,Winner,New Jersey Devils,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:23:13Z,3,11:53,08:07,Blocked Shot,n/a,-72.0,-13.0,Roman Josi,Blocker,Nashville Predators,Kyle Palmieri,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:23:22Z,3,12:02,07:58,Hit,n/a,94.0,24.0,Filip Forsberg,Hitter,Nashville Predators,Andy Greene,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:23:46Z,3,12:25,07:35,Missed Shot,n/a,-80.0,-4.0,Wayne Simmonds,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:23:59Z,3,12:38,07:22,Missed Shot,n/a,-69.0,31.0,Miles Wood,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:24:06Z,3,12:44,07:16,Goal,Wrist Shot,81.0,-3.0,Rocco Grimaldi,Scorer,Nashville Predators,Mattias Ekholm,Assist,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a
+2019-12-08T03:25:05Z,3,12:44,07:16,Faceoff,n/a,0.0,0.0,Colton Sissons,Winner,Nashville Predators,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:25:00Z,3,12:53,07:07,Shot,Wrist Shot,-10.0,18.0,Dan Hamhuis,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:25:15Z,3,13:07,06:53,Blocked Shot,n/a,-73.0,8.0,Colton Sissons,Blocker,Nashville Predators,Damon Severson,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:25:23Z,3,13:16,06:44,Hit,n/a,-36.0,-37.0,Austin Watson,Hitter,Nashville Predators,Will Butcher,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:25:45Z,3,13:38,06:22,Hit,n/a,94.0,-6.0,Blake Coleman,Hitter,New Jersey Devils,Yakov Trenin,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:26:11Z,3,14:04,05:56,Giveaway,n/a,-33.0,38.0,Kyle Turris,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:26:33Z,3,14:25,05:35,Blocked Shot,n/a,-63.0,13.0,Daniel Carr,Blocker,Nashville Predators,Sami Vatanen,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:26:46Z,3,14:37,05:23,Shot,Wrist Shot,-46.0,27.0,Sami Vatanen,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:28:48Z,3,14:37,05:23,Faceoff,n/a,-69.0,22.0,Nick Bonino,Winner,Nashville Predators,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:29:50Z,3,15:30,04:30,Takeaway,n/a,-19.0,8.0,Filip Forsberg,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:29:56Z,3,15:36,04:24,Shot,Wrist Shot,53.0,12.0,Filip Forsberg,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:30:09Z,3,15:49,04:11,Missed Shot,n/a,73.0,-25.0,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:30:18Z,3,15:58,04:02,Blocked Shot,n/a,-71.0,11.0,Roman Josi,Blocker,Nashville Predators,Kevin Rooney,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:30:40Z,3,16:19,03:41,Giveaway,n/a,16.0,3.0,Kyle Turris,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:31:04Z,3,16:43,03:17,Shot,Wrist Shot,-68.0,-24.0,Jesper Bratt,Shooter,New Jersey Devils,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:31:25Z,3,17:05,02:55,Takeaway,n/a,58.0,32.0,Austin Watson,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:31:54Z,3,17:29,02:31,Missed Shot,n/a,-74.0,2.0,Dante Fabbro,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:32:32Z,3,17:30,02:30,Faceoff,n/a,-69.0,-22.0,Colton Sissons,Winner,Nashville Predators,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:33:08Z,3,17:35,02:25,Faceoff,n/a,-20.0,-22.0,Jack Hughes,Winner,New Jersey Devils,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:33:14Z,3,17:41,02:19,Giveaway,n/a,-27.0,-2.0,Jack Hughes,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:34:15Z,3,18:41,01:19,Hit,n/a,-93.0,-20.0,Taylor Hall,Hitter,New Jersey Devils,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:34:29Z,3,18:56,01:04,Blocked Shot,n/a,80.0,4.0,Sami Vatanen,Blocker,New Jersey Devils,Nick Bonino,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:35:09Z,3,19:13,00:47,Penalty,Too many men on the ice,-66.0,36.0,Jesper Boqvist,PenaltyOn,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:35:53Z,3,19:13,00:47,Faceoff,n/a,69.0,22.0,Matt Duchene,Winner,Nashville Predators,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T03:35:58Z,3,19:22,00:38,Shot,Slap Shot,41.0,-27.0,Mattias Ekholm,Shooter,Nashville Predators,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a

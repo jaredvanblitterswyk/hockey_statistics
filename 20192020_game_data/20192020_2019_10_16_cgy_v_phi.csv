@@ -1,0 +1,225 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-16T01:08:03Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:09:03Z,1,00:12,19:48,Faceoff,n/a,69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:09:28Z,1,00:32,19:28,Giveaway,n/a,31.0,-4.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:09:38Z,1,00:44,19:16,Shot,Slap Shot,-42.0,13.0,Elias Lindholm,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:09:46Z,1,00:53,19:07,Missed Shot,n/a,-31.0,-38.0,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:10:04Z,1,01:01,18:59,Blocked Shot,n/a,-63.0,-3.0,Travis Sanheim,Blocker,Philadelphia Flyers,Travis Hamonic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:10:28Z,1,01:14,18:46,Shot,Wrist Shot,1.0,4.0,James van Riemsdyk,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:10:34Z,1,01:33,18:27,Takeaway,n/a,-35.0,3.0,Michael Frolik,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:10:38Z,1,01:35,18:25,Goal,Wrist Shot,-73.0,15.0,Michael Frolik,Scorer,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:11:11Z,1,01:35,18:25,Faceoff,n/a,0.0,0.0,Milan Lucic,Winner,Calgary Flames,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:11:39Z,1,01:52,18:08,Shot,Wrist Shot,35.0,26.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:11:50Z,1,01:53,18:07,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:12:25Z,1,02:12,17:48,Shot,Backhand,-78.0,-4.0,Andrew Mangiapane,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:12:44Z,1,02:13,17:47,Faceoff,n/a,-69.0,-22.0,Mark Jankowski,Winner,Calgary Flames,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:12:58Z,1,02:20,17:40,Shot,Wrist Shot,-45.0,34.0,Rasmus Andersson,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:13:38Z,1,02:59,17:01,Giveaway,n/a,97.0,-8.0,David Rittich,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:13:39Z,1,03:01,16:59,Blocked Shot,n/a,57.0,-13.0,Mark Giordano,Blocker,Calgary Flames,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:13:49Z,1,03:10,16:50,Shot,Wrist Shot,55.0,-38.0,TJ Brodie,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:14:01Z,1,03:14,16:46,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:14:33Z,1,03:22,16:38,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:15:50Z,1,04:15,15:45,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:16:16Z,1,04:22,15:38,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:17:44Z,1,05:21,14:39,Giveaway,n/a,42.0,-34.0,Derek Ryan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:17:52Z,1,05:28,14:32,Hit,n/a,94.0,27.0,Rasmus Andersson,Hitter,Calgary Flames,Scott Laughton,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:18:04Z,1,05:36,14:24,Giveaway,n/a,5.0,36.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:18:18Z,1,05:58,14:02,Shot,Snap Shot,-17.0,-41.0,Milan Lucic,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:19:16Z,1,06:54,13:06,Shot,Deflected,79.0,9.0,Kevin Hayes,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:19:20Z,1,06:54,13:06,Penalty,Hooking,68.0,18.0,Michael Frolik,PenaltyOn,Calgary Flames,Kevin Hayes,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:37:06Z,1,06:54,13:06,Faceoff,n/a,69.0,-22.0,Mark Jankowski,Winner,Calgary Flames,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:22:19Z,1,07:29,12:31,Shot,Wrist Shot,43.0,-28.0,Mark Giordano,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:22:44Z,1,07:53,12:07,Shot,Tip-In,48.0,18.0,James van Riemsdyk,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:23:36Z,1,08:45,11:15,Shot,Wrist Shot,-22.0,-35.0,Mark Jankowski,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:23:51Z,1,09:00,11:00,Blocked Shot,n/a,51.0,-23.0,Elias Lindholm,Blocker,Calgary Flames,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:24:27Z,1,09:36,10:24,Hit,n/a,-16.0,39.0,Carsen Twarynski,Hitter,Philadelphia Flyers,Milan Lucic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:24:43Z,1,09:47,10:13,Hit,n/a,-98.0,-5.0,Sean Monahan,Hitter,Calgary Flames,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:24:58Z,1,10:05,09:55,Hit,n/a,80.0,-40.0,Chris Stewart,Hitter,Philadelphia Flyers,Mark Giordano,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:24:58Z,1,10:07,09:53,Missed Shot,n/a,76.0,-6.0,Chris Stewart,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:25:12Z,1,10:21,09:39,Shot,Wrist Shot,63.0,28.0,Michael Raffl,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:25:21Z,1,10:22,09:38,Penalty,Interference,43.0,33.0,Sam Bennett,PenaltyOn,Calgary Flames,Michael Raffl,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:27:19Z,1,10:22,09:38,Faceoff,n/a,69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:27:42Z,1,10:32,09:28,Shot,Slap Shot,35.0,-11.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:27:49Z,1,10:33,09:27,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:28:26Z,1,10:51,09:09,Takeaway,n/a,18.0,1.0,Travis Hamonic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:28:59Z,1,10:52,09:08,Penalty,Slashing,20.0,-2.0,Shayne Gostisbehere,PenaltyOn,Philadelphia Flyers,Travis Hamonic,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:29:12Z,1,10:52,09:08,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:29:44Z,1,11:25,08:35,Penalty,Holding,-51.0,-39.0,Matthew Tkachuk,PenaltyOn,Calgary Flames,Matt Niskanen,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:30:22Z,1,11:25,08:35,Faceoff,n/a,69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:30:45Z,1,11:48,08:12,Shot,Tip-In,80.0,1.0,James van Riemsdyk,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:30:55Z,1,11:49,08:11,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:31:22Z,1,12:04,07:56,Shot,Wrist Shot,63.0,-19.0,Kevin Hayes,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:31:55Z,1,12:34,07:26,Takeaway,n/a,-70.0,0.0,James van Riemsdyk,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:32:03Z,1,12:45,07:15,Hit,n/a,-97.0,14.0,Sam Bennett,Hitter,Calgary Flames,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:32:11Z,1,12:47,07:13,Hit,n/a,-85.0,-11.0,Sam Bennett,Hitter,Calgary Flames,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:32:33Z,1,13:15,06:45,Giveaway,n/a,3.0,16.0,Shayne Gostisbehere,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:32:38Z,1,13:20,06:40,Shot,Wrist Shot,-69.0,26.0,Elias Lindholm,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:32:42Z,1,13:22,06:38,Giveaway,n/a,-70.0,-33.0,Travis Konecny,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:33:20Z,1,14:02,05:58,Shot,Backhand,-68.0,16.0,Johnny Gaudreau,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:34:27Z,1,15:07,04:53,Hit,n/a,-52.0,37.0,Milan Lucic,Hitter,Calgary Flames,Michael Raffl,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:34:34Z,1,15:16,04:44,Giveaway,n/a,-93.0,-22.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:35:00Z,1,15:37,04:23,Penalty,Holding,-94.0,-13.0,Ivan Provorov,PenaltyOn,Philadelphia Flyers,Mark Jankowski,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:37:19Z,1,15:37,04:23,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:37:21Z,1,15:48,04:12,Shot,Wrist Shot,-45.0,25.0,Elias Lindholm,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:37:41Z,1,16:08,03:52,Shot,Wrist Shot,-38.0,20.0,Sean Couturier,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:38:08Z,1,16:35,03:25,Blocked Shot,n/a,-57.0,8.0,Robert Hagg,Blocker,Philadelphia Flyers,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:38:43Z,1,16:57,03:03,Shot,Slap Shot,-43.0,1.0,TJ Brodie,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:39:02Z,1,16:58,03:02,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:39:06Z,1,17:06,02:54,Giveaway,n/a,-98.0,11.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:39:20Z,1,17:19,02:41,Shot,Snap Shot,81.0,-15.0,Sean Couturier,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:39:54Z,1,17:20,02:40,Faceoff,n/a,69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:40:10Z,1,17:33,02:27,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:41:06Z,1,18:01,01:59,Blocked Shot,n/a,-72.0,-6.0,Justin Braun,Blocker,Philadelphia Flyers,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:41:11Z,1,18:06,01:54,Blocked Shot,n/a,-50.0,0.0,Robert Hagg,Blocker,Philadelphia Flyers,Travis Hamonic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:41:22Z,1,18:18,01:42,Hit,n/a,93.0,21.0,Noah Hanifin,Hitter,Calgary Flames,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:42:03Z,1,18:38,01:22,Faceoff,n/a,20.0,-22.0,Scott Laughton,Winner,Philadelphia Flyers,Milan Lucic,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:42:55Z,1,19:17,00:43,Blocked Shot,n/a,52.0,21.0,Rasmus Andersson,Blocker,Calgary Flames,Michael Raffl,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:45:37Z,1,19:49,00:11,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:44:01Z,1,19:51,00:09,Shot,Wrist Shot,-79.0,-11.0,Mark Giordano,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:46:32Z,1,19:54,00:06,Faceoff,n/a,-20.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:05:08Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:05:32Z,2,00:27,19:33,Hit,n/a,95.0,22.0,Michael Frolik,Hitter,Calgary Flames,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:05:38Z,2,00:33,19:27,Blocked Shot,n/a,59.0,-3.0,Sean Couturier,Blocker,Philadelphia Flyers,TJ Brodie,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:05:47Z,2,00:41,19:19,Shot,Wrist Shot,-71.0,-11.0,Oskar Lindblom,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:06:07Z,2,00:41,19:19,Faceoff,n/a,-69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:07:05Z,2,01:19,18:41,Faceoff,n/a,69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:07:28Z,2,01:30,18:30,Shot,Wrist Shot,44.0,38.0,Milan Lucic,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:07:57Z,2,01:57,18:03,Blocked Shot,n/a,-53.0,-15.0,Rasmus Andersson,Blocker,Calgary Flames,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:08:12Z,2,01:59,18:01,Faceoff,n/a,-69.0,-22.0,Scott Laughton,Winner,Philadelphia Flyers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:08:37Z,2,02:03,17:57,Takeaway,n/a,-19.0,-39.0,Austin Czarnik,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:08:40Z,2,02:10,17:50,Shot,Slap Shot,48.0,24.0,Mark Giordano,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:09:09Z,2,02:18,17:42,Faceoff,n/a,-69.0,22.0,Michael Raffl,Winner,Philadelphia Flyers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:09:28Z,2,02:26,17:34,Hit,n/a,-88.0,-39.0,Chris Stewart,Hitter,Philadelphia Flyers,Oliver Kylington,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:09:33Z,2,02:31,17:29,Hit,n/a,-87.0,-37.0,Mikael Backlund,Hitter,Calgary Flames,Chris Stewart,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:09:48Z,2,02:42,17:18,Blocked Shot,n/a,60.0,-2.0,Matt Niskanen,Blocker,Philadelphia Flyers,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:10:01Z,2,02:43,17:17,Faceoff,n/a,69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:10:34Z,2,02:47,17:13,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:11:21Z,2,03:13,16:47,Giveaway,n/a,-83.0,-16.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:11:42Z,2,03:38,16:22,Shot,Wrist Shot,-61.0,-9.0,James van Riemsdyk,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:11:55Z,2,03:39,16:21,Shot,Wrist Shot,-74.0,-3.0,James van Riemsdyk,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:12:03Z,2,03:59,16:01,Hit,n/a,-67.0,34.0,Kevin Hayes,Hitter,Philadelphia Flyers,Michael Frolik,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:12:49Z,2,04:32,15:28,Faceoff,n/a,-69.0,-22.0,Scott Laughton,Winner,Philadelphia Flyers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:13:40Z,2,05:06,14:54,Penalty,Tripping,-50.0,-37.0,Tyler Pitlick,PenaltyOn,Philadelphia Flyers,Michael Frolik,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:14:08Z,2,05:06,14:54,Faceoff,n/a,69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Sam Bennett,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:14:29Z,2,05:17,14:43,Giveaway,n/a,-88.0,-13.0,David Rittich,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:14:56Z,2,05:30,14:30,Faceoff,n/a,-20.0,-22.0,Scott Laughton,Winner,Philadelphia Flyers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:15:48Z,2,05:59,14:01,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:16:11Z,2,06:07,13:53,Missed Shot,n/a,30.0,30.0,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:16:19Z,2,06:15,13:45,Blocked Shot,n/a,70.0,-13.0,Ivan Provorov,Blocker,Philadelphia Flyers,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:16:52Z,2,06:48,13:12,Giveaway,n/a,-25.0,-3.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:17:02Z,2,06:51,13:09,Penalty,Holding,-30.0,-36.0,Johnny Gaudreau,PenaltyOn,Calgary Flames,Michael Raffl,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:17:30Z,2,06:51,13:09,Faceoff,n/a,-69.0,-22.0,Scott Laughton,Winner,Philadelphia Flyers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:17:48Z,2,06:58,13:02,Takeaway,n/a,-94.0,-18.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:18:38Z,2,07:48,12:12,Takeaway,n/a,-57.0,37.0,Mark Jankowski,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:20:02Z,2,09:12,10:48,Blocked Shot,n/a,-54.0,-18.0,Travis Hamonic,Blocker,Calgary Flames,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:20:12Z,2,09:21,10:39,Shot,Wrist Shot,79.0,24.0,Johnny Gaudreau,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:22:27Z,2,09:22,10:38,Faceoff,n/a,69.0,22.0,Scott Laughton,Winner,Philadelphia Flyers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:23:01Z,2,09:51,10:09,Hit,n/a,-33.0,-38.0,Carsen Twarynski,Hitter,Philadelphia Flyers,Michael Frolik,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:23:22Z,2,10:12,09:48,Blocked Shot,n/a,-72.0,18.0,Oliver Kylington,Blocker,Calgary Flames,Chris Stewart,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:23:36Z,2,10:26,09:34,Shot,Wrist Shot,2.0,-19.0,Rasmus Andersson,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:23:51Z,2,10:31,09:29,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:24:16Z,2,10:36,09:24,Shot,Snap Shot,61.0,-30.0,Travis Hamonic,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:26:25Z,2,10:37,09:23,Faceoff,n/a,69.0,-22.0,Scott Laughton,Winner,Philadelphia Flyers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:27:01Z,2,10:56,09:04,Shot,Wrist Shot,-47.0,38.0,Matt Niskanen,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:27:17Z,2,11:12,08:48,Blocked Shot,n/a,-56.0,4.0,Derek Ryan,Blocker,Calgary Flames,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:28:29Z,2,11:13,08:47,Blocked Shot,n/a,63.0,4.0,Matt Niskanen,Blocker,Philadelphia Flyers,Milan Lucic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:27:45Z,2,11:15,08:45,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:28:19Z,2,11:41,08:19,Hit,n/a,43.0,39.0,Mark Giordano,Hitter,Calgary Flames,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:28:57Z,2,12:22,07:38,Hit,n/a,37.0,37.0,Sean Couturier,Hitter,Philadelphia Flyers,Mikael Backlund,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:29:02Z,2,12:30,07:30,Shot,Slap Shot,76.0,33.0,Matthew Tkachuk,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:29:27Z,2,12:30,07:30,Faceoff,n/a,69.0,22.0,Mikael Backlund,Winner,Calgary Flames,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:30:00Z,2,13:00,07:00,Shot,Wrist Shot,-93.0,-12.0,Sean Couturier,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:30:56Z,2,13:35,06:25,Hit,n/a,62.0,39.0,Michael Raffl,Hitter,Philadelphia Flyers,Sam Bennett,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:30:45Z,2,13:36,06:24,Blocked Shot,n/a,78.0,27.0,Michael Raffl,Blocker,Philadelphia Flyers,Sam Bennett,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:31:00Z,2,13:37,06:23,Faceoff,n/a,69.0,22.0,Scott Laughton,Winner,Philadelphia Flyers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:32:08Z,2,13:59,06:01,Faceoff,n/a,69.0,22.0,Scott Laughton,Winner,Philadelphia Flyers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:32:46Z,2,14:09,05:51,Faceoff,n/a,69.0,22.0,Milan Lucic,Winner,Calgary Flames,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:33:37Z,2,14:15,05:45,Goal,Wrist Shot,43.0,5.0,Andrew Mangiapane,Scorer,Calgary Flames,Mark Giordano,Assist,Calgary Flames,Derek Ryan,Assist,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers
+2019-10-16T02:34:00Z,2,14:15,05:45,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:34:17Z,2,14:27,05:33,Shot,Wrist Shot,90.0,-5.0,Johnny Gaudreau,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:34:47Z,2,14:57,05:03,Hit,n/a,95.0,-17.0,Robert Hagg,Hitter,Philadelphia Flyers,Johnny Gaudreau,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:35:07Z,2,15:17,04:43,Blocked Shot,n/a,-45.0,-22.0,Travis Hamonic,Blocker,Calgary Flames,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:35:16Z,2,15:23,04:37,Hit,n/a,-76.0,38.0,Noah Hanifin,Hitter,Calgary Flames,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:35:33Z,2,15:38,04:22,Shot,Wrist Shot,27.0,-41.0,Travis Hamonic,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:35:48Z,2,15:51,04:09,Shot,Wrist Shot,29.0,-37.0,Travis Hamonic,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:37:43Z,2,15:52,04:08,Faceoff,n/a,69.0,-22.0,Scott Laughton,Winner,Philadelphia Flyers,Sam Bennett,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:38:51Z,2,16:30,03:30,Missed Shot,n/a,77.0,13.0,Mark Jankowski,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:38:59Z,2,16:37,03:23,Blocked Shot,n/a,73.0,-6.0,Scott Laughton,Blocker,Philadelphia Flyers,Travis Hamonic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:39:08Z,2,16:47,03:13,Shot,Wrist Shot,44.0,35.0,Austin Czarnik,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:39:28Z,2,17:06,02:54,Shot,Wrist Shot,92.0,19.0,Matthew Tkachuk,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:39:40Z,2,17:18,02:42,Takeaway,n/a,-55.0,24.0,Michael Frolik,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:39:49Z,2,17:28,02:32,Hit,n/a,85.0,-38.0,Robert Hagg,Hitter,Philadelphia Flyers,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:40:39Z,2,17:33,02:27,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:41:14Z,2,18:29,01:31,Giveaway,n/a,-39.0,37.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:42:02Z,2,19:16,00:44,Shot,Slap Shot,40.0,-25.0,Travis Hamonic,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:42:07Z,2,19:19,00:41,Missed Shot,n/a,82.0,-11.0,Derek Ryan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:42:10Z,2,19:24,00:36,Takeaway,n/a,25.0,12.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:42:33Z,2,19:44,00:16,Takeaway,n/a,-44.0,-38.0,Travis Hamonic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:42:36Z,2,19:48,00:12,Missed Shot,n/a,-77.0,-14.0,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:43:05Z,2,19:51,00:09,Faceoff,n/a,-69.0,22.0,Sean Monahan,Winner,Calgary Flames,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:43:14Z,2,19:58,00:02,Shot,Wrist Shot,-70.0,17.0,Claude Giroux,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:02:01Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:01:52Z,3,00:13,19:47,Hit,n/a,98.0,20.0,Claude Giroux,Hitter,Philadelphia Flyers,TJ Brodie,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:02:29Z,3,00:54,19:06,Blocked Shot,n/a,-69.0,-3.0,Oskar Lindblom,Blocker,Philadelphia Flyers,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:02:35Z,3,00:56,19:04,Missed Shot,n/a,-35.0,-34.0,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:02:39Z,3,01:03,18:57,Blocked Shot,n/a,-54.0,-5.0,Ivan Provorov,Blocker,Philadelphia Flyers,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:03:18Z,3,01:17,18:43,Faceoff,n/a,20.0,22.0,Derek Ryan,Winner,Calgary Flames,Jakub Voracek,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:03:38Z,3,01:31,18:29,Takeaway,n/a,14.0,0.0,Scott Laughton,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:05:15Z,3,02:58,17:02,Faceoff,n/a,-69.0,-22.0,Michael Raffl,Winner,Philadelphia Flyers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:05:36Z,3,03:04,16:56,Shot,Snap Shot,-76.0,-39.0,Michael Frolik,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:05:44Z,3,03:12,16:48,Missed Shot,n/a,-63.0,10.0,Michael Frolik,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:06:17Z,3,03:32,16:28,Faceoff,n/a,-20.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:06:46Z,3,03:48,16:12,Shot,Slap Shot,-59.0,6.0,Elias Lindholm,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:07:10Z,3,03:49,16:11,Faceoff,n/a,-69.0,22.0,Scott Laughton,Winner,Philadelphia Flyers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:07:53Z,3,04:18,15:42,Shot,Wrist Shot,-48.0,-11.0,Elias Lindholm,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:08:13Z,3,04:19,15:41,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:08:26Z,3,04:24,15:36,Shot,Wrist Shot,-76.0,-29.0,Andrew Mangiapane,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:08:48Z,3,04:46,15:14,Shot,Wrap-around,-90.0,6.0,Noah Hanifin,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:09:05Z,3,04:58,15:02,Goal,Slap Shot,66.0,0.0,Matt Niskanen,Scorer,Philadelphia Flyers,Travis Konecny,Assist,Philadelphia Flyers,Sean Couturier,Assist,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames
+2019-10-16T03:09:51Z,3,04:58,15:02,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:10:54Z,3,06:00,14:00,Hit,n/a,81.0,-38.0,Chris Stewart,Hitter,Philadelphia Flyers,Austin Czarnik,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:11:17Z,3,06:03,13:57,Faceoff,n/a,-69.0,-22.0,Michael Raffl,Winner,Philadelphia Flyers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:12:52Z,3,07:28,12:32,Hit,n/a,63.0,-39.0,Carsen Twarynski,Hitter,Philadelphia Flyers,Mark Giordano,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:15:14Z,3,07:34,12:26,Faceoff,n/a,20.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:15:48Z,3,08:01,11:59,Shot,Slap Shot,27.0,32.0,Ivan Provorov,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:15:54Z,3,08:07,11:53,Blocked Shot,n/a,59.0,3.0,Mikael Backlund,Blocker,Calgary Flames,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:16:45Z,3,08:15,11:45,Faceoff,n/a,-20.0,22.0,Milan Lucic,Winner,Calgary Flames,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:16:57Z,3,08:31,11:29,Shot,Slap Shot,-37.0,40.0,Oliver Kylington,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:17:03Z,3,08:38,11:22,Giveaway,n/a,-37.0,28.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:17:55Z,3,09:29,10:31,Shot,Snap Shot,-72.0,18.0,Elias Lindholm,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:18:21Z,3,09:29,10:31,Faceoff,n/a,-69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:18:29Z,3,09:33,10:27,Shot,Wrist Shot,-47.0,5.0,Sean Monahan,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:18:35Z,3,09:41,10:19,Shot,Wrist Shot,-54.0,1.0,Sean Monahan,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:18:53Z,3,09:59,10:01,Shot,Snap Shot,39.0,30.0,Ivan Provorov,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:19:02Z,3,10:08,09:52,Blocked Shot,n/a,58.0,-1.0,TJ Brodie,Blocker,Calgary Flames,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:19:45Z,3,10:51,09:09,Shot,Wrist Shot,33.0,40.0,Michael Raffl,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:19:58Z,3,11:05,08:55,Missed Shot,n/a,29.0,-34.0,Robert Hagg,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:20:19Z,3,11:18,08:42,Shot,Backhand,85.0,3.0,Kevin Hayes,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:22:25Z,3,11:20,08:40,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:22:45Z,3,11:22,08:38,Missed Shot,n/a,61.0,-26.0,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:22:57Z,3,11:40,08:20,Giveaway,n/a,2.0,-34.0,Travis Konecny,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:23:19Z,3,11:43,08:17,Faceoff,n/a,-20.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:24:48Z,3,13:00,07:00,Hit,n/a,74.0,-16.0,Oliver Kylington,Hitter,Calgary Flames,Carsen Twarynski,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:26:08Z,3,14:20,05:40,Shot,Slap Shot,-34.0,-31.0,Noah Hanifin,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:26:49Z,3,15:00,05:00,Hit,n/a,16.0,39.0,Mark Giordano,Hitter,Calgary Flames,Oskar Lindblom,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:26:59Z,3,15:08,04:52,Hit,n/a,83.0,-39.0,Oskar Lindblom,Hitter,Philadelphia Flyers,Andrew Mangiapane,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:27:09Z,3,15:21,04:39,Giveaway,n/a,-94.0,33.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:27:17Z,3,15:28,04:32,Hit,n/a,-95.0,-35.0,Milan Lucic,Hitter,Calgary Flames,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:27:45Z,3,15:57,04:03,Shot,Wrist Shot,-20.0,39.0,Rasmus Andersson,Shooter,Calgary Flames,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:29:53Z,3,16:13,03:47,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:31:19Z,3,17:06,02:54,Giveaway,n/a,42.0,-6.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:33:00Z,3,17:16,02:44,Faceoff,n/a,69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:33:39Z,3,17:24,02:36,Blocked Shot,n/a,66.0,4.0,Travis Hamonic,Blocker,Calgary Flames,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:34:48Z,3,18:15,01:45,Faceoff,n/a,-20.0,-22.0,Sean Monahan,Winner,Calgary Flames,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:35:17Z,3,18:30,01:30,Giveaway,n/a,-82.0,14.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:35:23Z,3,18:33,01:27,Hit,n/a,-72.0,35.0,Matt Niskanen,Hitter,Philadelphia Flyers,Johnny Gaudreau,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:38:21Z,3,18:50,01:10,Faceoff,n/a,69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:36:42Z,3,19:08,00:52,Faceoff,n/a,20.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:36:54Z,3,19:17,00:43,Missed Shot,n/a,81.0,24.0,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:37:03Z,3,19:27,00:33,Blocked Shot,n/a,63.0,-6.0,Mikael Backlund,Blocker,Calgary Flames,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:37:13Z,3,19:28,00:32,Blocked Shot,n/a,76.0,9.0,Travis Hamonic,Blocker,Calgary Flames,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:37:11Z,3,19:30,00:30,Shot,Tip-In,85.0,5.0,James van Riemsdyk,Shooter,Philadelphia Flyers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:38:44Z,3,19:30,00:30,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:39:28Z,3,19:48,00:12,Giveaway,n/a,-50.0,-36.0,Travis Konecny,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:39:09Z,3,19:49,00:11,Goal,Wrist Shot,-30.0,-22.0,Elias Lindholm,Scorer,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T03:39:43Z,3,19:49,00:11,Faceoff,n/a,0.0,0.0,Mark Jankowski,Winner,Calgary Flames,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,242 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-07T21:12:31Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:13:24Z,1,00:13,19:47,Giveaway,n/a,-96.0,-1.0,Carter Hutton,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:13:27Z,1,00:16,19:44,Shot,Slap Shot,-55.0,-33.0,Quinn Hughes,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:13:44Z,1,00:16,19:44,Faceoff,n/a,-69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:14:09Z,1,00:23,19:37,Faceoff,n/a,-69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:14:31Z,1,00:33,19:27,Hit,n/a,-93.0,29.0,J.T. Miller,Hitter,Vancouver Canucks,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:14:45Z,1,00:44,19:16,Missed Shot,n/a,-58.0,8.0,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:14:47Z,1,00:48,19:12,Takeaway,n/a,-97.0,-4.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:15:08Z,1,01:10,18:50,Giveaway,n/a,-97.0,3.0,Jake McCabe,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:15:20Z,1,01:22,18:38,Blocked Shot,n/a,-84.0,7.0,Jake McCabe,Blocker,Buffalo Sabres,Bo Horvat,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:15:26Z,1,01:27,18:33,Missed Shot,n/a,-59.0,-27.0,Tanner Pearson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:15:32Z,1,01:33,18:27,Takeaway,n/a,-26.0,25.0,Jake McCabe,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:15:37Z,1,01:38,18:22,Blocked Shot,n/a,72.0,-15.0,Jordie Benn,Blocker,Vancouver Canucks,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:16:02Z,1,02:01,17:59,Penalty,Tripping,35.0,0.0,Kyle Okposo,PenaltyOn,Buffalo Sabres,Adam Gaudette,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:16:26Z,1,02:01,17:59,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Zemgus Girgensons,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:17:53Z,1,03:15,16:45,Hit,n/a,-49.0,-41.0,Johan Larsson,Hitter,Buffalo Sabres,Brock Boeser,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:17:59Z,1,03:21,16:39,Missed Shot,n/a,-53.0,8.0,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:18:04Z,1,03:26,16:34,Hit,n/a,-55.0,-25.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Micheal Ferland,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:18:11Z,1,03:33,16:27,Missed Shot,n/a,-63.0,-25.0,Brock Boeser,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:18:14Z,1,03:36,16:24,Hit,n/a,-67.0,37.0,Elias Pettersson,Hitter,Vancouver Canucks,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:18:21Z,1,03:43,16:17,Blocked Shot,n/a,-71.0,-14.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,Brock Boeser,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:18:58Z,1,04:17,15:43,Giveaway,n/a,13.0,31.0,Tanner Pearson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:18:58Z,1,05:00,15:00,Shot,Deflected,-82.0,-14.0,Conor Sheary,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:19:59Z,1,05:21,14:39,Takeaway,n/a,-25.0,-39.0,J.T. Miller,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:20:07Z,1,05:29,14:31,Giveaway,n/a,-96.0,-5.0,Casey Mittelstadt,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:20:14Z,1,05:36,14:24,Blocked Shot,n/a,-49.0,-29.0,Conor Sheary,Blocker,Buffalo Sabres,Oscar Fantenberg,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:22:57Z,1,06:17,13:43,Faceoff,n/a,20.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,Kyle Okposo,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:24:08Z,1,07:20,12:40,Shot,Snap Shot,-67.0,14.0,Tyler Myers,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:24:13Z,1,07:25,12:35,Takeaway,n/a,-34.0,-25.0,Quinn Hughes,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:24:16Z,1,07:28,12:32,Shot,Wrist Shot,-59.0,-1.0,Bo Horvat,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:24:35Z,1,07:28,12:32,Faceoff,n/a,-69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:24:50Z,1,07:32,12:28,Shot,Wrist Shot,-41.0,-22.0,Jordie Benn,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:25:37Z,1,07:56,12:04,Faceoff,n/a,-20.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:25:54Z,1,08:07,11:53,Blocked Shot,n/a,-64.0,-20.0,Zach Bogosian,Blocker,Buffalo Sabres,Adam Gaudette,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:26:04Z,1,08:16,11:44,Hit,n/a,43.0,-42.0,Antoine Roussel,Hitter,Vancouver Canucks,Rasmus Asplund,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:26:11Z,1,08:23,11:37,Shot,Wrist Shot,37.0,-3.0,Zach Bogosian,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:26:33Z,1,08:45,11:15,Shot,Wrist Shot,-74.0,21.0,Troy Stecher,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:27:06Z,1,08:45,11:15,Faceoff,n/a,-69.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:27:51Z,1,09:32,10:28,Missed Shot,n/a,31.0,-23.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:27:59Z,1,09:40,10:20,Hit,n/a,29.0,39.0,Johan Larsson,Hitter,Buffalo Sabres,Jay Beagle,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:28:20Z,1,10:02,09:58,Shot,Wrist Shot,54.0,-19.0,Victor Olofsson,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:28:27Z,1,10:05,09:55,Missed Shot,n/a,71.0,-13.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:29:17Z,1,10:58,09:02,Takeaway,n/a,-51.0,-41.0,Elias Pettersson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:29:22Z,1,11:03,08:57,Blocked Shot,n/a,-62.0,-7.0,Zach Bogosian,Blocker,Buffalo Sabres,J.T. Miller,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:30:12Z,1,11:53,08:07,Hit,n/a,91.0,32.0,Tyler Myers,Hitter,Vancouver Canucks,Marcus Johansson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:30:17Z,1,11:59,08:01,Shot,Backhand,-54.0,-29.0,Brandon Montour,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:30:34Z,1,12:15,07:45,Shot,Snap Shot,56.0,-15.0,Jeff Skinner,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:30:43Z,1,12:25,07:35,Hit,n/a,24.0,41.0,Josh Leivo,Hitter,Vancouver Canucks,Marco Scandella,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:30:50Z,1,12:31,07:29,Blocked Shot,n/a,81.0,-10.0,Jordie Benn,Blocker,Vancouver Canucks,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:31:04Z,1,12:45,07:15,Missed Shot,n/a,65.0,-7.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:31:17Z,1,12:57,07:03,Goal,Snap Shot,-68.0,13.0,Josh Leivo,Scorer,Vancouver Canucks,Jordie Benn,Assist,Vancouver Canucks,Troy Stecher,Assist,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres
+2019-12-07T21:32:10Z,1,12:57,07:03,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:34:19Z,1,13:11,06:49,Faceoff,n/a,20.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:34:54Z,1,13:27,06:33,Shot,Snap Shot,-67.0,-20.0,Tanner Pearson,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:34:59Z,1,13:32,06:28,Shot,Slap Shot,-58.0,25.0,Tyler Myers,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:35:33Z,1,14:06,05:54,Shot,Wrist Shot,-82.0,-11.0,Micheal Ferland,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:36:04Z,1,14:34,05:26,Giveaway,n/a,-80.0,29.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:36:12Z,1,14:45,05:15,Hit,n/a,97.0,25.0,Jimmy Vesey,Hitter,Buffalo Sabres,Oscar Fantenberg,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:36:19Z,1,14:52,05:08,Hit,n/a,91.0,-33.0,Oscar Fantenberg,Hitter,Vancouver Canucks,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:36:41Z,1,15:13,04:47,Blocked Shot,n/a,71.0,-20.0,Oscar Fantenberg,Blocker,Vancouver Canucks,Jimmy Vesey,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:37:36Z,1,16:09,03:51,Hit,n/a,-86.0,34.0,Antoine Roussel,Hitter,Vancouver Canucks,Zach Bogosian,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:37:43Z,1,16:16,03:44,Missed Shot,n/a,-64.0,-14.0,Antoine Roussel,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:37:58Z,1,16:31,03:29,Missed Shot,n/a,-70.0,-1.0,Adam Gaudette,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:38:51Z,1,17:23,02:37,Missed Shot,n/a,-59.0,-31.0,Bo Horvat,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:39:11Z,1,17:43,02:17,Hit,n/a,-82.0,-34.0,Micheal Ferland,Hitter,Vancouver Canucks,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:39:43Z,1,18:15,01:45,Hit,n/a,-27.0,-40.0,Jay Beagle,Hitter,Vancouver Canucks,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:39:58Z,1,18:31,01:29,Takeaway,n/a,-98.0,-1.0,J.T. Miller,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:42:09Z,1,18:41,01:19,Faceoff,n/a,-69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Rasmus Asplund,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:42:44Z,1,19:00,01:00,Giveaway,n/a,97.0,-20.0,Tyler Myers,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:42:55Z,1,19:05,00:55,Blocked Shot,n/a,73.0,7.0,Quinn Hughes,Blocker,Vancouver Canucks,Jake McCabe,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:42:52Z,1,19:07,00:53,Giveaway,n/a,97.0,3.0,Elias Pettersson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T21:43:22Z,1,19:37,00:23,Hit,n/a,-58.0,39.0,Zach Bogosian,Hitter,Buffalo Sabres,Tanner Pearson,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:02:06Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:02:31Z,2,00:25,19:35,Shot,Snap Shot,42.0,-33.0,Josh Leivo,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:03:24Z,2,00:59,19:01,Faceoff,n/a,69.0,22.0,J.T. Miller,Winner,Vancouver Canucks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:04:05Z,2,01:09,18:51,Faceoff,n/a,-69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:04:19Z,2,01:16,18:44,Faceoff,n/a,-69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:05:00Z,2,01:41,18:19,Giveaway,n/a,-20.0,38.0,Antoine Roussel,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:05:03Z,2,01:44,18:16,Shot,Backhand,-68.0,1.0,Jeff Skinner,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:05:22Z,2,01:44,18:16,Faceoff,n/a,-69.0,22.0,Kyle Okposo,Winner,Buffalo Sabres,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:05:55Z,2,01:51,18:09,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:06:09Z,2,01:59,18:01,Hit,n/a,17.0,-41.0,Micheal Ferland,Hitter,Vancouver Canucks,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:06:48Z,2,02:38,17:22,Shot,Wrist Shot,44.0,-19.0,Adam Gaudette,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:08:38Z,2,03:06,16:54,Shot,Snap Shot,32.0,31.0,Tyler Myers,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:07:17Z,2,03:07,16:53,Goal,Backhand,81.0,-3.0,Antoine Roussel,Scorer,Vancouver Canucks,Tyler Myers,Assist,Vancouver Canucks,Jake Virtanen,Assist,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres
+2019-12-07T22:08:32Z,2,03:07,16:53,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:08:52Z,2,03:28,16:32,Hit,n/a,98.0,9.0,Henri Jokiharju,Hitter,Buffalo Sabres,Quinn Hughes,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:09:06Z,2,03:42,16:18,Hit,n/a,96.0,17.0,Tanner Pearson,Hitter,Vancouver Canucks,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:22:26Z,2,03:52,16:08,Blocked Shot,n/a,-84.0,2.0,Jordie Benn,Blocker,Vancouver Canucks,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:09:51Z,2,04:27,15:33,Giveaway,n/a,-39.0,-39.0,Brock Boeser,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:09:56Z,2,04:27,15:33,Shot,Slap Shot,-32.0,-34.0,Jake McCabe,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:10:12Z,2,04:28,15:32,Faceoff,n/a,-69.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,Rasmus Asplund,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:10:44Z,2,04:55,15:05,Blocked Shot,n/a,-75.0,3.0,Christopher Tanev,Blocker,Vancouver Canucks,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:10:44Z,2,04:56,15:04,Shot,Wrist Shot,-60.0,-7.0,Jeff Skinner,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:11:13Z,2,05:24,14:36,Goal,Snap Shot,-76.0,-1.0,Kyle Okposo,Scorer,Buffalo Sabres,Johan Larsson,Assist,Buffalo Sabres,Jeff Skinner,Assist,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks
+2019-12-07T22:11:56Z,2,05:24,14:36,Faceoff,n/a,0.0,0.0,J.T. Miller,Winner,Vancouver Canucks,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:12:08Z,2,05:29,14:31,Faceoff,n/a,69.0,22.0,J.T. Miller,Winner,Vancouver Canucks,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:12:25Z,2,05:35,14:25,Blocked Shot,n/a,49.0,22.0,Kyle Okposo,Blocker,Buffalo Sabres,Oscar Fantenberg,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:12:47Z,2,05:47,14:13,Faceoff,n/a,69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:13:14Z,2,05:53,14:07,Faceoff,n/a,69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Tim Schaller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:13:46Z,2,06:02,13:58,Hit,n/a,91.0,-32.0,Micheal Ferland,Hitter,Vancouver Canucks,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:14:14Z,2,06:28,13:32,Goal,Snap Shot,77.0,-1.0,Sam Reinhart,Scorer,Buffalo Sabres,Rasmus Ristolainen,Assist,Buffalo Sabres,Victor Olofsson,Assist,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks
+2019-12-07T22:15:01Z,2,06:28,13:32,Faceoff,n/a,0.0,0.0,Jake Virtanen,Winner,Vancouver Canucks,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:15:30Z,2,06:46,13:14,Shot,Wrist Shot,77.0,-38.0,Tyler Myers,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:16:01Z,2,07:12,12:48,Penalty,Slashing,-17.0,-6.0,Jake Virtanen,PenaltyOn,Vancouver Canucks,Conor Sheary,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:17:55Z,2,07:12,12:48,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:18:48Z,2,07:49,12:11,Giveaway,n/a,-98.0,-12.0,Christopher Tanev,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:18:57Z,2,07:59,12:01,Missed Shot,n/a,-83.0,-10.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:19:10Z,2,08:11,11:49,Shot,Wrist Shot,-76.0,27.0,Victor Olofsson,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:19:36Z,2,08:38,11:22,Missed Shot,n/a,-67.0,1.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:20:01Z,2,08:38,11:22,Faceoff,n/a,-69.0,22.0,Tanner Pearson,Winner,Vancouver Canucks,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:20:51Z,2,09:17,10:43,Shot,Wrist Shot,-58.0,-26.0,Henri Jokiharju,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:21:02Z,2,09:26,10:34,Shot,Backhand,-52.0,-6.0,J.T. Miller,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:21:09Z,2,09:35,10:25,Giveaway,n/a,-44.0,40.0,Antoine Roussel,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:21:21Z,2,09:47,10:13,Hit,n/a,-86.0,37.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Christopher Tanev,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:21:46Z,2,10:12,09:48,Hit,n/a,-99.0,-13.0,Antoine Roussel,Hitter,Vancouver Canucks,Kyle Okposo,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:23:55Z,2,10:32,09:28,Faceoff,n/a,-20.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Sam Reinhart,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:24:35Z,2,10:44,09:16,Hit,n/a,98.0,4.0,Tanner Pearson,Hitter,Vancouver Canucks,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:24:46Z,2,10:54,09:06,Takeaway,n/a,97.0,12.0,Tanner Pearson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:24:55Z,2,11:04,08:56,Hit,n/a,52.0,-41.0,Marco Scandella,Hitter,Buffalo Sabres,Josh Leivo,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:25:02Z,2,11:10,08:50,Hit,n/a,97.0,22.0,Bo Horvat,Hitter,Vancouver Canucks,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:25:08Z,2,11:16,08:44,Hit,n/a,93.0,32.0,Jack Eichel,Hitter,Buffalo Sabres,Bo Horvat,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:25:18Z,2,11:27,08:33,Shot,Wrap-around,85.0,-5.0,Bo Horvat,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:25:52Z,2,12:01,07:59,Hit,n/a,92.0,-33.0,J.T. Miller,Hitter,Vancouver Canucks,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:26:22Z,2,12:30,07:30,Shot,Snap Shot,-82.0,9.0,Rasmus Asplund,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:26:41Z,2,12:30,07:30,Faceoff,n/a,-69.0,22.0,Adam Gaudette,Winner,Vancouver Canucks,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:27:18Z,2,12:57,07:03,Shot,Slap Shot,-35.0,0.0,Zach Bogosian,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:27:41Z,2,13:21,06:39,Hit,n/a,72.0,-42.0,Micheal Ferland,Hitter,Vancouver Canucks,Casey Mittelstadt,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:27:58Z,2,13:38,06:22,Shot,Snap Shot,65.0,-38.0,Jay Beagle,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:28:02Z,2,13:41,06:19,Hit,n/a,88.0,-37.0,Micheal Ferland,Hitter,Vancouver Canucks,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:28:09Z,2,13:48,06:12,Missed Shot,n/a,-79.0,-3.0,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:28:32Z,2,14:12,05:48,Hit,n/a,-79.0,-41.0,Jay Beagle,Hitter,Vancouver Canucks,Kyle Okposo,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:28:39Z,2,14:18,05:42,Shot,Snap Shot,-76.0,30.0,Brandon Montour,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:28:53Z,2,14:33,05:27,Giveaway,n/a,-50.0,-39.0,Micheal Ferland,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:29:19Z,2,14:51,05:09,Penalty,Tripping,-73.0,38.0,Jay Beagle,PenaltyOn,Vancouver Canucks,Jack Eichel,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:30:53Z,2,14:51,05:09,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:31:31Z,2,14:59,05:01,Missed Shot,n/a,-46.0,-31.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:32:07Z,2,15:34,04:26,Shot,Backhand,-82.0,8.0,Jeff Skinner,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:32:36Z,2,15:34,04:26,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:34:06Z,2,17:06,02:54,Takeaway,n/a,5.0,-7.0,Brock Boeser,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:34:12Z,2,17:11,02:49,Goal,Snap Shot,69.0,-12.0,Josh Leivo,Scorer,Vancouver Canucks,Elias Pettersson,Assist,Vancouver Canucks,Brock Boeser,Assist,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres
+2019-12-07T22:35:00Z,2,17:11,02:49,Faceoff,n/a,0.0,0.0,Adam Gaudette,Winner,Vancouver Canucks,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:35:17Z,2,17:29,02:31,Shot,Backhand,-82.0,-10.0,Kyle Okposo,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:35:31Z,2,17:43,02:17,Hit,n/a,-91.0,-32.0,Oscar Fantenberg,Hitter,Vancouver Canucks,Jimmy Vesey,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:35:39Z,2,17:51,02:09,Hit,n/a,-90.0,35.0,Johan Larsson,Hitter,Buffalo Sabres,Antoine Roussel,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:35:44Z,2,17:56,02:04,Shot,Snap Shot,-47.0,1.0,Kyle Okposo,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:35:59Z,2,18:11,01:49,Shot,Snap Shot,74.0,26.0,Antoine Roussel,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:36:08Z,2,18:20,01:40,Shot,Wrist Shot,-76.0,10.0,Jeff Skinner,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:36:23Z,2,18:35,01:25,Takeaway,n/a,-59.0,-38.0,Josh Leivo,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:36:28Z,2,18:40,01:20,Takeaway,n/a,6.0,-30.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:36:48Z,2,18:50,01:10,Penalty,Tripping,-82.0,-7.0,Quinn Hughes,PenaltyOn,Vancouver Canucks,Marcus Johansson,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:37:14Z,2,18:50,01:10,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:37:52Z,2,19:16,00:44,Goal,Snap Shot,-81.0,13.0,Victor Olofsson,Scorer,Buffalo Sabres,Sam Reinhart,Assist,Buffalo Sabres,Jack Eichel,Assist,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks
+2019-12-07T22:38:34Z,2,19:16,00:44,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:38:58Z,2,19:39,00:21,Missed Shot,n/a,54.0,33.0,Oscar Fantenberg,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:39:18Z,2,19:59,00:01,Hit,n/a,-75.0,-40.0,Antoine Roussel,Hitter,Vancouver Canucks,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:39:27Z,2,19:59,00:01,Hit,n/a,-42.0,-40.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Antoine Roussel,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:40:03Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:58:30Z,3,00:25,19:35,Faceoff,n/a,69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:59:22Z,3,00:59,19:01,Shot,Slap Shot,-37.0,-29.0,Jordie Benn,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T22:59:37Z,3,00:59,19:01,Faceoff,n/a,-69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:00:03Z,3,01:15,18:45,Giveaway,n/a,38.0,38.0,Brock Boeser,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:00:07Z,3,01:19,18:41,Missed Shot,n/a,34.0,-33.0,Zach Bogosian,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:01:01Z,3,01:58,18:02,Faceoff,n/a,-69.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:01:30Z,3,02:11,17:49,Shot,Snap Shot,-50.0,-1.0,Micheal Ferland,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:01:35Z,3,02:17,17:43,Hit,n/a,-70.0,-40.0,Jeff Skinner,Hitter,Buffalo Sabres,Tyler Myers,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:01:57Z,3,02:38,17:22,Hit,n/a,-88.0,28.0,Micheal Ferland,Hitter,Vancouver Canucks,Zach Bogosian,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:02:08Z,3,02:49,17:11,Missed Shot,n/a,-69.0,25.0,Micheal Ferland,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:02:21Z,3,03:03,16:57,Shot,Snap Shot,-85.0,7.0,Quinn Hughes,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:02:32Z,3,03:14,16:46,Shot,Wrist Shot,-78.0,15.0,Tanner Pearson,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:03:11Z,3,03:29,16:31,Faceoff,n/a,-69.0,-22.0,Adam Gaudette,Winner,Vancouver Canucks,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:03:31Z,3,03:35,16:25,Penalty,Tripping,-93.0,-31.0,Antoine Roussel,PenaltyOn,Vancouver Canucks,Brandon Montour,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:04:01Z,3,03:35,16:25,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Tim Schaller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:04:52Z,3,04:07,15:53,Blocked Shot,n/a,78.0,8.0,Christopher Tanev,Blocker,Vancouver Canucks,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:05:11Z,3,04:26,15:34,Takeaway,n/a,35.0,-27.0,J.T. Miller,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:05:38Z,3,04:51,15:09,Goal,Snap Shot,-76.0,0.0,Tyler Myers,Scorer,Vancouver Canucks,J.T. Miller,Assist,Vancouver Canucks,Tanner Pearson,Assist,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres
+2019-12-07T23:06:37Z,3,04:51,15:09,Faceoff,n/a,0.0,0.0,Jay Beagle,Winner,Vancouver Canucks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:07:38Z,3,06:05,13:55,Blocked Shot,n/a,75.0,-13.0,Christopher Tanev,Blocker,Vancouver Canucks,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:09:35Z,3,06:10,13:50,Faceoff,n/a,20.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:10:31Z,3,06:52,13:08,Missed Shot,n/a,-34.0,-31.0,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:11:26Z,3,07:28,12:32,Faceoff,n/a,69.0,22.0,Rasmus Asplund,Winner,Buffalo Sabres,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:11:35Z,3,07:34,12:26,Blocked Shot,n/a,47.0,25.0,Quinn Hughes,Blocker,Vancouver Canucks,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:12:19Z,3,08:18,11:42,Hit,n/a,95.0,-26.0,Oscar Fantenberg,Hitter,Vancouver Canucks,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:13:02Z,3,09:01,10:59,Shot,Wrist Shot,36.0,30.0,Marco Scandella,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:13:11Z,3,09:10,10:50,Hit,n/a,95.0,27.0,Christopher Tanev,Hitter,Vancouver Canucks,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:13:13Z,3,09:12,10:48,Shot,Wrist Shot,44.0,-14.0,Henri Jokiharju,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:13:45Z,3,09:12,10:48,Faceoff,n/a,69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:13:56Z,3,09:19,10:41,Hit,n/a,37.0,-40.0,Elias Pettersson,Hitter,Vancouver Canucks,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:14:29Z,3,09:33,10:27,Faceoff,n/a,-69.0,-22.0,Casey Mittelstadt,Winner,Buffalo Sabres,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:17:03Z,3,10:05,09:55,Faceoff,n/a,-69.0,22.0,Jeff Skinner,Winner,Buffalo Sabres,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:18:12Z,3,10:30,09:30,Hit,n/a,30.0,39.0,Jake Virtanen,Hitter,Vancouver Canucks,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:18:24Z,3,10:40,09:20,Shot,Wrist Shot,-64.0,19.0,Jake Virtanen,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:18:28Z,3,10:40,09:20,Goal,Snap Shot,-79.0,-1.0,Antoine Roussel,Scorer,Vancouver Canucks,Jake Virtanen,Assist,Vancouver Canucks,Troy Stecher,Assist,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres
+2019-12-07T23:19:08Z,3,10:40,09:20,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:19:27Z,3,10:51,09:09,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:19:57Z,3,11:02,08:58,Blocked Shot,n/a,53.0,27.0,Christopher Tanev,Blocker,Vancouver Canucks,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:20:06Z,3,11:11,08:49,Hit,n/a,-20.0,-41.0,Bo Horvat,Hitter,Vancouver Canucks,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:20:46Z,3,11:51,08:09,Hit,n/a,86.0,-35.0,Tyler Myers,Hitter,Vancouver Canucks,Zemgus Girgensons,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:21:00Z,3,12:05,07:55,Goal,Backhand,64.0,-16.0,Zemgus Girgensons,Scorer,Buffalo Sabres,Johan Larsson,Assist,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a
+2019-12-07T23:21:42Z,3,12:05,07:55,Faceoff,n/a,0.0,0.0,Marcus Johansson,Winner,Buffalo Sabres,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:22:26Z,3,12:21,07:39,Faceoff,n/a,20.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:23:00Z,3,12:50,07:10,Shot,Snap Shot,-51.0,28.0,Tanner Pearson,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:23:23Z,3,12:50,07:10,Faceoff,n/a,-69.0,22.0,Adam Gaudette,Winner,Vancouver Canucks,Zemgus Girgensons,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:23:39Z,3,12:54,07:06,Missed Shot,n/a,-39.0,-2.0,Oscar Fantenberg,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:23:44Z,3,12:59,07:01,Hit,n/a,-38.0,40.0,Johan Larsson,Hitter,Buffalo Sabres,Troy Stecher,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:23:53Z,3,13:08,06:52,Hit,n/a,-27.0,39.0,Johan Larsson,Hitter,Buffalo Sabres,Troy Stecher,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:24:53Z,3,14:09,05:51,Shot,Slap Shot,-48.0,-22.0,Brock Boeser,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:25:15Z,3,14:30,05:30,Shot,Snap Shot,48.0,20.0,Jack Eichel,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:25:22Z,3,14:38,05:22,Hit,n/a,63.0,34.0,Brandon Montour,Hitter,Buffalo Sabres,Bo Horvat,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:25:27Z,3,14:42,05:18,Blocked Shot,n/a,69.0,-11.0,Tanner Pearson,Blocker,Vancouver Canucks,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:25:45Z,3,15:01,04:59,Shot,Backhand,67.0,21.0,Victor Olofsson,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:28:04Z,3,15:01,04:59,Faceoff,n/a,69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:28:43Z,3,15:19,04:41,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:28:58Z,3,15:33,04:27,Hit,n/a,-84.0,-35.0,Tanner Pearson,Hitter,Vancouver Canucks,Rasmus Ristolainen,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:29:35Z,3,15:47,04:13,Faceoff,n/a,69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:29:54Z,3,16:04,03:56,Missed Shot,n/a,78.0,-5.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:29:56Z,3,16:06,03:54,Hit,n/a,84.0,35.0,Johan Larsson,Hitter,Buffalo Sabres,Christopher Tanev,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:31:49Z,3,16:22,03:38,Faceoff,n/a,69.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:32:49Z,3,16:56,03:04,Shot,Wrist Shot,60.0,-19.0,Brandon Montour,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:33:12Z,3,16:56,03:04,Faceoff,n/a,69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Kyle Okposo,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:33:20Z,3,16:59,03:01,Hit,n/a,85.0,-38.0,Johan Larsson,Hitter,Buffalo Sabres,Oscar Fantenberg,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:33:42Z,3,17:21,02:39,Blocked Shot,n/a,75.0,5.0,Oscar Fantenberg,Blocker,Vancouver Canucks,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:33:49Z,3,17:28,02:32,Giveaway,n/a,52.0,31.0,Oscar Fantenberg,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:34:39Z,3,18:18,01:42,Blocked Shot,n/a,49.0,0.0,Adam Gaudette,Blocker,Vancouver Canucks,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:34:53Z,3,18:32,01:28,Shot,Wrist Shot,69.0,-18.0,Victor Olofsson,Shooter,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:35:07Z,3,18:46,01:14,Blocked Shot,n/a,69.0,12.0,Antoine Roussel,Blocker,Vancouver Canucks,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:35:24Z,3,19:01,00:59,Goal,Deflected,32.0,-1.0,Marcus Johansson,Scorer,Buffalo Sabres,Jack Eichel,Assist,Buffalo Sabres,Rasmus Ristolainen,Assist,Buffalo Sabres,Thatcher Demko,Goalie,Vancouver Canucks
+2019-12-07T23:36:04Z,3,19:01,00:59,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:36:30Z,3,19:16,00:44,Blocked Shot,n/a,63.0,8.0,Quinn Hughes,Blocker,Vancouver Canucks,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:37:17Z,3,19:29,00:31,Faceoff,n/a,-20.0,22.0,Elias Pettersson,Winner,Vancouver Canucks,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:37:43Z,3,19:37,00:23,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Elias Pettersson,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:40:28Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Elias Pettersson,Winner,Vancouver Canucks,Sam Reinhart,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:41:24Z,4,00:46,04:14,Takeaway,n/a,54.0,20.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:41:51Z,4,01:10,03:50,Missed Shot,n/a,-82.0,12.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:42:10Z,4,01:10,03:50,Faceoff,n/a,-69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:43:19Z,4,02:09,02:51,Penalty,Interference,-50.0,-15.0,Henri Jokiharju,PenaltyOn,Buffalo Sabres,Jake Virtanen,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:43:58Z,4,02:09,02:51,Faceoff,n/a,69.0,22.0,J.T. Miller,Winner,Vancouver Canucks,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:44:14Z,4,02:26,02:34,Blocked Shot,n/a,64.0,-15.0,Jake McCabe,Blocker,Buffalo Sabres,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:44:22Z,4,02:33,02:27,Shot,Wrist Shot,66.0,-16.0,Elias Pettersson,Shooter,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:44:51Z,4,03:02,01:58,Missed Shot,n/a,80.0,-7.0,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-07T23:45:10Z,4,03:21,01:39,Goal,Slap Shot,62.0,-26.0,J.T. Miller,Scorer,Vancouver Canucks,Quinn Hughes,Assist,Vancouver Canucks,Brock Boeser,Assist,Vancouver Canucks,Carter Hutton,Goalie,Buffalo Sabres

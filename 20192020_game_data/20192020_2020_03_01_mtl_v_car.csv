@@ -1,0 +1,285 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-03-01T01:08:00Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Max Domi,Winner,Montréal Canadiens,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:15:30Z,1,00:10,19:50,Hit,n/a,62.0,-41.0,Justin Williams,Hitter,Carolina Hurricanes,Brett Kulak,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:15:57Z,1,00:18,19:42,Hit,n/a,-6.0,41.0,Warren Foegele,Hitter,Carolina Hurricanes,Paul Byron,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:15:57Z,1,00:24,19:36,Faceoff,n/a,-69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Jordan Weal,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:16:22Z,1,00:42,19:18,Blocked Shot,n/a,-71.0,-7.0,Brady Skjei,Blocker,Carolina Hurricanes,Brett Kulak,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:16:25Z,1,00:42,19:18,Hit,n/a,-23.0,-39.0,Paul Byron,Hitter,Montréal Canadiens,Brady Skjei,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:16:53Z,1,01:09,18:51,Giveaway,n/a,36.0,-12.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:16:56Z,1,01:15,18:45,Shot,Wrist Shot,-76.0,38.0,Brendan Gallagher,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:17:16Z,1,01:16,18:44,Faceoff,n/a,-69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Vincent Trocheck,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:17:32Z,1,01:21,18:39,Shot,Wrist Shot,-48.0,13.0,Artturi Lehkonen,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:17:39Z,1,01:25,18:35,Missed Shot,n/a,-39.0,-24.0,Nick Suzuki,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:17:48Z,1,01:32,18:28,Shot,Snap Shot,-57.0,4.0,Nick Suzuki,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:17:54Z,1,01:35,18:25,Shot,Wrist Shot,-84.0,-7.0,Nick Suzuki,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:18:02Z,1,01:46,18:14,Shot,Snap Shot,-55.0,0.0,Ben Chiarot,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:17:59Z,1,01:47,18:13,Shot,Wrist Shot,-84.0,-8.0,Nick Suzuki,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:18:25Z,1,01:47,18:13,Faceoff,n/a,-69.0,22.0,Charles Hudon,Winner,Montréal Canadiens,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:18:40Z,1,01:51,18:09,Shot,Wrist Shot,-32.0,37.0,Christian Folin,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:18:51Z,1,01:52,18:08,Faceoff,n/a,-69.0,22.0,Jake Evans,Winner,Montréal Canadiens,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:19:02Z,1,01:58,18:02,Shot,Backhand,-81.0,0.0,Christian Folin,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:19:05Z,1,02:02,17:58,Hit,n/a,-80.0,-40.0,Dale Weise,Hitter,Montréal Canadiens,Brock McGinn,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:19:11Z,1,02:07,17:53,Hit,n/a,12.0,22.0,Brock McGinn,Hitter,Carolina Hurricanes,Charles Hudon,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:21:55Z,1,02:09,17:51,Hit,n/a,10.0,40.0,Jake Evans,Hitter,Montréal Canadiens,Jordan Martinook,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:19:35Z,1,02:32,17:28,Hit,n/a,-97.0,17.0,Brendan Gallagher,Hitter,Montréal Canadiens,Brady Skjei,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:19:46Z,1,02:36,17:24,Giveaway,n/a,-33.0,-39.0,Teuvo Teravainen,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:19:44Z,1,02:40,17:20,Goal,Tip-In,-81.0,-5.0,Phillip Danault,Scorer,Montréal Canadiens,Tomas Tatar,Assist,Montréal Canadiens,Brendan Gallagher,Assist,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes
+2020-03-01T00:20:41Z,1,02:40,17:20,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:21:03Z,1,02:50,17:10,Hit,n/a,89.0,-36.0,Jordan Staal,Hitter,Carolina Hurricanes,Jeff Petry,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:21:34Z,1,02:54,17:06,Hit,n/a,96.0,22.0,Warren Foegele,Hitter,Carolina Hurricanes,Brett Kulak,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:21:26Z,1,02:59,17:01,Faceoff,n/a,-20.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:21:55Z,1,03:16,16:44,Faceoff,n/a,69.0,22.0,Teuvo Teravainen,Winner,Carolina Hurricanes,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:22:07Z,1,03:20,16:40,Shot,Slap Shot,34.0,33.0,Joel Edmundson,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:22:15Z,1,03:28,16:32,Shot,Wrist Shot,-80.0,17.0,Brendan Gallagher,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:22:35Z,1,03:47,16:13,Blocked Shot,n/a,-52.0,28.0,Joel Edmundson,Blocker,Carolina Hurricanes,Brendan Gallagher,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:22:44Z,1,03:57,16:03,Shot,Wrist Shot,68.0,-28.0,Martin Necas,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:23:05Z,1,03:58,16:02,Faceoff,n/a,69.0,-22.0,Vincent Trocheck,Winner,Carolina Hurricanes,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:23:36Z,1,04:25,15:35,Hit,n/a,96.0,-23.0,Jeff Petry,Hitter,Montréal Canadiens,Vincent Trocheck,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:23:54Z,1,04:42,15:18,Blocked Shot,n/a,64.0,-6.0,Jeff Petry,Blocker,Montréal Canadiens,Jake Gardiner,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:24:04Z,1,04:46,15:14,Shot,Slap Shot,57.0,-30.0,Trevor van Riemsdyk,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:24:22Z,1,04:47,15:13,Faceoff,n/a,69.0,-22.0,Jake Evans,Winner,Montréal Canadiens,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:24:36Z,1,04:57,15:03,Giveaway,n/a,6.0,-20.0,Dale Weise,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:25:09Z,1,05:29,14:31,Hit,n/a,-16.0,38.0,Haydn Fleury,Hitter,Carolina Hurricanes,Paul Byron,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:25:47Z,1,06:01,13:59,Penalty,Hi-sticking,86.0,37.0,Brett Kulak,PenaltyOn,Montréal Canadiens,Justin Williams,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:27:57Z,1,06:01,13:59,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:28:17Z,1,06:23,13:37,Shot,Slap Shot,39.0,-37.0,Justin Williams,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:28:54Z,1,07:00,13:00,Missed Shot,n/a,39.0,34.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:29:49Z,1,07:54,12:06,Blocked Shot,n/a,70.0,4.0,Xavier Ouellet,Blocker,Montréal Canadiens,Martin Necas,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:30:15Z,1,07:55,12:05,Faceoff,n/a,69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:30:20Z,1,07:58,12:02,Shot,Slap Shot,32.0,-30.0,Brady Skjei,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:30:36Z,1,07:59,12:01,Faceoff,n/a,69.0,-22.0,Brock McGinn,Winner,Carolina Hurricanes,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:31:03Z,1,08:01,11:59,Missed Shot,n/a,34.0,-37.0,Brady Skjei,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:31:23Z,1,08:30,11:30,Blocked Shot,n/a,62.0,19.0,Christian Folin,Blocker,Montréal Canadiens,Haydn Fleury,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:31:49Z,1,08:56,11:04,Hit,n/a,85.0,37.0,Christian Folin,Hitter,Montréal Canadiens,Brady Skjei,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:31:55Z,1,09:02,10:58,Giveaway,n/a,72.0,-41.0,Xavier Ouellet,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:31:58Z,1,09:06,10:54,Blocked Shot,n/a,39.0,-31.0,Dale Weise,Blocker,Montréal Canadiens,Sebastian Aho,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:06Z,1,09:13,10:47,Takeaway,n/a,-50.0,42.0,Charles Hudon,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:15Z,1,09:23,10:37,Shot,Wrist Shot,60.0,-25.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:30Z,1,09:37,10:23,Giveaway,n/a,73.0,-40.0,Ben Chiarot,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:35Z,1,09:37,10:23,Hit,n/a,72.0,-39.0,Dale Weise,Hitter,Montréal Canadiens,Jaccob Slavin,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:33Z,1,09:38,10:22,Shot,Wrist Shot,99.0,-13.0,Sebastian Aho,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:42Z,1,09:50,10:10,Takeaway,n/a,32.0,40.0,Joel Edmundson,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:53Z,1,09:58,10:02,Blocked Shot,n/a,82.0,-1.0,Ryan Dzingel,Blocker,Carolina Hurricanes,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:33:09Z,1,10:09,09:51,Missed Shot,n/a,60.0,-37.0,Trevor van Riemsdyk,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:35:23Z,1,10:10,09:50,Faceoff,n/a,69.0,-22.0,Max Domi,Winner,Montréal Canadiens,Vincent Trocheck,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:36:05Z,1,10:57,09:03,Hit,n/a,36.0,-40.0,Martin Necas,Hitter,Carolina Hurricanes,Paul Byron,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:36:11Z,1,11:03,08:57,Missed Shot,n/a,-41.0,-34.0,Jordan Weal,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:36:22Z,1,11:13,08:47,Blocked Shot,n/a,-68.0,22.0,Joel Edmundson,Blocker,Carolina Hurricanes,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:36:34Z,1,11:14,08:46,Penalty,Too many men on the ice,-14.0,41.0,Martin Necas,PenaltyOn,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:37:18Z,1,11:14,08:46,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:37:39Z,1,11:42,08:18,Shot,Wrist Shot,-73.0,-1.0,Tomas Tatar,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:38:16Z,1,12:17,07:43,Giveaway,n/a,-64.0,41.0,Trevor van Riemsdyk,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:38:26Z,1,12:29,07:31,Shot,Wrist Shot,57.0,-8.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:39:52Z,1,13:15,06:45,Faceoff,n/a,-20.0,22.0,Jake Evans,Winner,Montréal Canadiens,Vincent Trocheck,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:40:19Z,1,13:39,06:21,Giveaway,n/a,-40.0,21.0,Nino Niederreiter,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:41:12Z,1,14:40,05:20,Shot,Wrist Shot,46.0,12.0,Justin Williams,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:41:23Z,1,14:53,05:07,Shot,Wrist Shot,-17.0,-34.0,Artturi Lehkonen,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:41:26Z,1,14:56,05:04,Shot,Wrist Shot,-30.0,37.0,Shea Weber,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:41:35Z,1,15:05,04:55,Blocked Shot,n/a,-73.0,0.0,Jaccob Slavin,Blocker,Carolina Hurricanes,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:42:14Z,1,15:42,04:18,Hit,n/a,-95.0,23.0,Jake Evans,Hitter,Montréal Canadiens,Jordan Martinook,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:42:41Z,1,15:50,04:10,Hit,n/a,11.0,-40.0,Dale Weise,Hitter,Montréal Canadiens,Ryan Dzingel,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:45:27Z,1,16:16,03:44,Faceoff,n/a,-69.0,-22.0,Vincent Trocheck,Winner,Carolina Hurricanes,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:45:10Z,1,16:25,03:35,Shot,Backhand,-74.0,36.0,Brett Kulak,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:45:36Z,1,16:26,03:34,Faceoff,n/a,-69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:45:50Z,1,16:32,03:28,Faceoff,n/a,-69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:46:26Z,1,16:45,03:15,Hit,n/a,-87.0,35.0,Joel Armia,Hitter,Montréal Canadiens,Jaccob Slavin,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:47:16Z,1,17:37,02:23,Blocked Shot,n/a,-74.0,0.0,Brady Skjei,Blocker,Carolina Hurricanes,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:47:31Z,1,17:51,02:09,Shot,Wrist Shot,-75.0,36.0,Haydn Fleury,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:47:41Z,1,17:58,02:02,Shot,Wrist Shot,95.0,-14.0,Ben Chiarot,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:48:05Z,1,18:27,01:33,Shot,Slap Shot,51.0,-26.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:48:30Z,1,18:36,01:24,Takeaway,n/a,-33.0,-40.0,Nino Niederreiter,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:48:22Z,1,18:44,01:16,Hit,n/a,29.0,42.0,Jeff Petry,Hitter,Montréal Canadiens,Nino Niederreiter,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:48:30Z,1,18:49,01:11,Missed Shot,n/a,58.0,-38.0,Nino Niederreiter,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:49:00Z,1,18:55,01:05,Hit,n/a,89.0,-34.0,Martin Necas,Hitter,Carolina Hurricanes,Jeff Petry,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:48:45Z,1,18:56,01:04,Giveaway,n/a,35.0,-40.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:48:53Z,1,19:14,00:46,Takeaway,n/a,81.0,0.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:48:56Z,1,19:16,00:44,Shot,Wrist Shot,-19.0,-11.0,Max Domi,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:49:28Z,1,19:39,00:21,Giveaway,n/a,-42.0,-40.0,Jordan Martinook,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:49:29Z,1,19:50,00:10,Missed Shot,n/a,-69.0,-4.0,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:08:14Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:10:01Z,2,01:50,18:10,Hit,n/a,-67.0,-40.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Jake Gardiner,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:10:54Z,2,02:42,17:18,Hit,n/a,26.0,-40.0,Dale Weise,Hitter,Montréal Canadiens,Ryan Dzingel,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:10:55Z,2,02:43,17:17,Shot,Wrist Shot,-56.0,11.0,Brock McGinn,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:11:00Z,2,02:48,17:12,Missed Shot,n/a,-67.0,-1.0,Ryan Dzingel,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:11:00Z,2,02:50,17:10,Blocked Shot,n/a,-74.0,11.0,Xavier Ouellet,Blocker,Montréal Canadiens,Jordan Martinook,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:11:22Z,2,03:09,16:51,Missed Shot,n/a,80.0,1.0,Jake Evans,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:30:32Z,2,03:09,16:51,Faceoff,n/a,69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:18Z,2,03:22,16:38,Giveaway,n/a,-54.0,-40.0,Charlie Lindgren,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:30:32Z,2,03:31,16:29,Missed Shot,n/a,-82.0,-5.0,Nino Niederreiter,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:28Z,2,03:32,16:28,Giveaway,n/a,-45.0,-40.0,Max Domi,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:46Z,2,03:44,16:16,Shot,Wrist Shot,59.0,-33.0,Jordan Weal,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:13:02Z,2,03:46,16:14,Goal,Wrist Shot,77.0,5.0,Max Domi,Scorer,Montréal Canadiens,Paul Byron,Assist,Montréal Canadiens,Jordan Weal,Assist,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes
+2020-03-01T01:13:36Z,2,03:46,16:14,Faceoff,n/a,0.0,0.0,Sebastian Aho,Winner,Carolina Hurricanes,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:13:52Z,2,04:01,15:59,Shot,Wrist Shot,60.0,26.0,Tomas Tatar,Shooter,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:14:12Z,2,04:03,15:57,Goal,Slap Shot,56.0,-24.0,Brendan Gallagher,Scorer,Montréal Canadiens,Tomas Tatar,Assist,Montréal Canadiens,Phillip Danault,Assist,Montréal Canadiens,Anton Forsberg,Goalie,Carolina Hurricanes
+2020-03-01T01:15:14Z,2,04:03,15:57,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Teuvo Teravainen,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:16:01Z,2,04:39,15:21,Giveaway,n/a,-49.0,41.0,Ben Chiarot,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:17:14Z,2,05:25,14:35,Faceoff,n/a,-20.0,-22.0,Jake Evans,Winner,Montréal Canadiens,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:17:24Z,2,05:37,14:23,Giveaway,n/a,-45.0,40.0,Charles Hudon,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:17:31Z,2,05:45,14:15,Hit,n/a,46.0,40.0,Haydn Fleury,Hitter,Carolina Hurricanes,Jake Evans,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:18:08Z,2,06:21,13:39,Hit,n/a,-94.0,-28.0,Jordan Martinook,Hitter,Carolina Hurricanes,Christian Folin,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:20:30Z,2,06:27,13:33,Faceoff,n/a,20.0,-22.0,Vincent Trocheck,Winner,Carolina Hurricanes,Jordan Weal,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:21:01Z,2,06:56,13:04,Shot,Backhand,82.0,2.0,Jordan Weal,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:21:01Z,2,06:57,13:03,Blocked Shot,n/a,81.0,2.0,Jaccob Slavin,Blocker,Carolina Hurricanes,Jordan Weal,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:21:15Z,2,07:10,12:50,Hit,n/a,-97.0,17.0,Brett Kulak,Hitter,Montréal Canadiens,Andrei Svechnikov,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:29:05Z,2,07:12,12:48,Hit,n/a,-44.0,-40.0,Martin Necas,Hitter,Carolina Hurricanes,Jordan Weal,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:29:05Z,2,07:18,12:42,Hit,n/a,-5.0,-40.0,Jordan Weal,Hitter,Montréal Canadiens,Vincent Trocheck,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:21:46Z,2,07:39,12:21,Shot,Wrist Shot,-79.0,-8.0,Jordan Staal,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:22:17Z,2,07:41,12:19,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:22:26Z,2,07:45,12:15,Goal,Wrist Shot,-35.0,-6.0,Haydn Fleury,Scorer,Carolina Hurricanes,Jordan Staal,Assist,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a
+2020-03-01T01:23:29Z,2,07:45,12:15,Faceoff,n/a,0.0,0.0,Jake Evans,Winner,Montréal Canadiens,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:23:26Z,2,08:07,11:53,Blocked Shot,n/a,78.0,1.0,Haydn Fleury,Blocker,Carolina Hurricanes,Charles Hudon,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:23:41Z,2,08:21,11:39,Shot,Wrist Shot,66.0,40.0,Jake Evans,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:24:11Z,2,08:22,11:38,Faceoff,n/a,69.0,22.0,Vincent Trocheck,Winner,Carolina Hurricanes,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:24:35Z,2,08:44,11:16,Hit,n/a,-18.0,-40.0,Joel Armia,Hitter,Montréal Canadiens,Andrei Svechnikov,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:24:48Z,2,08:56,11:04,Missed Shot,n/a,32.0,8.0,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:25:56Z,2,09:35,10:25,Faceoff,n/a,20.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:26:18Z,2,09:49,10:11,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:26:38Z,2,09:51,10:09,Shot,Snap Shot,52.0,10.0,Jake Evans,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:28:25Z,2,11:44,08:16,Blocked Shot,n/a,56.0,13.0,Jordan Martinook,Blocker,Carolina Hurricanes,Xavier Ouellet,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:28:34Z,2,11:51,08:09,Blocked Shot,n/a,69.0,10.0,Trevor van Riemsdyk,Blocker,Carolina Hurricanes,Xavier Ouellet,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:28:46Z,2,12:05,07:55,Takeaway,n/a,-43.0,37.0,Joel Armia,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:28:53Z,2,12:09,07:51,Blocked Shot,n/a,71.0,5.0,Joel Edmundson,Blocker,Carolina Hurricanes,Jake Evans,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:29:06Z,2,12:12,07:48,Blocked Shot,n/a,79.0,-21.0,Jake Gardiner,Blocker,Carolina Hurricanes,Xavier Ouellet,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:29:05Z,2,12:14,07:46,Hit,n/a,94.0,28.0,Joel Armia,Hitter,Montréal Canadiens,Joel Edmundson,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:29:20Z,2,12:29,07:31,Hit,n/a,-95.0,23.0,Vincent Trocheck,Hitter,Carolina Hurricanes,Jeff Petry,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:30:21Z,2,13:40,06:20,Blocked Shot,n/a,47.0,20.0,Sebastian Aho,Blocker,Carolina Hurricanes,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:30:32Z,2,13:51,06:09,Shot,Wrist Shot,35.0,-2.0,Shea Weber,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:31:01Z,2,13:55,06:05,Faceoff,n/a,69.0,22.0,Max Domi,Winner,Montréal Canadiens,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:31:16Z,2,14:03,05:57,Shot,Snap Shot,32.0,-9.0,Shea Weber,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:33:40Z,2,14:04,05:56,Faceoff,n/a,69.0,-22.0,Jordan Weal,Winner,Montréal Canadiens,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:33:56Z,2,14:09,05:51,Faceoff,n/a,69.0,-22.0,Jordan Weal,Winner,Montréal Canadiens,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:34:10Z,2,14:16,05:44,Blocked Shot,n/a,78.0,-6.0,Haydn Fleury,Blocker,Carolina Hurricanes,Xavier Ouellet,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:34:37Z,2,14:42,05:18,Hit,n/a,-51.0,-40.0,Xavier Ouellet,Hitter,Montréal Canadiens,Nino Niederreiter,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:34:45Z,2,14:50,05:10,Shot,Wrist Shot,57.0,2.0,Xavier Ouellet,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:35:19Z,2,14:51,05:09,Faceoff,n/a,69.0,22.0,Vincent Trocheck,Winner,Carolina Hurricanes,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:35:41Z,2,15:03,04:57,Takeaway,n/a,21.0,41.0,Joel Armia,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:35:37Z,2,15:04,04:56,Giveaway,n/a,-36.0,39.0,Joel Armia,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:35:37Z,2,15:05,04:55,Shot,Wrist Shot,-78.0,16.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:35:54Z,2,15:12,04:48,Giveaway,n/a,-84.0,-37.0,Nick Suzuki,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:35:45Z,2,15:13,04:47,Blocked Shot,n/a,-83.0,-9.0,Nick Suzuki,Blocker,Montréal Canadiens,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:36:08Z,2,15:25,04:35,Giveaway,n/a,-31.0,14.0,Joel Armia,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:36:05Z,2,15:32,04:28,Blocked Shot,n/a,-81.0,-10.0,Jeff Petry,Blocker,Montréal Canadiens,Vincent Trocheck,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:36:18Z,2,15:37,04:23,Hit,n/a,-45.0,-39.0,Martin Necas,Hitter,Carolina Hurricanes,Artturi Lehkonen,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:38:17Z,2,15:39,04:21,Faceoff,n/a,-69.0,-22.0,Jake Evans,Winner,Montréal Canadiens,Jordan Martinook,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:38:49Z,2,16:04,03:56,Hit,n/a,91.0,-33.0,Dale Weise,Hitter,Montréal Canadiens,Jake Gardiner,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:39:01Z,2,16:16,03:44,Hit,n/a,29.0,41.0,Jake Gardiner,Hitter,Carolina Hurricanes,Dale Weise,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:39:17Z,2,16:32,03:28,Hit,n/a,96.0,22.0,Tomas Tatar,Hitter,Montréal Canadiens,Haydn Fleury,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:39:44Z,2,16:34,03:26,Faceoff,n/a,69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:40:10Z,2,17:00,03:00,Giveaway,n/a,58.0,40.0,Haydn Fleury,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:40:22Z,2,17:10,02:50,Hit,n/a,-94.0,-24.0,Ryan Dzingel,Hitter,Carolina Hurricanes,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:40:27Z,2,17:17,02:43,Giveaway,n/a,-66.0,23.0,Jordan Weal,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:41:15Z,2,17:59,02:01,Penalty,Slashing,-36.0,33.0,Justin Williams,PenaltyOn,Carolina Hurricanes,Max Domi,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:41:59Z,2,17:59,02:01,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Vincent Trocheck,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:42:08Z,2,18:03,01:57,Blocked Shot,n/a,51.0,1.0,Vincent Trocheck,Blocker,Carolina Hurricanes,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:42:14Z,2,18:09,01:51,Hit,n/a,56.0,-40.0,Vincent Trocheck,Hitter,Carolina Hurricanes,Nick Suzuki,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:42:19Z,2,18:12,01:48,Giveaway,n/a,42.0,25.0,Tomas Tatar,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:42:24Z,2,18:18,01:42,Missed Shot,n/a,-95.0,16.0,Vincent Trocheck,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:42:33Z,2,18:24,01:36,Shot,Backhand,-80.0,6.0,Vincent Trocheck,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:42:44Z,2,18:39,01:21,Giveaway,n/a,34.0,-20.0,Jaccob Slavin,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:43:28Z,2,19:22,00:38,Missed Shot,n/a,70.0,0.0,Joel Armia,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:44:00Z,2,19:44,00:16,Giveaway,n/a,40.0,-34.0,Jordan Martinook,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:43:54Z,2,19:48,00:12,Shot,Wrist Shot,83.0,-35.0,Jordan Weal,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:44:01Z,2,19:55,00:05,Shot,Wrist Shot,72.0,3.0,Charles Hudon,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:02:50Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Max Domi,Winner,Montréal Canadiens,Teuvo Teravainen,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:02:48Z,3,00:07,19:53,Hit,n/a,-9.0,-40.0,Brady Skjei,Hitter,Carolina Hurricanes,Paul Byron,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:03:01Z,3,00:20,19:40,Shot,Snap Shot,64.0,8.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:03:19Z,3,00:24,19:36,Hit,n/a,74.0,-40.0,Jordan Staal,Hitter,Carolina Hurricanes,Paul Byron,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:03:31Z,3,00:28,19:32,Faceoff,n/a,69.0,-22.0,Vincent Trocheck,Winner,Carolina Hurricanes,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:03:40Z,3,00:34,19:26,Shot,Wrist Shot,32.0,-35.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:03:42Z,3,00:36,19:24,Giveaway,n/a,76.0,-39.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:03:45Z,3,00:39,19:21,Blocked Shot,n/a,48.0,-23.0,Paul Byron,Blocker,Montréal Canadiens,Jaccob Slavin,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:03:54Z,3,00:48,19:12,Giveaway,n/a,34.0,25.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:03:58Z,3,00:53,19:07,Missed Shot,n/a,83.0,12.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:04:20Z,3,01:14,18:46,Goal,Wrist Shot,31.0,-30.0,Joel Edmundson,Scorer,Carolina Hurricanes,Martin Necas,Assist,Carolina Hurricanes,Jaccob Slavin,Assist,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens
+2020-03-01T02:05:09Z,3,01:14,18:46,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:05:20Z,3,01:28,18:32,Faceoff,n/a,-20.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:05:44Z,3,01:43,18:17,Giveaway,n/a,7.0,35.0,Justin Williams,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:05:50Z,3,01:49,18:11,Hit,n/a,-6.0,-40.0,Nino Niederreiter,Hitter,Carolina Hurricanes,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:05:59Z,3,01:58,18:02,Takeaway,n/a,-43.0,-21.0,Nick Suzuki,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:06:48Z,3,02:16,17:44,Faceoff,n/a,-20.0,22.0,Jake Evans,Winner,Montréal Canadiens,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:07:01Z,3,02:29,17:31,Hit,n/a,-95.0,29.0,Jordan Staal,Hitter,Carolina Hurricanes,Dale Weise,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:07:10Z,3,02:38,17:22,Hit,n/a,-16.0,41.0,Dale Weise,Hitter,Montréal Canadiens,Trevor van Riemsdyk,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:07:46Z,3,03:15,16:45,Blocked Shot,n/a,-74.0,-4.0,Jaccob Slavin,Blocker,Carolina Hurricanes,Paul Byron,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:08:25Z,3,03:53,16:07,Shot,Wrist Shot,-45.0,-1.0,Tomas Tatar,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:08:33Z,3,04:00,16:00,Shot,Wrist Shot,-60.0,41.0,Brendan Gallagher,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:09:08Z,3,04:01,15:59,Faceoff,n/a,-69.0,22.0,Vincent Trocheck,Winner,Carolina Hurricanes,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:09:38Z,3,04:08,15:52,Faceoff,n/a,20.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:10:08Z,3,04:35,15:25,Missed Shot,n/a,-81.0,-9.0,Nick Suzuki,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:10:19Z,3,04:46,15:14,Giveaway,n/a,33.0,40.0,Shea Weber,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:10:57Z,3,05:14,14:46,Giveaway,n/a,-44.0,36.0,Jake Gardiner,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:11:07Z,3,05:34,14:26,Shot,Wrist Shot,-59.0,27.0,Tomas Tatar,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:11:24Z,3,05:52,14:08,Blocked Shot,n/a,23.0,26.0,Phillip Danault,Blocker,Montréal Canadiens,Nino Niederreiter,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:11:44Z,3,05:58,14:02,Faceoff,n/a,69.0,-22.0,Max Domi,Winner,Montréal Canadiens,Vincent Trocheck,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:12:07Z,3,06:09,13:51,Giveaway,n/a,96.0,8.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:12:17Z,3,06:19,13:41,Shot,Tip-In,73.0,6.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:12:51Z,3,06:20,13:40,Shot,Wrist Shot,86.0,9.0,Vincent Trocheck,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:14:50Z,3,06:21,13:39,Faceoff,n/a,69.0,22.0,Jake Evans,Winner,Montréal Canadiens,Vincent Trocheck,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:15:06Z,3,06:23,13:37,Hit,n/a,88.0,35.0,Andrei Svechnikov,Hitter,Carolina Hurricanes,Shea Weber,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:15:38Z,3,06:38,13:22,Penalty,Embellishment,79.0,-31.0,Vincent Trocheck,PenaltyOn,Carolina Hurricanes,Ben Chiarot,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:15:48Z,3,06:38,13:22,Penalty,Cross checking,77.0,-35.0,Ben Chiarot,PenaltyOn,Montréal Canadiens,Vincent Trocheck,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:16:22Z,3,06:38,13:22,Faceoff,n/a,69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:17:07Z,3,07:35,12:25,Blocked Shot,n/a,-62.0,-13.0,Jaccob Slavin,Blocker,Carolina Hurricanes,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:17:47Z,3,08:15,11:45,Missed Shot,n/a,75.0,28.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:17:53Z,3,08:19,11:41,Hit,n/a,90.0,-31.0,Jeff Petry,Hitter,Montréal Canadiens,Andrei Svechnikov,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:18:00Z,3,08:27,11:33,Shot,Wrist Shot,76.0,-14.0,Sebastian Aho,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:18:11Z,3,08:36,11:24,Shot,Wrist Shot,-65.0,20.0,Nick Suzuki,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:18:47Z,3,08:37,11:23,Faceoff,n/a,-69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:19:26Z,3,09:03,10:57,Hit,n/a,-71.0,-40.0,Jordan Staal,Hitter,Carolina Hurricanes,Phillip Danault,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:19:39Z,3,09:06,10:54,Hit,n/a,-74.0,-40.0,Brady Skjei,Hitter,Carolina Hurricanes,Phillip Danault,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:19:40Z,3,09:16,10:44,Shot,Wrist Shot,-59.0,18.0,Tomas Tatar,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:37:39Z,3,09:17,10:43,Faceoff,n/a,-69.0,22.0,Jordan Weal,Winner,Montréal Canadiens,Vincent Trocheck,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:20:31Z,3,09:19,10:41,Blocked Shot,n/a,-77.0,-1.0,Haydn Fleury,Blocker,Carolina Hurricanes,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:23:39Z,3,09:24,10:36,Giveaway,n/a,-38.0,-40.0,Trevor van Riemsdyk,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:20:47Z,3,09:30,10:30,Blocked Shot,n/a,67.0,-18.0,Jeff Petry,Blocker,Montréal Canadiens,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:21:03Z,3,09:32,10:28,Shot,Wrist Shot,68.0,0.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:20:48Z,3,09:34,10:26,Giveaway,n/a,66.0,0.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:20:55Z,3,09:36,10:24,Penalty,Interference - Goalkeeper,86.0,0.0,Andrei Svechnikov,PenaltyOn,Carolina Hurricanes,Charlie Lindgren,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:21:38Z,3,09:36,10:24,Faceoff,n/a,-69.0,-22.0,Max Domi,Winner,Montréal Canadiens,Vincent Trocheck,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:22:05Z,3,09:46,10:14,Blocked Shot,n/a,-52.0,13.0,Jordan Staal,Blocker,Carolina Hurricanes,Charles Hudon,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:23:06Z,3,10:47,09:13,Blocked Shot,n/a,-53.0,-8.0,Teuvo Teravainen,Blocker,Carolina Hurricanes,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:23:18Z,3,10:58,09:02,Blocked Shot,n/a,-65.0,2.0,Haydn Fleury,Blocker,Carolina Hurricanes,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:23:57Z,3,11:07,08:53,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Vincent Trocheck,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:24:41Z,3,11:48,08:12,Penalty,Tripping,-87.0,25.0,Phillip Danault,PenaltyOn,Montréal Canadiens,Joel Edmundson,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:26:57Z,3,11:48,08:12,Faceoff,n/a,69.0,22.0,Jake Evans,Winner,Montréal Canadiens,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:27:30Z,3,12:22,07:38,Missed Shot,n/a,70.0,1.0,Justin Williams,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:31:04Z,3,13:00,07:00,Shot,Wrist Shot,61.0,17.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:28:17Z,3,13:08,06:52,Blocked Shot,n/a,69.0,-2.0,Paul Byron,Blocker,Montréal Canadiens,Jaccob Slavin,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:28:53Z,3,13:09,06:51,Faceoff,n/a,69.0,-22.0,Vincent Trocheck,Winner,Carolina Hurricanes,Jake Evans,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:29:20Z,3,13:14,06:46,Blocked Shot,n/a,69.0,0.0,Jeff Petry,Blocker,Montréal Canadiens,Martin Necas,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:29:52Z,3,13:47,06:13,Blocked Shot,n/a,69.0,-17.0,Xavier Ouellet,Blocker,Montréal Canadiens,Nino Niederreiter,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:29:54Z,3,13:48,06:12,Giveaway,n/a,33.0,-26.0,Xavier Ouellet,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:30:01Z,3,13:55,06:05,Missed Shot,n/a,36.0,2.0,Jake Gardiner,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:30:25Z,3,14:19,05:41,Missed Shot,n/a,-63.0,-38.0,Phillip Danault,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:33:26Z,3,14:48,05:12,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Vincent Trocheck,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:33:20Z,3,14:53,05:07,Shot,Slap Shot,-44.0,-37.0,Shea Weber,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:33:29Z,3,15:02,04:58,Shot,Wrist Shot,-36.0,-15.0,Shea Weber,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:33:52Z,3,15:25,04:35,Giveaway,n/a,52.0,-40.0,Ben Chiarot,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:33:57Z,3,15:29,04:31,Hit,n/a,95.0,-26.0,Shea Weber,Hitter,Montréal Canadiens,Vincent Trocheck,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:33:59Z,3,15:31,04:29,Shot,Wrist Shot,32.0,-11.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:34:31Z,3,15:32,04:28,Faceoff,n/a,69.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:34:36Z,3,15:42,04:18,Giveaway,n/a,-36.0,-37.0,Nino Niederreiter,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:37:39Z,3,15:43,04:17,Shot,Snap Shot,-69.0,-37.0,Paul Byron,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:34:39Z,3,15:45,04:15,Shot,Wrist Shot,-60.0,-20.0,Brett Kulak,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:34:49Z,3,15:55,04:05,Missed Shot,n/a,-62.0,-35.0,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:35:13Z,3,16:17,03:43,Giveaway,n/a,35.0,3.0,Joel Armia,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:35:15Z,3,16:19,03:41,Shot,Tip-In,79.0,3.0,Sebastian Aho,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:35:41Z,3,16:48,03:12,Blocked Shot,n/a,72.0,-2.0,Xavier Ouellet,Blocker,Montréal Canadiens,Joel Edmundson,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:36:11Z,3,17:05,02:55,Takeaway,n/a,-98.0,2.0,Tomas Tatar,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:36:30Z,3,17:10,02:50,Faceoff,n/a,-69.0,-22.0,Vincent Trocheck,Winner,Carolina Hurricanes,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:36:48Z,3,17:22,02:38,Hit,n/a,93.0,-32.0,Vincent Trocheck,Hitter,Carolina Hurricanes,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:37:29Z,3,18:06,01:54,Shot,Wrap-around,-87.0,5.0,Brett Kulak,Shooter,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:37:38Z,3,18:06,01:54,Giveaway,n/a,-95.0,7.0,Nino Niederreiter,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:38:05Z,3,18:21,01:39,Giveaway,n/a,51.0,-38.0,Brett Kulak,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:37:55Z,3,18:33,01:27,Hit,n/a,93.0,-32.0,Jeff Petry,Hitter,Montréal Canadiens,Nino Niederreiter,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:38:08Z,3,18:43,01:17,Goal,Tip-In,67.0,-1.0,Justin Williams,Scorer,Carolina Hurricanes,Joel Edmundson,Assist,Carolina Hurricanes,Teuvo Teravainen,Assist,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens
+2020-03-01T02:39:10Z,3,18:43,01:17,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:39:28Z,3,18:48,01:12,Faceoff,n/a,0.0,0.0,Nick Suzuki,Winner,Montréal Canadiens,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:39:50Z,3,19:05,00:55,Missed Shot,n/a,-47.0,37.0,Joel Armia,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:40:29Z,3,19:45,00:15,Missed Shot,n/a,-50.0,-33.0,Phillip Danault,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:40:41Z,3,19:57,00:03,Shot,Wrist Shot,49.0,-29.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:40:42Z,3,19:59,00:01,Shot,Wrist Shot,77.0,1.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:53:00Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Vincent Trocheck,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:43:37Z,4,00:29,04:31,Blocked Shot,n/a,78.0,2.0,Jaccob Slavin,Blocker,Carolina Hurricanes,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:43:55Z,4,00:47,04:13,Shot,Wrist Shot,-32.0,36.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Charlie Lindgren,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:44:04Z,4,00:52,04:08,Goal,Wrist Shot,74.0,-1.0,Jeff Petry,Scorer,Montréal Canadiens,Tomas Tatar,Assist,Montréal Canadiens,Alex Nedeljkovic,Goalie,Carolina Hurricanes,n/a,n/a,n/a

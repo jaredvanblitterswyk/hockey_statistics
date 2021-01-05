@@ -1,0 +1,291 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-20T02:07:39Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:08:59Z,1,00:28,19:32,Shot,Wrist Shot,46.0,24.0,Tomas Tatar,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:09:19Z,1,00:49,19:11,Shot,Wrist Shot,-72.0,-34.0,Sean Monahan,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:09:29Z,1,00:59,19:01,Hit,n/a,91.0,-34.0,Mikael Backlund,Hitter,Calgary Flames,Max Domi,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:09:31Z,1,01:00,19:00,Missed Shot,n/a,79.0,-25.0,Joel Armia,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:17:35Z,1,01:05,18:55,Hit,n/a,95.0,23.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Travis Hamonic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:10:14Z,1,01:44,18:16,Blocked Shot,n/a,-78.0,-2.0,Mike Reilly,Blocker,Montréal Canadiens,Oliver Kylington,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:10:23Z,1,01:52,18:08,Shot,Wrist Shot,32.0,28.0,Mike Reilly,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:11:50Z,1,02:32,17:28,Faceoff,n/a,-69.0,-22.0,Tobias Rieder,Winner,Calgary Flames,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:11:51Z,1,02:35,17:25,Hit,n/a,-38.0,-41.0,Nate Thompson,Hitter,Montréal Canadiens,Noah Hanifin,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:11:54Z,1,02:49,17:11,Blocked Shot,n/a,79.0,6.0,Travis Hamonic,Blocker,Calgary Flames,Riley Barber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:12:13Z,1,03:09,16:51,Missed Shot,n/a,-55.0,4.0,Sam Bennett,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:12:38Z,1,03:31,16:29,Giveaway,n/a,-52.0,37.0,Tomas Tatar,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:12:38Z,1,03:33,16:27,Shot,Wrist Shot,-57.0,4.0,Andrew Mangiapane,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:13:00Z,1,03:44,16:16,Faceoff,n/a,20.0,22.0,Elias Lindholm,Winner,Calgary Flames,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:13:50Z,1,04:20,15:40,Shot,Wrist Shot,-39.0,-19.0,Mark Giordano,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:14:17Z,1,04:47,15:13,Giveaway,n/a,78.0,33.0,Rasmus Andersson,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:14:20Z,1,04:50,15:10,Shot,Slap Shot,81.0,-23.0,Max Domi,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:14:34Z,1,05:04,14:56,Takeaway,n/a,-77.0,-19.0,Sean Monahan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:14:39Z,1,05:09,14:51,Shot,Wrist Shot,-69.0,-9.0,Sean Monahan,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:14:50Z,1,05:20,14:40,Hit,n/a,-61.0,-41.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Oliver Kylington,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:15:18Z,1,05:48,14:12,Shot,Wrist Shot,87.0,-7.0,Nick Suzuki,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:15:22Z,1,05:51,14:09,Shot,Slap Shot,35.0,-28.0,Cale Fleury,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:15:31Z,1,05:51,14:09,Faceoff,n/a,69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:16:00Z,1,06:01,13:59,Hit,n/a,14.0,41.0,Nick Cousins,Hitter,Montréal Canadiens,Milan Lucic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:16:13Z,1,06:14,13:46,Shot,Wrist Shot,-47.0,13.0,Travis Hamonic,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:18:09Z,1,06:14,13:46,Faceoff,n/a,-69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Tobias Rieder,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:18:48Z,1,06:25,13:35,Shot,Wrist Shot,48.0,-4.0,Ryan Poehling,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:19:08Z,1,06:42,13:18,Hit,n/a,63.0,40.0,Brett Kulak,Hitter,Montréal Canadiens,Michael Frolik,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:19:51Z,1,07:28,12:32,Takeaway,n/a,-96.0,-4.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:19:57Z,1,07:33,12:27,Takeaway,n/a,-68.0,-9.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:20:02Z,1,07:34,12:26,Goal,Wrist Shot,-80.0,10.0,Matthew Tkachuk,Scorer,Calgary Flames,Elias Lindholm,Assist,Calgary Flames,Andrew Mangiapane,Assist,Calgary Flames,Carey Price,Goalie,Montréal Canadiens
+2019-12-20T02:20:36Z,1,07:34,12:26,Faceoff,n/a,0.0,0.0,Max Domi,Winner,Montréal Canadiens,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:21:13Z,1,07:59,12:01,Hit,n/a,-98.0,-15.0,Shea Weber,Hitter,Montréal Canadiens,Dillon Dube,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:21:44Z,1,08:08,11:52,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:22:02Z,1,08:13,11:47,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Jordan Weal,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:22:38Z,1,08:26,11:34,Blocked Shot,n/a,76.0,-10.0,Oliver Kylington,Blocker,Calgary Flames,Jordan Weal,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:22:50Z,1,08:27,11:33,Faceoff,n/a,69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Jordan Weal,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:23:22Z,1,08:43,11:17,Giveaway,n/a,-67.0,-39.0,Mike Reilly,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:24:00Z,1,09:21,10:39,Hit,n/a,-96.0,-9.0,Sam Bennett,Hitter,Calgary Flames,Nate Thompson,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:24:15Z,1,09:37,10:23,Blocked Shot,n/a,-73.0,-10.0,Jeff Petry,Blocker,Montréal Canadiens,Sam Bennett,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:24:44Z,1,10:05,09:55,Blocked Shot,n/a,-66.0,-7.0,Brendan Gallagher,Blocker,Montréal Canadiens,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:25:06Z,1,10:27,09:33,Giveaway,n/a,81.0,28.0,TJ Brodie,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:25:18Z,1,10:40,09:20,Hit,n/a,-97.0,-17.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Dillon Dube,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:27:15Z,1,10:47,09:13,Faceoff,n/a,0.0,0.0,Sean Monahan,Winner,Calgary Flames,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:28:45Z,1,11:37,08:23,Shot,Backhand,77.0,-7.0,Nick Cousins,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:28:54Z,1,11:46,08:14,Shot,Wrist Shot,-85.0,-27.0,Milan Lucic,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:29:02Z,1,11:55,08:05,Hit,n/a,-42.0,39.0,Jordan Weal,Hitter,Montréal Canadiens,TJ Brodie,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:29:37Z,1,12:29,07:31,Takeaway,n/a,57.0,-38.0,Oliver Kylington,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:29:40Z,1,12:32,07:28,Giveaway,n/a,85.0,-37.0,Oliver Kylington,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:29:41Z,1,12:33,07:27,Shot,Wrist Shot,84.0,22.0,Nate Thompson,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:29:52Z,1,12:42,07:18,Giveaway,n/a,-55.0,1.0,Brett Kulak,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:29:56Z,1,12:47,07:13,Shot,Wrist Shot,-47.0,11.0,Michael Frolik,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:30:24Z,1,12:47,07:13,Faceoff,n/a,-69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:30:35Z,1,12:55,07:05,Takeaway,n/a,-74.0,-17.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:30:41Z,1,13:01,06:59,Missed Shot,n/a,-70.0,1.0,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:30:44Z,1,13:05,06:55,Hit,n/a,-95.0,-15.0,Ben Chiarot,Hitter,Montréal Canadiens,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:31:30Z,1,13:10,06:50,Faceoff,n/a,20.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:31:38Z,1,13:21,06:39,Giveaway,n/a,97.0,11.0,David Rittich,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:32:02Z,1,13:26,06:34,Faceoff,n/a,-69.0,-22.0,Max Domi,Winner,Montréal Canadiens,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:32:40Z,1,13:35,06:25,Giveaway,n/a,43.0,37.0,Brett Kulak,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:32:58Z,1,13:53,06:07,Blocked Shot,n/a,82.0,3.0,Dillon Dube,Blocker,Calgary Flames,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:33:05Z,1,14:01,05:59,Hit,n/a,77.0,39.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Dillon Dube,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:33:46Z,1,14:42,05:18,Missed Shot,n/a,88.0,22.0,Mike Reilly,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:33:53Z,1,14:47,05:13,Shot,Wrist Shot,51.0,-29.0,Mike Reilly,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:35:43Z,1,14:47,05:13,Faceoff,n/a,69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:36:14Z,1,14:53,05:07,Blocked Shot,n/a,49.0,10.0,Andrew Mangiapane,Blocker,Calgary Flames,Phillip Danault,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:36:22Z,1,15:00,05:00,Shot,Deflected,81.0,-2.0,Brendan Gallagher,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:36:46Z,1,15:03,04:57,Faceoff,n/a,-20.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:50:48Z,1,15:12,04:48,Faceoff,n/a,20.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Tobias Rieder,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:37:54Z,1,15:28,04:32,Missed Shot,n/a,53.0,-13.0,Ryan Poehling,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:38:11Z,1,15:45,04:15,Blocked Shot,n/a,67.0,4.0,Rasmus Andersson,Blocker,Calgary Flames,Riley Barber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:47:12Z,1,16:00,04:00,Missed Shot,n/a,-82.0,-6.0,Tobias Rieder,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:38:37Z,1,16:12,03:48,Missed Shot,n/a,-34.0,1.0,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:38:40Z,1,16:15,03:45,Hit,n/a,23.0,-22.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Noah Hanifin,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:39:02Z,1,16:37,03:23,Giveaway,n/a,-89.0,32.0,Sean Monahan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:39:42Z,1,16:40,03:20,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:41:27Z,1,16:56,03:04,Shot,Tip-In,-22.0,4.0,Noah Hanifin,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:41:40Z,1,17:04,02:56,Shot,Wrist Shot,56.0,-14.0,Nick Suzuki,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:41:40Z,1,17:08,02:52,Missed Shot,n/a,73.0,-16.0,Nick Suzuki,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:42:11Z,1,17:12,02:48,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Nick Cousins,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:42:30Z,1,17:28,02:32,Shot,Wrist Shot,74.0,-18.0,Jordan Weal,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:42:42Z,1,17:40,02:20,Blocked Shot,n/a,51.0,19.0,Johnny Gaudreau,Blocker,Calgary Flames,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:43:08Z,1,18:06,01:54,Missed Shot,n/a,83.0,7.0,Nick Cousins,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:43:18Z,1,18:15,01:45,Blocked Shot,n/a,79.0,2.0,Rasmus Andersson,Blocker,Calgary Flames,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:43:50Z,1,18:25,01:35,Faceoff,n/a,-69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:44:20Z,1,18:39,01:21,Giveaway,n/a,97.0,-8.0,David Rittich,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:45:47Z,1,18:42,01:18,Shot,Wrist Shot,80.0,4.0,Brendan Gallagher,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:44:24Z,1,18:44,01:16,Shot,Snap Shot,71.0,7.0,Brendan Gallagher,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:44:49Z,1,19:03,00:57,Penalty,Tripping,40.0,-23.0,Phillip Danault,PenaltyOn,Montréal Canadiens,Noah Hanifin,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:45:19Z,1,19:03,00:57,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:45:48Z,1,19:12,00:48,Blocked Shot,n/a,-50.0,-4.0,Joel Armia,Blocker,Montréal Canadiens,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:46:04Z,1,19:29,00:31,Blocked Shot,n/a,-63.0,-1.0,Shea Weber,Blocker,Montréal Canadiens,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:46:24Z,1,19:49,00:11,Missed Shot,n/a,-53.0,16.0,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T02:46:33Z,1,19:52,00:08,Goal,Wrist Shot,-87.0,-4.0,Elias Lindholm,Scorer,Calgary Flames,Matthew Tkachuk,Assist,Calgary Flames,Johnny Gaudreau,Assist,Calgary Flames,Carey Price,Goalie,Montréal Canadiens
+2019-12-20T02:47:12Z,1,19:52,00:08,Faceoff,n/a,0.0,0.0,Mikael Backlund,Winner,Calgary Flames,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:05:47Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:05:59Z,2,00:09,19:51,Takeaway,n/a,40.0,-39.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:06:18Z,2,00:28,19:32,Hit,n/a,-94.0,28.0,Tomas Tatar,Hitter,Montréal Canadiens,Mark Giordano,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:07:05Z,2,01:14,18:46,Takeaway,n/a,37.0,11.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:07:16Z,2,01:26,18:34,Giveaway,n/a,-96.0,22.0,Travis Hamonic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:07:25Z,2,01:34,18:26,Takeaway,n/a,-52.0,35.0,Jordan Weal,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:07:47Z,2,01:57,18:03,Missed Shot,n/a,-73.0,-39.0,Jordan Weal,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:08:09Z,2,02:01,17:59,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:08:33Z,2,02:12,17:48,Blocked Shot,n/a,79.0,-7.0,Mike Reilly,Blocker,Montréal Canadiens,Derek Ryan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:09:06Z,2,02:42,17:18,Giveaway,n/a,-95.0,-16.0,Ryan Poehling,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:09:30Z,2,03:09,16:51,Hit,n/a,-98.0,8.0,Phillip Danault,Hitter,Montréal Canadiens,Mark Giordano,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:09:49Z,2,03:28,16:32,Shot,Wrist Shot,42.0,21.0,Mark Giordano,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:10:01Z,2,03:40,16:20,Shot,Wrist Shot,83.0,4.0,Sam Bennett,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:10:07Z,2,03:46,16:14,Blocked Shot,n/a,63.0,5.0,Brendan Gallagher,Blocker,Montréal Canadiens,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:10:19Z,2,03:57,16:03,Shot,Slap Shot,47.0,-19.0,Travis Hamonic,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:10:32Z,2,03:57,16:03,Faceoff,n/a,69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:11:35Z,2,04:38,15:22,Giveaway,n/a,59.0,23.0,Ben Chiarot,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:12:17Z,2,05:24,14:36,Shot,Wrist Shot,-45.0,-16.0,Nick Suzuki,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:12:40Z,2,05:24,14:36,Faceoff,n/a,-69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:12:56Z,2,05:28,14:32,Shot,Wrist Shot,-59.0,-11.0,Riley Barber,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:13:07Z,2,05:35,14:25,Blocked Shot,n/a,-84.0,-11.0,Mark Giordano,Blocker,Calgary Flames,Riley Barber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:13:15Z,2,05:47,14:13,Shot,Wrap-around,-89.0,-4.0,Ryan Poehling,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:13:29Z,2,05:51,14:09,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:13:48Z,2,06:00,14:00,Missed Shot,n/a,-31.0,0.0,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:13:54Z,2,06:07,13:53,Missed Shot,n/a,-84.0,7.0,Brendan Gallagher,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:14:08Z,2,06:21,13:39,Takeaway,n/a,-59.0,-38.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:14:22Z,2,06:33,13:27,Shot,Wrist Shot,-46.0,11.0,Phillip Danault,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:16:14Z,2,06:33,13:27,Faceoff,n/a,-69.0,22.0,Max Domi,Winner,Montréal Canadiens,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:16:57Z,2,06:54,13:06,Missed Shot,n/a,-53.0,-19.0,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:17:05Z,2,07:02,12:58,Hit,n/a,-30.0,25.0,Mark Giordano,Hitter,Calgary Flames,Artturi Lehkonen,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:17:25Z,2,07:16,12:44,Shot,Wrist Shot,77.0,0.0,Matthew Tkachuk,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:18:01Z,2,07:58,12:02,Hit,n/a,91.0,-29.0,Sean Monahan,Hitter,Calgary Flames,Brett Kulak,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:18:22Z,2,08:07,11:53,Faceoff,n/a,69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:18:47Z,2,08:20,11:40,Takeaway,n/a,-97.0,4.0,Jordan Weal,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:18:52Z,2,08:24,11:36,Giveaway,n/a,4.0,14.0,Nate Thompson,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:19:30Z,2,09:03,10:57,Shot,Snap Shot,46.0,-25.0,Travis Hamonic,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:19:37Z,2,09:10,10:50,Missed Shot,n/a,65.0,18.0,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:19:42Z,2,09:15,10:45,Giveaway,n/a,68.0,-20.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:20:17Z,2,09:46,10:14,Goal,Wrist Shot,-94.0,-29.0,Brendan Gallagher,Scorer,Montréal Canadiens,Shea Weber,Assist,Montréal Canadiens,Artturi Lehkonen,Assist,Montréal Canadiens,David Rittich,Goalie,Calgary Flames
+2019-12-20T03:20:54Z,2,09:46,10:14,Faceoff,n/a,0.0,0.0,Tobias Rieder,Winner,Calgary Flames,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:21:08Z,2,09:51,10:09,Faceoff,n/a,0.0,0.0,Max Domi,Winner,Montréal Canadiens,Tobias Rieder,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:21:38Z,2,10:01,09:59,Blocked Shot,n/a,-51.0,-15.0,TJ Brodie,Blocker,Calgary Flames,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:23:40Z,2,10:01,09:59,Faceoff,n/a,-69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:24:21Z,2,10:17,09:43,Shot,Wrist Shot,-56.0,21.0,Nick Suzuki,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:24:39Z,2,10:17,09:43,Faceoff,n/a,-69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Tobias Rieder,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:24:56Z,2,10:21,09:39,Shot,Wrist Shot,-39.0,17.0,Cale Fleury,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:25:00Z,2,10:24,09:36,Giveaway,n/a,-36.0,-38.0,Mike Reilly,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:25:05Z,2,10:26,09:34,Hit,n/a,-74.0,-39.0,Nick Cousins,Hitter,Montréal Canadiens,Travis Hamonic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:25:27Z,2,10:52,09:08,Missed Shot,n/a,40.0,21.0,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:25:42Z,2,11:08,08:52,Missed Shot,n/a,42.0,-28.0,Travis Hamonic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:25:47Z,2,11:12,08:48,Giveaway,n/a,40.0,36.0,Milan Lucic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:26:31Z,2,11:56,08:04,Missed Shot,n/a,-84.0,6.0,Ryan Poehling,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:26:35Z,2,12:01,07:59,Takeaway,n/a,-86.0,7.0,TJ Brodie,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:26:48Z,2,12:13,07:47,Giveaway,n/a,83.0,33.0,Nate Thompson,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:26:48Z,2,12:14,07:46,Missed Shot,n/a,58.0,11.0,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:26:59Z,2,12:24,07:36,Shot,Wrist Shot,77.0,-6.0,Andrew Mangiapane,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:27:37Z,2,12:24,07:36,Faceoff,n/a,69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:27:44Z,2,12:30,07:30,Giveaway,n/a,37.0,-14.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:27:50Z,2,12:36,07:24,Takeaway,n/a,-20.0,19.0,Elias Lindholm,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:27:55Z,2,12:41,07:19,Missed Shot,n/a,78.0,-6.0,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:28:01Z,2,12:46,07:14,Giveaway,n/a,39.0,15.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:28:08Z,2,12:52,07:08,Hit,n/a,-20.0,-39.0,Elias Lindholm,Hitter,Calgary Flames,Tomas Tatar,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:28:27Z,2,13:11,06:49,Goal,Wrist Shot,-48.0,-5.0,Joel Armia,Scorer,Montréal Canadiens,Artturi Lehkonen,Assist,Montréal Canadiens,Ben Chiarot,Assist,Montréal Canadiens,David Rittich,Goalie,Calgary Flames
+2019-12-20T03:31:04Z,2,13:11,06:49,Penalty,Missing key [PD_151],-29.0,38.0,Matthew Tkachuk,PenaltyOn,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:31:39Z,2,13:11,06:49,Faceoff,n/a,0.0,0.0,Jordan Weal,Winner,Montréal Canadiens,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:32:38Z,2,14:12,05:48,Blocked Shot,n/a,-68.0,-12.0,TJ Brodie,Blocker,Calgary Flames,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:32:41Z,2,14:15,05:45,Hit,n/a,-94.0,-24.0,Jeff Petry,Hitter,Montréal Canadiens,TJ Brodie,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:33:07Z,2,14:42,05:18,Missed Shot,n/a,60.0,-10.0,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:33:44Z,2,15:18,04:42,Missed Shot,n/a,-71.0,-26.0,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:33:54Z,2,15:29,04:31,Blocked Shot,n/a,-71.0,-11.0,Travis Hamonic,Blocker,Calgary Flames,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:33:57Z,2,15:31,04:29,Shot,Wrist Shot,-65.0,4.0,Phillip Danault,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:34:22Z,2,15:56,04:04,Shot,Wrist Shot,-54.0,-11.0,Ben Chiarot,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:34:28Z,2,16:02,03:58,Shot,Wrist Shot,-71.0,-3.0,Shea Weber,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:34:33Z,2,16:03,03:57,Missed Shot,n/a,-73.0,0.0,Nate Thompson,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:34:51Z,2,16:24,03:36,Shot,Wrist Shot,69.0,19.0,Andrew Mangiapane,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:37:22Z,2,16:24,03:36,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:37:47Z,2,16:47,03:13,Giveaway,n/a,30.0,-15.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:37:51Z,2,16:49,03:11,Penalty,Tripping,15.0,-12.0,Sean Monahan,PenaltyOn,Calgary Flames,Max Domi,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:38:24Z,2,16:49,03:11,Faceoff,n/a,-69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:39:24Z,2,17:45,02:15,Giveaway,n/a,-72.0,-5.0,Travis Hamonic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:39:45Z,2,18:04,01:56,Shot,Wrist Shot,-57.0,15.0,Nick Suzuki,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:40:06Z,2,18:04,01:56,Faceoff,n/a,-69.0,22.0,Jordan Weal,Winner,Montréal Canadiens,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:40:18Z,2,18:12,01:48,Shot,Slap Shot,-35.0,-18.0,Shea Weber,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:40:32Z,2,18:25,01:35,Shot,Wrist Shot,-73.0,-6.0,Max Domi,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:40:40Z,2,18:34,01:26,Shot,Tip-In,-80.0,3.0,Nick Cousins,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:41:15Z,2,19:08,00:52,Shot,Wrist Shot,-69.0,-24.0,Joel Armia,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:42:04Z,2,19:09,00:51,Faceoff,n/a,-69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:42:19Z,2,19:32,00:28,Hit,n/a,85.0,-35.0,Ben Chiarot,Hitter,Montréal Canadiens,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:42:38Z,2,19:50,00:10,Blocked Shot,n/a,-52.0,-2.0,Mark Giordano,Blocker,Calgary Flames,Ryan Poehling,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T03:43:01Z,2,19:50,00:10,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:01:45Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:02:38Z,3,00:22,19:38,Faceoff,n/a,69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:02:54Z,3,00:33,19:27,Hit,n/a,-33.0,26.0,Jeff Petry,Hitter,Montréal Canadiens,Sean Monahan,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:03:05Z,3,00:43,19:17,Giveaway,n/a,-60.0,40.0,Artturi Lehkonen,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:03:11Z,3,00:49,19:11,Giveaway,n/a,-43.0,-39.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:03:51Z,3,01:27,18:33,Giveaway,n/a,96.0,20.0,Oliver Kylington,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:04:51Z,3,02:30,17:30,Blocked Shot,n/a,-84.0,10.0,Brett Kulak,Blocker,Montréal Canadiens,Tobias Rieder,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:04:59Z,3,02:37,17:23,Giveaway,n/a,-47.0,38.0,Brett Kulak,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:05:01Z,3,02:39,17:21,Shot,Wrist Shot,-82.0,1.0,Tobias Rieder,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:05:51Z,3,02:39,17:21,Faceoff,n/a,-69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:06:00Z,3,02:46,17:14,Takeaway,n/a,-2.0,21.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:06:09Z,3,02:55,17:05,Hit,n/a,-98.0,8.0,Elias Lindholm,Hitter,Calgary Flames,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:06:21Z,3,03:07,16:53,Hit,n/a,93.0,30.0,Phillip Danault,Hitter,Montréal Canadiens,Travis Hamonic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:06:55Z,3,03:41,16:19,Missed Shot,n/a,-54.0,-17.0,Sean Monahan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:06:59Z,3,03:45,16:15,Shot,Wrist Shot,-33.0,27.0,TJ Brodie,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:07:28Z,3,03:45,16:15,Faceoff,n/a,-69.0,22.0,Derek Ryan,Winner,Calgary Flames,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:08:02Z,3,04:13,15:47,Shot,Wrist Shot,-79.0,1.0,Derek Ryan,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:09:04Z,3,04:13,15:47,Faceoff,n/a,-69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Tobias Rieder,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:09:44Z,3,04:42,15:18,Missed Shot,n/a,62.0,-17.0,Cale Fleury,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:09:50Z,3,04:48,15:12,Takeaway,n/a,93.0,27.0,Rasmus Andersson,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:10:18Z,3,05:10,14:50,Penalty,Roughing,-66.0,-28.0,Tobias Rieder,PenaltyOn,Calgary Flames,Mike Reilly,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:10:28Z,3,05:10,14:50,Penalty,Roughing,-61.0,-26.0,Mike Reilly,PenaltyOn,Montréal Canadiens,Tobias Rieder,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:11:09Z,3,05:10,14:50,Faceoff,n/a,20.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:11:25Z,3,05:18,14:42,Giveaway,n/a,17.0,-34.0,Phillip Danault,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:11:52Z,3,05:44,14:16,Blocked Shot,n/a,-55.0,-3.0,Brendan Gallagher,Blocker,Montréal Canadiens,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:12:17Z,3,05:44,14:16,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:12:35Z,3,05:53,14:07,Takeaway,n/a,-39.0,-20.0,Joel Armia,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:12:42Z,3,05:59,14:01,Shot,Wrist Shot,69.0,-4.0,Joel Armia,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:12:47Z,3,06:04,13:56,Missed Shot,n/a,71.0,2.0,Brett Kulak,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:13:09Z,3,06:25,13:35,Goal,Wrist Shot,-51.0,-6.0,Oliver Kylington,Scorer,Calgary Flames,Johnny Gaudreau,Assist,Calgary Flames,Noah Hanifin,Assist,Calgary Flames,Carey Price,Goalie,Montréal Canadiens
+2019-12-20T04:13:53Z,3,06:25,13:35,Faceoff,n/a,0.0,0.0,Mikael Backlund,Winner,Calgary Flames,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:14:31Z,3,07:02,12:58,Giveaway,n/a,5.0,-34.0,Dillon Dube,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:14:36Z,3,07:07,12:53,Blocked Shot,n/a,64.0,-9.0,Mark Giordano,Blocker,Calgary Flames,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:16:20Z,3,07:07,12:53,Faceoff,n/a,69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:17:00Z,3,07:16,12:44,Shot,Wrist Shot,54.0,-5.0,Phillip Danault,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:17:16Z,3,07:32,12:28,Takeaway,n/a,-54.0,-37.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:17:23Z,3,07:39,12:21,Hit,n/a,66.0,-39.0,Mark Giordano,Hitter,Calgary Flames,Brendan Gallagher,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:17:29Z,3,07:41,12:19,Hit,n/a,86.0,-37.0,Elias Lindholm,Hitter,Calgary Flames,Ryan Poehling,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:18:17Z,3,08:10,11:50,Faceoff,n/a,20.0,-22.0,Sam Bennett,Winner,Calgary Flames,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:18:48Z,3,08:22,11:38,Faceoff,n/a,69.0,22.0,Sam Bennett,Winner,Calgary Flames,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:19:18Z,3,08:32,11:28,Takeaway,n/a,8.0,-8.0,Sam Bennett,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:19:27Z,3,08:41,11:19,Hit,n/a,38.0,-10.0,Rasmus Andersson,Hitter,Calgary Flames,Artturi Lehkonen,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:19:34Z,3,08:48,11:12,Shot,Snap Shot,-56.0,19.0,Michael Frolik,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:19:41Z,3,08:56,11:04,Blocked Shot,n/a,-54.0,-24.0,Joel Armia,Blocker,Montréal Canadiens,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:19:46Z,3,09:00,11:00,Giveaway,n/a,-69.0,39.0,Sean Monahan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:20:20Z,3,09:34,10:26,Giveaway,n/a,-12.0,12.0,Nick Cousins,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:20:43Z,3,09:40,10:20,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:21:14Z,3,10:03,09:57,Missed Shot,n/a,-74.0,-7.0,Derek Ryan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:21:33Z,3,10:23,09:37,Hit,n/a,81.0,35.0,Phillip Danault,Hitter,Montréal Canadiens,Andrew Mangiapane,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:21:45Z,3,10:34,09:26,Shot,Wrist Shot,-61.0,8.0,Andrew Mangiapane,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:21:51Z,3,10:41,09:19,Blocked Shot,n/a,-62.0,-6.0,Shea Weber,Blocker,Montréal Canadiens,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:24:12Z,3,10:55,09:05,Faceoff,n/a,-20.0,22.0,Max Domi,Winner,Montréal Canadiens,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:25:20Z,3,11:51,08:09,Blocked Shot,n/a,53.0,1.0,Dillon Dube,Blocker,Calgary Flames,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:25:31Z,3,11:58,08:02,Goal,Tip-In,83.0,4.0,Nick Suzuki,Scorer,Montréal Canadiens,Nick Cousins,Assist,Montréal Canadiens,Jordan Weal,Assist,Montréal Canadiens,David Rittich,Goalie,Calgary Flames
+2019-12-20T04:27:34Z,3,11:58,08:02,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:26:40Z,3,12:29,07:31,Missed Shot,n/a,77.0,15.0,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:26:45Z,3,12:32,07:28,Giveaway,n/a,81.0,-7.0,Elias Lindholm,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:26:50Z,3,12:39,07:21,Missed Shot,n/a,68.0,2.0,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:27:00Z,3,12:49,07:11,Blocked Shot,n/a,74.0,6.0,Mark Giordano,Blocker,Calgary Flames,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:27:02Z,3,12:51,07:09,Giveaway,n/a,42.0,-26.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:27:09Z,3,12:53,07:07,Shot,Wrist Shot,56.0,-25.0,Tomas Tatar,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:27:42Z,3,12:53,07:07,Faceoff,n/a,69.0,-22.0,Sam Bennett,Winner,Calgary Flames,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:28:27Z,3,13:40,06:20,Giveaway,n/a,82.0,-31.0,Joel Armia,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:28:46Z,3,13:59,06:01,Takeaway,n/a,78.0,-38.0,Max Domi,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:28:48Z,3,14:01,05:59,Shot,Wrist Shot,58.0,-12.0,Jordan Weal,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:29:00Z,3,14:11,05:49,Blocked Shot,n/a,-63.0,-1.0,Shea Weber,Blocker,Montréal Canadiens,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:30:47Z,3,14:11,05:49,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:31:23Z,3,14:19,05:41,Missed Shot,n/a,-33.0,19.0,TJ Brodie,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:31:27Z,3,14:23,05:37,Missed Shot,n/a,-83.0,-6.0,Sean Monahan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:31:43Z,3,14:32,05:28,Blocked Shot,n/a,-75.0,-1.0,Phillip Danault,Blocker,Montréal Canadiens,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:32:13Z,3,15:09,04:51,Giveaway,n/a,43.0,19.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:32:15Z,3,15:11,04:49,Shot,Slap Shot,56.0,23.0,Brendan Gallagher,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:33:11Z,3,15:36,04:24,Faceoff,n/a,-69.0,-22.0,Milan Lucic,Winner,Calgary Flames,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:33:34Z,3,15:50,04:10,Hit,n/a,-33.0,-40.0,Jeff Petry,Hitter,Montréal Canadiens,Milan Lucic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:33:39Z,3,15:55,04:05,Shot,Snap Shot,58.0,-21.0,Artturi Lehkonen,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:34:42Z,3,16:20,03:40,Faceoff,n/a,69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:35:28Z,3,16:56,03:04,Blocked Shot,n/a,-65.0,-7.0,Shea Weber,Blocker,Montréal Canadiens,Michael Frolik,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:35:37Z,3,17:05,02:55,Missed Shot,n/a,-78.0,4.0,Tobias Rieder,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:35:46Z,3,17:14,02:46,Hit,n/a,-33.0,39.0,Sam Bennett,Hitter,Calgary Flames,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:36:09Z,3,17:37,02:23,Hit,n/a,32.0,-40.0,Sam Bennett,Hitter,Calgary Flames,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:36:15Z,3,17:41,02:19,Hit,n/a,99.0,0.0,Jordan Weal,Hitter,Montréal Canadiens,Noah Hanifin,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:36:44Z,3,17:44,02:16,Faceoff,n/a,20.0,22.0,Sean Monahan,Winner,Calgary Flames,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:37:33Z,3,18:26,01:34,Shot,Snap Shot,-67.0,2.0,TJ Brodie,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:37:43Z,3,18:36,01:24,Missed Shot,n/a,-40.0,0.0,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:38:10Z,3,19:02,00:58,Hit,n/a,28.0,41.0,Noah Hanifin,Hitter,Calgary Flames,Artturi Lehkonen,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:39:06Z,3,19:40,00:20,Faceoff,n/a,-69.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:39:41Z,3,19:57,00:03,Blocked Shot,n/a,-75.0,5.0,Ben Chiarot,Blocker,Montréal Canadiens,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:40:02Z,3,19:57,00:03,Faceoff,n/a,-69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:42:51Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:43:12Z,4,00:13,04:47,Shot,Wrist Shot,-57.0,10.0,Jeff Petry,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:43:21Z,4,00:13,04:47,Faceoff,n/a,-69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:43:53Z,4,00:32,04:28,Takeaway,n/a,43.0,10.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:44:03Z,4,00:42,04:18,Shot,Wrist Shot,-57.0,3.0,Joel Armia,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:44:19Z,4,00:58,04:02,Shot,Wrist Shot,49.0,15.0,Mark Giordano,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:44:32Z,4,01:12,03:48,Shot,Wrist Shot,-79.0,2.0,Tomas Tatar,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:44:51Z,4,01:31,03:29,Missed Shot,n/a,-72.0,9.0,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:44:56Z,4,01:36,03:24,Giveaway,n/a,-82.0,6.0,David Rittich,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:47:09Z,4,01:38,03:22,Shot,Wrist Shot,-78.0,2.0,Max Domi,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:45:20Z,4,01:59,03:01,Shot,Wrist Shot,79.0,-3.0,Mikael Backlund,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:45:39Z,4,02:19,02:41,Blocked Shot,n/a,-65.0,7.0,Rasmus Andersson,Blocker,Calgary Flames,Brendan Gallagher,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:46:58Z,4,03:36,01:24,Shot,Wrist Shot,-57.0,-13.0,Tomas Tatar,Shooter,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:47:22Z,4,03:36,01:24,Faceoff,n/a,-69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:47:39Z,4,03:45,01:15,Shot,Wrist Shot,75.0,-7.0,Elias Lindholm,Shooter,Calgary Flames,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-20T04:47:48Z,4,03:52,01:08,Goal,Slap Shot,-48.0,-14.0,Max Domi,Scorer,Montréal Canadiens,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a

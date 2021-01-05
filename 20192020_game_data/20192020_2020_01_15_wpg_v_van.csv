@@ -1,0 +1,241 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-15T01:07:56Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:08:59Z,1,00:34,19:26,Shot,Wrist Shot,-63.0,10.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:11:00Z,1,01:18,18:42,Faceoff,n/a,-69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:11:11Z,1,01:22,18:38,Goal,Snap Shot,-65.0,20.0,Kyle Connor,Scorer,Winnipeg Jets,Sami Niku,Assist,Winnipeg Jets,Patrik Laine,Assist,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks
+2020-01-15T01:11:47Z,1,01:22,18:38,Faceoff,n/a,0.0,0.0,Adam Gaudette,Winner,Vancouver Canucks,Jack Roslovic,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:16:16Z,1,01:37,18:23,Faceoff,n/a,20.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:16:55Z,1,01:53,18:07,Hit,n/a,75.0,-40.0,Anthony Bitetto,Hitter,Winnipeg Jets,Tyler Motte,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:17:10Z,1,01:57,18:03,Penalty,Tripping,98.0,-13.0,Mason Appleton,PenaltyOn,Winnipeg Jets,Tim Schaller,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:17:36Z,1,01:57,18:03,Faceoff,n/a,69.0,22.0,Adam Lowry,Winner,Winnipeg Jets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:17:42Z,1,02:05,17:55,Shot,Wrist Shot,36.0,-31.0,Elias Pettersson,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:18:01Z,1,02:25,17:35,Blocked Shot,n/a,61.0,-5.0,Luca Sbisa,Blocker,Winnipeg Jets,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:18:14Z,1,02:38,17:22,Shot,Wrist Shot,67.0,6.0,J.T. Miller,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:18:25Z,1,02:48,17:12,Blocked Shot,n/a,-63.0,10.0,Quinn Hughes,Blocker,Vancouver Canucks,Andrew Copp,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:18:36Z,1,03:00,17:00,Takeaway,n/a,48.0,-40.0,Nicholas Shore,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:23:33Z,1,03:04,16:56,Faceoff,n/a,-69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:23:47Z,1,03:39,16:21,Shot,Wrist Shot,79.0,15.0,Brock Boeser,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:23:49Z,1,03:41,16:19,Hit,n/a,99.0,4.0,Brock Boeser,Hitter,Vancouver Canucks,Anthony Bitetto,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:24:00Z,1,03:52,16:08,Shot,Slap Shot,52.0,-32.0,Elias Pettersson,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:24:31Z,1,03:56,16:04,Faceoff,n/a,69.0,-22.0,Adam Gaudette,Winner,Vancouver Canucks,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:24:38Z,1,04:01,15:59,Blocked Shot,n/a,73.0,-4.0,Josh Morrissey,Blocker,Winnipeg Jets,Tyler Myers,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:24:44Z,1,04:07,15:53,Giveaway,n/a,79.0,32.0,Josh Morrissey,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:25:01Z,1,04:24,15:36,Shot,Wrist Shot,39.0,-20.0,Tyler Myers,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:25:07Z,1,04:30,15:30,Missed Shot,n/a,65.0,-9.0,Jake Virtanen,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:25:19Z,1,04:42,15:18,Takeaway,n/a,93.0,27.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:25:32Z,1,04:55,15:05,Shot,Tip-In,-78.0,-8.0,Patrik Laine,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:25:38Z,1,04:59,15:01,Missed Shot,n/a,-82.0,-8.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:25:47Z,1,05:06,14:54,Shot,Tip-In,77.0,5.0,Jay Beagle,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:25:56Z,1,05:19,14:41,Missed Shot,n/a,52.0,-32.0,Christopher Tanev,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:26:12Z,1,05:35,14:25,Hit,n/a,98.0,-17.0,Tanner Pearson,Hitter,Vancouver Canucks,Sami Niku,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:26:37Z,1,06:00,14:00,Hit,n/a,-99.0,-10.0,Andrew Copp,Hitter,Winnipeg Jets,Alexander Edler,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:26:43Z,1,06:06,13:54,Takeaway,n/a,-13.0,33.0,Neal Pionk,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:26:50Z,1,06:13,13:47,Missed Shot,n/a,-40.0,-15.0,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:27:04Z,1,06:27,13:33,Hit,n/a,-65.0,41.0,Alexander Edler,Hitter,Vancouver Canucks,Adam Lowry,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:27:26Z,1,06:49,13:11,Missed Shot,n/a,34.0,-28.0,Oscar Fantenberg,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:27:33Z,1,06:56,13:04,Shot,Wrist Shot,40.0,21.0,Tyler Myers,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:27:34Z,1,06:57,13:03,Giveaway,n/a,41.0,40.0,Sami Niku,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:27:45Z,1,07:08,12:52,Shot,Wrist Shot,-83.0,14.0,Jack Roslovic,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:27:55Z,1,07:18,12:42,Takeaway,n/a,-98.0,0.0,Oscar Fantenberg,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:28:02Z,1,07:25,12:35,Takeaway,n/a,87.0,-34.0,Carl Dahlstrom,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:28:05Z,1,07:28,12:32,Hit,n/a,98.0,18.0,Tim Schaller,Hitter,Vancouver Canucks,Carl Dahlstrom,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:28:09Z,1,07:32,12:28,Hit,n/a,83.0,-37.0,Tyler Motte,Hitter,Vancouver Canucks,Jansen Harkins,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:28:24Z,1,07:47,12:13,Hit,n/a,49.0,40.0,Jay Beagle,Hitter,Vancouver Canucks,Mark Scheifele,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:28:30Z,1,07:53,12:07,Hit,n/a,-15.0,-40.0,Tanner Pearson,Hitter,Vancouver Canucks,Anthony Bitetto,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:28:46Z,1,08:09,11:51,Blocked Shot,n/a,37.0,-27.0,Mark Scheifele,Blocker,Winnipeg Jets,Troy Stecher,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:28:53Z,1,08:13,11:47,Shot,Wrist Shot,38.0,-15.0,Loui Eriksson,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:29:13Z,1,08:36,11:24,Missed Shot,n/a,-69.0,-4.0,Kyle Connor,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:29:21Z,1,08:44,11:16,Shot,Wrist Shot,-37.0,-31.0,Sami Niku,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:29:52Z,1,08:45,11:15,Faceoff,n/a,-69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:30:00Z,1,08:51,11:09,Shot,Wrist Shot,-42.0,-27.0,Luca Sbisa,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:30:11Z,1,09:02,10:58,Hit,n/a,68.0,40.0,Blake Wheeler,Hitter,Winnipeg Jets,Tyler Motte,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:30:28Z,1,09:16,10:44,Blocked Shot,n/a,-65.0,-1.0,Tyler Myers,Blocker,Vancouver Canucks,Andrew Copp,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:30:28Z,1,09:20,10:40,Giveaway,n/a,-39.0,39.0,Alexander Edler,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:30:48Z,1,09:40,10:20,Hit,n/a,-93.0,-27.0,Mathieu Perreault,Hitter,Winnipeg Jets,Tyler Myers,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:31:29Z,1,09:52,10:08,Faceoff,n/a,20.0,22.0,Patrik Laine,Winner,Winnipeg Jets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:32:07Z,1,10:08,09:52,Faceoff,n/a,-69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:33:01Z,1,10:47,09:13,Blocked Shot,n/a,70.0,-3.0,Luca Sbisa,Blocker,Winnipeg Jets,Adam Gaudette,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:33:47Z,1,11:33,08:27,Hit,n/a,-70.0,39.0,Alexander Edler,Hitter,Vancouver Canucks,Mason Appleton,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:34:00Z,1,11:46,08:14,Shot,Wrist Shot,74.0,3.0,Loui Eriksson,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:34:04Z,1,11:50,08:10,Giveaway,n/a,47.0,25.0,Neal Pionk,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:34:07Z,1,11:53,08:07,Blocked Shot,n/a,66.0,9.0,Anthony Bitetto,Blocker,Winnipeg Jets,Bo Horvat,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:34:16Z,1,12:02,07:58,Hit,n/a,-93.0,29.0,Nicholas Shore,Hitter,Winnipeg Jets,Alexander Edler,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:34:52Z,1,12:37,07:23,Takeaway,n/a,23.0,-1.0,Carl Dahlstrom,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:34:55Z,1,12:39,07:21,Blocked Shot,n/a,-59.0,3.0,Christopher Tanev,Blocker,Vancouver Canucks,Carl Dahlstrom,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:37:30Z,1,12:40,07:20,Faceoff,n/a,-69.0,22.0,Blake Wheeler,Winner,Winnipeg Jets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:37:56Z,1,13:10,06:50,Missed Shot,n/a,-65.0,32.0,Andrew Copp,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:38:19Z,1,13:13,06:47,Faceoff,n/a,-69.0,22.0,J.T. Miller,Winner,Vancouver Canucks,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:38:45Z,1,13:34,06:26,Shot,Wrist Shot,40.0,-34.0,Troy Stecher,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:39:09Z,1,13:57,06:03,Shot,Wrist Shot,43.0,-26.0,Brock Boeser,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:39:46Z,1,14:24,05:36,Goal,Wrist Shot,-70.0,2.0,Jack Roslovic,Scorer,Winnipeg Jets,Adam Lowry,Assist,Winnipeg Jets,Carl Dahlstrom,Assist,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks
+2020-01-15T01:40:19Z,1,14:24,05:36,Faceoff,n/a,0.0,0.0,Adam Lowry,Winner,Winnipeg Jets,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:40:41Z,1,14:44,05:16,Hit,n/a,30.0,-40.0,Anthony Bitetto,Hitter,Winnipeg Jets,Jake Virtanen,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:40:52Z,1,14:55,05:05,Giveaway,n/a,30.0,40.0,Jack Roslovic,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:43:26Z,1,15:06,04:54,Faceoff,n/a,69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:43:38Z,1,15:07,04:53,Shot,Wrist Shot,49.0,-11.0,Jake Virtanen,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:43:45Z,1,15:08,04:52,Faceoff,n/a,69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:43:59Z,1,15:14,04:46,Shot,Wrist Shot,35.0,-25.0,Quinn Hughes,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:44:05Z,1,15:18,04:42,Missed Shot,n/a,72.0,12.0,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:44:13Z,1,15:27,04:33,Missed Shot,n/a,52.0,34.0,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:44:31Z,1,15:46,04:14,Blocked Shot,n/a,-65.0,12.0,Christopher Tanev,Blocker,Vancouver Canucks,Luca Sbisa,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:44:53Z,1,16:08,03:52,Missed Shot,n/a,-67.0,-17.0,Sami Niku,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:45:01Z,1,16:17,03:43,Blocked Shot,n/a,-67.0,11.0,Tanner Pearson,Blocker,Vancouver Canucks,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:45:45Z,1,17:00,03:00,Hit,n/a,-63.0,39.0,Blake Wheeler,Hitter,Winnipeg Jets,Tyler Motte,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:46:00Z,1,17:11,02:49,Penalty,Slashing,-48.0,-19.0,Tanner Pearson,PenaltyOn,Vancouver Canucks,Carl Dahlstrom,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:46:30Z,1,17:11,02:49,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:46:43Z,1,17:15,02:45,Blocked Shot,n/a,-59.0,-9.0,Christopher Tanev,Blocker,Vancouver Canucks,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:46:51Z,1,17:24,02:36,Missed Shot,n/a,-64.0,-33.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:47:53Z,1,18:26,01:34,Missed Shot,n/a,-57.0,26.0,Blake Wheeler,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:48:31Z,1,19:02,00:58,Shot,Wrist Shot,-52.0,-17.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:48:50Z,1,19:21,00:39,Shot,Wrist Shot,-55.0,-35.0,Jansen Harkins,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:49:19Z,1,19:22,00:38,Faceoff,n/a,-69.0,-22.0,Adam Lowry,Winner,Winnipeg Jets,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:50:09Z,1,19:47,00:13,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:50:22Z,1,19:53,00:07,Shot,Wrist Shot,-42.0,-2.0,Patrik Laine,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:50:29Z,1,19:55,00:05,Penalty,Delaying Game - Puck over glass,-82.0,-40.0,Christopher Tanev,PenaltyOn,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T01:51:04Z,1,19:55,00:05,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:09:42Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Mark Scheifele,Winner,Winnipeg Jets,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:09:53Z,2,00:19,19:41,Shot,Slap Shot,38.0,31.0,Patrik Laine,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:10:03Z,2,00:29,19:31,Shot,Wrist Shot,70.0,28.0,Patrik Laine,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:10:17Z,2,00:39,19:21,Missed Shot,n/a,53.0,-27.0,Blake Wheeler,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:10:41Z,2,00:40,19:20,Faceoff,n/a,69.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:11:18Z,2,01:12,18:48,Goal,Wrist Shot,71.0,-17.0,Blake Wheeler,Scorer,Winnipeg Jets,Neal Pionk,Assist,Winnipeg Jets,Kyle Connor,Assist,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks
+2020-01-15T02:12:06Z,2,01:12,18:48,Faceoff,n/a,0.0,0.0,Adam Lowry,Winner,Winnipeg Jets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:12:36Z,2,01:49,18:11,Hit,n/a,-49.0,40.0,J.T. Miller,Hitter,Vancouver Canucks,Adam Lowry,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:13:44Z,2,02:58,17:02,Shot,Tip-In,63.0,2.0,Andrew Copp,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:14:21Z,2,03:32,16:28,Blocked Shot,n/a,62.0,20.0,Tyler Myers,Blocker,Vancouver Canucks,Nikolaj Ehlers,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:14:46Z,2,03:33,16:27,Faceoff,n/a,69.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:05Z,2,03:41,16:19,Faceoff,n/a,69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:40Z,2,03:47,16:13,Giveaway,n/a,30.0,-30.0,Patrik Laine,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:44Z,2,03:52,16:08,Shot,Wrist Shot,-58.0,11.0,Tyler Motte,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:53Z,2,03:53,16:07,Penalty,Tripping,-29.0,-28.0,Carl Dahlstrom,PenaltyOn,Winnipeg Jets,Tim Schaller,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:16:20Z,2,03:53,16:07,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:17:11Z,2,04:43,15:17,Blocked Shot,n/a,-60.0,-11.0,Luca Sbisa,Blocker,Winnipeg Jets,J.T. Miller,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:17:39Z,2,04:44,15:16,Faceoff,n/a,-69.0,-22.0,Adam Gaudette,Winner,Vancouver Canucks,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:17:53Z,2,04:49,15:11,Shot,Slap Shot,-44.0,34.0,Jake Virtanen,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:18:05Z,2,04:59,15:01,Shot,Tip-In,-75.0,1.0,Tanner Pearson,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:18:27Z,2,05:17,14:43,Missed Shot,n/a,-73.0,-7.0,Adam Gaudette,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:18:48Z,2,05:20,14:40,Faceoff,n/a,-69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:18:57Z,2,05:27,14:33,Blocked Shot,n/a,-73.0,-10.0,Luca Sbisa,Blocker,Winnipeg Jets,Brock Boeser,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:19:10Z,2,05:30,14:30,Faceoff,n/a,-69.0,22.0,Adam Lowry,Winner,Winnipeg Jets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:19:31Z,2,05:43,14:17,Blocked Shot,n/a,74.0,-3.0,Quinn Hughes,Blocker,Vancouver Canucks,Andrew Copp,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:20:10Z,2,06:23,13:37,Missed Shot,n/a,36.0,-32.0,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:20:15Z,2,06:26,13:34,Shot,Tip-In,72.0,-1.0,Kyle Connor,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:16Z,2,06:27,13:33,Faceoff,n/a,69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:42Z,2,06:35,13:25,Shot,Wrist Shot,58.0,36.0,Troy Stecher,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:54Z,2,06:47,13:13,Shot,Wrist Shot,61.0,36.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:23:17Z,2,06:48,13:12,Faceoff,n/a,69.0,22.0,Adam Lowry,Winner,Winnipeg Jets,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:23:55Z,2,06:53,13:07,Faceoff,n/a,69.0,22.0,Adam Lowry,Winner,Winnipeg Jets,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:24:27Z,2,07:20,12:40,Blocked Shot,n/a,-59.0,-22.0,Carl Dahlstrom,Blocker,Winnipeg Jets,Adam Gaudette,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:24:38Z,2,07:31,12:29,Shot,Slap Shot,-39.0,-27.0,Quinn Hughes,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:25:00Z,2,07:32,12:28,Faceoff,n/a,-69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:25:45Z,2,08:09,11:51,Missed Shot,n/a,-70.0,0.0,J.T. Miller,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:25:58Z,2,08:22,11:38,Giveaway,n/a,-61.0,-41.0,Josh Morrissey,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:26:15Z,2,08:37,11:23,Blocked Shot,n/a,-78.0,-8.0,Luca Sbisa,Blocker,Winnipeg Jets,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:26:41Z,2,08:38,11:22,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:26:53Z,2,08:45,11:15,Shot,Wrap-around,-79.0,9.0,Tanner Pearson,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:27:05Z,2,08:56,11:04,Shot,Wrist Shot,-33.0,26.0,Troy Stecher,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:27:31Z,2,08:57,11:03,Faceoff,n/a,-69.0,22.0,Adam Gaudette,Winner,Vancouver Canucks,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:27:45Z,2,09:09,10:51,Shot,Wrist Shot,38.0,35.0,Sami Niku,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:28:17Z,2,09:41,10:19,Hit,n/a,85.0,-37.0,Adam Lowry,Hitter,Winnipeg Jets,Alexander Edler,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:28:39Z,2,09:57,10:03,Penalty,Interference,-57.0,-15.0,Quinn Hughes,PenaltyOn,Vancouver Canucks,Luca Sbisa,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:29:31Z,2,09:57,10:03,Faceoff,n/a,69.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:29:38Z,2,10:21,09:39,Shot,Wrist Shot,78.0,10.0,Kyle Connor,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:30:03Z,2,10:47,09:13,Giveaway,n/a,93.0,4.0,Christopher Tanev,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:30:58Z,2,11:42,08:18,Giveaway,n/a,33.0,38.0,Tyler Myers,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:31:34Z,2,11:48,08:12,Faceoff,n/a,-20.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:31:57Z,2,12:11,07:49,Missed Shot,n/a,-63.0,-29.0,Alexander Edler,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:32:09Z,2,12:23,07:37,Shot,Backhand,-73.0,-15.0,Tyler Myers,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:34:23Z,2,12:24,07:36,Faceoff,n/a,-69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:35:42Z,2,13:29,06:31,Hit,n/a,51.0,12.0,Tyler Motte,Hitter,Vancouver Canucks,Mark Scheifele,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:35:57Z,2,13:40,06:20,Penalty,Tripping,53.0,-15.0,Nikolaj Ehlers,PenaltyOn,Winnipeg Jets,Troy Stecher,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:36:48Z,2,13:40,06:20,Faceoff,n/a,-69.0,22.0,Adam Lowry,Winner,Winnipeg Jets,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:37:34Z,2,14:34,05:26,Missed Shot,n/a,-51.0,-31.0,Adam Gaudette,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:37:54Z,2,14:54,05:06,Missed Shot,n/a,-62.0,-13.0,Antoine Roussel,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:38:08Z,2,15:07,04:53,Shot,Slap Shot,-51.0,24.0,Elias Pettersson,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:38:31Z,2,15:31,04:29,Missed Shot,n/a,-60.0,-13.0,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:39:06Z,2,15:53,04:07,Penalty,Hooking,-64.0,0.0,Adam Lowry,PenaltyOn,Winnipeg Jets,J.T. Miller,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:41:12Z,2,15:53,04:07,Faceoff,n/a,-69.0,22.0,Andrew Copp,Winner,Winnipeg Jets,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:41:27Z,2,16:01,03:59,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Winnipeg Jets,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:41:47Z,2,16:05,03:55,Shot,Wrist Shot,-64.0,-4.0,Tanner Pearson,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:42:02Z,2,16:21,03:39,Blocked Shot,n/a,48.0,-25.0,Tyler Myers,Blocker,Vancouver Canucks,Andrew Copp,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:42:17Z,2,16:36,03:24,Shot,Wrist Shot,-38.0,-34.0,Tyler Myers,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:42:55Z,2,17:14,02:46,Missed Shot,n/a,-72.0,6.0,Bo Horvat,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:43:26Z,2,17:45,02:15,Shot,Slap Shot,-52.0,-29.0,Brock Boeser,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:43:29Z,2,17:49,02:11,Giveaway,n/a,-53.0,40.0,Carl Dahlstrom,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:43:36Z,2,17:55,02:05,Shot,Slap Shot,-49.0,-19.0,Elias Pettersson,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:44:14Z,2,17:56,02:04,Faceoff,n/a,-69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:44:50Z,2,18:27,01:33,Blocked Shot,n/a,-55.0,-17.0,Patrik Laine,Blocker,Winnipeg Jets,Alexander Edler,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:44:57Z,2,18:35,01:25,Shot,Wrist Shot,48.0,-29.0,Patrik Laine,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:45:24Z,2,19:01,00:59,Giveaway,n/a,-59.0,40.0,Carl Dahlstrom,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:46:34Z,2,19:31,00:29,Faceoff,n/a,-20.0,22.0,Adam Lowry,Winner,Winnipeg Jets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:46:43Z,2,19:52,00:08,Shot,Tip-In,-22.0,38.0,Jake Virtanen,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:05:26Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:05:48Z,3,00:25,19:35,Shot,Wrist Shot,55.0,-30.0,Bo Horvat,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:05:54Z,3,00:28,19:32,Blocked Shot,n/a,65.0,9.0,Andrew Copp,Blocker,Winnipeg Jets,Christopher Tanev,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:06:18Z,3,00:55,19:05,Giveaway,n/a,38.0,-28.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:06:48Z,3,01:25,18:35,Hit,n/a,-20.0,-40.0,Adam Lowry,Hitter,Winnipeg Jets,Jake Virtanen,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:07:01Z,3,01:38,18:22,Blocked Shot,n/a,46.0,-12.0,Anthony Bitetto,Blocker,Winnipeg Jets,Antoine Roussel,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:07:17Z,3,01:54,18:06,Missed Shot,n/a,82.0,-20.0,Antoine Roussel,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:07:24Z,3,02:01,17:59,Takeaway,n/a,46.0,38.0,Josh Morrissey,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:08:26Z,3,02:26,17:34,Faceoff,n/a,20.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:08:49Z,3,02:50,17:10,Hit,n/a,-62.0,41.0,Elias Pettersson,Hitter,Vancouver Canucks,Blake Wheeler,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:08:52Z,3,02:53,17:07,Missed Shot,n/a,-46.0,14.0,Blake Wheeler,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:09:47Z,3,03:48,16:12,Blocked Shot,n/a,-54.0,-11.0,Christopher Tanev,Blocker,Vancouver Canucks,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:10:08Z,3,04:09,15:51,Missed Shot,n/a,72.0,-15.0,Tanner Pearson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:10:13Z,3,04:15,15:45,Missed Shot,n/a,79.0,-6.0,Bo Horvat,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:10:20Z,3,04:19,15:41,Missed Shot,n/a,81.0,11.0,Tyler Motte,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:11:23Z,3,04:55,15:05,Faceoff,n/a,69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:12:13Z,3,05:41,14:19,Shot,Wrap-around,82.0,-6.0,Alexander Edler,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:12:42Z,3,05:59,14:01,Faceoff,n/a,-69.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:13:23Z,3,06:28,13:32,Shot,Wrist Shot,-42.0,-24.0,Nicholas Shore,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:13:28Z,3,06:30,13:30,Shot,Wrist Shot,-82.0,-4.0,Nicholas Shore,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:15:49Z,3,06:31,13:29,Faceoff,n/a,-69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:16:20Z,3,07:11,12:49,Blocked Shot,n/a,51.0,-17.0,Luca Sbisa,Blocker,Winnipeg Jets,Tyler Motte,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:16:55Z,3,07:12,12:48,Faceoff,n/a,69.0,-22.0,Adam Gaudette,Winner,Vancouver Canucks,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:17:32Z,3,07:50,12:10,Giveaway,n/a,-95.0,26.0,Jacob Markstrom,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:17:38Z,3,07:56,12:04,Shot,Wrist Shot,53.0,-24.0,Jake Virtanen,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:18:02Z,3,08:20,11:40,Shot,Wrist Shot,48.0,-23.0,Tyler Myers,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:18:07Z,3,08:22,11:38,Missed Shot,n/a,69.0,8.0,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:18:55Z,3,08:23,11:37,Faceoff,n/a,69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:19:44Z,3,09:11,10:49,Shot,Wrist Shot,44.0,-34.0,Troy Stecher,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:20:10Z,3,09:12,10:48,Faceoff,n/a,69.0,-22.0,Adam Lowry,Winner,Winnipeg Jets,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:20:27Z,3,09:23,10:37,Shot,Wrist Shot,49.0,-11.0,Adam Gaudette,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:21:02Z,3,09:24,10:36,Faceoff,n/a,69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:21:26Z,3,09:48,10:12,Shot,Wrist Shot,-68.0,-14.0,Kyle Connor,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:21:40Z,3,10:01,09:59,Missed Shot,n/a,77.0,-25.0,Jake Virtanen,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:22:13Z,3,10:34,09:26,Hit,n/a,16.0,-24.0,Adam Lowry,Hitter,Winnipeg Jets,Adam Gaudette,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:22:35Z,3,10:55,09:05,Takeaway,n/a,59.0,39.0,Adam Gaudette,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:22:59Z,3,11:20,08:40,Missed Shot,n/a,82.0,-33.0,Tyler Myers,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:23:23Z,3,11:25,08:35,Faceoff,n/a,69.0,22.0,Adam Lowry,Winner,Winnipeg Jets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:25:46Z,3,11:29,08:31,Faceoff,n/a,69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:26:03Z,3,11:43,08:17,Shot,Wrist Shot,52.0,-24.0,Brock Boeser,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:26:20Z,3,11:59,08:01,Missed Shot,n/a,-56.0,-18.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:26:30Z,3,12:10,07:50,Shot,Wrist Shot,50.0,33.0,Jake Virtanen,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:27:21Z,3,13:00,07:00,Blocked Shot,n/a,49.0,21.0,Patrik Laine,Blocker,Winnipeg Jets,Oscar Fantenberg,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:27:48Z,3,13:01,06:59,Faceoff,n/a,69.0,22.0,Adam Lowry,Winner,Winnipeg Jets,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:28:15Z,3,13:28,06:32,Shot,Wrist Shot,52.0,-24.0,Adam Gaudette,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:29:31Z,3,14:27,05:33,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:32:15Z,3,14:44,05:16,Faceoff,n/a,-20.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:32:42Z,3,15:19,04:41,Missed Shot,n/a,18.0,9.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:33:08Z,3,15:47,04:13,Shot,Slap Shot,44.0,-17.0,Elias Pettersson,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:33:13Z,3,15:51,04:09,Giveaway,n/a,32.0,-30.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:33:18Z,3,15:57,04:03,Shot,Tip-In,81.0,9.0,Brock Boeser,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:33:59Z,3,16:00,04:00,Faceoff,n/a,69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:33:58Z,3,16:06,03:54,Shot,Wrist Shot,37.0,30.0,Quinn Hughes,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:34:12Z,3,16:20,03:40,Missed Shot,n/a,38.0,-28.0,Antoine Roussel,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:34:55Z,3,16:34,03:26,Faceoff,n/a,20.0,22.0,Adam Lowry,Winner,Winnipeg Jets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:36:19Z,3,17:17,02:43,Faceoff,n/a,20.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:36:47Z,3,17:49,02:11,Goal,Wrist Shot,-79.0,4.0,Kyle Connor,Scorer,Winnipeg Jets,Mark Scheifele,Assist,Winnipeg Jets,Patrik Laine,Assist,Vancouver Canucks,n/a,n/a,n/a
+2020-01-15T03:37:23Z,3,17:49,02:11,Faceoff,n/a,0.0,0.0,Nicholas Shore,Winner,Winnipeg Jets,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:37:31Z,3,18:00,02:00,Giveaway,n/a,-93.0,-29.0,Jacob Markstrom,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:37:49Z,3,18:19,01:41,Hit,n/a,-98.0,7.0,Tyler Myers,Hitter,Vancouver Canucks,Mason Appleton,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:37:56Z,3,18:26,01:34,Shot,Tip-In,-76.0,-6.0,Nicholas Shore,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:38:08Z,3,18:37,01:23,Shot,Wrist Shot,-35.0,-25.0,Sami Niku,Shooter,Winnipeg Jets,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:38:31Z,3,18:38,01:22,Faceoff,n/a,-69.0,-22.0,Adam Gaudette,Winner,Vancouver Canucks,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:38:52Z,3,19:00,01:00,Takeaway,n/a,64.0,38.0,Antoine Roussel,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:39:06Z,3,19:12,00:48,Shot,Wrist Shot,37.0,2.0,Alexander Edler,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:39:34Z,3,19:13,00:47,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:40:15Z,3,19:46,00:14,Missed Shot,n/a,84.0,-18.0,Tyler Motte,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:40:41Z,3,19:49,00:11,Faceoff,n/a,69.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:40:48Z,3,19:53,00:07,Missed Shot,n/a,46.0,-32.0,Alexander Edler,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:40:56Z,3,19:59,00:01,Shot,Backhand,78.0,-10.0,Alexander Edler,Shooter,Vancouver Canucks,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a

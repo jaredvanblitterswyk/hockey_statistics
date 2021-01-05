@@ -1,0 +1,237 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-04T00:08:09Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:09:10Z,1,00:29,19:31,Blocked Shot,n/a,50.0,-27.0,Ivan Provorov,Blocker,Philadelphia Flyers,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:09:54Z,1,01:14,18:46,Shot,Wrist Shot,60.0,-24.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:10:33Z,1,01:52,18:08,Shot,Wrist Shot,-58.0,3.0,Ivan Provorov,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:10:58Z,1,02:16,17:44,Hit,n/a,90.0,-32.0,Philippe Myers,Hitter,Philadelphia Flyers,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:11:05Z,1,02:24,17:36,Shot,Wrist Shot,36.0,-34.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:11:25Z,1,02:45,17:15,Shot,Wrist Shot,68.0,11.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:12:25Z,1,03:44,16:16,Takeaway,n/a,27.0,-3.0,Scott Laughton,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:12:29Z,1,03:48,16:12,Shot,Wrist Shot,-56.0,20.0,Joel Farabee,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:12:52Z,1,04:11,15:49,Shot,Wrist Shot,77.0,-13.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:12:54Z,1,04:11,15:49,Shot,Backhand,86.0,-7.0,John Tavares,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:13:12Z,1,04:12,15:48,Shot,Wrist Shot,87.0,-5.0,John Tavares,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:13:32Z,1,04:13,15:47,Faceoff,n/a,69.0,-22.0,Zach Hyman,Winner,Toronto Maple Leafs,Morgan Frost,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:13:48Z,1,04:31,15:29,Giveaway,n/a,95.0,2.0,Carter Hart,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:14:13Z,1,04:56,15:04,Hit,n/a,90.0,-33.0,Kasperi Kapanen,Hitter,Toronto Maple Leafs,Michael Raffl,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:14:19Z,1,05:01,14:59,Takeaway,n/a,58.0,13.0,Tyler Pitlick,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:15:03Z,1,05:27,14:33,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:15:30Z,1,05:51,14:09,Giveaway,n/a,96.0,-2.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:15:31Z,1,05:52,14:08,Missed Shot,n/a,67.0,-37.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:15:41Z,1,06:02,13:58,Blocked Shot,n/a,69.0,5.0,Ivan Provorov,Blocker,Philadelphia Flyers,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:15:58Z,1,06:13,13:47,Hit,n/a,-51.0,41.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:16:03Z,1,06:19,13:41,Missed Shot,n/a,-62.0,15.0,Oskar Lindblom,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:16:12Z,1,06:33,13:27,Missed Shot,n/a,46.0,-4.0,Pierre Engvall,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:16:20Z,1,06:39,13:21,Blocked Shot,n/a,-61.0,-12.0,Justin Holl,Blocker,Toronto Maple Leafs,Joel Farabee,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:16:32Z,1,06:53,13:07,Shot,Backhand,-61.0,38.0,Joel Farabee,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:17:14Z,1,07:36,12:24,Shot,Wrist Shot,-56.0,39.0,Claude Giroux,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:17:56Z,1,08:02,11:58,Faceoff,n/a,-69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:18:34Z,1,08:29,11:31,Hit,n/a,-99.0,-22.0,Justin Holl,Hitter,Toronto Maple Leafs,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:18:55Z,1,08:49,11:11,Shot,Wrist Shot,-56.0,-27.0,Ivan Provorov,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:18:52Z,1,08:52,11:08,Takeaway,n/a,-85.0,33.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:19:05Z,1,09:03,10:57,Blocked Shot,n/a,-82.0,7.0,Alexander Kerfoot,Blocker,Toronto Maple Leafs,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:19:19Z,1,09:06,10:54,Hit,n/a,-96.0,-26.0,Justin Holl,Hitter,Toronto Maple Leafs,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:19:12Z,1,09:12,10:48,Hit,n/a,96.0,22.0,Matt Niskanen,Hitter,Philadelphia Flyers,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:19:29Z,1,09:29,10:31,Blocked Shot,n/a,79.0,20.0,Travis Sanheim,Blocker,Philadelphia Flyers,Andreas Johnsson,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:20:38Z,1,10:36,09:24,Hit,n/a,-32.0,-41.0,Kevin Hayes,Hitter,Philadelphia Flyers,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:23:24Z,1,11:02,08:58,Faceoff,n/a,-69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:24:59Z,1,12:28,07:32,Missed Shot,n/a,33.0,17.0,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:26:39Z,1,12:28,07:32,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:27:28Z,1,12:52,07:08,Blocked Shot,n/a,-82.0,5.0,Travis Dermott,Blocker,Toronto Maple Leafs,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:27:57Z,1,13:17,06:43,Penalty,Hi-sticking,68.0,-41.0,Ivan Provorov,PenaltyOn,Philadelphia Flyers,Kasperi Kapanen,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:28:33Z,1,13:17,06:43,Faceoff,n/a,69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:28:54Z,1,13:23,06:37,Shot,Wrist Shot,86.0,-4.0,John Tavares,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:28:38Z,1,13:24,06:36,Shot,Deflected,85.0,-14.0,John Tavares,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:28:40Z,1,13:25,06:35,Shot,Wrist Shot,86.0,-7.0,John Tavares,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:29:04Z,1,13:25,06:35,Faceoff,n/a,69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:29:03Z,1,13:33,06:27,Shot,Wrist Shot,74.0,-20.0,Auston Matthews,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:29:28Z,1,13:33,06:27,Faceoff,n/a,69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:29:45Z,1,13:53,06:07,Shot,Slap Shot,34.0,-4.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:29:51Z,1,13:58,06:02,Hit,n/a,54.0,42.0,Philippe Myers,Hitter,Philadelphia Flyers,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:30:04Z,1,14:12,05:48,Shot,Slap Shot,59.0,29.0,William Nylander,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:30:19Z,1,14:12,05:48,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:30:33Z,1,14:17,05:43,Giveaway,n/a,99.0,0.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:31:27Z,1,15:11,04:49,Blocked Shot,n/a,-78.0,23.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Scott Laughton,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:31:46Z,1,15:29,04:31,Hit,n/a,98.0,-6.0,Frederik Gauthier,Hitter,Toronto Maple Leafs,Philippe Myers,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:31:54Z,1,15:35,04:25,Hit,n/a,-22.0,-22.0,Pierre Engvall,Hitter,Toronto Maple Leafs,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:32:02Z,1,15:44,04:16,Hit,n/a,94.0,-28.0,Philippe Myers,Hitter,Philadelphia Flyers,Frederik Gauthier,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:32:34Z,1,16:18,03:42,Shot,Wrist Shot,-48.0,-1.0,Travis Sanheim,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:32:54Z,1,16:38,03:22,Missed Shot,n/a,35.0,18.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:33:18Z,1,17:02,02:58,Missed Shot,n/a,55.0,-20.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:35:26Z,1,17:21,02:39,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:36:36Z,1,18:03,01:57,Hit,n/a,74.0,-40.0,Scott Laughton,Hitter,Philadelphia Flyers,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:36:45Z,1,18:16,01:44,Shot,Wrist Shot,81.0,12.0,Justin Holl,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:37:00Z,1,18:31,01:29,Shot,Wrist Shot,76.0,2.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:37:05Z,1,18:32,01:28,Shot,Backhand,70.0,1.0,Justin Holl,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:37:32Z,1,18:33,01:27,Faceoff,n/a,69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:38:09Z,1,19:07,00:53,Takeaway,n/a,17.0,12.0,Morgan Frost,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:38:13Z,1,19:12,00:48,Hit,n/a,-95.0,-19.0,Travis Konecny,Hitter,Philadelphia Flyers,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:38:36Z,1,19:35,00:25,Giveaway,n/a,-99.0,9.0,Tyson Barrie,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:38:41Z,1,19:38,00:22,Blocked Shot,n/a,-66.0,-5.0,Zach Hyman,Blocker,Toronto Maple Leafs,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:38:45Z,1,19:39,00:21,Shot,Wrist Shot,-69.0,-6.0,Morgan Frost,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:39:30Z,1,19:40,00:20,Faceoff,n/a,-69.0,-22.0,Michael Raffl,Winner,Philadelphia Flyers,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:39:34Z,1,19:46,00:14,Blocked Shot,n/a,-62.0,-25.0,Andreas Johnsson,Blocker,Toronto Maple Leafs,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:39:43Z,1,19:53,00:07,Missed Shot,n/a,-79.0,0.0,James van Riemsdyk,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:58:12Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:58:32Z,2,00:12,19:48,Hit,n/a,99.0,-8.0,Oskar Lindblom,Hitter,Philadelphia Flyers,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T00:58:42Z,2,00:14,19:46,Faceoff,n/a,69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:00:03Z,2,01:10,18:50,Giveaway,n/a,91.0,32.0,Tyson Barrie,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:00:28Z,2,01:40,18:20,Giveaway,n/a,98.0,1.0,Frederik Andersen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:00:34Z,2,01:47,18:13,Missed Shot,n/a,78.0,7.0,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:01:08Z,2,02:20,17:40,Giveaway,n/a,-98.0,-4.0,Philippe Myers,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:01:10Z,2,02:22,17:38,Shot,Deflected,-81.0,-1.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:01:42Z,2,02:27,17:33,Faceoff,n/a,20.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:02:10Z,2,02:57,17:03,Missed Shot,n/a,62.0,33.0,Morgan Frost,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:02:14Z,2,03:01,16:59,Blocked Shot,n/a,78.0,-8.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:02:29Z,2,03:14,16:46,Blocked Shot,n/a,65.0,-18.0,Morgan Rielly,Blocker,Toronto Maple Leafs,James van Riemsdyk,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:02:42Z,2,03:14,16:46,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Tyler Pitlick,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:03:23Z,2,03:20,16:40,Faceoff,n/a,20.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:03:57Z,2,03:44,16:16,Hit,n/a,13.0,41.0,Dmytro Timashov,Hitter,Toronto Maple Leafs,Shayne Gostisbehere,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:04:08Z,2,04:00,16:00,Takeaway,n/a,-24.0,-41.0,Jakub Voracek,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:04:20Z,2,04:11,15:49,Takeaway,n/a,81.0,22.0,Justin Holl,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:04:25Z,2,04:16,15:44,Shot,Wrist Shot,-79.0,0.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:04:54Z,2,04:16,15:44,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:05:14Z,2,04:37,15:23,Shot,Wrist Shot,-65.0,28.0,William Nylander,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:05:20Z,2,04:42,15:18,Giveaway,n/a,-99.0,0.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:05:52Z,2,05:14,14:46,Shot,Wrist Shot,38.0,-25.0,Justin Braun,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:06:48Z,2,06:10,13:50,Missed Shot,n/a,33.0,20.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:06:52Z,2,06:14,13:46,Missed Shot,n/a,89.0,-10.0,Morgan Frost,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:07:03Z,2,06:21,13:39,Takeaway,n/a,23.0,-31.0,Morgan Frost,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:07:01Z,2,06:24,13:36,Shot,Wrist Shot,65.0,-3.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:07:49Z,2,07:03,12:57,Shot,Wrist Shot,-36.0,39.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:08:50Z,2,08:12,11:48,Hit,n/a,97.0,-12.0,Sean Couturier,Hitter,Philadelphia Flyers,Andreas Johnsson,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:09:03Z,2,08:24,11:36,Hit,n/a,-97.0,22.0,Scott Laughton,Hitter,Philadelphia Flyers,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:09:27Z,2,08:49,11:11,Goal,Wrist Shot,80.0,-3.0,Scott Laughton,Scorer,Philadelphia Flyers,Kevin Hayes,Assist,Philadelphia Flyers,Matt Niskanen,Assist,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-12-04T01:10:08Z,2,08:49,11:11,Faceoff,n/a,0.0,0.0,Morgan Frost,Winner,Philadelphia Flyers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:10:19Z,2,09:02,10:58,Shot,Snap Shot,65.0,-1.0,Claude Giroux,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:10:27Z,2,09:08,10:52,Blocked Shot,n/a,74.0,-2.0,Jason Spezza,Blocker,Toronto Maple Leafs,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:12:20Z,2,09:08,10:52,Faceoff,n/a,69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:12:47Z,2,09:12,10:48,Shot,Wrist Shot,55.0,-18.0,Morgan Frost,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:12:53Z,2,09:17,10:43,Hit,n/a,85.0,36.0,Claude Giroux,Hitter,Philadelphia Flyers,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:12:54Z,2,09:19,10:41,Shot,Tip-In,80.0,3.0,Travis Konecny,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:13:03Z,2,09:28,10:32,Blocked Shot,n/a,73.0,-4.0,John Tavares,Blocker,Toronto Maple Leafs,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:13:53Z,2,10:18,09:42,Blocked Shot,n/a,81.0,-2.0,Travis Dermott,Blocker,Toronto Maple Leafs,Michael Raffl,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:14:01Z,2,10:24,09:36,Shot,Wrist Shot,-42.0,36.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:15:43Z,2,10:24,09:36,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:16:28Z,2,10:28,09:32,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:17:02Z,2,10:40,09:20,Giveaway,n/a,-95.0,11.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:17:25Z,2,11:03,08:57,Hit,n/a,-99.0,-18.0,Matt Niskanen,Hitter,Philadelphia Flyers,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:17:35Z,2,11:13,08:47,Hit,n/a,-71.0,42.0,Matt Niskanen,Hitter,Philadelphia Flyers,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:18:08Z,2,11:47,08:13,Giveaway,n/a,-98.0,-2.0,Carter Hart,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:18:11Z,2,11:50,08:10,Takeaway,n/a,-78.0,39.0,Shayne Gostisbehere,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:18:39Z,2,12:13,07:47,Penalty,Holding,84.0,-37.0,Zach Hyman,PenaltyOn,Toronto Maple Leafs,Shayne Gostisbehere,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:19:07Z,2,12:13,07:47,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:19:39Z,2,12:35,07:25,Blocked Shot,n/a,67.0,-4.0,Frederik Gauthier,Blocker,Toronto Maple Leafs,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:19:57Z,2,12:42,07:18,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:21:24Z,2,13:31,06:29,Faceoff,n/a,20.0,22.0,Kasperi Kapanen,Winner,Toronto Maple Leafs,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:22:15Z,2,14:18,05:42,Shot,Slap Shot,36.0,8.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:22:24Z,2,14:18,05:42,Penalty,Hooking,88.0,-8.0,Jake Muzzin,PenaltyOn,Toronto Maple Leafs,Sean Couturier,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:24:36Z,2,14:18,05:42,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:25:05Z,2,14:51,05:09,Blocked Shot,n/a,72.0,1.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:25:16Z,2,15:02,04:58,Shot,Wrist Shot,-67.0,-9.0,Frederik Gauthier,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:25:33Z,2,15:14,04:46,Takeaway,n/a,48.0,-19.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:26:05Z,2,15:51,04:09,Missed Shot,n/a,32.0,3.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:26:29Z,2,16:14,03:46,Takeaway,n/a,62.0,-13.0,Andreas Johnsson,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:26:57Z,2,16:42,03:18,Shot,Wrist Shot,-44.0,-31.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:27:30Z,2,16:42,03:18,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:27:35Z,2,16:50,03:10,Giveaway,n/a,-52.0,40.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:27:39Z,2,16:54,03:06,Hit,n/a,-98.0,16.0,William Nylander,Hitter,Toronto Maple Leafs,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:28:03Z,2,17:18,02:42,Shot,Backhand,-76.0,5.0,Auston Matthews,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:28:07Z,2,17:21,02:39,Giveaway,n/a,-86.0,7.0,Joel Farabee,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:28:25Z,2,17:35,02:25,Takeaway,n/a,-99.0,-2.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:28:41Z,2,17:52,02:08,Giveaway,n/a,-99.0,0.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:28:45Z,2,17:57,02:03,Missed Shot,n/a,-76.0,-17.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:28:54Z,2,18:06,01:54,Blocked Shot,n/a,-83.0,5.0,Justin Holl,Blocker,Toronto Maple Leafs,Travis Sanheim,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:29:22Z,2,18:06,01:54,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:29:46Z,2,18:29,01:31,Giveaway,n/a,55.0,39.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:29:46Z,2,18:29,01:31,Shot,Backhand,62.0,4.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:29:46Z,2,18:30,01:30,Missed Shot,n/a,83.0,-3.0,Michael Raffl,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:30:02Z,2,18:44,01:16,Hit,n/a,94.0,-30.0,Alexander Kerfoot,Hitter,Toronto Maple Leafs,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:30:31Z,2,19:13,00:47,Giveaway,n/a,27.0,40.0,Claude Giroux,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:31:06Z,2,19:32,00:28,Faceoff,n/a,-69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:31:50Z,2,19:42,00:18,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:32:07Z,2,19:51,00:09,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:51:00Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:52:01Z,3,00:58,19:02,Shot,Wrist Shot,33.0,37.0,Travis Dermott,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:52:42Z,3,01:39,18:21,Missed Shot,n/a,34.0,-29.0,Travis Dermott,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:53:03Z,3,01:47,18:13,Faceoff,n/a,20.0,-22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Morgan Frost,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:53:27Z,3,02:03,17:57,Takeaway,n/a,25.0,8.0,Claude Giroux,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:53:33Z,3,02:05,17:55,Blocked Shot,n/a,-79.0,-4.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:54:05Z,3,02:41,17:19,Missed Shot,n/a,-38.0,-7.0,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:54:22Z,3,02:49,17:11,Missed Shot,n/a,-81.0,2.0,Scott Laughton,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:54:37Z,3,02:49,17:11,Faceoff,n/a,-69.0,-22.0,William Nylander,Winner,Toronto Maple Leafs,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:54:57Z,3,03:05,16:55,Shot,Wrist Shot,54.0,-24.0,William Nylander,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:55:20Z,3,03:27,16:33,Takeaway,n/a,-29.0,-27.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:55:31Z,3,03:39,16:21,Blocked Shot,n/a,79.0,-8.0,Matt Niskanen,Blocker,Philadelphia Flyers,Pierre Engvall,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:55:53Z,3,04:01,15:59,Takeaway,n/a,79.0,-8.0,Shayne Gostisbehere,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:56:25Z,3,04:32,15:28,Giveaway,n/a,13.0,12.0,Morgan Frost,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:56:28Z,3,04:35,15:25,Blocked Shot,n/a,74.0,-3.0,Shayne Gostisbehere,Blocker,Philadelphia Flyers,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:56:57Z,3,04:36,15:24,Faceoff,n/a,69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:57:23Z,3,04:52,15:08,Shot,Wrist Shot,-59.0,-10.0,Claude Giroux,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:57:56Z,3,04:52,15:08,Faceoff,n/a,-69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:57:57Z,3,04:56,15:04,Takeaway,n/a,-98.0,-1.0,Tyler Pitlick,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:57:58Z,3,04:59,15:01,Shot,Wrist Shot,-73.0,14.0,Tyler Pitlick,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:58:15Z,3,05:14,14:46,Hit,n/a,83.0,-37.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:58:28Z,3,05:28,14:32,Shot,Wrist Shot,-80.0,2.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:58:59Z,3,05:59,14:01,Giveaway,n/a,56.0,-39.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:59:07Z,3,06:07,13:53,Blocked Shot,n/a,-56.0,15.0,Zach Hyman,Blocker,Toronto Maple Leafs,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:59:13Z,3,06:12,13:48,Hit,n/a,-94.0,26.0,Alexander Kerfoot,Hitter,Toronto Maple Leafs,Oskar Lindblom,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:59:21Z,3,06:21,13:39,Blocked Shot,n/a,-76.0,3.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Philippe Myers,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:59:43Z,3,06:25,13:35,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T01:59:55Z,3,06:27,13:33,Shot,Snap Shot,-58.0,-15.0,Morgan Frost,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:00:02Z,3,06:33,13:27,Hit,n/a,-67.0,-40.0,Claude Giroux,Hitter,Philadelphia Flyers,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:00:44Z,3,07:16,12:44,Blocked Shot,n/a,75.0,-6.0,Ivan Provorov,Blocker,Philadelphia Flyers,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:01:13Z,3,07:21,12:39,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:01:18Z,3,07:25,12:35,Missed Shot,n/a,64.0,11.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:01:24Z,3,07:32,12:28,Shot,Snap Shot,62.0,1.0,Auston Matthews,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:01:30Z,3,07:33,12:27,Hit,n/a,89.0,36.0,Scott Laughton,Hitter,Philadelphia Flyers,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:01:58Z,3,08:04,11:56,Hit,n/a,44.0,-42.0,Scott Laughton,Hitter,Philadelphia Flyers,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:02:25Z,3,08:32,11:28,Shot,Tip-In,82.0,-6.0,Pierre Engvall,Shooter,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:04:23Z,3,08:32,11:28,Faceoff,n/a,69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:04:49Z,3,08:38,11:22,Goal,Wrist Shot,33.0,-31.0,Travis Dermott,Scorer,Toronto Maple Leafs,Jason Spezza,Assist,Toronto Maple Leafs,Carter Hart,Goalie,Philadelphia Flyers,n/a,n/a,n/a
+2019-12-04T02:05:33Z,3,08:38,11:22,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:05:55Z,3,08:57,11:03,Missed Shot,n/a,49.0,22.0,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:06:04Z,3,09:06,10:54,Giveaway,n/a,76.0,40.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:06:07Z,3,09:09,10:51,Giveaway,n/a,74.0,41.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:06:13Z,3,09:16,10:44,Shot,Wrist Shot,-81.0,1.0,Sean Couturier,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:06:24Z,3,09:27,10:33,Missed Shot,n/a,-83.0,8.0,Philippe Myers,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:06:48Z,3,09:50,10:10,Blocked Shot,n/a,-74.0,6.0,Cody Ceci,Blocker,Toronto Maple Leafs,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:07:00Z,3,10:00,10:00,Goal,Snap Shot,-74.0,2.0,Claude Giroux,Scorer,Philadelphia Flyers,Travis Konecny,Assist,Philadelphia Flyers,Philippe Myers,Assist,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-12-04T02:07:41Z,3,10:00,10:00,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:08:04Z,3,10:09,09:51,Faceoff,n/a,-69.0,-22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:08:27Z,3,10:26,09:34,Hit,n/a,98.0,12.0,Matt Niskanen,Hitter,Philadelphia Flyers,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:08:39Z,3,10:39,09:21,Takeaway,n/a,-35.0,-23.0,Travis Dermott,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:08:47Z,3,10:44,09:16,Hit,n/a,-76.0,-40.0,Kevin Hayes,Hitter,Philadelphia Flyers,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:09:02Z,3,11:02,08:58,Missed Shot,n/a,-62.0,36.0,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:09:18Z,3,11:17,08:43,Shot,Tip-In,-67.0,11.0,Claude Giroux,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:11:10Z,3,11:17,08:43,Faceoff,n/a,-69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:12:13Z,3,11:58,08:02,Takeaway,n/a,32.0,-1.0,Oskar Lindblom,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:12:33Z,3,12:18,07:42,Missed Shot,n/a,34.0,-5.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:12:47Z,3,12:32,07:28,Blocked Shot,n/a,74.0,-1.0,Justin Braun,Blocker,Philadelphia Flyers,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:13:32Z,3,13:17,06:43,Hit,n/a,86.0,-35.0,Philippe Myers,Hitter,Philadelphia Flyers,Jason Spezza,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:13:34Z,3,13:19,06:41,Missed Shot,n/a,70.0,-36.0,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:14:17Z,3,13:42,06:18,Penalty,Interference,63.0,-1.0,Auston Matthews,PenaltyOn,Toronto Maple Leafs,Claude Giroux,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:14:41Z,3,13:42,06:18,Faceoff,n/a,-69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:14:38Z,3,13:47,06:13,Blocked Shot,n/a,-80.0,6.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:14:54Z,3,14:04,05:56,Missed Shot,n/a,-80.0,3.0,James van Riemsdyk,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:15:00Z,3,14:09,05:51,Shot,Snap Shot,-32.0,-19.0,Ivan Provorov,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:15:28Z,3,14:37,05:23,Takeaway,n/a,98.0,-14.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:15:34Z,3,14:41,05:19,Hit,n/a,90.0,-31.0,Sean Couturier,Hitter,Philadelphia Flyers,Kasperi Kapanen,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:15:54Z,3,15:03,04:57,Giveaway,n/a,-98.0,0.0,Frederik Andersen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:17:00Z,3,16:07,03:53,Hit,n/a,99.0,-12.0,William Nylander,Hitter,Toronto Maple Leafs,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:17:25Z,3,16:32,03:28,Goal,Wrist Shot,-64.0,15.0,Travis Konecny,Scorer,Philadelphia Flyers,Philippe Myers,Assist,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a
+2019-12-04T02:18:09Z,3,16:32,03:28,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:18:31Z,3,16:56,03:04,Giveaway,n/a,-92.0,5.0,Jake Muzzin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:19:44Z,3,17:53,02:07,Missed Shot,n/a,50.0,-40.0,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:19:31Z,3,17:54,02:06,Goal,Wrist Shot,-82.0,-4.0,Joel Farabee,Scorer,Philadelphia Flyers,Ivan Provorov,Assist,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:20:13Z,3,17:54,02:06,Faceoff,n/a,0.0,0.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Morgan Frost,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:20:25Z,3,18:10,01:50,Blocked Shot,n/a,47.0,21.0,Tyler Pitlick,Blocker,Philadelphia Flyers,Travis Dermott,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:21:13Z,3,18:31,01:29,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:21:17Z,3,18:35,01:25,Blocked Shot,n/a,-63.0,3.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Justin Braun,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:21:21Z,3,18:41,01:19,Shot,Wrist Shot,-80.0,1.0,Oskar Lindblom,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:21:43Z,3,19:01,00:59,Shot,Slap Shot,-60.0,-15.0,Sean Couturier,Shooter,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:22:05Z,3,19:21,00:39,Goal,Slap Shot,-56.0,-22.0,Shayne Gostisbehere,Scorer,Philadelphia Flyers,Travis Sanheim,Assist,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a
+2019-12-04T02:22:45Z,3,19:21,00:39,Faceoff,n/a,0.0,0.0,Morgan Frost,Winner,Philadelphia Flyers,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:22:48Z,3,19:33,00:27,Goal,Backhand,-82.0,1.0,James van Riemsdyk,Scorer,Philadelphia Flyers,Philippe Myers,Assist,Philadelphia Flyers,Shayne Gostisbehere,Assist,Philadelphia Flyers,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-12-04T02:23:24Z,3,19:33,00:27,Faceoff,n/a,0.0,0.0,Morgan Frost,Winner,Philadelphia Flyers,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-04T02:23:34Z,3,19:43,00:17,Hit,n/a,-79.0,39.0,Justin Holl,Hitter,Toronto Maple Leafs,James van Riemsdyk,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a

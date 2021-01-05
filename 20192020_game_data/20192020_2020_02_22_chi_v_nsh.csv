@@ -1,0 +1,294 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-22T01:37:51Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Carpenter,Winner,Chicago Blackhawks,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:39:07Z,1,00:18,19:42,Blocked Shot,n/a,-58.0,23.0,Roman Josi,Blocker,Nashville Predators,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:39:25Z,1,00:36,19:24,Takeaway,n/a,-91.0,29.0,Ryan Carpenter,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:39:30Z,1,00:38,19:22,Blocked Shot,n/a,-87.0,-4.0,Filip Forsberg,Blocker,Nashville Predators,Ryan Carpenter,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:40:14Z,1,01:25,18:35,Giveaway,n/a,93.0,10.0,Corey Crawford,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:40:17Z,1,01:28,18:32,Blocked Shot,n/a,68.0,5.0,Jonathan Toews,Blocker,Chicago Blackhawks,Dan Hamhuis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:40:30Z,1,01:41,18:19,Missed Shot,n/a,49.0,-30.0,Dante Fabbro,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:40:37Z,1,01:48,18:12,Hit,n/a,83.0,35.0,Mikael Granlund,Hitter,Nashville Predators,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:40:46Z,1,01:57,18:03,Takeaway,n/a,98.0,-3.0,Mikael Granlund,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:40:52Z,1,02:03,17:57,Hit,n/a,-94.0,-13.0,Dante Fabbro,Hitter,Nashville Predators,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:41:06Z,1,02:17,17:43,Hit,n/a,-17.0,-10.0,Olli Maatta,Hitter,Chicago Blackhawks,Matt Duchene,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:41:07Z,1,02:18,17:42,Shot,Wrist Shot,-53.0,-11.0,Alex Nylander,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:41:19Z,1,02:30,17:30,Missed Shot,n/a,-65.0,5.0,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:41:26Z,1,02:37,17:23,Blocked Shot,n/a,-55.0,-17.0,Matt Duchene,Blocker,Nashville Predators,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:41:34Z,1,02:45,17:15,Missed Shot,n/a,-81.0,-20.0,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:41:44Z,1,02:47,17:13,Penalty,Slashing,-21.0,-31.0,Matt Duchene,PenaltyOn,Nashville Predators,Alex Nylander,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:41:57Z,1,02:47,17:13,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:42:16Z,1,03:00,17:00,Shot,Snap Shot,-66.0,16.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:42:31Z,1,03:14,16:46,Missed Shot,n/a,-43.0,8.0,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:42:56Z,1,03:17,16:43,Faceoff,n/a,-69.0,22.0,Alex DeBrincat,Winner,Chicago Blackhawks,Calle Jarnkrok,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:43:41Z,1,03:22,16:38,Hit,n/a,-75.0,-1.0,Dan Hamhuis,Hitter,Nashville Predators,Alex DeBrincat,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:43:27Z,1,03:24,16:36,Shot,Slap Shot,-37.0,-1.0,Duncan Keith,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:43:32Z,1,03:24,16:36,Shot,Backhand,-83.0,-1.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:43:47Z,1,03:24,16:36,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:43:56Z,1,03:29,16:31,Shot,Slap Shot,-44.0,20.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:44:19Z,1,03:52,16:08,Shot,Slap Shot,-40.0,-12.0,Duncan Keith,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:44:27Z,1,04:00,16:00,Blocked Shot,n/a,-53.0,-11.0,Kyle Turris,Blocker,Nashville Predators,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:44:38Z,1,04:12,15:48,Blocked Shot,n/a,-56.0,-11.0,Kyle Turris,Blocker,Nashville Predators,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:44:47Z,1,04:21,15:39,Shot,Slap Shot,-77.0,12.0,Jonathan Toews,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:45:07Z,1,04:40,15:20,Shot,Slap Shot,-44.0,-16.0,Duncan Keith,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:45:20Z,1,04:53,15:07,Hit,n/a,-38.0,-37.0,Kyle Turris,Hitter,Nashville Predators,Patrick Kane,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:45:38Z,1,05:12,14:48,Hit,n/a,43.0,37.0,Roman Josi,Hitter,Nashville Predators,Drake Caggiula,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:45:46Z,1,05:20,14:40,Hit,n/a,97.0,1.0,Nick Seeler,Hitter,Chicago Blackhawks,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:46:14Z,1,05:47,14:13,Giveaway,n/a,-96.0,-21.0,Ryan Ellis,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:46:23Z,1,05:56,14:04,Blocked Shot,n/a,-54.0,1.0,Mikael Granlund,Blocker,Nashville Predators,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:46:49Z,1,06:10,13:50,Faceoff,n/a,69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:47:15Z,1,06:22,13:38,Hit,n/a,77.0,36.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Ryan Johansen,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:47:29Z,1,06:36,13:24,Hit,n/a,-90.0,-31.0,Matthew Highmore,Hitter,Chicago Blackhawks,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:47:38Z,1,06:45,13:15,Hit,n/a,92.0,-26.0,Nick Seeler,Hitter,Chicago Blackhawks,Dan Hamhuis,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:47:56Z,1,07:03,12:57,Blocked Shot,n/a,79.0,17.0,Connor Murphy,Blocker,Chicago Blackhawks,Jarred Tinordi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:48:27Z,1,07:34,12:26,Takeaway,n/a,19.0,-9.0,Austin Watson,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:48:54Z,1,07:56,12:04,Penalty,Tripping,-77.0,5.0,Slater Koekkoek,PenaltyOn,Chicago Blackhawks,Rocco Grimaldi,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:08:42Z,1,07:56,12:04,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Mikael Granlund,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:51:31Z,1,08:21,11:39,Shot,Tip-In,81.0,4.0,Mikael Granlund,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:51:39Z,1,08:23,11:37,Hit,n/a,98.0,-5.0,Connor Murphy,Hitter,Chicago Blackhawks,Filip Forsberg,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:52:13Z,1,09:03,10:57,Missed Shot,n/a,78.0,-3.0,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:52:21Z,1,09:12,10:48,Missed Shot,n/a,-81.0,2.0,Brandon Saad,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:52:36Z,1,09:14,10:46,Penalty,PS - Hooking on breakaway,-81.0,0.0,Filip Forsberg,PenaltyOn,Nashville Predators,Brandon Saad,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:52:58Z,1,09:14,10:46,Shot,Wrist Shot,-81.0,0.0,Brandon Saad,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:53:20Z,1,09:14,10:46,Faceoff,n/a,-69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Drake Caggiula,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:53:52Z,1,09:29,10:31,Faceoff,n/a,20.0,22.0,Matt Duchene,Winner,Nashville Predators,Drake Caggiula,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:54:14Z,1,09:38,10:22,Hit,n/a,75.0,38.0,Matt Duchene,Hitter,Nashville Predators,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:55:00Z,1,10:24,09:36,Hit,n/a,68.0,-39.0,Olli Maatta,Hitter,Chicago Blackhawks,Colton Sissons,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:55:27Z,1,10:51,09:09,Hit,n/a,53.0,38.0,Adam Boqvist,Hitter,Chicago Blackhawks,Colton Sissons,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:55:56Z,1,11:00,09:00,Giveaway,n/a,89.0,-26.0,Olli Maatta,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:55:37Z,1,11:01,08:59,Hit,n/a,69.0,-39.0,Craig Smith,Hitter,Nashville Predators,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:57:33Z,1,11:02,08:58,Faceoff,n/a,69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:57:58Z,1,11:10,08:50,Giveaway,n/a,98.0,-4.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:58:01Z,1,11:14,08:46,Missed Shot,n/a,58.0,16.0,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:58:17Z,1,11:30,08:30,Hit,n/a,54.0,-37.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Craig Smith,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:58:28Z,1,11:41,08:19,Shot,Wrist Shot,81.0,3.0,Kyle Turris,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:58:37Z,1,11:50,08:10,Shot,Backhand,-77.0,6.0,Dylan Strome,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:58:42Z,1,11:55,08:05,Takeaway,n/a,-94.0,18.0,Kirby Dach,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:58:50Z,1,12:02,07:58,Shot,Wrist Shot,-86.0,-5.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:58:53Z,1,12:05,07:55,Hit,n/a,-77.0,-4.0,Kyle Turris,Hitter,Nashville Predators,Alex DeBrincat,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:59:25Z,1,12:30,07:30,Giveaway,n/a,-75.0,1.0,Ryan Ellis,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:59:19Z,1,12:31,07:29,Shot,Wrist Shot,-80.0,0.0,Matthew Highmore,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:59:34Z,1,12:46,07:14,Missed Shot,n/a,-80.0,-22.0,Matthew Highmore,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:59:40Z,1,12:53,07:07,Blocked Shot,n/a,-75.0,-3.0,Dan Hamhuis,Blocker,Nashville Predators,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:00:53Z,1,14:05,05:55,Shot,Tip-In,82.0,-1.0,Rocco Grimaldi,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:02:43Z,1,14:05,05:55,Faceoff,n/a,69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:03:13Z,1,14:11,05:49,Shot,Wrist Shot,49.0,-29.0,Filip Forsberg,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:03:20Z,1,14:18,05:42,Hit,n/a,39.0,-38.0,Filip Forsberg,Hitter,Nashville Predators,Jonathan Toews,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:03:43Z,1,14:42,05:18,Hit,n/a,-69.0,39.0,Drake Caggiula,Hitter,Chicago Blackhawks,Mattias Ekholm,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:04:12Z,1,14:42,05:18,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:04:40Z,1,15:07,04:53,Takeaway,n/a,15.0,-5.0,Dominik Kubalik,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:05:14Z,1,15:41,04:19,Shot,Wrist Shot,85.0,9.0,Mikael Granlund,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:05:49Z,1,16:17,03:43,Shot,Wrist Shot,57.0,28.0,Colin Blackwell,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:05:55Z,1,16:22,03:38,Missed Shot,n/a,81.0,0.0,Colton Sissons,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:05:53Z,1,16:24,03:36,Hit,n/a,58.0,-38.0,Colton Sissons,Hitter,Nashville Predators,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:06:30Z,1,16:57,03:03,Hit,n/a,-45.0,-33.0,Jarred Tinordi,Hitter,Nashville Predators,Matthew Highmore,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:06:41Z,1,17:09,02:51,Giveaway,n/a,15.0,-25.0,Slater Koekkoek,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:06:44Z,1,17:11,02:49,Shot,Wrist Shot,57.0,-1.0,Craig Smith,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:06:53Z,1,17:20,02:40,Shot,Wrap-around,88.0,-5.0,Craig Smith,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:06:59Z,1,17:21,02:39,Shot,Backhand,84.0,-6.0,Craig Smith,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:07:24Z,1,17:21,02:39,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:07:41Z,1,17:38,02:22,Takeaway,n/a,96.0,0.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:08:08Z,1,17:50,02:10,Hit,n/a,-33.0,36.0,Jarred Tinordi,Hitter,Nashville Predators,Drake Caggiula,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:08:08Z,1,18:05,01:55,Shot,Wrist Shot,73.0,-36.0,Viktor Arvidsson,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:08:42Z,1,18:07,01:53,Penalty,Cross checking,97.0,-2.0,Viktor Arvidsson,PenaltyOn,Nashville Predators,Nick Seeler,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:08:42Z,1,18:07,01:53,Faceoff,n/a,-69.0,-22.0,Colton Sissons,Winner,Nashville Predators,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:09:52Z,1,19:09,00:51,Missed Shot,n/a,-78.0,3.0,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:10:19Z,1,19:36,00:24,Missed Shot,n/a,-80.0,1.0,Kirby Dach,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:29:16Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:29:48Z,2,00:27,19:33,Blocked Shot,n/a,-80.0,-11.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:30:14Z,2,00:44,19:16,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:30:49Z,2,01:03,18:57,Hit,n/a,44.0,-19.0,Craig Smith,Hitter,Nashville Predators,Jonathan Toews,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:31:12Z,2,01:27,18:33,Missed Shot,n/a,-79.0,-6.0,Jarred Tinordi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:31:32Z,2,01:45,18:15,Shot,Tip-In,-78.0,7.0,Rocco Grimaldi,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:01Z,2,01:45,18:15,Faceoff,n/a,-69.0,22.0,Mikael Granlund,Winner,Nashville Predators,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:11Z,2,01:59,18:01,Blocked Shot,n/a,-86.0,5.0,Dylan Strome,Blocker,Chicago Blackhawks,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:20Z,2,02:07,17:53,Missed Shot,n/a,-46.0,23.0,Calle Jarnkrok,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:25Z,2,02:13,17:47,Shot,Wrist Shot,-72.0,9.0,Matt Duchene,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:27Z,2,02:15,17:45,Hit,n/a,-54.0,42.0,Mikael Granlund,Hitter,Nashville Predators,Dylan Strome,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:42Z,2,02:29,17:31,Shot,Wrist Shot,80.0,20.0,Kirby Dach,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:33:03Z,2,02:29,17:31,Faceoff,n/a,69.0,22.0,Colton Sissons,Winner,Nashville Predators,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:33:16Z,2,02:32,17:28,Giveaway,n/a,97.0,17.0,Ryan Ellis,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:33:16Z,2,02:36,17:24,Blocked Shot,n/a,61.0,4.0,Roman Josi,Blocker,Nashville Predators,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:33:33Z,2,02:38,17:22,Missed Shot,n/a,79.0,-5.0,David Kampf,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:33:57Z,2,03:17,16:43,Missed Shot,n/a,68.0,-25.0,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:34:16Z,2,03:36,16:24,Takeaway,n/a,38.0,37.0,Colin Blackwell,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:34:47Z,2,04:07,15:53,Shot,Snap Shot,59.0,22.0,Connor Murphy,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:35:07Z,2,04:07,15:53,Faceoff,n/a,69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:35:19Z,2,04:12,15:48,Missed Shot,n/a,77.0,4.0,Ryan Carpenter,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:35:26Z,2,04:15,15:45,Shot,Wrist Shot,50.0,-29.0,Connor Murphy,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:35:31Z,2,04:15,15:45,Faceoff,n/a,69.0,-22.0,Craig Smith,Winner,Nashville Predators,Brandon Saad,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:36:04Z,2,04:21,15:39,Hit,n/a,83.0,-33.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Jarred Tinordi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:36:13Z,2,04:30,15:30,Shot,Snap Shot,-71.0,4.0,Craig Smith,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:36:21Z,2,04:38,15:22,Shot,Snap Shot,-51.0,15.0,Rocco Grimaldi,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:36:24Z,2,04:38,15:22,Shot,Backhand,-82.0,-6.0,Kyle Turris,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:36:43Z,2,04:38,15:22,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:37:23Z,2,05:03,14:57,Giveaway,n/a,39.0,-38.0,Filip Forsberg,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:37:42Z,2,05:06,14:54,Takeaway,n/a,46.0,33.0,Viktor Arvidsson,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:37:32Z,2,05:13,14:47,Shot,Wrist Shot,-60.0,24.0,Ryan Johansen,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:37:48Z,2,05:29,14:31,Giveaway,n/a,-96.0,-3.0,Corey Crawford,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:38:15Z,2,05:55,14:05,Hit,n/a,-71.0,-36.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:38:40Z,2,06:20,13:40,Takeaway,n/a,-43.0,-34.0,Adam Boqvist,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:40:37Z,2,06:25,13:35,Faceoff,n/a,-20.0,-22.0,Colton Sissons,Winner,Nashville Predators,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:41:24Z,2,06:52,13:08,Blocked Shot,n/a,49.0,-13.0,Jarred Tinordi,Blocker,Nashville Predators,Dylan Strome,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:41:42Z,2,07:11,12:49,Shot,Wrist Shot,86.0,19.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:41:54Z,2,07:22,12:38,Blocked Shot,n/a,75.0,10.0,Austin Watson,Blocker,Nashville Predators,Adam Boqvist,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:42:30Z,2,07:58,12:02,Hit,n/a,93.0,12.0,Ryan Ellis,Hitter,Nashville Predators,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:42:41Z,2,08:09,11:51,Hit,n/a,41.0,-6.0,Ryan Johansen,Hitter,Nashville Predators,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:43:02Z,2,08:30,11:30,Shot,Wrist Shot,72.0,1.0,Brandon Saad,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:43:05Z,2,08:34,11:26,Giveaway,n/a,64.0,5.0,Viktor Arvidsson,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:43:11Z,2,08:40,11:20,Blocked Shot,n/a,-74.0,-2.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:43:19Z,2,08:47,11:13,Blocked Shot,n/a,-78.0,-4.0,Duncan Keith,Blocker,Chicago Blackhawks,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:43:28Z,2,08:57,11:03,Shot,Wrist Shot,80.0,-7.0,David Kampf,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:43:30Z,2,08:58,11:02,Takeaway,n/a,47.0,36.0,David Kampf,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:43:40Z,2,09:09,10:51,Hit,n/a,55.0,39.0,Craig Smith,Hitter,Nashville Predators,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:43:42Z,2,09:10,10:50,Shot,Wrist Shot,-71.0,14.0,Rocco Grimaldi,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:44:11Z,2,09:10,10:50,Faceoff,n/a,-69.0,22.0,Mikael Granlund,Winner,Nashville Predators,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:44:29Z,2,09:21,10:39,Hit,n/a,92.0,29.0,Dante Fabbro,Hitter,Nashville Predators,Matthew Highmore,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:44:39Z,2,09:30,10:30,Shot,Wrist Shot,-48.0,17.0,Dante Fabbro,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:44:53Z,2,09:30,10:30,Faceoff,n/a,-69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:45:10Z,2,09:32,10:28,Giveaway,n/a,-98.0,9.0,Olli Maatta,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:45:17Z,2,09:44,10:16,Shot,Slap Shot,-37.0,4.0,Dante Fabbro,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:45:22Z,2,09:48,10:12,Shot,Wrist Shot,-82.0,-5.0,Calle Jarnkrok,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:45:26Z,2,09:52,10:08,Shot,Wrist Shot,-49.0,1.0,Dante Fabbro,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:45:39Z,2,10:06,09:54,Hit,n/a,6.0,-31.0,Adam Boqvist,Hitter,Chicago Blackhawks,Matt Duchene,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:46:04Z,2,10:15,09:45,Hit,n/a,90.0,-25.0,Drake Caggiula,Hitter,Chicago Blackhawks,Dan Hamhuis,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:46:13Z,2,10:39,09:21,Missed Shot,n/a,73.0,6.0,Drake Caggiula,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:46:35Z,2,11:01,08:59,Blocked Shot,n/a,-69.0,1.0,Connor Murphy,Blocker,Chicago Blackhawks,Rocco Grimaldi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:47:00Z,2,11:18,08:42,Giveaway,n/a,-81.0,-33.0,Nick Seeler,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:46:58Z,2,11:25,08:35,Missed Shot,n/a,-60.0,-12.0,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:47:07Z,2,11:33,08:27,Missed Shot,n/a,79.0,7.0,Kirby Dach,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:47:20Z,2,11:47,08:13,Shot,Wrist Shot,-15.0,-8.0,Ryan Johansen,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:47:34Z,2,12:01,07:59,Missed Shot,n/a,36.0,-20.0,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:47:40Z,2,12:07,07:53,Blocked Shot,n/a,42.0,-6.0,Craig Smith,Blocker,Nashville Predators,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:47:56Z,2,12:23,07:37,Hit,n/a,-95.0,-10.0,Kyle Turris,Hitter,Nashville Predators,Duncan Keith,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:48:02Z,2,12:25,07:35,Penalty,Holding,-96.0,-14.0,Duncan Keith,PenaltyOn,Chicago Blackhawks,Kyle Turris,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:49:58Z,2,12:25,07:35,Faceoff,n/a,-69.0,-22.0,Mikael Granlund,Winner,Nashville Predators,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:50:59Z,2,12:33,07:27,Shot,Slap Shot,-40.0,7.0,Roman Josi,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:51:02Z,2,12:36,07:24,Takeaway,n/a,-44.0,11.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:51:03Z,2,12:37,07:23,Shot,Wrist Shot,-79.0,2.0,Craig Smith,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:51:43Z,2,13:16,06:44,Shot,Tip-In,-83.0,4.0,Craig Smith,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:52:16Z,2,13:30,06:30,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:52:40Z,2,13:45,06:15,Blocked Shot,n/a,-65.0,3.0,Ryan Carpenter,Blocker,Chicago Blackhawks,Calle Jarnkrok,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:53:33Z,2,14:18,05:42,Faceoff,n/a,-20.0,22.0,David Kampf,Winner,Chicago Blackhawks,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:53:54Z,2,14:32,05:28,Giveaway,n/a,94.0,16.0,Mattias Ekholm,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:54:10Z,2,14:49,05:11,Shot,Backhand,80.0,-9.0,Jonathan Toews,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:54:18Z,2,14:56,05:04,Goal,Wrist Shot,-66.0,-4.0,Mattias Ekholm,Scorer,Nashville Predators,Rocco Grimaldi,Assist,Nashville Predators,Colin Blackwell,Assist,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks
+2020-02-22T02:55:07Z,2,14:56,05:04,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:55:27Z,2,15:11,04:49,Giveaway,n/a,-97.0,-12.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:55:32Z,2,15:15,04:45,Takeaway,n/a,-55.0,-33.0,Patrick Kane,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:55:36Z,2,15:19,04:41,Shot,Slap Shot,43.0,4.0,Patrick Kane,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:57:37Z,2,15:19,04:41,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:57:59Z,2,15:27,04:33,Penalty,Interference,-8.0,-20.0,Slater Koekkoek,PenaltyOn,Chicago Blackhawks,Viktor Arvidsson,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:58:35Z,2,15:27,04:33,Faceoff,n/a,-69.0,-22.0,Mikael Granlund,Winner,Nashville Predators,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:58:54Z,2,15:37,04:23,Shot,Backhand,-80.0,2.0,Mikael Granlund,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:59:14Z,2,15:58,04:02,Shot,Wrist Shot,-60.0,24.0,Mikael Granlund,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:59:22Z,2,16:05,03:55,Hit,n/a,-47.0,-39.0,Craig Smith,Hitter,Nashville Predators,Jonathan Toews,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:59:33Z,2,16:14,03:46,Penalty,Hooking,-75.0,7.0,Duncan Keith,PenaltyOn,Chicago Blackhawks,Craig Smith,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:00:23Z,2,16:14,03:46,Faceoff,n/a,-69.0,-22.0,Mikael Granlund,Winner,Nashville Predators,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:00:45Z,2,16:45,03:15,Hit,n/a,-97.0,-13.0,Connor Murphy,Hitter,Chicago Blackhawks,Kyle Turris,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:00:54Z,2,16:54,03:06,Shot,Slap Shot,-50.0,18.0,Roman Josi,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:01:07Z,2,17:07,02:53,Blocked Shot,n/a,-63.0,-6.0,Connor Murphy,Blocker,Chicago Blackhawks,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:01:15Z,2,17:15,02:45,Shot,Wrist Shot,-71.0,-4.0,Filip Forsberg,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:01:27Z,2,17:27,02:33,Hit,n/a,-87.0,37.0,Olli Maatta,Hitter,Chicago Blackhawks,Matt Duchene,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:02:14Z,2,17:48,02:12,Faceoff,n/a,69.0,-22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:02:54Z,2,18:24,01:36,Giveaway,n/a,-41.0,-8.0,Dylan Strome,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:03:05Z,2,18:34,01:26,Hit,n/a,17.0,-36.0,Roman Josi,Hitter,Nashville Predators,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:03:44Z,2,18:37,01:23,Faceoff,n/a,-20.0,-22.0,Colton Sissons,Winner,Nashville Predators,Dominik Kubalik,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:04:11Z,2,19:01,00:59,Hit,n/a,-86.0,35.0,Colton Sissons,Hitter,Nashville Predators,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:04:38Z,2,19:28,00:32,Hit,n/a,34.0,35.0,Olli Maatta,Hitter,Chicago Blackhawks,Ryan Johansen,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:04:39Z,2,19:30,00:30,Shot,Backhand,16.0,33.0,Kirby Dach,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:05:09Z,2,19:46,00:14,Faceoff,n/a,-20.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:24:01Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:24:40Z,3,00:33,19:27,Blocked Shot,n/a,65.0,11.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:24:52Z,3,00:43,19:17,Shot,Wrist Shot,82.0,4.0,Ryan Ellis,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:24:59Z,3,00:43,19:17,Shot,Wrist Shot,87.0,11.0,Ryan Johansen,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:25:10Z,3,00:43,19:17,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Craig Smith,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:25:42Z,3,00:54,19:06,Hit,n/a,16.0,-38.0,Rocco Grimaldi,Hitter,Nashville Predators,Nick Seeler,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:25:55Z,3,01:03,18:57,Giveaway,n/a,91.0,23.0,Connor Murphy,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:25:56Z,3,01:08,18:52,Shot,Wrist Shot,70.0,1.0,Craig Smith,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:26:02Z,3,01:09,18:51,Shot,Wrist Shot,83.0,-4.0,Rocco Grimaldi,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:26:14Z,3,01:09,18:51,Shot,Wrist Shot,85.0,-5.0,Craig Smith,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:26:27Z,3,01:09,18:51,Faceoff,n/a,69.0,-22.0,Kyle Turris,Winner,Nashville Predators,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:27:21Z,3,01:53,18:07,Shot,Wrist Shot,-82.0,2.0,Drake Caggiula,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:27:59Z,3,02:10,17:50,Giveaway,n/a,77.0,35.0,Adam Boqvist,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:28:18Z,3,02:50,17:10,Hit,n/a,87.0,31.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Matt Duchene,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:28:27Z,3,02:59,17:01,Hit,n/a,-17.0,36.0,Austin Watson,Hitter,Nashville Predators,Dylan Strome,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:28:41Z,3,03:13,16:47,Hit,n/a,-92.0,-9.0,Colton Sissons,Hitter,Nashville Predators,Alex Nylander,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:30:19Z,3,03:37,16:23,Hit,n/a,96.0,-17.0,Connor Murphy,Hitter,Chicago Blackhawks,Colin Blackwell,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:29:44Z,3,03:48,16:12,Faceoff,n/a,-69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:29:49Z,3,03:56,16:04,Blocked Shot,n/a,-49.0,21.0,Viktor Arvidsson,Blocker,Nashville Predators,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:30:06Z,3,04:11,15:49,Shot,Wrist Shot,89.0,18.0,Ryan Johansen,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:30:39Z,3,04:11,15:49,Faceoff,n/a,69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:31:11Z,3,04:37,15:23,Hit,n/a,-37.0,41.0,Ryan Johansen,Hitter,Nashville Predators,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:31:29Z,3,04:45,15:15,Blocked Shot,n/a,-73.0,-5.0,Filip Forsberg,Blocker,Nashville Predators,Adam Boqvist,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:31:38Z,3,05:04,14:56,Shot,Wrist Shot,-63.0,12.0,Jonathan Toews,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:31:45Z,3,05:12,14:48,Shot,Wrist Shot,62.0,26.0,Craig Smith,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:32:00Z,3,05:26,14:34,Shot,Wrist Shot,-46.0,-5.0,Slater Koekkoek,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:32:11Z,3,05:36,14:24,Shot,Slap Shot,-34.0,27.0,Duncan Keith,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:46:30Z,3,05:36,14:24,Faceoff,n/a,-69.0,22.0,Colton Sissons,Winner,Nashville Predators,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:46:30Z,3,05:55,14:05,Hit,n/a,69.0,37.0,Austin Watson,Hitter,Nashville Predators,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:33:28Z,3,05:56,14:04,Penalty,Tripping,78.0,30.0,Slater Koekkoek,PenaltyOn,Chicago Blackhawks,Colin Blackwell,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:46:30Z,3,05:56,14:04,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:34:32Z,3,06:10,13:50,Hit,n/a,38.0,-37.0,Jonathan Toews,Hitter,Chicago Blackhawks,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:34:58Z,3,06:27,13:33,Penalty,Hooking,89.0,31.0,Ryan Johansen,PenaltyOn,Nashville Predators,Connor Murphy,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:35:25Z,3,06:27,13:33,Faceoff,n/a,-69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:36:12Z,3,07:11,12:49,Hit,n/a,53.0,16.0,Olli Maatta,Hitter,Chicago Blackhawks,Filip Forsberg,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:36:38Z,3,07:36,12:24,Takeaway,n/a,65.0,-35.0,Kirby Dach,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:36:44Z,3,07:38,12:22,Penalty,Tripping,59.0,-38.0,Filip Forsberg,PenaltyOn,Nashville Predators,Kirby Dach,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:38:44Z,3,07:38,12:22,Faceoff,n/a,-69.0,-22.0,Colton Sissons,Winner,Nashville Predators,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:39:25Z,3,08:11,11:49,Shot,Slap Shot,-60.0,-9.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:39:31Z,3,08:17,11:43,Missed Shot,n/a,-84.0,7.0,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:39:49Z,3,08:35,11:25,Shot,Snap Shot,-83.0,-8.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:40:12Z,3,08:58,11:02,Shot,Backhand,-81.0,-5.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:42:24Z,3,08:58,11:02,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:42:11Z,3,09:05,10:55,Goal,Tip-In,-79.0,2.0,Alex DeBrincat,Scorer,Chicago Blackhawks,Patrick Kane,Assist,Chicago Blackhawks,Duncan Keith,Assist,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators
+2020-02-22T03:43:17Z,3,09:05,10:55,Faceoff,n/a,0.0,0.0,Craig Smith,Winner,Nashville Predators,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:43:55Z,3,09:33,10:27,Giveaway,n/a,-76.0,37.0,Kyle Turris,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:44:17Z,3,09:55,10:05,Hit,n/a,65.0,-34.0,Matthew Highmore,Hitter,Chicago Blackhawks,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:44:28Z,3,10:07,09:53,Shot,Wrist Shot,-62.0,-6.0,Matthew Highmore,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:44:48Z,3,10:26,09:34,Hit,n/a,-94.0,-17.0,Matthew Highmore,Hitter,Chicago Blackhawks,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:45:22Z,3,11:00,09:00,Takeaway,n/a,44.0,-10.0,Viktor Arvidsson,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:47:30Z,3,11:06,08:54,Faceoff,n/a,-20.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:47:54Z,3,11:19,08:41,Hit,n/a,20.0,-38.0,Drake Caggiula,Hitter,Chicago Blackhawks,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:48:19Z,3,11:19,08:41,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:49:04Z,3,11:58,08:02,Hit,n/a,-56.0,-38.0,Jarred Tinordi,Hitter,Nashville Predators,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:49:39Z,3,12:04,07:56,Faceoff,n/a,-69.0,22.0,Kirby Dach,Winner,Chicago Blackhawks,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:49:46Z,3,12:10,07:50,Blocked Shot,n/a,-48.0,-14.0,Austin Watson,Blocker,Nashville Predators,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:49:51Z,3,12:15,07:45,Blocked Shot,n/a,-73.0,5.0,Ryan Ellis,Blocker,Nashville Predators,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:50:20Z,3,12:43,07:17,Hit,n/a,98.0,-8.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:50:28Z,3,12:52,07:08,Missed Shot,n/a,40.0,17.0,Colin Blackwell,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:50:29Z,3,12:53,07:07,Hit,n/a,75.0,-31.0,Colton Sissons,Hitter,Nashville Predators,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:50:40Z,3,13:03,06:57,Shot,Wrist Shot,54.0,-12.0,Calle Jarnkrok,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:51:01Z,3,13:03,06:57,Faceoff,n/a,69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Calle Jarnkrok,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:52:01Z,3,13:53,06:07,Blocked Shot,n/a,72.0,-7.0,Nick Seeler,Blocker,Chicago Blackhawks,Dante Fabbro,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:52:20Z,3,14:12,05:48,Hit,n/a,35.0,-33.0,Jonathan Toews,Hitter,Chicago Blackhawks,Rocco Grimaldi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:52:38Z,3,14:30,05:30,Shot,Slap Shot,-43.0,5.0,Slater Koekkoek,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:52:56Z,3,14:39,05:21,Giveaway,n/a,-42.0,4.0,Rocco Grimaldi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:52:52Z,3,14:44,05:16,Missed Shot,n/a,-38.0,4.0,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:52:56Z,3,14:48,05:12,Shot,Wrist Shot,-87.0,6.0,Drake Caggiula,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:53:00Z,3,14:53,05:07,Shot,Wrist Shot,-77.0,14.0,Drake Caggiula,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:53:51Z,3,15:43,04:17,Shot,Wrist Shot,-87.0,-6.0,Ryan Carpenter,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:54:12Z,3,15:49,04:11,Faceoff,n/a,-69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:55:23Z,3,16:46,03:14,Shot,Tip-In,-76.0,-5.0,Dylan Strome,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:55:39Z,3,17:02,02:58,Hit,n/a,-35.0,-33.0,Ryan Ellis,Hitter,Nashville Predators,Alex DeBrincat,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:55:50Z,3,17:13,02:47,Shot,Wrist Shot,85.0,11.0,Mikael Granlund,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:56:30Z,3,17:49,02:11,Hit,n/a,96.0,17.0,Connor Murphy,Hitter,Chicago Blackhawks,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:56:42Z,3,18:05,01:55,Hit,n/a,88.0,-26.0,Kyle Turris,Hitter,Nashville Predators,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:57:23Z,3,18:46,01:14,Blocked Shot,n/a,68.0,-19.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:57:38Z,3,19:00,01:00,Shot,Wrist Shot,38.0,27.0,Roman Josi,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:57:42Z,3,19:04,00:56,Hit,n/a,95.0,22.0,Viktor Arvidsson,Hitter,Nashville Predators,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:57:50Z,3,19:12,00:48,Missed Shot,n/a,62.0,13.0,Ryan Johansen,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:58:20Z,3,19:42,00:18,Shot,Wrist Shot,-83.0,10.0,Jonathan Toews,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:59:18Z,3,19:43,00:17,Shot,Wrist Shot,-80.0,0.0,Drake Caggiula,Shooter,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:58:37Z,3,19:58,00:02,Blocked Shot,n/a,-71.0,7.0,Jarred Tinordi,Blocker,Nashville Predators,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:00:47Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:01:49Z,4,00:53,04:07,Hit,n/a,67.0,-33.0,Brandon Saad,Hitter,Chicago Blackhawks,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:01:54Z,4,00:57,04:03,Missed Shot,n/a,-82.0,5.0,Mikael Granlund,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:01:59Z,4,01:03,03:57,Hit,n/a,-87.0,-27.0,Connor Murphy,Hitter,Chicago Blackhawks,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:02:20Z,4,01:23,03:37,Blocked Shot,n/a,57.0,-7.0,Mikael Granlund,Blocker,Nashville Predators,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:02:39Z,4,01:23,03:37,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:03:08Z,4,01:43,03:17,Missed Shot,n/a,46.0,-27.0,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:03:30Z,4,02:04,02:56,Takeaway,n/a,10.0,-37.0,Kirby Dach,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:04:07Z,4,02:41,02:19,Shot,Wrist Shot,-71.0,-9.0,Filip Forsberg,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:04:16Z,4,02:51,02:09,Shot,Slap Shot,-63.0,25.0,Ryan Ellis,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:04:53Z,4,03:28,01:32,Shot,Wrist Shot,-61.0,0.0,Roman Josi,Shooter,Nashville Predators,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:05:24Z,4,03:59,01:01,Takeaway,n/a,-69.0,-9.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T04:05:28Z,4,04:02,00:58,Goal,Wrist Shot,75.0,-1.0,Alex DeBrincat,Scorer,Chicago Blackhawks,Duncan Keith,Assist,Chicago Blackhawks,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a

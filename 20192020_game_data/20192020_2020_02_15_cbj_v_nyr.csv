@@ -1,0 +1,216 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-15T00:08:11Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:09:11Z,1,00:17,19:43,Shot,Wrist Shot,-36.0,20.0,Jacob Trouba,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:09:36Z,1,00:18,19:42,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:09:50Z,1,00:22,19:38,Goal,Slap Shot,-74.0,8.0,Pavel Buchnevich,Scorer,New York Rangers,Jacob Trouba,Assist,New York Rangers,Chris Kreider,Assist,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets
+2020-02-15T00:10:28Z,1,00:22,19:38,Faceoff,n/a,0.0,0.0,Ryan Strome,Winner,New York Rangers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:10:49Z,1,00:40,19:20,Shot,Wrist Shot,77.0,-4.0,Boone Jenner,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:11:40Z,1,01:31,18:29,Giveaway,n/a,-86.0,-14.0,Riley Nash,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:12:03Z,1,01:54,18:06,Giveaway,n/a,-80.0,-20.0,Filip Chytil,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:12:16Z,1,02:07,17:53,Missed Shot,n/a,41.0,29.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:12:36Z,1,02:28,17:32,Missed Shot,n/a,62.0,-7.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:13:39Z,1,03:30,16:30,Missed Shot,n/a,61.0,-3.0,Markus Nutivaara,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:14:05Z,1,03:56,16:04,Blocked Shot,n/a,-50.0,-7.0,Nathan Gerbe,Blocker,Columbus Blue Jackets,Ryan Lindgren,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:14:19Z,1,04:00,16:00,Faceoff,n/a,-69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:15:30Z,1,05:02,14:58,Missed Shot,n/a,41.0,-34.0,Andrew Peeke,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:16:06Z,1,05:38,14:22,Giveaway,n/a,19.0,-26.0,Phillip Di Giuseppe,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:16:52Z,1,05:58,14:02,Faceoff,n/a,69.0,-22.0,Chris Kreider,Winner,New York Rangers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:17:19Z,1,06:06,13:54,Missed Shot,n/a,64.0,-18.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:17:25Z,1,06:11,13:49,Shot,Wrist Shot,60.0,30.0,Zach Werenski,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:17:30Z,1,06:17,13:43,Shot,Wrist Shot,-64.0,-19.0,Chris Kreider,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:17:35Z,1,06:21,13:39,Shot,Wrist Shot,-47.0,-4.0,Ryan Lindgren,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:19:27Z,1,06:21,13:39,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:20:21Z,1,06:54,13:06,Missed Shot,n/a,66.0,-26.0,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:20:44Z,1,07:18,12:42,Shot,Wrist Shot,47.0,14.0,Riley Nash,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:20:52Z,1,07:19,12:41,Faceoff,n/a,69.0,22.0,Eric Robinson,Winner,Columbus Blue Jackets,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:21:39Z,1,07:33,12:27,Giveaway,n/a,84.0,-35.0,Filip Chytil,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:21:39Z,1,07:36,12:24,Missed Shot,n/a,52.0,-13.0,Andrew Peeke,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:22:14Z,1,08:11,11:49,Hit,n/a,-35.0,-22.0,Brendan Smith,Hitter,New York Rangers,Riley Nash,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:22:48Z,1,08:45,11:15,Shot,Wrist Shot,56.0,-20.0,Sonny Milano,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:23:10Z,1,08:46,11:14,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:23:27Z,1,08:49,11:11,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:24:03Z,1,09:18,10:42,Shot,Wrap-around,-84.0,-8.0,Pavel Buchnevich,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:24:03Z,1,09:18,10:42,Shot,Wrap-around,-84.0,-9.0,Pavel Buchnevich,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:24:10Z,1,09:25,10:35,Missed Shot,n/a,66.0,-29.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:24:32Z,1,09:47,10:13,Hit,n/a,50.0,41.0,Brady Skjei,Hitter,New York Rangers,Oliver Bjorkstrand,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:24:41Z,1,09:56,10:04,Missed Shot,n/a,-43.0,7.0,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:25:51Z,1,11:06,08:54,Hit,n/a,-19.0,-18.0,Marc Staal,Hitter,New York Rangers,Nathan Gerbe,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:26:00Z,1,11:15,08:45,Shot,Wrist Shot,-90.0,10.0,Filip Chytil,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:26:14Z,1,11:29,08:31,Shot,Wrist Shot,43.0,24.0,Nick Foligno,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:28:18Z,1,11:30,08:30,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Chris Kreider,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:28:48Z,1,11:43,08:17,Giveaway,n/a,-41.0,-37.0,Zach Werenski,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:29:19Z,1,12:08,07:52,Takeaway,n/a,-57.0,2.0,Zach Werenski,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:29:45Z,1,12:42,07:18,Takeaway,n/a,50.0,38.0,Sonny Milano,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:29:48Z,1,12:45,07:15,Blocked Shot,n/a,61.0,-11.0,Adam Fox,Blocker,New York Rangers,Kevin Stenlund,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:30:07Z,1,13:01,06:59,Missed Shot,n/a,70.0,8.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:30:47Z,1,13:44,06:16,Shot,Deflected,-34.0,23.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:31:13Z,1,14:10,05:50,Shot,Wrist Shot,-34.0,22.0,Jacob Trouba,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:31:21Z,1,14:17,05:43,Hit,n/a,-78.0,-39.0,Jakob Lilja,Hitter,Columbus Blue Jackets,Brady Skjei,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:32:06Z,1,14:54,05:06,Faceoff,n/a,-69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:32:45Z,1,15:21,04:39,Blocked Shot,n/a,-73.0,-14.0,Markus Nutivaara,Blocker,Columbus Blue Jackets,Chris Kreider,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:32:52Z,1,15:26,04:34,Shot,Wrap-around,-87.0,6.0,Mika Zibanejad,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:32:52Z,1,15:29,04:31,Blocked Shot,n/a,-69.0,9.0,Boone Jenner,Blocker,Columbus Blue Jackets,Adam Fox,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:32:55Z,1,15:30,04:30,Missed Shot,n/a,-61.0,-5.0,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:34:57Z,1,15:30,04:30,Faceoff,n/a,-69.0,22.0,Ryan Strome,Winner,New York Rangers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:35:18Z,1,15:44,04:16,Hit,n/a,33.0,40.0,Jacob Trouba,Hitter,New York Rangers,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:35:52Z,1,16:21,03:39,Blocked Shot,n/a,75.0,-11.0,Jacob Trouba,Blocker,New York Rangers,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:36:07Z,1,16:36,03:24,Blocked Shot,n/a,54.0,-15.0,Artemi Panarin,Blocker,New York Rangers,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:36:18Z,1,16:41,03:19,Blocked Shot,n/a,48.0,-18.0,Artemi Panarin,Blocker,New York Rangers,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:36:46Z,1,17:14,02:46,Shot,Wrist Shot,-60.0,13.0,Filip Chytil,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:37:16Z,1,17:15,02:45,Faceoff,n/a,-69.0,22.0,Greg McKegg,Winner,New York Rangers,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:37:36Z,1,17:20,02:40,Missed Shot,n/a,-41.0,23.0,Brendan Smith,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:38:21Z,1,18:05,01:55,Giveaway,n/a,71.0,40.0,Sonny Milano,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:39:23Z,1,18:58,01:02,Penalty,Tripping,92.0,13.0,Eric Robinson,PenaltyOn,Columbus Blue Jackets,Pavel Buchnevich,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:39:52Z,1,18:58,01:02,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:39:57Z,1,19:07,00:53,Blocked Shot,n/a,-78.0,8.0,David Savard,Blocker,Columbus Blue Jackets,Ryan Strome,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:40:15Z,1,19:23,00:37,Shot,Slap Shot,-41.0,14.0,Ryan Strome,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:59:18Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Boone Jenner,Winner,Columbus Blue Jackets,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T00:59:56Z,2,00:36,19:24,Blocked Shot,n/a,83.0,-8.0,David Savard,Blocker,Columbus Blue Jackets,Ryan Strome,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:00:08Z,2,00:45,19:15,Shot,Wrist Shot,-40.0,-35.0,Boone Jenner,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:00:16Z,2,00:56,19:04,Shot,Wrist Shot,67.0,15.0,Chris Kreider,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:00:43Z,2,00:57,19:03,Faceoff,n/a,69.0,22.0,Gustav Nyquist,Winner,Columbus Blue Jackets,Pavel Buchnevich,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:01:18Z,2,01:28,18:32,Hit,n/a,-83.0,-38.0,Brady Skjei,Hitter,New York Rangers,Oliver Bjorkstrand,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:01:23Z,2,01:33,18:27,Shot,Wrist Shot,-40.0,27.0,Markus Nutivaara,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:01:33Z,2,01:38,18:22,Blocked Shot,n/a,-81.0,-5.0,Brady Skjei,Blocker,New York Rangers,Kevin Stenlund,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:02:15Z,2,02:25,17:35,Shot,Wrist Shot,68.0,-20.0,Adam Fox,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:03:16Z,2,03:25,16:35,Shot,Wrist Shot,-81.0,-19.0,Eric Robinson,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:03:47Z,2,03:57,16:03,Shot,Wrist Shot,-44.0,-30.0,Nathan Gerbe,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:03:56Z,2,04:06,15:54,Hit,n/a,-94.0,-15.0,Brendan Smith,Hitter,New York Rangers,Nick Foligno,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:04:05Z,2,04:14,15:46,Shot,Wrist Shot,-36.0,23.0,Markus Nutivaara,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:04:45Z,2,04:15,15:45,Faceoff,n/a,-69.0,22.0,Filip Chytil,Winner,New York Rangers,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:05:02Z,2,04:41,15:19,Shot,Wrist Shot,-77.0,-2.0,Filip Chytil,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:05:06Z,2,04:45,15:15,Hit,n/a,62.0,40.0,Brendan Lemieux,Hitter,New York Rangers,Scott Harrington,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:05:17Z,2,04:56,15:04,Shot,Slap Shot,-36.0,27.0,Andrew Peeke,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:05:27Z,2,05:05,14:55,Missed Shot,n/a,-77.0,8.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:05:49Z,2,05:28,14:32,Shot,Slap Shot,-37.0,23.0,Andrew Peeke,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:05:56Z,2,05:35,14:25,Blocked Shot,n/a,-71.0,-19.0,Jacob Trouba,Blocker,New York Rangers,Gustav Nyquist,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:06:03Z,2,05:42,14:18,Blocked Shot,n/a,-66.0,-1.0,Brendan Lemieux,Blocker,New York Rangers,Andrew Peeke,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:06:24Z,2,05:57,14:03,Blocked Shot,n/a,75.0,-2.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Phillip Di Giuseppe,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:06:55Z,2,05:59,14:01,Faceoff,n/a,69.0,22.0,Greg McKegg,Winner,New York Rangers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:06:59Z,2,06:05,13:55,Shot,Wrist Shot,79.0,28.0,Ryan Lindgren,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:08:54Z,2,06:09,13:51,Faceoff,n/a,69.0,22.0,Greg McKegg,Winner,New York Rangers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:09:23Z,2,06:17,13:43,Giveaway,n/a,36.0,-27.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:09:39Z,2,06:33,13:27,Hit,n/a,-48.0,-38.0,Phillip Di Giuseppe,Hitter,New York Rangers,Vladislav Gavrikov,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:09:45Z,2,06:40,13:20,Missed Shot,n/a,-36.0,25.0,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:09:52Z,2,06:46,13:14,Missed Shot,n/a,-46.0,-26.0,Riley Nash,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:10:02Z,2,06:50,13:10,Shot,Slap Shot,-42.0,27.0,Riley Nash,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:10:54Z,2,07:34,12:26,Penalty,Holding,79.0,-9.0,Pavel Buchnevich,PenaltyOn,New York Rangers,Zach Werenski,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:10:54Z,2,07:34,12:26,Penalty,Unsportsmanlike conduct,80.0,-9.0,Pavel Buchnevich,PenaltyOn,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:11:22Z,2,07:34,12:26,Faceoff,n/a,-69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:11:47Z,2,07:51,12:09,Shot,Backhand,71.0,10.0,Ryan Strome,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:12:21Z,2,07:52,12:08,Faceoff,n/a,69.0,22.0,Brett Howden,Winner,New York Rangers,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:12:52Z,2,08:27,11:33,Missed Shot,n/a,-58.0,-16.0,Nick Foligno,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:13:11Z,2,08:46,11:14,Missed Shot,n/a,-57.0,15.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:13:23Z,2,08:58,11:02,Missed Shot,n/a,-56.0,20.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:13:28Z,2,09:03,10:57,Shot,Backhand,-87.0,-22.0,Nick Foligno,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:13:38Z,2,09:13,10:47,Takeaway,n/a,-39.0,40.0,Oliver Bjorkstrand,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:13:42Z,2,09:17,10:43,Shot,Wrist Shot,-74.0,1.0,Nick Foligno,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:13:50Z,2,09:25,10:35,Shot,Slap Shot,-63.0,21.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:13:55Z,2,09:30,10:30,Shot,Slap Shot,-69.0,-23.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:14:36Z,2,09:32,10:28,Faceoff,n/a,-69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:16:23Z,2,10:15,09:45,Giveaway,n/a,-31.0,-18.0,Boone Jenner,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:17:07Z,2,10:59,09:01,Hit,n/a,-65.0,-40.0,Brady Skjei,Hitter,New York Rangers,Oliver Bjorkstrand,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:17:42Z,2,11:34,08:26,Blocked Shot,n/a,-52.0,12.0,Brett Howden,Blocker,New York Rangers,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:20:08Z,2,11:35,08:25,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:20:40Z,2,12:06,07:54,Blocked Shot,n/a,61.0,-2.0,David Savard,Blocker,Columbus Blue Jackets,Ryan Lindgren,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:21:55Z,2,12:57,07:03,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:22:34Z,2,13:16,06:44,Shot,Wrist Shot,-80.0,-35.0,Nathan Gerbe,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:23:02Z,2,13:17,06:43,Faceoff,n/a,-69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:23:39Z,2,13:49,06:11,Shot,Slap Shot,-37.0,-20.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:24:01Z,2,14:11,05:49,Blocked Shot,n/a,-61.0,-23.0,Ryan Lindgren,Blocker,New York Rangers,Markus Nutivaara,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:24:05Z,2,14:15,05:45,Hit,n/a,-61.0,-39.0,Kaapo Kakko,Hitter,New York Rangers,Markus Nutivaara,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:24:26Z,2,14:36,05:24,Shot,Wrist Shot,-70.0,0.0,Markus Nutivaara,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:24:57Z,2,14:42,05:18,Faceoff,n/a,-69.0,22.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:25:48Z,2,14:46,05:14,Shot,Slap Shot,-35.0,26.0,Scott Harrington,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:25:59Z,2,14:57,05:03,Missed Shot,n/a,-79.0,-12.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:26:27Z,2,15:20,04:40,Shot,Tip-In,8.0,6.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:26:52Z,2,15:23,04:37,Faceoff,n/a,-69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:26:57Z,2,15:30,04:30,Hit,n/a,-77.0,-39.0,Nathan Gerbe,Hitter,Columbus Blue Jackets,Jacob Trouba,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:27:20Z,2,15:53,04:07,Hit,n/a,-99.0,10.0,Brendan Smith,Hitter,New York Rangers,Boone Jenner,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:27:21Z,2,15:54,04:06,Shot,Wrist Shot,-79.0,25.0,Boone Jenner,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:31:40Z,2,15:55,04:05,Faceoff,n/a,-69.0,22.0,Nick Foligno,Winner,Columbus Blue Jackets,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:29:48Z,2,16:00,04:00,Shot,Backhand,-86.0,21.0,Nathan Gerbe,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:29:48Z,2,16:02,03:58,Shot,Wrist Shot,-85.0,6.0,Nathan Gerbe,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:30:14Z,2,16:04,03:56,Faceoff,n/a,-69.0,22.0,Jesper Fast,Winner,New York Rangers,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:30:39Z,2,16:14,03:46,Shot,Wrist Shot,-50.0,-21.0,Boone Jenner,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:30:42Z,2,16:17,03:43,Giveaway,n/a,-39.0,37.0,Jesper Fast,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:30:53Z,2,16:28,03:32,Blocked Shot,n/a,47.0,22.0,Nathan Gerbe,Blocker,Columbus Blue Jackets,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:31:05Z,2,16:40,03:20,Shot,Tip-In,72.0,3.0,Jesper Fast,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:32:00Z,2,17:35,02:25,Missed Shot,n/a,45.0,-25.0,Marc Staal,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:32:12Z,2,17:47,02:13,Hit,n/a,-80.0,-38.0,Brett Howden,Hitter,New York Rangers,Sonny Milano,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:32:30Z,2,18:01,01:59,Hit,n/a,22.0,-38.0,Phillip Di Giuseppe,Hitter,New York Rangers,Scott Harrington,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:32:47Z,2,18:22,01:38,Shot,Slap Shot,2.0,-1.0,Brendan Smith,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:33:12Z,2,18:47,01:13,Hit,n/a,-96.0,-6.0,Brady Skjei,Hitter,New York Rangers,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:33:18Z,2,18:52,01:08,Goal,Backhand,-79.0,-25.0,Oliver Bjorkstrand,Scorer,Columbus Blue Jackets,Gustav Nyquist,Assist,Columbus Blue Jackets,Scott Harrington,Assist,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers
+2020-02-15T01:34:04Z,2,18:52,01:08,Faceoff,n/a,0.0,0.0,Mika Zibanejad,Winner,New York Rangers,Eric Robinson,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:34:52Z,2,19:27,00:33,Hit,n/a,87.0,-9.0,David Savard,Hitter,Columbus Blue Jackets,Mika Zibanejad,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:53:50Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:54:49Z,3,00:56,19:04,Shot,Wrist Shot,52.0,17.0,Nick Foligno,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:54:57Z,3,00:57,19:03,Faceoff,n/a,69.0,22.0,Ryan Strome,Winner,New York Rangers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:55:54Z,3,01:19,18:41,Faceoff,n/a,-20.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:56:22Z,3,01:42,18:18,Takeaway,n/a,86.0,35.0,Pierre-Luc Dubois,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:56:59Z,3,02:02,17:58,Faceoff,n/a,69.0,-22.0,Filip Chytil,Winner,New York Rangers,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:57:25Z,3,02:20,17:40,Shot,Wrist Shot,64.0,-19.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:58:06Z,3,03:00,17:00,Shot,Wrist Shot,-41.0,1.0,Artemi Panarin,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:58:27Z,3,03:01,16:59,Faceoff,n/a,-69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:58:43Z,3,03:05,16:55,Faceoff,n/a,-69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:59:03Z,3,03:11,16:49,Shot,Wrist Shot,-72.0,9.0,Artemi Panarin,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:59:04Z,3,03:12,16:48,Missed Shot,n/a,-76.0,-2.0,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:59:06Z,3,03:15,16:45,Missed Shot,n/a,-89.0,-5.0,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:59:16Z,3,03:24,16:36,Hit,n/a,95.0,26.0,Eric Robinson,Hitter,Columbus Blue Jackets,Jesper Fast,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T01:59:25Z,3,03:34,16:26,Hit,n/a,58.0,39.0,Jakob Lilja,Hitter,Columbus Blue Jackets,Jesper Fast,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:00:07Z,3,04:16,15:44,Shot,Tip-In,81.0,-8.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:00:21Z,3,04:29,15:31,Hit,n/a,47.0,-39.0,Marc Staal,Hitter,New York Rangers,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:00:32Z,3,04:40,15:20,Shot,Wrist Shot,51.0,17.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:00:58Z,3,05:06,14:54,Shot,Backhand,-75.0,-1.0,Brendan Lemieux,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:01:29Z,3,05:09,14:51,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Chris Kreider,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:01:50Z,3,05:13,14:47,Faceoff,n/a,-69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:02:55Z,3,06:13,13:47,Shot,Wrist Shot,75.0,8.0,Nick Foligno,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:03:05Z,3,06:19,13:41,Hit,n/a,69.0,-40.0,Mika Zibanejad,Hitter,New York Rangers,Boone Jenner,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:03:03Z,3,06:21,13:39,Shot,Wrist Shot,54.0,-21.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:05:07Z,3,06:22,13:38,Faceoff,n/a,69.0,-22.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:05:53Z,3,06:55,13:05,Hit,n/a,96.0,21.0,Brady Skjei,Hitter,New York Rangers,Kevin Stenlund,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:06:57Z,3,07:57,12:03,Blocked Shot,n/a,-70.0,-1.0,Scott Harrington,Blocker,Columbus Blue Jackets,Pavel Buchnevich,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:07:23Z,3,08:26,11:34,Giveaway,n/a,36.0,-3.0,Sonny Milano,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:07:25Z,3,08:28,11:32,Shot,Wrist Shot,-65.0,-23.0,Phillip Di Giuseppe,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:07:50Z,3,08:47,11:13,Hit,n/a,-54.0,40.0,Markus Nutivaara,Hitter,Columbus Blue Jackets,Brendan Smith,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:07:56Z,3,08:58,11:02,Blocked Shot,n/a,-85.0,-20.0,Emil Bemstrom,Blocker,Columbus Blue Jackets,Kaapo Kakko,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:08:01Z,3,09:02,10:58,Shot,Wrist Shot,-70.0,9.0,Brendan Smith,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:08:34Z,3,09:04,10:56,Faceoff,n/a,-20.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Greg McKegg,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:09:01Z,3,09:23,10:37,Blocked Shot,n/a,48.0,20.0,Jacob Trouba,Blocker,New York Rangers,Nathan Gerbe,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:09:24Z,3,09:25,10:35,Faceoff,n/a,69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:09:40Z,3,09:32,10:28,Giveaway,n/a,-81.0,1.0,Elvis Merzlikins,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:09:40Z,3,09:34,10:26,Shot,Wrist Shot,-76.0,-16.0,Pavel Buchnevich,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:10:06Z,3,09:35,10:25,Faceoff,n/a,-69.0,-22.0,Chris Kreider,Winner,New York Rangers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:10:21Z,3,09:43,10:17,Shot,Wrist Shot,-34.0,27.0,Adam Fox,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:10:49Z,3,10:11,09:49,Missed Shot,n/a,-77.0,-13.0,Chris Kreider,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:11:00Z,3,10:22,09:38,Blocked Shot,n/a,-71.0,5.0,Boone Jenner,Blocker,Columbus Blue Jackets,Adam Fox,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:11:22Z,3,10:45,09:15,Blocked Shot,n/a,-65.0,-16.0,Andrew Peeke,Blocker,Columbus Blue Jackets,Brendan Smith,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:11:35Z,3,10:57,09:03,Shot,Wrist Shot,40.0,-32.0,Andrew Peeke,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:12:23Z,3,11:46,08:14,Blocked Shot,n/a,-66.0,5.0,Andrew Peeke,Blocker,Columbus Blue Jackets,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:12:43Z,3,11:50,08:10,Faceoff,n/a,-69.0,22.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:15:04Z,3,11:53,08:07,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:15:26Z,3,11:59,08:01,Shot,Wrist Shot,-34.0,30.0,Pavel Buchnevich,Shooter,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:15:49Z,3,12:22,07:38,Blocked Shot,n/a,-78.0,4.0,David Savard,Blocker,Columbus Blue Jackets,Adam Fox,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:16:08Z,3,12:41,07:19,Hit,n/a,86.0,-33.0,Nick Foligno,Hitter,Columbus Blue Jackets,Ryan Lindgren,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:17:01Z,3,13:29,06:31,Missed Shot,n/a,-75.0,-7.0,Ryan Strome,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:17:42Z,3,14:14,05:46,Giveaway,n/a,87.0,8.0,Oliver Bjorkstrand,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:17:59Z,3,14:32,05:28,Missed Shot,n/a,45.0,5.0,Scott Harrington,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:18:34Z,3,14:47,05:13,Penalty,Too many men on the ice,-17.0,39.0,Jakob Lilja,PenaltyOn,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:20:32Z,3,14:47,05:13,Faceoff,n/a,-69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:20:51Z,3,15:05,04:55,Missed Shot,n/a,-52.0,-21.0,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:21:02Z,3,15:16,04:44,Shot,Wrist Shot,78.0,3.0,Boone Jenner,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:21:30Z,3,15:16,04:44,Faceoff,n/a,69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:22:27Z,3,16:10,03:50,Blocked Shot,n/a,-78.0,-11.0,Scott Harrington,Blocker,Columbus Blue Jackets,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:22:54Z,3,16:40,03:20,Missed Shot,n/a,-48.0,15.0,Ryan Strome,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:23:02Z,3,16:49,03:11,Goal,Wrist Shot,-67.0,-9.0,Chris Kreider,Scorer,New York Rangers,Mika Zibanejad,Assist,New York Rangers,Adam Fox,Assist,New York Rangers,Elvis Merzlikins,Goalie,Columbus Blue Jackets
+2020-02-15T02:23:59Z,3,16:49,03:11,Faceoff,n/a,0.0,0.0,Filip Chytil,Winner,New York Rangers,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:25:13Z,3,18:00,02:00,Shot,Wrist Shot,39.0,-14.0,Markus Nutivaara,Shooter,Columbus Blue Jackets,Alexandar Georgiev,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:25:32Z,3,18:25,01:35,Hit,n/a,95.0,17.0,Boone Jenner,Hitter,Columbus Blue Jackets,Marc Staal,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:25:42Z,3,18:36,01:24,Blocked Shot,n/a,52.0,16.0,Ryan Strome,Blocker,New York Rangers,Sonny Milano,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:27:36Z,3,18:40,01:20,Faceoff,n/a,69.0,22.0,Ryan Strome,Winner,New York Rangers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:27:27Z,3,18:49,01:11,Goal,Wrist Shot,-51.0,29.0,Ryan Strome,Scorer,New York Rangers,Phillip Di Giuseppe,Assist,New York Rangers,Artemi Panarin,Assist,Columbus Blue Jackets,n/a,n/a,n/a
+2020-02-15T02:28:36Z,3,18:49,01:11,Faceoff,n/a,0.0,0.0,Boone Jenner,Winner,Columbus Blue Jackets,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:28:45Z,3,19:08,00:52,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:29:03Z,3,19:21,00:39,Penalty,Tripping,17.0,-28.0,Gustav Nyquist,PenaltyOn,Columbus Blue Jackets,Chris Kreider,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T02:29:36Z,3,19:21,00:39,Faceoff,n/a,-69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,266 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-10T00:08:10Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,William Karlsson,Winner,Vegas Golden Knights,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:09:30Z,1,00:52,19:08,Takeaway,n/a,38.0,-34.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:09:40Z,1,00:58,19:02,Goal,Wrist Shot,-75.0,-1.0,Evgeny Kuznetsov,Scorer,Washington Capitals,Dmitry Orlov,Assist,Washington Capitals,Jakub Vrana,Assist,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights
+2019-11-10T00:10:13Z,1,00:58,19:02,Faceoff,n/a,0.0,0.0,Evgeny Kuznetsov,Winner,Washington Capitals,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:10:20Z,1,01:07,18:53,Shot,Backhand,-6.0,10.0,Jakub Vrana,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:10:59Z,1,01:43,18:17,Hit,n/a,-90.0,-30.0,Garnet Hathaway,Hitter,Washington Capitals,Jon Merrill,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:11:39Z,1,02:25,17:35,Takeaway,n/a,-19.0,-35.0,Tomas Nosek,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:11:44Z,1,02:31,17:29,Hit,n/a,91.0,-27.0,John Carlson,Hitter,Washington Capitals,Cody Eakin,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:11:54Z,1,02:40,17:20,Shot,Snap Shot,-47.0,25.0,Nic Dowd,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:12:02Z,1,02:49,17:11,Takeaway,n/a,38.0,38.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:12:06Z,1,02:53,17:07,Giveaway,n/a,30.0,24.0,Travis Boyd,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:12:07Z,1,02:53,17:07,Shot,Slap Shot,56.0,6.0,Nicolas Roy,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:12:19Z,1,03:05,16:55,Hit,n/a,73.0,-35.0,Nicolas Roy,Hitter,Vegas Golden Knights,Alex Ovechkin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:12:51Z,1,03:37,16:23,Missed Shot,n/a,-82.0,13.0,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:12:56Z,1,03:38,16:22,Penalty,Hooking,-83.0,10.0,Jonathan Marchessault,PenaltyOn,Vegas Golden Knights,T.J. Oshie,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:13:38Z,1,03:38,16:22,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Mark Stone,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:13:54Z,1,03:57,16:03,Missed Shot,n/a,-82.0,-7.0,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:14:04Z,1,04:06,15:54,Shot,Wrist Shot,-86.0,20.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:14:04Z,1,04:07,15:53,Shot,Backhand,-81.0,-6.0,Nicklas Backstrom,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:14:36Z,1,04:08,15:52,Faceoff,n/a,-69.0,22.0,T.J. Oshie,Winner,Washington Capitals,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:15:09Z,1,04:34,15:26,Missed Shot,n/a,-69.0,4.0,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:15:09Z,1,04:35,15:25,Shot,Wrist Shot,-78.0,8.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:15:42Z,1,05:07,14:53,Hit,n/a,-98.0,1.0,Brayden McNabb,Hitter,Vegas Golden Knights,Evgeny Kuznetsov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:16:46Z,1,05:43,14:17,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Tom Wilson,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:17:01Z,1,05:52,14:08,Giveaway,n/a,-59.0,38.0,Jonathan Marchessault,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:17:08Z,1,05:53,14:07,Goal,Wrist Shot,-64.0,2.0,Tom Wilson,Scorer,Washington Capitals,Jakub Vrana,Assist,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a
+2019-11-10T00:18:17Z,1,05:53,14:07,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Cody Glass,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:18:37Z,1,06:09,13:51,Faceoff,n/a,-69.0,22.0,Travis Boyd,Winner,Washington Capitals,Cody Glass,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:19:11Z,1,06:15,13:45,Shot,Wrist Shot,-58.0,26.0,Brendan Leipsic,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:19:19Z,1,06:24,13:36,Hit,n/a,-34.0,-36.0,Deryk Engelland,Hitter,Vegas Golden Knights,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:19:27Z,1,06:31,13:29,Blocked Shot,n/a,-76.0,-5.0,Deryk Engelland,Blocker,Vegas Golden Knights,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:19:36Z,1,06:40,13:20,Hit,n/a,-98.0,14.0,Nic Dowd,Hitter,Washington Capitals,Shea Theodore,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:19:57Z,1,07:00,13:00,Shot,Backhand,79.0,-3.0,William Carrier,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:21:59Z,1,07:01,12:59,Faceoff,n/a,69.0,-22.0,Lars Eller,Winner,Washington Capitals,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:22:29Z,1,07:13,12:47,Hit,n/a,98.0,-6.0,Ryan Reaves,Hitter,Vegas Golden Knights,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:22:32Z,1,07:16,12:44,Missed Shot,n/a,69.0,34.0,Jon Merrill,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:22:43Z,1,07:27,12:33,Takeaway,n/a,95.0,16.0,Nicolas Roy,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:23:06Z,1,07:50,12:10,Takeaway,n/a,-38.0,-28.0,William Karlsson,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:23:23Z,1,08:07,11:53,Takeaway,n/a,-68.0,-30.0,William Karlsson,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:23:59Z,1,08:43,11:17,Blocked Shot,n/a,61.0,21.0,Jonas Siegenthaler,Blocker,Washington Capitals,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:24:07Z,1,08:51,11:09,Shot,Snap Shot,35.0,-34.0,Deryk Engelland,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:24:14Z,1,08:53,11:07,Shot,Wrist Shot,81.0,-4.0,Paul Stastny,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:24:43Z,1,08:54,11:06,Faceoff,n/a,69.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:24:57Z,1,08:57,11:03,Goal,Wrist Shot,64.0,-3.0,Max Pacioretty,Scorer,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:25:24Z,1,08:57,11:03,Faceoff,n/a,0.0,0.0,Paul Stastny,Winner,Vegas Golden Knights,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:25:36Z,1,09:05,10:55,Faceoff,n/a,-20.0,22.0,Travis Boyd,Winner,Washington Capitals,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:26:40Z,1,09:28,10:32,Faceoff,n/a,-69.0,22.0,Lars Eller,Winner,Washington Capitals,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:26:53Z,1,09:33,10:27,Giveaway,n/a,-47.0,-28.0,Jonas Siegenthaler,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:26:59Z,1,09:39,10:21,Missed Shot,n/a,-80.0,9.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:27:37Z,1,09:55,10:05,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:28:15Z,1,10:33,09:27,Shot,Slap Shot,-46.0,-32.0,Alex Ovechkin,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:28:22Z,1,10:41,09:19,Shot,Snap Shot,-72.0,-6.0,Alex Ovechkin,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:28:55Z,1,10:54,09:06,Faceoff,n/a,-69.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:29:07Z,1,10:58,09:02,Missed Shot,n/a,-53.0,-23.0,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:29:38Z,1,11:28,08:32,Hit,n/a,40.0,34.0,Dmitry Orlov,Hitter,Washington Capitals,Reilly Smith,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:29:46Z,1,11:37,08:23,Blocked Shot,n/a,59.0,7.0,Evgeny Kuznetsov,Blocker,Washington Capitals,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:29:58Z,1,11:43,08:17,Takeaway,n/a,51.0,2.0,William Karlsson,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:29:56Z,1,11:46,08:14,Shot,Slap Shot,36.0,-24.0,Deryk Engelland,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:30:01Z,1,11:51,08:09,Missed Shot,n/a,54.0,-22.0,Jonathan Marchessault,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:32:26Z,1,11:53,08:07,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Jonathan Marchessault,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:32:46Z,1,12:06,07:54,Missed Shot,n/a,-36.0,29.0,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:32:56Z,1,12:15,07:45,Giveaway,n/a,46.0,-32.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:33:04Z,1,12:24,07:36,Shot,Wrist Shot,33.0,-10.0,Nate Schmidt,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:33:30Z,1,12:25,07:35,Faceoff,n/a,69.0,-22.0,Nicolas Roy,Winner,Vegas Golden Knights,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:33:40Z,1,12:30,07:30,Blocked Shot,n/a,51.0,-6.0,Radko Gudas,Blocker,Washington Capitals,Deryk Engelland,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:33:56Z,1,12:45,07:15,Hit,n/a,-93.0,27.0,Lars Eller,Hitter,Washington Capitals,Deryk Engelland,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:34:04Z,1,12:53,07:07,Hit,n/a,-91.0,30.0,Garnet Hathaway,Hitter,Washington Capitals,Deryk Engelland,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:34:12Z,1,13:01,06:59,Hit,n/a,94.0,-25.0,Ryan Reaves,Hitter,Vegas Golden Knights,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:34:38Z,1,13:22,06:38,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:36:01Z,1,13:57,06:03,Faceoff,n/a,69.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:36:29Z,1,14:23,05:37,Blocked Shot,n/a,-56.0,-1.0,Deryk Engelland,Blocker,Vegas Golden Knights,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:36:48Z,1,14:25,05:35,Penalty,Hooking,-66.0,21.0,Cody Eakin,PenaltyOn,Vegas Golden Knights,Evgeny Kuznetsov,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:38:29Z,1,14:25,05:35,Faceoff,n/a,-69.0,-22.0,William Karlsson,Winner,Vegas Golden Knights,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:38:56Z,1,14:34,05:26,Takeaway,n/a,-3.0,-40.0,William Karlsson,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:40:34Z,1,16:15,03:45,Shot,Slap Shot,-39.0,-29.0,Alex Ovechkin,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:41:23Z,1,17:04,02:56,Blocked Shot,n/a,-50.0,25.0,Max Pacioretty,Blocker,Vegas Golden Knights,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:41:40Z,1,17:21,02:39,Missed Shot,n/a,-47.0,-32.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:41:56Z,1,17:37,02:23,Hit,n/a,1.0,-39.0,William Carrier,Hitter,Vegas Golden Knights,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:42:11Z,1,17:49,02:11,Hit,n/a,-95.0,14.0,Nicolas Roy,Hitter,Vegas Golden Knights,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:42:44Z,1,17:58,02:02,Faceoff,n/a,-69.0,-22.0,William Karlsson,Winner,Vegas Golden Knights,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:43:46Z,1,18:57,01:03,Giveaway,n/a,6.0,33.0,Mark Stone,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:43:54Z,1,19:05,00:55,Missed Shot,n/a,-36.0,-28.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:44:03Z,1,19:13,00:47,Hit,n/a,-67.0,28.0,Deryk Engelland,Hitter,Vegas Golden Knights,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:44:54Z,1,19:57,00:03,Penalty,Interference,43.0,-39.0,Radko Gudas,PenaltyOn,Washington Capitals,Tomas Nosek,DrewBy,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:45:40Z,1,19:57,00:03,Faceoff,n/a,69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Tom Wilson,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:04:22Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Paul Stastny,Winner,Vegas Golden Knights,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:05:13Z,2,00:54,19:06,Missed Shot,n/a,-75.0,14.0,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:05:22Z,2,01:03,18:57,Blocked Shot,n/a,-81.0,8.0,Jonas Siegenthaler,Blocker,Washington Capitals,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:05:39Z,2,01:21,18:39,Hit,n/a,-84.0,-25.0,Jonas Siegenthaler,Hitter,Washington Capitals,Cody Glass,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:05:49Z,2,01:30,18:30,Shot,Wrist Shot,-79.0,10.0,Max Pacioretty,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:06:13Z,2,01:54,18:06,Blocked Shot,n/a,-77.0,8.0,Jonas Siegenthaler,Blocker,Washington Capitals,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:06:22Z,2,02:03,17:57,Missed Shot,n/a,-69.0,-6.0,Mark Stone,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:06:27Z,2,02:09,17:51,Shot,Wrist Shot,-75.0,18.0,Paul Stastny,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:06:38Z,2,02:20,17:40,Hit,n/a,33.0,40.0,Radko Gudas,Hitter,Washington Capitals,Brayden McNabb,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:06:43Z,2,02:24,17:36,Shot,Wrist Shot,69.0,2.0,Nicklas Backstrom,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:06:51Z,2,02:32,17:28,Hit,n/a,94.0,-22.0,Brayden McNabb,Hitter,Vegas Golden Knights,Nicklas Backstrom,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:07:06Z,2,02:45,17:15,Takeaway,n/a,35.0,35.0,Reilly Smith,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:07:11Z,2,02:52,17:08,Blocked Shot,n/a,-73.0,1.0,Alex Ovechkin,Blocker,Washington Capitals,William Karlsson,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:07:55Z,2,03:36,16:24,Blocked Shot,n/a,75.0,17.0,Nick Holden,Blocker,Vegas Golden Knights,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:08:08Z,2,03:49,16:11,Blocked Shot,n/a,-76.0,10.0,Radko Gudas,Blocker,Washington Capitals,Ryan Reaves,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:08:31Z,2,04:12,15:48,Giveaway,n/a,38.0,-31.0,Jakub Vrana,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:08:40Z,2,04:21,15:39,Shot,Wrist Shot,67.0,-16.0,Jakub Vrana,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:09:27Z,2,04:34,15:26,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:09:56Z,2,04:55,15:05,Hit,n/a,51.0,-37.0,Nick Holden,Hitter,Vegas Golden Knights,Chandler Stephenson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:10:17Z,2,05:18,14:42,Shot,Wrist Shot,-56.0,20.0,Max Pacioretty,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:10:26Z,2,05:27,14:33,Missed Shot,n/a,-67.0,0.0,Paul Stastny,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:10:30Z,2,05:31,14:29,Giveaway,n/a,-31.0,28.0,Nate Schmidt,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:10:46Z,2,05:48,14:12,Hit,n/a,-45.0,-36.0,Radko Gudas,Hitter,Washington Capitals,Jonathan Marchessault,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:11:32Z,2,06:34,13:26,Hit,n/a,-2.0,-37.0,Brayden McNabb,Hitter,Vegas Golden Knights,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:12:08Z,2,07:10,12:50,Hit,n/a,-26.0,-32.0,Tom Wilson,Hitter,Washington Capitals,Ryan Reaves,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:14:52Z,2,07:29,12:31,Faceoff,n/a,-20.0,22.0,Cody Glass,Winner,Vegas Golden Knights,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:15:05Z,2,07:44,12:16,Giveaway,n/a,27.0,-29.0,Nicklas Backstrom,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:15:19Z,2,07:58,12:02,Shot,Wrist Shot,-46.0,8.0,Cody Glass,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:15:25Z,2,08:04,11:56,Shot,Snap Shot,-34.0,1.0,Brayden McNabb,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:15:36Z,2,08:13,11:47,Hit,n/a,-39.0,30.0,Mark Stone,Hitter,Vegas Golden Knights,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:15:45Z,2,08:15,11:45,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:16:12Z,2,08:19,11:41,Shot,Wrist Shot,-50.0,-35.0,Max Pacioretty,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:16:27Z,2,08:35,11:25,Missed Shot,n/a,-74.0,-10.0,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:16:44Z,2,08:52,11:08,Blocked Shot,n/a,-70.0,19.0,Jonas Siegenthaler,Blocker,Washington Capitals,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:17:21Z,2,09:27,10:33,Hit,n/a,76.0,40.0,Brendan Leipsic,Hitter,Washington Capitals,Shea Theodore,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:17:23Z,2,09:31,10:29,Blocked Shot,n/a,45.0,3.0,William Karlsson,Blocker,Vegas Golden Knights,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:17:35Z,2,09:42,10:18,Missed Shot,n/a,78.0,0.0,Travis Boyd,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:17:38Z,2,09:45,10:15,Hit,n/a,59.0,-37.0,Jonathan Marchessault,Hitter,Vegas Golden Knights,Brendan Leipsic,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:17:51Z,2,09:58,10:02,Missed Shot,n/a,-32.0,0.0,Deryk Engelland,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:18:15Z,2,10:22,09:38,Hit,n/a,-14.0,34.0,Ryan Reaves,Hitter,Vegas Golden Knights,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:18:24Z,2,10:32,09:28,Shot,Wrist Shot,37.0,28.0,Dmitry Orlov,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:20:46Z,2,10:40,09:20,Hit,n/a,61.0,39.0,Ryan Reaves,Hitter,Vegas Golden Knights,Chandler Stephenson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:18:57Z,2,11:04,08:56,Hit,n/a,98.0,1.0,Lars Eller,Hitter,Washington Capitals,Nick Holden,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:21:12Z,2,11:06,08:54,Faceoff,n/a,0.0,0.0,Evgeny Kuznetsov,Winner,Washington Capitals,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:21:23Z,2,11:15,08:45,Hit,n/a,39.0,39.0,Jakub Vrana,Hitter,Washington Capitals,Deryk Engelland,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:21:32Z,2,11:20,08:40,Faceoff,n/a,-20.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Tom Wilson,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:22:02Z,2,11:36,08:24,Giveaway,n/a,-62.0,27.0,Max Pacioretty,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:22:22Z,2,11:56,08:04,Shot,Wrist Shot,55.0,5.0,Jakub Vrana,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:22:35Z,2,12:04,07:56,Shot,Wrist Shot,84.0,-26.0,Mark Stone,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:23:07Z,2,12:27,07:33,Penalty,Tripping,-91.0,21.0,Tomas Nosek,PenaltyOn,Vegas Golden Knights,Dmitry Orlov,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:23:41Z,2,12:27,07:33,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Reilly Smith,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:23:52Z,2,12:37,07:23,Missed Shot,n/a,66.0,0.0,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:24:20Z,2,13:05,06:55,Blocked Shot,n/a,66.0,-10.0,Brayden McNabb,Blocker,Vegas Golden Knights,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:24:59Z,2,13:44,06:16,Shot,Slap Shot,36.0,0.0,John Carlson,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:25:55Z,2,14:40,05:20,Missed Shot,n/a,36.0,-1.0,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:26:21Z,2,15:06,04:54,Missed Shot,n/a,38.0,-7.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:26:27Z,2,15:12,04:48,Giveaway,n/a,65.0,38.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:26:50Z,2,15:24,04:36,Hit,n/a,88.0,-34.0,Nic Dowd,Hitter,Washington Capitals,Shea Theodore,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:41:08Z,2,15:28,04:32,Takeaway,n/a,64.0,-38.0,Travis Boyd,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:26:53Z,2,15:32,04:28,Goal,Wrist Shot,65.0,16.0,Jonas Siegenthaler,Scorer,Washington Capitals,Travis Boyd,Assist,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a
+2019-11-10T01:28:57Z,2,15:32,04:28,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Cody Glass,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:27:50Z,2,15:50,04:10,Giveaway,n/a,2.0,37.0,Deryk Engelland,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:28:25Z,2,16:00,04:00,Penalty,Elbowing,-39.0,-38.0,Garnet Hathaway,PenaltyOn,Washington Capitals,Max Pacioretty,DrewBy,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:41:08Z,2,16:00,04:00,Faceoff,n/a,-69.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:30:29Z,2,16:14,03:46,Shot,Wrist Shot,-75.0,-27.0,Cody Eakin,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:30:49Z,2,16:15,03:45,Faceoff,n/a,-69.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:31:08Z,2,16:20,03:40,Shot,Wrist Shot,-53.0,-27.0,Jonathan Marchessault,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:31:32Z,2,16:48,03:12,Shot,Wrist Shot,-37.0,2.0,Shea Theodore,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:31:59Z,2,17:14,02:46,Missed Shot,n/a,-33.0,-5.0,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:32:16Z,2,17:27,02:33,Goal,Slap Shot,-61.0,-11.0,Reilly Smith,Scorer,Vegas Golden Knights,Jonathan Marchessault,Assist,Vegas Golden Knights,Cody Eakin,Assist,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals
+2019-11-10T01:33:07Z,2,17:27,02:33,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:33:26Z,2,17:36,02:24,Hit,n/a,70.0,41.0,Alex Ovechkin,Hitter,Washington Capitals,Brayden McNabb,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:33:21Z,2,17:43,02:17,Faceoff,n/a,0.0,0.0,T.J. Oshie,Winner,Washington Capitals,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:34:03Z,2,18:06,01:54,Shot,Wrist Shot,59.0,-33.0,Alex Ovechkin,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:34:19Z,2,18:21,01:39,Shot,Wrist Shot,31.0,-13.0,John Carlson,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:34:32Z,2,18:34,01:26,Shot,Wrist Shot,-50.0,5.0,Nate Schmidt,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:35:20Z,2,18:35,01:25,Faceoff,n/a,-69.0,22.0,Nicolas Roy,Winner,Vegas Golden Knights,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:35:23Z,2,18:47,01:13,Giveaway,n/a,-71.0,31.0,Jakub Vrana,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:35:23Z,2,18:49,01:11,Shot,Wrist Shot,-33.0,30.0,Ryan Reaves,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:35:49Z,2,19:12,00:48,Hit,n/a,-62.0,-40.0,Ryan Reaves,Hitter,Vegas Golden Knights,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:36:09Z,2,19:34,00:26,Missed Shot,n/a,49.0,-5.0,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:36:41Z,2,19:40,00:20,Faceoff,n/a,-20.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:37:04Z,2,20:00,00:00,Penalty,Roughing,91.0,-28.0,T.J. Oshie,PenaltyOn,Washington Capitals,Brayden McNabb,DrewBy,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:56:52Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:57:14Z,3,00:23,19:37,Shot,Wrist Shot,52.0,-16.0,Jonathan Marchessault,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:57:43Z,3,00:24,19:36,Faceoff,n/a,69.0,-22.0,Chandler Stephenson,Winner,Washington Capitals,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:58:04Z,3,00:40,19:20,Faceoff,n/a,-20.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,Chandler Stephenson,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:58:51Z,3,01:09,18:51,Blocked Shot,n/a,61.0,-13.0,Jonas Siegenthaler,Blocker,Washington Capitals,Cody Eakin,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:59:14Z,3,01:10,18:50,Faceoff,n/a,69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:59:22Z,3,01:18,18:42,Blocked Shot,n/a,77.0,10.0,Lars Eller,Blocker,Washington Capitals,Nate Schmidt,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:59:48Z,3,01:45,18:15,Shot,Wrist Shot,61.0,-9.0,Mark Stone,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:59:57Z,3,01:54,18:06,Shot,Wrist Shot,-23.0,33.0,Tom Wilson,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:00:16Z,3,02:12,17:48,Blocked Shot,n/a,83.0,-6.0,Dmitry Orlov,Blocker,Washington Capitals,Nate Schmidt,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:00:39Z,3,02:35,17:25,Hit,n/a,35.0,-40.0,Radko Gudas,Hitter,Washington Capitals,Ryan Reaves,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:00:48Z,3,02:45,17:15,Hit,n/a,-95.0,-23.0,Nicklas Backstrom,Hitter,Washington Capitals,Nick Holden,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:01:43Z,3,03:38,16:22,Hit,n/a,-96.0,-19.0,Jakub Vrana,Hitter,Washington Capitals,Deryk Engelland,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:02:27Z,3,04:23,15:37,Blocked Shot,n/a,68.0,-6.0,Michal Kempny,Blocker,Washington Capitals,Tomas Nosek,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:02:46Z,3,04:31,15:29,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:03:20Z,3,04:48,15:12,Shot,Tip-In,-84.0,6.0,Brendan Leipsic,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:03:34Z,3,05:02,14:58,Shot,Wrist Shot,94.0,-10.0,Paul Stastny,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:04:13Z,3,05:21,14:39,Faceoff,n/a,69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:04:46Z,3,05:43,14:17,Hit,n/a,29.0,-40.0,Radko Gudas,Hitter,Washington Capitals,Max Pacioretty,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:05:01Z,3,05:45,14:15,Penalty,Too many men on the ice,21.0,39.0,Alex Ovechkin,PenaltyOn,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:06:06Z,3,05:45,14:15,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:06:36Z,3,06:25,13:35,Faceoff,n/a,20.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Garnet Hathaway,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:07:01Z,3,06:33,13:27,Shot,Wrist Shot,67.0,-5.0,Max Pacioretty,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:07:35Z,3,06:34,13:26,Faceoff,n/a,69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:08:01Z,3,06:53,13:07,Shot,Wrist Shot,50.0,23.0,Nate Schmidt,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:08:31Z,3,06:54,13:06,Faceoff,n/a,69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Chandler Stephenson,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:08:38Z,3,07:00,13:00,Blocked Shot,n/a,64.0,0.0,Chandler Stephenson,Blocker,Washington Capitals,Nate Schmidt,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:09:11Z,3,07:33,12:27,Shot,Wrist Shot,32.0,30.0,Nate Schmidt,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:10:04Z,3,07:34,12:26,Faceoff,n/a,69.0,22.0,T.J. Oshie,Winner,Washington Capitals,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:10:27Z,3,07:58,12:02,Giveaway,n/a,98.0,-1.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:10:55Z,3,08:27,11:33,Blocked Shot,n/a,85.0,-11.0,Radko Gudas,Blocker,Washington Capitals,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:11:07Z,3,08:39,11:21,Shot,Slap Shot,-21.0,-27.0,Dmitry Orlov,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:11:19Z,3,08:48,11:12,Shot,Wrist Shot,69.0,23.0,William Carrier,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:13:54Z,3,08:49,11:11,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:14:09Z,3,08:56,11:04,Hit,n/a,88.0,35.0,Radko Gudas,Hitter,Washington Capitals,Ryan Reaves,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:14:18Z,3,09:03,10:57,Faceoff,n/a,20.0,-22.0,Nic Dowd,Winner,Washington Capitals,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:14:43Z,3,09:15,10:45,Hit,n/a,22.0,39.0,Radko Gudas,Hitter,Washington Capitals,William Carrier,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:14:57Z,3,09:26,10:34,Hit,n/a,63.0,39.0,Radko Gudas,Hitter,Washington Capitals,William Carrier,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:15:19Z,3,09:47,10:13,Giveaway,n/a,-69.0,-6.0,William Karlsson,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:15:18Z,3,09:50,10:10,Shot,Slap Shot,-37.0,1.0,Michal Kempny,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:15:31Z,3,10:02,09:58,Takeaway,n/a,59.0,37.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:15:41Z,3,10:12,09:48,Shot,Wrist Shot,-78.0,-10.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:15:48Z,3,10:18,09:42,Shot,Backhand,-73.0,-13.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:16:00Z,3,10:19,09:41,Penalty,Slashing,-75.0,-18.0,Jon Merrill,PenaltyOn,Vegas Golden Knights,Evgeny Kuznetsov,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:18:19Z,3,10:19,09:41,Faceoff,n/a,-69.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:19:19Z,3,11:30,08:30,Goal,Wrist Shot,-67.0,25.0,Nicklas Backstrom,Scorer,Washington Capitals,John Carlson,Assist,Washington Capitals,Evgeny Kuznetsov,Assist,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights
+2019-11-10T02:20:05Z,3,11:30,08:30,Faceoff,n/a,0.0,0.0,Paul Stastny,Winner,Vegas Golden Knights,Garnet Hathaway,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:20:20Z,3,11:36,08:24,Hit,n/a,-20.0,-39.0,Deryk Engelland,Hitter,Vegas Golden Knights,Chandler Stephenson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:20:39Z,3,11:54,08:06,Shot,Wrist Shot,52.0,-4.0,Max Pacioretty,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:21:11Z,3,11:55,08:05,Faceoff,n/a,69.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:21:15Z,3,11:59,08:01,Shot,Wrist Shot,62.0,-16.0,Jon Merrill,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:21:44Z,3,12:00,08:00,Penalty,Roughing,83.0,32.0,Cody Eakin,PenaltyOn,Vegas Golden Knights,Tom Wilson,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:22:02Z,3,12:00,08:00,Penalty,Roughing,77.0,30.0,Tom Wilson,PenaltyOn,Washington Capitals,Cody Eakin,DrewBy,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:23:03Z,3,12:00,08:00,Faceoff,n/a,20.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:23:18Z,3,12:27,07:33,Shot,Snap Shot,70.0,-12.0,Reilly Smith,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:23:26Z,3,12:35,07:25,Shot,Snap Shot,-77.0,28.0,Nicklas Backstrom,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:24:14Z,3,13:17,06:43,Penalty,Hooking,-82.0,6.0,Jon Merrill,PenaltyOn,Vegas Golden Knights,T.J. Oshie,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:24:52Z,3,13:17,06:43,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:25:41Z,3,13:43,06:17,Faceoff,n/a,-69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:25:46Z,3,13:48,06:12,Missed Shot,n/a,-54.0,-11.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:25:51Z,3,13:50,06:10,Hit,n/a,-81.0,-11.0,T.J. Oshie,Hitter,Washington Capitals,Deryk Engelland,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:25:52Z,3,13:54,06:06,Missed Shot,n/a,-35.0,26.0,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:26:18Z,3,14:20,05:40,Shot,Wrist Shot,-49.0,-18.0,John Carlson,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:26:28Z,3,14:20,05:40,Penalty,Slashing,-70.0,-7.0,Deryk Engelland,PenaltyOn,Vegas Golden Knights,T.J. Oshie,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:27:51Z,3,14:20,05:40,Faceoff,n/a,-69.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:27:51Z,3,14:28,05:32,Hit,n/a,-74.0,39.0,T.J. Oshie,Hitter,Washington Capitals,Nate Schmidt,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:28:11Z,3,14:49,05:11,Shot,Slap Shot,-51.0,-20.0,Alex Ovechkin,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:28:23Z,3,15:00,05:00,Shot,Slap Shot,-52.0,-16.0,Alex Ovechkin,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:28:58Z,3,15:02,04:58,Faceoff,n/a,-69.0,-22.0,William Karlsson,Winner,Vegas Golden Knights,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:29:18Z,3,15:11,04:49,Shot,Wrist Shot,-73.0,6.0,John Carlson,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:29:21Z,3,15:15,04:45,Missed Shot,n/a,-85.0,-13.0,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:29:27Z,3,15:18,04:42,Shot,Snap Shot,-82.0,-15.0,T.J. Oshie,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:29:58Z,3,15:19,04:41,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:30:13Z,3,15:39,04:21,Takeaway,n/a,97.0,-4.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:30:44Z,3,15:49,04:11,Faceoff,n/a,-69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:30:56Z,3,15:57,04:03,Giveaway,n/a,-83.0,37.0,Nick Holden,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:31:09Z,3,16:09,03:51,Shot,Slap Shot,-65.0,30.0,Nicklas Backstrom,Shooter,Washington Capitals,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:31:20Z,3,16:18,03:42,Blocked Shot,n/a,-75.0,-14.0,Nick Holden,Blocker,Vegas Golden Knights,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:31:47Z,3,16:19,03:41,Faceoff,n/a,-69.0,-22.0,Cody Glass,Winner,Vegas Golden Knights,Chandler Stephenson,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:34:31Z,3,16:59,03:01,Faceoff,n/a,0.0,0.0,Evgeny Kuznetsov,Winner,Washington Capitals,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:35:07Z,3,17:16,02:44,Hit,n/a,-93.0,25.0,Evgeny Kuznetsov,Hitter,Washington Capitals,Nicolas Roy,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:35:16Z,3,17:26,02:34,Hit,n/a,74.0,41.0,Tom Wilson,Hitter,Washington Capitals,William Carrier,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:35:33Z,3,17:42,02:18,Hit,n/a,93.0,-22.0,Ryan Reaves,Hitter,Vegas Golden Knights,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:35:36Z,3,17:46,02:14,Shot,Wrist Shot,35.0,30.0,Shea Theodore,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:35:42Z,3,17:53,02:07,Hit,n/a,76.0,39.0,Ryan Reaves,Hitter,Vegas Golden Knights,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:36:06Z,3,18:14,01:46,Giveaway,n/a,48.0,20.0,Jakub Vrana,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:36:06Z,3,18:17,01:43,Shot,Wrist Shot,49.0,-21.0,Nate Schmidt,Shooter,Vegas Golden Knights,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:36:21Z,3,18:31,01:29,Hit,n/a,91.0,-23.0,Dmitry Orlov,Hitter,Washington Capitals,William Karlsson,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:36:30Z,3,18:41,01:19,Missed Shot,n/a,-80.0,8.0,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:36:37Z,3,18:47,01:13,Missed Shot,n/a,-69.0,1.0,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:36:42Z,3,18:53,01:07,Missed Shot,n/a,-36.0,28.0,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:36:48Z,3,18:59,01:01,Missed Shot,n/a,-58.0,-27.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:36:55Z,3,19:05,00:55,Missed Shot,n/a,-83.0,-33.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:37:10Z,3,19:14,00:46,Goal,Wrist Shot,-13.0,-1.0,Nicklas Backstrom,Scorer,Washington Capitals,T.J. Oshie,Assist,Washington Capitals,John Carlson,Assist,Vegas Golden Knights,n/a,n/a,n/a
+2019-11-10T02:38:03Z,3,19:14,00:46,Faceoff,n/a,0.0,0.0,Paul Stastny,Winner,Vegas Golden Knights,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:38:37Z,3,19:26,00:34,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:45:03Z,3,20:00,00:00,Penalty,Game Misconduct - Team staff,-13.0,42.0,Jon Merrill,PenaltyOn,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

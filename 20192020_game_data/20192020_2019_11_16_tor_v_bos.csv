@@ -1,0 +1,307 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-16T00:18:55Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:19:09Z,1,00:06,19:54,Faceoff,n/a,-20.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:19:55Z,1,00:43,19:17,Hit,n/a,-97.0,-17.0,Andreas Johnsson,Hitter,Toronto Maple Leafs,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:20:11Z,1,00:59,19:01,Takeaway,n/a,-43.0,-33.0,Brandon Carlo,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:20:43Z,1,01:31,18:29,Hit,n/a,-16.0,39.0,Jason Spezza,Hitter,Toronto Maple Leafs,Trent Frederic,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:20:49Z,1,01:38,18:22,Hit,n/a,-16.0,40.0,Trent Frederic,Hitter,Boston Bruins,Jason Spezza,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:20:56Z,1,01:45,18:15,Hit,n/a,95.0,28.0,Trent Frederic,Hitter,Boston Bruins,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:21:23Z,1,01:56,18:04,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:21:50Z,1,02:17,17:43,Shot,Wrist Shot,65.0,-2.0,Brad Marchand,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:22:24Z,1,02:20,17:40,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:22:37Z,1,02:36,17:24,Hit,n/a,-96.0,-24.0,Connor Clifton,Hitter,Boston Bruins,Frederik Gauthier,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:36:37Z,1,02:40,17:20,Missed Shot,n/a,-44.0,-25.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:22:58Z,1,02:57,17:03,Takeaway,n/a,-49.0,40.0,Nic Petan,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:23:25Z,1,03:16,16:44,Faceoff,n/a,69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:23:52Z,1,03:21,16:39,Giveaway,n/a,37.0,-25.0,Morgan Rielly,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:24:14Z,1,03:43,16:17,Hit,n/a,94.0,-29.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Anders Bjork,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:24:19Z,1,03:48,16:12,Missed Shot,n/a,32.0,-32.0,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:24:26Z,1,03:55,16:05,Shot,Wrist Shot,-53.0,-20.0,Auston Matthews,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:24:32Z,1,04:00,16:00,Shot,Wrist Shot,-74.0,-21.0,William Nylander,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:24:33Z,1,04:00,16:00,Hit,n/a,-97.0,-17.0,David Krejci,Hitter,Boston Bruins,Andreas Johnsson,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:24:40Z,1,04:02,15:58,Blocked Shot,n/a,-83.0,5.0,Charlie McAvoy,Blocker,Boston Bruins,Andreas Johnsson,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:37:31Z,1,04:03,15:57,Faceoff,n/a,-69.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:25:20Z,1,04:09,15:51,Missed Shot,n/a,-59.0,39.0,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:25:39Z,1,04:28,15:32,Blocked Shot,n/a,68.0,5.0,Justin Holl,Blocker,Toronto Maple Leafs,Urho Vaakanainen,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:25:50Z,1,04:39,15:21,Hit,n/a,33.0,-37.0,Nicholas Shore,Hitter,Toronto Maple Leafs,Sean Kuraly,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:26:10Z,1,04:59,15:01,Hit,n/a,96.0,10.0,Trent Frederic,Hitter,Boston Bruins,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:26:16Z,1,05:05,14:55,Giveaway,n/a,46.0,39.0,Tyson Barrie,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:26:25Z,1,05:14,14:46,Hit,n/a,16.0,39.0,Trent Frederic,Hitter,Boston Bruins,Frederik Gauthier,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:26:37Z,1,05:26,14:34,Hit,n/a,97.0,-6.0,Trent Frederic,Hitter,Boston Bruins,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:26:56Z,1,05:44,14:16,Blocked Shot,n/a,-69.0,-12.0,Zdeno Chara,Blocker,Boston Bruins,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:27:06Z,1,05:47,14:13,Blocked Shot,n/a,-69.0,14.0,Charlie McAvoy,Blocker,Boston Bruins,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:27:04Z,1,05:49,14:11,Shot,Slap Shot,-60.0,-19.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:27:27Z,1,05:49,14:11,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:27:48Z,1,06:01,13:59,Hit,n/a,81.0,-35.0,Anders Bjork,Hitter,Boston Bruins,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:27:52Z,1,06:05,13:55,Shot,Wrist Shot,-77.0,-7.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:28:20Z,1,06:18,13:42,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:28:41Z,1,06:28,13:32,Blocked Shot,n/a,-77.0,-5.0,Charlie McAvoy,Blocker,Boston Bruins,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:28:53Z,1,06:38,13:22,Shot,Wrist Shot,51.0,-27.0,Patrice Bergeron,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:29:09Z,1,06:50,13:10,Missed Shot,n/a,88.0,-27.0,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:29:17Z,1,06:51,13:09,Shot,Wrist Shot,73.0,-1.0,David Pastrnak,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:31:12Z,1,06:53,13:07,Faceoff,n/a,69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Brad Marchand,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:31:51Z,1,07:12,12:48,Hit,n/a,-69.0,-39.0,David Pastrnak,Hitter,Boston Bruins,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:32:07Z,1,07:26,12:34,Giveaway,n/a,-44.0,-33.0,Brandon Carlo,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:32:06Z,1,07:27,12:33,Shot,Wrist Shot,-48.0,-21.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:32:19Z,1,07:41,12:19,Giveaway,n/a,-32.0,-26.0,Morgan Rielly,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:32:38Z,1,07:42,12:18,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:32:59Z,1,07:56,12:04,Giveaway,n/a,-76.0,14.0,Andreas Johnsson,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:33:05Z,1,07:58,12:02,Takeaway,n/a,-13.0,40.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:33:13Z,1,08:10,11:50,Shot,Wrist Shot,-56.0,-22.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:33:18Z,1,08:15,11:45,Shot,Wrist Shot,-86.0,-22.0,Auston Matthews,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:33:24Z,1,08:21,11:39,Blocked Shot,n/a,-71.0,18.0,Danton Heinen,Blocker,Boston Bruins,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:33:41Z,1,08:34,11:26,Hit,n/a,-24.0,14.0,Chris Wagner,Hitter,Boston Bruins,Trevor Moore,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:34:10Z,1,08:35,11:25,Faceoff,n/a,-20.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:34:32Z,1,08:55,11:05,Giveaway,n/a,-45.0,40.0,Urho Vaakanainen,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:34:42Z,1,09:05,10:55,Hit,n/a,49.0,40.0,Chris Wagner,Hitter,Boston Bruins,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:34:48Z,1,09:11,10:49,Missed Shot,n/a,64.0,29.0,Joakim Nordstrom,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:34:48Z,1,09:11,10:49,Hit,n/a,87.0,35.0,Justin Holl,Hitter,Toronto Maple Leafs,Chris Wagner,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:34:58Z,1,09:21,10:39,Missed Shot,n/a,34.0,-31.0,Connor Clifton,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:35:06Z,1,09:29,10:31,Blocked Shot,n/a,54.0,-21.0,Nic Petan,Blocker,Toronto Maple Leafs,Connor Clifton,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:35:31Z,1,09:33,10:27,Faceoff,n/a,20.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:35:58Z,1,09:54,10:06,Shot,Backhand,80.0,6.0,David Krejci,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:38:24Z,1,10:08,09:52,Faceoff,n/a,-20.0,22.0,William Nylander,Winner,Toronto Maple Leafs,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:39:00Z,1,10:32,09:28,Blocked Shot,n/a,-78.0,4.0,Zdeno Chara,Blocker,Boston Bruins,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:41:35Z,1,10:38,09:22,Hit,n/a,7.0,-39.0,Auston Matthews,Hitter,Toronto Maple Leafs,Charlie Coyle,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:40:25Z,1,11:25,08:35,Faceoff,n/a,69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:40:49Z,1,11:40,08:20,Blocked Shot,n/a,-61.0,-13.0,David Pastrnak,Blocker,Boston Bruins,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:41:58Z,1,12:16,07:44,Faceoff,n/a,-69.0,-22.0,Chris Wagner,Winner,Boston Bruins,Nic Petan,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:42:24Z,1,12:21,07:39,Faceoff,n/a,-69.0,-22.0,Chris Wagner,Winner,Boston Bruins,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:42:43Z,1,12:31,07:29,Hit,n/a,-18.0,-41.0,Chris Wagner,Hitter,Boston Bruins,Nic Petan,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:42:53Z,1,12:39,07:21,Missed Shot,n/a,-87.0,-3.0,Nic Petan,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:42:55Z,1,12:43,07:17,Hit,n/a,-99.0,16.0,Urho Vaakanainen,Hitter,Boston Bruins,Jason Spezza,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:43:02Z,1,12:51,07:09,Missed Shot,n/a,-35.0,-23.0,Travis Dermott,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:43:08Z,1,12:56,07:04,Missed Shot,n/a,-82.0,11.0,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:43:17Z,1,13:05,06:55,Blocked Shot,n/a,-75.0,-7.0,Connor Clifton,Blocker,Boston Bruins,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:43:30Z,1,13:18,06:42,Missed Shot,n/a,71.0,1.0,Joakim Nordstrom,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:43:44Z,1,13:32,06:28,Takeaway,n/a,60.0,39.0,Anders Bjork,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:43:54Z,1,13:43,06:17,Shot,Wrist Shot,38.0,-5.0,Anders Bjork,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:44:02Z,1,13:48,06:12,Goal,Wrist Shot,70.0,-1.0,Charlie Coyle,Scorer,Boston Bruins,Matt Grzelcyk,Assist,Boston Bruins,Anders Bjork,Assist,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-11-16T00:44:42Z,1,13:48,06:12,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:45:23Z,1,14:09,05:51,Penalty,Interference,-69.0,-30.0,David Pastrnak,PenaltyOn,Boston Bruins,John Tavares,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:47:25Z,1,14:09,05:51,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:47:45Z,1,14:16,05:44,Blocked Shot,n/a,-79.0,-1.0,Zdeno Chara,Blocker,Boston Bruins,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:48:24Z,1,14:57,05:03,Shot,Wrist Shot,-71.0,-18.0,William Nylander,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:03:21Z,1,14:57,05:03,Faceoff,n/a,-69.0,-22.0,Par Lindholm,Winner,Boston Bruins,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:49:18Z,1,15:26,04:34,Hit,n/a,23.0,-38.0,Joakim Nordstrom,Hitter,Boston Bruins,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:49:22Z,1,15:32,04:28,Shot,Wrist Shot,86.0,17.0,Par Lindholm,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:49:45Z,1,15:52,04:08,Hit,n/a,-28.0,-1.0,Sean Kuraly,Hitter,Boston Bruins,Nic Petan,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:50:02Z,1,16:13,03:47,Giveaway,n/a,-23.0,27.0,Nic Petan,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:50:09Z,1,16:20,03:40,Hit,n/a,54.0,-38.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:50:44Z,1,16:37,03:23,Penalty,Holding,29.0,-19.0,Nicholas Shore,PenaltyOn,Toronto Maple Leafs,David Pastrnak,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:51:05Z,1,16:37,03:23,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:51:09Z,1,16:45,03:15,Giveaway,n/a,67.0,-35.0,Jake Muzzin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:51:35Z,1,17:13,02:47,Missed Shot,n/a,72.0,18.0,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:51:55Z,1,17:13,02:47,Faceoff,n/a,69.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:52:35Z,1,17:34,02:26,Hit,n/a,88.0,35.0,Justin Holl,Hitter,Toronto Maple Leafs,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:52:29Z,1,17:36,02:24,Giveaway,n/a,60.0,31.0,Morgan Rielly,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:52:56Z,1,18:00,02:00,Hit,n/a,63.0,-39.0,Morgan Rielly,Hitter,Toronto Maple Leafs,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:53:45Z,1,18:46,01:14,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:54:17Z,1,18:58,01:02,Shot,Wrist Shot,-40.0,-25.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:54:33Z,1,19:13,00:47,Hit,n/a,-97.0,20.0,Urho Vaakanainen,Hitter,Boston Bruins,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:55:07Z,1,19:31,00:29,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:55:46Z,1,19:56,00:04,Shot,Wrist Shot,29.0,-1.0,Sean Kuraly,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:14:21Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:15:17Z,2,00:26,19:34,Faceoff,n/a,-20.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:15:35Z,2,00:34,19:26,Faceoff,n/a,0.0,0.0,David Krejci,Winner,Boston Bruins,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:16:44Z,2,01:29,18:31,Missed Shot,n/a,31.0,39.0,Nic Petan,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:16:55Z,2,01:41,18:19,Shot,Wrist Shot,-45.0,2.0,Urho Vaakanainen,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:17:24Z,2,01:41,18:19,Faceoff,n/a,-69.0,-22.0,Sean Kuraly,Winner,Boston Bruins,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:17:35Z,2,01:49,18:11,Hit,n/a,-98.0,-11.0,Tyson Barrie,Hitter,Toronto Maple Leafs,Joakim Nordstrom,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:17:46Z,2,02:00,18:00,Shot,Tip-In,79.0,-1.0,Jason Spezza,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:18:09Z,2,02:01,17:59,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:18:23Z,2,02:10,17:50,Giveaway,n/a,35.0,-28.0,Cody Ceci,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:19:01Z,2,02:48,17:12,Shot,Wrist Shot,-79.0,33.0,David Pastrnak,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:19:20Z,2,02:48,17:12,Faceoff,n/a,-69.0,22.0,Charlie Coyle,Winner,Boston Bruins,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:19:49Z,2,02:56,17:04,Hit,n/a,-99.0,12.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:19:53Z,2,03:01,16:59,Missed Shot,n/a,-44.0,18.0,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:19:58Z,2,03:03,16:57,Shot,Wrist Shot,-77.0,-31.0,Matt Grzelcyk,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:20:07Z,2,03:03,16:57,Faceoff,n/a,-69.0,-22.0,David Krejci,Winner,Boston Bruins,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:20:22Z,2,03:09,16:51,Shot,Slap Shot,-32.0,12.0,Matt Grzelcyk,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:21:13Z,2,03:09,16:51,Faceoff,n/a,-69.0,-22.0,David Krejci,Winner,Boston Bruins,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:21:30Z,2,03:14,16:46,Shot,Wrist Shot,-49.0,-25.0,Matt Grzelcyk,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:22:00Z,2,03:40,16:20,Hit,n/a,-66.0,14.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Anders Bjork,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:21:58Z,2,03:42,16:18,Blocked Shot,n/a,-81.0,17.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Anders Bjork,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:22:24Z,2,04:08,15:52,Shot,Slap Shot,52.0,-30.0,William Nylander,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:22:37Z,2,04:21,15:39,Blocked Shot,n/a,77.0,7.0,Charlie McAvoy,Blocker,Boston Bruins,Travis Dermott,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:23:14Z,2,04:57,15:03,Missed Shot,n/a,50.0,24.0,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:23:21Z,2,05:04,14:56,Missed Shot,n/a,79.0,-1.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:23:27Z,2,05:11,14:49,Shot,Wrist Shot,47.0,35.0,Nic Petan,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:23:55Z,2,05:38,14:22,Shot,Wrist Shot,-64.0,31.0,Trent Frederic,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:24:14Z,2,05:38,14:22,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:24:33Z,2,05:52,14:08,Missed Shot,n/a,-84.0,-13.0,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:25:18Z,2,06:35,13:25,Blocked Shot,n/a,84.0,-11.0,Matt Grzelcyk,Blocker,Boston Bruins,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:25:24Z,2,06:41,13:19,Shot,Wrist Shot,33.0,-33.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:27:37Z,2,06:41,13:19,Faceoff,n/a,69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:28:07Z,2,07:01,12:59,Shot,Wrist Shot,-70.0,20.0,Chris Wagner,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:28:17Z,2,07:11,12:49,Missed Shot,n/a,-60.0,-34.0,Chris Wagner,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:28:22Z,2,07:16,12:44,Hit,n/a,-91.0,30.0,Justin Holl,Hitter,Toronto Maple Leafs,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:28:26Z,2,07:17,12:43,Shot,Backhand,-77.0,23.0,Sean Kuraly,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:29:00Z,2,07:17,12:43,Faceoff,n/a,-69.0,22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:29:21Z,2,07:37,12:23,Hit,n/a,95.0,26.0,Nicholas Shore,Hitter,Toronto Maple Leafs,Urho Vaakanainen,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:29:29Z,2,07:45,12:15,Hit,n/a,93.0,-18.0,Frederik Gauthier,Hitter,Toronto Maple Leafs,Charlie Coyle,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:29:46Z,2,08:02,11:58,Hit,n/a,98.0,5.0,Frederik Gauthier,Hitter,Toronto Maple Leafs,Urho Vaakanainen,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:30:06Z,2,08:22,11:38,Blocked Shot,n/a,65.0,1.0,Charlie McAvoy,Blocker,Boston Bruins,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:30:14Z,2,08:29,11:31,Shot,Wrist Shot,73.0,41.0,Jason Spezza,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:30:39Z,2,08:34,11:26,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:30:56Z,2,08:42,11:18,Blocked Shot,n/a,45.0,-26.0,Anders Bjork,Blocker,Boston Bruins,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:31:03Z,2,08:49,11:11,Blocked Shot,n/a,45.0,28.0,Charlie Coyle,Blocker,Boston Bruins,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:31:17Z,2,09:02,10:58,Missed Shot,n/a,37.0,33.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:31:32Z,2,09:06,10:54,Giveaway,n/a,34.0,-14.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:31:22Z,2,09:08,10:52,Shot,Snap Shot,41.0,-20.0,Zach Hyman,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:31:51Z,2,09:08,10:52,Faceoff,n/a,69.0,-22.0,William Nylander,Winner,Toronto Maple Leafs,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:32:06Z,2,09:20,10:40,Goal,Tip-In,70.0,1.0,Auston Matthews,Scorer,Toronto Maple Leafs,Jake Muzzin,Assist,Toronto Maple Leafs,William Nylander,Assist,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins
+2019-11-16T01:34:02Z,2,09:20,10:40,Faceoff,n/a,0.0,0.0,Jason Spezza,Winner,Toronto Maple Leafs,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:34:20Z,2,09:41,10:19,Missed Shot,n/a,57.0,-23.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:34:25Z,2,09:46,10:14,Giveaway,n/a,68.0,22.0,Brandon Carlo,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:34:31Z,2,09:52,10:08,Blocked Shot,n/a,40.0,14.0,Danton Heinen,Blocker,Boston Bruins,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:34:57Z,2,09:52,10:08,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:35:05Z,2,09:58,10:02,Missed Shot,n/a,37.0,-7.0,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:35:18Z,2,10:11,09:49,Missed Shot,n/a,70.0,39.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:35:24Z,2,10:17,09:43,Giveaway,n/a,34.0,-15.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:35:27Z,2,10:20,09:40,Missed Shot,n/a,-65.0,3.0,Sean Kuraly,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:35:39Z,2,10:32,09:28,Hit,n/a,-14.0,-42.0,Chris Wagner,Hitter,Boston Bruins,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:35:45Z,2,10:37,09:23,Hit,n/a,95.0,23.0,Auston Matthews,Hitter,Toronto Maple Leafs,Connor Clifton,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:36:15Z,2,10:39,09:21,Faceoff,n/a,69.0,22.0,Chris Wagner,Winner,Boston Bruins,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:36:26Z,2,10:48,09:12,Shot,Wrist Shot,58.0,23.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:38:36Z,2,10:50,09:10,Faceoff,n/a,69.0,22.0,David Krejci,Winner,Boston Bruins,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:39:55Z,2,11:11,08:49,Penalty,Tripping,30.0,3.0,Andreas Johnsson,PenaltyOn,Toronto Maple Leafs,Charlie McAvoy,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:40:10Z,2,11:11,08:49,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:40:19Z,2,11:22,08:38,Blocked Shot,n/a,-69.0,2.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:40:42Z,2,11:44,08:16,Shot,Slap Shot,-55.0,-18.0,David Pastrnak,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:41:10Z,2,11:44,08:16,Faceoff,n/a,-69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:41:16Z,2,11:54,08:06,Missed Shot,n/a,20.0,2.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:41:27Z,2,12:04,07:56,Blocked Shot,n/a,-76.0,20.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:41:47Z,2,12:04,07:56,Faceoff,n/a,-69.0,22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:42:02Z,2,12:14,07:46,Shot,Wrist Shot,-86.0,-13.0,Cody Ceci,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:42:21Z,2,12:32,07:28,Blocked Shot,n/a,-77.0,-11.0,Cody Ceci,Blocker,Toronto Maple Leafs,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:58:37Z,2,12:34,07:26,Missed Shot,n/a,-81.0,16.0,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:42:34Z,2,12:47,07:13,Missed Shot,n/a,-65.0,-20.0,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:43:01Z,2,13:14,06:46,Shot,Backhand,-83.0,-26.0,Charlie Coyle,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:43:06Z,2,13:20,06:40,Hit,n/a,-28.0,39.0,Brad Marchand,Hitter,Boston Bruins,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:43:22Z,2,13:36,06:24,Hit,n/a,92.0,30.0,Charlie McAvoy,Hitter,Boston Bruins,Frederik Gauthier,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:43:29Z,2,13:42,06:18,Missed Shot,n/a,70.0,2.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:43:40Z,2,13:53,06:07,Blocked Shot,n/a,63.0,-18.0,Anders Bjork,Blocker,Boston Bruins,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:44:02Z,2,14:16,05:44,Giveaway,n/a,52.0,40.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:44:09Z,2,14:22,05:38,Hit,n/a,96.0,13.0,Charlie McAvoy,Hitter,Boston Bruins,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:44:15Z,2,14:29,05:31,Blocked Shot,n/a,79.0,-3.0,Charlie McAvoy,Blocker,Boston Bruins,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:44:32Z,2,14:45,05:15,Takeaway,n/a,80.0,-34.0,Brandon Carlo,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:44:39Z,2,14:53,05:07,Shot,Wrist Shot,-61.0,-23.0,Chris Wagner,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:47:10Z,2,14:53,05:07,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:47:45Z,2,15:25,04:35,Hit,n/a,-98.0,2.0,Trent Frederic,Hitter,Boston Bruins,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:48:08Z,2,15:29,04:31,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:48:20Z,2,15:36,04:24,Shot,Wrist Shot,-69.0,-23.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:48:33Z,2,15:47,04:13,Hit,n/a,42.0,-40.0,Zach Hyman,Hitter,Toronto Maple Leafs,Matt Grzelcyk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:48:40Z,2,15:47,04:13,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:49:19Z,2,16:11,03:49,Hit,n/a,-27.0,18.0,Brandon Carlo,Hitter,Boston Bruins,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:49:37Z,2,16:28,03:32,Shot,Wrist Shot,70.0,12.0,John Tavares,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:49:43Z,2,16:33,03:27,Shot,Wrist Shot,72.0,-38.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:50:07Z,2,16:52,03:08,Penalty,Slashing,64.0,14.0,Patrice Bergeron,PenaltyOn,Boston Bruins,John Tavares,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:50:40Z,2,16:52,03:08,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:50:56Z,2,17:05,02:55,Shot,Slap Shot,73.0,-24.0,Auston Matthews,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:51:04Z,2,17:13,02:47,Blocked Shot,n/a,73.0,3.0,Zdeno Chara,Blocker,Boston Bruins,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:51:27Z,2,17:37,02:23,Hit,n/a,47.0,40.0,Sean Kuraly,Hitter,Boston Bruins,Andreas Johnsson,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:51:42Z,2,17:52,02:08,Missed Shot,n/a,-64.0,19.0,Sean Kuraly,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:51:49Z,2,17:58,02:02,Missed Shot,n/a,-46.0,-35.0,Zdeno Chara,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:52:02Z,2,18:08,01:52,Missed Shot,n/a,58.0,-20.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:52:25Z,2,18:09,01:51,Faceoff,n/a,69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:52:49Z,2,18:33,01:27,Takeaway,n/a,87.0,-22.0,Jason Spezza,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:57:05Z,2,18:59,01:01,Blocked Shot,n/a,73.0,6.0,Charlie McAvoy,Blocker,Boston Bruins,Nic Petan,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:53:16Z,2,19:00,01:00,Shot,Wrist Shot,84.0,14.0,Zach Hyman,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:53:47Z,2,19:00,01:00,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:54:40Z,2,19:47,00:13,Blocked Shot,n/a,71.0,-13.0,Zdeno Chara,Blocker,Boston Bruins,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:54:49Z,2,19:56,00:04,Hit,n/a,78.0,40.0,Charlie Coyle,Hitter,Boston Bruins,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:54:52Z,2,20:00,00:00,Shot,Wrist Shot,70.0,-19.0,Cody Ceci,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:13:24Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:13:44Z,3,00:11,19:49,Shot,Wrist Shot,85.0,-5.0,Brad Marchand,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:13:54Z,3,00:11,19:49,Goal,Wrist Shot,88.0,-3.0,Brad Marchand,Scorer,Boston Bruins,Brandon Carlo,Assist,Boston Bruins,Patrice Bergeron,Assist,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-11-16T02:14:11Z,3,00:11,19:49,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:15:09Z,3,01:03,18:57,Missed Shot,n/a,-69.0,0.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:15:31Z,3,01:26,18:34,Missed Shot,n/a,60.0,1.0,Anders Bjork,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:15:39Z,3,01:34,18:26,Takeaway,n/a,-10.0,38.0,Anders Bjork,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:16:05Z,3,01:41,18:19,Faceoff,n/a,-69.0,22.0,Par Lindholm,Winner,Boston Bruins,Nic Petan,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:17:02Z,3,02:10,17:50,Missed Shot,n/a,-60.0,33.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:17:06Z,3,02:15,17:45,Missed Shot,n/a,-31.0,-26.0,Travis Dermott,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:17:08Z,3,02:17,17:43,Hit,n/a,-76.0,40.0,Par Lindholm,Hitter,Boston Bruins,Ilya Mikheyev,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:17:15Z,3,02:24,17:36,Shot,Wrist Shot,-32.0,-23.0,Travis Dermott,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:18:01Z,3,03:10,16:50,Hit,n/a,-94.0,21.0,Nicholas Shore,Hitter,Toronto Maple Leafs,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:18:08Z,3,03:17,16:43,Shot,Tip-In,75.0,8.0,Brandon Carlo,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:18:19Z,3,03:28,16:32,Shot,Slap Shot,32.0,-22.0,Zdeno Chara,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:19:17Z,3,03:50,16:10,Giveaway,n/a,-72.0,-39.0,Tuukka Rask,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:18:43Z,3,03:52,16:08,Hit,n/a,-92.0,-28.0,Zdeno Chara,Hitter,Boston Bruins,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:18:47Z,3,03:54,16:06,Goal,Wrist Shot,-72.0,-8.0,Kasperi Kapanen,Scorer,Toronto Maple Leafs,John Tavares,Assist,Toronto Maple Leafs,Zach Hyman,Assist,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins
+2019-11-16T02:19:47Z,3,03:54,16:06,Faceoff,n/a,0.0,0.0,William Nylander,Winner,Toronto Maple Leafs,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:20:17Z,3,04:05,15:55,Faceoff,n/a,-20.0,-22.0,David Krejci,Winner,Boston Bruins,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:20:49Z,3,04:35,15:25,Giveaway,n/a,-26.0,37.0,Zdeno Chara,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:20:59Z,3,04:45,15:15,Missed Shot,n/a,65.0,28.0,David Krejci,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:21:09Z,3,04:50,15:10,Missed Shot,n/a,-71.0,23.0,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:21:23Z,3,05:07,14:53,Shot,Wrist Shot,69.0,-3.0,Brad Marchand,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:21:32Z,3,05:08,14:52,Goal,Wrist Shot,88.0,-9.0,Brad Marchand,Scorer,Boston Bruins,Charlie Coyle,Assist,Boston Bruins,David Krejci,Assist,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-11-16T02:22:04Z,3,05:08,14:52,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:22:22Z,3,05:28,14:32,Blocked Shot,n/a,64.0,-14.0,Kasperi Kapanen,Blocker,Toronto Maple Leafs,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:22:23Z,3,05:28,14:32,Hit,n/a,59.0,-34.0,Patrice Bergeron,Hitter,Boston Bruins,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:22:53Z,3,05:59,14:01,Takeaway,n/a,0.0,35.0,Connor Clifton,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:22:59Z,3,06:01,13:59,Blocked Shot,n/a,75.0,12.0,Cody Ceci,Blocker,Toronto Maple Leafs,Par Lindholm,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:24:53Z,3,06:01,13:59,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:25:35Z,3,06:18,13:42,Takeaway,n/a,-37.0,-25.0,Nic Petan,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:26:06Z,3,06:49,13:11,Takeaway,n/a,-98.0,-5.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:26:18Z,3,06:56,13:04,Hit,n/a,-97.0,-2.0,Connor Clifton,Hitter,Boston Bruins,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:26:31Z,3,06:58,13:02,Faceoff,n/a,-20.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:27:08Z,3,07:27,12:33,Hit,n/a,-90.0,-33.0,Auston Matthews,Hitter,Toronto Maple Leafs,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:27:37Z,3,07:56,12:04,Takeaway,n/a,7.0,39.0,Charlie Coyle,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:27:54Z,3,08:13,11:47,Hit,n/a,99.0,2.0,Charlie Coyle,Hitter,Boston Bruins,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:28:16Z,3,08:36,11:24,Hit,n/a,-29.0,-41.0,Connor Clifton,Hitter,Boston Bruins,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:28:25Z,3,08:44,11:16,Hit,n/a,-83.0,-36.0,Urho Vaakanainen,Hitter,Boston Bruins,Nic Petan,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:28:41Z,3,08:58,11:02,Shot,Wrist Shot,-58.0,12.0,Cody Ceci,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:28:53Z,3,08:58,11:02,Faceoff,n/a,-69.0,22.0,Zach Hyman,Winner,Toronto Maple Leafs,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:29:26Z,3,09:06,10:54,Faceoff,n/a,20.0,22.0,Patrice Bergeron,Winner,Boston Bruins,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:30:16Z,3,09:21,10:39,Faceoff,n/a,20.0,22.0,William Nylander,Winner,Toronto Maple Leafs,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:30:36Z,3,09:39,10:21,Hit,n/a,-44.0,39.0,Andreas Johnsson,Hitter,Toronto Maple Leafs,Par Lindholm,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:30:49Z,3,09:51,10:09,Shot,Wrist Shot,-59.0,26.0,Auston Matthews,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:31:03Z,3,10:06,09:54,Shot,Wrist Shot,85.0,-11.0,Par Lindholm,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:33:14Z,3,10:07,09:53,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:33:32Z,3,10:15,09:45,Shot,Wrist Shot,57.0,-26.0,Brandon Carlo,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:33:36Z,3,10:20,09:40,Shot,Wrist Shot,58.0,0.0,Patrice Bergeron,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:33:43Z,3,10:27,09:33,Shot,Wrist Shot,37.0,1.0,Brad Marchand,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:34:08Z,3,10:52,09:08,Hit,n/a,-82.0,38.0,John Tavares,Hitter,Toronto Maple Leafs,Matt Grzelcyk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:34:14Z,3,10:57,09:03,Shot,Wrist Shot,56.0,26.0,Sean Kuraly,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:34:17Z,3,11:00,09:00,Hit,n/a,25.0,40.0,Cody Ceci,Hitter,Toronto Maple Leafs,Sean Kuraly,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:34:19Z,3,11:02,08:58,Shot,Wrist Shot,65.0,4.0,Joakim Nordstrom,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:34:28Z,3,11:11,08:49,Hit,n/a,97.0,11.0,Chris Wagner,Hitter,Boston Bruins,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:35:17Z,3,11:18,08:42,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:35:48Z,3,11:26,08:34,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:35:54Z,3,11:38,08:22,Hit,n/a,26.0,-12.0,Morgan Rielly,Hitter,Toronto Maple Leafs,David Krejci,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:36:44Z,3,12:11,07:49,Missed Shot,n/a,3.0,-2.0,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:37:12Z,3,12:56,07:04,Takeaway,n/a,-41.0,-36.0,Travis Dermott,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:37:15Z,3,12:59,07:01,Shot,Wrist Shot,-51.0,22.0,Nic Petan,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:37:47Z,3,12:59,07:01,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:38:21Z,3,13:33,06:27,Hit,n/a,-76.0,-41.0,Patrice Bergeron,Hitter,Boston Bruins,Kasperi Kapanen,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:38:29Z,3,13:41,06:19,Missed Shot,n/a,-52.0,36.0,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:39:00Z,3,14:11,05:49,Giveaway,n/a,-34.0,-26.0,Travis Dermott,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:39:17Z,3,14:28,05:32,Missed Shot,n/a,64.0,1.0,Chris Wagner,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:41:41Z,3,14:34,05:26,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Toronto Maple Leafs,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:42:37Z,3,14:58,05:02,Shot,Wrist Shot,49.0,-25.0,Jake Muzzin,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:42:50Z,3,15:11,04:49,Blocked Shot,n/a,-69.0,1.0,David Krejci,Blocker,Boston Bruins,Nicholas Shore,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:43:40Z,3,15:39,04:21,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:43:54Z,3,15:44,04:16,Missed Shot,n/a,35.0,-23.0,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:44:09Z,3,15:59,04:01,Hit,n/a,-98.0,10.0,Zdeno Chara,Hitter,Boston Bruins,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:44:23Z,3,16:13,03:47,Giveaway,n/a,-36.0,-11.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:44:29Z,3,16:17,03:43,Takeaway,n/a,-39.0,-14.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:44:46Z,3,16:33,03:27,Blocked Shot,n/a,-70.0,13.0,Par Lindholm,Blocker,Boston Bruins,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:44:57Z,3,16:46,03:14,Blocked Shot,n/a,80.0,-7.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Joakim Nordstrom,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:45:05Z,3,16:54,03:06,Missed Shot,n/a,73.0,25.0,Joakim Nordstrom,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:45:38Z,3,16:54,03:06,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:46:11Z,3,17:11,02:49,Hit,n/a,-77.0,-41.0,Charlie McAvoy,Hitter,Boston Bruins,Nic Petan,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:46:21Z,3,17:21,02:39,Shot,Wrist Shot,66.0,-20.0,Charlie Coyle,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:46:28Z,3,17:28,02:32,Giveaway,n/a,36.0,36.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:46:53Z,3,17:33,02:27,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:47:44Z,3,17:56,02:04,Shot,Wrist Shot,20.0,-29.0,Brad Marchand,Shooter,Boston Bruins,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:48:08Z,3,18:20,01:40,Missed Shot,n/a,44.0,15.0,Sean Kuraly,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:48:16Z,3,18:26,01:34,Giveaway,n/a,40.0,40.0,Tyson Barrie,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:48:21Z,3,18:27,01:33,Goal,Slap Shot,32.0,33.0,Zdeno Chara,Scorer,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:49:09Z,3,18:27,01:33,Faceoff,n/a,0.0,0.0,Nicholas Shore,Winner,Toronto Maple Leafs,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:50:45Z,3,19:34,00:26,Faceoff,n/a,-69.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:51:06Z,3,19:39,00:21,Shot,Wrist Shot,-38.0,-14.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:51:13Z,3,19:45,00:15,Giveaway,n/a,-60.0,-37.0,Jason Spezza,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:51:17Z,3,19:49,00:11,Blocked Shot,n/a,80.0,-14.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:51:23Z,3,19:55,00:05,Takeaway,n/a,98.0,-3.0,Jason Spezza,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

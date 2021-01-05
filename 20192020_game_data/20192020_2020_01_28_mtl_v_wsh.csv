@@ -1,0 +1,287 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-28T00:08:31Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:08:53Z,1,00:18,19:42,Shot,Wrist Shot,-51.0,-33.0,Marco Scandella,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:09:22Z,1,00:19,19:41,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:10:20Z,1,01:10,18:50,Faceoff,n/a,20.0,22.0,Jakub Vrana,Winner,Washington Capitals,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:11:08Z,1,01:37,18:23,Giveaway,n/a,73.0,40.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:11:12Z,1,01:41,18:19,Shot,Wrist Shot,73.0,10.0,Jakub Vrana,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:11:28Z,1,01:55,18:05,Goal,Backhand,-80.0,-3.0,Jeff Petry,Scorer,Montréal Canadiens,Tomas Tatar,Assist,Montréal Canadiens,Marco Scandella,Assist,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals
+2020-01-28T00:12:39Z,1,01:55,18:05,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:12:36Z,1,02:16,17:44,Hit,n/a,-97.0,14.0,Garnet Hathaway,Hitter,Washington Capitals,Artturi Lehkonen,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:12:57Z,1,02:41,17:19,Missed Shot,n/a,-65.0,-5.0,Nick Cousins,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:13:01Z,1,02:42,17:18,Giveaway,n/a,-31.0,-38.0,Jonas Siegenthaler,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:13:11Z,1,02:45,17:15,Missed Shot,n/a,-34.0,-37.0,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:13:10Z,1,02:52,17:08,Giveaway,n/a,-37.0,40.0,Radko Gudas,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:13:50Z,1,03:04,16:56,Faceoff,n/a,-20.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:14:03Z,1,03:09,16:51,Shot,Tip-In,68.0,-2.0,Carl Hagelin,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:14:21Z,1,03:13,16:47,Faceoff,n/a,69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:14:58Z,1,03:29,16:31,Penalty,Holding,20.0,-11.0,Victor Mete,PenaltyOn,Montréal Canadiens,Lars Eller,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:15:35Z,1,03:29,16:31,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:15:51Z,1,03:53,16:07,Missed Shot,n/a,54.0,4.0,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:16:10Z,1,03:54,16:06,Faceoff,n/a,69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:16:57Z,1,04:33,15:27,Hit,n/a,38.0,39.0,Jeff Petry,Hitter,Montréal Canadiens,Brendan Leipsic,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:17:12Z,1,04:50,15:10,Giveaway,n/a,87.0,-26.0,Marco Scandella,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:17:24Z,1,05:02,14:58,Hit,n/a,59.0,-40.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Evgeny Kuznetsov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:18:12Z,1,05:23,14:37,Faceoff,n/a,20.0,-22.0,Nic Dowd,Winner,Washington Capitals,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:18:42Z,1,05:53,14:07,Takeaway,n/a,35.0,-30.0,Ben Chiarot,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:18:53Z,1,06:04,13:56,Blocked Shot,n/a,-84.0,-14.0,Nick Jensen,Blocker,Washington Capitals,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:19:07Z,1,06:18,13:42,Giveaway,n/a,-30.0,-26.0,Ilya Kovalchuk,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:19:24Z,1,06:34,13:26,Hit,n/a,97.0,-1.0,Tom Wilson,Hitter,Washington Capitals,Victor Mete,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:19:30Z,1,06:38,13:22,Missed Shot,n/a,-74.0,1.0,Tomas Tatar,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:19:42Z,1,06:40,13:20,Penalty,Hooking,-39.0,-10.0,Nicklas Backstrom,PenaltyOn,Washington Capitals,Phillip Danault,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:22:20Z,1,06:40,13:20,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:22:10Z,1,06:58,13:02,Shot,Wrist Shot,-70.0,23.0,Nick Suzuki,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:22:34Z,1,06:59,13:01,Faceoff,n/a,-69.0,22.0,Lars Eller,Winner,Washington Capitals,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:22:44Z,1,07:09,12:51,Shot,Wrist Shot,-61.0,12.0,Radko Gudas,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:22:58Z,1,07:22,12:38,Takeaway,n/a,-52.0,-39.0,Phillip Danault,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:23:15Z,1,07:39,12:21,Giveaway,n/a,13.0,-38.0,Tomas Tatar,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:23:20Z,1,07:44,12:16,Shot,Wrist Shot,59.0,19.0,Carl Hagelin,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:23:23Z,1,07:46,12:14,Giveaway,n/a,71.0,13.0,Jesperi Kotkaniemi,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:23:33Z,1,07:47,12:13,Shot,Backhand,46.0,22.0,Lars Eller,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:24:17Z,1,08:42,11:18,Blocked Shot,n/a,-66.0,0.0,Carl Hagelin,Blocker,Washington Capitals,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:24:28Z,1,08:50,11:10,Shot,Wrist Shot,65.0,-5.0,Nicklas Backstrom,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:24:26Z,1,08:51,11:09,Hit,n/a,98.0,25.0,Shea Weber,Hitter,Montréal Canadiens,Nicklas Backstrom,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:24:40Z,1,09:04,10:56,Hit,n/a,-93.0,-32.0,Nate Thompson,Hitter,Montréal Canadiens,John Carlson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:26:36Z,1,09:17,10:43,Faceoff,n/a,20.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Ilya Kovalchuk,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:25:49Z,1,09:35,10:25,Blocked Shot,n/a,73.0,-10.0,Ben Chiarot,Blocker,Montréal Canadiens,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:25:53Z,1,09:41,10:19,Hit,n/a,62.0,40.0,T.J. Oshie,Hitter,Washington Capitals,Marco Scandella,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:26:36Z,1,09:44,10:16,Faceoff,n/a,-69.0,22.0,Jesperi Kotkaniemi,Winner,Montréal Canadiens,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:26:45Z,1,10:04,09:56,Giveaway,n/a,-34.0,39.0,Radko Gudas,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:26:50Z,1,10:09,09:51,Shot,Wrist Shot,-38.0,2.0,Brett Kulak,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:27:06Z,1,10:25,09:35,Hit,n/a,51.0,-39.0,Brett Kulak,Hitter,Montréal Canadiens,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:27:37Z,1,10:56,09:04,Hit,n/a,95.0,-26.0,Nic Dowd,Hitter,Washington Capitals,Nate Thompson,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:27:48Z,1,11:07,08:53,Shot,Wrist Shot,-10.0,-29.0,Nick Jensen,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:28:22Z,1,11:22,08:38,Faceoff,n/a,69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:30:07Z,1,12:54,07:06,Takeaway,n/a,45.0,-37.0,Tomas Tatar,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:30:04Z,1,13:01,06:59,Shot,Wrist Shot,-57.0,24.0,Jesperi Kotkaniemi,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:30:20Z,1,13:17,06:43,Takeaway,n/a,58.0,41.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:30:40Z,1,13:34,06:26,Missed Shot,n/a,65.0,19.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:33:02Z,1,13:36,06:24,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:33:10Z,1,13:40,06:20,Blocked Shot,n/a,70.0,-11.0,Jeff Petry,Blocker,Montréal Canadiens,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:33:21Z,1,13:42,06:18,Faceoff,n/a,69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:33:37Z,1,13:46,06:14,Faceoff,n/a,69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:34:06Z,1,13:58,06:02,Shot,Wrist Shot,-31.0,17.0,Jeff Petry,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:34:45Z,1,13:59,06:01,Faceoff,n/a,-69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Richard Panik,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:35:08Z,1,14:19,05:41,Faceoff,n/a,-69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:35:35Z,1,14:26,05:34,Faceoff,n/a,-69.0,-22.0,Nick Suzuki,Winner,Montréal Canadiens,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:36:19Z,1,14:51,05:09,Shot,Wrist Shot,-59.0,5.0,Joel Armia,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:38:42Z,1,14:52,05:08,Faceoff,n/a,-69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:38:44Z,1,15:01,04:59,Giveaway,n/a,82.0,40.0,Carey Price,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:38:47Z,1,15:02,04:58,Shot,Wrist Shot,69.0,20.0,Nic Dowd,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:39:00Z,1,15:03,04:57,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:39:20Z,1,15:10,04:50,Shot,Wrist Shot,30.0,-32.0,Radko Gudas,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:39:24Z,1,15:12,04:48,Hit,n/a,59.0,42.0,Dale Weise,Hitter,Montréal Canadiens,Jonas Siegenthaler,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:39:36Z,1,15:26,04:34,Hit,n/a,41.0,39.0,Dale Weise,Hitter,Montréal Canadiens,Brendan Leipsic,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:40:12Z,1,16:02,03:58,Shot,Backhand,67.0,-22.0,Carl Hagelin,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:40:26Z,1,16:14,03:46,Giveaway,n/a,-32.0,41.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:40:28Z,1,16:18,03:42,Shot,Wrist Shot,-28.0,38.0,Jeff Petry,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:40:56Z,1,16:39,03:21,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Tomas Tatar,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:41:36Z,1,16:45,03:15,Blocked Shot,n/a,66.0,19.0,Ben Chiarot,Blocker,Montréal Canadiens,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:41:39Z,1,16:47,03:13,Giveaway,n/a,79.0,40.0,Tomas Tatar,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:41:39Z,1,16:51,03:09,Giveaway,n/a,-19.0,39.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:41:46Z,1,16:54,03:06,Takeaway,n/a,-31.0,38.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:42:34Z,1,17:04,02:56,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:42:38Z,1,17:10,02:50,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:43:01Z,1,17:27,02:33,Shot,Wrist Shot,71.0,2.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:43:13Z,1,17:28,02:32,Penalty,Slashing,68.0,-6.0,Max Domi,PenaltyOn,Montréal Canadiens,Evgeny Kuznetsov,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:43:45Z,1,17:28,02:32,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:44:35Z,1,18:22,01:38,Missed Shot,n/a,72.0,-17.0,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:44:42Z,1,18:26,01:34,Shot,Slap Shot,33.0,14.0,John Carlson,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:44:52Z,1,18:30,01:30,Goal,Wrist Shot,78.0,-1.0,Tom Wilson,Scorer,Washington Capitals,Jakub Vrana,Assist,Washington Capitals,T.J. Oshie,Assist,Washington Capitals,Carey Price,Goalie,Montréal Canadiens
+2020-01-28T00:45:43Z,1,18:30,01:30,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:45:51Z,1,18:48,01:12,Hit,n/a,-34.0,-40.0,Lars Eller,Hitter,Washington Capitals,Brett Kulak,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:45:57Z,1,18:51,01:09,Blocked Shot,n/a,-78.0,-12.0,Nick Jensen,Blocker,Washington Capitals,Brett Kulak,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:46:38Z,1,19:34,00:26,Giveaway,n/a,-62.0,42.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:46:38Z,1,19:35,00:25,Hit,n/a,-65.0,41.0,Lars Eller,Hitter,Washington Capitals,Ilya Kovalchuk,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:46:43Z,1,19:35,00:25,Blocked Shot,n/a,-73.0,-5.0,Dmitry Orlov,Blocker,Washington Capitals,Phillip Danault,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:47:05Z,1,19:37,00:23,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:47:20Z,1,19:51,00:09,Shot,Wrist Shot,-81.0,1.0,Tomas Tatar,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:47:26Z,1,19:57,00:03,Hit,n/a,-35.0,40.0,Garnet Hathaway,Hitter,Washington Capitals,Phillip Danault,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:47:26Z,1,19:57,00:03,Giveaway,n/a,-30.0,14.0,Brendan Leipsic,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T00:48:03Z,1,20:00,00:00,Penalty,Hi-sticking,-35.0,40.0,Phillip Danault,PenaltyOn,Montréal Canadiens,Garnet Hathaway,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:06:59Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Nate Thompson,Winner,Montréal Canadiens,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:07:07Z,2,00:13,19:47,Hit,n/a,-98.0,20.0,Ben Chiarot,Hitter,Montréal Canadiens,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:07:28Z,2,00:21,19:39,Shot,Tip-In,-77.0,1.0,Jakub Vrana,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:07:36Z,2,00:36,19:24,Shot,Wrist Shot,-57.0,22.0,Nicklas Backstrom,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:07:52Z,2,00:38,19:22,Faceoff,n/a,-69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:08:29Z,2,01:09,18:51,Shot,Wrist Shot,-59.0,13.0,Tom Wilson,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:08:53Z,2,01:33,18:27,Giveaway,n/a,51.0,-37.0,Braden Holtby,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:08:57Z,2,01:37,18:23,Shot,Backhand,84.0,-10.0,Artturi Lehkonen,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:09:23Z,2,01:57,18:03,Missed Shot,n/a,-85.0,-12.0,Brendan Leipsic,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:23:27Z,2,02:00,18:00,Shot,Wrist Shot,-84.0,6.0,Lars Eller,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:09:39Z,2,02:03,17:57,Goal,Wrist Shot,-84.0,8.0,Travis Boyd,Scorer,Washington Capitals,Lars Eller,Assist,Washington Capitals,Brendan Leipsic,Assist,Washington Capitals,Carey Price,Goalie,Montréal Canadiens
+2020-01-28T01:23:27Z,2,02:03,17:57,Faceoff,n/a,0.0,0.0,Nick Suzuki,Winner,Montréal Canadiens,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:10:30Z,2,02:19,17:41,Hit,n/a,98.0,0.0,Nick Jensen,Hitter,Washington Capitals,Marco Scandella,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:10:35Z,2,02:24,17:36,Shot,Wrist Shot,-70.0,21.0,Garnet Hathaway,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:10:50Z,2,02:39,17:21,Blocked Shot,n/a,-68.0,7.0,Joel Armia,Blocker,Montréal Canadiens,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:11:13Z,2,03:02,16:58,Takeaway,n/a,47.0,16.0,Nicklas Backstrom,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:11:18Z,2,03:03,16:57,Hit,n/a,51.0,41.0,Nick Suzuki,Hitter,Montréal Canadiens,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:11:35Z,2,03:10,16:50,Penalty,Roughing,44.0,41.0,Tom Wilson,PenaltyOn,Washington Capitals,Nick Suzuki,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:12:27Z,2,03:10,16:50,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:12:40Z,2,03:24,16:36,Missed Shot,n/a,-81.0,1.0,Carl Hagelin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:12:44Z,2,03:28,16:32,Hit,n/a,43.0,-42.0,Nic Dowd,Hitter,Washington Capitals,Jesperi Kotkaniemi,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:12:49Z,2,03:30,16:30,Missed Shot,n/a,49.0,-22.0,Nick Suzuki,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:13:15Z,2,03:36,16:24,Faceoff,n/a,69.0,22.0,Jesperi Kotkaniemi,Winner,Montréal Canadiens,Garnet Hathaway,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:14:37Z,2,04:37,15:23,Missed Shot,n/a,71.0,3.0,Phillip Danault,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:15:44Z,2,05:34,14:26,Takeaway,n/a,-50.0,30.0,Max Domi,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:15:59Z,2,05:59,14:01,Giveaway,n/a,-30.0,-35.0,Dale Weise,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:16:31Z,2,06:26,13:34,Blocked Shot,n/a,74.0,-1.0,Dmitry Orlov,Blocker,Washington Capitals,Ryan Poehling,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:16:42Z,2,06:35,13:25,Shot,Wrist Shot,72.0,0.0,Jesperi Kotkaniemi,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:16:47Z,2,06:42,13:18,Penalty,Tripping,91.0,-16.0,T.J. Oshie,PenaltyOn,Washington Capitals,Jesperi Kotkaniemi,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:19:33Z,2,06:42,13:18,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:19:19Z,2,06:49,13:11,Giveaway,n/a,34.0,-38.0,Jonas Siegenthaler,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:20:03Z,2,07:24,12:36,Hit,n/a,89.0,34.0,Radko Gudas,Hitter,Washington Capitals,Max Domi,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:20:44Z,2,08:14,11:46,Shot,Wrist Shot,73.0,9.0,Ilya Kovalchuk,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:21:26Z,2,08:56,11:04,Shot,Wrist Shot,-80.0,-2.0,Garnet Hathaway,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:21:38Z,2,09:07,10:53,Shot,Wrist Shot,-78.0,-3.0,Garnet Hathaway,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:21:48Z,2,09:08,10:52,Shot,Backhand,-85.0,10.0,Richard Panik,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:22:57Z,2,09:09,10:51,Faceoff,n/a,-69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:23:01Z,2,09:15,10:45,Faceoff,n/a,20.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:23:39Z,2,09:45,10:15,Hit,n/a,52.0,-40.0,Brendan Leipsic,Hitter,Washington Capitals,Dale Weise,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:23:54Z,2,10:00,10:00,Blocked Shot,n/a,67.0,22.0,Nate Thompson,Blocker,Montréal Canadiens,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:24:15Z,2,10:21,09:39,Blocked Shot,n/a,62.0,25.0,T.J. Oshie,Blocker,Washington Capitals,Marco Scandella,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:24:46Z,2,10:52,09:08,Takeaway,n/a,-83.0,31.0,Phillip Danault,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:24:49Z,2,10:52,09:08,Hit,n/a,-79.0,42.0,Evgeny Kuznetsov,Hitter,Washington Capitals,Phillip Danault,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:24:50Z,2,10:55,09:05,Shot,Wrist Shot,59.0,17.0,Max Domi,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:27:26Z,2,10:56,09:04,Faceoff,n/a,69.0,22.0,Jesperi Kotkaniemi,Winner,Montréal Canadiens,Travis Boyd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:27:55Z,2,11:14,08:46,Missed Shot,n/a,65.0,-15.0,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:28:04Z,2,11:23,08:37,Shot,Wrist Shot,63.0,-28.0,Brett Kulak,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:28:12Z,2,11:31,08:29,Giveaway,n/a,44.0,23.0,Michal Kempny,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:28:14Z,2,11:33,08:27,Shot,Wrist Shot,41.0,23.0,Victor Mete,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:28:18Z,2,11:36,08:24,Giveaway,n/a,39.0,39.0,Michal Kempny,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:28:23Z,2,11:39,08:21,Shot,Slap Shot,50.0,8.0,Ryan Poehling,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:29:05Z,2,11:40,08:20,Faceoff,n/a,69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:29:00Z,2,11:48,08:12,Shot,Tip-In,75.0,-1.0,Nick Suzuki,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:29:00Z,2,11:49,08:11,Shot,Wrist Shot,82.0,1.0,Max Domi,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:29:42Z,2,12:31,07:29,Hit,n/a,-87.0,35.0,Tom Wilson,Hitter,Washington Capitals,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:30:15Z,2,12:42,07:18,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:30:36Z,2,12:54,07:06,Missed Shot,n/a,38.0,-26.0,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:30:40Z,2,12:58,07:02,Hit,n/a,37.0,42.0,Nicklas Backstrom,Hitter,Washington Capitals,Marco Scandella,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:30:57Z,2,13:14,06:46,Hit,n/a,-98.0,-9.0,Garnet Hathaway,Hitter,Washington Capitals,Marco Scandella,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:31:01Z,2,13:19,06:41,Blocked Shot,n/a,-66.0,7.0,Phillip Danault,Blocker,Montréal Canadiens,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:31:11Z,2,13:29,06:31,Hit,n/a,-35.0,41.0,Garnet Hathaway,Hitter,Washington Capitals,Tomas Tatar,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:31:30Z,2,13:48,06:12,Hit,n/a,-68.0,-42.0,Nic Dowd,Hitter,Washington Capitals,Jeff Petry,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:31:41Z,2,13:59,06:01,Blocked Shot,n/a,70.0,10.0,Jakub Vrana,Blocker,Washington Capitals,Nate Thompson,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:34:11Z,2,14:16,05:44,Faceoff,n/a,69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:34:31Z,2,14:27,05:33,Giveaway,n/a,-71.0,-13.0,Carey Price,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:35:02Z,2,14:51,05:09,Goal,Wrist Shot,-81.0,8.0,Jakub Vrana,Scorer,Washington Capitals,T.J. Oshie,Assist,Washington Capitals,Evgeny Kuznetsov,Assist,Washington Capitals,Carey Price,Goalie,Montréal Canadiens
+2020-01-28T01:35:45Z,2,14:51,05:09,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:36:30Z,2,15:11,04:49,Faceoff,n/a,69.0,-22.0,Lars Eller,Winner,Washington Capitals,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:36:45Z,2,15:22,04:38,Shot,Wrist Shot,-61.0,13.0,Lars Eller,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:37:43Z,2,15:42,04:18,Faceoff,n/a,-69.0,-22.0,Nick Suzuki,Winner,Montréal Canadiens,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:37:48Z,2,15:47,04:13,Faceoff,n/a,-69.0,-22.0,Nick Suzuki,Winner,Montréal Canadiens,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:38:05Z,2,15:55,04:05,Giveaway,n/a,-53.0,-30.0,Ben Chiarot,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:38:14Z,2,16:05,03:55,Blocked Shot,n/a,-68.0,19.0,Shea Weber,Blocker,Montréal Canadiens,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:38:16Z,2,16:07,03:53,Hit,n/a,-78.0,39.0,Shea Weber,Hitter,Montréal Canadiens,Richard Panik,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:39:01Z,2,16:41,03:19,Giveaway,n/a,-36.0,-22.0,Carey Price,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:38:51Z,2,16:42,03:18,Shot,Wrist Shot,9.0,33.0,Jonas Siegenthaler,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:39:06Z,2,16:49,03:11,Hit,n/a,-88.0,33.0,Nate Thompson,Hitter,Montréal Canadiens,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:39:32Z,2,17:05,02:55,Hit,n/a,-94.0,-30.0,Brendan Leipsic,Hitter,Washington Capitals,Dale Weise,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:39:25Z,2,17:11,02:49,Missed Shot,n/a,-82.0,-11.0,Brendan Leipsic,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:39:56Z,2,17:15,02:45,Faceoff,n/a,20.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:40:24Z,2,17:46,02:14,Hit,n/a,-94.0,29.0,Evgeny Kuznetsov,Hitter,Washington Capitals,Ben Chiarot,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:40:30Z,2,17:52,02:08,Shot,Wrist Shot,-39.0,0.0,Michal Kempny,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:40:39Z,2,18:02,01:58,Giveaway,n/a,-30.0,40.0,Shea Weber,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:40:53Z,2,18:15,01:45,Missed Shot,n/a,-57.0,17.0,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:41:03Z,2,18:26,01:34,Blocked Shot,n/a,-73.0,-7.0,Ilya Kovalchuk,Blocker,Montréal Canadiens,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:41:14Z,2,18:34,01:26,Shot,Wrist Shot,-71.0,20.0,Carl Hagelin,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:41:42Z,2,18:35,01:25,Faceoff,n/a,-69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:42:42Z,2,19:24,00:36,Shot,Backhand,-66.0,15.0,Lars Eller,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:43:04Z,2,19:46,00:14,Giveaway,n/a,-82.0,37.0,Nick Suzuki,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:43:12Z,2,19:54,00:06,Hit,n/a,98.0,3.0,Joel Armia,Hitter,Montréal Canadiens,Jonas Siegenthaler,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T01:43:17Z,2,19:57,00:03,Giveaway,n/a,68.0,41.0,Radko Gudas,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:01:51Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Nate Thompson,Winner,Montréal Canadiens,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:02:10Z,3,00:22,19:38,Hit,n/a,-87.0,-35.0,Dale Weise,Hitter,Montréal Canadiens,Travis Boyd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:02:28Z,3,00:39,19:21,Shot,Wrist Shot,-43.0,0.0,Nick Cousins,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:02:37Z,3,00:48,19:12,Blocked Shot,n/a,73.0,9.0,Ben Chiarot,Blocker,Montréal Canadiens,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:02:46Z,3,00:58,19:02,Takeaway,n/a,47.0,39.0,Nick Cousins,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:03:13Z,3,01:24,18:36,Shot,Wrist Shot,-66.0,-19.0,Ilya Kovalchuk,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:04:17Z,3,02:13,17:47,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:04:45Z,3,02:30,17:30,Missed Shot,n/a,-55.0,7.0,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:04:59Z,3,02:45,17:15,Blocked Shot,n/a,-68.0,-13.0,Radko Gudas,Blocker,Washington Capitals,Ryan Poehling,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:05:14Z,3,03:00,17:00,Blocked Shot,n/a,68.0,-10.0,Brett Kulak,Blocker,Montréal Canadiens,Garnet Hathaway,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:05:50Z,3,03:33,16:27,Giveaway,n/a,-69.0,-40.0,Carl Hagelin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:06:05Z,3,03:51,16:09,Hit,n/a,-98.0,-14.0,Dale Weise,Hitter,Montréal Canadiens,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:06:23Z,3,03:51,16:09,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:06:37Z,3,03:59,16:01,Hit,n/a,34.0,41.0,Ben Chiarot,Hitter,Montréal Canadiens,Carl Hagelin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:06:40Z,3,04:02,15:58,Shot,Wrist Shot,53.0,-2.0,Lars Eller,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:06:54Z,3,04:16,15:44,Takeaway,n/a,-98.0,9.0,Tomas Tatar,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:07:20Z,3,04:41,15:19,Shot,Wrist Shot,-47.0,0.0,Joel Armia,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:07:46Z,3,04:42,15:18,Faceoff,n/a,-69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:07:51Z,3,04:46,15:14,Shot,Wrist Shot,-30.0,27.0,Jeff Petry,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:08:00Z,3,04:55,15:05,Hit,n/a,38.0,-6.0,Jeff Petry,Hitter,Montréal Canadiens,Evgeny Kuznetsov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:08:11Z,3,05:05,14:55,Giveaway,n/a,-97.0,-8.0,Jakub Vrana,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:08:19Z,3,05:08,14:52,Shot,Wrist Shot,-81.0,-2.0,Joel Armia,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:10:58Z,3,05:09,14:51,Faceoff,n/a,-69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:11:14Z,3,05:25,14:35,Missed Shot,n/a,-74.0,-3.0,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:11:14Z,3,05:44,14:16,Hit,n/a,-66.0,-40.0,Jonas Siegenthaler,Hitter,Washington Capitals,Ryan Poehling,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:11:21Z,3,05:48,14:12,Shot,Slap Shot,-36.0,-1.0,Shea Weber,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:12:18Z,3,05:49,14:11,Faceoff,n/a,-69.0,-22.0,Garnet Hathaway,Winner,Washington Capitals,Tomas Tatar,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:12:18Z,3,05:55,14:05,Giveaway,n/a,-34.0,42.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:12:44Z,3,06:21,13:39,Hit,n/a,99.0,19.0,Nic Dowd,Hitter,Washington Capitals,Brett Kulak,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:12:54Z,3,06:31,13:29,Hit,n/a,38.0,-42.0,Victor Mete,Hitter,Montréal Canadiens,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:13:03Z,3,06:39,13:21,Hit,n/a,-4.0,-39.0,Jakub Vrana,Hitter,Washington Capitals,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:13:10Z,3,06:47,13:13,Giveaway,n/a,-29.0,40.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:13:12Z,3,06:49,13:11,Missed Shot,n/a,-31.0,35.0,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:13:29Z,3,07:06,12:54,Hit,n/a,34.0,-40.0,Dale Weise,Hitter,Montréal Canadiens,Evgeny Kuznetsov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:13:38Z,3,07:15,12:45,Shot,Slap Shot,32.0,30.0,Michal Kempny,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:13:45Z,3,07:22,12:38,Blocked Shot,n/a,67.0,13.0,Dale Weise,Blocker,Montréal Canadiens,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:14:00Z,3,07:30,12:30,Goal,Backhand,-82.0,-5.0,Dale Weise,Scorer,Montréal Canadiens,Nick Suzuki,Assist,Montréal Canadiens,Nick Cousins,Assist,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals
+2020-01-28T02:14:51Z,3,07:30,12:30,Faceoff,n/a,0.0,0.0,Nick Suzuki,Winner,Montréal Canadiens,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:14:59Z,3,07:43,12:17,Hit,n/a,-95.0,20.0,Joel Armia,Hitter,Montréal Canadiens,John Carlson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:15:07Z,3,07:51,12:09,Blocked Shot,n/a,-73.0,17.0,Michal Kempny,Blocker,Washington Capitals,Joel Armia,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:15:14Z,3,07:57,12:03,Hit,n/a,-58.0,-40.0,Travis Boyd,Hitter,Washington Capitals,Brett Kulak,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:15:43Z,3,08:25,11:35,Giveaway,n/a,-45.0,-40.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:16:36Z,3,08:51,11:09,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Jesperi Kotkaniemi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:16:41Z,3,08:55,11:05,Shot,Tip-In,80.0,5.0,Tom Wilson,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:33:47Z,3,08:57,11:03,Shot,Tip-In,81.0,2.0,Tom Wilson,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:17:04Z,3,09:23,10:37,Hit,n/a,2.0,-38.0,Radko Gudas,Hitter,Washington Capitals,Ilya Kovalchuk,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:17:12Z,3,09:27,10:33,Hit,n/a,-98.0,5.0,Ryan Poehling,Hitter,Montréal Canadiens,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:17:40Z,3,09:59,10:01,Hit,n/a,96.0,-23.0,Jeff Petry,Hitter,Montréal Canadiens,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:18:30Z,3,10:49,09:11,Missed Shot,n/a,-34.0,-31.0,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:18:47Z,3,11:06,08:54,Giveaway,n/a,-89.0,-33.0,Braden Holtby,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:19:10Z,3,11:29,08:31,Giveaway,n/a,33.0,-37.0,Joel Armia,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:19:41Z,3,11:35,08:25,Shot,Wrist Shot,81.0,-9.0,Carl Hagelin,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:19:26Z,3,11:45,08:15,Blocked Shot,n/a,65.0,-5.0,Marco Scandella,Blocker,Montréal Canadiens,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:19:33Z,3,11:53,08:07,Hit,n/a,99.0,4.0,Ben Chiarot,Hitter,Montréal Canadiens,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:21:49Z,3,12:07,07:53,Shot,Tip-In,-79.0,0.0,Nate Thompson,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:19:50Z,3,12:08,07:52,Shot,Backhand,-82.0,-1.0,Nate Thompson,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:19:50Z,3,12:09,07:51,Shot,Wrist Shot,-67.0,-3.0,Nate Thompson,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:19:56Z,3,12:15,07:45,Hit,n/a,-13.0,-40.0,Carl Hagelin,Hitter,Washington Capitals,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:20:11Z,3,12:30,07:30,Missed Shot,n/a,33.0,-10.0,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:20:30Z,3,12:49,07:11,Giveaway,n/a,33.0,-4.0,Ryan Poehling,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:20:33Z,3,12:52,07:08,Blocked Shot,n/a,67.0,1.0,Victor Mete,Blocker,Montréal Canadiens,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:20:36Z,3,12:55,07:05,Giveaway,n/a,47.0,-9.0,Jesperi Kotkaniemi,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:20:43Z,3,12:55,07:05,Shot,Wrist Shot,58.0,12.0,Tom Wilson,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:23:16Z,3,12:57,07:03,Faceoff,n/a,69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:23:12Z,3,13:08,06:52,Shot,Wrist Shot,-62.0,-27.0,Brett Kulak,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:24:05Z,3,13:59,06:01,Shot,Wrist Shot,38.0,28.0,Carl Hagelin,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:26:22Z,3,14:00,06:00,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:26:28Z,3,14:09,05:51,Blocked Shot,n/a,72.0,0.0,Phillip Danault,Blocker,Montréal Canadiens,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:26:44Z,3,14:24,05:36,Shot,Wrist Shot,-66.0,-22.0,Ilya Kovalchuk,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:27:27Z,3,14:25,05:35,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:28:00Z,3,15:02,04:58,Shot,Wrist Shot,-71.0,-16.0,Tomas Tatar,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:28:10Z,3,15:03,04:57,Shot,Wrist Shot,-51.0,14.0,Victor Mete,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:30:30Z,3,15:04,04:56,Faceoff,n/a,-69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:30:23Z,3,15:10,04:50,Giveaway,n/a,-45.0,42.0,Radko Gudas,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:31:09Z,3,15:53,04:07,Shot,Tip-In,79.0,4.0,Richard Panik,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:31:53Z,3,15:54,04:06,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:32:06Z,3,16:01,03:59,Giveaway,n/a,37.0,-4.0,Brett Kulak,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:31:56Z,3,16:02,03:58,Shot,Wrist Shot,83.0,6.0,Lars Eller,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:32:50Z,3,16:08,03:52,Shot,Wrist Shot,-37.0,-2.0,Artturi Lehkonen,Shooter,Montréal Canadiens,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:32:13Z,3,16:18,03:42,Shot,Wrist Shot,29.0,-28.0,John Carlson,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:32:20Z,3,16:25,03:35,Blocked Shot,n/a,61.0,-18.0,Nate Thompson,Blocker,Montréal Canadiens,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:32:28Z,3,16:33,03:27,Shot,Wrist Shot,-5.0,23.0,John Carlson,Shooter,Washington Capitals,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:32:36Z,3,16:41,03:19,Hit,n/a,50.0,-40.0,Garnet Hathaway,Hitter,Washington Capitals,Brett Kulak,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:33:30Z,3,17:25,02:35,Hit,n/a,-97.0,9.0,Dmitry Orlov,Hitter,Washington Capitals,Victor Mete,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:33:47Z,3,17:52,02:08,Giveaway,n/a,-31.0,40.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:34:44Z,3,18:23,01:37,Missed Shot,n/a,-56.0,-12.0,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:36:57Z,3,18:25,01:35,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:36:00Z,3,18:33,01:27,Giveaway,n/a,-29.0,5.0,Michal Kempny,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:36:25Z,3,18:48,01:12,Blocked Shot,n/a,-59.0,21.0,Richard Panik,Blocker,Washington Capitals,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:36:35Z,3,19:07,00:53,Missed Shot,n/a,-31.0,12.0,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:36:39Z,3,19:12,00:48,Hit,n/a,-91.0,35.0,Lars Eller,Hitter,Washington Capitals,Tomas Tatar,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:36:56Z,3,19:29,00:31,Giveaway,n/a,-69.0,42.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:37:08Z,3,19:37,00:23,Goal,Backhand,10.0,-16.0,Nicklas Backstrom,Scorer,Washington Capitals,Carl Hagelin,Assist,Washington Capitals,Tom Wilson,Assist,Montréal Canadiens,n/a,n/a,n/a
+2020-01-28T02:38:03Z,3,19:37,00:23,Faceoff,n/a,0.0,0.0,Nate Thompson,Winner,Montréal Canadiens,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T02:38:12Z,3,19:47,00:13,Hit,n/a,99.0,8.0,Ben Chiarot,Hitter,Montréal Canadiens,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a

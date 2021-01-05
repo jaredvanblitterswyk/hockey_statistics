@@ -1,0 +1,227 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-27T03:44:44Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:45:42Z,1,00:17,19:43,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:46:06Z,1,00:22,19:38,Shot,Wrist Shot,72.0,30.0,Kris Letang,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:46:19Z,1,00:27,19:33,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:46:35Z,1,00:32,19:28,Blocked Shot,n/a,51.0,2.0,Alex Iafallo,Blocker,Los Angeles Kings,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:47:06Z,1,01:00,19:00,Penalty,Tripping,-70.0,34.0,Kris Letang,PenaltyOn,Pittsburgh Penguins,Dustin Brown,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:47:37Z,1,01:00,19:00,Faceoff,n/a,-69.0,22.0,Gabriel Vilardi,Winner,Los Angeles Kings,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:47:39Z,1,01:08,18:52,Shot,Slap Shot,-42.0,-32.0,Martin Frk,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:47:56Z,1,01:09,18:51,Faceoff,n/a,-69.0,-22.0,Blake Lizotte,Winner,Los Angeles Kings,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:48:42Z,1,01:15,18:45,Giveaway,n/a,-95.0,21.0,Marcus Pettersson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:48:44Z,1,01:33,18:27,Shot,Slap Shot,-46.0,13.0,Gabriel Vilardi,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:48:56Z,1,01:45,18:15,Missed Shot,n/a,-56.0,11.0,Gabriel Vilardi,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:49:06Z,1,01:51,18:09,Giveaway,n/a,-72.0,-31.0,Chad Ruhwedel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:49:07Z,1,01:56,18:04,Shot,Slap Shot,-56.0,-9.0,Martin Frk,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:49:13Z,1,02:03,17:57,Blocked Shot,n/a,-81.0,8.0,Chad Ruhwedel,Blocker,Pittsburgh Penguins,Gabriel Vilardi,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:49:46Z,1,02:34,17:26,Goal,Tip-In,-79.0,0.0,Blake Lizotte,Scorer,Los Angeles Kings,Sean Walker,Assist,Los Angeles Kings,Gabriel Vilardi,Assist,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins
+2020-02-27T03:50:26Z,1,02:34,17:26,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:50:54Z,1,02:55,17:05,Hit,n/a,-97.0,-8.0,Jack Johnson,Hitter,Pittsburgh Penguins,Anze Kopitar,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:50:55Z,1,02:56,17:04,Takeaway,n/a,-65.0,29.0,Dustin Brown,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:51:37Z,1,03:36,16:24,Hit,n/a,-87.0,35.0,Jack Johnson,Hitter,Pittsburgh Penguins,Michael Amadio,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:52:24Z,1,03:38,16:22,Faceoff,n/a,-69.0,22.0,Evan Rodrigues,Winner,Pittsburgh Penguins,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:52:15Z,1,03:58,16:02,Takeaway,n/a,45.0,34.0,Dominik Simon,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:52:20Z,1,04:01,15:59,Missed Shot,n/a,77.0,-4.0,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:52:31Z,1,04:02,15:58,Penalty,Hooking,75.0,2.0,Michael Amadio,PenaltyOn,Los Angeles Kings,Dominik Simon,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:52:53Z,1,04:02,15:58,Faceoff,n/a,69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:53:14Z,1,04:21,15:39,Blocked Shot,n/a,66.0,-11.0,Joakim Ryan,Blocker,Los Angeles Kings,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:53:24Z,1,04:28,15:32,Missed Shot,n/a,35.0,6.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:53:32Z,1,04:30,15:30,Shot,Backhand,87.0,7.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:53:32Z,1,04:35,15:25,Missed Shot,n/a,77.0,1.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:54:53Z,1,05:59,14:01,Shot,Wrist Shot,23.0,39.0,Trevor Lewis,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:55:32Z,1,06:40,13:20,Hit,n/a,92.0,31.0,Dominik Simon,Hitter,Pittsburgh Penguins,Drew Doughty,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:55:54Z,1,07:02,12:58,Hit,n/a,35.0,-39.0,Joakim Ryan,Hitter,Los Angeles Kings,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:58:16Z,1,07:10,12:50,Faceoff,n/a,-20.0,22.0,Blake Lizotte,Winner,Los Angeles Kings,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:58:34Z,1,07:20,12:40,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:59:14Z,1,07:43,12:17,Shot,Slap Shot,-61.0,36.0,Matt Roy,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:59:20Z,1,07:48,12:12,Hit,n/a,-77.0,-39.0,Austin Wagner,Hitter,Los Angeles Kings,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:59:28Z,1,07:56,12:04,Takeaway,n/a,-68.0,14.0,Trevor Moore,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:59:29Z,1,07:57,12:03,Blocked Shot,n/a,-81.0,14.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Trevor Moore,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:59:35Z,1,08:04,11:56,Hit,n/a,-64.0,41.0,Evgeni Malkin,Hitter,Pittsburgh Penguins,Blake Lizotte,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T03:59:38Z,1,08:04,11:56,Shot,Wrist Shot,-42.0,-3.0,Dustin Brown,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:00:05Z,1,08:05,11:55,Faceoff,n/a,-69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:01:03Z,1,09:07,10:53,Hit,n/a,71.0,-40.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Michael Amadio,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:01:19Z,1,09:23,10:37,Missed Shot,n/a,58.0,-7.0,Patrick Marleau,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:01:33Z,1,09:36,10:24,Missed Shot,n/a,81.0,-7.0,Patrick Marleau,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:02:06Z,1,10:08,09:52,Shot,Tip-In,73.0,-4.0,Sam Lafferty,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:04:07Z,1,10:09,09:51,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:04:58Z,1,10:40,09:20,Hit,n/a,-19.0,40.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Anze Kopitar,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:05:38Z,1,11:25,08:35,Hit,n/a,-97.0,-13.0,Kris Letang,Hitter,Pittsburgh Penguins,Austin Wagner,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:06:23Z,1,11:33,08:27,Blocked Shot,n/a,-80.0,2.0,Sidney Crosby,Blocker,Pittsburgh Penguins,Drew Doughty,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:06:13Z,1,11:40,08:20,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Gabriel Vilardi,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:06:55Z,1,12:22,07:38,Hit,n/a,99.0,-15.0,Kurtis MacDermid,Hitter,Los Angeles Kings,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:07:43Z,1,13:09,06:51,Hit,n/a,65.0,40.0,Trevor Lewis,Hitter,Los Angeles Kings,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:08:11Z,1,13:12,06:48,Faceoff,n/a,69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:09:01Z,1,13:27,06:33,Faceoff,n/a,-69.0,-22.0,Austin Wagner,Winner,Los Angeles Kings,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:09:18Z,1,13:34,06:26,Blocked Shot,n/a,-43.0,-26.0,Patric Hornqvist,Blocker,Pittsburgh Penguins,Joakim Ryan,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:09:39Z,1,13:55,06:05,Giveaway,n/a,94.0,5.0,Calvin Petersen,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:09:42Z,1,13:58,06:02,Shot,Tip-In,79.0,7.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:09:55Z,1,14:10,05:50,Missed Shot,n/a,76.0,-2.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:09:55Z,1,14:28,05:32,Shot,Wrist Shot,65.0,35.0,Jason Zucker,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:10:48Z,1,14:42,05:18,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:11:05Z,1,14:49,05:11,Blocked Shot,n/a,77.0,7.0,Anze Kopitar,Blocker,Los Angeles Kings,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:11:35Z,1,14:59,05:01,Penalty,Holding,-97.0,-12.0,Jack Johnson,PenaltyOn,Pittsburgh Penguins,Alex Iafallo,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:13:45Z,1,14:59,05:01,Faceoff,n/a,-69.0,-22.0,Evan Rodrigues,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:14:35Z,1,15:55,04:05,Blocked Shot,n/a,-57.0,-11.0,Brandon Tanev,Blocker,Pittsburgh Penguins,Drew Doughty,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:14:44Z,1,15:59,04:01,Giveaway,n/a,-96.0,-1.0,Tristan Jarry,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:14:42Z,1,16:02,03:58,Hit,n/a,-72.0,40.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Alex Iafallo,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:14:51Z,1,16:10,03:50,Shot,Snap Shot,60.0,6.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:15:30Z,1,16:49,03:11,Shot,Slap Shot,-43.0,-13.0,Sean Walker,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:16:05Z,1,16:50,03:10,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Trevor Lewis,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:16:59Z,1,17:49,02:11,Shot,Backhand,77.0,9.0,Bryan Rust,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:17:11Z,1,17:54,02:06,Blocked Shot,n/a,80.0,3.0,Matt Roy,Blocker,Los Angeles Kings,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:17:25Z,1,18:10,01:50,Shot,Wrist Shot,10.0,-34.0,Kris Letang,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:17:36Z,1,18:24,01:36,Missed Shot,n/a,80.0,1.0,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:19:33Z,1,18:24,01:36,Faceoff,n/a,69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:20:23Z,1,18:50,01:10,Hit,n/a,-62.0,40.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:20:54Z,1,19:19,00:41,Blocked Shot,n/a,51.0,5.0,Adrian Kempe,Blocker,Los Angeles Kings,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:21:19Z,1,19:20,00:40,Faceoff,n/a,69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:21:51Z,1,19:48,00:12,Missed Shot,n/a,74.0,29.0,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:41:11Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:41:11Z,2,00:33,19:27,Giveaway,n/a,-56.0,-37.0,Dustin Brown,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:41:15Z,2,00:37,19:23,Missed Shot,n/a,-40.0,33.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:41:21Z,2,00:40,19:20,Shot,Wrist Shot,-54.0,-35.0,Kris Letang,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:42:04Z,2,00:41,19:19,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:42:05Z,2,00:43,19:17,Blocked Shot,n/a,-62.0,-12.0,Austin Wagner,Blocker,Los Angeles Kings,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:42:10Z,2,00:43,19:17,Faceoff,n/a,-69.0,-22.0,Blake Lizotte,Winner,Los Angeles Kings,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:42:23Z,2,00:59,19:01,Hit,n/a,-95.0,29.0,Bryan Rust,Hitter,Pittsburgh Penguins,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:42:52Z,2,01:27,18:33,Shot,Slap Shot,-44.0,28.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:43:29Z,2,01:31,18:29,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:43:34Z,2,01:47,18:13,Hit,n/a,-46.0,-42.0,Matt Roy,Hitter,Los Angeles Kings,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:44:01Z,2,02:13,17:47,Giveaway,n/a,-8.0,40.0,Juuso Riikola,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:44:37Z,2,02:50,17:10,Blocked Shot,n/a,41.0,13.0,Teddy Blueger,Blocker,Pittsburgh Penguins,Kurtis MacDermid,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:44:53Z,2,03:03,16:57,Shot,Tip-In,25.0,-37.0,Gabriel Vilardi,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:44:58Z,2,03:11,16:49,Hit,n/a,-36.0,-40.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Joakim Ryan,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:45:05Z,2,03:17,16:43,Shot,Wrist Shot,-81.0,-32.0,Dominik Simon,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:45:45Z,2,03:22,16:38,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:46:14Z,2,04:00,16:00,Giveaway,n/a,-34.0,-6.0,Drew Doughty,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:46:28Z,2,04:14,15:46,Blocked Shot,n/a,56.0,18.0,Sidney Crosby,Blocker,Pittsburgh Penguins,Alex Iafallo,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:46:45Z,2,04:27,15:33,Shot,Wrist Shot,54.0,22.0,Anze Kopitar,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:47:17Z,2,05:01,14:59,Shot,Wrist Shot,-70.0,35.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:47:30Z,2,05:12,14:48,Hit,n/a,97.0,1.0,Austin Wagner,Hitter,Los Angeles Kings,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:47:46Z,2,05:13,14:47,Penalty,Interference,-11.0,-31.0,Blake Lizotte,PenaltyOn,Los Angeles Kings,Bryan Rust,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:48:12Z,2,05:13,14:47,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:48:43Z,2,05:18,14:42,Missed Shot,n/a,-47.0,35.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:49:04Z,2,05:39,14:21,Hit,n/a,-74.0,-38.0,Anze Kopitar,Hitter,Los Angeles Kings,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:49:42Z,2,06:16,13:44,Shot,Wrist Shot,-81.0,30.0,Bryan Rust,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:50:16Z,2,06:17,13:43,Faceoff,n/a,-69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Patrick Marleau,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:50:57Z,2,06:57,13:03,Missed Shot,n/a,43.0,25.0,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:51:28Z,2,07:28,12:32,Shot,Backhand,85.0,-13.0,Adrian Kempe,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:51:43Z,2,07:42,12:18,Shot,Wrist Shot,-80.0,-12.0,Dominik Simon,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:54:03Z,2,07:43,12:17,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:54:21Z,2,07:45,12:15,Shot,Wrist Shot,-67.0,-17.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:54:29Z,2,07:59,12:01,Hit,n/a,-64.0,-40.0,Dustin Brown,Hitter,Los Angeles Kings,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:54:45Z,2,08:07,11:53,Hit,n/a,43.0,-37.0,Sidney Crosby,Hitter,Pittsburgh Penguins,Alex Iafallo,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:54:57Z,2,08:25,11:35,Shot,Snap Shot,-66.0,8.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:55:27Z,2,08:26,11:34,Faceoff,n/a,-69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:56:18Z,2,08:52,11:08,Faceoff,n/a,20.0,22.0,Gabriel Vilardi,Winner,Los Angeles Kings,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:56:55Z,2,09:23,10:37,Hit,n/a,-56.0,40.0,Matt Roy,Hitter,Los Angeles Kings,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:56:55Z,2,09:27,10:33,Hit,n/a,-98.0,15.0,Patrick Marleau,Hitter,Pittsburgh Penguins,Gabriel Vilardi,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:57:38Z,2,10:11,09:49,Shot,Wrist Shot,-74.0,6.0,Dominik Simon,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T04:59:38Z,2,10:12,09:48,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:00:04Z,2,10:25,09:35,Missed Shot,n/a,-52.0,-7.0,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:00:15Z,2,10:36,09:24,Hit,n/a,98.0,-10.0,Jack Johnson,Hitter,Pittsburgh Penguins,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:00:26Z,2,10:46,09:14,Shot,Wrist Shot,-80.0,-26.0,Jason Zucker,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:01:13Z,2,10:47,09:13,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:01:06Z,2,10:58,09:02,Blocked Shot,n/a,-57.0,7.0,Blake Lizotte,Blocker,Los Angeles Kings,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:01:19Z,2,11:11,08:49,Shot,Slap Shot,42.0,31.0,Ben Hutton,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:01:58Z,2,11:25,08:35,Faceoff,n/a,20.0,22.0,Gabriel Vilardi,Winner,Los Angeles Kings,Patrick Marleau,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:02:31Z,2,11:33,08:27,Faceoff,n/a,-69.0,-22.0,Gabriel Vilardi,Winner,Los Angeles Kings,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:02:58Z,2,11:55,08:05,Blocked Shot,n/a,79.0,-6.0,Patrick Marleau,Blocker,Pittsburgh Penguins,Gabriel Vilardi,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:03:08Z,2,12:04,07:56,Shot,Slap Shot,-55.0,21.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:03:26Z,2,12:08,07:52,Penalty,Tripping,75.0,-6.0,Gabriel Vilardi,PenaltyOn,Los Angeles Kings,Patrick Marleau,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:03:57Z,2,12:08,07:52,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:04:01Z,2,12:12,07:48,Missed Shot,n/a,-35.0,-3.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:04:30Z,2,12:44,07:16,Takeaway,n/a,-60.0,-40.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:04:37Z,2,12:48,07:12,Shot,Wrist Shot,-42.0,7.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:05:23Z,2,13:37,06:23,Missed Shot,n/a,-37.0,-2.0,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:05:30Z,2,13:40,06:20,Blocked Shot,n/a,-80.0,-10.0,Matt Roy,Blocker,Los Angeles Kings,Conor Sheary,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:05:44Z,2,13:54,06:06,Takeaway,n/a,-29.0,-34.0,Trevor Moore,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:06:06Z,2,14:20,05:40,Hit,n/a,97.0,-1.0,Trevor Lewis,Hitter,Los Angeles Kings,Juuso Riikola,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:06:59Z,2,15:12,04:48,Blocked Shot,n/a,-45.0,-18.0,Austin Wagner,Blocker,Los Angeles Kings,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:07:53Z,2,15:37,04:23,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:08:51Z,2,16:39,03:21,Hit,n/a,-96.0,23.0,Conor Sheary,Hitter,Pittsburgh Penguins,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:08:59Z,2,16:47,03:13,Missed Shot,n/a,-58.0,6.0,Conor Sheary,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:10:09Z,2,17:57,02:03,Giveaway,n/a,-97.0,3.0,Adrian Kempe,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:10:17Z,2,18:03,01:57,Blocked Shot,n/a,-83.0,-17.0,Adrian Kempe,Blocker,Los Angeles Kings,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:12:36Z,2,18:04,01:56,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:12:51Z,2,18:16,01:44,Missed Shot,n/a,71.0,-31.0,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:13:15Z,2,18:37,01:23,Hit,n/a,-44.0,-1.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:13:47Z,2,19:10,00:50,Shot,Slap Shot,-43.0,-23.0,Jack Johnson,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:14:27Z,2,19:11,00:49,Faceoff,n/a,-69.0,-22.0,Blake Lizotte,Winner,Los Angeles Kings,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:14:30Z,2,19:16,00:44,Hit,n/a,-98.0,-14.0,Ben Hutton,Hitter,Los Angeles Kings,Conor Sheary,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:14:35Z,2,19:27,00:33,Shot,Wrist Shot,81.0,5.0,Trevor Lewis,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:14:45Z,2,19:28,00:32,Goal,Wrist Shot,81.0,0.0,Trevor Lewis,Scorer,Los Angeles Kings,Blake Lizotte,Assist,Los Angeles Kings,Trevor Moore,Assist,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins
+2020-02-27T05:15:23Z,2,19:28,00:32,Faceoff,n/a,0.0,0.0,Gabriel Vilardi,Winner,Los Angeles Kings,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:15:49Z,2,19:55,00:05,Shot,Tip-In,-75.0,3.0,Patrick Marleau,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:15:49Z,2,19:56,00:04,Missed Shot,n/a,-77.0,1.0,Patrick Marleau,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:34:30Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:35:09Z,3,00:22,19:38,Faceoff,n/a,69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:35:26Z,3,00:32,19:28,Blocked Shot,n/a,-57.0,26.0,Justin Schultz,Blocker,Pittsburgh Penguins,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:36:03Z,3,01:07,18:53,Shot,Slap Shot,57.0,-5.0,Bryan Rust,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:36:37Z,3,01:43,18:17,Hit,n/a,70.0,41.0,Sean Walker,Hitter,Los Angeles Kings,Conor Sheary,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:36:46Z,3,01:52,18:08,Hit,n/a,95.0,25.0,Jason Zucker,Hitter,Pittsburgh Penguins,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:36:52Z,3,01:59,18:01,Blocked Shot,n/a,75.0,-1.0,Blake Lizotte,Blocker,Los Angeles Kings,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:37:06Z,3,02:12,17:48,Shot,Wrist Shot,-77.0,-16.0,Joakim Ryan,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:38:11Z,3,03:17,16:43,Shot,Slap Shot,64.0,19.0,Justin Schultz,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:38:38Z,3,03:44,16:16,Giveaway,n/a,90.0,6.0,Sean Walker,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:39:04Z,3,04:10,15:50,Missed Shot,n/a,40.0,-29.0,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:39:40Z,3,04:47,15:13,Shot,Slap Shot,41.0,35.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:39:45Z,3,04:52,15:08,Giveaway,n/a,69.0,40.0,Patric Hornqvist,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:39:52Z,3,04:58,15:02,Blocked Shot,n/a,-61.0,-6.0,Chad Ruhwedel,Blocker,Pittsburgh Penguins,Blake Lizotte,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:40:23Z,3,04:59,15:01,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Gabriel Vilardi,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:40:45Z,3,05:13,14:47,Hit,n/a,67.0,40.0,Sean Walker,Hitter,Los Angeles Kings,Jason Zucker,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:40:48Z,3,05:20,14:40,Shot,Snap Shot,33.0,10.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:41:04Z,3,05:36,14:24,Shot,Wrist Shot,49.0,-12.0,Conor Sheary,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:41:15Z,3,05:47,14:13,Blocked Shot,n/a,-63.0,0.0,Kris Letang,Blocker,Pittsburgh Penguins,Nikolai Prokhorkin,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:41:28Z,3,06:01,13:59,Hit,n/a,85.0,38.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Austin Wagner,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:41:35Z,3,06:07,13:53,Shot,Snap Shot,61.0,18.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:41:43Z,3,06:13,13:47,Shot,Snap Shot,-71.0,-21.0,Michael Amadio,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:44:07Z,3,06:14,13:46,Faceoff,n/a,-69.0,22.0,Blake Lizotte,Winner,Los Angeles Kings,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:44:31Z,3,06:18,13:42,Shot,Wrist Shot,-84.0,33.0,Trevor Lewis,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:44:36Z,3,06:20,13:40,Shot,Wrist Shot,-82.0,4.0,Trevor Moore,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:44:55Z,3,06:42,13:18,Goal,Backhand,77.0,2.0,Bryan Rust,Scorer,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Patric Hornqvist,Assist,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings
+2020-02-27T05:45:42Z,3,06:42,13:18,Faceoff,n/a,0.0,0.0,Evan Rodrigues,Winner,Pittsburgh Penguins,Gabriel Vilardi,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:46:15Z,3,07:06,12:54,Faceoff,n/a,69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:47:02Z,3,07:41,12:19,Missed Shot,n/a,-82.0,-27.0,Anze Kopitar,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:47:16Z,3,07:55,12:05,Blocked Shot,n/a,-69.0,14.0,Kris Letang,Blocker,Pittsburgh Penguins,Sean Walker,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:47:44Z,3,08:23,11:37,Hit,n/a,58.0,-38.0,Patrick Marleau,Hitter,Pittsburgh Penguins,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:47:53Z,3,08:28,11:32,Hit,n/a,-47.0,39.0,Chad Ruhwedel,Hitter,Pittsburgh Penguins,Martin Frk,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:47:58Z,3,08:36,11:24,Shot,Slap Shot,-51.0,-19.0,Joakim Ryan,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:48:23Z,3,08:37,11:23,Faceoff,n/a,-69.0,-22.0,Nikolai Prokhorkin,Winner,Los Angeles Kings,Evan Rodrigues,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:48:32Z,3,08:41,11:19,Missed Shot,n/a,-77.0,-31.0,Austin Wagner,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:49:06Z,3,09:14,10:46,Shot,Snap Shot,65.0,-26.0,Sam Lafferty,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:49:38Z,3,09:15,10:45,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:49:39Z,3,09:21,10:39,Shot,Slap Shot,30.0,0.0,Justin Schultz,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:50:27Z,3,10:09,09:51,Hit,n/a,-98.0,0.0,Kris Letang,Hitter,Pittsburgh Penguins,Anze Kopitar,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:51:25Z,3,11:07,08:53,Hit,n/a,10.0,25.0,Adrian Kempe,Hitter,Los Angeles Kings,Patrick Marleau,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:52:25Z,3,12:03,07:57,Hit,n/a,31.0,41.0,Evgeni Malkin,Hitter,Pittsburgh Penguins,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:52:55Z,3,12:37,07:23,Hit,n/a,-95.0,-21.0,Jack Johnson,Hitter,Pittsburgh Penguins,Trevor Moore,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:53:00Z,3,12:40,07:20,Shot,Snap Shot,-39.0,-16.0,Kurtis MacDermid,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:53:07Z,3,12:42,07:18,Shot,Wrist Shot,-77.0,0.0,Blake Lizotte,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:53:07Z,3,12:43,07:17,Shot,Wrist Shot,-78.0,-3.0,Trevor Moore,Shooter,Los Angeles Kings,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:55:25Z,3,12:46,07:14,Faceoff,n/a,-69.0,-22.0,Evan Rodrigues,Winner,Pittsburgh Penguins,Adrian Kempe,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:55:53Z,3,13:11,06:49,Hit,n/a,-68.0,-39.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Martin Frk,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:56:02Z,3,13:20,06:40,Shot,Snap Shot,64.0,27.0,Dominik Simon,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:56:48Z,3,14:06,05:54,Hit,n/a,-98.0,10.0,Dustin Brown,Hitter,Los Angeles Kings,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:57:00Z,3,14:17,05:43,Shot,Wrist Shot,52.0,3.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:57:03Z,3,14:21,05:39,Giveaway,n/a,54.0,40.0,Blake Lizotte,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:57:23Z,3,14:22,05:38,Shot,Wrist Shot,32.0,40.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:58:41Z,3,14:23,05:37,Faceoff,n/a,69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T05:59:51Z,3,14:54,05:06,Giveaway,n/a,56.0,41.0,Drew Doughty,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:00:19Z,3,15:22,04:38,Blocked Shot,n/a,-77.0,7.0,Kris Letang,Blocker,Pittsburgh Penguins,Blake Lizotte,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:00:33Z,3,15:37,04:23,Blocked Shot,n/a,70.0,-9.0,Blake Lizotte,Blocker,Los Angeles Kings,Chad Ruhwedel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:01:00Z,3,16:03,03:57,Hit,n/a,56.0,41.0,Trevor Lewis,Hitter,Los Angeles Kings,Juuso Riikola,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:01:49Z,3,16:23,03:37,Faceoff,n/a,20.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:02:37Z,3,17:05,02:55,Giveaway,n/a,92.0,-29.0,Joakim Ryan,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:02:49Z,3,17:17,02:43,Giveaway,n/a,28.0,38.0,Jack Johnson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:03:33Z,3,17:45,02:15,Faceoff,n/a,-69.0,22.0,Gabriel Vilardi,Winner,Los Angeles Kings,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:04:21Z,3,18:08,01:52,Giveaway,n/a,43.0,-5.0,Ben Hutton,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:04:24Z,3,18:11,01:49,Blocked Shot,n/a,76.0,3.0,Matt Roy,Blocker,Los Angeles Kings,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:05:10Z,3,18:30,01:30,Faceoff,n/a,20.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:05:39Z,3,18:54,01:06,Shot,Snap Shot,56.0,-12.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:05:48Z,3,19:03,00:57,Giveaway,n/a,51.0,41.0,Dustin Brown,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:06:29Z,3,19:44,00:16,Blocked Shot,n/a,45.0,0.0,Anze Kopitar,Blocker,Los Angeles Kings,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:06:39Z,3,19:47,00:13,Shot,Tip-In,83.0,-8.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Calvin Petersen,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:06:58Z,3,19:48,00:12,Giveaway,n/a,77.0,-5.0,Trevor Moore,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-27T06:06:58Z,3,19:50,00:10,Blocked Shot,n/a,76.0,-1.0,Drew Doughty,Blocker,Los Angeles Kings,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a

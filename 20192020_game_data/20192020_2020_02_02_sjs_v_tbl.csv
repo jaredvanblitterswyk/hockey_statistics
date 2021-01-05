@@ -1,0 +1,276 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-02T03:46:38Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Joe Thornton,Winner,San Jose Sharks,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:46:55Z,1,00:08,19:52,Blocked Shot,n/a,-35.0,-38.0,Kevin Labanc,Blocker,San Jose Sharks,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:47:05Z,1,00:08,19:52,Faceoff,n/a,-69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Patrick Marleau,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:47:27Z,1,00:15,19:45,Shot,Tip-In,-72.0,-5.0,Anthony Cirelli,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:48:09Z,1,00:42,19:18,Faceoff,n/a,-20.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:48:41Z,1,01:01,18:59,Missed Shot,n/a,-36.0,28.0,Ryan McDonagh,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:48:59Z,1,01:02,18:58,Shot,Backhand,-77.0,2.0,Brayden Point,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:48:59Z,1,01:04,18:56,Shot,Wrist Shot,-79.0,0.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:48:52Z,1,01:08,18:52,Shot,Wrist Shot,-50.0,12.0,Erik Cernak,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:49:10Z,1,01:10,18:50,Faceoff,n/a,-69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:49:26Z,1,01:19,18:41,Shot,Wrist Shot,-37.0,-3.0,Erik Cernak,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:49:40Z,1,01:33,18:27,Missed Shot,n/a,-48.0,18.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:49:43Z,1,01:37,18:23,Takeaway,n/a,-94.0,-28.0,Steven Stamkos,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:50:09Z,1,02:02,17:58,Shot,Wrist Shot,39.0,26.0,Melker Karlsson,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:50:16Z,1,02:09,17:51,Hit,n/a,50.0,-42.0,Joel Kellman,Hitter,San Jose Sharks,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:50:21Z,1,02:15,17:45,Missed Shot,n/a,68.0,-8.0,Stefan Noesen,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:50:57Z,1,02:34,17:26,Faceoff,n/a,20.0,-22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:51:36Z,1,03:10,16:50,Missed Shot,n/a,-59.0,-9.0,Mitchell Stephens,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:51:43Z,1,03:17,16:43,Missed Shot,n/a,-38.0,27.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:51:55Z,1,03:29,16:31,Missed Shot,n/a,-83.0,-18.0,Steven Stamkos,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:52:05Z,1,03:32,16:28,Penalty,Holding,-93.0,25.0,Dylan Gambrell,PenaltyOn,San Jose Sharks,Carter Verhaeghe,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:52:37Z,1,03:32,16:28,Faceoff,n/a,-69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:54:32Z,1,05:23,14:37,Shot,Tip-In,-72.0,3.0,Victor Hedman,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:54:58Z,1,05:23,14:37,Faceoff,n/a,-69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:55:27Z,1,05:46,14:14,Shot,Wrist Shot,-81.0,6.0,Brayden Point,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:55:41Z,1,06:01,13:59,Shot,Slap Shot,60.0,-19.0,Kevin Labanc,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:55:53Z,1,06:12,13:48,Shot,Wrist Shot,-58.0,-1.0,Jan Rutta,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:56:06Z,1,06:25,13:35,Takeaway,n/a,-73.0,32.0,Brenden Dillon,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:56:35Z,1,06:54,13:06,Hit,n/a,-51.0,-41.0,Mario Ferraro,Hitter,San Jose Sharks,Pat Maroon,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:56:59Z,1,06:56,13:04,Penalty,Roughing,-87.0,-5.0,Cedric Paquette,PenaltyOn,Tampa Bay Lightning,Melker Karlsson,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:58:37Z,1,06:56,13:04,Faceoff,n/a,69.0,22.0,Evander Kane,Winner,San Jose Sharks,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:59:13Z,1,07:05,12:55,Missed Shot,n/a,53.0,25.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:59:23Z,1,07:16,12:44,Takeaway,n/a,-56.0,-40.0,Joe Thornton,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:00:09Z,1,08:02,11:58,Missed Shot,n/a,59.0,-1.0,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:00:49Z,1,08:42,11:18,Missed Shot,n/a,63.0,-7.0,Patrick Marleau,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:01:03Z,1,08:51,11:09,Penalty,Hooking,-92.0,16.0,Erik Karlsson,PenaltyOn,San Jose Sharks,Ondrej Palat,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:01:36Z,1,08:51,11:09,Faceoff,n/a,-69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:02:48Z,1,09:46,10:14,Hit,n/a,99.0,-9.0,Alex Killorn,Hitter,Tampa Bay Lightning,Antti Suomela,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:03:18Z,1,10:18,09:42,Giveaway,n/a,-97.0,5.0,Aaron Dell,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:03:36Z,1,10:36,09:24,Shot,Wrist Shot,-68.0,-15.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:04:04Z,1,11:05,08:55,Hit,n/a,-84.0,38.0,Brenden Dillon,Hitter,San Jose Sharks,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:04:17Z,1,11:17,08:43,Blocked Shot,n/a,-49.0,22.0,Joel Kellman,Blocker,San Jose Sharks,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:06:25Z,1,11:26,08:34,Faceoff,n/a,0.0,0.0,Joe Thornton,Winner,San Jose Sharks,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:06:57Z,1,11:38,08:22,Giveaway,n/a,-36.0,11.0,Radim Simek,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:07:48Z,1,12:11,07:49,Faceoff,n/a,20.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:08:11Z,1,12:30,07:30,Missed Shot,n/a,-52.0,-18.0,Alex Killorn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:08:38Z,1,12:57,07:03,Blocked Shot,n/a,-45.0,2.0,Stefan Noesen,Blocker,San Jose Sharks,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:08:43Z,1,13:02,06:58,Blocked Shot,n/a,-47.0,1.0,Stefan Noesen,Blocker,San Jose Sharks,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:08:52Z,1,13:11,06:49,Missed Shot,n/a,-40.0,23.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:09:36Z,1,13:55,06:05,Hit,n/a,99.0,-4.0,Barclay Goodrow,Hitter,San Jose Sharks,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:09:56Z,1,14:15,05:45,Hit,n/a,5.0,3.0,Barclay Goodrow,Hitter,San Jose Sharks,Victor Hedman,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:10:04Z,1,14:17,05:43,Blocked Shot,n/a,-44.0,-7.0,Timo Meier,Blocker,San Jose Sharks,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:10:36Z,1,14:17,05:43,Faceoff,n/a,-69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:11:09Z,1,14:55,05:05,Hit,n/a,-95.0,27.0,Anthony Cirelli,Hitter,Tampa Bay Lightning,Radim Simek,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:11:17Z,1,14:59,05:01,Hit,n/a,-82.0,22.0,Ondrej Palat,Hitter,Tampa Bay Lightning,Radim Simek,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:11:23Z,1,15:08,04:52,Shot,Wrist Shot,-48.0,-7.0,Victor Hedman,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:11:42Z,1,15:28,04:32,Giveaway,n/a,-32.0,27.0,Victor Hedman,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:12:02Z,1,15:47,04:13,Shot,Slap Shot,-46.0,1.0,Yanni Gourde,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:12:09Z,1,15:55,04:05,Hit,n/a,-75.0,40.0,Yanni Gourde,Hitter,Tampa Bay Lightning,Brenden Dillon,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:12:09Z,1,15:56,04:04,Penalty,Hi-sticking,-88.0,17.0,Brenden Dillon,PenaltyOn,San Jose Sharks,Yanni Gourde,DrewBy,San Jose Sharks,Kevin Labanc,ServedBy,Tampa Bay Lightning,n/a,n/a,n/a
+2020-02-02T04:12:34Z,1,15:56,04:04,Penalty,Roughing,-87.0,14.0,Brenden Dillon,PenaltyOn,San Jose Sharks,Yanni Gourde,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:14:08Z,1,15:56,04:04,Penalty,Roughing,-71.0,41.0,Yanni Gourde,PenaltyOn,Tampa Bay Lightning,Brenden Dillon,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:15:42Z,1,15:56,04:04,Faceoff,n/a,-69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:16:58Z,1,16:30,03:30,Takeaway,n/a,-64.0,8.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:16:35Z,1,17:00,03:00,Missed Shot,n/a,-59.0,-22.0,Steven Stamkos,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:17:07Z,1,17:31,02:29,Missed Shot,n/a,55.0,2.0,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:17:54Z,1,18:18,01:42,Blocked Shot,n/a,-56.0,-12.0,Brent Burns,Blocker,San Jose Sharks,Mitchell Stephens,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:19:08Z,1,18:18,01:42,Faceoff,n/a,-69.0,-22.0,Joe Thornton,Winner,San Jose Sharks,Yanni Gourde,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:18:56Z,1,18:39,01:21,Missed Shot,n/a,-37.0,16.0,Mitchell Stephens,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:18:57Z,1,18:39,01:21,Hit,n/a,-79.0,40.0,Radim Simek,Hitter,San Jose Sharks,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:19:23Z,1,18:39,01:21,Faceoff,n/a,-69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:19:37Z,1,18:43,01:17,Faceoff,n/a,-69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Evander Kane,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:20:16Z,1,18:46,01:14,Shot,Wrist Shot,-52.0,8.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:20:23Z,1,18:47,01:13,Faceoff,n/a,-69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:20:39Z,1,18:50,01:10,Shot,Wrist Shot,-58.0,-1.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:20:46Z,1,19:03,00:57,Hit,n/a,99.0,-6.0,Barclay Goodrow,Hitter,San Jose Sharks,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:21:13Z,1,19:10,00:50,Faceoff,n/a,-20.0,-22.0,Dylan Gambrell,Winner,San Jose Sharks,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:22:37Z,1,19:16,00:44,Faceoff,n/a,-69.0,-22.0,Dylan Gambrell,Winner,San Jose Sharks,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:21:54Z,1,19:21,00:39,Giveaway,n/a,-96.0,-16.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:22:04Z,1,19:32,00:28,Blocked Shot,n/a,-40.0,15.0,Dylan Gambrell,Blocker,San Jose Sharks,Tyler Johnson,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:22:30Z,1,19:55,00:05,Hit,n/a,99.0,17.0,Antti Suomela,Hitter,San Jose Sharks,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:40:46Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:41:09Z,2,00:13,19:47,Hit,n/a,98.0,-9.0,Ondrej Palat,Hitter,Tampa Bay Lightning,Brenden Dillon,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:41:28Z,2,00:28,19:32,Shot,Wrist Shot,-44.0,-22.0,Anthony Cirelli,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:41:44Z,2,00:48,19:12,Missed Shot,n/a,-40.0,-12.0,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:41:51Z,2,00:53,19:07,Penalty,Tripping,-56.0,38.0,Ondrej Palat,PenaltyOn,Tampa Bay Lightning,Erik Karlsson,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:42:25Z,2,00:53,19:07,Faceoff,n/a,-69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:42:36Z,2,01:01,18:59,Blocked Shot,n/a,-40.0,-30.0,Erik Cernak,Blocker,Tampa Bay Lightning,Stefan Noesen,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:42:44Z,2,01:08,18:52,Missed Shot,n/a,-48.0,29.0,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:11Z,2,01:12,18:48,Faceoff,n/a,-69.0,-22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Evander Kane,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:52Z,2,01:45,18:15,Shot,Wrist Shot,-42.0,7.0,Brent Burns,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:44:15Z,2,02:13,17:47,Shot,Slap Shot,-55.0,-22.0,Brent Burns,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:44:26Z,2,02:24,17:36,Shot,Wrist Shot,-82.0,4.0,Evander Kane,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:45:18Z,2,03:16,16:44,Shot,Snap Shot,-56.0,27.0,Timo Meier,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:45:47Z,2,03:16,16:44,Faceoff,n/a,-69.0,22.0,Joel Kellman,Winner,San Jose Sharks,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:45:54Z,2,03:21,16:39,Shot,Slap Shot,-48.0,34.0,Brent Burns,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:46:41Z,2,03:22,16:38,Faceoff,n/a,-69.0,22.0,Joel Kellman,Winner,San Jose Sharks,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:46:26Z,2,03:26,16:34,Missed Shot,n/a,-50.0,0.0,Stefan Noesen,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:46:39Z,2,03:26,16:34,Faceoff,n/a,-69.0,22.0,Melker Karlsson,Winner,San Jose Sharks,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:46:57Z,2,03:32,16:28,Blocked Shot,n/a,-52.0,11.0,Steven Stamkos,Blocker,Tampa Bay Lightning,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:47:03Z,2,03:37,16:23,Hit,n/a,-85.0,37.0,Joel Kellman,Hitter,San Jose Sharks,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:47:12Z,2,03:47,16:13,Blocked Shot,n/a,47.0,1.0,Brenden Dillon,Blocker,San Jose Sharks,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:47:16Z,2,03:51,16:09,Hit,n/a,61.0,-40.0,Brenden Dillon,Hitter,San Jose Sharks,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:47:31Z,2,04:01,15:59,Missed Shot,n/a,45.0,34.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:47:31Z,2,04:04,15:56,Goal,Slap Shot,63.0,29.0,Steven Stamkos,Scorer,Tampa Bay Lightning,Kevin Shattenkirk,Assist,Tampa Bay Lightning,Mikhail Sergachev,Assist,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks
+2020-02-02T04:48:04Z,2,04:04,15:56,Faceoff,n/a,0.0,0.0,Antti Suomela,Winner,San Jose Sharks,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:48:25Z,2,04:23,15:37,Takeaway,n/a,69.0,-41.0,Marc-Edouard Vlasic,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:48:31Z,2,04:29,15:31,Hit,n/a,59.0,-41.0,Pat Maroon,Hitter,Tampa Bay Lightning,Erik Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:48:38Z,2,04:31,15:29,Shot,Wrist Shot,-59.0,-35.0,Marcus Sorensen,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:49:05Z,2,04:31,15:29,Faceoff,n/a,-69.0,-22.0,Joe Thornton,Winner,San Jose Sharks,Mitchell Stephens,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:49:22Z,2,04:38,15:22,Blocked Shot,n/a,-63.0,-26.0,Erik Cernak,Blocker,Tampa Bay Lightning,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:49:47Z,2,05:20,14:40,Giveaway,n/a,51.0,-6.0,Mario Ferraro,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:49:54Z,2,05:26,14:34,Takeaway,n/a,82.0,19.0,Mario Ferraro,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:50:01Z,2,05:33,14:27,Hit,n/a,-13.0,41.0,Mikhail Sergachev,Hitter,Tampa Bay Lightning,Barclay Goodrow,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:50:23Z,2,05:55,14:05,Shot,Slap Shot,-43.0,21.0,Brent Burns,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:03:57Z,2,05:56,14:04,Hit,n/a,-89.0,-32.0,Evander Kane,Hitter,San Jose Sharks,Ondrej Palat,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:03:57Z,2,05:59,14:01,Hit,n/a,-82.0,-35.0,Timo Meier,Hitter,San Jose Sharks,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:50:28Z,2,06:01,13:59,Hit,n/a,-92.0,-31.0,Evander Kane,Hitter,San Jose Sharks,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:50:49Z,2,06:14,13:46,Shot,Wrist Shot,-67.0,-6.0,Evander Kane,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:50:54Z,2,06:16,13:44,Shot,Wrist Shot,-82.0,10.0,Timo Meier,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:50:54Z,2,06:18,13:42,Shot,Wrist Shot,-84.0,7.0,Timo Meier,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:51:01Z,2,06:27,13:33,Blocked Shot,n/a,-58.0,8.0,Anthony Cirelli,Blocker,Tampa Bay Lightning,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:51:19Z,2,06:51,13:09,Missed Shot,n/a,-60.0,-7.0,Brenden Dillon,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:51:38Z,2,07:16,12:44,Giveaway,n/a,-36.0,-19.0,Tyler Johnson,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:51:47Z,2,07:20,12:40,Shot,Slap Shot,-50.0,11.0,Erik Karlsson,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:52:23Z,2,07:52,12:08,Shot,Wrist Shot,83.0,8.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:52:30Z,2,07:58,12:02,Shot,Wrist Shot,64.0,14.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:52:26Z,2,07:59,12:01,Takeaway,n/a,68.0,10.0,Victor Hedman,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:52:36Z,2,08:08,11:52,Blocked Shot,n/a,50.0,-13.0,Joe Thornton,Blocker,San Jose Sharks,Jan Rutta,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:52:44Z,2,08:16,11:44,Missed Shot,n/a,57.0,0.0,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:52:48Z,2,08:21,11:39,Takeaway,n/a,74.0,-16.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:53:10Z,2,08:29,11:31,Penalty,Hi-sticking,82.0,18.0,Marc-Edouard Vlasic,PenaltyOn,San Jose Sharks,Steven Stamkos,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:55:29Z,2,08:29,11:31,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:56:42Z,2,09:37,10:23,Shot,Wrist Shot,68.0,3.0,Brayden Point,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:57:17Z,2,10:12,09:48,Giveaway,n/a,74.0,15.0,Barclay Goodrow,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:01:34Z,2,10:38,09:22,Missed Shot,n/a,-77.0,19.0,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:57:44Z,2,10:39,09:21,Shot,Wrist Shot,62.0,0.0,Tyler Johnson,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:57:54Z,2,10:41,09:19,Hit,n/a,-99.0,15.0,Mikhail Sergachev,Hitter,Tampa Bay Lightning,Marc-Edouard Vlasic,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:58:09Z,2,11:04,08:56,Shot,Tip-In,-22.0,11.0,Stefan Noesen,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:58:19Z,2,11:14,08:46,Takeaway,n/a,-95.0,15.0,Carter Verhaeghe,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:58:37Z,2,11:32,08:28,Hit,n/a,69.0,-41.0,Brent Burns,Hitter,San Jose Sharks,Carter Verhaeghe,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:58:46Z,2,11:38,08:22,Blocked Shot,n/a,66.0,-10.0,Brent Burns,Blocker,San Jose Sharks,Erik Cernak,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:00:55Z,2,11:40,08:20,Faceoff,n/a,69.0,22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:01:13Z,2,11:54,08:06,Hit,n/a,-96.0,-23.0,Ryan McDonagh,Hitter,Tampa Bay Lightning,Kevin Labanc,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:01:15Z,2,11:56,08:04,Missed Shot,n/a,-39.0,23.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:01:59Z,2,12:40,07:20,Hit,n/a,-97.0,15.0,Timo Meier,Hitter,San Jose Sharks,Jan Rutta,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:02:06Z,2,12:47,07:13,Shot,Backhand,-73.0,-3.0,Timo Meier,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:02:17Z,2,12:53,07:07,Hit,n/a,-5.0,40.0,Barclay Goodrow,Hitter,San Jose Sharks,Pat Maroon,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:02:33Z,2,13:14,06:46,Missed Shot,n/a,38.0,17.0,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:02:39Z,2,13:20,06:40,Hit,n/a,99.0,-16.0,Barclay Goodrow,Hitter,San Jose Sharks,Anthony Cirelli,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:02:46Z,2,13:27,06:33,Hit,n/a,87.0,-36.0,Barclay Goodrow,Hitter,San Jose Sharks,Tyler Johnson,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:02:59Z,2,13:30,06:30,Penalty,Slashing,53.0,-23.0,Tyler Johnson,PenaltyOn,Tampa Bay Lightning,Evander Kane,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:03:25Z,2,13:30,06:30,Faceoff,n/a,-69.0,-22.0,Evander Kane,Winner,San Jose Sharks,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:03:57Z,2,13:48,06:12,Missed Shot,n/a,-48.0,-28.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:04:29Z,2,14:20,05:40,Shot,Wrist Shot,68.0,-4.0,Cedric Paquette,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:04:39Z,2,14:30,05:30,Giveaway,n/a,-46.0,-17.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:04:58Z,2,14:49,05:11,Missed Shot,n/a,-48.0,-2.0,Patrick Marleau,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:05:29Z,2,14:58,05:02,Shot,Backhand,-84.0,-7.0,Stefan Noesen,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:05:12Z,2,15:03,04:57,Blocked Shot,n/a,-67.0,-6.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Patrick Marleau,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:08:25Z,2,16:06,03:54,Faceoff,n/a,-20.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:08:59Z,2,16:23,03:37,Giveaway,n/a,87.0,-6.0,Aaron Dell,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:09:02Z,2,16:23,03:37,Blocked Shot,n/a,51.0,-16.0,Evander Kane,Blocker,San Jose Sharks,Jan Rutta,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:09:11Z,2,16:33,03:27,Blocked Shot,n/a,73.0,14.0,Barclay Goodrow,Blocker,San Jose Sharks,Steven Stamkos,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:09:22Z,2,16:45,03:15,Takeaway,n/a,-8.0,-29.0,Evander Kane,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:09:24Z,2,16:45,03:15,Shot,Snap Shot,-70.0,-4.0,Evander Kane,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:09:37Z,2,16:58,03:02,Shot,Snap Shot,-73.0,16.0,Timo Meier,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:09:53Z,2,17:14,02:46,Shot,Backhand,-83.0,7.0,Marcus Sorensen,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:09:58Z,2,17:20,02:40,Shot,Backhand,-80.0,3.0,Mario Ferraro,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:10:10Z,2,17:32,02:28,Blocked Shot,n/a,-72.0,-7.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Radim Simek,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:10:18Z,2,17:42,02:18,Takeaway,n/a,-84.0,32.0,Yanni Gourde,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:10:35Z,2,17:48,02:12,Shot,Slap Shot,42.0,22.0,Ryan McDonagh,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:10:35Z,2,17:52,02:08,Blocked Shot,n/a,78.0,-4.0,Brent Burns,Blocker,San Jose Sharks,Carter Verhaeghe,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:10:51Z,2,17:55,02:05,Blocked Shot,n/a,72.0,2.0,Joe Thornton,Blocker,San Jose Sharks,Erik Cernak,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:11:02Z,2,18:02,01:58,Faceoff,n/a,69.0,22.0,Joe Thornton,Winner,San Jose Sharks,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:11:38Z,2,18:22,01:38,Hit,n/a,76.0,40.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Radim Simek,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:11:49Z,2,18:33,01:27,Hit,n/a,98.0,13.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Radim Simek,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:12:42Z,2,19:24,00:36,Hit,n/a,68.0,41.0,Tyler Johnson,Hitter,Tampa Bay Lightning,Erik Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:13:03Z,2,19:47,00:13,Giveaway,n/a,79.0,-8.0,Nikita Kucherov,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:31:37Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Joe Thornton,Winner,San Jose Sharks,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:32:58Z,3,01:16,18:44,Hit,n/a,19.0,-41.0,Barclay Goodrow,Hitter,San Jose Sharks,Carter Verhaeghe,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:33:06Z,3,01:22,18:38,Giveaway,n/a,-77.0,39.0,Radim Simek,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:33:18Z,3,01:36,18:24,Takeaway,n/a,51.0,-24.0,Stefan Noesen,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:33:27Z,3,01:44,18:16,Blocked Shot,n/a,76.0,-2.0,Erik Cernak,Blocker,Tampa Bay Lightning,Stefan Noesen,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:33:52Z,3,02:10,17:50,Hit,n/a,57.0,-40.0,Antti Suomela,Hitter,San Jose Sharks,Steven Stamkos,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:35:12Z,3,03:30,16:30,Hit,n/a,51.0,40.0,Erik Cernak,Hitter,Tampa Bay Lightning,Kevin Labanc,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:36:00Z,3,04:15,15:45,Missed Shot,n/a,-43.0,-13.0,Anthony Cirelli,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:36:08Z,3,04:26,15:34,Hit,n/a,99.0,3.0,Evander Kane,Hitter,San Jose Sharks,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:36:23Z,3,04:41,15:19,Shot,Snap Shot,-56.0,15.0,Yanni Gourde,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:36:36Z,3,04:50,15:10,Shot,Wrist Shot,74.0,19.0,Barclay Goodrow,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:36:42Z,3,04:56,15:04,Blocked Shot,n/a,65.0,4.0,Mitchell Stephens,Blocker,Tampa Bay Lightning,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:36:44Z,3,05:02,14:58,Hit,n/a,50.0,-41.0,Carter Verhaeghe,Hitter,Tampa Bay Lightning,Timo Meier,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:37:15Z,3,05:06,14:54,Shot,Wrist Shot,78.0,1.0,Timo Meier,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:36:53Z,3,05:11,14:49,Missed Shot,n/a,43.0,-27.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:36:59Z,3,05:13,14:47,Shot,Backhand,77.0,-4.0,Melker Karlsson,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:37:24Z,3,05:14,14:46,Faceoff,n/a,69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Antti Suomela,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:37:49Z,3,05:18,14:42,Faceoff,n/a,69.0,22.0,Antti Suomela,Winner,San Jose Sharks,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:38:01Z,3,05:24,14:36,Missed Shot,n/a,33.0,32.0,Brenden Dillon,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:38:07Z,3,05:30,14:30,Missed Shot,n/a,59.0,-32.0,Stefan Noesen,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:38:15Z,3,05:38,14:22,Missed Shot,n/a,-59.0,-11.0,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:38:40Z,3,05:38,14:22,Faceoff,n/a,-69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:38:56Z,3,05:40,14:20,Shot,Wrist Shot,-54.0,0.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:39:16Z,3,06:03,13:57,Takeaway,n/a,78.0,-40.0,Evander Kane,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:41:25Z,3,06:10,13:50,Faceoff,n/a,69.0,22.0,Joe Thornton,Winner,San Jose Sharks,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:41:53Z,3,06:30,13:30,Blocked Shot,n/a,67.0,-11.0,Tyler Johnson,Blocker,Tampa Bay Lightning,Patrick Marleau,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:42:19Z,3,06:56,13:04,Blocked Shot,n/a,52.0,-9.0,Ondrej Palat,Blocker,Tampa Bay Lightning,Mario Ferraro,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:42:19Z,3,06:56,13:04,Giveaway,n/a,96.0,-22.0,Victor Hedman,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:42:42Z,3,07:19,12:41,Hit,n/a,-98.0,10.0,Alex Killorn,Hitter,Tampa Bay Lightning,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:42:46Z,3,07:23,12:37,Blocked Shot,n/a,-68.0,9.0,Radim Simek,Blocker,San Jose Sharks,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:42:55Z,3,07:32,12:28,Blocked Shot,n/a,-46.0,-2.0,Dylan Gambrell,Blocker,San Jose Sharks,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:43:36Z,3,07:48,12:12,Faceoff,n/a,20.0,-22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Antti Suomela,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:44:22Z,3,08:27,11:33,Blocked Shot,n/a,80.0,-3.0,Ryan McDonagh,Blocker,Tampa Bay Lightning,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:44:25Z,3,08:30,11:30,Takeaway,n/a,89.0,-17.0,Yanni Gourde,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:45:06Z,3,08:37,11:23,Faceoff,n/a,69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:45:21Z,3,08:41,11:19,Blocked Shot,n/a,60.0,33.0,Steven Stamkos,Blocker,Tampa Bay Lightning,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:45:32Z,3,08:57,11:03,Takeaway,n/a,-8.0,39.0,Steven Stamkos,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:46:15Z,3,09:39,10:21,Shot,Snap Shot,-50.0,30.0,Tyler Johnson,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:46:35Z,3,09:40,10:20,Faceoff,n/a,-69.0,22.0,Joe Thornton,Winner,San Jose Sharks,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:47:04Z,3,09:55,10:05,Shot,Backhand,79.0,-10.0,Patrick Marleau,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:47:22Z,3,09:55,10:05,Faceoff,n/a,69.0,-22.0,Antti Suomela,Winner,San Jose Sharks,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:48:02Z,3,10:23,09:37,Shot,Wrist Shot,65.0,-35.0,Melker Karlsson,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:48:06Z,3,10:28,09:32,Missed Shot,n/a,37.0,-31.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:48:13Z,3,10:35,09:25,Blocked Shot,n/a,54.0,-19.0,Tyler Johnson,Blocker,Tampa Bay Lightning,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:48:22Z,3,10:43,09:17,Blocked Shot,n/a,-65.0,12.0,Brenden Dillon,Blocker,San Jose Sharks,Anthony Cirelli,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:48:42Z,3,11:03,08:57,Takeaway,n/a,-88.0,-12.0,Brayden Point,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:48:49Z,3,11:07,08:53,Shot,Wrist Shot,-66.0,1.0,Brayden Point,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:48:52Z,3,11:13,08:47,Hit,n/a,-99.0,-15.0,Barclay Goodrow,Hitter,San Jose Sharks,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:48:55Z,3,11:14,08:46,Shot,Backhand,-80.0,-8.0,Brayden Point,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:49:03Z,3,11:18,08:42,Shot,Slap Shot,-34.0,-5.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:50:51Z,3,11:18,08:42,Faceoff,n/a,-69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:51:38Z,3,11:33,08:27,Hit,n/a,11.0,-41.0,Nikita Kucherov,Hitter,Tampa Bay Lightning,Barclay Goodrow,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:52:14Z,3,12:11,07:49,Shot,Snap Shot,63.0,20.0,Brent Burns,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:52:29Z,3,12:11,07:49,Faceoff,n/a,69.0,22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:52:51Z,3,12:25,07:35,Giveaway,n/a,72.0,4.0,Erik Cernak,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:53:04Z,3,12:33,07:27,Shot,Tip-In,-77.0,7.0,Yanni Gourde,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:53:29Z,3,12:33,07:27,Faceoff,n/a,-69.0,22.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Antti Suomela,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:53:41Z,3,12:40,07:20,Shot,Tip-In,-84.0,-5.0,Yanni Gourde,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:53:59Z,3,12:40,07:20,Faceoff,n/a,-69.0,-22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:54:09Z,3,12:49,07:11,Hit,n/a,-99.0,-13.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Radim Simek,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:54:34Z,3,13:14,06:46,Hit,n/a,-97.0,16.0,Alex Killorn,Hitter,Tampa Bay Lightning,Radim Simek,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:54:38Z,3,13:18,06:42,Missed Shot,n/a,-35.0,-34.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:55:02Z,3,13:21,06:39,Faceoff,n/a,-69.0,22.0,Joe Thornton,Winner,San Jose Sharks,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:55:41Z,3,13:50,06:10,Blocked Shot,n/a,-56.0,-17.0,Melker Karlsson,Blocker,San Jose Sharks,Ryan McDonagh,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:56:08Z,3,14:17,05:43,Giveaway,n/a,-38.0,-35.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:56:27Z,3,14:35,05:25,Hit,n/a,-62.0,41.0,Timo Meier,Hitter,San Jose Sharks,Jan Rutta,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:56:30Z,3,14:39,05:21,Blocked Shot,n/a,-53.0,12.0,Timo Meier,Blocker,San Jose Sharks,Jan Rutta,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:56:36Z,3,14:45,05:15,Shot,Wrist Shot,-67.0,-21.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:56:41Z,3,14:47,05:13,Shot,Wrist Shot,-36.0,-24.0,Victor Hedman,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:58:47Z,3,14:47,05:13,Faceoff,n/a,-69.0,-22.0,Brayden Point,Winner,Tampa Bay Lightning,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:59:48Z,3,15:16,04:44,Takeaway,n/a,20.0,33.0,Kevin Shattenkirk,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:00:23Z,3,15:51,04:09,Hit,n/a,-97.0,21.0,Yanni Gourde,Hitter,Tampa Bay Lightning,Brenden Dillon,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:00:30Z,3,15:59,04:01,Takeaway,n/a,-96.0,16.0,Yanni Gourde,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:00:37Z,3,16:05,03:55,Takeaway,n/a,-91.0,16.0,Yanni Gourde,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:00:41Z,3,16:10,03:50,Shot,Wrist Shot,-37.0,31.0,Erik Cernak,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:00:46Z,3,16:15,03:45,Blocked Shot,n/a,-51.0,18.0,Patrick Marleau,Blocker,San Jose Sharks,Erik Cernak,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:00:55Z,3,16:23,03:37,Blocked Shot,n/a,-45.0,-18.0,Joe Thornton,Blocker,San Jose Sharks,Ryan McDonagh,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:00:59Z,3,16:28,03:32,Hit,n/a,-60.0,40.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Brenden Dillon,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:01:10Z,3,16:38,03:22,Giveaway,n/a,-50.0,-36.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:01:42Z,3,17:10,02:50,Hit,n/a,94.0,-29.0,Melker Karlsson,Hitter,San Jose Sharks,Jan Rutta,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:01:56Z,3,17:19,02:41,Shot,Tip-In,18.0,-1.0,Stefan Noesen,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:02:32Z,3,17:57,02:03,Goal,Backhand,-71.0,14.0,Nikita Kucherov,Scorer,Tampa Bay Lightning,Steven Stamkos,Assist,Tampa Bay Lightning,Brayden Point,Assist,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks
+2020-02-02T06:03:07Z,3,17:57,02:03,Faceoff,n/a,0.0,0.0,Tyler Johnson,Winner,Tampa Bay Lightning,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:03:24Z,3,18:08,01:52,Shot,Wrist Shot,-73.0,-14.0,Erik Cernak,Shooter,Tampa Bay Lightning,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:03:38Z,3,18:22,01:38,Hit,n/a,87.0,35.0,Erik Cernak,Hitter,Tampa Bay Lightning,Patrick Marleau,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:03:47Z,3,18:30,01:30,Shot,Snap Shot,52.0,30.0,Stefan Noesen,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:05:11Z,3,18:30,01:30,Faceoff,n/a,20.0,22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:05:18Z,3,18:38,01:22,Blocked Shot,n/a,-45.0,-19.0,Erik Karlsson,Blocker,San Jose Sharks,Ryan McDonagh,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:05:36Z,3,18:56,01:04,Giveaway,n/a,77.0,-35.0,Ryan McDonagh,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:05:40Z,3,19:00,01:00,Shot,Tip-In,75.0,-5.0,Barclay Goodrow,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:06:02Z,3,19:00,01:00,Faceoff,n/a,69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:06:24Z,3,19:07,00:53,Shot,Wrist Shot,71.0,19.0,Kevin Labanc,Shooter,San Jose Sharks,Curtis McElhinney,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:06:27Z,3,19:13,00:47,Giveaway,n/a,37.0,40.0,Tyler Johnson,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:07:48Z,3,19:21,00:39,Faceoff,n/a,69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:08:14Z,3,19:39,00:21,Giveaway,n/a,31.0,-38.0,Kevin Labanc,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:08:20Z,3,19:43,00:17,Goal,Wrist Shot,-54.0,-28.0,Ondrej Palat,Scorer,Tampa Bay Lightning,Anthony Cirelli,Assist,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T06:08:51Z,3,19:43,00:17,Faceoff,n/a,0.0,0.0,Mitchell Stephens,Winner,Tampa Bay Lightning,Antti Suomela,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a

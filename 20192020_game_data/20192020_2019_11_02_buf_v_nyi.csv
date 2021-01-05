@@ -1,0 +1,193 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-02T23:09:24Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:10:04Z,1,00:23,19:37,Hit,n/a,-79.0,37.0,Michael Dal Colle,Hitter,New York Islanders,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:10:11Z,1,00:29,19:31,Shot,Snap Shot,42.0,17.0,Conor Sheary,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:10:18Z,1,00:37,19:23,Shot,Backhand,83.0,3.0,Vladimir Sobotka,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:10:27Z,1,00:45,19:15,Blocked Shot,n/a,72.0,-5.0,Michael Dal Colle,Blocker,New York Islanders,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:11:04Z,1,01:23,18:37,Missed Shot,n/a,44.0,20.0,Jake McCabe,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:11:30Z,1,01:49,18:11,Shot,Wrist Shot,-33.0,-34.0,Noah Dobson,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:11:58Z,1,02:09,17:51,Hit,n/a,91.0,-29.0,Marcus Johansson,Hitter,Buffalo Sabres,Johnny Boychuk,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:13:10Z,1,03:28,16:32,Missed Shot,n/a,37.0,-32.0,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:13:39Z,1,03:37,16:23,Faceoff,n/a,69.0,22.0,Casey Mittelstadt,Winner,Buffalo Sabres,Cole Bardreau,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:14:12Z,1,04:04,15:56,Hit,n/a,-96.0,5.0,Brandon Montour,Hitter,Buffalo Sabres,Cal Clutterbuck,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:14:46Z,1,04:38,15:22,Blocked Shot,n/a,60.0,-20.0,Josh Bailey,Blocker,New York Islanders,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:14:52Z,1,04:44,15:16,Giveaway,n/a,32.0,-38.0,Josh Bailey,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:15:05Z,1,04:54,15:06,Shot,Backhand,-81.0,2.0,Anders Lee,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:15:32Z,1,04:55,15:05,Faceoff,n/a,-69.0,22.0,Jeff Skinner,Winner,Buffalo Sabres,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:16:07Z,1,05:19,14:41,Goal,Wrist Shot,-99.0,-11.0,Derick Brassard,Scorer,New York Islanders,Anthony Beauvillier,Assist,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a
+2019-11-02T23:16:47Z,1,05:19,14:41,Faceoff,n/a,0.0,0.0,Cole Bardreau,Winner,New York Islanders,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:17:01Z,1,05:31,14:29,Hit,n/a,-97.0,-13.0,Cole Bardreau,Hitter,New York Islanders,Rasmus Dahlin,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:17:06Z,1,05:36,14:24,Hit,n/a,-91.0,28.0,Cole Bardreau,Hitter,New York Islanders,Rasmus Dahlin,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:17:30Z,1,06:01,13:59,Hit,n/a,27.0,-40.0,Cole Bardreau,Hitter,New York Islanders,Brandon Montour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:17:43Z,1,06:14,13:46,Missed Shot,n/a,64.0,24.0,Zemgus Girgensons,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:18:18Z,1,06:46,13:14,Shot,Wrist Shot,14.0,24.0,Jake McCabe,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:18:32Z,1,07:03,12:57,Hit,n/a,-31.0,-36.0,Adam Pelech,Hitter,New York Islanders,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:19:10Z,1,07:40,12:20,Missed Shot,n/a,-39.0,14.0,Ryan Pulock,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:19:20Z,1,07:51,12:09,Missed Shot,n/a,-35.0,-29.0,Noah Dobson,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:19:22Z,1,07:53,12:07,Hit,n/a,-48.0,37.0,Colin Miller,Hitter,Buffalo Sabres,Mathew Barzal,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:19:57Z,1,08:28,11:32,Missed Shot,n/a,74.0,32.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:20:08Z,1,08:32,11:28,Shot,Wrist Shot,-57.0,-38.0,Anthony Beauvillier,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:20:14Z,1,08:38,11:22,Penalty,Holding,-12.0,-41.0,Oliver Wahlstrom,PenaltyOn,New York Islanders,Jeff Skinner,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:22:27Z,1,08:38,11:22,Faceoff,n/a,69.0,-22.0,Casey Cizikas,Winner,New York Islanders,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:24:07Z,1,10:10,09:50,Takeaway,n/a,16.0,5.0,Anthony Beauvillier,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:24:09Z,1,10:12,09:48,Shot,Wrist Shot,-42.0,27.0,Cole Bardreau,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:24:30Z,1,10:33,09:27,Blocked Shot,n/a,55.0,-21.0,Adam Pelech,Blocker,New York Islanders,Conor Sheary,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:24:58Z,1,10:38,09:22,Blocked Shot,n/a,80.0,-9.0,Adam Pelech,Blocker,New York Islanders,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:25:26Z,1,11:29,08:31,Blocked Shot,n/a,-77.0,4.0,Henri Jokiharju,Blocker,Buffalo Sabres,Noah Dobson,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:25:30Z,1,11:33,08:27,Giveaway,n/a,-29.0,-37.0,Devon Toews,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:26:04Z,1,12:07,07:53,Missed Shot,n/a,39.0,34.0,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:26:15Z,1,12:18,07:42,Shot,Wrist Shot,77.0,-7.0,Sam Reinhart,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:26:51Z,1,12:25,07:35,Faceoff,n/a,69.0,22.0,Jeff Skinner,Winner,Buffalo Sabres,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:29:46Z,1,12:40,07:20,Faceoff,n/a,69.0,22.0,Casey Cizikas,Winner,New York Islanders,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:30:15Z,1,13:05,06:55,Missed Shot,n/a,50.0,22.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:30:32Z,1,13:21,06:39,Hit,n/a,-94.0,24.0,Colin Miller,Hitter,Buffalo Sabres,Casey Cizikas,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:31:35Z,1,14:25,05:35,Missed Shot,n/a,42.0,-24.0,Conor Sheary,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:31:51Z,1,14:40,05:20,Hit,n/a,96.0,-16.0,Johnny Boychuk,Hitter,New York Islanders,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:32:02Z,1,14:48,05:12,Takeaway,n/a,94.0,7.0,Noah Dobson,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:32:05Z,1,14:53,05:07,Shot,Backhand,-79.0,1.0,Brock Nelson,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:34:19Z,1,14:55,05:05,Shot,Backhand,-83.0,6.0,Brock Nelson,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:34:35Z,1,15:17,04:43,Faceoff,n/a,-20.0,22.0,Cole Bardreau,Winner,New York Islanders,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:34:47Z,1,15:24,04:36,Hit,n/a,-93.0,-27.0,Colin Miller,Hitter,Buffalo Sabres,Ross Johnston,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:35:08Z,1,15:44,04:16,Hit,n/a,96.0,20.0,Scott Mayfield,Hitter,New York Islanders,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:35:24Z,1,16:00,04:00,Shot,Wrist Shot,40.0,23.0,Jack Eichel,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:35:52Z,1,16:17,03:43,Faceoff,n/a,69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:36:44Z,1,16:47,03:13,Missed Shot,n/a,76.0,0.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:36:55Z,1,16:57,03:03,Shot,Wrist Shot,-56.0,-15.0,Cal Clutterbuck,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:37:15Z,1,16:57,03:03,Faceoff,n/a,-69.0,-22.0,Casey Cizikas,Winner,New York Islanders,Kyle Okposo,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:38:16Z,1,17:30,02:30,Shot,Wrist Shot,39.0,-7.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:38:35Z,1,17:31,02:29,Faceoff,n/a,69.0,-22.0,Casey Mittelstadt,Winner,Buffalo Sabres,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:39:11Z,1,17:47,02:13,Shot,Wrist Shot,-45.0,-35.0,Adam Pelech,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:39:34Z,1,17:48,02:12,Faceoff,n/a,-69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:39:52Z,1,17:56,02:04,Blocked Shot,n/a,73.0,-11.0,Scott Mayfield,Blocker,New York Islanders,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:40:17Z,1,17:57,02:03,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:40:38Z,1,18:10,01:50,Hit,n/a,58.0,-36.0,Michael Dal Colle,Hitter,New York Islanders,Brandon Montour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:40:46Z,1,18:18,01:42,Hit,n/a,58.0,37.0,Adam Pelech,Hitter,New York Islanders,Rasmus Dahlin,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:41:02Z,1,18:34,01:26,Shot,Slap Shot,-47.0,27.0,Cal Clutterbuck,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:41:35Z,1,19:06,00:54,Blocked Shot,n/a,-59.0,-20.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,Anders Lee,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:41:57Z,1,19:06,00:54,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:42:14Z,1,19:13,00:47,Missed Shot,n/a,-81.0,-4.0,Anthony Beauvillier,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-02T23:42:25Z,1,19:24,00:36,Hit,n/a,-18.0,-38.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Brock Nelson,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:01:24Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:02:01Z,2,00:26,19:34,Missed Shot,n/a,-35.0,31.0,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:02:36Z,2,01:01,18:59,Hit,n/a,48.0,-37.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Scott Mayfield,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:02:56Z,2,01:20,18:40,Missed Shot,n/a,-36.0,36.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:03:02Z,2,01:27,18:33,Blocked Shot,n/a,-42.0,-35.0,Jake McCabe,Blocker,Buffalo Sabres,Josh Bailey,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:03:28Z,2,01:28,18:32,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:03:47Z,2,01:32,18:28,Missed Shot,n/a,-34.0,15.0,Brandon Montour,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:03:55Z,2,01:33,18:27,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:04:22Z,2,01:52,18:08,Shot,Wrist Shot,64.0,-29.0,Anthony Beauvillier,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:04:39Z,2,02:08,17:52,Blocked Shot,n/a,80.0,-1.0,Jack Eichel,Blocker,Buffalo Sabres,Derick Brassard,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:04:51Z,2,02:19,17:41,Shot,Wrist Shot,-64.0,1.0,Jack Eichel,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:05:17Z,2,02:25,17:35,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:05:56Z,2,02:32,17:28,Faceoff,n/a,-69.0,-22.0,Marcus Johansson,Winner,Buffalo Sabres,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:06:22Z,2,02:46,17:14,Hit,n/a,47.0,-38.0,Oliver Wahlstrom,Hitter,New York Islanders,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:06:55Z,2,02:48,17:12,Faceoff,n/a,-20.0,-22.0,Casey Cizikas,Winner,New York Islanders,Casey Mittelstadt,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:07:23Z,2,03:15,16:45,Hit,n/a,16.0,-39.0,Cal Clutterbuck,Hitter,New York Islanders,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:07:47Z,2,03:39,16:21,Missed Shot,n/a,-37.0,-29.0,Jake McCabe,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:08:42Z,2,04:32,15:28,Blocked Shot,n/a,69.0,5.0,Colin Miller,Blocker,Buffalo Sabres,Mathew Barzal,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:09:12Z,2,04:32,15:28,Faceoff,n/a,69.0,22.0,Brock Nelson,Winner,New York Islanders,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:09:27Z,2,04:42,15:18,Blocked Shot,n/a,71.0,7.0,Brandon Montour,Blocker,Buffalo Sabres,Adam Pelech,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:09:38Z,2,04:53,15:07,Giveaway,n/a,96.0,0.0,Semyon Varlamov,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:10:03Z,2,05:13,14:47,Missed Shot,n/a,-77.0,2.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:10:30Z,2,05:14,14:46,Faceoff,n/a,-69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:10:45Z,2,05:22,14:38,Missed Shot,n/a,-80.0,3.0,Johan Larsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:11:21Z,2,05:45,14:15,Penalty,Slashing,-15.0,-40.0,Jake McCabe,PenaltyOn,Buffalo Sabres,Mathew Barzal,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:11:50Z,2,05:45,14:15,Faceoff,n/a,69.0,22.0,Vladimir Sobotka,Winner,Buffalo Sabres,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:12:48Z,2,06:39,13:21,Shot,Snap Shot,57.0,-25.0,Derick Brassard,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:13:58Z,2,07:49,12:11,Shot,Slap Shot,63.0,27.0,Mathew Barzal,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:14:06Z,2,07:57,12:03,Blocked Shot,n/a,79.0,0.0,Brandon Montour,Blocker,Buffalo Sabres,Josh Bailey,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:14:45Z,2,08:35,11:25,Blocked Shot,n/a,-58.0,14.0,Michael Dal Colle,Blocker,New York Islanders,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:15:00Z,2,08:48,11:12,Missed Shot,n/a,62.0,-30.0,Casey Cizikas,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:17:19Z,2,08:49,11:11,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:17:42Z,2,09:16,10:44,Shot,Snap Shot,-72.0,-6.0,Jimmy Vesey,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:18:16Z,2,09:49,10:11,Takeaway,n/a,-26.0,-2.0,Cole Bardreau,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:18:20Z,2,09:53,10:07,Shot,Backhand,80.0,0.0,Noah Dobson,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:18:57Z,2,10:31,09:29,Missed Shot,n/a,37.0,35.0,Noah Dobson,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:19:35Z,2,11:08,08:52,Hit,n/a,-60.0,-37.0,Ryan Pulock,Hitter,New York Islanders,Casey Mittelstadt,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:19:49Z,2,11:23,08:37,Blocked Shot,n/a,-80.0,3.0,Josh Bailey,Blocker,New York Islanders,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:20:41Z,2,12:15,07:45,Hit,n/a,30.0,-37.0,Cal Clutterbuck,Hitter,New York Islanders,Rasmus Dahlin,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:20:57Z,2,12:31,07:29,Shot,Wrist Shot,-56.0,-20.0,Johan Larsson,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:21:02Z,2,12:35,07:25,Shot,Wrist Shot,-81.0,0.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:21:07Z,2,12:41,07:19,Shot,Slap Shot,-44.0,-37.0,Brandon Montour,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:21:48Z,2,13:21,06:39,Blocked Shot,n/a,-81.0,-2.0,Johnny Boychuk,Blocker,New York Islanders,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:22:09Z,2,13:27,06:33,Blocked Shot,n/a,-79.0,-3.0,Johnny Boychuk,Blocker,New York Islanders,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:22:08Z,2,13:35,06:25,Missed Shot,n/a,-69.0,-28.0,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:22:17Z,2,13:51,06:09,Takeaway,n/a,-37.0,-2.0,Jeff Skinner,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:22:22Z,2,13:55,06:05,Takeaway,n/a,-44.0,7.0,Derick Brassard,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:22:42Z,2,14:07,05:53,Penalty,Holding,-79.0,-6.0,Ryan Pulock,PenaltyOn,New York Islanders,Jimmy Vesey,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:24:55Z,2,14:07,05:53,Faceoff,n/a,-69.0,22.0,Casey Cizikas,Winner,New York Islanders,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:25:38Z,2,14:58,05:02,Shot,Snap Shot,-32.0,34.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:26:31Z,2,15:51,04:09,Blocked Shot,n/a,-66.0,3.0,Josh Bailey,Blocker,New York Islanders,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:26:50Z,2,16:10,03:50,Shot,Snap Shot,-69.0,-22.0,Jack Eichel,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:26:58Z,2,16:18,03:42,Shot,Snap Shot,-62.0,-25.0,Marcus Johansson,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:27:26Z,2,16:46,03:14,Shot,Deflected,-81.0,-5.0,Casey Mittelstadt,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:27:36Z,2,16:56,03:04,Shot,Wrist Shot,-48.0,-12.0,Conor Sheary,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:27:49Z,2,17:04,02:56,Blocked Shot,n/a,61.0,-24.0,Conor Sheary,Blocker,Buffalo Sabres,Mathew Barzal,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:30:04Z,2,17:05,02:55,Faceoff,n/a,69.0,-22.0,Mathew Barzal,Winner,New York Islanders,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:30:17Z,2,17:19,02:41,Shot,Snap Shot,37.0,35.0,Devon Toews,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:30:26Z,2,17:24,02:36,Blocked Shot,n/a,-67.0,-17.0,Noah Dobson,Blocker,New York Islanders,Jake McCabe,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:30:50Z,2,17:25,02:35,Faceoff,n/a,-69.0,-22.0,Casey Cizikas,Winner,New York Islanders,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:31:12Z,2,17:35,02:25,Faceoff,n/a,69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:31:49Z,2,17:54,02:06,Shot,Wrist Shot,78.0,3.0,Cal Clutterbuck,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:31:56Z,2,18:02,01:58,Shot,Slap Shot,41.0,-34.0,Ryan Pulock,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:32:46Z,2,18:43,01:17,Blocked Shot,n/a,46.0,-29.0,Victor Olofsson,Blocker,Buffalo Sabres,Scott Mayfield,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:33:02Z,2,18:44,01:16,Faceoff,n/a,69.0,-22.0,Brock Nelson,Winner,New York Islanders,Vladimir Sobotka,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:52:59Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:53:18Z,3,00:09,19:51,Hit,n/a,-94.0,-12.0,Casey Cizikas,Hitter,New York Islanders,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:53:36Z,3,00:22,19:38,Hit,n/a,50.0,-36.0,Cal Clutterbuck,Hitter,New York Islanders,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:53:51Z,3,00:43,19:17,Takeaway,n/a,-29.0,-3.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:54:06Z,3,00:57,19:03,Shot,Snap Shot,68.0,17.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:54:13Z,3,01:04,18:56,Giveaway,n/a,47.0,37.0,Adam Pelech,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:54:24Z,3,01:04,18:56,Giveaway,n/a,-70.0,-41.0,Ryan Pulock,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:54:40Z,3,01:23,18:37,Penalty,Too many men on the ice,9.0,-38.0,Ross Johnston,PenaltyOn,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:55:15Z,3,01:23,18:37,Faceoff,n/a,69.0,22.0,Casey Cizikas,Winner,New York Islanders,Jeff Skinner,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:56:52Z,3,02:57,17:03,Missed Shot,n/a,65.0,22.0,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:57:00Z,3,03:04,16:56,Shot,Slap Shot,37.0,33.0,Colin Miller,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:57:23Z,3,03:20,16:40,Shot,Slap Shot,33.0,2.0,Colin Miller,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:57:48Z,3,03:21,16:39,Faceoff,n/a,69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:57:57Z,3,03:27,16:33,Shot,Wrist Shot,61.0,0.0,Brandon Montour,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:58:06Z,3,03:28,16:32,Shot,Wrist Shot,34.0,13.0,Jake McCabe,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:58:31Z,3,03:29,16:31,Faceoff,n/a,69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:58:49Z,3,03:45,16:15,Hit,n/a,47.0,-40.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Ryan Pulock,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:59:03Z,3,03:59,16:01,Giveaway,n/a,89.0,32.0,Adam Pelech,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:59:20Z,3,04:15,15:45,Shot,Wrist Shot,8.0,39.0,Jake McCabe,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:59:38Z,3,04:34,15:26,Giveaway,n/a,3.0,-34.0,Colin Miller,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T00:59:51Z,3,04:47,15:13,Hit,n/a,-33.0,36.0,Johnny Boychuk,Hitter,New York Islanders,Vladimir Sobotka,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:00:19Z,3,04:51,15:09,Faceoff,n/a,-69.0,22.0,Casey Mittelstadt,Winner,Buffalo Sabres,Oliver Wahlstrom,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:01:28Z,3,05:47,14:13,Shot,Wrist Shot,-83.0,8.0,Ryan Pulock,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:01:44Z,3,06:03,13:57,Takeaway,n/a,-20.0,39.0,Josh Bailey,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:02:22Z,3,06:41,13:19,Takeaway,n/a,-28.0,39.0,Jake McCabe,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:02:29Z,3,06:48,13:12,Shot,Slap Shot,53.0,-39.0,Jack Eichel,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:02:48Z,3,07:07,12:53,Hit,n/a,49.0,-39.0,Casey Cizikas,Hitter,New York Islanders,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:03:15Z,3,07:34,12:26,Shot,Snap Shot,32.0,-25.0,Colin Miller,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:03:27Z,3,07:44,12:16,Shot,Snap Shot,-59.0,17.0,Anthony Beauvillier,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:05:33Z,3,07:45,12:15,Faceoff,n/a,-69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:06:17Z,3,08:08,11:52,Blocked Shot,n/a,58.0,-7.0,Anders Lee,Blocker,New York Islanders,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:06:38Z,3,08:29,11:31,Hit,n/a,51.0,38.0,Devon Toews,Hitter,New York Islanders,Kyle Okposo,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:07:14Z,3,09:05,10:55,Blocked Shot,n/a,53.0,13.0,Casey Cizikas,Blocker,New York Islanders,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:07:31Z,3,09:22,10:38,Giveaway,n/a,-40.0,20.0,Conor Sheary,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:08:34Z,3,09:54,10:06,Faceoff,n/a,-69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Oliver Wahlstrom,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:09:18Z,3,10:24,09:36,Giveaway,n/a,-94.0,-15.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:09:31Z,3,10:35,09:25,Hit,n/a,-5.0,-38.0,Johan Larsson,Hitter,Buffalo Sabres,Adam Pelech,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:10:02Z,3,11:08,08:52,Missed Shot,n/a,-52.0,-29.0,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:10:36Z,3,11:21,08:39,Faceoff,n/a,-69.0,-22.0,Casey Cizikas,Winner,New York Islanders,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:10:50Z,3,11:32,08:28,Missed Shot,n/a,-53.0,-28.0,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:11:01Z,3,11:43,08:17,Missed Shot,n/a,-79.0,24.0,Cal Clutterbuck,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:11:08Z,3,11:50,08:10,Shot,Wrist Shot,-66.0,24.0,Cal Clutterbuck,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:11:57Z,3,12:39,07:21,Hit,n/a,-22.0,38.0,Marcus Johansson,Hitter,Buffalo Sabres,Derick Brassard,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:13:03Z,3,13:45,06:15,Hit,n/a,-92.0,29.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Casey Cizikas,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:13:45Z,3,13:58,06:02,Faceoff,n/a,-69.0,22.0,Brock Nelson,Winner,New York Islanders,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:13:55Z,3,14:08,05:52,Missed Shot,n/a,-69.0,-14.0,Anthony Beauvillier,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:14:23Z,3,14:36,05:24,Hit,n/a,93.0,-20.0,Sam Reinhart,Hitter,Buffalo Sabres,Adam Pelech,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:15:13Z,3,15:26,04:34,Takeaway,n/a,86.0,-15.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:15:38Z,3,15:51,04:09,Blocked Shot,n/a,81.0,-1.0,Devon Toews,Blocker,New York Islanders,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:15:59Z,3,16:12,03:48,Missed Shot,n/a,74.0,37.0,Conor Sheary,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:16:04Z,3,16:14,03:46,Hit,n/a,42.0,38.0,Cal Clutterbuck,Hitter,New York Islanders,Conor Sheary,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:18:29Z,3,16:16,03:44,Faceoff,n/a,20.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:18:47Z,3,16:32,03:28,Giveaway,n/a,93.0,-16.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:19:33Z,3,17:18,02:42,Shot,Wrist Shot,17.0,33.0,Marcus Johansson,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:19:50Z,3,17:35,02:25,Shot,Wrist Shot,-82.0,-4.0,Casey Cizikas,Shooter,New York Islanders,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:21:10Z,3,18:30,01:30,Faceoff,n/a,-69.0,22.0,Casey Cizikas,Winner,New York Islanders,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:21:44Z,3,18:54,01:06,Giveaway,n/a,-76.0,37.0,Henri Jokiharju,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:22:23Z,3,19:32,00:28,Shot,Wrist Shot,18.0,-22.0,Jack Eichel,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-03T02:22:36Z,3,19:46,00:14,Shot,Snap Shot,36.0,-16.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a

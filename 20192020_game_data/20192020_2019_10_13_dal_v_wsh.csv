@@ -1,0 +1,266 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-13T00:08:02Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Rhett Gardner,Winner,Dallas Stars,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:09:15Z,1,00:13,19:47,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:11:13Z,1,00:52,19:08,Faceoff,n/a,69.0,22.0,Radek Faksa,Winner,Dallas Stars,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:11:13Z,1,00:52,19:08,Penalty,Hi-sticking,66.0,5.0,Joel Hanley,PenaltyOn,Dallas Stars,Jonas Siegenthaler,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:11:13Z,1,00:52,19:08,Penalty,Hi-sticking,71.0,7.0,Joel Hanley,PenaltyOn,Dallas Stars,Jonas Siegenthaler,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:11:57Z,1,01:19,18:41,Blocked Shot,n/a,56.0,12.0,Radek Faksa,Blocker,Dallas Stars,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:12:18Z,1,01:19,18:41,Faceoff,n/a,69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:13:30Z,1,02:22,17:38,Shot,Wrist Shot,-60.0,30.0,Mattias Janmark,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:14:13Z,1,03:06,16:54,Shot,Backhand,78.0,7.0,Tom Wilson,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:14:24Z,1,03:13,16:47,Shot,Wrist Shot,69.0,-29.0,Jakub Vrana,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:14:37Z,1,03:17,16:43,Goal,Wrist Shot,75.0,-4.0,Tom Wilson,Scorer,Washington Capitals,Jakub Vrana,Assist,Washington Capitals,Brendan Leipsic,Assist,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars
+2019-10-13T00:16:16Z,1,03:17,16:43,Penalty,Missing key [PD_151],12.0,41.0,Nick Caamano,PenaltyOn,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:18:11Z,1,03:17,16:43,Faceoff,n/a,0.0,0.0,Evgeny Kuznetsov,Winner,Washington Capitals,Andrew Cogliano,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:19:12Z,1,03:53,16:07,Giveaway,n/a,-82.0,-12.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:18:39Z,1,03:55,16:05,Shot,Wrist Shot,-51.0,-5.0,Rhett Gardner,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:24:40Z,1,03:55,16:05,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Rhett Gardner,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:19:26Z,1,04:14,15:46,Missed Shot,n/a,68.0,35.0,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:19:35Z,1,04:27,15:33,Shot,Wrist Shot,74.0,-21.0,Lars Eller,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:19:42Z,1,04:33,15:27,Blocked Shot,n/a,48.0,-17.0,Jason Dickinson,Blocker,Dallas Stars,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:19:51Z,1,04:40,15:20,Blocked Shot,n/a,45.0,-32.0,Esa Lindell,Blocker,Dallas Stars,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:20:04Z,1,04:55,15:05,Missed Shot,n/a,62.0,-28.0,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:20:12Z,1,05:04,14:56,Missed Shot,n/a,70.0,-32.0,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:20:19Z,1,05:10,14:50,Shot,Wrist Shot,75.0,-27.0,Jakub Vrana,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:20:19Z,1,05:13,14:47,Shot,Slap Shot,64.0,16.0,Brendan Leipsic,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:20:29Z,1,05:17,14:43,Blocked Shot,n/a,78.0,9.0,Miro Heiskanen,Blocker,Dallas Stars,Brendan Leipsic,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:21:16Z,1,05:26,14:34,Faceoff,n/a,69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Rhett Gardner,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:21:24Z,1,05:32,14:28,Shot,Wrist Shot,49.0,33.0,Jonas Siegenthaler,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:21:56Z,1,06:01,13:59,Hit,n/a,96.0,-10.0,Garnet Hathaway,Hitter,Washington Capitals,Jamie Oleksiak,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:22:03Z,1,06:09,13:51,Hit,n/a,96.0,-33.0,Tyler Seguin,Hitter,Dallas Stars,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:22:13Z,1,06:17,13:43,Takeaway,n/a,-43.0,-38.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:22:17Z,1,06:25,13:35,Blocked Shot,n/a,55.0,32.0,John Klingberg,Blocker,Dallas Stars,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:22:44Z,1,06:50,13:10,Shot,Wrist Shot,39.0,9.0,Nicklas Backstrom,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:25:33Z,1,06:51,13:09,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:25:28Z,1,06:55,13:05,Missed Shot,n/a,30.0,24.0,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:25:59Z,1,07:26,12:34,Missed Shot,n/a,-46.0,31.0,Mattias Janmark,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:26:04Z,1,07:30,12:30,Shot,Tip-In,-79.0,-3.0,Roope Hintz,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:26:12Z,1,07:36,12:24,Shot,Slap Shot,-61.0,22.0,Mattias Janmark,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:26:18Z,1,07:45,12:15,Hit,n/a,-97.0,15.0,Dmitry Orlov,Hitter,Washington Capitals,Joe Pavelski,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:26:30Z,1,07:54,12:06,Blocked Shot,n/a,-71.0,-16.0,Jakub Vrana,Blocker,Washington Capitals,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:27:00Z,1,07:55,12:05,Faceoff,n/a,-69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:27:13Z,1,08:03,11:57,Penalty,Tripping,-95.0,16.0,Lars Eller,PenaltyOn,Washington Capitals,Radek Faksa,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:27:54Z,1,08:03,11:57,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:28:33Z,1,08:34,11:26,Blocked Shot,n/a,-43.0,6.0,Radko Gudas,Blocker,Washington Capitals,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:29:13Z,1,09:14,10:46,Giveaway,n/a,-74.0,32.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:29:20Z,1,09:21,10:39,Shot,Snap Shot,-73.0,-30.0,Alexander Radulov,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:29:52Z,1,09:23,10:37,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:30:26Z,1,09:37,10:23,Blocked Shot,n/a,-69.0,6.0,Nic Dowd,Blocker,Washington Capitals,Joe Pavelski,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:30:50Z,1,10:01,09:59,Missed Shot,n/a,-68.0,-27.0,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:30:55Z,1,10:03,09:57,Blocked Shot,n/a,-63.0,18.0,Jonas Siegenthaler,Blocker,Washington Capitals,Joe Pavelski,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:31:15Z,1,10:26,09:34,Hit,n/a,-55.0,-30.0,Radko Gudas,Hitter,Washington Capitals,Andrew Cogliano,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:31:22Z,1,10:31,09:29,Blocked Shot,n/a,-63.0,12.0,Alex Ovechkin,Blocker,Washington Capitals,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:34:16Z,1,10:32,09:28,Faceoff,n/a,-69.0,22.0,Radek Faksa,Winner,Dallas Stars,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:33:42Z,1,10:37,09:23,Blocked Shot,n/a,-48.0,30.0,Alex Ovechkin,Blocker,Washington Capitals,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:34:02Z,1,10:57,09:03,Hit,n/a,45.0,-38.0,Radek Faksa,Hitter,Dallas Stars,Alex Ovechkin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:34:11Z,1,11:06,08:54,Giveaway,n/a,47.0,38.0,Nicklas Backstrom,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:34:16Z,1,11:10,08:50,Takeaway,n/a,-51.0,39.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:34:24Z,1,11:15,08:45,Hit,n/a,-59.0,-38.0,Jason Dickinson,Hitter,Dallas Stars,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:34:44Z,1,11:38,08:22,Hit,n/a,-98.0,5.0,Rhett Gardner,Hitter,Dallas Stars,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:35:11Z,1,11:42,08:18,Faceoff,n/a,-69.0,-22.0,Roope Hintz,Winner,Dallas Stars,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:35:24Z,1,11:46,08:14,Shot,Backhand,-72.0,-11.0,Mattias Janmark,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:35:38Z,1,12:01,07:59,Giveaway,n/a,-23.0,-7.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:35:47Z,1,12:11,07:49,Shot,Backhand,79.0,-13.0,Lars Eller,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:36:48Z,1,12:12,07:48,Missed Shot,n/a,37.0,-22.0,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:36:21Z,1,12:13,07:47,Faceoff,n/a,69.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:37:41Z,1,13:09,06:51,Blocked Shot,n/a,58.0,-20.0,Andrej Sekera,Blocker,Dallas Stars,Tyler Lewington,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:38:07Z,1,13:19,06:41,Faceoff,n/a,69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:38:30Z,1,13:27,06:33,Blocked Shot,n/a,66.0,11.0,Dmitry Orlov,Blocker,Washington Capitals,Andrej Sekera,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:38:36Z,1,13:32,06:28,Hit,n/a,97.0,-8.0,Andrej Sekera,Hitter,Dallas Stars,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:38:52Z,1,13:49,06:11,Giveaway,n/a,57.0,-31.0,Brendan Leipsic,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:38:59Z,1,13:56,06:04,Takeaway,n/a,53.0,-26.0,Jason Dickinson,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:39:26Z,1,14:00,06:00,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:39:44Z,1,14:04,05:56,Shot,Wrist Shot,29.0,16.0,Radko Gudas,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:41:43Z,1,14:04,05:56,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:41:53Z,1,14:06,05:54,Shot,Wrist Shot,76.0,1.0,Tom Wilson,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:42:06Z,1,14:19,05:41,Blocked Shot,n/a,-65.0,8.0,Jonas Siegenthaler,Blocker,Washington Capitals,Radek Faksa,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:42:39Z,1,14:27,05:33,Faceoff,n/a,20.0,22.0,Lars Eller,Winner,Washington Capitals,Rhett Gardner,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:43:13Z,1,14:47,05:13,Hit,n/a,-97.0,-24.0,Nick Caamano,Hitter,Dallas Stars,Jonas Siegenthaler,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:43:31Z,1,15:05,04:55,Blocked Shot,n/a,44.0,-22.0,Nick Caamano,Blocker,Dallas Stars,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:43:56Z,1,15:29,04:31,Shot,Wrist Shot,-78.0,5.0,Joe Pavelski,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:44:03Z,1,15:32,04:28,Penalty,Slashing,-74.0,-1.0,Dmitry Orlov,PenaltyOn,Washington Capitals,Joe Pavelski,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:44:47Z,1,15:32,04:28,Faceoff,n/a,-69.0,22.0,Joe Pavelski,Winner,Dallas Stars,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:45:10Z,1,15:52,04:08,Hit,n/a,-97.0,-14.0,Radek Faksa,Hitter,Dallas Stars,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:45:47Z,1,16:13,03:47,Faceoff,n/a,-20.0,22.0,Tom Wilson,Winner,Washington Capitals,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:46:23Z,1,16:36,03:24,Shot,Wrist Shot,-53.0,-30.0,Jamie Benn,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:46:38Z,1,16:51,03:09,Blocked Shot,n/a,-61.0,17.0,John Carlson,Blocker,Washington Capitals,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:46:52Z,1,17:05,02:55,Missed Shot,n/a,-59.0,23.0,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:47:01Z,1,17:14,02:46,Shot,Wrist Shot,-58.0,-28.0,Roope Hintz,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:47:09Z,1,17:22,02:38,Blocked Shot,n/a,-72.0,6.0,Radko Gudas,Blocker,Washington Capitals,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:47:40Z,1,17:53,02:07,Giveaway,n/a,-46.0,38.0,Nick Caamano,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:48:11Z,1,18:23,01:37,Hit,n/a,-55.0,-38.0,Tyler Lewington,Hitter,Washington Capitals,Radek Faksa,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:48:39Z,1,18:46,01:14,Giveaway,n/a,-16.0,25.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:48:53Z,1,19:01,00:59,Missed Shot,n/a,-30.0,-9.0,Andrew Cogliano,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:49:00Z,1,19:05,00:55,Missed Shot,n/a,-87.0,-11.0,Radek Faksa,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:08:20Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Rhett Gardner,Winner,Dallas Stars,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:08:37Z,2,00:21,19:39,Takeaway,n/a,-70.0,30.0,Andrew Cogliano,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:08:45Z,2,00:30,19:30,Giveaway,n/a,22.0,38.0,Rhett Gardner,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:09:24Z,2,00:46,19:14,Faceoff,n/a,69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:09:39Z,2,00:50,19:10,Giveaway,n/a,79.0,-39.0,Jonas Siegenthaler,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:09:39Z,2,00:52,19:08,Shot,Snap Shot,42.0,-39.0,Joe Pavelski,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:10:00Z,2,01:08,18:52,Hit,n/a,62.0,40.0,Mattias Janmark,Hitter,Dallas Stars,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:10:14Z,2,01:17,18:43,Penalty,Tripping,-14.0,24.0,Tom Wilson,PenaltyOn,Washington Capitals,Roope Hintz,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:10:45Z,2,01:17,18:43,Faceoff,n/a,69.0,-22.0,Joe Pavelski,Winner,Dallas Stars,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:11:05Z,2,01:35,18:25,Blocked Shot,n/a,65.0,8.0,Nick Jensen,Blocker,Washington Capitals,Roope Hintz,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:11:21Z,2,01:51,18:09,Shot,Wrist Shot,79.0,7.0,Roope Hintz,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:11:42Z,2,02:12,17:48,Takeaway,n/a,44.0,-29.0,Nic Dowd,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:12:05Z,2,02:31,17:29,Giveaway,n/a,84.0,32.0,Miro Heiskanen,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:12:03Z,2,02:33,17:27,Shot,Wrist Shot,87.0,18.0,Radko Gudas,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:12:32Z,2,03:00,17:00,Hit,n/a,62.0,-38.0,Garnet Hathaway,Hitter,Washington Capitals,Alexander Radulov,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:12:43Z,2,03:13,16:47,Hit,n/a,97.0,32.0,Jonas Siegenthaler,Hitter,Washington Capitals,Radek Faksa,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:13:14Z,2,03:42,16:18,Shot,Wrist Shot,52.0,33.0,Radek Faksa,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:13:24Z,2,03:46,16:14,Penalty,Interference,74.0,-7.0,Jonas Siegenthaler,PenaltyOn,Washington Capitals,Andrew Cogliano,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:14:02Z,2,03:46,16:14,Faceoff,n/a,69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:15:20Z,2,04:50,15:10,Blocked Shot,n/a,37.0,2.0,T.J. Oshie,Blocker,Washington Capitals,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:15:25Z,2,04:54,15:06,Hit,n/a,97.0,12.0,Radko Gudas,Hitter,Washington Capitals,Alexander Radulov,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:15:34Z,2,05:03,14:57,Blocked Shot,n/a,65.0,-24.0,Dmitry Orlov,Blocker,Washington Capitals,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:15:44Z,2,05:13,14:47,Shot,Deflected,76.0,9.0,Joe Pavelski,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:15:51Z,2,05:21,14:39,Blocked Shot,n/a,72.0,7.0,Dmitry Orlov,Blocker,Washington Capitals,Radek Faksa,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:16:07Z,2,05:36,14:24,Missed Shot,n/a,33.0,4.0,Esa Lindell,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:16:14Z,2,05:43,14:17,Giveaway,n/a,49.0,-39.0,Joel L'Esperance,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:16:24Z,2,05:52,14:08,Shot,Deflected,58.0,3.0,Rhett Gardner,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:17:10Z,2,05:53,14:07,Faceoff,n/a,69.0,-22.0,Rhett Gardner,Winner,Dallas Stars,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:17:15Z,2,05:57,14:03,Blocked Shot,n/a,42.0,-7.0,Alex Ovechkin,Blocker,Washington Capitals,Andrej Sekera,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:17:19Z,2,06:02,13:58,Hit,n/a,82.0,40.0,Nick Caamano,Hitter,Dallas Stars,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:17:33Z,2,06:16,13:44,Giveaway,n/a,-51.0,40.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:17:52Z,2,06:23,13:37,Hit,n/a,52.0,39.0,Tyler Lewington,Hitter,Washington Capitals,Nick Caamano,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:17:53Z,2,06:35,13:25,Shot,Wrist Shot,-80.0,2.0,Alex Ovechkin,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:20:15Z,2,06:36,13:24,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:20:19Z,2,06:41,13:19,Shot,Wrist Shot,-41.0,7.0,John Carlson,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:20:47Z,2,07:08,12:52,Hit,n/a,-87.0,-39.0,Garnet Hathaway,Hitter,Washington Capitals,Joel Hanley,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:20:52Z,2,07:13,12:47,Goal,Wrist Shot,-75.0,0.0,John Carlson,Scorer,Washington Capitals,Garnet Hathaway,Assist,Washington Capitals,Nic Dowd,Assist,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars
+2019-10-13T01:21:36Z,2,07:13,12:47,Faceoff,n/a,0.0,0.0,T.J. Oshie,Winner,Washington Capitals,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:22:57Z,2,08:29,11:31,Takeaway,n/a,-19.0,16.0,Jamie Benn,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:23:13Z,2,08:42,11:18,Shot,Wrist Shot,33.0,5.0,Andrew Cogliano,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:23:39Z,2,08:43,11:17,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Rhett Gardner,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:23:54Z,2,08:52,11:08,Missed Shot,n/a,-59.0,-21.0,Richard Panik,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:24:26Z,2,08:53,11:07,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:24:35Z,2,08:58,11:02,Missed Shot,n/a,-36.0,-22.0,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:25:06Z,2,09:28,10:32,Shot,Wrist Shot,20.0,22.0,Mattias Janmark,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:25:29Z,2,09:30,10:30,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:26:07Z,2,09:36,10:24,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:26:18Z,2,09:41,10:19,Hit,n/a,95.0,27.0,Jamie Benn,Hitter,Dallas Stars,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:26:40Z,2,10:02,09:58,Blocked Shot,n/a,83.0,8.0,Radko Gudas,Blocker,Washington Capitals,Jamie Benn,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:26:57Z,2,10:04,09:56,Penalty,Delay of game,81.0,-6.0,Radko Gudas,PenaltyOn,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:29:04Z,2,10:04,09:56,Faceoff,n/a,69.0,-22.0,Lars Eller,Winner,Washington Capitals,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:29:44Z,2,10:46,09:14,Missed Shot,n/a,70.0,1.0,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:29:55Z,2,10:57,09:03,Blocked Shot,n/a,61.0,12.0,Nick Jensen,Blocker,Washington Capitals,Joe Pavelski,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:30:25Z,2,11:26,08:34,Giveaway,n/a,66.0,-39.0,Joel L'Esperance,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:30:45Z,2,11:47,08:13,Hit,n/a,57.0,40.0,Esa Lindell,Hitter,Dallas Stars,T.J. Oshie,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:31:13Z,2,12:01,07:59,Faceoff,n/a,20.0,22.0,Rhett Gardner,Winner,Dallas Stars,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:31:42Z,2,12:10,07:50,Hit,n/a,97.0,25.0,Andrew Cogliano,Hitter,Dallas Stars,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:32:40Z,2,12:23,07:37,Faceoff,n/a,-69.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:33:13Z,2,12:53,07:07,Giveaway,n/a,13.0,35.0,Esa Lindell,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:33:07Z,2,12:55,07:05,Shot,Snap Shot,-77.0,-3.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:33:56Z,2,13:44,06:16,Takeaway,n/a,-27.0,31.0,Nic Dowd,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:34:00Z,2,13:47,06:13,Missed Shot,n/a,-61.0,6.0,Garnet Hathaway,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:34:21Z,2,14:07,05:53,Shot,Backhand,-80.0,-2.0,Garnet Hathaway,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:36:45Z,2,14:09,05:51,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:36:40Z,2,14:12,05:48,Blocked Shot,n/a,-64.0,9.0,Andrew Cogliano,Blocker,Dallas Stars,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:36:58Z,2,14:20,05:40,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:38:11Z,2,14:42,05:18,Faceoff,n/a,20.0,22.0,Tyler Seguin,Winner,Dallas Stars,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:38:42Z,2,14:56,05:04,Hit,n/a,-36.0,39.0,Tyler Lewington,Hitter,Washington Capitals,Jamie Benn,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:39:09Z,2,15:23,04:37,Shot,Slap Shot,31.0,38.0,Miro Heiskanen,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:39:48Z,2,15:25,04:35,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:40:12Z,2,15:44,04:16,Missed Shot,n/a,-31.0,2.0,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:40:31Z,2,15:59,04:01,Shot,Wrap-around,-88.0,4.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:41:00Z,2,16:00,04:00,Faceoff,n/a,-69.0,22.0,Rhett Gardner,Winner,Dallas Stars,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:41:37Z,2,16:32,03:28,Hit,n/a,-97.0,15.0,Garnet Hathaway,Hitter,Washington Capitals,Jamie Oleksiak,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:41:46Z,2,16:37,03:23,Hit,n/a,-49.0,40.0,Brendan Leipsic,Hitter,Washington Capitals,Andrew Cogliano,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:42:05Z,2,16:56,03:04,Faceoff,n/a,69.0,22.0,Jamie Benn,Winner,Dallas Stars,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:42:37Z,2,16:59,03:01,Blocked Shot,n/a,76.0,8.0,Radko Gudas,Blocker,Washington Capitals,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:42:59Z,2,17:21,02:39,Hit,n/a,89.0,-38.0,Jamie Benn,Hitter,Dallas Stars,Nicklas Backstrom,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:43:10Z,2,17:23,02:37,Penalty,Hi-sticking,78.0,-36.0,Tom Wilson,PenaltyOn,Washington Capitals,Jamie Benn,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:43:45Z,2,17:23,02:37,Faceoff,n/a,69.0,-22.0,Joe Pavelski,Winner,Dallas Stars,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:43:58Z,2,17:31,02:29,Missed Shot,n/a,-42.0,14.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:44:17Z,2,17:50,02:10,Hit,n/a,73.0,41.0,Jamie Benn,Hitter,Dallas Stars,Carl Hagelin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:44:23Z,2,17:56,02:04,Takeaway,n/a,35.0,-4.0,Joe Pavelski,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:44:38Z,2,18:08,01:52,Missed Shot,n/a,63.0,9.0,Joe Pavelski,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:45:09Z,2,18:42,01:18,Giveaway,n/a,97.0,8.0,Jonas Siegenthaler,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:45:40Z,2,18:50,01:10,Faceoff,n/a,-69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:46:10Z,2,18:53,01:07,Missed Shot,n/a,-31.0,8.0,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:46:41Z,2,19:23,00:37,Blocked Shot,n/a,59.0,10.0,Nick Jensen,Blocker,Washington Capitals,Mattias Janmark,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:46:58Z,2,19:42,00:18,Hit,n/a,40.0,-39.0,Alex Ovechkin,Hitter,Washington Capitals,Rhett Gardner,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:47:12Z,2,19:57,00:03,Missed Shot,n/a,-43.0,17.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:07:22Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Rhett Gardner,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:05:56Z,3,00:16,19:44,Shot,Wrist Shot,30.0,29.0,Jonas Siegenthaler,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:06:35Z,3,00:55,19:05,Giveaway,n/a,69.0,38.0,Joe Pavelski,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:06:37Z,3,00:57,19:03,Missed Shot,n/a,65.0,-37.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:06:47Z,3,01:08,18:52,Missed Shot,n/a,74.0,2.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:07:17Z,3,01:37,18:23,Missed Shot,n/a,-31.0,-30.0,Jamie Benn,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:07:33Z,3,01:48,18:12,Missed Shot,n/a,-82.0,-9.0,Jamie Benn,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:07:33Z,3,01:51,18:09,Shot,Deflected,-83.0,3.0,Alexander Radulov,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:08:22Z,3,02:05,17:55,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:08:57Z,3,02:11,17:49,Missed Shot,n/a,-78.0,4.0,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:09:12Z,3,02:26,17:34,Giveaway,n/a,47.0,38.0,Brendan Leipsic,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:09:21Z,3,02:35,17:25,Takeaway,n/a,22.0,38.0,Jason Dickinson,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:09:39Z,3,02:54,17:06,Missed Shot,n/a,38.0,-11.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:09:47Z,3,03:01,16:59,Missed Shot,n/a,42.0,-34.0,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:09:59Z,3,03:06,16:54,Penalty,Holding the stick,83.0,-8.0,Joel Hanley,PenaltyOn,Dallas Stars,Richard Panik,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:10:33Z,3,03:06,16:54,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:10:56Z,3,03:35,16:25,Goal,Backhand,81.0,2.0,Evgeny Kuznetsov,Scorer,Washington Capitals,Nicklas Backstrom,Assist,Washington Capitals,John Carlson,Assist,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars
+2019-10-13T02:11:54Z,3,03:35,16:25,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:11:48Z,3,03:44,16:16,Hit,n/a,87.0,-39.0,Richard Panik,Hitter,Washington Capitals,Miro Heiskanen,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:12:02Z,3,03:58,16:02,Shot,Tip-In,-78.0,4.0,Alexander Radulov,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:13:18Z,3,05:14,14:46,Hit,n/a,96.0,-33.0,Joel Hanley,Hitter,Dallas Stars,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:13:44Z,3,05:39,14:21,Hit,n/a,48.0,39.0,Nick Caamano,Hitter,Dallas Stars,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:14:15Z,3,05:51,14:09,Faceoff,n/a,20.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:14:39Z,3,05:57,14:03,Faceoff,n/a,-20.0,22.0,Tyler Seguin,Winner,Dallas Stars,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:15:10Z,3,06:11,13:49,Shot,Deflected,76.0,-19.0,Tom Wilson,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:17:46Z,3,06:12,13:48,Faceoff,n/a,69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:17:34Z,3,06:22,13:38,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:20:15Z,3,06:47,13:13,Faceoff,n/a,69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:19:34Z,3,07:00,13:00,Goal,Wrap-around,-84.0,2.0,Radek Faksa,Scorer,Dallas Stars,Mattias Janmark,Assist,Dallas Stars,Miro Heiskanen,Assist,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals
+2019-10-13T02:20:50Z,3,07:00,13:00,Faceoff,n/a,0.0,0.0,Roope Hintz,Winner,Dallas Stars,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:20:39Z,3,07:23,12:37,Shot,Backhand,-89.0,-13.0,Alexander Radulov,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:21:12Z,3,07:23,12:37,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:21:43Z,3,07:45,12:15,Hit,n/a,97.0,22.0,Nic Dowd,Hitter,Washington Capitals,John Klingberg,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:21:46Z,3,07:51,12:09,Blocked Shot,n/a,53.0,-18.0,Jason Dickinson,Blocker,Dallas Stars,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:21:57Z,3,07:52,12:08,Shot,Wrist Shot,88.0,-14.0,Garnet Hathaway,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:21:53Z,3,07:53,12:07,Giveaway,n/a,84.0,-22.0,Miro Heiskanen,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:22:42Z,3,08:49,11:11,Takeaway,n/a,42.0,-28.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:22:55Z,3,09:01,10:59,Hit,n/a,60.0,-39.0,Jamie Benn,Hitter,Dallas Stars,Tyler Lewington,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:24:11Z,3,09:38,10:22,Faceoff,n/a,20.0,-22.0,Mattias Janmark,Winner,Dallas Stars,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:25:50Z,3,11:09,08:51,Missed Shot,n/a,-63.0,0.0,Jason Dickinson,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:26:17Z,3,11:35,08:25,Blocked Shot,n/a,-63.0,9.0,John Carlson,Blocker,Washington Capitals,Alexander Radulov,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:27:06Z,3,12:03,07:57,Faceoff,n/a,-69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:27:37Z,3,12:06,07:54,Penalty,Interference,-71.0,-12.0,Joel L'Esperance,PenaltyOn,Dallas Stars,Richard Panik,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:30:00Z,3,12:06,07:54,Faceoff,n/a,69.0,22.0,Radek Faksa,Winner,Dallas Stars,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:29:58Z,3,12:08,07:52,Shot,Snap Shot,78.0,24.0,T.J. Oshie,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:30:54Z,3,12:42,07:18,Faceoff,n/a,-69.0,-22.0,T.J. Oshie,Winner,Washington Capitals,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:31:29Z,3,13:04,06:56,Giveaway,n/a,83.0,-37.0,Nicklas Backstrom,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:31:47Z,3,13:07,06:53,Faceoff,n/a,-20.0,22.0,Andrew Cogliano,Winner,Dallas Stars,Brendan Leipsic,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:32:14Z,3,13:18,06:42,Shot,Wrist Shot,-60.0,-32.0,Andrew Cogliano,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:33:09Z,3,13:18,06:42,Blocked Shot,n/a,63.0,7.0,Miro Heiskanen,Blocker,Dallas Stars,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:32:33Z,3,13:19,06:41,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Andrew Cogliano,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:33:45Z,3,14:05,05:55,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:34:02Z,3,14:15,05:45,Hit,n/a,-12.0,39.0,Tom Wilson,Hitter,Washington Capitals,Alexander Radulov,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:34:12Z,3,14:27,05:33,Giveaway,n/a,-98.0,-13.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:34:12Z,3,14:27,05:33,Missed Shot,n/a,-78.0,-13.0,Jamie Benn,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:34:22Z,3,14:37,05:23,Shot,Wrist Shot,-47.0,-4.0,John Klingberg,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:34:46Z,3,14:55,05:05,Giveaway,n/a,-45.0,40.0,John Klingberg,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:34:53Z,3,14:56,05:04,Giveaway,n/a,7.0,0.0,Garnet Hathaway,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:35:01Z,3,15:16,04:44,Giveaway,n/a,10.0,2.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:35:23Z,3,15:38,04:22,Shot,Wrist Shot,-7.0,18.0,Tyler Seguin,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:36:02Z,3,15:56,04:04,Faceoff,n/a,69.0,22.0,Radek Faksa,Winner,Dallas Stars,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:36:30Z,3,16:08,03:52,Hit,n/a,52.0,-32.0,Esa Lindell,Hitter,Dallas Stars,T.J. Oshie,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:39:03Z,3,16:16,03:44,Faceoff,n/a,-20.0,-22.0,Roope Hintz,Winner,Dallas Stars,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:39:03Z,3,16:32,03:28,Shot,Wrist Shot,51.0,-26.0,Richard Panik,Shooter,Washington Capitals,Anton Khudobin,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:39:57Z,3,16:52,03:08,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:40:09Z,3,17:05,02:55,Giveaway,n/a,-61.0,-14.0,Joe Pavelski,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:40:13Z,3,17:10,02:50,Missed Shot,n/a,5.0,-36.0,Richard Panik,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:40:18Z,3,17:14,02:46,Giveaway,n/a,74.0,40.0,Miro Heiskanen,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:40:25Z,3,17:21,02:39,Takeaway,n/a,23.0,39.0,Tyler Seguin,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:40:37Z,3,17:30,02:30,Faceoff,n/a,-69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:41:10Z,3,17:38,02:22,Missed Shot,n/a,34.0,-38.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:41:20Z,3,17:47,02:13,Giveaway,n/a,-47.0,39.0,Alexander Radulov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:41:25Z,3,17:50,02:10,Hit,n/a,-97.0,-7.0,Joe Pavelski,Hitter,Dallas Stars,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:41:48Z,3,17:55,02:05,Faceoff,n/a,-69.0,-22.0,Jamie Benn,Winner,Dallas Stars,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:42:02Z,3,18:01,01:59,Hit,n/a,-53.0,-38.0,Tom Wilson,Hitter,Washington Capitals,Miro Heiskanen,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:42:10Z,3,18:09,01:51,Shot,Backhand,-73.0,-12.0,Alexander Radulov,Shooter,Dallas Stars,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:42:39Z,3,18:15,01:45,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:43:17Z,3,18:43,01:17,Hit,n/a,-67.0,35.0,Radko Gudas,Hitter,Washington Capitals,Roope Hintz,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:43:32Z,3,19:03,00:57,Goal,Backhand,-4.0,34.0,Alex Ovechkin,Scorer,Washington Capitals,Tom Wilson,Assist,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:44:14Z,3,19:03,00:57,Faceoff,n/a,0.0,0.0,Rhett Gardner,Winner,Dallas Stars,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:44:41Z,3,19:12,00:48,Faceoff,n/a,69.0,-22.0,Rhett Gardner,Winner,Dallas Stars,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T02:45:25Z,3,19:49,00:11,Hit,n/a,-8.0,40.0,Rhett Gardner,Hitter,Dallas Stars,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a

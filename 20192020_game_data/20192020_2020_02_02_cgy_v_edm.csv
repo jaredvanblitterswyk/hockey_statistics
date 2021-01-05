@@ -1,0 +1,262 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-02T03:09:56Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Mikael Backlund,Winner,Calgary Flames,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:10:43Z,1,00:24,19:36,Giveaway,n/a,83.0,-35.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:10:50Z,1,00:27,19:33,Shot,Wrist Shot,48.0,12.0,Oscar Klefbom,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:11:00Z,1,00:29,19:31,Goal,Wrist Shot,72.0,-8.0,Kailer Yamamoto,Scorer,Edmonton Oilers,Oscar Klefbom,Assist,Edmonton Oilers,Leon Draisaitl,Assist,Edmonton Oilers,David Rittich,Goalie,Calgary Flames
+2020-02-02T03:11:25Z,1,00:29,19:31,Faceoff,n/a,0.0,0.0,Elias Lindholm,Winner,Calgary Flames,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:12:19Z,1,01:05,18:55,Goal,Wrist Shot,76.0,-12.0,Zack Kassian,Scorer,Edmonton Oilers,Josh Archibald,Assist,Edmonton Oilers,Ethan Bear,Assist,Edmonton Oilers,David Rittich,Goalie,Calgary Flames
+2020-02-02T03:12:57Z,1,01:05,18:55,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:13:27Z,1,01:34,18:26,Shot,Slap Shot,-66.0,-1.0,Johnny Gaudreau,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:13:33Z,1,01:40,18:20,Blocked Shot,n/a,-75.0,7.0,Ryan Nugent-Hopkins,Blocker,Edmonton Oilers,Travis Hamonic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:13:55Z,1,01:43,18:17,Faceoff,n/a,-69.0,22.0,Derek Ryan,Winner,Calgary Flames,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:14:13Z,1,01:47,18:13,Shot,Wrist Shot,-47.0,5.0,Dillon Dube,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:14:23Z,1,01:47,18:13,Faceoff,n/a,-69.0,22.0,Derek Ryan,Winner,Calgary Flames,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:14:46Z,1,01:52,18:08,Blocked Shot,n/a,-67.0,-11.0,Patrick Russell,Blocker,Edmonton Oilers,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:15:05Z,1,02:11,17:49,Giveaway,n/a,51.0,41.0,Rasmus Andersson,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:15:15Z,1,02:22,17:38,Hit,n/a,73.0,41.0,Jujhar Khaira,Hitter,Edmonton Oilers,Rasmus Andersson,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:15:54Z,1,03:00,17:00,Hit,n/a,-97.0,-12.0,Sam Bennett,Hitter,Calgary Flames,Ethan Bear,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:16:00Z,1,03:07,16:53,Hit,n/a,-81.0,38.0,Gaetan Haas,Hitter,Edmonton Oilers,Sam Bennett,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:16:06Z,1,03:12,16:48,Hit,n/a,-99.0,9.0,Darnell Nurse,Hitter,Edmonton Oilers,Tobias Rieder,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:16:44Z,1,03:50,16:10,Giveaway,n/a,-78.0,-37.0,Matt Benning,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:16:54Z,1,04:00,16:00,Giveaway,n/a,-44.0,22.0,Zack Kassian,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:17:05Z,1,04:11,15:49,Shot,Slap Shot,-34.0,25.0,Caleb Jones,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:17:39Z,1,04:46,15:14,Missed Shot,n/a,-60.0,-6.0,Buddy Robinson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:17:39Z,1,04:46,15:14,Giveaway,n/a,-87.0,-30.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:18:21Z,1,05:26,14:34,Blocked Shot,n/a,75.0,3.0,Buddy Robinson,Blocker,Calgary Flames,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:18:26Z,1,05:32,14:28,Hit,n/a,-25.0,41.0,Patrick Russell,Hitter,Edmonton Oilers,Oliver Kylington,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:18:38Z,1,05:37,14:23,Faceoff,n/a,-69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:19:22Z,1,05:55,14:05,Faceoff,n/a,-69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:19:49Z,1,06:04,13:56,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:20:20Z,1,06:13,13:47,Shot,Backhand,9.0,19.0,Patrick Russell,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:20:35Z,1,06:28,13:32,Shot,Tip-In,78.0,0.0,Alex Chiasson,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:20:35Z,1,06:28,13:32,Takeaway,n/a,67.0,-40.0,Riley Sheahan,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:22:35Z,1,06:30,13:30,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:23:43Z,1,07:08,12:52,Missed Shot,n/a,59.0,8.0,Zack Kassian,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:23:55Z,1,07:19,12:41,Shot,Slap Shot,-36.0,-28.0,Mark Giordano,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:23:59Z,1,07:24,12:36,Giveaway,n/a,-74.0,-10.0,Zack Kassian,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:24:22Z,1,07:47,12:13,Shot,Snap Shot,-73.0,-2.0,Tobias Rieder,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:24:34Z,1,07:48,12:12,Shot,Wrist Shot,-75.0,-1.0,Tobias Rieder,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:24:59Z,1,08:24,11:36,Hit,n/a,-96.0,-10.0,Travis Hamonic,Hitter,Calgary Flames,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:25:06Z,1,08:31,11:29,Takeaway,n/a,-61.0,25.0,Kailer Yamamoto,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:25:19Z,1,08:43,11:17,Shot,Wrist Shot,28.0,1.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:25:30Z,1,08:55,11:05,Blocked Shot,n/a,71.0,2.0,Rasmus Andersson,Blocker,Calgary Flames,Caleb Jones,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:26:06Z,1,09:20,10:40,Penalty,Holding,79.0,39.0,Kailer Yamamoto,PenaltyOn,Edmonton Oilers,Rasmus Andersson,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:26:35Z,1,09:20,10:40,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:26:52Z,1,09:35,10:25,Blocked Shot,n/a,-81.0,-5.0,Oscar Klefbom,Blocker,Edmonton Oilers,Sean Monahan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:27:02Z,1,09:42,10:18,Shot,Wrist Shot,63.0,2.0,Riley Sheahan,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:27:39Z,1,10:15,09:45,Blocked Shot,n/a,-78.0,1.0,Ethan Bear,Blocker,Edmonton Oilers,Sean Monahan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:28:15Z,1,10:16,09:44,Faceoff,n/a,-69.0,22.0,Derek Ryan,Winner,Calgary Flames,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:28:35Z,1,10:24,09:36,Blocked Shot,n/a,-57.0,5.0,Oscar Klefbom,Blocker,Edmonton Oilers,Derek Ryan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:28:41Z,1,10:28,09:32,Missed Shot,n/a,-45.0,-18.0,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:28:48Z,1,10:34,09:26,Shot,Wrist Shot,-54.0,14.0,Derek Ryan,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:29:00Z,1,10:35,09:25,Faceoff,n/a,-69.0,22.0,Derek Ryan,Winner,Calgary Flames,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:29:28Z,1,10:51,09:09,Shot,Wrist Shot,-70.0,-20.0,Mikael Backlund,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:29:47Z,1,11:11,08:49,Giveaway,n/a,7.0,41.0,Derek Ryan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:29:55Z,1,11:19,08:41,Takeaway,n/a,68.0,-36.0,TJ Brodie,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:30:18Z,1,11:42,08:18,Giveaway,n/a,36.0,37.0,Travis Hamonic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:30:59Z,1,12:23,07:37,Hit,n/a,55.0,-36.0,Buddy Robinson,Hitter,Calgary Flames,Matt Benning,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:31:22Z,1,12:42,07:18,Goal,Wrist Shot,-74.0,-3.0,Buddy Robinson,Scorer,Calgary Flames,Johnny Gaudreau,Assist,Calgary Flames,Mark Giordano,Assist,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers
+2020-02-02T03:32:03Z,1,12:42,07:18,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:32:16Z,1,12:55,07:05,Shot,Slap Shot,38.0,-27.0,Ethan Bear,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:32:27Z,1,13:07,06:53,Blocked Shot,n/a,56.0,-17.0,Andrew Mangiapane,Blocker,Calgary Flames,Zack Kassian,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:33:10Z,1,13:43,06:17,Penalty,Slashing,71.0,2.0,Travis Hamonic,PenaltyOn,Calgary Flames,Josh Archibald,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:34:52Z,1,13:43,06:17,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:35:39Z,1,13:53,06:07,Missed Shot,n/a,76.0,0.0,Alex Chiasson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:35:57Z,1,14:11,05:49,Shot,Tip-In,50.0,-1.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:36:45Z,1,14:47,05:13,Shot,Backhand,70.0,-2.0,TJ Brodie,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:37:01Z,1,15:15,04:45,Missed Shot,n/a,59.0,3.0,Zack Kassian,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:37:07Z,1,15:22,04:38,Shot,Wrist Shot,71.0,-21.0,Connor McDavid,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:37:23Z,1,15:33,04:27,Goal,Wrist Shot,70.0,-10.0,Connor McDavid,Scorer,Edmonton Oilers,Darnell Nurse,Assist,Edmonton Oilers,Leon Draisaitl,Assist,Edmonton Oilers,David Rittich,Goalie,Calgary Flames
+2020-02-02T03:37:58Z,1,15:33,04:27,Faceoff,n/a,0.0,0.0,Sean Monahan,Winner,Calgary Flames,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:38:53Z,1,15:55,04:05,Penalty,Fighting,46.0,11.0,Buddy Robinson,PenaltyOn,Calgary Flames,Jujhar Khaira,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:39:05Z,1,15:55,04:05,Penalty,Fighting,54.0,16.0,Jujhar Khaira,PenaltyOn,Edmonton Oilers,Buddy Robinson,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:40:57Z,1,15:55,04:05,Faceoff,n/a,-69.0,-22.0,Ryan Nugent-Hopkins,Winner,Edmonton Oilers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:41:58Z,1,16:01,03:59,Hit,n/a,-23.0,39.0,Andrew Mangiapane,Hitter,Calgary Flames,Leon Draisaitl,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:42:39Z,1,16:22,03:38,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Zack Kassian,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:43:31Z,1,16:49,03:11,Hit,n/a,62.0,-41.0,Josh Archibald,Hitter,Edmonton Oilers,Sean Monahan,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:43:39Z,1,16:57,03:03,Missed Shot,n/a,-69.0,-34.0,Sam Bennett,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:43:47Z,1,17:06,02:54,Missed Shot,n/a,-52.0,-11.0,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:44:22Z,1,17:16,02:44,Faceoff,n/a,-20.0,-22.0,Gaetan Haas,Winner,Edmonton Oilers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:44:34Z,1,17:24,02:36,Faceoff,n/a,-69.0,22.0,Derek Ryan,Winner,Calgary Flames,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:45:03Z,1,17:28,02:32,Shot,Slap Shot,-38.0,-6.0,Rasmus Andersson,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:46:25Z,1,18:51,01:09,Hit,n/a,90.0,35.0,Connor McDavid,Hitter,Edmonton Oilers,Travis Hamonic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:46:39Z,1,19:04,00:56,Shot,Backhand,74.0,7.0,Patrick Russell,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:46:57Z,1,19:22,00:38,Shot,Wrist Shot,93.0,-19.0,Darnell Nurse,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:47:29Z,1,19:53,00:07,Shot,Wrist Shot,-35.0,4.0,Sam Bennett,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:06:04Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Sean Monahan,Winner,Calgary Flames,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:06:50Z,2,00:44,19:16,Takeaway,n/a,49.0,39.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:07:17Z,2,01:08,18:52,Penalty,Tripping,55.0,12.0,Darnell Nurse,PenaltyOn,Edmonton Oilers,Elias Lindholm,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:08:13Z,2,01:08,18:52,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:08:28Z,2,01:25,18:35,Shot,Wrist Shot,-51.0,-28.0,Oscar Klefbom,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:08:43Z,2,01:25,18:35,Faceoff,n/a,-69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:09:07Z,2,01:41,18:19,Takeaway,n/a,56.0,0.0,Riley Sheahan,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:09:21Z,2,01:55,18:05,Takeaway,n/a,-28.0,20.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:09:25Z,2,01:59,18:01,Shot,Wrist Shot,-50.0,-7.0,Jujhar Khaira,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:09:30Z,2,02:01,17:59,Missed Shot,n/a,-66.0,18.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:10:39Z,2,03:14,16:46,Giveaway,n/a,33.0,-3.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:10:45Z,2,03:18,16:42,Goal,Wrist Shot,-67.0,17.0,Connor McDavid,Scorer,Edmonton Oilers,Riley Sheahan,Assist,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a
+2020-02-02T04:11:54Z,2,03:18,16:42,Faceoff,n/a,0.0,0.0,Mikael Backlund,Winner,Calgary Flames,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:12:19Z,2,03:33,16:27,Giveaway,n/a,99.0,2.0,Mike Smith,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:12:40Z,2,03:55,16:05,Giveaway,n/a,-76.0,-24.0,Alex Chiasson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:13:08Z,2,04:23,15:37,Missed Shot,n/a,62.0,5.0,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:13:25Z,2,04:35,15:25,Goal,Wrist Shot,68.0,-10.0,Matthew Tkachuk,Scorer,Calgary Flames,Andrew Mangiapane,Assist,Calgary Flames,Mark Giordano,Assist,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers
+2020-02-02T04:14:18Z,2,04:35,15:25,Faceoff,n/a,0.0,0.0,Sean Monahan,Winner,Calgary Flames,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:14:37Z,2,04:45,15:15,Takeaway,n/a,0.0,12.0,Kailer Yamamoto,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:14:40Z,2,04:49,15:11,Missed Shot,n/a,-71.0,8.0,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:14:55Z,2,05:03,14:57,Hit,n/a,84.0,-35.0,Buddy Robinson,Hitter,Calgary Flames,Ethan Bear,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:15:22Z,2,05:30,14:30,Giveaway,n/a,99.0,-2.0,Darnell Nurse,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:15:29Z,2,05:37,14:23,Blocked Shot,n/a,65.0,-15.0,Darnell Nurse,Blocker,Edmonton Oilers,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:15:42Z,2,05:40,14:20,Shot,Wrist Shot,-57.0,-18.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:15:41Z,2,05:45,14:15,Shot,Wrist Shot,-61.0,-3.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:15:52Z,2,05:47,14:13,Shot,Wrist Shot,-79.0,-24.0,Riley Sheahan,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:15:50Z,2,05:58,14:02,Takeaway,n/a,71.0,-36.0,Dillon Dube,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:18:22Z,2,06:05,13:55,Faceoff,n/a,69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:18:57Z,2,06:24,13:36,Giveaway,n/a,70.0,-18.0,Josh Archibald,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:19:00Z,2,06:27,13:33,Giveaway,n/a,68.0,-28.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:19:05Z,2,06:33,13:27,Blocked Shot,n/a,-55.0,1.0,Mark Giordano,Blocker,Calgary Flames,Zack Kassian,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:19:29Z,2,06:56,13:04,Giveaway,n/a,59.0,-24.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:19:39Z,2,07:06,12:54,Shot,Wrist Shot,65.0,5.0,Johnny Gaudreau,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:20:06Z,2,07:06,12:54,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:20:23Z,2,07:18,12:42,Hit,n/a,73.0,41.0,Buddy Robinson,Hitter,Calgary Flames,Adam Larsson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:20:47Z,2,07:42,12:18,Missed Shot,n/a,-65.0,-32.0,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:20:52Z,2,07:48,12:12,Shot,Wrist Shot,-74.0,-14.0,Kailer Yamamoto,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:21:28Z,2,08:23,11:37,Shot,Wrist Shot,-62.0,-29.0,Gaetan Haas,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:21:36Z,2,08:32,11:28,Giveaway,n/a,-95.0,-1.0,Cam Talbot,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:21:40Z,2,08:35,11:25,Shot,Wrist Shot,-92.0,-14.0,Alex Chiasson,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:21:48Z,2,08:40,11:20,Shot,Wrist Shot,-78.0,-8.0,Sam Gagner,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:21:53Z,2,08:48,11:12,Shot,Slap Shot,-44.0,23.0,Matt Benning,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:22:05Z,2,09:01,10:59,Shot,Wrist Shot,72.0,0.0,Derek Ryan,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:22:47Z,2,09:43,10:17,Hit,n/a,98.0,19.0,Milan Lucic,Hitter,Calgary Flames,Ethan Bear,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:23:16Z,2,10:12,09:48,Giveaway,n/a,84.0,17.0,Ethan Bear,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:23:20Z,2,10:14,09:46,Goal,Wrist Shot,94.0,9.0,Elias Lindholm,Scorer,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:24:35Z,2,10:14,09:46,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:24:14Z,2,10:25,09:35,Giveaway,n/a,-38.0,38.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:24:20Z,2,10:31,09:29,Shot,Wrist Shot,-52.0,10.0,Connor McDavid,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:24:32Z,2,10:44,09:16,Hit,n/a,20.0,41.0,Adam Larsson,Hitter,Edmonton Oilers,Andrew Mangiapane,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:24:48Z,2,10:59,09:01,Missed Shot,n/a,80.0,-15.0,Sam Bennett,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:25:02Z,2,11:13,08:47,Takeaway,n/a,42.0,-35.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:25:09Z,2,11:20,08:40,Shot,Snap Shot,-74.0,13.0,Zack Kassian,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:25:21Z,2,11:32,08:28,Takeaway,n/a,-51.0,15.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:25:24Z,2,11:35,08:25,Shot,Wrist Shot,-75.0,16.0,Leon Draisaitl,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:26:05Z,2,11:37,08:23,Goal,Wrist Shot,-62.0,1.0,Ryan Nugent-Hopkins,Scorer,Edmonton Oilers,Kailer Yamamoto,Assist,Edmonton Oilers,Leon Draisaitl,Assist,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames
+2020-02-02T04:26:11Z,2,11:37,08:23,Faceoff,n/a,0.0,0.0,Derek Ryan,Winner,Calgary Flames,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:26:32Z,2,12:00,08:00,Blocked Shot,n/a,57.0,8.0,Caleb Jones,Blocker,Edmonton Oilers,Buddy Robinson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:27:12Z,2,12:41,07:19,Missed Shot,n/a,-64.0,-29.0,Riley Sheahan,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:27:28Z,2,12:57,07:03,Hit,n/a,-88.0,-32.0,Milan Lucic,Hitter,Calgary Flames,Jujhar Khaira,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:27:49Z,2,13:09,06:51,Missed Shot,n/a,-39.0,-9.0,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:28:08Z,2,13:37,06:23,Hit,n/a,41.0,-39.0,Matt Benning,Hitter,Edmonton Oilers,Dillon Dube,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:28:19Z,2,13:47,06:13,Hit,n/a,-3.0,-40.0,Matthew Tkachuk,Hitter,Calgary Flames,Zack Kassian,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:30:33Z,2,13:49,06:11,Faceoff,n/a,-20.0,22.0,Elias Lindholm,Winner,Calgary Flames,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:31:32Z,2,14:35,05:25,Takeaway,n/a,73.0,-35.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:31:52Z,2,14:56,05:04,Giveaway,n/a,-97.0,0.0,Cam Talbot,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:32:12Z,2,15:16,04:44,Shot,Wrist Shot,-66.0,-5.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:32:29Z,2,15:32,04:28,Shot,Wrist Shot,-83.0,11.0,Leon Draisaitl,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:32:36Z,2,15:37,04:23,Shot,Slap Shot,-36.0,15.0,Ethan Bear,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:34:31Z,2,15:37,04:23,Faceoff,n/a,-69.0,22.0,Gaetan Haas,Winner,Edmonton Oilers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:35:29Z,2,15:58,04:02,Goal,Slap Shot,-40.0,5.0,Caleb Jones,Scorer,Edmonton Oilers,Gaetan Haas,Assist,Edmonton Oilers,Alex Chiasson,Assist,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames
+2020-02-02T04:36:01Z,2,15:58,04:02,Faceoff,n/a,0.0,0.0,Riley Sheahan,Winner,Edmonton Oilers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:36:23Z,2,16:14,03:46,Shot,Wrist Shot,-84.0,-7.0,Patrick Russell,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:37:01Z,2,16:53,03:07,Shot,Wrist Shot,-82.0,-10.0,Adam Larsson,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:37:40Z,2,16:53,03:07,Faceoff,n/a,-69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:38:14Z,2,17:12,02:48,Shot,Slap Shot,56.0,26.0,Mark Giordano,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:38:24Z,2,17:13,02:47,Shot,Slap Shot,69.0,-26.0,Elias Lindholm,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:38:37Z,2,17:14,02:46,Faceoff,n/a,69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:39:07Z,2,17:26,02:34,Shot,Wrist Shot,54.0,34.0,Mark Giordano,Shooter,Calgary Flames,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:39:14Z,2,17:34,02:26,Blocked Shot,n/a,-52.0,-17.0,TJ Brodie,Blocker,Calgary Flames,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:39:22Z,2,17:40,02:20,Shot,Tip-In,-50.0,-32.0,Kailer Yamamoto,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:39:36Z,2,17:40,02:20,Faceoff,n/a,-69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:40:31Z,2,18:10,01:50,Faceoff,n/a,69.0,-22.0,Mikael Backlund,Winner,Calgary Flames,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:40:52Z,2,18:18,01:42,Hit,n/a,62.0,39.0,Patrick Russell,Hitter,Edmonton Oilers,Oliver Kylington,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:41:31Z,2,18:30,01:30,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:42:08Z,2,19:02,00:58,Giveaway,n/a,74.0,39.0,Milan Lucic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:42:39Z,2,19:06,00:54,Faceoff,n/a,-20.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:42:52Z,2,19:21,00:39,Giveaway,n/a,28.0,18.0,Gaetan Haas,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:02Z,2,19:31,00:29,Shot,Snap Shot,-56.0,-28.0,Darnell Nurse,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:13Z,2,19:35,00:25,Shot,Tip-In,-81.0,-2.0,Sam Gagner,Shooter,Edmonton Oilers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:13Z,2,19:36,00:24,Penalty,Goalie leave crease,82.0,1.0,Mike Smith,PenaltyOn,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:13Z,2,19:36,00:24,Penalty,Goalie leave crease,-82.0,0.0,Cam Talbot,PenaltyOn,Calgary Flames,Andrew Mangiapane,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:13Z,2,19:36,00:24,Penalty,Roughing,-83.0,-3.0,Cam Talbot,PenaltyOn,Calgary Flames,Sam Gagner,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:13Z,2,19:36,00:24,Penalty,Roughing,-85.0,-3.0,Cam Talbot,PenaltyOn,Calgary Flames,Sam Gagner,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:13Z,2,19:36,00:24,Penalty,Fighting,-8.0,-8.0,Cam Talbot,PenaltyOn,Calgary Flames,Mike Smith,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:13Z,2,19:36,00:24,Penalty,Fighting,-1.0,-2.0,Mike Smith,PenaltyOn,Edmonton Oilers,Cam Talbot,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:13Z,2,19:36,00:24,Penalty,Game misconduct,-11.0,-8.0,Cam Talbot,PenaltyOn,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:13Z,2,19:36,00:24,Penalty,Game misconduct,-1.0,-2.0,Mike Smith,PenaltyOn,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:13Z,2,19:36,00:24,Penalty,Fighting,-51.0,-11.0,Matthew Tkachuk,PenaltyOn,Calgary Flames,Ethan Bear,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:13Z,2,19:36,00:24,Penalty,Fighting,-38.0,-12.0,Ethan Bear,PenaltyOn,Edmonton Oilers,Matthew Tkachuk,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T04:43:13Z,2,19:36,00:24,Penalty,Roughing,-80.0,-6.0,Sam Gagner,PenaltyOn,Edmonton Oilers,Mark Giordano,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:06:16Z,2,19:36,00:24,Faceoff,n/a,-20.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:06:50Z,2,19:47,00:13,Takeaway,n/a,-41.0,0.0,Mark Giordano,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:07:50Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:08:18Z,3,00:22,19:38,Shot,Wrist Shot,78.0,-17.0,Leon Draisaitl,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:08:46Z,3,00:51,19:09,Takeaway,n/a,37.0,-28.0,Derek Ryan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:09:33Z,3,01:38,18:22,Shot,Tip-In,-12.0,36.0,Elias Lindholm,Shooter,Calgary Flames,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:09:50Z,3,01:54,18:06,Hit,n/a,-5.0,-3.0,Buddy Robinson,Hitter,Calgary Flames,Kailer Yamamoto,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:09:59Z,3,02:03,17:57,Blocked Shot,n/a,57.0,-15.0,Noah Hanifin,Blocker,Calgary Flames,Gaetan Haas,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:11:07Z,3,03:11,16:49,Hit,n/a,-85.0,-35.0,Milan Lucic,Hitter,Calgary Flames,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:11:50Z,3,03:17,16:43,Faceoff,n/a,-69.0,-22.0,Mikael Backlund,Winner,Calgary Flames,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:11:53Z,3,03:26,16:34,Missed Shot,n/a,-74.0,-39.0,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:12:12Z,3,03:45,16:15,Blocked Shot,n/a,60.0,-18.0,TJ Brodie,Blocker,Calgary Flames,Jujhar Khaira,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:12:30Z,3,03:51,16:09,Shot,Wrap-around,87.0,5.0,Patrick Russell,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:12:20Z,3,03:53,16:07,Missed Shot,n/a,70.0,16.0,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:12:48Z,3,03:54,16:06,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:13:23Z,3,04:23,15:37,Missed Shot,n/a,-62.0,-11.0,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:13:58Z,3,04:57,15:03,Blocked Shot,n/a,-72.0,-29.0,Adam Larsson,Blocker,Edmonton Oilers,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:14:14Z,3,05:10,14:50,Shot,Wrist Shot,65.0,15.0,Caleb Jones,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:14:45Z,3,05:10,14:50,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:15:44Z,3,06:08,13:52,Missed Shot,n/a,41.0,-11.0,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:15:47Z,3,06:11,13:49,Hit,n/a,56.0,39.0,Milan Lucic,Hitter,Calgary Flames,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:16:10Z,3,06:32,13:28,Missed Shot,n/a,5.0,-5.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:16:22Z,3,06:46,13:14,Shot,Snap Shot,83.0,-26.0,Patrick Russell,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:19:17Z,3,06:47,13:13,Faceoff,n/a,69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:19:42Z,3,06:59,13:01,Faceoff,n/a,-20.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:20:12Z,3,07:14,12:46,Shot,Slap Shot,-45.0,-15.0,Elias Lindholm,Shooter,Calgary Flames,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:20:16Z,3,07:19,12:41,Hit,n/a,-52.0,-42.0,Zack Kassian,Hitter,Edmonton Oilers,Mark Giordano,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:20:34Z,3,07:37,12:23,Shot,Wrist Shot,-56.0,12.0,Milan Lucic,Shooter,Calgary Flames,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:20:52Z,3,07:37,12:23,Faceoff,n/a,-69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:21:59Z,3,08:35,11:25,Takeaway,n/a,-12.0,-24.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:22:06Z,3,08:42,11:18,Shot,Deflected,-77.0,-4.0,Derek Ryan,Shooter,Calgary Flames,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:22:45Z,3,09:21,10:39,Takeaway,n/a,7.0,34.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:23:11Z,3,09:46,10:14,Hit,n/a,-88.0,-33.0,Matt Benning,Hitter,Edmonton Oilers,Dillon Dube,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:23:15Z,3,09:51,10:09,Shot,Wrist Shot,-74.0,-7.0,Tobias Rieder,Shooter,Calgary Flames,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:23:26Z,3,10:02,09:58,Shot,Slap Shot,-66.0,-32.0,Tobias Rieder,Shooter,Calgary Flames,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:25:49Z,3,10:02,09:58,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:27:10Z,3,11:17,08:43,Shot,Snap Shot,58.0,-21.0,Riley Sheahan,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:27:37Z,3,11:17,08:43,Penalty,Roughing,80.0,-8.0,Sam Bennett,PenaltyOn,Calgary Flames,Patrick Russell,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:27:51Z,3,11:17,08:43,Penalty,Roughing,76.0,-3.0,Patrick Russell,PenaltyOn,Edmonton Oilers,Sam Bennett,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:28:13Z,3,11:17,08:43,Faceoff,n/a,69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:29:08Z,3,11:42,08:18,Faceoff,n/a,69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:29:40Z,3,12:13,07:47,Giveaway,n/a,-39.0,3.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:30:06Z,3,12:37,07:23,Blocked Shot,n/a,58.0,-5.0,Noah Hanifin,Blocker,Calgary Flames,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:30:28Z,3,12:38,07:22,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:30:56Z,3,13:00,07:00,Giveaway,n/a,37.0,-5.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:31:14Z,3,13:16,06:44,Shot,Slap Shot,39.0,-25.0,Sam Gagner,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:31:22Z,3,13:16,06:44,Goal,Slap Shot,37.0,-22.0,Sam Gagner,Scorer,Edmonton Oilers,Oscar Klefbom,Assist,Edmonton Oilers,Leon Draisaitl,Assist,Edmonton Oilers,David Rittich,Goalie,Calgary Flames
+2020-02-02T05:31:53Z,3,13:16,06:44,Faceoff,n/a,0.0,0.0,Derek Ryan,Winner,Calgary Flames,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:33:19Z,3,14:19,05:41,Faceoff,n/a,69.0,22.0,Mikael Backlund,Winner,Calgary Flames,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:33:55Z,3,14:34,05:26,Penalty,Too many men on the ice,15.0,41.0,Matthew Tkachuk,PenaltyOn,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:36:10Z,3,14:34,05:26,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Sam Gagner,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:36:32Z,3,14:53,05:07,Blocked Shot,n/a,73.0,0.0,Mark Giordano,Blocker,Calgary Flames,Sam Gagner,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:36:43Z,3,15:04,04:56,Shot,Slap Shot,45.0,-26.0,Darnell Nurse,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:36:47Z,3,15:08,04:52,Hit,n/a,70.0,40.0,Elias Lindholm,Hitter,Calgary Flames,Sam Gagner,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:36:57Z,3,15:16,04:44,Blocked Shot,n/a,72.0,2.0,Mark Giordano,Blocker,Calgary Flames,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:38:10Z,3,16:31,03:29,Giveaway,n/a,-35.0,-8.0,Mark Giordano,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:38:15Z,3,16:36,03:24,Missed Shot,n/a,57.0,-35.0,Patrick Russell,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:38:41Z,3,16:36,03:24,Faceoff,n/a,69.0,-22.0,Mikael Backlund,Winner,Calgary Flames,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:39:06Z,3,16:52,03:08,Shot,Slap Shot,-34.0,32.0,Travis Hamonic,Shooter,Calgary Flames,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:39:48Z,3,16:53,03:07,Faceoff,n/a,-69.0,22.0,Derek Ryan,Winner,Calgary Flames,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:40:09Z,3,17:14,02:46,Missed Shot,n/a,-40.0,-35.0,Oliver Kylington,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:40:46Z,3,17:32,02:28,Faceoff,n/a,-20.0,-22.0,Sean Monahan,Winner,Calgary Flames,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:41:26Z,3,18:02,01:58,Shot,Wrist Shot,68.0,0.0,Gaetan Haas,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:41:38Z,3,18:03,01:57,Penalty,PS - Hooking on breakaway,69.0,-4.0,Matthew Tkachuk,PenaltyOn,Calgary Flames,Gaetan Haas,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:42:53Z,3,18:03,01:57,Penalty,Misconduct,60.0,-1.0,Matthew Tkachuk,PenaltyOn,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:44:03Z,3,18:03,01:57,Goal,Wrist Shot,68.0,-2.0,Gaetan Haas,Scorer,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:44:03Z,3,18:03,01:57,Penalty,Misconduct,86.0,-20.0,Alex Chiasson,PenaltyOn,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:44:28Z,3,18:03,01:57,Faceoff,n/a,0.0,0.0,Mikael Backlund,Winner,Calgary Flames,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:45:02Z,3,18:31,01:29,Missed Shot,n/a,-44.0,-7.0,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:45:22Z,3,18:52,01:08,Hit,n/a,7.0,-39.0,Oliver Kylington,Hitter,Calgary Flames,Patrick Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:45:42Z,3,19:11,00:49,Hit,n/a,-37.0,29.0,Rasmus Andersson,Hitter,Calgary Flames,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:46:23Z,3,19:16,00:44,Penalty,Misconduct,-27.0,39.0,Rasmus Andersson,PenaltyOn,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:46:41Z,3,19:16,00:44,Faceoff,n/a,-69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:46:51Z,3,19:26,00:34,Giveaway,n/a,-29.0,23.0,Sam Bennett,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:46:57Z,3,19:31,00:29,Shot,Wrist Shot,74.0,-36.0,Patrick Russell,Shooter,Edmonton Oilers,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T05:47:24Z,3,19:58,00:02,Shot,Wrist Shot,-67.0,-14.0,Sam Bennett,Shooter,Calgary Flames,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a

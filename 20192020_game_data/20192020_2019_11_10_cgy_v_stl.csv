@@ -1,0 +1,255 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-10T03:15:39Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Ryan,Winner,Calgary Flames,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:16:31Z,1,00:05,19:55,Shot,Wrist Shot,28.0,0.0,Ivan Barbashev,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:16:30Z,1,00:14,19:46,Hit,n/a,98.0,3.0,Ivan Barbashev,Hitter,St. Louis Blues,Rasmus Andersson,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:17:11Z,1,00:19,19:41,Shot,Backhand,83.0,-13.0,Mackenzie MacEachern,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:16:52Z,1,00:20,19:40,Faceoff,n/a,69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:17:19Z,1,00:36,19:24,Shot,Wrist Shot,-73.0,14.0,Elias Lindholm,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:17:30Z,1,00:47,19:13,Hit,n/a,73.0,-37.0,Travis Hamonic,Hitter,Calgary Flames,Ryan O'Reilly,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:17:50Z,1,01:07,18:53,Hit,n/a,72.0,-40.0,Michael Stone,Hitter,Calgary Flames,Brayden Schenn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:17:56Z,1,01:13,18:47,Missed Shot,n/a,-51.0,22.0,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:18:03Z,1,01:20,18:40,Blocked Shot,n/a,-74.0,-4.0,Robert Thomas,Blocker,St. Louis Blues,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:18:20Z,1,01:33,18:27,Giveaway,n/a,72.0,-40.0,Brayden Schenn,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:18:30Z,1,01:47,18:13,Shot,Wrist Shot,-30.0,-3.0,Mikael Backlund,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:18:38Z,1,01:55,18:05,Giveaway,n/a,-63.0,-42.0,Jacob de la Rose,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:19:30Z,1,02:47,17:13,Takeaway,n/a,-4.0,28.0,Oskar Sundqvist,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:19:33Z,1,02:50,17:10,Shot,Wrist Shot,52.0,-5.0,Oskar Sundqvist,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:19:55Z,1,02:50,17:10,Faceoff,n/a,69.0,-22.0,Oskar Sundqvist,Winner,St. Louis Blues,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:20:10Z,1,03:00,17:00,Hit,n/a,50.0,41.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Elias Lindholm,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:20:21Z,1,03:11,16:49,Takeaway,n/a,-6.0,-7.0,Oskar Sundqvist,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:20:24Z,1,03:14,16:46,Blocked Shot,n/a,54.0,-21.0,TJ Brodie,Blocker,Calgary Flames,Oskar Sundqvist,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:20:33Z,1,03:15,16:45,Shot,Wrist Shot,55.0,4.0,Mackenzie MacEachern,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:20:43Z,1,03:17,16:43,Goal,Wrap-around,92.0,-8.0,Ivan Barbashev,Scorer,St. Louis Blues,Oskar Sundqvist,Assist,St. Louis Blues,Mackenzie MacEachern,Assist,St. Louis Blues,David Rittich,Goalie,Calgary Flames
+2019-11-10T03:21:04Z,1,03:17,16:43,Faceoff,n/a,0.0,0.0,Ryan O'Reilly,Winner,St. Louis Blues,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:21:21Z,1,03:25,16:35,Takeaway,n/a,35.0,40.0,Travis Hamonic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:21:36Z,1,03:40,16:20,Shot,Snap Shot,-35.0,-35.0,Mark Giordano,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:21:46Z,1,03:49,16:11,Hit,n/a,88.0,34.0,Zach Sanford,Hitter,St. Louis Blues,Travis Hamonic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:21:56Z,1,03:58,16:02,Penalty,Tripping,97.0,-20.0,Zach Sanford,PenaltyOn,St. Louis Blues,Andrew Mangiapane,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:22:23Z,1,03:58,16:02,Faceoff,n/a,-69.0,-22.0,Tyler Bozak,Winner,St. Louis Blues,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:22:39Z,1,04:11,15:49,Missed Shot,n/a,-38.0,-29.0,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:22:49Z,1,04:21,15:39,Blocked Shot,n/a,-68.0,7.0,Jay Bouwmeester,Blocker,St. Louis Blues,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:23:40Z,1,04:34,15:26,Faceoff,n/a,20.0,-22.0,Mikael Backlund,Winner,Calgary Flames,Oskar Sundqvist,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:23:45Z,1,04:50,15:10,Takeaway,n/a,-79.0,26.0,Carl Gunnarsson,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:24:18Z,1,05:21,14:39,Shot,Snap Shot,-59.0,21.0,Sam Bennett,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:24:28Z,1,05:23,14:37,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:24:58Z,1,05:45,14:15,Giveaway,n/a,-26.0,-24.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:25:09Z,1,05:53,14:07,Shot,Snap Shot,65.0,16.0,Ryan O'Reilly,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:25:32Z,1,05:54,14:06,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:25:51Z,1,06:12,13:48,Hit,n/a,-38.0,40.0,Brayden Schenn,Hitter,St. Louis Blues,Michael Stone,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:26:00Z,1,06:19,13:41,Blocked Shot,n/a,-39.0,20.0,Zach Sanford,Blocker,St. Louis Blues,Derek Ryan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:26:17Z,1,06:39,13:21,Shot,Wrist Shot,-58.0,19.0,Tobias Rieder,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:26:35Z,1,06:57,13:03,Shot,Slap Shot,49.0,-14.0,David Perron,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:26:37Z,1,07:00,13:00,Giveaway,n/a,85.0,-22.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:26:45Z,1,07:07,12:53,Shot,Slap Shot,34.0,27.0,Colton Parayko,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:26:51Z,1,07:13,12:47,Takeaway,n/a,56.0,40.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:27:08Z,1,07:31,12:29,Missed Shot,n/a,70.0,11.0,Ryan O'Reilly,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:27:24Z,1,07:45,12:15,Hit,n/a,-20.0,-41.0,Jacob de la Rose,Hitter,St. Louis Blues,Mark Giordano,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:27:31Z,1,07:53,12:07,Shot,Wrist Shot,51.0,-3.0,Sammy Blais,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:27:34Z,1,07:57,12:03,Hit,n/a,96.0,21.0,Sammy Blais,Hitter,St. Louis Blues,Michael Stone,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:27:57Z,1,08:20,11:40,Shot,Wrist Shot,-68.0,-16.0,Milan Lucic,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:28:14Z,1,08:37,11:23,Giveaway,n/a,51.0,37.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:28:36Z,1,08:58,11:02,Shot,Wrist Shot,43.0,1.0,Ivan Barbashev,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:28:36Z,1,08:59,11:01,Hit,n/a,97.0,-6.0,Ivan Barbashev,Hitter,St. Louis Blues,TJ Brodie,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:28:45Z,1,09:04,10:56,Hit,n/a,62.0,38.0,Ivan Barbashev,Hitter,St. Louis Blues,Michael Stone,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:28:48Z,1,09:11,10:49,Blocked Shot,n/a,-61.0,4.0,Colton Parayko,Blocker,St. Louis Blues,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:28:56Z,1,09:19,10:41,Shot,Wrist Shot,-6.0,-31.0,Alex Pietrangelo,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:29:07Z,1,09:30,10:30,Shot,Wrist Shot,-72.0,-3.0,Sean Monahan,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:30:56Z,1,09:30,10:30,Faceoff,n/a,-69.0,-22.0,Mikael Backlund,Winner,Calgary Flames,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:31:56Z,1,09:42,10:18,Penalty,Boarding,94.0,28.0,Brayden Schenn,PenaltyOn,St. Louis Blues,Matthew Tkachuk,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:32:34Z,1,09:42,10:18,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:32:40Z,1,09:50,10:10,Giveaway,n/a,-55.0,-40.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:33:31Z,1,10:41,09:19,Shot,Tip-In,-80.0,5.0,Matthew Tkachuk,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:34:04Z,1,11:14,08:46,Giveaway,n/a,-50.0,-40.0,Milan Lucic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:34:12Z,1,11:20,08:40,Giveaway,n/a,-29.0,-42.0,Milan Lucic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:34:21Z,1,11:28,08:32,Penalty,Hooking,-41.0,22.0,Sam Bennett,PenaltyOn,Calgary Flames,Jacob de la Rose,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:34:46Z,1,11:28,08:32,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:36:30Z,1,12:54,07:06,Faceoff,n/a,0.0,0.0,Derek Ryan,Winner,Calgary Flames,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:37:20Z,1,13:05,06:55,Faceoff,n/a,20.0,-22.0,Mark Jankowski,Winner,Calgary Flames,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:37:30Z,1,13:11,06:49,Shot,Wrist Shot,73.0,-29.0,TJ Brodie,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:37:57Z,1,13:12,06:48,Faceoff,n/a,69.0,-22.0,Mark Jankowski,Winner,Calgary Flames,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:38:26Z,1,13:36,06:24,Takeaway,n/a,56.0,-38.0,Sam Bennett,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:38:33Z,1,13:43,06:17,Takeaway,n/a,-35.0,33.0,Robert Thomas,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:38:36Z,1,13:47,06:13,Missed Shot,n/a,57.0,-14.0,Robert Thomas,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:39:33Z,1,14:40,05:20,Giveaway,n/a,-96.0,-3.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:39:44Z,1,14:55,05:05,Blocked Shot,n/a,54.0,0.0,Rasmus Andersson,Blocker,Calgary Flames,Brayden Schenn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:39:52Z,1,14:59,05:01,Takeaway,n/a,54.0,40.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:40:11Z,1,15:22,04:38,Hit,n/a,98.0,-13.0,Travis Hamonic,Hitter,Calgary Flames,David Perron,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:40:17Z,1,15:28,04:32,Hit,n/a,-29.0,39.0,Vince Dunn,Hitter,St. Louis Blues,Sam Bennett,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:40:34Z,1,15:45,04:15,Hit,n/a,-94.0,28.0,Sam Bennett,Hitter,Calgary Flames,Vince Dunn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:40:47Z,1,15:58,04:02,Giveaway,n/a,45.0,-37.0,Mark Jankowski,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:41:18Z,1,16:23,03:37,Hit,n/a,-23.0,-40.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Travis Hamonic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:41:44Z,1,16:55,03:05,Hit,n/a,35.0,-40.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Noah Hanifin,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:42:10Z,1,17:21,02:39,Giveaway,n/a,87.0,-36.0,Michael Stone,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:44:44Z,1,17:39,02:21,Faceoff,n/a,-69.0,22.0,Sean Monahan,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:44:58Z,1,17:44,02:16,Shot,Wrist Shot,-65.0,-36.0,Mark Giordano,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:45:06Z,1,17:44,02:16,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:45:28Z,1,17:52,02:08,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:45:49Z,1,18:03,01:57,Hit,n/a,89.0,35.0,Travis Hamonic,Hitter,Calgary Flames,Zach Sanford,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:45:52Z,1,18:06,01:54,Shot,Wrist Shot,62.0,18.0,Ryan O'Reilly,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:46:17Z,1,18:31,01:29,Takeaway,n/a,-19.0,-7.0,Ryan O'Reilly,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:46:52Z,1,19:04,00:56,Missed Shot,n/a,58.0,1.0,Robert Thomas,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:47:04Z,1,19:17,00:43,Giveaway,n/a,-81.0,31.0,Colton Parayko,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:47:09Z,1,19:21,00:39,Missed Shot,n/a,-54.0,-3.0,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:47:16Z,1,19:22,00:38,Blocked Shot,n/a,-78.0,7.0,Colton Parayko,Blocker,St. Louis Blues,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:49:19Z,1,19:22,00:38,Faceoff,n/a,-69.0,22.0,Ivan Barbashev,Winner,St. Louis Blues,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:50:19Z,1,19:45,00:15,Faceoff,n/a,20.0,-22.0,Mark Jankowski,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T03:50:35Z,1,19:58,00:02,Hit,n/a,-43.0,40.0,Milan Lucic,Hitter,Calgary Flames,Zach Sanford,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:09:06Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Oskar Sundqvist,Winner,St. Louis Blues,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:09:29Z,2,00:11,19:49,Hit,n/a,-41.0,41.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Mark Jankowski,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:09:26Z,2,00:15,19:45,Shot,Slap Shot,52.0,-25.0,Noah Hanifin,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:10:01Z,2,00:49,19:11,Missed Shot,n/a,77.0,-4.0,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:10:41Z,2,01:29,18:31,Takeaway,n/a,14.0,-40.0,Jay Bouwmeester,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:10:47Z,2,01:36,18:24,Shot,Wrist Shot,-77.0,-7.0,Brayden Schenn,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:11:01Z,2,01:49,18:11,Shot,Slap Shot,49.0,36.0,Sean Monahan,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:11:25Z,2,01:51,18:09,Faceoff,n/a,69.0,22.0,Mikael Backlund,Winner,Calgary Flames,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:11:48Z,2,01:59,18:01,Shot,Slap Shot,29.0,-2.0,Matthew Tkachuk,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:12:00Z,2,02:04,17:56,Faceoff,n/a,20.0,22.0,Tyler Bozak,Winner,St. Louis Blues,Sam Bennett,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:12:23Z,2,02:22,17:38,Hit,n/a,96.0,-21.0,Sam Bennett,Hitter,Calgary Flames,Vince Dunn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:12:39Z,2,02:38,17:22,Blocked Shot,n/a,-67.0,33.0,Alan Quine,Blocker,Calgary Flames,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:13:07Z,2,02:48,17:12,Faceoff,n/a,-20.0,-22.0,Mark Jankowski,Winner,Calgary Flames,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:13:39Z,2,03:15,16:45,Shot,Tip-In,-66.0,1.0,Oskar Sundqvist,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:13:45Z,2,03:19,16:41,Shot,Slap Shot,-40.0,-38.0,Alex Pietrangelo,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:14:02Z,2,03:20,16:40,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:14:44Z,2,03:46,16:14,Giveaway,n/a,-38.0,-2.0,Justin Faulk,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:14:51Z,2,03:53,16:07,Blocked Shot,n/a,54.0,1.0,Zach Sanford,Blocker,St. Louis Blues,Sean Monahan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:15:28Z,2,04:30,15:30,Giveaway,n/a,-98.0,5.0,David Rittich,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:15:37Z,2,04:39,15:21,Takeaway,n/a,-22.0,41.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:15:46Z,2,04:48,15:12,Missed Shot,n/a,56.0,-2.0,Michael Stone,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:15:56Z,2,04:56,15:04,Blocked Shot,n/a,-67.0,-2.0,Michael Stone,Blocker,Calgary Flames,Carl Gunnarsson,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:16:22Z,2,04:56,15:04,Faceoff,n/a,-69.0,-22.0,Brayden Schenn,Winner,St. Louis Blues,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:16:34Z,2,05:02,14:58,Hit,n/a,-86.0,-36.0,Noah Hanifin,Hitter,Calgary Flames,Robert Thomas,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:16:48Z,2,05:16,14:44,Blocked Shot,n/a,48.0,-27.0,Colton Parayko,Blocker,St. Louis Blues,Rasmus Andersson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:16:56Z,2,05:24,14:36,Shot,Wrist Shot,-76.0,-17.0,Robert Thomas,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:17:01Z,2,05:29,14:31,Giveaway,n/a,-70.0,-4.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:17:20Z,2,05:48,14:12,Shot,Wrist Shot,57.0,-6.0,Milan Lucic,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:17:36Z,2,06:04,13:56,Hit,n/a,-58.0,-42.0,Jacob de la Rose,Hitter,St. Louis Blues,Travis Hamonic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:21:09Z,2,07:15,12:45,Faceoff,n/a,20.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:21:32Z,2,07:27,12:33,Missed Shot,n/a,-44.0,26.0,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:22:07Z,2,07:46,12:14,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:23:00Z,2,08:21,11:39,Giveaway,n/a,36.0,7.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:23:15Z,2,08:34,11:26,Giveaway,n/a,-71.0,-41.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:23:22Z,2,08:44,11:16,Missed Shot,n/a,-67.0,14.0,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:23:25Z,2,08:47,11:13,Hit,n/a,-73.0,-41.0,Elias Lindholm,Hitter,Calgary Flames,Jay Bouwmeester,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:23:55Z,2,09:17,10:43,Shot,Wrist Shot,-60.0,19.0,Justin Faulk,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:24:48Z,2,09:25,10:35,Faceoff,n/a,-69.0,22.0,Tyler Bozak,Winner,St. Louis Blues,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:25:44Z,2,09:54,10:06,Penalty,Delaying Game - Puck over glass,-45.0,11.0,Mark Jankowski,PenaltyOn,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:26:05Z,2,09:54,10:06,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:26:20Z,2,10:13,09:47,Shot,Tip-In,-68.0,-1.0,Ryan O'Reilly,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:26:36Z,2,10:14,09:46,Faceoff,n/a,-69.0,22.0,Mikael Backlund,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:26:56Z,2,10:23,09:37,Shot,Slap Shot,-96.0,-14.0,Travis Hamonic,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:27:24Z,2,10:52,09:08,Missed Shot,n/a,-54.0,-14.0,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:27:26Z,2,10:55,09:05,Giveaway,n/a,-59.0,-40.0,Elias Lindholm,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:27:29Z,2,10:56,09:04,Shot,Wrist Shot,-71.0,20.0,Brayden Schenn,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:27:41Z,2,10:57,09:03,Faceoff,n/a,-69.0,22.0,Derek Ryan,Winner,Calgary Flames,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:27:59Z,2,11:04,08:56,Hit,n/a,-54.0,40.0,Noah Hanifin,Hitter,Calgary Flames,Robert Thomas,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:28:45Z,2,11:50,08:10,Takeaway,n/a,-58.0,5.0,Mark Giordano,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:28:51Z,2,11:56,08:04,Shot,Wrist Shot,78.0,-19.0,Mikael Backlund,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:31:11Z,2,11:57,08:03,Faceoff,n/a,69.0,-22.0,Ivan Barbashev,Winner,St. Louis Blues,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:31:36Z,2,12:12,07:48,Hit,n/a,59.0,41.0,Matthew Tkachuk,Hitter,Calgary Flames,Justin Faulk,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:31:45Z,2,12:25,07:35,Hit,n/a,-94.0,16.0,TJ Brodie,Hitter,Calgary Flames,Mackenzie MacEachern,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:32:05Z,2,12:45,07:15,Shot,Deflected,78.0,0.0,Matthew Tkachuk,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:32:11Z,2,12:49,07:11,Penalty,Hi-sticking,-9.0,-3.0,Mark Giordano,PenaltyOn,Calgary Flames,Ivan Barbashev,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:32:58Z,2,12:49,07:11,Faceoff,n/a,-69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:33:04Z,2,12:54,07:06,Faceoff,n/a,-20.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:33:45Z,2,13:06,06:54,Goal,Snap Shot,-61.0,-4.0,Ryan O'Reilly,Scorer,St. Louis Blues,David Perron,Assist,St. Louis Blues,Alex Pietrangelo,Assist,St. Louis Blues,David Rittich,Goalie,Calgary Flames
+2019-11-10T04:34:24Z,2,13:06,06:54,Faceoff,n/a,0.0,0.0,Tyler Bozak,Winner,St. Louis Blues,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:34:37Z,2,13:27,06:33,Takeaway,n/a,-53.0,-38.0,Sammy Blais,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:34:59Z,2,13:50,06:10,Hit,n/a,65.0,-41.0,Milan Lucic,Hitter,Calgary Flames,Colton Parayko,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:35:25Z,2,14:15,05:45,Blocked Shot,n/a,-70.0,-8.0,Mark Giordano,Blocker,Calgary Flames,Zach Sanford,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:35:35Z,2,14:26,05:34,Shot,Wrist Shot,-62.0,22.0,Alex Pietrangelo,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:35:41Z,2,14:32,05:28,Giveaway,n/a,51.0,13.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:38:07Z,2,14:46,05:14,Faceoff,n/a,-20.0,-22.0,Derek Ryan,Winner,Calgary Flames,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:38:26Z,2,14:53,05:07,Faceoff,n/a,20.0,22.0,Sam Bennett,Winner,Calgary Flames,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:38:45Z,2,14:58,05:02,Shot,Slap Shot,15.0,-23.0,Michael Stone,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:38:53Z,2,14:59,05:01,Faceoff,n/a,69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:39:14Z,2,15:04,04:56,Blocked Shot,n/a,46.0,-20.0,Jaden Schwartz,Blocker,St. Louis Blues,Michael Stone,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:39:55Z,2,15:45,04:15,Hit,n/a,-98.0,-18.0,Michael Stone,Hitter,Calgary Flames,Robert Thomas,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:40:14Z,2,16:04,03:56,Giveaway,n/a,-14.0,-39.0,Derek Ryan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:40:23Z,2,16:12,03:48,Hit,n/a,95.0,-19.0,Milan Lucic,Hitter,Calgary Flames,Colton Parayko,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:40:27Z,2,16:13,03:47,Hit,n/a,98.0,-21.0,Alex Pietrangelo,Hitter,St. Louis Blues,Milan Lucic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:40:44Z,2,16:34,03:26,Hit,n/a,83.0,-35.0,Ivan Barbashev,Hitter,St. Louis Blues,Mark Jankowski,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:40:49Z,2,16:35,03:25,Shot,Wrist Shot,71.0,-25.0,Tobias Rieder,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:42:15Z,2,18:05,01:55,Shot,Wrist Shot,84.0,19.0,Johnny Gaudreau,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:42:47Z,2,18:09,01:51,Faceoff,n/a,69.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:43:15Z,2,18:20,01:40,Hit,n/a,73.0,-39.0,Justin Faulk,Hitter,St. Louis Blues,Mikael Backlund,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:43:22Z,2,18:27,01:33,Shot,Wrist Shot,-82.0,-27.0,Jaden Schwartz,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:43:31Z,2,18:35,01:25,Blocked Shot,n/a,65.0,-17.0,Justin Faulk,Blocker,St. Louis Blues,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:43:48Z,2,18:36,01:24,Faceoff,n/a,69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:44:29Z,2,19:04,00:56,Giveaway,n/a,-70.0,-33.0,Sam Bennett,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:44:34Z,2,19:13,00:47,Blocked Shot,n/a,-79.0,-9.0,Rasmus Andersson,Blocker,Calgary Flames,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T04:45:11Z,2,19:41,00:19,Faceoff,n/a,20.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:04:15Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Ivan Barbashev,Winner,St. Louis Blues,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:04:44Z,3,00:25,19:35,Shot,Snap Shot,75.0,-6.0,Oskar Sundqvist,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:04:56Z,3,00:26,19:34,Faceoff,n/a,69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:05:20Z,3,00:34,19:26,Missed Shot,n/a,33.0,-10.0,Justin Faulk,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:07:08Z,3,02:23,17:37,Shot,Wrist Shot,-30.0,5.0,Mikael Backlund,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:07:40Z,3,02:55,17:05,Shot,Snap Shot,-67.0,-39.0,Noah Hanifin,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:08:03Z,3,02:55,17:05,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:08:12Z,3,03:01,16:59,Hit,n/a,-98.0,16.0,Elias Lindholm,Hitter,Calgary Flames,Jay Bouwmeester,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:08:18Z,3,03:06,16:54,Shot,Slap Shot,-97.0,14.0,Jay Bouwmeester,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:09:00Z,3,03:21,16:39,Faceoff,n/a,-69.0,-22.0,Sam Bennett,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:09:47Z,3,03:49,16:11,Faceoff,n/a,69.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:10:10Z,3,04:01,15:59,Hit,n/a,-44.0,-38.0,Matthew Tkachuk,Hitter,Calgary Flames,Vince Dunn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:10:42Z,3,04:33,15:27,Takeaway,n/a,7.0,36.0,Tyler Bozak,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:10:45Z,3,04:34,15:26,Shot,Wrist Shot,59.0,-2.0,Mark Giordano,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:11:32Z,3,05:02,14:58,Faceoff,n/a,-20.0,-22.0,Sam Bennett,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:11:55Z,3,05:19,14:41,Giveaway,n/a,51.0,19.0,Rasmus Andersson,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:11:59Z,3,05:23,14:37,Blocked Shot,n/a,58.0,8.0,Rasmus Andersson,Blocker,Calgary Flames,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:12:11Z,3,05:25,14:35,Shot,Wrist Shot,37.0,-28.0,Justin Faulk,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:12:30Z,3,05:46,14:14,Faceoff,n/a,69.0,22.0,Robert Thomas,Winner,St. Louis Blues,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:13:01Z,3,05:53,14:07,Hit,n/a,28.0,41.0,Sam Bennett,Hitter,Calgary Flames,Brayden Schenn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:15:27Z,3,06:06,13:54,Faceoff,n/a,69.0,-22.0,Robert Thomas,Winner,St. Louis Blues,Andrew Mangiapane,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:16:04Z,3,06:25,13:35,Giveaway,n/a,-53.0,-34.0,Alex Pietrangelo,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:16:03Z,3,06:30,13:30,Missed Shot,n/a,-74.0,-7.0,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:16:19Z,3,06:47,13:13,Missed Shot,n/a,-47.0,-36.0,TJ Brodie,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:16:30Z,3,06:58,13:02,Blocked Shot,n/a,-73.0,16.0,Colton Parayko,Blocker,St. Louis Blues,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:16:35Z,3,07:03,12:57,Giveaway,n/a,-98.0,-17.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:17:40Z,3,08:07,11:53,Giveaway,n/a,93.0,30.0,Travis Hamonic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:17:43Z,3,08:11,11:49,Missed Shot,n/a,36.0,-19.0,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:17:58Z,3,08:25,11:35,Missed Shot,n/a,-52.0,-33.0,Tobias Rieder,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:18:07Z,3,08:34,11:26,Hit,n/a,-98.0,6.0,Carl Gunnarsson,Hitter,St. Louis Blues,Derek Ryan,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:19:08Z,3,09:34,10:26,Giveaway,n/a,-95.0,7.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:19:45Z,3,10:13,09:47,Hit,n/a,97.0,-13.0,Brayden Schenn,Hitter,St. Louis Blues,TJ Brodie,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:20:13Z,3,10:39,09:21,Shot,Snap Shot,51.0,-23.0,Ryan O'Reilly,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:22:24Z,3,10:40,09:20,Faceoff,n/a,69.0,-22.0,Mikael Backlund,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:22:57Z,3,10:46,09:14,Faceoff,n/a,69.0,22.0,Mikael Backlund,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:23:26Z,3,10:59,09:01,Goal,Wrist Shot,-67.0,-3.0,Matthew Tkachuk,Scorer,Calgary Flames,Andrew Mangiapane,Assist,Calgary Flames,Mikael Backlund,Assist,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues
+2019-11-10T05:24:02Z,3,10:59,09:01,Faceoff,n/a,0.0,0.0,Brayden Schenn,Winner,St. Louis Blues,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:24:34Z,3,11:18,08:42,Hit,n/a,70.0,-40.0,Michael Stone,Hitter,Calgary Flames,Jaden Schwartz,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:25:06Z,3,11:43,08:17,Faceoff,n/a,-69.0,-22.0,Sam Bennett,Winner,Calgary Flames,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:25:49Z,3,11:54,08:06,Takeaway,n/a,55.0,18.0,Derek Ryan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:26:58Z,3,13:03,06:57,Shot,Wrist Shot,-55.0,-2.0,Travis Hamonic,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:27:04Z,3,13:04,06:56,Missed Shot,n/a,-74.0,-6.0,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:27:37Z,3,13:41,06:19,Blocked Shot,n/a,59.0,3.0,Mark Giordano,Blocker,Calgary Flames,Zach Sanford,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:28:03Z,3,14:08,05:52,Giveaway,n/a,35.0,-31.0,Michael Stone,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:28:38Z,3,14:22,05:38,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:28:47Z,3,14:30,05:30,Giveaway,n/a,56.0,-33.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:29:24Z,3,14:59,05:01,Faceoff,n/a,-69.0,22.0,Ivan Barbashev,Winner,St. Louis Blues,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:30:11Z,3,15:28,04:32,Missed Shot,n/a,35.0,17.0,Oskar Sundqvist,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:30:15Z,3,15:32,04:28,Hit,n/a,42.0,39.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Sam Bennett,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:31:02Z,3,15:39,04:21,Penalty,Roughing,-12.0,41.0,Oskar Sundqvist,PenaltyOn,St. Louis Blues,Sam Bennett,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:31:18Z,3,15:39,04:21,Penalty,Charging,6.0,37.0,Sam Bennett,PenaltyOn,Calgary Flames,Mackenzie MacEachern,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:33:08Z,3,15:39,04:21,Faceoff,n/a,-20.0,22.0,Elias Lindholm,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:34:24Z,3,16:03,03:57,Giveaway,n/a,-87.0,3.0,Jordan Binnington,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:33:52Z,3,16:04,03:56,Goal,Backhand,-73.0,0.0,Travis Hamonic,Scorer,Calgary Flames,Mark Giordano,Assist,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a
+2019-11-10T05:34:34Z,3,16:04,03:56,Faceoff,n/a,0.0,0.0,Brayden Schenn,Winner,St. Louis Blues,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:35:04Z,3,16:27,03:33,Blocked Shot,n/a,-75.0,9.0,Jay Bouwmeester,Blocker,St. Louis Blues,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:35:29Z,3,16:29,03:31,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:35:57Z,3,16:44,03:16,Faceoff,n/a,69.0,-22.0,Robert Thomas,Winner,St. Louis Blues,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:36:59Z,3,17:12,02:48,Shot,Wrist Shot,-62.0,11.0,Elias Lindholm,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:37:25Z,3,17:12,02:48,Faceoff,n/a,-69.0,22.0,Sean Monahan,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:37:30Z,3,17:19,02:41,Blocked Shot,n/a,-34.0,-4.0,Jay Bouwmeester,Blocker,St. Louis Blues,Rasmus Andersson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:37:48Z,3,17:37,02:23,Takeaway,n/a,48.0,40.0,TJ Brodie,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:39:09Z,3,18:34,01:26,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:43:00Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Elias Lindholm,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:43:53Z,4,00:41,04:19,Shot,Tip-In,71.0,2.0,Elias Lindholm,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:44:11Z,4,00:42,04:18,Shot,Wrist Shot,78.0,0.0,Elias Lindholm,Shooter,Calgary Flames,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:44:18Z,4,00:43,04:17,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:44:35Z,4,00:54,04:06,Giveaway,n/a,37.0,0.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:45:11Z,4,01:31,03:29,Takeaway,n/a,35.0,8.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:46:00Z,4,01:47,03:13,Penalty,Holding,-48.0,-7.0,TJ Brodie,PenaltyOn,Calgary Flames,Jaden Schwartz,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:46:39Z,4,01:47,03:13,Faceoff,n/a,-69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:46:51Z,4,01:52,03:08,Giveaway,n/a,-71.0,-33.0,Travis Hamonic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:47:02Z,4,02:04,02:56,Missed Shot,n/a,-57.0,6.0,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:47:10Z,4,02:11,02:49,Shot,Backhand,-79.0,0.0,Brayden Schenn,Shooter,St. Louis Blues,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T05:49:25Z,4,02:46,02:14,Goal,Wrist Shot,-55.0,-9.0,David Perron,Scorer,St. Louis Blues,Ryan O'Reilly,Assist,St. Louis Blues,Alex Pietrangelo,Assist,St. Louis Blues,David Rittich,Goalie,Calgary Flames

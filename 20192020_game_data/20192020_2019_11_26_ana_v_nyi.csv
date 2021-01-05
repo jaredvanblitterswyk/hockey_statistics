@@ -1,0 +1,259 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-26T03:10:27Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:10:57Z,1,00:12,19:48,Faceoff,n/a,69.0,22.0,Derek Grant,Winner,Anaheim Ducks,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:11:21Z,1,00:18,19:42,Missed Shot,n/a,77.0,28.0,Hampus Lindholm,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:11:24Z,1,00:21,19:39,Hit,n/a,68.0,-33.0,Carter Rowney,Hitter,Anaheim Ducks,Matt Martin,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:11:33Z,1,00:30,19:30,Hit,n/a,52.0,41.0,Cal Clutterbuck,Hitter,New York Islanders,Hampus Lindholm,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:11:43Z,1,00:39,19:21,Hit,n/a,43.0,40.0,Matt Martin,Hitter,New York Islanders,Nicolas Deslauriers,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:11:44Z,1,00:41,19:19,Hit,n/a,97.0,-11.0,Nicolas Deslauriers,Hitter,Anaheim Ducks,Johnny Boychuk,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:11:47Z,1,00:43,19:17,Hit,n/a,79.0,39.0,Carter Rowney,Hitter,Anaheim Ducks,Matt Martin,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:12:00Z,1,00:56,19:04,Takeaway,n/a,-51.0,-30.0,Jakob Silfverberg,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:12:13Z,1,01:10,18:50,Shot,Slap Shot,-39.0,29.0,Ryan Pulock,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:12:17Z,1,01:11,18:49,Shot,Snap Shot,-54.0,-33.0,Adam Pelech,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:13:31Z,1,01:12,18:48,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:13:42Z,1,01:17,18:43,Blocked Shot,n/a,-61.0,15.0,Ryan Getzlaf,Blocker,Anaheim Ducks,Anthony Beauvillier,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:14:01Z,1,01:18,18:42,Faceoff,n/a,-69.0,22.0,Mathew Barzal,Winner,New York Islanders,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:14:16Z,1,01:22,18:38,Shot,Wrist Shot,-46.0,21.0,Ryan Pulock,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:14:26Z,1,01:23,18:37,Faceoff,n/a,-69.0,22.0,Adam Henrique,Winner,Anaheim Ducks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:14:45Z,1,01:36,18:24,Hit,n/a,-82.0,-37.0,Anders Lee,Hitter,New York Islanders,Cam Fowler,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:14:47Z,1,01:38,18:22,Shot,Wrist Shot,-84.0,-14.0,Anders Lee,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:15:20Z,1,01:39,18:21,Faceoff,n/a,-69.0,-22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:16:03Z,1,02:16,17:44,Giveaway,n/a,-47.0,-6.0,Josh Bailey,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:16:12Z,1,02:26,17:34,Blocked Shot,n/a,65.0,4.0,Nick Leddy,Blocker,New York Islanders,Ryan Getzlaf,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:16:21Z,1,02:34,17:26,Giveaway,n/a,-37.0,-20.0,Derick Brassard,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:16:29Z,1,02:42,17:18,Missed Shot,n/a,44.0,-25.0,Ondrej Kase,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:16:56Z,1,02:43,17:17,Faceoff,n/a,69.0,-22.0,Casey Cizikas,Winner,New York Islanders,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:17:03Z,1,02:48,17:12,Hit,n/a,98.0,23.0,Nick Ritchie,Hitter,Anaheim Ducks,Johnny Boychuk,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:17:20Z,1,03:06,16:54,Shot,Wrist Shot,-48.0,-19.0,Matt Martin,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:17:26Z,1,03:11,16:49,Hit,n/a,-65.0,41.0,Matt Martin,Hitter,New York Islanders,Jacob Larsson,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:17:40Z,1,03:14,16:46,Shot,Tip-In,-77.0,-3.0,Casey Cizikas,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:17:45Z,1,03:31,16:29,Shot,Wrist Shot,-77.0,9.0,Jordan Eberle,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:18:39Z,1,03:53,16:07,Faceoff,n/a,69.0,22.0,Adam Henrique,Winner,Anaheim Ducks,Derick Brassard,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:19:14Z,1,04:04,15:56,Giveaway,n/a,93.0,-23.0,Ryan Pulock,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:19:24Z,1,04:13,15:47,Hit,n/a,94.0,25.0,Max Jones,Hitter,Anaheim Ducks,Adam Pelech,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:19:32Z,1,04:22,15:38,Shot,Wrist Shot,83.0,10.0,Jakob Silfverberg,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:19:37Z,1,04:26,15:34,Shot,Wrap-around,82.0,-8.0,Max Jones,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:20:01Z,1,04:50,15:10,Hit,n/a,91.0,29.0,Scott Mayfield,Hitter,New York Islanders,Troy Terry,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:20:25Z,1,05:15,14:45,Hit,n/a,-36.0,-39.0,Korbinian Holzer,Hitter,Anaheim Ducks,Anders Lee,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:20:31Z,1,05:20,14:40,Blocked Shot,n/a,-68.0,-3.0,Ryan Getzlaf,Blocker,Anaheim Ducks,Anders Lee,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:21:05Z,1,05:54,14:06,Blocked Shot,n/a,64.0,-2.0,Josh Bailey,Blocker,New York Islanders,Jacob Larsson,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:21:10Z,1,06:00,14:00,Shot,Snap Shot,44.0,27.0,Hampus Lindholm,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:21:46Z,1,06:36,13:24,Hit,n/a,88.0,-34.0,Nicolas Deslauriers,Hitter,Anaheim Ducks,Ryan Pulock,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:21:57Z,1,06:47,13:13,Shot,Slap Shot,-40.0,32.0,Ryan Pulock,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:22:16Z,1,07:05,12:55,Hit,n/a,-52.0,-41.0,Carter Rowney,Hitter,Anaheim Ducks,Adam Pelech,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:22:19Z,1,07:08,12:52,Takeaway,n/a,-65.0,-4.0,Anthony Beauvillier,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:22:30Z,1,07:19,12:41,Hit,n/a,-92.0,24.0,Casey Cizikas,Hitter,New York Islanders,Cam Fowler,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:22:41Z,1,07:30,12:30,Hit,n/a,80.0,38.0,Cal Clutterbuck,Hitter,New York Islanders,Max Jones,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:22:48Z,1,07:37,12:23,Missed Shot,n/a,50.0,24.0,Hampus Lindholm,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:23:21Z,1,08:10,11:50,Missed Shot,n/a,-82.0,-16.0,Jordan Eberle,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:23:35Z,1,08:25,11:35,Blocked Shot,n/a,53.0,6.0,Jordan Eberle,Blocker,New York Islanders,Cam Fowler,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:23:40Z,1,08:29,11:31,Hit,n/a,-71.0,-40.0,Erik Gudbranson,Hitter,Anaheim Ducks,Jordan Eberle,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:23:46Z,1,08:36,11:24,Hit,n/a,-80.0,-38.0,Ryan Getzlaf,Hitter,Anaheim Ducks,Mathew Barzal,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:24:12Z,1,08:59,11:01,Shot,Wrist Shot,39.0,2.0,Brendan Guhle,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:26:10Z,1,09:00,11:00,Faceoff,n/a,69.0,22.0,Casey Cizikas,Winner,New York Islanders,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:26:33Z,1,09:12,10:48,Takeaway,n/a,46.0,27.0,Sam Steel,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:26:49Z,1,09:29,10:31,Blocked Shot,n/a,54.0,29.0,Casey Cizikas,Blocker,New York Islanders,Brendan Guhle,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:27:09Z,1,09:38,10:22,Penalty,Holding,-79.0,-11.0,Nick Ritchie,PenaltyOn,Anaheim Ducks,Cal Clutterbuck,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:27:53Z,1,09:38,10:22,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:28:08Z,1,09:48,10:12,Blocked Shot,n/a,-71.0,18.0,Hampus Lindholm,Blocker,Anaheim Ducks,Derick Brassard,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:28:13Z,1,09:53,10:07,Hit,n/a,-56.0,39.0,Carter Rowney,Hitter,Anaheim Ducks,Derick Brassard,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:28:24Z,1,10:04,09:56,Shot,Slap Shot,-52.0,23.0,Derick Brassard,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:28:43Z,1,10:22,09:38,Blocked Shot,n/a,-61.0,5.0,Carter Rowney,Blocker,Anaheim Ducks,Ryan Pulock,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:29:01Z,1,10:41,09:19,Giveaway,n/a,-39.0,1.0,Jordan Eberle,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:29:10Z,1,10:49,09:11,Takeaway,n/a,41.0,36.0,Jakob Silfverberg,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:29:49Z,1,11:29,08:31,Shot,Snap Shot,-84.0,13.0,Anders Lee,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:30:00Z,1,11:40,08:20,Missed Shot,n/a,-70.0,2.0,Cal Clutterbuck,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:30:07Z,1,11:47,08:13,Shot,Wrist Shot,-42.0,34.0,Adam Pelech,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:30:29Z,1,12:08,07:52,Takeaway,n/a,-76.0,-18.0,Casey Cizikas,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:32:52Z,1,12:11,07:49,Faceoff,n/a,0.0,0.0,Ryan Getzlaf,Winner,Anaheim Ducks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:33:31Z,1,12:27,07:33,Takeaway,n/a,52.0,41.0,Ryan Getzlaf,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:34:12Z,1,13:08,06:52,Takeaway,n/a,-42.0,37.0,Ondrej Kase,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:35:00Z,1,13:32,06:28,Faceoff,n/a,-69.0,-22.0,Sam Steel,Winner,Anaheim Ducks,Michael Dal Colle,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:35:39Z,1,13:58,06:02,Missed Shot,n/a,-46.0,28.0,Scott Mayfield,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:35:45Z,1,14:03,05:57,Hit,n/a,-37.0,-36.0,Ross Johnston,Hitter,New York Islanders,Adam Henrique,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:36:03Z,1,14:03,05:57,Faceoff,n/a,-69.0,-22.0,Anders Lee,Winner,New York Islanders,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:34:08Z,1,14:04,05:56,Giveaway,n/a,-15.0,-30.0,Adam Henrique,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:36:23Z,1,14:12,05:48,Blocked Shot,n/a,-60.0,21.0,Max Jones,Blocker,Anaheim Ducks,Ryan Pulock,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:36:35Z,1,14:25,05:35,Missed Shot,n/a,-38.0,31.0,Ryan Pulock,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:36:44Z,1,14:33,05:27,Shot,Wrist Shot,-84.0,8.0,Anders Lee,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:39:00Z,1,14:34,05:26,Faceoff,n/a,-69.0,22.0,Derek Grant,Winner,Anaheim Ducks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:39:07Z,1,14:43,05:17,Shot,Slap Shot,-41.0,-32.0,Brock Nelson,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:39:16Z,1,14:52,05:08,Hit,n/a,-39.0,38.0,Carter Rowney,Hitter,Anaheim Ducks,Derick Brassard,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:39:47Z,1,15:23,04:37,Hit,n/a,-18.0,39.0,Matt Martin,Hitter,New York Islanders,Carter Rowney,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:39:54Z,1,15:25,04:35,Hit,n/a,7.0,-18.0,Cal Clutterbuck,Hitter,New York Islanders,Derek Grant,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:39:51Z,1,15:27,04:33,Shot,Wrist Shot,-17.0,-8.0,Cal Clutterbuck,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:40:07Z,1,15:35,04:25,Penalty,Fighting,24.0,0.0,Scott Mayfield,PenaltyOn,New York Islanders,Nicolas Deslauriers,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:40:24Z,1,15:35,04:25,Penalty,Fighting,23.0,-4.0,Nicolas Deslauriers,PenaltyOn,Anaheim Ducks,Scott Mayfield,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:41:50Z,1,15:35,04:25,Penalty,Roughing,16.0,3.0,Nicolas Deslauriers,PenaltyOn,Anaheim Ducks,Cal Clutterbuck,DrewBy,Anaheim Ducks,Sam Steel,ServedBy,New York Islanders,n/a,n/a,n/a
+2019-11-26T03:42:38Z,1,15:35,04:25,Faceoff,n/a,-69.0,-22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:43:06Z,1,16:10,03:50,Shot,Slap Shot,-41.0,6.0,Ryan Pulock,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:43:32Z,1,16:11,03:49,Faceoff,n/a,-69.0,22.0,Brock Nelson,Winner,New York Islanders,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:44:28Z,1,16:19,03:41,Giveaway,n/a,-84.0,-6.0,John Gibson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:44:18Z,1,16:22,03:38,Missed Shot,n/a,-60.0,-12.0,Anthony Beauvillier,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:44:42Z,1,16:46,03:14,Giveaway,n/a,-5.0,25.0,Ryan Pulock,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:46:04Z,1,17:34,02:26,Faceoff,n/a,-69.0,22.0,Derek Grant,Winner,Anaheim Ducks,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:46:24Z,1,17:51,02:09,Giveaway,n/a,18.0,-34.0,Sam Steel,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:46:30Z,1,17:57,02:03,Hit,n/a,-97.0,-9.0,Casey Cizikas,Hitter,New York Islanders,Cam Fowler,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:46:58Z,1,18:25,01:35,Hit,n/a,98.0,12.0,Nick Ritchie,Hitter,Anaheim Ducks,Devon Toews,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:47:11Z,1,18:38,01:22,Takeaway,n/a,38.0,-5.0,Josh Bailey,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:47:35Z,1,19:01,00:59,Giveaway,n/a,-97.0,-9.0,Erik Gudbranson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:47:38Z,1,19:04,00:56,Shot,Wrap-around,-90.0,9.0,Anders Lee,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:48:15Z,1,19:42,00:18,Blocked Shot,n/a,73.0,8.0,Derick Brassard,Blocker,New York Islanders,Cam Fowler,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:48:52Z,1,19:42,00:18,Faceoff,n/a,69.0,22.0,Cal Clutterbuck,Winner,New York Islanders,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:49:10Z,1,19:52,00:08,Shot,Wrist Shot,74.0,33.0,Max Jones,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T03:49:19Z,1,19:58,00:02,Hit,n/a,-19.0,-38.0,Matt Martin,Hitter,New York Islanders,Korbinian Holzer,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:08:24Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:08:34Z,2,00:21,19:39,Takeaway,n/a,-14.0,-19.0,Hampus Lindholm,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:08:41Z,2,00:27,19:33,Shot,Tip-In,-82.0,-6.0,Carter Rowney,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:09:11Z,2,00:28,19:32,Faceoff,n/a,-69.0,-22.0,Rickard Rakell,Winner,Anaheim Ducks,Anders Lee,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:09:55Z,2,00:47,19:13,Shot,Tip-In,-77.0,1.0,Rickard Rakell,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:10:01Z,2,00:53,19:07,Shot,Wrist Shot,-48.0,-13.0,Ryan Getzlaf,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:10:08Z,2,01:00,19:00,Hit,n/a,-23.0,-39.0,Ryan Getzlaf,Hitter,Anaheim Ducks,Jordan Eberle,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:10:50Z,2,01:42,18:18,Giveaway,n/a,-86.0,30.0,Johnny Boychuk,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:11:33Z,2,01:44,18:16,Faceoff,n/a,-69.0,22.0,Brock Nelson,Winner,New York Islanders,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:11:59Z,2,02:22,17:38,Shot,Wrist Shot,39.0,31.0,Devon Toews,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:12:18Z,2,02:41,17:19,Hit,n/a,30.0,42.0,Derick Brassard,Hitter,New York Islanders,Jakob Silfverberg,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:12:55Z,2,03:18,16:42,Hit,n/a,95.0,21.0,Michael Dal Colle,Hitter,New York Islanders,Brendan Guhle,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:13:01Z,2,03:24,16:36,Shot,Wrist Shot,-52.0,-6.0,Sam Steel,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:13:09Z,2,03:31,16:29,Shot,Wrist Shot,-74.0,14.0,Korbinian Holzer,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:13:38Z,2,03:32,16:28,Faceoff,n/a,-69.0,22.0,Casey Cizikas,Winner,New York Islanders,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:14:23Z,2,03:49,16:11,Faceoff,n/a,69.0,22.0,Sam Steel,Winner,Anaheim Ducks,Anders Lee,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:15:30Z,2,04:16,15:44,Hit,n/a,69.0,-37.0,Sam Steel,Hitter,Anaheim Ducks,Mathew Barzal,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:15:33Z,2,04:17,15:43,Shot,Wrist Shot,53.0,13.0,Nick Leddy,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:16:10Z,2,04:18,15:42,Faceoff,n/a,69.0,22.0,Brock Nelson,Winner,New York Islanders,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:16:38Z,2,04:54,15:06,Hit,n/a,94.0,-25.0,Anthony Beauvillier,Hitter,New York Islanders,Jacob Larsson,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:16:42Z,2,04:55,15:05,Missed Shot,n/a,50.0,-31.0,Ryan Pulock,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:17:08Z,2,04:56,15:04,Faceoff,n/a,69.0,-22.0,Derek Grant,Winner,Anaheim Ducks,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:17:42Z,2,05:25,14:35,Giveaway,n/a,-95.0,-5.0,Thomas Greiss,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:17:46Z,2,05:29,14:31,Blocked Shot,n/a,-74.0,-9.0,Josh Bailey,Blocker,New York Islanders,Brendan Guhle,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:18:19Z,2,06:02,13:58,Hit,n/a,45.0,39.0,Casey Cizikas,Hitter,New York Islanders,Brendan Guhle,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:18:32Z,2,06:15,13:45,Blocked Shot,n/a,63.0,2.0,Korbinian Holzer,Blocker,Anaheim Ducks,Casey Cizikas,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:18:38Z,2,06:21,13:39,Shot,Snap Shot,50.0,28.0,Casey Cizikas,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:18:38Z,2,06:21,13:39,Hit,n/a,97.0,-6.0,Matt Martin,Hitter,New York Islanders,Adam Henrique,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:18:47Z,2,06:30,13:30,Hit,n/a,44.0,38.0,Matt Martin,Hitter,New York Islanders,Hampus Lindholm,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:19:14Z,2,06:57,13:03,Shot,Wrist Shot,-45.0,-25.0,Hampus Lindholm,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:19:49Z,2,07:32,12:28,Hit,n/a,-98.0,-7.0,Adam Pelech,Hitter,New York Islanders,Sam Steel,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:20:11Z,2,07:54,12:06,Takeaway,n/a,-96.0,7.0,Jordan Eberle,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:20:38Z,2,08:05,11:55,Penalty,Slashing,-69.0,38.0,Anders Lee,PenaltyOn,New York Islanders,Ondrej Kase,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:22:41Z,2,08:05,11:55,Faceoff,n/a,-69.0,-22.0,Casey Cizikas,Winner,New York Islanders,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:23:26Z,2,08:55,11:05,Blocked Shot,n/a,75.0,9.0,Cam Fowler,Blocker,Anaheim Ducks,Brock Nelson,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:23:57Z,2,09:24,10:36,Shot,Backhand,-80.0,1.0,Adam Henrique,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:24:24Z,2,09:25,10:35,Faceoff,n/a,-69.0,22.0,Casey Cizikas,Winner,New York Islanders,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:25:26Z,2,10:18,09:42,Shot,Tip-In,-72.0,3.0,Troy Terry,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:25:31Z,2,10:19,09:41,Shot,Backhand,-80.0,3.0,Nick Ritchie,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:27:45Z,2,10:20,09:40,Faceoff,n/a,-69.0,22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:27:51Z,2,10:24,09:36,Shot,Snap Shot,-33.0,30.0,Rickard Rakell,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:27:56Z,2,10:25,09:35,Shot,Wrist Shot,-78.0,0.0,Ryan Getzlaf,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:28:12Z,2,10:26,09:34,Faceoff,n/a,0.0,0.0,Rickard Rakell,Winner,Anaheim Ducks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:28:12Z,2,10:26,09:34,Goal,Wrist Shot,-78.0,-2.0,Ryan Getzlaf,Scorer,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:28:56Z,2,10:46,09:14,Missed Shot,n/a,-67.0,-23.0,Troy Terry,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:29:56Z,2,11:46,08:14,Shot,Wrist Shot,61.0,17.0,Derick Brassard,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:30:28Z,2,12:17,07:43,Giveaway,n/a,93.0,-12.0,Brendan Guhle,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:31:16Z,2,13:05,06:55,Blocked Shot,n/a,-76.0,10.0,Adam Pelech,Blocker,New York Islanders,Ondrej Kase,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:31:37Z,2,13:26,06:34,Hit,n/a,92.0,26.0,Matt Martin,Hitter,New York Islanders,Cam Fowler,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:31:37Z,2,13:27,06:33,Missed Shot,n/a,44.0,-28.0,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:31:48Z,2,13:37,06:23,Missed Shot,n/a,-63.0,26.0,Sam Steel,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:31:59Z,2,13:43,06:17,Hit,n/a,98.0,-11.0,Matt Martin,Hitter,New York Islanders,Hampus Lindholm,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:34:32Z,2,14:07,05:53,Faceoff,n/a,0.0,0.0,Ryan Getzlaf,Winner,Anaheim Ducks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:35:21Z,2,14:49,05:11,Giveaway,n/a,39.0,-24.0,Troy Terry,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:35:27Z,2,14:55,05:05,Missed Shot,n/a,49.0,19.0,Anthony Beauvillier,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:35:55Z,2,15:19,04:41,Blocked Shot,n/a,57.0,-2.0,Jacob Larsson,Blocker,Anaheim Ducks,Ross Johnston,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:36:24Z,2,15:20,04:40,Faceoff,n/a,69.0,22.0,Carter Rowney,Winner,Anaheim Ducks,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:36:54Z,2,15:37,04:23,Shot,Slap Shot,39.0,-31.0,Johnny Boychuk,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:37:10Z,2,15:41,04:19,Missed Shot,n/a,48.0,22.0,Nick Leddy,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:37:17Z,2,16:00,04:00,Takeaway,n/a,-58.0,6.0,Nicolas Deslauriers,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:37:18Z,2,16:01,03:59,Hit,n/a,-75.0,24.0,Ross Johnston,Hitter,New York Islanders,Nicolas Deslauriers,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:37:48Z,2,16:29,03:31,Missed Shot,n/a,-63.0,1.0,Derek Grant,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:37:57Z,2,16:41,03:19,Shot,Wrist Shot,-46.0,-6.0,Erik Gudbranson,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:38:07Z,2,16:51,03:09,Shot,Wrist Shot,-71.0,-25.0,Cam Fowler,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:38:14Z,2,16:58,03:02,Hit,n/a,-62.0,-39.0,Johnny Boychuk,Hitter,New York Islanders,Adam Henrique,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:39:16Z,2,17:25,02:35,Faceoff,n/a,-69.0,22.0,Sam Steel,Winner,Anaheim Ducks,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:38:41Z,2,17:27,02:33,Shot,Slap Shot,-38.0,27.0,Jacob Larsson,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:39:34Z,2,17:44,02:16,Shot,Slap Shot,42.0,-10.0,Devon Toews,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:40:14Z,2,17:45,02:15,Faceoff,n/a,69.0,-22.0,Mathew Barzal,Winner,New York Islanders,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:40:28Z,2,17:57,02:03,Takeaway,n/a,78.0,-37.0,Derek Grant,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:40:42Z,2,18:12,01:48,Takeaway,n/a,-99.0,-8.0,Derek Grant,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:40:57Z,2,18:21,01:39,Shot,Snap Shot,-43.0,25.0,Erik Gudbranson,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:40:59Z,2,18:28,01:32,Hit,n/a,-60.0,39.0,Ryan Pulock,Hitter,New York Islanders,Sam Steel,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:41:21Z,2,18:50,01:10,Hit,n/a,-66.0,-37.0,Nick Ritchie,Hitter,Anaheim Ducks,Scott Mayfield,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:41:39Z,2,19:07,00:53,Shot,Wrist Shot,63.0,9.0,Devon Toews,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:42:12Z,2,19:23,00:37,Faceoff,n/a,69.0,22.0,Casey Cizikas,Winner,New York Islanders,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:42:34Z,2,19:31,00:29,Blocked Shot,n/a,65.0,8.0,Ryan Getzlaf,Blocker,Anaheim Ducks,Adam Pelech,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T04:42:59Z,2,19:57,00:03,Giveaway,n/a,56.0,36.0,Cal Clutterbuck,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:02:29Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:01:51Z,3,00:09,19:51,Hit,n/a,7.0,40.0,Nicolas Deslauriers,Hitter,Anaheim Ducks,Scott Mayfield,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:01:59Z,3,00:18,19:42,Blocked Shot,n/a,-82.0,8.0,Hampus Lindholm,Blocker,Anaheim Ducks,Scott Mayfield,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:02:03Z,3,00:21,19:39,Hit,n/a,-85.0,36.0,Matt Martin,Hitter,New York Islanders,Derek Grant,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:02:28Z,3,00:40,19:20,Hit,n/a,-75.0,39.0,Erik Gudbranson,Hitter,Anaheim Ducks,Casey Cizikas,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:03:00Z,3,01:19,18:41,Missed Shot,n/a,89.0,12.0,Ryan Getzlaf,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:03:18Z,3,01:36,18:24,Missed Shot,n/a,-42.0,-8.0,Nick Leddy,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:03:48Z,3,01:50,18:10,Takeaway,n/a,6.0,-30.0,Ryan Getzlaf,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:04:42Z,3,02:30,17:30,Faceoff,n/a,69.0,22.0,Sam Steel,Winner,Anaheim Ducks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:04:49Z,3,02:42,17:18,Blocked Shot,n/a,80.0,-8.0,Johnny Boychuk,Blocker,New York Islanders,Brendan Guhle,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:05:06Z,3,03:00,17:00,Missed Shot,n/a,-53.0,-9.0,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:05:10Z,3,03:04,16:56,Hit,n/a,-54.0,42.0,Nick Ritchie,Hitter,Anaheim Ducks,Scott Mayfield,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:05:21Z,3,03:15,16:45,Hit,n/a,-54.0,41.0,Nick Ritchie,Hitter,Anaheim Ducks,Scott Mayfield,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:05:52Z,3,03:45,16:15,Blocked Shot,n/a,-75.0,-10.0,Korbinian Holzer,Blocker,Anaheim Ducks,Adam Pelech,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:06:01Z,3,03:54,16:06,Blocked Shot,n/a,-76.0,-9.0,Ondrej Kase,Blocker,Anaheim Ducks,Adam Pelech,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:06:15Z,3,04:08,15:52,Hit,n/a,-84.0,-38.0,Erik Gudbranson,Hitter,Anaheim Ducks,Jordan Eberle,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:06:22Z,3,04:15,15:45,Blocked Shot,n/a,-72.0,14.0,Nicolas Deslauriers,Blocker,Anaheim Ducks,Ryan Pulock,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:06:37Z,3,04:21,15:39,Giveaway,n/a,-55.0,-12.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:07:08Z,3,04:28,15:32,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:07:14Z,3,04:35,15:25,Missed Shot,n/a,-49.0,-22.0,Nick Leddy,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:07:32Z,3,04:50,15:10,Takeaway,n/a,-49.0,3.0,Brock Nelson,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:07:37Z,3,04:53,15:07,Shot,Slap Shot,-54.0,-21.0,Brock Nelson,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:08:06Z,3,04:53,15:07,Faceoff,n/a,-69.0,-22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:08:25Z,3,05:00,15:00,Faceoff,n/a,-69.0,22.0,Adam Henrique,Winner,Anaheim Ducks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:08:59Z,3,05:19,14:41,Blocked Shot,n/a,-64.0,-9.0,Jakob Silfverberg,Blocker,Anaheim Ducks,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:09:23Z,3,05:42,14:18,Shot,Slap Shot,-47.0,13.0,Nick Leddy,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:09:50Z,3,05:43,14:17,Faceoff,n/a,-69.0,22.0,Casey Cizikas,Winner,New York Islanders,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:12:52Z,3,06:01,13:59,Faceoff,n/a,-69.0,-22.0,Anthony Beauvillier,Winner,New York Islanders,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:12:43Z,3,06:06,13:54,Shot,Wrist Shot,-47.0,28.0,Johnny Boychuk,Shooter,New York Islanders,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:12:54Z,3,06:07,13:53,Faceoff,n/a,-69.0,22.0,Derek Grant,Winner,Anaheim Ducks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:13:41Z,3,06:23,13:37,Penalty,Tripping,97.0,-4.0,Johnny Boychuk,PenaltyOn,New York Islanders,Nicolas Deslauriers,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:14:14Z,3,06:23,13:37,Faceoff,n/a,69.0,22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:14:30Z,3,06:35,13:25,Hit,n/a,-98.0,-7.0,Adam Henrique,Hitter,Anaheim Ducks,Casey Cizikas,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:15:30Z,3,07:34,12:26,Shot,Tip-In,80.0,-9.0,Rickard Rakell,Shooter,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:16:03Z,3,07:35,12:25,Faceoff,n/a,69.0,-22.0,Casey Cizikas,Winner,New York Islanders,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:16:09Z,3,07:41,12:19,Hit,n/a,96.0,-4.0,Nick Ritchie,Hitter,Anaheim Ducks,Scott Mayfield,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:16:28Z,3,07:47,12:13,Giveaway,n/a,94.0,-5.0,Nick Ritchie,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:16:45Z,3,08:17,11:43,Blocked Shot,n/a,54.0,-2.0,Anthony Beauvillier,Blocker,New York Islanders,Hampus Lindholm,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:17:10Z,3,08:32,11:28,Hit,n/a,98.0,13.0,Nick Leddy,Hitter,New York Islanders,Sam Steel,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:17:17Z,3,08:49,11:11,Hit,n/a,48.0,-39.0,Carter Rowney,Hitter,Anaheim Ducks,Devon Toews,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:18:06Z,3,08:58,11:02,Faceoff,n/a,69.0,22.0,Adam Henrique,Winner,Anaheim Ducks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:18:20Z,3,09:13,10:47,Giveaway,n/a,80.0,22.0,Max Jones,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:19:08Z,3,10:06,09:54,Blocked Shot,n/a,67.0,1.0,Jordan Eberle,Blocker,New York Islanders,Jacob Larsson,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:19:40Z,3,10:28,09:32,Faceoff,n/a,69.0,22.0,Mathew Barzal,Winner,New York Islanders,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:20:31Z,3,11:05,08:55,Takeaway,n/a,79.0,-34.0,Ondrej Kase,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:20:36Z,3,11:10,08:50,Takeaway,n/a,96.0,-19.0,Scott Mayfield,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:20:34Z,3,11:46,08:14,Hit,n/a,96.0,21.0,Nicolas Deslauriers,Hitter,Anaheim Ducks,Scott Mayfield,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:21:14Z,3,11:48,08:12,Giveaway,n/a,0.0,22.0,Derek Grant,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:21:21Z,3,11:54,08:06,Blocked Shot,n/a,-75.0,0.0,Brendan Guhle,Blocker,Anaheim Ducks,Brock Nelson,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:21:51Z,3,12:14,07:46,Faceoff,n/a,-69.0,-22.0,Casey Cizikas,Winner,New York Islanders,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:22:12Z,3,12:21,07:39,Missed Shot,n/a,-72.0,-8.0,Cal Clutterbuck,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:22:31Z,3,12:40,07:20,Giveaway,n/a,33.0,19.0,Cal Clutterbuck,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:22:42Z,3,12:51,07:09,Blocked Shot,n/a,-74.0,6.0,Jacob Larsson,Blocker,Anaheim Ducks,Casey Cizikas,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:23:13Z,3,13:13,06:47,Goal,Wrist Shot,67.0,5.0,Cam Fowler,Scorer,Anaheim Ducks,Ryan Getzlaf,Assist,Anaheim Ducks,Troy Terry,Assist,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders
+2019-11-26T05:23:58Z,3,13:13,06:47,Faceoff,n/a,0.0,0.0,Derek Grant,Winner,Anaheim Ducks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:24:06Z,3,13:27,06:33,Hit,n/a,92.0,-7.0,Nicolas Deslauriers,Hitter,Anaheim Ducks,Scott Mayfield,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:24:26Z,3,13:47,06:13,Takeaway,n/a,68.0,-37.0,Scott Mayfield,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:24:36Z,3,13:58,06:02,Hit,n/a,-96.0,-5.0,Brock Nelson,Hitter,New York Islanders,Jacob Larsson,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:25:06Z,3,14:24,05:36,Goal,Snap Shot,61.0,-35.0,Ondrej Kase,Scorer,Anaheim Ducks,Erik Gudbranson,Assist,Anaheim Ducks,Cam Fowler,Assist,Anaheim Ducks,Thomas Greiss,Goalie,New York Islanders
+2019-11-26T05:25:49Z,3,14:24,05:36,Faceoff,n/a,0.0,0.0,Adam Henrique,Winner,Anaheim Ducks,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:26:02Z,3,14:43,05:17,Hit,n/a,-93.0,12.0,Michael Dal Colle,Hitter,New York Islanders,Korbinian Holzer,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:26:05Z,3,14:46,05:14,Missed Shot,n/a,-35.0,29.0,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:28:27Z,3,14:55,05:05,Faceoff,n/a,-69.0,22.0,Derek Grant,Winner,Anaheim Ducks,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:28:53Z,3,15:21,04:39,Giveaway,n/a,-92.0,-21.0,Cal Clutterbuck,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:29:38Z,3,16:06,03:54,Blocked Shot,n/a,-52.0,-15.0,Rickard Rakell,Blocker,Anaheim Ducks,Adam Pelech,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:30:11Z,3,16:39,03:21,Giveaway,n/a,84.0,15.0,Ondrej Kase,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:32:05Z,3,16:55,03:05,Faceoff,n/a,-69.0,22.0,Mathew Barzal,Winner,New York Islanders,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:32:47Z,3,17:02,02:58,Missed Shot,n/a,-62.0,-13.0,Nick Leddy,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:33:14Z,3,17:30,02:30,Missed Shot,n/a,-47.0,12.0,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:33:24Z,3,17:39,02:21,Blocked Shot,n/a,-75.0,13.0,Cam Fowler,Blocker,Anaheim Ducks,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:33:30Z,3,17:47,02:13,Hit,n/a,-49.0,37.0,Matt Martin,Hitter,New York Islanders,Max Jones,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:33:36Z,3,17:52,02:08,Blocked Shot,n/a,-46.0,25.0,Max Jones,Blocker,Anaheim Ducks,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:34:04Z,3,18:19,01:41,Hit,n/a,94.0,-26.0,Johnny Boychuk,Hitter,New York Islanders,Max Jones,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:34:28Z,3,18:43,01:17,Giveaway,n/a,-74.0,34.0,Casey Cizikas,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:34:36Z,3,18:52,01:08,Blocked Shot,n/a,-56.0,-13.0,Carter Rowney,Blocker,Anaheim Ducks,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:34:52Z,3,19:06,00:54,Giveaway,n/a,-67.0,-33.0,Casey Cizikas,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-26T05:35:36Z,3,19:50,00:10,Missed Shot,n/a,67.0,8.0,Ondrej Kase,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

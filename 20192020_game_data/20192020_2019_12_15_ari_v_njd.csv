@@ -1,0 +1,260 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-15T01:08:34Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Travis Zajac,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:09:17Z,1,00:16,19:44,Missed Shot,n/a,-8.0,38.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:09:29Z,1,00:17,19:43,Faceoff,n/a,69.0,22.0,Travis Zajac,Winner,New Jersey Devils,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:09:52Z,1,00:28,19:32,Giveaway,n/a,-50.0,26.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:10:24Z,1,00:58,19:02,Missed Shot,n/a,-52.0,-33.0,Nico Hischier,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:10:34Z,1,01:07,18:53,Shot,Wrist Shot,-64.0,-24.0,Jesper Bratt,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:10:55Z,1,01:08,18:52,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:11:35Z,1,01:43,18:17,Giveaway,n/a,96.0,-1.0,Mackenzie Blackwood,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:12:08Z,1,02:15,17:45,Shot,Wrist Shot,-68.0,-16.0,Miles Wood,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:12:19Z,1,02:17,17:43,Goal,Tip-In,-86.0,5.0,Jesper Boqvist,Scorer,New Jersey Devils,Michael McLeod,Assist,New Jersey Devils,Miles Wood,Assist,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes
+2019-12-15T01:12:56Z,1,02:17,17:43,Faceoff,n/a,0.0,0.0,Travis Zajac,Winner,New Jersey Devils,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:13:04Z,1,02:29,17:31,Hit,n/a,-98.0,13.0,Travis Zajac,Hitter,New Jersey Devils,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:13:40Z,1,03:04,16:56,Takeaway,n/a,-59.0,3.0,Nico Hischier,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:13:46Z,1,03:10,16:50,Shot,Slap Shot,-42.0,-10.0,Blake Coleman,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:14:16Z,1,03:11,16:49,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:14:43Z,1,03:38,16:22,Hit,n/a,29.0,-39.0,Lawson Crouse,Hitter,Arizona Coyotes,Kyle Palmieri,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:15:06Z,1,04:00,16:00,Shot,Slap Shot,45.0,-4.0,Lawson Crouse,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:15:35Z,1,04:18,15:42,Hit,n/a,98.0,15.0,Derek Stepan,Hitter,Arizona Coyotes,Andy Greene,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:15:28Z,1,04:22,15:38,Missed Shot,n/a,74.0,6.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:15:56Z,1,04:41,15:19,Faceoff,n/a,69.0,22.0,Jack Hughes,Winner,New Jersey Devils,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:16:32Z,1,04:51,15:09,Blocked Shot,n/a,80.0,11.0,Andy Greene,Blocker,New Jersey Devils,Brad Richardson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:16:48Z,1,05:04,14:56,Blocked Shot,n/a,68.0,39.0,Damon Severson,Blocker,New Jersey Devils,Michael Grabner,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:17:14Z,1,05:27,14:33,Shot,Wrist Shot,60.0,-1.0,Nick Schmaltz,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:17:10Z,1,05:29,14:31,Missed Shot,n/a,77.0,9.0,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:17:19Z,1,05:37,14:23,Hit,n/a,51.0,-39.0,Mirco Mueller,Hitter,New Jersey Devils,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:17:31Z,1,05:50,14:10,Hit,n/a,-98.0,4.0,Christian Fischer,Hitter,Arizona Coyotes,Michael McLeod,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:18:43Z,1,06:33,13:27,Penalty,Tripping,39.0,39.0,P.K. Subban,PenaltyOn,New Jersey Devils,Carl Soderberg,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:20:30Z,1,06:33,13:27,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Blake Coleman,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:20:52Z,1,06:57,13:03,Blocked Shot,n/a,64.0,12.0,Damon Severson,Blocker,New Jersey Devils,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:21:19Z,1,07:23,12:37,Shot,Wrist Shot,73.0,-5.0,Christian Dvorak,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:22:12Z,1,08:16,11:44,Giveaway,n/a,75.0,40.0,Conor Garland,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:22:49Z,1,08:21,11:39,Faceoff,n/a,-20.0,22.0,Kyle Palmieri,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:23:38Z,1,08:27,11:33,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:24:02Z,1,08:54,11:06,Takeaway,n/a,89.0,-29.0,Clayton Keller,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:24:21Z,1,09:13,10:47,Shot,Wrist Shot,41.0,19.0,Michael Grabner,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:25:04Z,1,09:23,10:37,Faceoff,n/a,-20.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Michael McLeod,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:25:44Z,1,09:39,10:21,Faceoff,n/a,-69.0,22.0,Michael McLeod,Winner,New Jersey Devils,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:26:12Z,1,09:59,10:01,Shot,Wrist Shot,-40.0,21.0,P.K. Subban,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:26:20Z,1,10:07,09:53,Shot,Wrist Shot,-39.0,18.0,Jesper Boqvist,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:26:42Z,1,10:28,09:32,Hit,n/a,51.0,-39.0,Christian Fischer,Hitter,Arizona Coyotes,P.K. Subban,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:26:52Z,1,10:38,09:22,Shot,Wrist Shot,47.0,-30.0,Brad Richardson,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:30:07Z,1,10:39,09:21,Faceoff,n/a,69.0,-22.0,Nico Hischier,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:29:24Z,1,10:51,09:09,Missed Shot,n/a,71.0,4.0,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:29:47Z,1,11:14,08:46,Shot,Wrist Shot,-39.0,23.0,Jesper Bratt,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:29:50Z,1,11:17,08:43,Giveaway,n/a,63.0,-36.0,Vinnie Hinostroza,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:30:16Z,1,11:41,08:19,Giveaway,n/a,-65.0,-36.0,Ilya Lyubushkin,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:30:22Z,1,11:49,08:11,Shot,Wrist Shot,-47.0,19.0,Sami Vatanen,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:31:11Z,1,12:24,07:36,Faceoff,n/a,69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:32:09Z,1,12:53,07:07,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:33:04Z,1,13:17,06:43,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:33:14Z,1,13:26,06:34,Shot,Wrist Shot,35.0,32.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:33:29Z,1,13:29,06:31,Shot,Wrist Shot,77.0,-3.0,Clayton Keller,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:33:48Z,1,13:30,06:30,Shot,Backhand,81.0,9.0,Clayton Keller,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:33:22Z,1,13:38,06:22,Penalty,Holding the stick,83.0,6.0,P.K. Subban,PenaltyOn,New Jersey Devils,Derek Stepan,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:34:12Z,1,13:38,06:22,Faceoff,n/a,69.0,-22.0,Blake Coleman,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:35:02Z,1,14:35,05:25,Hit,n/a,-70.0,41.0,Phil Kessel,Hitter,Arizona Coyotes,Blake Coleman,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:36:02Z,1,15:35,04:25,Goal,Wrist Shot,58.0,-3.0,Alex Goligoski,Scorer,Arizona Coyotes,Vinnie Hinostroza,Assist,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a
+2019-12-15T01:37:01Z,1,15:35,04:25,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Michael McLeod,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:37:13Z,1,15:52,04:08,Missed Shot,n/a,35.0,-12.0,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:37:15Z,1,15:54,04:06,Blocked Shot,n/a,76.0,-1.0,Damon Severson,Blocker,New Jersey Devils,Brad Richardson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:37:25Z,1,16:03,03:57,Takeaway,n/a,60.0,-4.0,Vinnie Hinostroza,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:37:30Z,1,16:08,03:52,Blocked Shot,n/a,78.0,0.0,Will Butcher,Blocker,New Jersey Devils,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:38:12Z,1,16:51,03:09,Hit,n/a,-96.0,10.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Wayne Simmonds,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:38:33Z,1,17:11,02:49,Blocked Shot,n/a,-68.0,17.0,Jakob Chychrun,Blocker,Arizona Coyotes,Wayne Simmonds,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:38:57Z,1,17:23,02:37,Blocked Shot,n/a,-59.0,-16.0,Lawson Crouse,Blocker,Arizona Coyotes,Mirco Mueller,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:41:10Z,1,17:25,02:35,Faceoff,n/a,-69.0,-22.0,Nico Hischier,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:41:23Z,1,17:32,02:28,Blocked Shot,n/a,-62.0,29.0,Jakob Chychrun,Blocker,Arizona Coyotes,Sami Vatanen,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:42:02Z,1,17:33,02:27,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:42:09Z,1,17:41,02:19,Faceoff,n/a,-69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Kyle Palmieri,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:43:36Z,1,17:55,02:05,Faceoff,n/a,-20.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:43:42Z,1,18:03,01:57,Shot,Wrist Shot,-34.0,36.0,Nikita Gusev,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:43:58Z,1,18:20,01:40,Shot,Slap Shot,-9.0,35.0,P.K. Subban,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:44:10Z,1,18:30,01:30,Hit,n/a,98.0,-11.0,Derek Stepan,Hitter,Arizona Coyotes,Andy Greene,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:44:10Z,1,18:31,01:29,Hit,n/a,97.0,-15.0,Blake Coleman,Hitter,New Jersey Devils,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:44:29Z,1,18:50,01:10,Shot,Wrist Shot,35.0,28.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:44:57Z,1,18:56,01:04,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:45:11Z,1,19:03,00:57,Hit,n/a,87.0,-36.0,P.K. Subban,Hitter,New Jersey Devils,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:45:23Z,1,19:14,00:46,Hit,n/a,-92.0,-29.0,Blake Coleman,Hitter,New Jersey Devils,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:45:23Z,1,19:15,00:45,Blocked Shot,n/a,-56.0,-6.0,Jordan Oesterle,Blocker,Arizona Coyotes,Blake Coleman,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:46:00Z,1,19:30,00:30,Shot,Tip-In,-75.0,4.0,Miles Wood,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:46:28Z,1,19:31,00:29,Faceoff,n/a,-20.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:47:04Z,1,19:49,00:11,Hit,n/a,-1.0,-40.0,Miles Wood,Hitter,New Jersey Devils,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:47:04Z,1,19:50,00:10,Penalty,Hi-sticking,-4.0,-40.0,Alex Goligoski,PenaltyOn,Arizona Coyotes,Miles Wood,DrewBy,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T01:47:45Z,1,19:50,00:10,Faceoff,n/a,-69.0,-22.0,Nico Hischier,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:06:42Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Nico Hischier,Winner,New Jersey Devils,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:06:55Z,2,00:42,19:18,Missed Shot,n/a,34.0,11.0,Sami Vatanen,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:07:37Z,2,01:24,18:36,Hit,n/a,44.0,40.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Jesper Boqvist,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:08:07Z,2,01:54,18:06,Giveaway,n/a,61.0,-39.0,Jesper Boqvist,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:08:27Z,2,02:03,17:57,Giveaway,n/a,-93.0,14.0,Alex Goligoski,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:08:26Z,2,02:13,17:47,Blocked Shot,n/a,63.0,-7.0,Jakob Chychrun,Blocker,Arizona Coyotes,Wayne Simmonds,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:08:54Z,2,02:41,17:19,Hit,n/a,-54.0,-36.0,Damon Severson,Hitter,New Jersey Devils,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:10:10Z,2,03:45,16:15,Hit,n/a,98.0,-4.0,Jesper Boqvist,Hitter,New Jersey Devils,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:10:21Z,2,04:08,15:52,Hit,n/a,95.0,-26.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Miles Wood,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:10:34Z,2,04:21,15:39,Giveaway,n/a,98.0,2.0,Darcy Kuemper,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:10:59Z,2,04:46,15:14,Shot,Wrist Shot,-52.0,0.0,Clayton Keller,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:11:10Z,2,04:55,15:05,Shot,Wrist Shot,-76.0,0.0,Derek Stepan,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:11:10Z,2,04:56,15:04,Takeaway,n/a,-72.0,0.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:11:28Z,2,04:58,15:02,Blocked Shot,n/a,-64.0,-17.0,P.K. Subban,Blocker,New Jersey Devils,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:12:08Z,2,04:59,15:01,Faceoff,n/a,-69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:12:08Z,2,05:01,14:59,Shot,Slap Shot,-41.0,3.0,Jordan Oesterle,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:11:57Z,2,05:11,14:49,Missed Shot,n/a,-43.0,-25.0,Aaron Ness,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:12:01Z,2,05:15,14:45,Hit,n/a,-66.0,41.0,Lawson Crouse,Hitter,Arizona Coyotes,Pavel Zacha,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:12:22Z,2,05:29,14:31,Blocked Shot,n/a,-80.0,3.0,Will Butcher,Blocker,New Jersey Devils,Lawson Crouse,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:12:21Z,2,05:35,14:25,Hit,n/a,98.0,3.0,Wayne Simmonds,Hitter,New Jersey Devils,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:12:35Z,2,05:41,14:19,Shot,Slap Shot,37.0,30.0,Mirco Mueller,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:13:00Z,2,05:42,14:18,Faceoff,n/a,69.0,22.0,Nico Hischier,Winner,New Jersey Devils,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:13:39Z,2,05:54,14:06,Faceoff,n/a,69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Michael McLeod,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:14:06Z,2,06:16,13:44,Shot,Wrist Shot,-45.0,-32.0,Christian Dvorak,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:14:56Z,2,06:54,13:06,Hit,n/a,89.0,31.0,Travis Zajac,Hitter,New Jersey Devils,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:15:02Z,2,07:13,12:47,Blocked Shot,n/a,-73.0,-8.0,Travis Zajac,Blocker,New Jersey Devils,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:15:19Z,2,07:28,12:32,Giveaway,n/a,31.0,-36.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:15:33Z,2,07:43,12:17,Hit,n/a,-90.0,-32.0,Damon Severson,Hitter,New Jersey Devils,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:15:41Z,2,07:51,12:09,Takeaway,n/a,-62.0,39.0,Pavel Zacha,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:16:12Z,2,08:20,11:40,Shot,Wrist Shot,85.0,-19.0,Jack Hughes,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:18:37Z,2,08:21,11:39,Faceoff,n/a,69.0,-22.0,Nico Hischier,Winner,New Jersey Devils,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:18:58Z,2,08:28,11:32,Faceoff,n/a,69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:19:36Z,2,08:39,11:21,Shot,Wrist Shot,-77.0,35.0,Christian Fischer,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:19:42Z,2,08:44,11:16,Shot,Deflected,77.0,2.0,Jesper Bratt,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:20:02Z,2,09:00,11:00,Blocked Shot,n/a,-72.0,22.0,Kyle Palmieri,Blocker,New Jersey Devils,Brad Richardson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:20:52Z,2,09:31,10:29,Faceoff,n/a,-69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Michael McLeod,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:21:35Z,2,10:24,09:36,Blocked Shot,n/a,-78.0,-29.0,Mirco Mueller,Blocker,New Jersey Devils,Lawson Crouse,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:22:04Z,2,10:42,09:18,Shot,Slap Shot,37.0,34.0,Andy Greene,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:22:10Z,2,10:48,09:12,Shot,Wrist Shot,-59.0,18.0,Nick Schmaltz,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:22:16Z,2,10:50,09:10,Blocked Shot,n/a,-78.0,5.0,Travis Zajac,Blocker,New Jersey Devils,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:22:25Z,2,10:53,09:07,Giveaway,n/a,-18.0,39.0,Christian Dvorak,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:22:35Z,2,11:18,08:42,Hit,n/a,-92.0,-27.0,Wayne Simmonds,Hitter,New Jersey Devils,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:22:49Z,2,11:20,08:40,Shot,Slap Shot,27.0,1.0,Will Butcher,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:25:01Z,2,11:21,08:39,Faceoff,n/a,69.0,22.0,Jack Hughes,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:25:15Z,2,11:33,08:27,Takeaway,n/a,-57.0,12.0,Clayton Keller,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:25:16Z,2,11:34,08:26,Shot,Wrist Shot,-76.0,1.0,Clayton Keller,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:26:34Z,2,12:11,07:49,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:26:46Z,2,12:24,07:36,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:27:16Z,2,12:33,07:27,Takeaway,n/a,-2.0,40.0,Mirco Mueller,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:27:27Z,2,12:44,07:16,Giveaway,n/a,-42.0,16.0,Damon Severson,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:27:30Z,2,12:47,07:13,Shot,Wrist Shot,-22.0,2.0,Lawson Crouse,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:28:01Z,2,12:58,07:02,Shot,Wrist Shot,79.0,19.0,Jesper Bratt,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:28:20Z,2,12:58,07:02,Faceoff,n/a,69.0,22.0,Michael McLeod,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:28:48Z,2,13:35,06:25,Hit,n/a,15.0,40.0,Jesper Boqvist,Hitter,New Jersey Devils,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:29:00Z,2,13:47,06:13,Shot,Wrist Shot,-57.0,30.0,Lawson Crouse,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:29:00Z,2,13:48,06:12,Blocked Shot,n/a,-64.0,9.0,Jesper Boqvist,Blocker,New Jersey Devils,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:29:06Z,2,13:52,06:08,Blocked Shot,n/a,-79.0,7.0,Andy Greene,Blocker,New Jersey Devils,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:29:19Z,2,14:05,05:55,Shot,Wrist Shot,-72.0,3.0,Conor Garland,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:29:24Z,2,14:10,05:50,Hit,n/a,-92.0,-30.0,P.K. Subban,Hitter,New Jersey Devils,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:29:50Z,2,14:36,05:24,Takeaway,n/a,-20.0,3.0,Travis Zajac,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:30:06Z,2,14:53,05:07,Shot,Tip-In,74.0,3.0,Travis Zajac,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:31:00Z,2,15:29,04:31,Penalty,Slashing,-94.0,7.0,Nick Schmaltz,PenaltyOn,Arizona Coyotes,Will Butcher,DrewBy,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:32:55Z,2,15:29,04:31,Faceoff,n/a,69.0,22.0,Nico Hischier,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:33:26Z,2,15:59,04:01,Hit,n/a,93.0,-30.0,Jakob Chychrun,Hitter,Arizona Coyotes,Kyle Palmieri,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:34:31Z,2,16:30,03:30,Faceoff,n/a,20.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Wayne Simmonds,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:35:00Z,2,17:05,02:55,Blocked Shot,n/a,67.0,10.0,Jordan Oesterle,Blocker,Arizona Coyotes,P.K. Subban,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:35:09Z,2,17:12,02:48,Shot,Wrist Shot,56.0,-21.0,Jesper Bratt,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:35:52Z,2,17:13,02:47,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:35:47Z,2,17:19,02:41,Blocked Shot,n/a,53.0,-7.0,Brad Richardson,Blocker,Arizona Coyotes,Sami Vatanen,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:35:51Z,2,17:21,02:39,Shot,Wrist Shot,36.0,-25.0,Sami Vatanen,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:35:59Z,2,17:22,02:38,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Wayne Simmonds,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:37:00Z,2,17:48,02:12,Shot,Snap Shot,-45.0,16.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:37:23Z,2,17:49,02:11,Faceoff,n/a,-69.0,22.0,Travis Zajac,Winner,New Jersey Devils,Vinnie Hinostroza,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:37:44Z,2,18:01,01:59,Blocked Shot,n/a,-69.0,3.0,P.K. Subban,Blocker,New Jersey Devils,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:37:52Z,2,18:06,01:54,Blocked Shot,n/a,-40.0,-14.0,Andy Greene,Blocker,New Jersey Devils,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:38:06Z,2,18:20,01:40,Shot,Wrist Shot,-46.0,-31.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:38:43Z,2,18:21,01:39,Faceoff,n/a,-69.0,-22.0,Nico Hischier,Winner,New Jersey Devils,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:38:58Z,2,18:39,01:21,Giveaway,n/a,50.0,-41.0,Nick Schmaltz,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:39:02Z,2,18:41,01:19,Giveaway,n/a,42.0,37.0,Kyle Palmieri,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:39:02Z,2,18:43,01:17,Giveaway,n/a,43.0,41.0,Alex Goligoski,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:39:13Z,2,18:56,01:04,Hit,n/a,93.0,19.0,Alex Goligoski,Hitter,Arizona Coyotes,Nico Hischier,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:39:36Z,2,19:18,00:42,Hit,n/a,-85.0,-37.0,Pavel Zacha,Hitter,New Jersey Devils,Nick Schmaltz,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:39:45Z,2,19:24,00:36,Blocked Shot,n/a,-55.0,22.0,Michael McLeod,Blocker,New Jersey Devils,Ilya Lyubushkin,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:40:20Z,2,19:25,00:35,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:40:25Z,2,19:31,00:29,Missed Shot,n/a,-43.0,-26.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:40:44Z,2,19:32,00:28,Giveaway,n/a,-60.0,39.0,Miles Wood,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:40:32Z,2,19:37,00:23,Blocked Shot,n/a,-73.0,6.0,Andy Greene,Blocker,New Jersey Devils,Ilya Lyubushkin,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:41:17Z,2,19:40,00:20,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T02:41:36Z,2,19:47,00:13,Shot,Wrist Shot,-60.0,-12.0,Phil Kessel,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:00:28Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Travis Zajac,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:00:29Z,3,00:18,19:42,Missed Shot,n/a,-66.0,21.0,Nikita Gusev,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:00:32Z,3,00:20,19:40,Giveaway,n/a,53.0,-2.0,Andy Greene,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:01:05Z,3,00:20,19:40,Faceoff,n/a,20.0,-22.0,Nick Schmaltz,Winner,Arizona Coyotes,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:01:38Z,3,00:35,19:25,Shot,Wrist Shot,-72.0,2.0,Damon Severson,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:01:54Z,3,00:36,19:24,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:02:14Z,3,01:01,18:59,Shot,Wrist Shot,61.0,-21.0,Christian Fischer,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:02:52Z,3,01:02,18:58,Faceoff,n/a,69.0,-22.0,Nick Schmaltz,Winner,Arizona Coyotes,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:03:16Z,3,01:08,18:52,Faceoff,n/a,-20.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:03:32Z,3,01:12,18:48,Faceoff,n/a,-69.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:04:11Z,3,01:34,18:26,Shot,Tip-In,-77.0,-5.0,Jack Hughes,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:04:19Z,3,01:42,18:18,Takeaway,n/a,-42.0,-37.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:04:30Z,3,01:53,18:07,Shot,Wrist Shot,65.0,-17.0,Jordan Oesterle,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:04:40Z,3,02:03,17:57,Blocked Shot,n/a,72.0,13.0,Jack Hughes,Blocker,New Jersey Devils,Aaron Ness,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:05:04Z,3,02:21,17:39,Shot,Wrist Shot,-75.0,28.0,Miles Wood,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:05:50Z,3,02:52,17:08,Faceoff,n/a,-20.0,-22.0,Nico Hischier,Winner,New Jersey Devils,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:07:39Z,3,03:58,16:02,Faceoff,n/a,20.0,-22.0,Jack Hughes,Winner,New Jersey Devils,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:08:05Z,3,04:31,15:29,Missed Shot,n/a,-45.0,-21.0,Jack Hughes,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:08:08Z,3,04:34,15:26,Giveaway,n/a,-94.0,23.0,Carl Soderberg,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:08:24Z,3,04:50,15:10,Shot,Wrist Shot,63.0,34.0,Damon Severson,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:09:07Z,3,05:33,14:27,Hit,n/a,74.0,41.0,Sami Vatanen,Hitter,New Jersey Devils,Vinnie Hinostroza,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:09:37Z,3,06:03,13:57,Blocked Shot,n/a,70.0,7.0,Will Butcher,Blocker,New Jersey Devils,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:09:44Z,3,06:10,13:50,Missed Shot,n/a,37.0,8.0,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:09:52Z,3,06:12,13:48,Missed Shot,n/a,84.0,-14.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:10:07Z,3,06:14,13:46,Blocked Shot,n/a,74.0,2.0,Sami Vatanen,Blocker,New Jersey Devils,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:09:54Z,3,06:20,13:40,Missed Shot,n/a,72.0,7.0,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:10:26Z,3,06:52,13:08,Hit,n/a,90.0,29.0,Sami Vatanen,Hitter,New Jersey Devils,Derek Stepan,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:10:52Z,3,06:57,13:03,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:11:04Z,3,07:02,12:58,Shot,Slap Shot,36.0,-24.0,Jordan Oesterle,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:13:26Z,3,07:03,12:57,Faceoff,n/a,69.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:14:14Z,3,07:56,12:04,Shot,Wrist Shot,41.0,9.0,Lawson Crouse,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:14:32Z,3,08:15,11:45,Shot,Wrist Shot,-46.0,33.0,Sami Vatanen,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:14:40Z,3,08:20,11:40,Shot,Wrist Shot,-44.0,21.0,Sami Vatanen,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:14:48Z,3,08:23,11:37,Penalty,Slashing,-60.0,-34.0,Wayne Simmonds,PenaltyOn,New Jersey Devils,Phil Kessel,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:15:31Z,3,08:23,11:37,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Blake Coleman,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:16:02Z,3,08:50,11:10,Blocked Shot,n/a,81.0,15.0,Andy Greene,Blocker,New Jersey Devils,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:16:01Z,3,08:56,11:04,Hit,n/a,66.0,-40.0,Nico Hischier,Hitter,New Jersey Devils,Derek Stepan,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:16:23Z,3,09:05,10:55,Blocked Shot,n/a,79.0,-7.0,Damon Severson,Blocker,New Jersey Devils,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:16:49Z,3,09:07,10:53,Faceoff,n/a,20.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:17:13Z,3,09:25,10:35,Hit,n/a,45.0,39.0,Pavel Zacha,Hitter,New Jersey Devils,Carl Soderberg,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:17:24Z,3,09:34,10:26,Hit,n/a,56.0,-40.0,Conor Garland,Hitter,Arizona Coyotes,Mirco Mueller,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:17:45Z,3,09:44,10:16,Missed Shot,n/a,84.0,-15.0,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:18:19Z,3,09:46,10:14,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Blake Coleman,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:18:27Z,3,09:59,10:01,Shot,Wrist Shot,38.0,10.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:18:34Z,3,10:06,09:54,Takeaway,n/a,2.0,-40.0,Clayton Keller,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:18:36Z,3,10:08,09:52,Shot,Wrist Shot,16.0,-31.0,Andy Greene,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:18:49Z,3,10:18,09:42,Shot,Wrist Shot,64.0,7.0,Clayton Keller,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:19:25Z,3,10:19,09:41,Faceoff,n/a,69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:19:54Z,3,10:44,09:16,Missed Shot,n/a,-52.0,14.0,Nico Hischier,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:20:07Z,3,10:48,09:12,Blocked Shot,n/a,-76.0,7.0,Nick Schmaltz,Blocker,Arizona Coyotes,Wayne Simmonds,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:22:49Z,3,10:58,09:02,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Michael McLeod,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:22:44Z,3,11:11,08:49,Missed Shot,n/a,-61.0,-15.0,Kyle Palmieri,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:22:51Z,3,11:17,08:43,Takeaway,n/a,-57.0,-35.0,Miles Wood,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:23:12Z,3,11:33,08:27,Blocked Shot,n/a,-72.0,-5.0,Alex Goligoski,Blocker,Arizona Coyotes,Michael McLeod,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:23:23Z,3,11:34,08:26,Goal,Wrist Shot,-82.0,-5.0,Kyle Palmieri,Scorer,New Jersey Devils,Michael McLeod,Assist,New Jersey Devils,Miles Wood,Assist,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes
+2019-12-15T03:24:55Z,3,11:34,08:26,Faceoff,n/a,0.0,0.0,Travis Zajac,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:25:18Z,3,12:40,07:20,Shot,Wrist Shot,64.0,-23.0,Nick Schmaltz,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:25:32Z,3,12:52,07:08,Blocked Shot,n/a,78.0,9.0,Will Butcher,Blocker,New Jersey Devils,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:25:35Z,3,13:01,06:59,Giveaway,n/a,69.0,16.0,Jack Hughes,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:26:15Z,3,13:29,06:31,Hit,n/a,-83.0,-36.0,Alex Goligoski,Hitter,Arizona Coyotes,Nico Hischier,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:26:09Z,3,13:35,06:25,Missed Shot,n/a,-71.0,-14.0,Nico Hischier,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:27:17Z,3,14:41,05:19,Shot,Slap Shot,35.0,-20.0,Aaron Ness,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:29:39Z,3,14:42,05:18,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:30:21Z,3,15:28,04:32,Blocked Shot,n/a,62.0,0.0,Blake Coleman,Blocker,New Jersey Devils,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:30:32Z,3,15:29,04:31,Penalty,Tripping,55.0,-14.0,Clayton Keller,PenaltyOn,Arizona Coyotes,Pavel Zacha,DrewBy,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:31:17Z,3,15:29,04:31,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Wayne Simmonds,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:32:03Z,3,15:36,04:24,Giveaway,n/a,35.0,1.0,Will Butcher,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:32:28Z,3,16:11,03:49,Shot,Wrist Shot,-63.0,-35.0,Will Butcher,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:32:59Z,3,16:12,03:48,Faceoff,n/a,-69.0,-22.0,Nico Hischier,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:33:10Z,3,16:28,03:32,Blocked Shot,n/a,-75.0,-13.0,Jordan Oesterle,Blocker,Arizona Coyotes,Damon Severson,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:33:27Z,3,16:45,03:15,Shot,Wrist Shot,-73.0,-14.0,Damon Severson,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:33:34Z,3,16:52,03:08,Giveaway,n/a,-57.0,-29.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:33:49Z,3,17:07,02:53,Hit,n/a,-73.0,-41.0,Alex Goligoski,Hitter,Arizona Coyotes,Jack Hughes,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:34:01Z,3,17:19,02:41,Hit,n/a,97.0,3.0,Brad Richardson,Hitter,Arizona Coyotes,Mirco Mueller,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:34:11Z,3,17:28,02:32,Shot,Wrist Shot,-70.0,-14.0,Miles Wood,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:34:47Z,3,17:29,02:31,Shot,Tip-In,-86.0,-6.0,Travis Zajac,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:34:57Z,3,17:30,02:30,Faceoff,n/a,-69.0,-22.0,Nico Hischier,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:36:52Z,3,18:32,01:28,Faceoff,n/a,20.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:37:01Z,3,18:44,01:16,Shot,Wrist Shot,-65.0,-13.0,Blake Coleman,Shooter,New Jersey Devils,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:37:38Z,3,18:45,01:15,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:38:06Z,3,19:13,00:47,Hit,n/a,94.0,-31.0,Andy Greene,Hitter,New Jersey Devils,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:38:17Z,3,19:26,00:34,Shot,Slap Shot,35.0,-15.0,Jordan Oesterle,Shooter,Arizona Coyotes,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:39:50Z,3,19:27,00:33,Faceoff,n/a,69.0,-22.0,Nico Hischier,Winner,New Jersey Devils,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:40:28Z,3,19:35,00:25,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:40:48Z,3,19:43,00:17,Blocked Shot,n/a,63.0,5.0,Travis Zajac,Blocker,New Jersey Devils,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-15T03:41:40Z,3,19:49,00:11,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a

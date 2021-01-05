@@ -1,0 +1,267 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-03-01T21:10:48Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Mikael Backlund,Winner,Calgary Flames,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:11:55Z,1,01:08,18:52,Giveaway,n/a,10.0,34.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:12:31Z,1,01:44,18:16,Hit,n/a,58.0,-12.0,Keith Yandle,Hitter,Florida Panthers,Erik Gustafsson,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:12:33Z,1,01:46,18:14,Shot,Slap Shot,38.0,-32.0,Derek Ryan,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:12:49Z,1,01:58,18:02,Hit,n/a,-5.0,3.0,Derek Forbort,Hitter,Calgary Flames,Dominic Toninato,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:13:07Z,1,02:18,17:42,Shot,Snap Shot,-46.0,-34.0,Lucas Wallmark,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:13:19Z,1,02:18,17:42,Faceoff,n/a,-69.0,-22.0,Lucas Wallmark,Winner,Florida Panthers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:13:38Z,1,02:24,17:36,Missed Shot,n/a,-39.0,-18.0,MacKenzie Weegar,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:14:03Z,1,02:33,17:27,Faceoff,n/a,20.0,22.0,Mark Jankowski,Winner,Calgary Flames,Lucas Wallmark,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:14:19Z,1,02:45,17:15,Hit,n/a,99.0,7.0,Sam Bennett,Hitter,Calgary Flames,MacKenzie Weegar,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:14:29Z,1,02:53,17:07,Missed Shot,n/a,71.0,2.0,Sam Bennett,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:14:47Z,1,03:04,16:56,Penalty,Slashing,-7.0,-8.0,Mark Jankowski,PenaltyOn,Calgary Flames,Erik Haula,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:15:17Z,1,03:04,16:56,Faceoff,n/a,-69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:15:17Z,1,03:09,16:51,Giveaway,n/a,-60.0,39.0,TJ Brodie,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:15:27Z,1,03:19,16:41,Missed Shot,n/a,-58.0,26.0,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:15:36Z,1,03:27,16:33,Shot,Slap Shot,-66.0,29.0,Mike Hoffman,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:15:47Z,1,03:28,16:32,Faceoff,n/a,-69.0,22.0,Mikael Backlund,Winner,Calgary Flames,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:15:59Z,1,03:34,16:26,Takeaway,n/a,-74.0,37.0,Mike Hoffman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:16:08Z,1,03:43,16:17,Missed Shot,n/a,-75.0,4.0,Aleksander Barkov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:16:34Z,1,03:43,16:17,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:16:39Z,1,03:52,16:08,Missed Shot,n/a,-42.0,16.0,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:16:51Z,1,03:53,16:07,Faceoff,n/a,-69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:17:13Z,1,04:08,15:52,Shot,Slap Shot,-42.0,33.0,Mike Hoffman,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:17:22Z,1,04:16,15:44,Blocked Shot,n/a,-67.0,31.0,Derek Ryan,Blocker,Calgary Flames,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:17:43Z,1,04:36,15:24,Shot,Slap Shot,-70.0,26.0,Mike Hoffman,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:18:10Z,1,04:36,15:24,Faceoff,n/a,-69.0,22.0,Lucas Wallmark,Winner,Florida Panthers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:18:31Z,1,04:52,15:08,Blocked Shot,n/a,-73.0,12.0,Elias Lindholm,Blocker,Calgary Flames,Brett Connolly,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:18:37Z,1,04:53,15:07,Penalty,Tripping,-52.0,-33.0,Brett Connolly,PenaltyOn,Florida Panthers,Elias Lindholm,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:19:07Z,1,04:53,15:07,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:19:06Z,1,04:58,15:02,Hit,n/a,51.0,40.0,Noel Acciari,Hitter,Florida Panthers,Erik Gustafsson,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:19:17Z,1,05:09,14:51,Giveaway,n/a,-61.0,34.0,Erik Haula,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:19:42Z,1,05:17,14:43,Takeaway,n/a,25.0,-31.0,Noel Acciari,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:19:42Z,1,05:34,14:26,Blocked Shot,n/a,72.0,-10.0,Noel Acciari,Blocker,Florida Panthers,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:20:07Z,1,05:48,14:12,Blocked Shot,n/a,80.0,-11.0,Riley Stillman,Blocker,Florida Panthers,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:20:01Z,1,05:53,14:07,Giveaway,n/a,34.0,-28.0,Colton Sceviour,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:20:18Z,1,06:10,13:50,Blocked Shot,n/a,76.0,10.0,Lucas Wallmark,Blocker,Florida Panthers,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:20:32Z,1,06:21,13:39,Goal,Snap Shot,60.0,23.0,Johnny Gaudreau,Scorer,Calgary Flames,Elias Lindholm,Assist,Calgary Flames,Mark Giordano,Assist,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers
+2020-03-01T21:21:12Z,1,06:21,13:39,Faceoff,n/a,0.0,0.0,Derek Ryan,Winner,Calgary Flames,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:21:39Z,1,06:34,13:26,Hit,n/a,98.0,-8.0,Milan Lucic,Hitter,Calgary Flames,Sam Montembeault,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:22:08Z,1,07:03,12:57,Blocked Shot,n/a,-84.0,-12.0,Rasmus Andersson,Blocker,Calgary Flames,Jonathan Huberdeau,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:22:12Z,1,07:08,12:52,Giveaway,n/a,-95.0,26.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:22:18Z,1,07:14,12:46,Shot,Tip-In,-74.0,0.0,Jonathan Huberdeau,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:22:22Z,1,07:18,12:42,Giveaway,n/a,-72.0,-36.0,Rasmus Andersson,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:22:34Z,1,07:30,12:30,Shot,Tip-In,-73.0,2.0,Jonathan Huberdeau,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:23:09Z,1,07:43,12:17,Faceoff,n/a,-69.0,22.0,Derek Ryan,Winner,Calgary Flames,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:23:17Z,1,07:49,12:11,Giveaway,n/a,-36.0,24.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:23:29Z,1,08:01,11:59,Hit,n/a,-90.0,29.0,Erik Gustafsson,Hitter,Calgary Flames,Mike Hoffman,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:23:35Z,1,08:07,11:53,Hit,n/a,-97.0,6.0,Derek Forbort,Hitter,Calgary Flames,Noel Acciari,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:26:14Z,1,08:37,11:23,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Colton Sceviour,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:26:27Z,1,08:43,11:17,Takeaway,n/a,33.0,-4.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:26:36Z,1,08:52,11:08,Giveaway,n/a,-46.0,6.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:26:44Z,1,09:00,11:00,Takeaway,n/a,-94.0,8.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:26:49Z,1,09:05,10:55,Giveaway,n/a,-32.0,1.0,Mark Giordano,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:26:54Z,1,09:10,10:50,Hit,n/a,-95.0,21.0,Aleksander Barkov,Hitter,Florida Panthers,Mark Giordano,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:27:40Z,1,09:56,10:04,Blocked Shot,n/a,-66.0,16.0,Andrew Mangiapane,Blocker,Calgary Flames,Anton Stralman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:28:03Z,1,10:20,09:40,Shot,Snap Shot,51.0,4.0,Andrew Mangiapane,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:28:19Z,1,10:36,09:24,Hit,n/a,-70.0,-40.0,Colton Sceviour,Hitter,Florida Panthers,Rasmus Andersson,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:28:34Z,1,10:50,09:10,Hit,n/a,36.0,-16.0,Lucas Wallmark,Hitter,Florida Panthers,Mark Jankowski,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:28:45Z,1,11:00,09:00,Blocked Shot,n/a,59.0,-14.0,Colton Sceviour,Blocker,Florida Panthers,Erik Gustafsson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:30:38Z,1,11:00,09:00,Faceoff,n/a,69.0,-22.0,Lucas Wallmark,Winner,Florida Panthers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:31:11Z,1,11:12,08:48,Blocked Shot,n/a,-78.0,20.0,Mark Giordano,Blocker,Calgary Flames,Lucas Wallmark,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:31:15Z,1,11:15,08:45,Hit,n/a,-98.0,-7.0,Mark Giordano,Hitter,Calgary Flames,Lucas Wallmark,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:31:44Z,1,11:45,08:15,Takeaway,n/a,6.0,-27.0,MacKenzie Weegar,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:32:08Z,1,12:08,07:52,Giveaway,n/a,-56.0,40.0,Sean Monahan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:32:17Z,1,12:16,07:44,Shot,Backhand,77.0,-7.0,Johnny Gaudreau,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:32:28Z,1,12:17,07:43,Penalty,PS - Hooking on breakaway,80.0,-2.0,MacKenzie Weegar,PenaltyOn,Florida Panthers,Johnny Gaudreau,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:32:29Z,1,12:17,07:43,Shot,Backhand,80.0,-7.0,Johnny Gaudreau,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:34:48Z,1,12:17,07:43,Faceoff,n/a,69.0,-22.0,Erik Haula,Winner,Florida Panthers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:34:01Z,1,12:30,07:30,Faceoff,n/a,-20.0,22.0,Mikael Backlund,Winner,Calgary Flames,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:34:19Z,1,12:44,07:16,Shot,Slap Shot,60.0,19.0,Matthew Tkachuk,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:34:33Z,1,12:58,07:02,Giveaway,n/a,-34.0,-7.0,Riley Stillman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:35:18Z,1,13:29,06:31,Faceoff,n/a,69.0,22.0,Mark Jankowski,Winner,Calgary Flames,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:35:38Z,1,13:41,06:19,Missed Shot,n/a,68.0,4.0,Mark Jankowski,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:35:46Z,1,13:46,06:14,Giveaway,n/a,-38.0,-8.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:35:55Z,1,13:55,06:05,Giveaway,n/a,61.0,38.0,Sam Montembeault,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:36:07Z,1,14:09,05:51,Shot,Snap Shot,53.0,18.0,Mark Giordano,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:37:58Z,1,14:09,05:51,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Colton Sceviour,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:38:25Z,1,14:24,05:36,Takeaway,n/a,40.0,40.0,Aaron Ekblad,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:38:38Z,1,14:36,05:24,Blocked Shot,n/a,70.0,-10.0,Mark Pysyk,Blocker,Florida Panthers,Derek Ryan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:38:50Z,1,14:49,05:11,Giveaway,n/a,48.0,38.0,Milan Lucic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:39:01Z,1,14:59,05:01,Giveaway,n/a,-39.0,-21.0,Riley Stillman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:39:08Z,1,15:06,04:54,Hit,n/a,94.0,-19.0,Anton Stralman,Hitter,Florida Panthers,Dillon Dube,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:39:13Z,1,15:12,04:48,Blocked Shot,n/a,52.0,18.0,Mark Pysyk,Blocker,Florida Panthers,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:39:21Z,1,15:19,04:41,Hit,n/a,81.0,41.0,Mark Pysyk,Hitter,Florida Panthers,Noah Hanifin,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:39:35Z,1,15:33,04:27,Blocked Shot,n/a,69.0,-16.0,Riley Stillman,Blocker,Florida Panthers,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:39:46Z,1,15:44,04:16,Missed Shot,n/a,52.0,9.0,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:40:16Z,1,15:44,04:16,Faceoff,n/a,69.0,22.0,Noel Acciari,Winner,Florida Panthers,Andrew Mangiapane,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:41:18Z,1,16:03,03:57,Faceoff,n/a,20.0,-22.0,Sean Monahan,Winner,Calgary Flames,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:41:33Z,1,16:21,03:39,Shot,Snap Shot,-61.0,18.0,Evgenii Dadonov,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:41:36Z,1,16:24,03:36,Hit,n/a,-95.0,-24.0,Evgenii Dadonov,Hitter,Florida Panthers,Johnny Gaudreau,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:42:33Z,1,16:56,03:04,Faceoff,n/a,20.0,-22.0,Mark Jankowski,Winner,Calgary Flames,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:42:44Z,1,17:02,02:58,Giveaway,n/a,32.0,-31.0,Keith Yandle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:42:52Z,1,17:10,02:50,Shot,Slap Shot,31.0,-28.0,TJ Brodie,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:43:15Z,1,17:10,02:50,Faceoff,n/a,69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Lucas Wallmark,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:43:32Z,1,17:17,02:43,Blocked Shot,n/a,58.0,13.0,Aaron Ekblad,Blocker,Florida Panthers,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:43:35Z,1,17:20,02:40,Giveaway,n/a,41.0,-36.0,MacKenzie Weegar,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:43:43Z,1,17:28,02:32,Hit,n/a,46.0,36.0,Dominic Toninato,Hitter,Florida Panthers,Mark Giordano,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:44:23Z,1,18:08,01:52,Shot,Slap Shot,-51.0,23.0,Brett Connolly,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:44:28Z,1,18:13,01:47,Shot,Slap Shot,-49.0,-20.0,MacKenzie Weegar,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:44:34Z,1,18:18,01:42,Missed Shot,n/a,-70.0,-11.0,Brett Connolly,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:44:48Z,1,18:31,01:29,Shot,Slap Shot,-46.0,7.0,Noel Acciari,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:45:08Z,1,18:53,01:07,Takeaway,n/a,42.0,-8.0,Noel Acciari,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:45:18Z,1,19:02,00:58,Shot,Tip-In,73.0,-3.0,Mark Jankowski,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:45:25Z,1,19:09,00:51,Takeaway,n/a,88.0,34.0,Sam Bennett,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:46:11Z,1,19:53,00:07,Hit,n/a,91.0,30.0,Anton Stralman,Hitter,Florida Panthers,Andrew Mangiapane,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:46:13Z,1,19:55,00:05,Shot,Backhand,84.0,-9.0,Matthew Tkachuk,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T21:46:40Z,1,19:55,00:05,Faceoff,n/a,69.0,-22.0,Noel Acciari,Winner,Florida Panthers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:05:30Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Erik Haula,Winner,Florida Panthers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:05:36Z,2,00:08,19:52,Giveaway,n/a,9.0,26.0,TJ Brodie,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:05:54Z,2,00:26,19:34,Hit,n/a,86.0,-37.0,Noel Acciari,Hitter,Florida Panthers,Mark Giordano,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:06:09Z,2,00:28,19:32,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:06:49Z,2,00:36,19:24,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:07:30Z,2,01:09,18:51,Shot,Slap Shot,52.0,14.0,MacKenzie Weegar,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:08:09Z,2,01:48,18:12,Giveaway,n/a,36.0,-17.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:08:47Z,2,02:27,17:33,Shot,Snap Shot,61.0,8.0,Dominic Toninato,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:08:51Z,2,02:29,17:31,Hit,n/a,95.0,22.0,Elias Lindholm,Hitter,Calgary Flames,Dominic Toninato,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:08:59Z,2,02:38,17:22,Giveaway,n/a,-60.0,36.0,Mark Pysyk,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:09:12Z,2,02:44,17:16,Takeaway,n/a,-61.0,-9.0,Dillon Dube,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:09:13Z,2,02:53,17:07,Missed Shot,n/a,-41.0,-32.0,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:09:34Z,2,03:07,16:53,Missed Shot,n/a,-74.0,-6.0,Derek Ryan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:09:43Z,2,03:10,16:50,Goal,Tip-In,-77.0,3.0,Milan Lucic,Scorer,Calgary Flames,Derek Ryan,Assist,Calgary Flames,Mark Giordano,Assist,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers
+2020-03-01T22:10:17Z,2,03:10,16:50,Faceoff,n/a,0.0,0.0,Erik Haula,Winner,Florida Panthers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:11:00Z,2,03:45,16:15,Hit,n/a,-42.0,-2.0,MacKenzie Weegar,Hitter,Florida Panthers,Andrew Mangiapane,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:11:39Z,2,04:32,15:28,Hit,n/a,-40.0,-26.0,Aaron Ekblad,Hitter,Florida Panthers,Tobias Rieder,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:12:26Z,2,05:16,14:44,Takeaway,n/a,-78.0,2.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:12:26Z,2,05:18,14:42,Blocked Shot,n/a,-81.0,-12.0,Aaron Ekblad,Blocker,Florida Panthers,Derek Forbort,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:12:32Z,2,05:25,14:35,Takeaway,n/a,-12.0,-16.0,Brett Connolly,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:12:36Z,2,05:28,14:32,Shot,Snap Shot,47.0,-11.0,Aleksander Barkov,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:13:04Z,2,05:29,14:31,Faceoff,n/a,69.0,-22.0,Dominic Toninato,Winner,Florida Panthers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:13:22Z,2,05:45,14:15,Missed Shot,n/a,59.0,-37.0,Anton Stralman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:13:33Z,2,05:56,14:04,Shot,Tip-In,38.0,-35.0,Anton Stralman,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:13:33Z,2,06:06,13:54,Giveaway,n/a,-78.0,40.0,Milan Lucic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:14:07Z,2,06:27,13:33,Shot,Wrist Shot,-73.0,20.0,Andrew Mangiapane,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:16:14Z,2,06:28,13:32,Faceoff,n/a,-69.0,22.0,Erik Haula,Winner,Florida Panthers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:16:45Z,2,06:57,13:03,Blocked Shot,n/a,-60.0,18.0,Anton Stralman,Blocker,Florida Panthers,Rasmus Andersson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:17:11Z,2,06:57,13:03,Faceoff,n/a,-69.0,22.0,Sean Monahan,Winner,Calgary Flames,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:17:20Z,2,07:03,12:57,Blocked Shot,n/a,-78.0,-1.0,Aaron Ekblad,Blocker,Florida Panthers,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:17:30Z,2,07:13,12:47,Shot,Backhand,77.0,17.0,MacKenzie Weegar,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:17:55Z,2,07:38,12:22,Giveaway,n/a,62.0,-6.0,Evgenii Dadonov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:18:17Z,2,07:56,12:04,Giveaway,n/a,27.0,-23.0,Mike Matheson,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:18:25Z,2,08:03,11:57,Shot,Wrist Shot,-69.0,-19.0,Johnny Gaudreau,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:18:52Z,2,08:04,11:56,Faceoff,n/a,-69.0,-22.0,Mark Jankowski,Winner,Calgary Flames,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:19:42Z,2,08:51,11:09,Takeaway,n/a,-35.0,-29.0,Mike Matheson,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:20:24Z,2,09:30,10:30,Missed Shot,n/a,-79.0,-9.0,Dillon Dube,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:20:29Z,2,09:30,10:30,Takeaway,n/a,-26.0,34.0,Rasmus Andersson,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:20:23Z,2,09:33,10:27,Hit,n/a,-53.0,41.0,Dillon Dube,Hitter,Calgary Flames,Noel Acciari,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:20:42Z,2,09:52,10:08,Shot,Backhand,77.0,9.0,Mike Hoffman,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:20:54Z,2,10:03,09:57,Shot,Wrist Shot,-54.0,26.0,Mikael Backlund,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:21:50Z,2,11:00,09:00,Hit,n/a,-98.0,9.0,Lucas Wallmark,Hitter,Florida Panthers,Mark Jankowski,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:21:59Z,2,11:08,08:52,Shot,Wrist Shot,45.0,23.0,Jonathan Huberdeau,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:22:16Z,2,11:26,08:34,Hit,n/a,-82.0,29.0,Riley Stillman,Hitter,Florida Panthers,Tobias Rieder,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:22:39Z,2,11:49,08:11,Takeaway,n/a,32.0,-2.0,Evgenii Dadonov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:22:47Z,2,11:56,08:04,Shot,Snap Shot,72.0,-11.0,Jonathan Huberdeau,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:23:07Z,2,12:14,07:46,Shot,Tip-In,80.0,0.0,Jonathan Huberdeau,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:25:12Z,2,12:15,07:45,Faceoff,n/a,69.0,-22.0,Noel Acciari,Winner,Florida Panthers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:25:48Z,2,12:44,07:16,Missed Shot,n/a,84.0,-22.0,Erik Haula,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:25:53Z,2,12:48,07:12,Giveaway,n/a,63.0,26.0,Mark Jankowski,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:25:54Z,2,12:50,07:10,Shot,Slap Shot,57.0,19.0,Mike Hoffman,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:26:00Z,2,12:54,07:06,Missed Shot,n/a,73.0,5.0,Erik Haula,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:26:22Z,2,12:54,07:06,Faceoff,n/a,69.0,22.0,Dominic Toninato,Winner,Florida Panthers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:26:36Z,2,13:00,07:00,Blocked Shot,n/a,69.0,9.0,Rasmus Andersson,Blocker,Calgary Flames,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:26:44Z,2,13:09,06:51,Giveaway,n/a,39.0,-23.0,Frank Vatrano,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:27:09Z,2,13:33,06:27,Missed Shot,n/a,60.0,2.0,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:27:36Z,2,14:00,06:00,Shot,Tip-In,78.0,-5.0,Frank Vatrano,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:28:04Z,2,14:29,05:31,Giveaway,n/a,38.0,21.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:28:10Z,2,14:35,05:25,Shot,Wrist Shot,-74.0,-24.0,Johnny Gaudreau,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:28:45Z,2,15:00,05:00,Shot,Slap Shot,41.0,-18.0,Anton Stralman,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:29:11Z,2,15:22,04:38,Penalty,Too many men on the ice,-9.0,38.0,Matthew Tkachuk,PenaltyOn,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:31:02Z,2,15:22,04:38,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:31:25Z,2,15:36,04:24,Missed Shot,n/a,50.0,-26.0,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:32:19Z,2,16:29,03:31,Shot,Snap Shot,71.0,12.0,Jonathan Huberdeau,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:32:33Z,2,16:29,03:31,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:32:53Z,2,16:38,03:22,Shot,Slap Shot,62.0,11.0,Aleksander Barkov,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:32:58Z,2,16:39,03:21,Shot,Wrist Shot,75.0,5.0,Aleksander Barkov,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:33:13Z,2,16:47,03:13,Takeaway,n/a,81.0,-15.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:33:13Z,2,16:58,03:02,Shot,Slap Shot,-59.0,25.0,Mikael Backlund,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:33:39Z,2,17:22,02:38,Hit,n/a,81.0,38.0,Rasmus Andersson,Hitter,Calgary Flames,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:33:41Z,2,17:24,02:36,Shot,Slap Shot,39.0,18.0,MacKenzie Weegar,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:34:09Z,2,17:25,02:35,Faceoff,n/a,69.0,22.0,Erik Haula,Winner,Florida Panthers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:34:30Z,2,17:43,02:17,Giveaway,n/a,33.0,30.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:34:39Z,2,17:50,02:10,Hit,n/a,98.0,21.0,Erik Haula,Hitter,Florida Panthers,Mark Giordano,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:34:51Z,2,18:05,01:55,Takeaway,n/a,-24.0,-23.0,Erik Haula,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:35:06Z,2,18:19,01:41,Blocked Shot,n/a,-72.0,4.0,Erik Haula,Blocker,Florida Panthers,Rasmus Andersson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:35:32Z,2,18:46,01:14,Giveaway,n/a,-10.0,-30.0,Frank Vatrano,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:36:22Z,2,19:35,00:25,Giveaway,n/a,-95.0,-21.0,Anton Stralman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:36:30Z,2,19:42,00:18,Missed Shot,n/a,-85.0,-14.0,Dillon Dube,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:36:43Z,2,19:56,00:04,Takeaway,n/a,-56.0,38.0,Milan Lucic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:36:48Z,2,19:58,00:02,Missed Shot,n/a,-67.0,24.0,Milan Lucic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:55:36Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Erik Haula,Winner,Florida Panthers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:55:49Z,3,00:15,19:45,Takeaway,n/a,-92.0,26.0,Erik Haula,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:56:10Z,3,00:37,19:23,Blocked Shot,n/a,-71.0,-12.0,Rasmus Andersson,Blocker,Calgary Flames,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:56:29Z,3,00:55,19:05,Shot,Slap Shot,32.0,-5.0,Mark Giordano,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:56:35Z,3,01:01,18:59,Shot,Wrist Shot,74.0,7.0,Sean Monahan,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:56:44Z,3,01:09,18:51,Goal,Slap Shot,33.0,7.0,TJ Brodie,Scorer,Calgary Flames,Mark Giordano,Assist,Calgary Flames,Johnny Gaudreau,Assist,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers
+2020-03-01T22:57:25Z,3,01:09,18:51,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:57:39Z,3,01:31,18:29,Takeaway,n/a,73.0,24.0,Mike Matheson,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:58:12Z,3,02:04,17:56,Shot,Wrist Shot,-60.0,-2.0,Jonathan Huberdeau,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:58:22Z,3,02:14,17:46,Missed Shot,n/a,-79.0,-6.0,Jonathan Huberdeau,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:58:50Z,3,02:42,17:18,Shot,Slap Shot,56.0,31.0,Noah Hanifin,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:59:16Z,3,03:08,16:52,Blocked Shot,n/a,72.0,11.0,Riley Stillman,Blocker,Florida Panthers,Milan Lucic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:59:46Z,3,03:38,16:22,Giveaway,n/a,58.0,30.0,Anton Stralman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T22:59:51Z,3,03:43,16:17,Shot,Snap Shot,35.0,-30.0,TJ Brodie,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:00:17Z,3,03:43,16:17,Faceoff,n/a,69.0,-22.0,Mikael Backlund,Winner,Calgary Flames,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:00:35Z,3,04:00,16:00,Giveaway,n/a,67.0,-1.0,Keith Yandle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:00:37Z,3,04:02,15:58,Shot,Wrist Shot,56.0,-26.0,Mikael Backlund,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:00:56Z,3,04:21,15:39,Giveaway,n/a,-77.0,37.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:01:36Z,3,05:01,14:59,Hit,n/a,30.0,42.0,Noel Acciari,Hitter,Florida Panthers,Elias Lindholm,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:01:49Z,3,05:14,14:46,Hit,n/a,-94.0,-19.0,Erik Gustafsson,Hitter,Calgary Flames,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:01:57Z,3,05:22,14:38,Takeaway,n/a,-56.0,39.0,Brett Connolly,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:02:30Z,3,05:55,14:05,Hit,n/a,-95.0,-30.0,Rasmus Andersson,Hitter,Calgary Flames,Dominic Toninato,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:02:56Z,3,06:21,13:39,Shot,Backhand,-68.0,26.0,Frank Vatrano,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:03:19Z,3,06:44,13:16,Shot,Tip-In,85.0,-5.0,Dillon Dube,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:03:45Z,3,07:10,12:50,Blocked Shot,n/a,69.0,-9.0,Anton Stralman,Blocker,Florida Panthers,Dillon Dube,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:04:04Z,3,07:29,12:31,Blocked Shot,n/a,-66.0,24.0,Derek Forbort,Blocker,Calgary Flames,Colton Sceviour,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:04:16Z,3,07:41,12:19,Hit,n/a,-73.0,40.0,Lucas Wallmark,Hitter,Florida Panthers,Derek Forbort,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:04:36Z,3,07:43,12:17,Penalty,Hooking,-59.0,40.0,Matthew Tkachuk,PenaltyOn,Calgary Flames,Aaron Ekblad,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:06:18Z,3,07:43,12:17,Faceoff,n/a,-69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:06:35Z,3,07:49,12:11,Faceoff,n/a,-69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:07:08Z,3,08:05,11:55,Missed Shot,n/a,-53.0,-24.0,Aleksander Barkov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:07:51Z,3,08:48,11:12,Blocked Shot,n/a,-80.0,14.0,TJ Brodie,Blocker,Calgary Flames,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:08:04Z,3,08:59,11:01,Shot,Slap Shot,-66.0,18.0,Mike Hoffman,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:08:34Z,3,08:59,11:01,Faceoff,n/a,-69.0,22.0,Erik Haula,Winner,Florida Panthers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:08:49Z,3,09:16,10:44,Giveaway,n/a,-53.0,-30.0,Derek Forbort,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:08:51Z,3,09:17,10:43,Shot,Snap Shot,-59.0,-20.0,Frank Vatrano,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:08:55Z,3,09:21,10:39,Shot,Snap Shot,-66.0,-20.0,Frank Vatrano,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:09:13Z,3,09:22,10:38,Hit,n/a,90.0,31.0,Derek Forbort,Hitter,Calgary Flames,Erik Haula,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:09:11Z,3,09:38,10:22,Missed Shot,n/a,36.0,33.0,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:09:16Z,3,09:42,10:18,Shot,Wrist Shot,-65.0,14.0,Brett Connolly,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:09:47Z,3,10:13,09:47,Shot,Tip-In,70.0,-4.0,Sean Monahan,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:10:11Z,3,10:37,09:23,Takeaway,n/a,-41.0,-11.0,Dominic Toninato,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:10:19Z,3,10:46,09:14,Shot,Wrist Shot,-85.0,-26.0,Dominic Toninato,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:12:36Z,3,10:46,09:14,Faceoff,n/a,-69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:12:38Z,3,10:53,09:07,Hit,n/a,15.0,41.0,Dillon Dube,Hitter,Calgary Flames,Jonathan Huberdeau,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:12:34Z,3,10:55,09:05,Blocked Shot,n/a,69.0,6.0,Keith Yandle,Blocker,Florida Panthers,Derek Ryan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:12:54Z,3,10:56,09:04,Faceoff,n/a,69.0,22.0,Erik Haula,Winner,Florida Panthers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:13:25Z,3,11:18,08:42,Missed Shot,n/a,38.0,34.0,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:13:31Z,3,11:23,08:37,Shot,Backhand,76.0,4.0,Dillon Dube,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:13:40Z,3,11:32,08:28,Takeaway,n/a,18.0,-33.0,Frank Vatrano,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:14:23Z,3,12:16,07:44,Giveaway,n/a,-51.0,13.0,Mike Hoffman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:14:43Z,3,12:35,07:25,Hit,n/a,94.0,-11.0,Aleksander Barkov,Hitter,Florida Panthers,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:15:05Z,3,12:57,07:03,Shot,Wrist Shot,-63.0,-22.0,Mark Pysyk,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:15:16Z,3,13:08,06:52,Shot,Slap Shot,-75.0,-33.0,Riley Stillman,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:16:01Z,3,13:08,06:52,Faceoff,n/a,-69.0,-22.0,Mark Pysyk,Winner,Florida Panthers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:16:12Z,3,13:25,06:35,Hit,n/a,-20.0,-39.0,Mark Pysyk,Hitter,Florida Panthers,Derek Forbort,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:16:33Z,3,13:46,06:14,Giveaway,n/a,-48.0,34.0,Noel Acciari,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:16:48Z,3,14:00,06:00,Hit,n/a,-50.0,-38.0,Derek Forbort,Hitter,Calgary Flames,Brett Connolly,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:16:51Z,3,14:02,05:58,Shot,Wrist Shot,-85.0,-26.0,Brett Connolly,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:18:49Z,3,14:02,05:58,Faceoff,n/a,-69.0,-22.0,Mark Jankowski,Winner,Calgary Flames,Lucas Wallmark,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:19:24Z,3,14:09,05:51,Faceoff,n/a,20.0,22.0,Lucas Wallmark,Winner,Florida Panthers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:19:58Z,3,14:33,05:27,Hit,n/a,-36.0,41.0,Frank Vatrano,Hitter,Florida Panthers,Sam Bennett,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:20:14Z,3,14:50,05:10,Shot,Snap Shot,64.0,-18.0,Tobias Rieder,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:20:42Z,3,15:03,04:57,Faceoff,n/a,0.0,0.0,Derek Ryan,Winner,Calgary Flames,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:21:03Z,3,15:20,04:40,Giveaway,n/a,40.0,28.0,Mike Hoffman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:21:08Z,3,15:24,04:36,Blocked Shot,n/a,75.0,3.0,Keith Yandle,Blocker,Florida Panthers,Dillon Dube,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:21:14Z,3,15:31,04:29,Shot,Slap Shot,47.0,23.0,Noah Hanifin,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:21:57Z,3,16:13,03:47,Blocked Shot,n/a,-62.0,-17.0,Matthew Tkachuk,Blocker,Calgary Flames,Riley Stillman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:22:55Z,3,17:11,02:49,Missed Shot,n/a,47.0,29.0,Sean Monahan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:23:15Z,3,17:31,02:29,Shot,Wrist Shot,-10.0,-31.0,Dominic Toninato,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:24:26Z,3,18:15,01:45,Faceoff,n/a,69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:24:45Z,3,18:32,01:28,Missed Shot,n/a,54.0,-22.0,Dillon Dube,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:24:57Z,3,18:45,01:15,Shot,Wrist Shot,69.0,-15.0,Derek Ryan,Shooter,Calgary Flames,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:25:31Z,3,19:13,00:47,Takeaway,n/a,25.0,24.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:26:17Z,3,19:34,00:26,Faceoff,n/a,20.0,22.0,Sean Monahan,Winner,Calgary Flames,Lucas Wallmark,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:26:33Z,3,19:50,00:10,Missed Shot,n/a,-56.0,14.0,Mike Matheson,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:26:37Z,3,19:53,00:07,Takeaway,n/a,-94.0,-30.0,Rasmus Andersson,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T23:26:33Z,3,19:59,00:01,Shot,Slap Shot,66.0,23.0,Mike Matheson,Shooter,Florida Panthers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a

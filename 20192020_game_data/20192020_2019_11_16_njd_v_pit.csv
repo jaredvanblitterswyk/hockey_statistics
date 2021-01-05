@@ -1,0 +1,273 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-16T00:07:36Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Nico Hischier,Winner,New Jersey Devils,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:08:33Z,1,00:18,19:42,Hit,n/a,91.0,25.0,Nico Hischier,Hitter,New Jersey Devils,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:08:43Z,1,00:25,19:35,Missed Shot,n/a,49.0,-20.0,Taylor Hall,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:09:07Z,1,00:25,19:35,Faceoff,n/a,69.0,-22.0,Blake Coleman,Winner,New Jersey Devils,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:09:20Z,1,00:31,19:29,Takeaway,n/a,67.0,-35.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:09:20Z,1,00:32,19:28,Takeaway,n/a,62.0,-38.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:09:45Z,1,00:34,19:26,Penalty,Hooking,18.0,-11.0,Travis Zajac,PenaltyOn,New Jersey Devils,Evgeni Malkin,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:09:57Z,1,00:34,19:26,Faceoff,n/a,-69.0,-22.0,Pavel Zacha,Winner,New Jersey Devils,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:10:24Z,1,01:03,18:57,Blocked Shot,n/a,-72.0,3.0,Andy Greene,Blocker,New Jersey Devils,Alex Galchenyuk,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:10:36Z,1,01:15,18:45,Shot,Wrist Shot,46.0,0.0,Pavel Zacha,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:10:56Z,1,01:28,18:32,Shot,Slap Shot,-42.0,0.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:11:05Z,1,01:29,18:31,Shot,Snap Shot,-81.0,-6.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:11:20Z,1,01:59,18:01,Giveaway,n/a,-43.0,37.0,Dominik Simon,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:11:44Z,1,02:23,17:37,Hit,n/a,-92.0,24.0,Andy Greene,Hitter,New Jersey Devils,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:11:53Z,1,02:32,17:28,Shot,Wrist Shot,-47.0,-19.0,Dominik Simon,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:11:58Z,1,02:37,17:23,Shot,Backhand,-71.0,-7.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:12:12Z,1,02:47,17:13,Faceoff,n/a,69.0,22.0,Jack Hughes,Winner,New Jersey Devils,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:12:52Z,1,02:58,17:02,Hit,n/a,42.0,32.0,Brian Dumoulin,Hitter,Pittsburgh Penguins,Kyle Palmieri,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:12:58Z,1,03:05,16:55,Takeaway,n/a,53.0,30.0,Teddy Blueger,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:13:04Z,1,03:11,16:49,Blocked Shot,n/a,44.0,-1.0,Teddy Blueger,Blocker,Pittsburgh Penguins,Matt Tennyson,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:13:18Z,1,03:24,16:36,Hit,n/a,-18.0,-37.0,Miles Wood,Hitter,New Jersey Devils,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:13:21Z,1,03:25,16:35,Blocked Shot,n/a,-62.0,2.0,P.K. Subban,Blocker,New Jersey Devils,Teddy Blueger,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:13:35Z,1,03:25,16:35,Penalty,Slashing,-58.0,20.0,Zach Aston-Reese,PenaltyOn,Pittsburgh Penguins,Miles Wood,DrewBy,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:14:05Z,1,03:25,16:35,Penalty,Cross checking,-57.0,18.0,Miles Wood,PenaltyOn,New Jersey Devils,Zach Aston-Reese,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:14:16Z,1,03:25,16:35,Faceoff,n/a,-69.0,22.0,Nico Hischier,Winner,New Jersey Devils,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:15:05Z,1,04:19,15:41,Takeaway,n/a,29.0,-34.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:15:07Z,1,04:21,15:39,Shot,Snap Shot,-53.0,-29.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:15:55Z,1,05:09,14:51,Shot,Snap Shot,51.0,12.0,Jack Hughes,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:16:04Z,1,05:18,14:42,Shot,Snap Shot,-56.0,16.0,Bryan Rust,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:16:33Z,1,05:18,14:42,Faceoff,n/a,-69.0,22.0,Alex Galchenyuk,Winner,Pittsburgh Penguins,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:16:48Z,1,05:24,14:36,Takeaway,n/a,-96.0,15.0,Pavel Zacha,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:17:02Z,1,05:45,14:15,Shot,Tip-In,80.0,2.0,Wayne Simmonds,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:17:26Z,1,06:05,13:55,Hit,n/a,72.0,-38.0,Wayne Simmonds,Hitter,New Jersey Devils,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:17:50Z,1,06:23,13:37,Giveaway,n/a,-97.0,-1.0,Mackenzie Blackwood,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:17:50Z,1,06:32,13:28,Blocked Shot,n/a,-76.0,-7.0,Matt Tennyson,Blocker,New Jersey Devils,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:17:59Z,1,06:42,13:18,Hit,n/a,97.0,7.0,Blake Coleman,Hitter,New Jersey Devils,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:18:49Z,1,06:58,13:02,Giveaway,n/a,97.0,3.0,Brian Dumoulin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:18:22Z,1,06:59,13:01,Goal,Wrist Shot,76.0,3.0,Travis Zajac,Scorer,New Jersey Devils,Jesper Bratt,Assist,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a
+2019-11-16T00:19:02Z,1,06:59,13:01,Faceoff,n/a,0.0,0.0,Taylor Hall,Winner,New Jersey Devils,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:19:37Z,1,07:35,12:25,Shot,Snap Shot,56.0,20.0,Taylor Hall,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:19:42Z,1,07:41,12:19,Missed Shot,n/a,48.0,5.0,Nico Hischier,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:19:55Z,1,07:53,12:07,Giveaway,n/a,-4.0,-27.0,Dominik Simon,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:20:05Z,1,08:03,11:57,Hit,n/a,82.0,35.0,Kyle Palmieri,Hitter,New Jersey Devils,Juuso Riikola,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:23:13Z,1,08:55,11:05,Shot,Snap Shot,39.0,-10.0,Matt Tennyson,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:23:36Z,1,08:55,11:05,Faceoff,n/a,69.0,-22.0,Zach Aston-Reese,Winner,Pittsburgh Penguins,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:24:04Z,1,09:08,10:52,Giveaway,n/a,29.0,-24.0,Teddy Blueger,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:24:16Z,1,09:20,10:40,Missed Shot,n/a,36.0,9.0,Will Butcher,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:24:21Z,1,09:25,10:35,Hit,n/a,87.0,33.0,Nico Hischier,Hitter,New Jersey Devils,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:24:30Z,1,09:34,10:26,Hit,n/a,-95.0,25.0,Will Butcher,Hitter,New Jersey Devils,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:24:36Z,1,09:40,10:20,Missed Shot,n/a,-71.0,17.0,Teddy Blueger,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:24:49Z,1,09:52,10:08,Blocked Shot,n/a,-72.0,5.0,Jesper Bratt,Blocker,New Jersey Devils,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:25:10Z,1,10:14,09:46,Giveaway,n/a,-21.0,0.0,Blake Coleman,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:25:14Z,1,10:18,09:42,Takeaway,n/a,-27.0,18.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:25:36Z,1,10:39,09:21,Hit,n/a,93.0,-29.0,Nikita Gusev,Hitter,New Jersey Devils,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:25:41Z,1,10:45,09:15,Hit,n/a,93.0,27.0,Blake Coleman,Hitter,New Jersey Devils,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:27:47Z,1,10:54,09:06,Faceoff,n/a,20.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:28:04Z,1,11:02,08:58,Hit,n/a,16.0,37.0,Kyle Palmieri,Hitter,New Jersey Devils,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:29:02Z,1,12:01,07:59,Shot,Snap Shot,54.0,-16.0,P.K. Subban,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:29:47Z,1,12:46,07:14,Hit,n/a,-66.0,39.0,Bryan Rust,Hitter,Pittsburgh Penguins,Andy Greene,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:29:54Z,1,12:53,07:07,Shot,Snap Shot,-75.0,-12.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:30:02Z,1,13:00,07:00,Missed Shot,n/a,-48.0,0.0,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:30:09Z,1,13:03,06:57,Blocked Shot,n/a,-48.0,-11.0,Jesper Bratt,Blocker,New Jersey Devils,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:31:07Z,1,13:31,06:29,Penalty,Illegal check to head,59.0,35.0,Zach Aston-Reese,PenaltyOn,Pittsburgh Penguins,Nikita Gusev,DrewBy,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:31:24Z,1,13:31,06:29,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:31:31Z,1,13:40,06:20,Hit,n/a,36.0,-35.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Kyle Palmieri,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:31:37Z,1,13:45,06:15,Giveaway,n/a,63.0,32.0,Taylor Hall,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:31:40Z,1,13:49,06:11,Shot,Snap Shot,-60.0,29.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:31:50Z,1,13:54,06:06,Shot,Snap Shot,-63.0,1.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:32:28Z,1,13:54,06:06,Faceoff,n/a,-69.0,22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:32:22Z,1,14:03,05:57,Blocked Shot,n/a,-43.0,-12.0,Jesper Bratt,Blocker,New Jersey Devils,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:33:15Z,1,14:28,05:32,Faceoff,n/a,69.0,-22.0,Jesper Boqvist,Winner,New Jersey Devils,Brandon Tanev,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:33:56Z,1,14:46,05:14,Takeaway,n/a,-52.0,-35.0,Teddy Blueger,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:34:02Z,1,14:48,05:12,Missed Shot,n/a,-67.0,-24.0,Teddy Blueger,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:34:09Z,1,14:56,05:04,Shot,Snap Shot,56.0,4.0,Nico Hischier,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:34:34Z,1,14:56,05:04,Faceoff,n/a,69.0,22.0,Jack Hughes,Winner,New Jersey Devils,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:34:53Z,1,15:06,04:54,Shot,Snap Shot,55.0,15.0,Taylor Hall,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:35:07Z,1,15:06,04:54,Faceoff,n/a,69.0,22.0,Jack Hughes,Winner,New Jersey Devils,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:35:28Z,1,15:18,04:42,Blocked Shot,n/a,77.0,4.0,John Marino,Blocker,Pittsburgh Penguins,Will Butcher,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:35:28Z,1,15:20,04:40,Shot,Deflected,79.0,-11.0,Kyle Palmieri,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:35:49Z,1,15:20,04:40,Faceoff,n/a,69.0,-22.0,Jack Hughes,Winner,New Jersey Devils,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:36:08Z,1,15:34,04:26,Blocked Shot,n/a,63.0,0.0,Teddy Blueger,Blocker,Pittsburgh Penguins,Will Butcher,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:36:23Z,1,15:36,04:24,Shot,Wrist Shot,77.0,-11.0,Taylor Hall,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:38:26Z,1,15:50,04:10,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:38:41Z,1,15:57,04:03,Missed Shot,n/a,-40.0,-23.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:38:53Z,1,16:06,03:54,Takeaway,n/a,-97.0,17.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:39:02Z,1,16:18,03:42,Hit,n/a,-97.0,-16.0,Jake Guentzel,Hitter,Pittsburgh Penguins,Andy Greene,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:39:46Z,1,16:59,03:01,Shot,Wrist Shot,-35.0,-16.0,Jared McCann,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:40:07Z,1,17:00,03:00,Faceoff,n/a,-69.0,22.0,Pavel Zacha,Winner,New Jersey Devils,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:40:32Z,1,17:25,02:35,Hit,n/a,-40.0,38.0,Sam Lafferty,Hitter,Pittsburgh Penguins,Jesper Boqvist,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:40:50Z,1,17:26,02:34,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:41:10Z,1,17:31,02:29,Shot,Slap Shot,-48.0,-27.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:42:15Z,1,18:35,01:25,Hit,n/a,-87.0,-33.0,Nico Hischier,Hitter,New Jersey Devils,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:42:25Z,1,18:45,01:15,Giveaway,n/a,-98.0,-10.0,Mirco Mueller,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:42:36Z,1,18:56,01:04,Missed Shot,n/a,39.0,-28.0,Matt Tennyson,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:42:50Z,1,19:09,00:51,Missed Shot,n/a,44.0,33.0,Miles Wood,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:42:55Z,1,19:14,00:46,Hit,n/a,97.0,-12.0,Juuso Riikola,Hitter,Pittsburgh Penguins,P.K. Subban,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:43:23Z,1,19:20,00:40,Faceoff,n/a,-20.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:44:19Z,1,19:31,00:29,Faceoff,n/a,-69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:44:32Z,1,19:35,00:25,Shot,Slap Shot,-37.0,20.0,John Marino,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:44:45Z,1,19:35,00:25,Faceoff,n/a,-69.0,22.0,Nico Hischier,Winner,New Jersey Devils,Bryan Rust,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T00:45:20Z,1,19:58,00:02,Shot,Slap Shot,-38.0,-6.0,Justin Schultz,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:03:37Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:04:11Z,2,00:15,19:45,Hit,n/a,54.0,-38.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Taylor Hall,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:04:17Z,2,00:21,19:39,Hit,n/a,57.0,41.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Andy Greene,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:04:33Z,2,00:34,19:26,Shot,Snap Shot,64.0,-32.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:04:41Z,2,00:36,19:24,Shot,Snap Shot,63.0,3.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:04:52Z,2,00:36,19:24,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:05:12Z,2,00:44,19:16,Hit,n/a,46.0,-35.0,Blake Coleman,Hitter,New Jersey Devils,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:05:27Z,2,01:00,19:00,Shot,Wrist Shot,64.0,-24.0,Bryan Rust,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:05:32Z,2,01:05,18:55,Shot,Snap Shot,72.0,1.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:05:33Z,2,01:05,18:55,Takeaway,n/a,97.0,17.0,Jake Guentzel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:06:23Z,2,01:55,18:05,Shot,Snap Shot,-54.0,38.0,Miles Wood,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:06:51Z,2,02:01,17:59,Faceoff,n/a,-20.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:07:37Z,2,02:17,17:43,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:07:50Z,2,02:23,17:37,Shot,Snap Shot,48.0,15.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:08:09Z,2,02:42,17:18,Hit,n/a,52.0,40.0,Kyle Palmieri,Hitter,New Jersey Devils,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:08:26Z,2,02:59,17:01,Hit,n/a,-97.0,12.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Jesper Boqvist,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:09:02Z,2,03:11,16:49,Faceoff,n/a,69.0,-22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Jesper Boqvist,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:09:25Z,2,03:14,16:46,Blocked Shot,n/a,78.0,-16.0,Pavel Zacha,Blocker,New Jersey Devils,Alex Galchenyuk,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:09:41Z,2,03:14,16:46,Faceoff,n/a,69.0,-22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:10:03Z,2,03:25,16:35,Hit,n/a,96.0,-15.0,Travis Zajac,Hitter,New Jersey Devils,Nick Bjugstad,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:10:14Z,2,03:28,16:32,Missed Shot,n/a,78.0,6.0,Sam Lafferty,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:10:07Z,2,03:30,16:30,Shot,Slap Shot,36.0,6.0,Brian Dumoulin,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:11:03Z,2,04:26,15:34,Hit,n/a,97.0,-1.0,Matt Tennyson,Hitter,New Jersey Devils,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:11:15Z,2,04:38,15:22,Shot,Tip-In,-75.0,5.0,Nico Hischier,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:11:38Z,2,05:00,15:00,Hit,n/a,-98.0,0.0,Blake Coleman,Hitter,New Jersey Devils,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:11:42Z,2,05:05,14:55,Hit,n/a,43.0,37.0,Damon Severson,Hitter,New Jersey Devils,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:11:56Z,2,05:08,14:52,Faceoff,n/a,69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:12:38Z,2,05:13,14:47,Shot,Snap Shot,39.0,21.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:12:30Z,2,05:15,14:45,Blocked Shot,n/a,80.0,-1.0,Damon Severson,Blocker,New Jersey Devils,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:12:48Z,2,05:15,14:45,Faceoff,n/a,69.0,-22.0,Pavel Zacha,Winner,New Jersey Devils,Dominik Kahun,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:13:26Z,2,05:39,14:21,Shot,Wrist Shot,64.0,-20.0,Dominik Simon,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:13:41Z,2,05:50,14:10,Missed Shot,n/a,29.0,-29.0,Dominik Kahun,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:13:45Z,2,05:58,14:02,Hit,n/a,83.0,37.0,Wayne Simmonds,Hitter,New Jersey Devils,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:14:03Z,2,06:16,13:44,Shot,Wrist Shot,57.0,-28.0,Bryan Rust,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:14:11Z,2,06:22,13:38,Shot,Slap Shot,-72.0,-21.0,Nico Hischier,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:16:19Z,2,06:22,13:38,Faceoff,n/a,-69.0,-22.0,Nico Hischier,Winner,New Jersey Devils,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:17:10Z,2,06:37,13:23,Faceoff,n/a,20.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:17:38Z,2,07:00,13:00,Hit,n/a,-83.0,-35.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Miles Wood,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:17:49Z,2,07:07,12:53,Penalty,Tripping,-92.0,22.0,Jack Johnson,PenaltyOn,Pittsburgh Penguins,Jack Hughes,DrewBy,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:18:24Z,2,07:07,12:53,Faceoff,n/a,-69.0,-22.0,Jack Hughes,Winner,New Jersey Devils,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:18:47Z,2,07:28,12:32,Blocked Shot,n/a,-61.0,5.0,Brian Dumoulin,Blocker,Pittsburgh Penguins,Jack Hughes,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:19:13Z,2,07:55,12:05,Missed Shot,n/a,-64.0,-1.0,Kyle Palmieri,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:19:15Z,2,07:57,12:03,Takeaway,n/a,-58.0,36.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:19:44Z,2,08:24,11:36,Shot,Snap Shot,59.0,13.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:19:56Z,2,08:24,11:36,Penalty,Hooking,-59.0,16.0,Taylor Hall,PenaltyOn,New Jersey Devils,Teddy Blueger,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:20:20Z,2,08:24,11:36,Faceoff,n/a,69.0,22.0,Nico Hischier,Winner,New Jersey Devils,Dominik Simon,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:22:07Z,2,10:03,09:57,Shot,Tip-In,74.0,2.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:22:16Z,2,10:11,09:49,Blocked Shot,n/a,45.0,0.0,Blake Coleman,Blocker,New Jersey Devils,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:22:41Z,2,10:34,09:26,Shot,Wrist Shot,81.0,-21.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:22:49Z,2,10:36,09:24,Shot,Wrist Shot,81.0,6.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:24:53Z,2,10:36,09:24,Faceoff,n/a,69.0,22.0,Travis Zajac,Winner,New Jersey Devils,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:25:11Z,2,10:50,09:10,Hit,n/a,-96.0,21.0,Travis Zajac,Hitter,New Jersey Devils,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:25:30Z,2,11:09,08:51,Blocked Shot,n/a,-72.0,-5.0,Jared McCann,Blocker,Pittsburgh Penguins,Travis Zajac,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:25:53Z,2,11:32,08:28,Hit,n/a,57.0,-40.0,Matt Tennyson,Hitter,New Jersey Devils,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:26:04Z,2,11:43,08:17,Hit,n/a,97.0,-8.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Mirco Mueller,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:26:17Z,2,11:56,08:04,Takeaway,n/a,-53.0,-35.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:26:40Z,2,12:18,07:42,Shot,Backhand,77.0,0.0,Bryan Rust,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:26:52Z,2,12:30,07:30,Missed Shot,n/a,36.0,-5.0,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:27:12Z,2,12:50,07:10,Blocked Shot,n/a,-45.0,-17.0,Evgeni Malkin,Blocker,Pittsburgh Penguins,Taylor Hall,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:27:40Z,2,13:16,06:44,Shot,Snap Shot,-45.0,-3.0,Damon Severson,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:28:01Z,2,13:16,06:44,Faceoff,n/a,-69.0,-22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:28:32Z,2,13:32,06:28,Hit,n/a,-93.0,29.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Pavel Zacha,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:29:02Z,2,13:59,06:01,Shot,Snap Shot,-77.0,21.0,Jesper Boqvist,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:29:27Z,2,13:59,06:01,Faceoff,n/a,-69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:29:41Z,2,14:12,05:48,Hit,n/a,-37.0,-38.0,Jared McCann,Hitter,Pittsburgh Penguins,Blake Coleman,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:30:14Z,2,14:35,05:25,Hit,n/a,-63.0,39.0,Blake Coleman,Hitter,New Jersey Devils,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:30:35Z,2,15:05,04:55,Shot,Slap Shot,-50.0,28.0,P.K. Subban,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:32:28Z,2,15:05,04:55,Faceoff,n/a,-69.0,22.0,Jack Hughes,Winner,New Jersey Devils,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:32:55Z,2,15:09,04:51,Blocked Shot,n/a,-48.0,12.0,Zach Aston-Reese,Blocker,Pittsburgh Penguins,P.K. Subban,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:33:06Z,2,15:09,04:51,Faceoff,n/a,-20.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Kyle Palmieri,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:34:22Z,2,16:01,03:59,Hit,n/a,-87.0,-33.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Nico Hischier,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:34:53Z,2,16:32,03:28,Hit,n/a,-89.0,17.0,Jack Johnson,Hitter,Pittsburgh Penguins,Damon Severson,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:35:42Z,2,16:52,03:08,Faceoff,n/a,-20.0,22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:36:39Z,2,17:00,03:00,Faceoff,n/a,0.0,0.0,Pavel Zacha,Winner,New Jersey Devils,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:37:10Z,2,17:29,02:31,Penalty,Cross checking,-57.0,40.0,Wayne Simmonds,PenaltyOn,New Jersey Devils,John Marino,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:37:58Z,2,17:29,02:31,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:38:46Z,2,18:11,01:49,Takeaway,n/a,31.0,19.0,Nico Hischier,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:38:51Z,2,18:16,01:44,Shot,Slap Shot,-56.0,-11.0,Nico Hischier,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:39:16Z,2,18:30,01:30,Takeaway,n/a,92.0,8.0,Mirco Mueller,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:39:31Z,2,18:56,01:04,Missed Shot,n/a,-56.0,-21.0,Blake Coleman,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:40:17Z,2,19:40,00:20,Shot,Snap Shot,42.0,-24.0,John Marino,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:40:59Z,2,19:40,00:20,Faceoff,n/a,69.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:41:09Z,2,19:47,00:13,Hit,n/a,97.0,-14.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Will Butcher,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:41:55Z,2,19:55,00:05,Goal,Backhand,-83.0,-9.0,Blake Coleman,Scorer,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T01:42:13Z,2,19:55,00:05,Faceoff,n/a,0.0,0.0,Travis Zajac,Winner,New Jersey Devils,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:00:25Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Nico Hischier,Winner,New Jersey Devils,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:01:05Z,3,00:12,19:48,Faceoff,n/a,-69.0,-22.0,Nico Hischier,Winner,New Jersey Devils,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:02:28Z,3,01:20,18:40,Hit,n/a,-30.0,39.0,Will Butcher,Hitter,New Jersey Devils,Dominik Kahun,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:02:34Z,3,01:26,18:34,Shot,Snap Shot,-77.0,-20.0,Jack Johnson,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:02:39Z,3,01:31,18:29,Missed Shot,n/a,-77.0,-2.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:02:45Z,3,01:37,18:23,Missed Shot,n/a,-69.0,-3.0,Dominik Kahun,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:03:10Z,3,01:37,18:23,Faceoff,n/a,-69.0,-22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:03:54Z,3,02:11,17:49,Hit,n/a,74.0,39.0,Jesper Boqvist,Hitter,New Jersey Devils,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:04:31Z,3,02:58,17:02,Shot,Slap Shot,32.0,24.0,Will Butcher,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:05:02Z,3,03:27,16:33,Hit,n/a,59.0,39.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Nico Hischier,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:05:02Z,3,03:31,16:29,Missed Shot,n/a,30.0,30.0,Mirco Mueller,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:05:45Z,3,03:33,16:27,Faceoff,n/a,69.0,22.0,Jack Hughes,Winner,New Jersey Devils,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:06:04Z,3,03:51,16:09,Takeaway,n/a,11.0,-34.0,Jack Hughes,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:06:36Z,3,04:23,15:37,Hit,n/a,-97.0,14.0,Blake Coleman,Hitter,New Jersey Devils,Sam Lafferty,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:07:09Z,3,04:50,15:10,Hit,n/a,23.0,-27.0,Brian Dumoulin,Hitter,Pittsburgh Penguins,Nikita Gusev,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:07:27Z,3,04:50,15:10,Faceoff,n/a,20.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:07:38Z,3,05:00,15:00,Hit,n/a,97.0,9.0,Travis Zajac,Hitter,New Jersey Devils,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:07:49Z,3,05:11,14:49,Blocked Shot,n/a,-63.0,-14.0,Damon Severson,Blocker,New Jersey Devils,Jake Guentzel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:08:12Z,3,05:35,14:25,Takeaway,n/a,20.0,38.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:08:30Z,3,05:53,14:07,Hit,n/a,99.0,-15.0,Jesper Boqvist,Hitter,New Jersey Devils,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:08:58Z,3,05:54,14:06,Faceoff,n/a,69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:09:20Z,3,06:11,13:49,Shot,Snap Shot,-40.0,-25.0,Dominik Simon,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:09:25Z,3,06:16,13:44,Hit,n/a,44.0,38.0,Brian Dumoulin,Hitter,Pittsburgh Penguins,Miles Wood,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:09:35Z,3,06:26,13:34,Shot,Snap Shot,-62.0,23.0,Jared McCann,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:11:47Z,3,06:26,13:34,Faceoff,n/a,-69.0,22.0,Nico Hischier,Winner,New Jersey Devils,Bryan Rust,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:12:23Z,3,06:55,13:05,Missed Shot,n/a,-42.0,33.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:12:36Z,3,07:06,12:54,Shot,Slap Shot,-39.0,25.0,Justin Schultz,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:13:06Z,3,07:06,12:54,Faceoff,n/a,-69.0,22.0,Pavel Zacha,Winner,New Jersey Devils,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:13:15Z,3,07:17,12:43,Blocked Shot,n/a,-59.0,18.0,Jesper Boqvist,Blocker,New Jersey Devils,Alex Galchenyuk,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:13:32Z,3,07:35,12:25,Giveaway,n/a,-58.0,38.0,Alex Galchenyuk,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:13:38Z,3,07:41,12:19,Blocked Shot,n/a,-72.0,-2.0,P.K. Subban,Blocker,New Jersey Devils,Zach Aston-Reese,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:13:40Z,3,07:42,12:18,Giveaway,n/a,-53.0,-5.0,Pavel Zacha,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:13:48Z,3,07:51,12:09,Missed Shot,n/a,-72.0,0.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:13:55Z,3,07:57,12:03,Hit,n/a,-61.0,41.0,P.K. Subban,Hitter,New Jersey Devils,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:14:07Z,3,08:00,12:00,Goal,Snap Shot,-69.0,-15.0,Jack Johnson,Scorer,Pittsburgh Penguins,Alex Galchenyuk,Assist,Pittsburgh Penguins,Sam Lafferty,Assist,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils
+2019-11-16T02:14:44Z,3,08:00,12:00,Faceoff,n/a,0.0,0.0,Jared McCann,Winner,Pittsburgh Penguins,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:14:57Z,3,08:10,11:50,Hit,n/a,-96.0,9.0,Jared McCann,Hitter,Pittsburgh Penguins,Mirco Mueller,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:15:27Z,3,08:40,11:20,Takeaway,n/a,-50.0,-36.0,Kyle Palmieri,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:15:34Z,3,08:47,11:13,Missed Shot,n/a,-41.0,-13.0,Brian Dumoulin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:15:50Z,3,09:04,10:56,Shot,Snap Shot,-61.0,-6.0,Jared McCann,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:16:02Z,3,09:15,10:45,Blocked Shot,n/a,-71.0,1.0,Jack Hughes,Blocker,New Jersey Devils,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:16:16Z,3,09:18,10:42,Missed Shot,n/a,-53.0,23.0,Brian Dumoulin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:16:46Z,3,09:29,10:31,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:17:04Z,3,09:46,10:14,Hit,n/a,95.0,-18.0,Jesper Bratt,Hitter,New Jersey Devils,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:17:15Z,3,09:57,10:03,Missed Shot,n/a,-61.0,23.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:17:46Z,3,10:22,09:38,Faceoff,n/a,69.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:18:17Z,3,10:27,09:33,Blocked Shot,n/a,69.0,-4.0,Brandon Tanev,Blocker,Pittsburgh Penguins,P.K. Subban,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:20:25Z,3,10:27,09:33,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:20:29Z,3,10:32,09:28,Giveaway,n/a,37.0,-29.0,P.K. Subban,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:20:46Z,3,10:49,09:11,Takeaway,n/a,-23.0,30.0,Miles Wood,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:21:00Z,3,11:03,08:57,Hit,n/a,-22.0,38.0,Blake Coleman,Hitter,New Jersey Devils,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:21:32Z,3,11:15,08:45,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:21:54Z,3,11:22,08:38,Shot,Snap Shot,-39.0,-19.0,Justin Schultz,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:22:01Z,3,11:24,08:36,Shot,Backhand,-66.0,-2.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:22:20Z,3,11:25,08:35,Faceoff,n/a,-20.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:22:41Z,3,11:43,08:17,Hit,n/a,-98.0,16.0,Bryan Rust,Hitter,Pittsburgh Penguins,Taylor Hall,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:22:56Z,3,11:58,08:02,Shot,Snap Shot,59.0,16.0,Taylor Hall,Shooter,New Jersey Devils,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:23:12Z,3,12:14,07:46,Giveaway,n/a,-46.0,20.0,Matt Tennyson,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:23:52Z,3,12:54,07:06,Missed Shot,n/a,83.0,-22.0,Miles Wood,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:24:04Z,3,13:06,06:54,Blocked Shot,n/a,-72.0,-7.0,Mirco Mueller,Blocker,New Jersey Devils,Teddy Blueger,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:24:32Z,3,13:09,06:51,Faceoff,n/a,-69.0,-22.0,Pavel Zacha,Winner,New Jersey Devils,Zach Aston-Reese,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:25:00Z,3,13:14,06:46,Hit,n/a,-24.0,40.0,Blake Coleman,Hitter,New Jersey Devils,Juuso Riikola,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:25:57Z,3,14:16,05:44,Hit,n/a,-74.0,28.0,Bryan Rust,Hitter,Pittsburgh Penguins,Will Butcher,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:26:21Z,3,14:17,05:43,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:26:46Z,3,14:41,05:19,Missed Shot,n/a,-37.0,20.0,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:26:54Z,3,14:48,05:12,Missed Shot,n/a,-45.0,-9.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:27:10Z,3,15:04,04:56,Blocked Shot,n/a,-54.0,-7.0,Nico Hischier,Blocker,New Jersey Devils,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:27:20Z,3,15:07,04:53,Blocked Shot,n/a,-56.0,2.0,Nico Hischier,Blocker,New Jersey Devils,Brian Dumoulin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:27:41Z,3,15:36,04:24,Hit,n/a,-59.0,-37.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Mirco Mueller,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:27:47Z,3,15:41,04:19,Blocked Shot,n/a,-73.0,-2.0,Mirco Mueller,Blocker,New Jersey Devils,Zach Aston-Reese,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:27:55Z,3,15:48,04:12,Blocked Shot,n/a,-73.0,5.0,Matt Tennyson,Blocker,New Jersey Devils,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:29:54Z,3,15:48,04:12,Faceoff,n/a,-69.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:30:44Z,3,16:26,03:34,Blocked Shot,n/a,-73.0,4.0,Andy Greene,Blocker,New Jersey Devils,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:30:50Z,3,16:32,03:28,Giveaway,n/a,-96.0,8.0,Andy Greene,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:30:52Z,3,16:34,03:26,Missed Shot,n/a,-36.0,-20.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:31:28Z,3,16:46,03:14,Faceoff,n/a,0.0,0.0,Pavel Zacha,Winner,New Jersey Devils,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:31:59Z,3,17:13,02:47,Takeaway,n/a,29.0,22.0,Wayne Simmonds,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:32:20Z,3,17:35,02:25,Hit,n/a,-64.0,-39.0,Will Butcher,Hitter,New Jersey Devils,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:32:28Z,3,17:42,02:18,Blocked Shot,n/a,-70.0,-1.0,Will Butcher,Blocker,New Jersey Devils,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:32:44Z,3,17:58,02:02,Hit,n/a,-41.0,-29.0,Nico Hischier,Hitter,New Jersey Devils,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:34:08Z,3,19:22,00:38,Shot,Snap Shot,-74.0,1.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:34:12Z,3,19:22,00:38,Takeaway,n/a,-47.0,-33.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:34:15Z,3,19:28,00:32,Shot,Snap Shot,-64.0,-1.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:35:30Z,3,19:41,00:19,Giveaway,n/a,-95.0,-9.0,P.K. Subban,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:34:35Z,3,19:44,00:16,Shot,Snap Shot,-58.0,14.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-16T02:36:03Z,3,19:44,00:16,Faceoff,n/a,-69.0,22.0,Nico Hischier,Winner,New Jersey Devils,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a

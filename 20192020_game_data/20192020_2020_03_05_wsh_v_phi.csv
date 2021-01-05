@@ -1,0 +1,276 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-03-05T00:10:02Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:11:08Z,1,00:29,19:31,Missed Shot,n/a,-29.0,2.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:11:31Z,1,00:50,19:10,Blocked Shot,n/a,-82.0,-7.0,Travis Sanheim,Blocker,Philadelphia Flyers,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:11:38Z,1,00:59,19:01,Giveaway,n/a,-63.0,39.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:12:01Z,1,01:08,18:52,Penalty,Interference,51.0,-38.0,Scott Laughton,PenaltyOn,Philadelphia Flyers,T.J. Oshie,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:12:31Z,1,01:08,18:52,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:13:10Z,1,01:51,18:09,Shot,Wrist Shot,-80.0,8.0,Jakub Vrana,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:13:43Z,1,01:52,18:08,Faceoff,n/a,-69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Derek Grant,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:13:50Z,1,01:58,18:02,Hit,n/a,-80.0,38.0,Ivan Provorov,Hitter,Philadelphia Flyers,Evgeny Kuznetsov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:14:24Z,1,02:32,17:28,Blocked Shot,n/a,-67.0,-16.0,Matt Niskanen,Blocker,Philadelphia Flyers,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:14:53Z,1,03:01,16:59,Shot,Wrist Shot,-21.0,39.0,Michael Raffl,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:15:07Z,1,03:14,16:46,Giveaway,n/a,-70.0,17.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:15:11Z,1,03:16,16:44,Giveaway,n/a,-94.0,25.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:15:40Z,1,03:47,16:13,Shot,Wrist Shot,-26.0,-2.0,Richard Panik,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:15:51Z,1,03:58,16:02,Giveaway,n/a,97.0,-8.0,Jonas Siegenthaler,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:15:59Z,1,04:06,15:54,Shot,Slap Shot,32.0,-28.0,Philippe Myers,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:16:07Z,1,04:14,15:46,Hit,n/a,-93.0,18.0,Richard Panik,Hitter,Washington Capitals,Philippe Myers,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:16:11Z,1,04:16,15:44,Giveaway,n/a,-96.0,1.0,Philippe Myers,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:16:15Z,1,04:20,15:40,Missed Shot,n/a,-77.0,-12.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:16:45Z,1,04:21,15:39,Faceoff,n/a,-69.0,-22.0,Derek Grant,Winner,Philadelphia Flyers,Ilya Kovalchuk,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:17:23Z,1,04:43,15:17,Blocked Shot,n/a,75.0,-8.0,Jonas Siegenthaler,Blocker,Washington Capitals,Derek Grant,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:17:40Z,1,05:02,14:58,Hit,n/a,-62.0,-38.0,Tom Wilson,Hitter,Washington Capitals,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:18:05Z,1,05:26,14:34,Hit,n/a,92.0,29.0,Nate Thompson,Hitter,Philadelphia Flyers,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:18:08Z,1,05:30,14:30,Missed Shot,n/a,84.0,8.0,Michael Raffl,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:18:10Z,1,05:32,14:28,Hit,n/a,98.0,6.0,Nate Thompson,Hitter,Philadelphia Flyers,John Carlson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:18:32Z,1,05:50,14:10,Missed Shot,n/a,37.0,16.0,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:18:53Z,1,05:51,14:09,Faceoff,n/a,69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:19:21Z,1,06:14,13:46,Blocked Shot,n/a,-56.0,27.0,Scott Laughton,Blocker,Philadelphia Flyers,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:19:26Z,1,06:19,13:41,Hit,n/a,-18.0,39.0,Scott Laughton,Hitter,Philadelphia Flyers,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:20:00Z,1,06:53,13:07,Blocked Shot,n/a,85.0,-8.0,John Carlson,Blocker,Washington Capitals,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:20:14Z,1,07:07,12:53,Hit,n/a,69.0,36.0,John Carlson,Hitter,Washington Capitals,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:20:47Z,1,07:23,12:37,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Derek Grant,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:21:20Z,1,07:45,12:15,Hit,n/a,95.0,-24.0,Derek Grant,Hitter,Philadelphia Flyers,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:21:26Z,1,07:49,12:11,Hit,n/a,96.0,-1.0,James van Riemsdyk,Hitter,Philadelphia Flyers,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:21:32Z,1,07:55,12:05,Giveaway,n/a,-93.0,10.0,Brian Elliott,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:21:35Z,1,07:57,12:03,Hit,n/a,-96.0,8.0,Derek Grant,Hitter,Philadelphia Flyers,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:21:49Z,1,08:11,11:49,Giveaway,n/a,96.0,7.0,Richard Panik,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:22:03Z,1,08:27,11:33,Blocked Shot,n/a,69.0,-14.0,Jonas Siegenthaler,Blocker,Washington Capitals,Philippe Myers,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:22:09Z,1,08:33,11:27,Blocked Shot,n/a,76.0,7.0,Nick Jensen,Blocker,Washington Capitals,Travis Sanheim,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:24:39Z,1,08:50,11:10,Faceoff,n/a,-20.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:24:55Z,1,09:04,10:56,Hit,n/a,97.0,-8.0,Scott Laughton,Hitter,Philadelphia Flyers,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:25:20Z,1,09:29,10:31,Giveaway,n/a,96.0,0.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:25:24Z,1,09:33,10:27,Takeaway,n/a,69.0,33.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:25:48Z,1,09:57,10:03,Giveaway,n/a,30.0,-28.0,Brenden Dillon,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:25:49Z,1,09:58,10:02,Blocked Shot,n/a,-78.0,-2.0,Robert Hagg,Blocker,Philadelphia Flyers,Brenden Dillon,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:25:57Z,1,10:06,09:54,Shot,Wrist Shot,67.0,-2.0,Jakub Voracek,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:26:25Z,1,10:34,09:26,Shot,Wrist Shot,-53.0,-31.0,Carl Hagelin,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:26:34Z,1,10:43,09:17,Blocked Shot,n/a,-51.0,-23.0,James van Riemsdyk,Blocker,Philadelphia Flyers,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:26:39Z,1,10:48,09:12,Hit,n/a,-57.0,-29.0,Derek Grant,Hitter,Philadelphia Flyers,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:26:46Z,1,10:54,09:06,Hit,n/a,9.0,30.0,Radko Gudas,Hitter,Washington Capitals,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:26:58Z,1,11:08,08:52,Hit,n/a,-23.0,40.0,Robert Hagg,Hitter,Philadelphia Flyers,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:27:11Z,1,11:20,08:40,Blocked Shot,n/a,-74.0,5.0,Justin Braun,Blocker,Philadelphia Flyers,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:27:34Z,1,11:43,08:17,Hit,n/a,-90.0,27.0,Nic Dowd,Hitter,Washington Capitals,Nate Thompson,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:27:40Z,1,11:45,08:15,Giveaway,n/a,-94.0,21.0,Nate Thompson,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:27:40Z,1,11:49,08:11,Shot,Wrist Shot,-76.0,-14.0,Dmitry Orlov,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:27:53Z,1,11:55,08:05,Penalty,Holding,-97.0,5.0,Justin Braun,PenaltyOn,Philadelphia Flyers,Garnet Hathaway,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:29:52Z,1,11:55,08:05,Faceoff,n/a,-69.0,22.0,T.J. Oshie,Winner,Washington Capitals,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:30:14Z,1,12:03,07:57,Shot,Wrist Shot,-48.0,23.0,Sean Couturier,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:31:31Z,1,13:20,06:40,Hit,n/a,-60.0,-38.0,Alex Ovechkin,Hitter,Washington Capitals,Kevin Hayes,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:31:49Z,1,13:38,06:22,Blocked Shot,n/a,-46.0,8.0,Tyler Pitlick,Blocker,Philadelphia Flyers,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:32:41Z,1,13:58,06:02,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Derek Grant,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:32:49Z,1,14:09,05:51,Goal,Snap Shot,-71.0,1.0,Lars Eller,Scorer,Washington Capitals,Richard Panik,Assist,Washington Capitals,Carl Hagelin,Assist,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers
+2020-03-05T00:34:03Z,1,14:09,05:51,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:34:20Z,1,14:37,05:23,Takeaway,n/a,53.0,20.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:34:32Z,1,14:54,05:06,Missed Shot,n/a,-54.0,3.0,Nic Dowd,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:34:58Z,1,15:07,04:53,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:35:36Z,1,15:18,04:42,Shot,Slap Shot,32.0,-29.0,Justin Braun,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:37:16Z,1,15:19,04:41,Faceoff,n/a,69.0,-22.0,T.J. Oshie,Winner,Washington Capitals,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:38:30Z,1,15:52,04:08,Shot,Snap Shot,67.0,-29.0,Claude Giroux,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:38:45Z,1,16:06,03:54,Missed Shot,n/a,81.0,-6.0,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:39:10Z,1,16:32,03:28,Missed Shot,n/a,-48.0,7.0,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:39:18Z,1,16:37,03:23,Missed Shot,n/a,-68.0,-20.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:39:19Z,1,16:41,03:19,Hit,n/a,-38.0,33.0,Michael Raffl,Hitter,Philadelphia Flyers,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:39:25Z,1,16:47,03:13,Hit,n/a,-43.0,38.0,Tom Wilson,Hitter,Washington Capitals,Michael Raffl,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:39:31Z,1,16:50,03:10,Takeaway,n/a,-20.0,-28.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:41:13Z,1,17:03,02:57,Hit,n/a,94.0,5.0,Nate Thompson,Hitter,Philadelphia Flyers,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:41:41Z,1,17:05,02:55,Penalty,Roughing,85.0,-9.0,Tom Wilson,PenaltyOn,Washington Capitals,Nate Thompson,DrewBy,Washington Capitals,Jakub Vrana,ServedBy,Philadelphia Flyers,n/a,n/a,n/a
+2020-03-05T00:41:51Z,1,17:05,02:55,Penalty,Fighting,91.0,-12.0,Tom Wilson,PenaltyOn,Washington Capitals,Nate Thompson,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:41:59Z,1,17:05,02:55,Penalty,Fighting,97.0,-2.0,Nate Thompson,PenaltyOn,Philadelphia Flyers,Tom Wilson,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:43:05Z,1,17:05,02:55,Faceoff,n/a,20.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:43:42Z,1,17:45,02:15,Missed Shot,n/a,65.0,8.0,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:43:50Z,1,17:52,02:08,Shot,Slap Shot,64.0,29.0,Claude Giroux,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:44:14Z,1,18:16,01:44,Hit,n/a,62.0,-38.0,Jonas Siegenthaler,Hitter,Washington Capitals,Nicolas Aube-Kubel,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:44:37Z,1,18:37,01:23,Penalty,Interference,36.0,41.0,Kevin Hayes,PenaltyOn,Philadelphia Flyers,Garnet Hathaway,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:45:24Z,1,18:37,01:23,Faceoff,n/a,-69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:45:49Z,1,18:52,01:08,Takeaway,n/a,-92.0,-17.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:45:49Z,1,18:58,01:02,Hit,n/a,61.0,35.0,Dmitry Orlov,Hitter,Washington Capitals,Claude Giroux,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:45:59Z,1,19:01,00:59,Hit,n/a,92.0,20.0,Philippe Myers,Hitter,Philadelphia Flyers,John Carlson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:46:10Z,1,19:12,00:48,Shot,Wrist Shot,-1.0,-12.0,Alex Ovechkin,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:46:26Z,1,19:28,00:32,Giveaway,n/a,-95.0,-7.0,Tyler Pitlick,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:46:36Z,1,19:38,00:22,Blocked Shot,n/a,63.0,11.0,T.J. Oshie,Blocker,Washington Capitals,Scott Laughton,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T00:46:49Z,1,19:51,00:09,Shot,Wrist Shot,-84.0,8.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:05:38Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:06:01Z,2,00:29,19:31,Missed Shot,n/a,62.0,18.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:06:33Z,2,01:01,18:59,Giveaway,n/a,-97.0,7.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:06:56Z,2,01:17,18:43,Penalty,Slashing,-21.0,-28.0,Evgeny Kuznetsov,PenaltyOn,Washington Capitals,Kevin Hayes,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:07:37Z,2,01:17,18:43,Faceoff,n/a,-69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Carl Hagelin,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:08:54Z,2,02:24,17:36,Giveaway,n/a,47.0,22.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:08:58Z,2,02:26,17:34,Shot,Slap Shot,58.0,30.0,Carl Hagelin,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:09:33Z,2,02:28,17:32,Faceoff,n/a,69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:10:19Z,2,02:43,17:17,Faceoff,n/a,-20.0,-22.0,Lars Eller,Winner,Washington Capitals,Derek Grant,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:10:34Z,2,03:03,16:57,Takeaway,n/a,-33.0,-16.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:10:46Z,2,03:15,16:45,Shot,Snap Shot,-67.0,3.0,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:11:06Z,2,03:17,16:43,Shot,Backhand,-80.0,-4.0,Kevin Hayes,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:11:00Z,2,03:29,16:31,Takeaway,n/a,35.0,3.0,Nicolas Aube-Kubel,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:11:07Z,2,03:36,16:24,Giveaway,n/a,-62.0,40.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:11:17Z,2,03:44,16:16,Giveaway,n/a,43.0,4.0,Robert Hagg,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:12:02Z,2,03:46,16:14,Penalty,Too many men on the ice,36.0,29.0,Jakub Vrana,PenaltyOn,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:12:19Z,2,03:46,16:14,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:12:36Z,2,04:05,15:55,Blocked Shot,n/a,-51.0,19.0,Brenden Dillon,Blocker,Washington Capitals,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:12:59Z,2,04:28,15:32,Blocked Shot,n/a,-50.0,-3.0,Nic Dowd,Blocker,Washington Capitals,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:13:46Z,2,05:15,14:45,Giveaway,n/a,-52.0,-35.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:13:55Z,2,05:24,14:36,Hit,n/a,98.0,-4.0,Travis Sanheim,Hitter,Philadelphia Flyers,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:14:17Z,2,05:34,14:26,Penalty,Hi-sticking,97.0,-13.0,Garnet Hathaway,PenaltyOn,Washington Capitals,Travis Sanheim,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:15:04Z,2,05:34,14:26,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Tom Wilson,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:15:21Z,2,05:49,14:11,Shot,Wrist Shot,-84.0,-11.0,Claude Giroux,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:15:25Z,2,05:51,14:09,Shot,Wrist Shot,-78.0,0.0,Claude Giroux,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:15:26Z,2,05:53,14:07,Hit,n/a,-80.0,4.0,Tom Wilson,Hitter,Washington Capitals,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:17:14Z,2,05:53,14:07,Shot,Wrist Shot,-81.0,3.0,Sean Couturier,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:16:03Z,2,05:54,14:06,Shot,Wrist Shot,-74.0,-2.0,Travis Konecny,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:19:40Z,2,05:55,14:05,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:22:12Z,2,06:55,13:05,Giveaway,n/a,-77.0,0.0,Jonas Siegenthaler,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:21:54Z,2,06:56,13:04,Shot,Deflected,-79.0,-2.0,Derek Grant,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:22:07Z,2,07:05,12:55,Shot,Slap Shot,-35.0,3.0,Ivan Provorov,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:22:07Z,2,07:06,12:54,Goal,Snap Shot,-85.0,-4.0,Travis Konecny,Scorer,Philadelphia Flyers,Ivan Provorov,Assist,Philadelphia Flyers,Claude Giroux,Assist,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals
+2020-03-05T01:23:04Z,2,07:06,12:54,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:23:07Z,2,07:15,12:45,Takeaway,n/a,-52.0,-38.0,Scott Laughton,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:23:09Z,2,07:19,12:41,Shot,Wrist Shot,-44.0,-19.0,Nicolas Aube-Kubel,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:23:18Z,2,07:27,12:33,Shot,Wrist Shot,-87.0,27.0,Kevin Hayes,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:23:51Z,2,08:00,12:00,Shot,Wrist Shot,82.0,1.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:24:03Z,2,08:10,11:50,Missed Shot,n/a,32.0,-20.0,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:24:21Z,2,08:28,11:32,Shot,Wrist Shot,78.0,37.0,Nicklas Backstrom,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:26:51Z,2,08:29,11:31,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:26:44Z,2,08:35,11:25,Shot,Wrist Shot,38.0,24.0,T.J. Oshie,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:27:12Z,2,09:02,10:58,Hit,n/a,-98.0,11.0,Sean Couturier,Hitter,Philadelphia Flyers,Brenden Dillon,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:27:45Z,2,09:35,10:25,Missed Shot,n/a,76.0,6.0,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:27:52Z,2,09:42,10:18,Blocked Shot,n/a,70.0,-2.0,Travis Sanheim,Blocker,Philadelphia Flyers,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:28:06Z,2,09:57,10:03,Hit,n/a,97.0,11.0,Ivan Provorov,Hitter,Philadelphia Flyers,Alex Ovechkin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:28:28Z,2,10:18,09:42,Shot,Tip-In,-82.0,3.0,Kevin Hayes,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:29:04Z,2,10:55,09:05,Shot,Wrist Shot,63.0,0.0,Dmitry Orlov,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:29:11Z,2,11:00,09:00,Shot,Wrist Shot,2.0,2.0,Scott Laughton,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:31:53Z,2,11:15,08:45,Faceoff,n/a,69.0,-22.0,Lars Eller,Winner,Washington Capitals,Derek Grant,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:31:51Z,2,11:21,08:39,Giveaway,n/a,68.0,-33.0,Richard Panik,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:32:02Z,2,11:31,08:29,Hit,n/a,-57.0,38.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Jonas Siegenthaler,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:32:10Z,2,11:39,08:21,Hit,n/a,87.0,34.0,Michael Raffl,Hitter,Philadelphia Flyers,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:32:13Z,2,11:43,08:17,Shot,Wrist Shot,32.0,32.0,Jonas Siegenthaler,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:32:41Z,2,11:44,08:16,Faceoff,n/a,69.0,22.0,Scott Laughton,Winner,Philadelphia Flyers,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:33:28Z,2,11:51,08:09,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Nate Thompson,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:33:51Z,2,12:11,07:49,Shot,Wrist Shot,-62.0,11.0,Philippe Myers,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:33:56Z,2,12:16,07:44,Giveaway,n/a,-66.0,11.0,Jakub Vrana,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:34:22Z,2,12:39,07:21,Hit,n/a,82.0,32.0,T.J. Oshie,Hitter,Washington Capitals,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:35:19Z,2,12:42,07:18,Penalty,Roughing,-55.0,41.0,Brenden Dillon,PenaltyOn,Washington Capitals,Scott Laughton,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:36:36Z,2,12:42,07:18,Faceoff,n/a,-69.0,-22.0,Sean Couturier,Winner,Philadelphia Flyers,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:36:44Z,2,12:47,07:13,Giveaway,n/a,-43.0,-39.0,Travis Konecny,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:37:19Z,2,13:19,06:41,Blocked Shot,n/a,-67.0,-1.0,Nick Jensen,Blocker,Washington Capitals,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:37:37Z,2,13:37,06:23,Takeaway,n/a,-96.0,-6.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:38:27Z,2,14:30,05:30,Takeaway,n/a,-97.0,5.0,Derek Grant,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:38:47Z,2,14:48,05:12,Goal,Wrist Shot,-85.0,6.0,Kevin Hayes,Scorer,Philadelphia Flyers,Derek Grant,Assist,Philadelphia Flyers,Nicolas Aube-Kubel,Assist,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals
+2020-03-05T01:39:44Z,2,14:48,05:12,Faceoff,n/a,0.0,0.0,Evgeny Kuznetsov,Winner,Washington Capitals,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:39:51Z,2,15:10,04:50,Shot,Wrist Shot,0.0,5.0,Philippe Myers,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:42:29Z,2,15:11,04:49,Faceoff,n/a,-69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Nate Thompson,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:43:07Z,2,15:34,04:26,Faceoff,n/a,-69.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:43:42Z,2,15:58,04:02,Giveaway,n/a,-12.0,-30.0,Alex Ovechkin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:43:49Z,2,16:05,03:55,Shot,Wrist Shot,-77.0,-5.0,Kevin Hayes,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:43:56Z,2,16:12,03:48,Takeaway,n/a,95.0,27.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:44:01Z,2,16:14,03:46,Hit,n/a,96.0,-7.0,Ilya Kovalchuk,Hitter,Washington Capitals,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:44:40Z,2,16:55,03:05,Giveaway,n/a,95.0,-1.0,Brian Elliott,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:44:51Z,2,17:05,02:55,Goal,Wrist Shot,-74.0,-1.0,Tyler Pitlick,Scorer,Philadelphia Flyers,Michael Raffl,Assist,Philadelphia Flyers,Derek Grant,Assist,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals
+2020-03-05T01:45:51Z,2,17:05,02:55,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:45:52Z,2,17:22,02:38,Hit,n/a,-2.0,-36.0,Richard Panik,Hitter,Washington Capitals,Robert Hagg,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:46:06Z,2,17:36,02:24,Hit,n/a,90.0,32.0,Richard Panik,Hitter,Washington Capitals,Robert Hagg,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:46:14Z,2,17:44,02:16,Hit,n/a,-96.0,-8.0,Sean Couturier,Hitter,Philadelphia Flyers,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:47:02Z,2,17:48,02:12,Faceoff,n/a,20.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:46:54Z,2,17:54,02:06,Takeaway,n/a,46.0,5.0,Garnet Hathaway,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:46:56Z,2,17:58,02:02,Shot,Wrist Shot,64.0,0.0,Garnet Hathaway,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:47:21Z,2,18:23,01:37,Giveaway,n/a,-44.0,23.0,Scott Laughton,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:47:32Z,2,18:32,01:28,Goal,Wrist Shot,72.0,6.0,Garnet Hathaway,Scorer,Washington Capitals,Tom Wilson,Assist,Washington Capitals,Nic Dowd,Assist,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers
+2020-03-05T01:48:22Z,2,18:32,01:28,Faceoff,n/a,0.0,0.0,Evgeny Kuznetsov,Winner,Washington Capitals,Derek Grant,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:48:23Z,2,18:44,01:16,Hit,n/a,55.0,-33.0,Ilya Kovalchuk,Hitter,Washington Capitals,Ivan Provorov,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:48:36Z,2,18:58,01:02,Missed Shot,n/a,61.0,-15.0,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:48:43Z,2,19:04,00:56,Hit,n/a,39.0,-36.0,Alex Ovechkin,Hitter,Washington Capitals,Michael Raffl,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:49:14Z,2,19:35,00:25,Hit,n/a,98.0,-16.0,Robert Hagg,Hitter,Philadelphia Flyers,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:50:03Z,2,19:45,00:15,Penalty,Fighting,-72.0,2.0,Robert Hagg,PenaltyOn,Philadelphia Flyers,Tom Wilson,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:50:18Z,2,19:45,00:15,Penalty,Fighting,-59.0,-1.0,Tom Wilson,PenaltyOn,Washington Capitals,Robert Hagg,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T01:50:59Z,2,19:45,00:15,Faceoff,n/a,-20.0,22.0,Nic Dowd,Winner,Washington Capitals,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:10:18Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Sean Couturier,Winner,Philadelphia Flyers,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:11:02Z,3,00:44,19:16,Faceoff,n/a,69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:11:38Z,3,00:59,19:01,Missed Shot,n/a,60.0,38.0,Travis Sanheim,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:11:45Z,3,01:08,18:52,Takeaway,n/a,-97.0,10.0,Jakub Vrana,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:11:50Z,3,01:14,18:46,Hit,n/a,-8.0,38.0,Scott Laughton,Hitter,Philadelphia Flyers,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:12:37Z,3,01:27,18:33,Faceoff,n/a,-20.0,-22.0,Lars Eller,Winner,Washington Capitals,Derek Grant,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:12:51Z,3,01:43,18:17,Hit,n/a,-98.0,17.0,Richard Panik,Hitter,Washington Capitals,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:13:04Z,3,01:56,18:04,Hit,n/a,97.0,8.0,Derek Grant,Hitter,Philadelphia Flyers,Jonas Siegenthaler,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:13:10Z,3,02:02,17:58,Hit,n/a,84.0,35.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:13:35Z,3,02:27,17:33,Shot,Wrist Shot,-62.0,25.0,John Carlson,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:14:03Z,3,02:28,17:32,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,Nate Thompson,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:14:16Z,3,02:34,17:26,Blocked Shot,n/a,-75.0,5.0,Matt Niskanen,Blocker,Philadelphia Flyers,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:14:23Z,3,02:41,17:19,Giveaway,n/a,50.0,40.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:14:30Z,3,02:48,17:12,Missed Shot,n/a,77.0,3.0,Nate Thompson,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:14:32Z,3,02:50,17:10,Hit,n/a,65.0,-40.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:14:47Z,3,03:05,16:55,Hit,n/a,52.0,-40.0,Garnet Hathaway,Hitter,Washington Capitals,Michael Raffl,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:15:04Z,3,03:15,16:45,Penalty,Hooking,11.0,22.0,Michael Raffl,PenaltyOn,Philadelphia Flyers,Dmitry Orlov,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:15:50Z,3,03:15,16:45,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:16:01Z,3,03:33,16:27,Missed Shot,n/a,-64.0,-28.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:16:12Z,3,03:43,16:17,Blocked Shot,n/a,-60.0,19.0,Ivan Provorov,Blocker,Philadelphia Flyers,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:16:18Z,3,03:49,16:11,Takeaway,n/a,-56.0,-35.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:17:20Z,3,04:51,15:09,Giveaway,n/a,-5.0,36.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:17:45Z,3,05:02,14:58,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Tyler Pitlick,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:18:59Z,3,05:15,14:45,Giveaway,n/a,-98.0,-6.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:19:12Z,3,05:21,14:39,Faceoff,n/a,-69.0,22.0,Nate Thompson,Winner,Philadelphia Flyers,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:19:20Z,3,05:26,14:34,Takeaway,n/a,-23.0,39.0,Michael Raffl,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:19:37Z,3,05:44,14:16,Hit,n/a,-3.0,30.0,Nate Thompson,Hitter,Philadelphia Flyers,Carl Hagelin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:20:01Z,3,06:07,13:53,Shot,Wrist Shot,56.0,11.0,Jakub Voracek,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:22:24Z,3,06:09,13:51,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:22:31Z,3,06:21,13:39,Missed Shot,n/a,-74.0,-5.0,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:22:48Z,3,06:36,13:24,Goal,Snap Shot,67.0,12.0,Ivan Provorov,Scorer,Philadelphia Flyers,Jakub Voracek,Assist,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a
+2020-03-05T02:23:36Z,3,06:36,13:24,Faceoff,n/a,0.0,0.0,Richard Panik,Winner,Washington Capitals,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:23:39Z,3,06:42,13:18,Giveaway,n/a,7.0,25.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:23:44Z,3,06:47,13:13,Blocked Shot,n/a,67.0,0.0,Nick Jensen,Blocker,Washington Capitals,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:23:49Z,3,06:51,13:09,Blocked Shot,n/a,68.0,1.0,Dmitry Orlov,Blocker,Washington Capitals,Travis Konecny,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:24:04Z,3,07:04,12:56,Shot,Slap Shot,-33.0,10.0,Nick Jensen,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:24:26Z,3,07:28,12:32,Blocked Shot,n/a,-59.0,-11.0,Nate Thompson,Blocker,Philadelphia Flyers,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:24:35Z,3,07:37,12:23,Hit,n/a,72.0,39.0,Radko Gudas,Hitter,Washington Capitals,Nate Thompson,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:24:43Z,3,07:45,12:15,Shot,Tip-In,-78.0,6.0,T.J. Oshie,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:25:42Z,3,08:16,11:44,Faceoff,n/a,-20.0,-22.0,Jakub Vrana,Winner,Washington Capitals,Scott Laughton,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:26:06Z,3,08:27,11:33,Giveaway,n/a,96.0,9.0,Braden Holtby,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:26:33Z,3,08:53,11:07,Blocked Shot,n/a,67.0,5.0,Dmitry Orlov,Blocker,Washington Capitals,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:26:53Z,3,08:54,11:06,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:27:19Z,3,09:00,11:00,Missed Shot,n/a,-58.0,-27.0,Carl Hagelin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:28:25Z,3,09:26,10:34,Faceoff,n/a,69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:28:25Z,3,09:30,10:30,Hit,n/a,22.0,-31.0,Alex Ovechkin,Hitter,Washington Capitals,Philippe Myers,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:28:51Z,3,09:56,10:04,Blocked Shot,n/a,-52.0,24.0,Scott Laughton,Blocker,Philadelphia Flyers,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:28:56Z,3,10:01,09:59,Hit,n/a,-98.0,12.0,Travis Sanheim,Hitter,Philadelphia Flyers,Nicklas Backstrom,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:29:02Z,3,10:06,09:54,Blocked Shot,n/a,-59.0,-16.0,Travis Konecny,Blocker,Philadelphia Flyers,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:31:34Z,3,10:10,09:50,Faceoff,n/a,-69.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:31:32Z,3,10:17,09:43,Blocked Shot,n/a,-76.0,5.0,Ivan Provorov,Blocker,Philadelphia Flyers,Ilya Kovalchuk,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:31:41Z,3,10:26,09:34,Blocked Shot,n/a,-42.0,-20.0,Michael Raffl,Blocker,Philadelphia Flyers,Brenden Dillon,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:32:26Z,3,10:36,09:24,Faceoff,n/a,69.0,22.0,Derek Grant,Winner,Philadelphia Flyers,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:32:53Z,3,11:10,08:50,Takeaway,n/a,89.0,18.0,Tyler Pitlick,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:32:54Z,3,11:12,08:48,Missed Shot,n/a,57.0,-13.0,Justin Braun,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:33:30Z,3,11:46,08:14,Shot,Wrist Shot,-59.0,12.0,Lars Eller,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:34:07Z,3,11:47,08:13,Faceoff,n/a,-69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:34:20Z,3,11:57,08:03,Giveaway,n/a,86.0,28.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:34:24Z,3,12:01,07:59,Missed Shot,n/a,82.0,-8.0,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:34:51Z,3,12:28,07:32,Shot,Wrap-around,-89.0,-5.0,John Carlson,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:35:51Z,3,13:06,06:54,Faceoff,n/a,69.0,22.0,Sean Couturier,Winner,Philadelphia Flyers,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:36:47Z,3,13:48,06:12,Shot,Wrist Shot,-52.0,-38.0,Nicklas Backstrom,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:36:57Z,3,13:49,06:11,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Nate Thompson,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:38:05Z,3,14:11,05:49,Faceoff,n/a,69.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:38:12Z,3,14:15,05:45,Goal,Wrist Shot,77.0,33.0,Scott Laughton,Scorer,Philadelphia Flyers,Kevin Hayes,Assist,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a
+2020-03-05T02:39:00Z,3,14:15,05:45,Faceoff,n/a,0.0,0.0,Nate Thompson,Winner,Philadelphia Flyers,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:39:07Z,3,14:26,05:34,Giveaway,n/a,47.0,-38.0,Richard Panik,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:39:13Z,3,14:27,05:33,Shot,Backhand,79.0,-5.0,Michael Raffl,Shooter,Philadelphia Flyers,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:39:14Z,3,14:30,05:30,Hit,n/a,97.0,0.0,Evgeny Kuznetsov,Hitter,Washington Capitals,Nate Thompson,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:39:20Z,3,14:39,05:21,Hit,n/a,69.0,40.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Jonas Siegenthaler,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:39:28Z,3,14:47,05:13,Hit,n/a,-94.0,10.0,Ilya Kovalchuk,Hitter,Washington Capitals,Nate Thompson,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:39:57Z,3,15:16,04:44,Missed Shot,n/a,63.0,-22.0,Derek Grant,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:40:02Z,3,15:20,04:40,Takeaway,n/a,99.0,0.0,Radko Gudas,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:40:16Z,3,15:34,04:26,Shot,Backhand,-76.0,1.0,T.J. Oshie,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:40:26Z,3,15:44,04:16,Shot,Slap Shot,-54.0,26.0,John Carlson,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:40:30Z,3,15:48,04:12,Shot,Wrist Shot,-57.0,4.0,John Carlson,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:40:39Z,3,15:49,04:11,Penalty,Hi-sticking,-75.0,8.0,Scott Laughton,PenaltyOn,Philadelphia Flyers,John Carlson,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:42:53Z,3,15:49,04:11,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:42:48Z,3,15:52,04:08,Shot,Wrist Shot,-47.0,-23.0,Alex Ovechkin,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:43:07Z,3,16:12,03:48,Missed Shot,n/a,-62.0,26.0,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:43:52Z,3,16:57,03:03,Missed Shot,n/a,-52.0,-25.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:44:58Z,3,18:03,01:57,Hit,n/a,-82.0,39.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Evgeny Kuznetsov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:45:48Z,3,18:53,01:07,Hit,n/a,43.0,-37.0,Garnet Hathaway,Hitter,Washington Capitals,Nicolas Aube-Kubel,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:45:59Z,3,19:03,00:57,Hit,n/a,-62.0,39.0,Robert Hagg,Hitter,Philadelphia Flyers,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:46:22Z,3,19:26,00:34,Takeaway,n/a,-70.0,31.0,Richard Panik,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:46:24Z,3,19:27,00:33,Shot,Snap Shot,-70.0,29.0,Richard Panik,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:46:54Z,3,19:29,00:31,Faceoff,n/a,-69.0,22.0,Derek Grant,Winner,Philadelphia Flyers,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:47:09Z,3,19:42,00:18,Missed Shot,n/a,60.0,-20.0,Tyler Pitlick,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:47:14Z,3,19:47,00:13,Hit,n/a,89.0,35.0,Nicolas Aube-Kubel,Hitter,Philadelphia Flyers,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-05T02:47:22Z,3,19:55,00:05,Shot,Slap Shot,-34.0,-25.0,Jonas Siegenthaler,Shooter,Washington Capitals,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a

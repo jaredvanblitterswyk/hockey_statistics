@@ -1,0 +1,262 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-28T03:41:50Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Tomas Hertl,Winner,San Jose Sharks,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:42:35Z,1,00:18,19:42,Faceoff,n/a,-20.0,22.0,Joe Thornton,Winner,San Jose Sharks,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:43:17Z,1,00:30,19:30,Hit,n/a,-33.0,40.0,Radim Simek,Hitter,San Jose Sharks,Max Jones,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:43:24Z,1,00:57,19:03,Shot,Wrist Shot,65.0,-17.0,Mario Ferraro,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:43:36Z,1,00:57,19:03,Faceoff,n/a,69.0,-22.0,Adam Henrique,Winner,Anaheim Ducks,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:44:13Z,1,01:12,18:48,Faceoff,n/a,69.0,-22.0,Adam Henrique,Winner,Anaheim Ducks,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:44:32Z,1,01:19,18:41,Blocked Shot,n/a,80.0,-3.0,Korbinian Holzer,Blocker,Anaheim Ducks,Dylan Gambrell,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:44:46Z,1,01:39,18:21,Hit,n/a,43.0,41.0,Josh Manson,Hitter,Anaheim Ducks,Marcus Sorensen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:45:07Z,1,01:46,18:14,Faceoff,n/a,69.0,22.0,Joel Kellman,Winner,San Jose Sharks,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:45:21Z,1,01:50,18:10,Missed Shot,n/a,40.0,34.0,Radim Simek,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:45:33Z,1,01:51,18:09,Faceoff,n/a,69.0,22.0,Melker Karlsson,Winner,San Jose Sharks,Carter Rowney,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:46:45Z,1,01:53,18:07,Giveaway,n/a,66.0,29.0,Josh Manson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:46:16Z,1,01:55,18:05,Goal,Deflected,80.0,6.0,Stefan Noesen,Scorer,San Jose Sharks,Joel Kellman,Assist,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a
+2020-01-28T03:46:45Z,1,01:55,18:05,Faceoff,n/a,0.0,0.0,Joel Kellman,Winner,San Jose Sharks,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:47:33Z,1,02:31,17:29,Hit,n/a,-97.0,-18.0,Carter Rowney,Hitter,Anaheim Ducks,Radim Simek,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:47:36Z,1,02:34,17:26,Blocked Shot,n/a,-77.0,-1.0,Erik Karlsson,Blocker,San Jose Sharks,Nicolas Deslauriers,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:47:48Z,1,02:46,17:14,Takeaway,n/a,9.0,-37.0,Tomas Hertl,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:48:31Z,1,03:09,16:51,Faceoff,n/a,0.0,0.0,Sam Steel,Winner,Anaheim Ducks,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:48:43Z,1,03:15,16:45,Hit,n/a,-18.0,41.0,Barclay Goodrow,Hitter,San Jose Sharks,Josh Manson,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:48:57Z,1,03:29,16:31,Hit,n/a,-80.0,-40.0,Max Jones,Hitter,Anaheim Ducks,Erik Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:49:54Z,1,04:24,15:36,Missed Shot,n/a,-80.0,5.0,Korbinian Holzer,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:51:03Z,1,04:33,15:27,Giveaway,n/a,81.0,-13.0,Jacob Larsson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:50:08Z,1,04:35,15:25,Goal,Wrist Shot,83.0,-11.0,Patrick Marleau,Scorer,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:51:03Z,1,04:35,15:25,Faceoff,n/a,0.0,0.0,Adam Henrique,Winner,Anaheim Ducks,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:51:03Z,1,04:58,15:02,Shot,Wrist Shot,-88.0,-31.0,Devin Shore,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:51:17Z,1,05:13,14:47,Shot,Wrist Shot,-36.0,27.0,Erik Gudbranson,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:51:25Z,1,05:20,14:40,Hit,n/a,-98.0,9.0,Brenden Dillon,Hitter,San Jose Sharks,Nick Ritchie,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:52:01Z,1,05:54,14:06,Hit,n/a,79.0,37.0,Nicolas Deslauriers,Hitter,Anaheim Ducks,Barclay Goodrow,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:52:02Z,1,05:56,14:04,Shot,Wrist Shot,55.0,17.0,Joe Thornton,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:52:32Z,1,05:56,14:04,Faceoff,n/a,69.0,22.0,Ondrej Kase,Winner,Anaheim Ducks,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:52:55Z,1,06:08,13:52,Missed Shot,n/a,-70.0,-8.0,Ondrej Kase,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:53:19Z,1,06:32,13:28,Takeaway,n/a,-95.0,-10.0,Ondrej Kase,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:53:25Z,1,06:38,13:22,Giveaway,n/a,-27.0,-38.0,Ondrej Kase,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:53:39Z,1,06:52,13:08,Blocked Shot,n/a,-56.0,20.0,Marc-Edouard Vlasic,Blocker,San Jose Sharks,Troy Terry,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:54:48Z,1,08:02,11:58,Hit,n/a,43.0,7.0,Devin Shore,Hitter,Anaheim Ducks,Melker Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:54:59Z,1,08:13,11:47,Hit,n/a,-82.0,32.0,Carter Rowney,Hitter,Anaheim Ducks,Brenden Dillon,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:55:07Z,1,08:20,11:40,Hit,n/a,97.0,1.0,Melker Karlsson,Hitter,San Jose Sharks,Korbinian Holzer,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:55:30Z,1,08:43,11:17,Hit,n/a,88.0,33.0,Korbinian Holzer,Hitter,Anaheim Ducks,Barclay Goodrow,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:55:36Z,1,08:50,11:10,Hit,n/a,55.0,-40.0,Nicolas Deslauriers,Hitter,Anaheim Ducks,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:58:06Z,1,09:20,10:40,Faceoff,n/a,20.0,-22.0,Sam Steel,Winner,Anaheim Ducks,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:58:53Z,1,09:52,10:08,Hit,n/a,8.0,40.0,Max Jones,Hitter,Anaheim Ducks,Tomas Hertl,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:59:13Z,1,10:12,09:48,Hit,n/a,-98.0,-14.0,Devin Shore,Hitter,Anaheim Ducks,Marc-Edouard Vlasic,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T03:59:32Z,1,10:30,09:30,Blocked Shot,n/a,60.0,13.0,Adam Henrique,Blocker,Anaheim Ducks,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:00:04Z,1,11:02,08:58,Shot,Wrist Shot,70.0,-12.0,Dylan Gambrell,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:00:26Z,1,11:22,08:38,Takeaway,n/a,99.0,3.0,Patrick Marleau,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:00:37Z,1,11:26,08:34,Shot,Wrist Shot,89.0,-8.0,Stefan Noesen,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:01:18Z,1,12:16,07:44,Shot,Wrist Shot,-86.0,-16.0,Derek Grant,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:01:35Z,1,12:33,07:27,Giveaway,n/a,31.0,5.0,Tomas Hertl,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:01:43Z,1,12:41,07:19,Takeaway,n/a,9.0,-7.0,Hampus Lindholm,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:01:47Z,1,12:46,07:14,Blocked Shot,n/a,-59.0,-9.0,Brent Burns,Blocker,San Jose Sharks,Ondrej Kase,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:02:10Z,1,13:08,06:52,Hit,n/a,-1.0,-40.0,Evander Kane,Hitter,San Jose Sharks,Ondrej Kase,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:02:22Z,1,13:19,06:41,Missed Shot,n/a,-60.0,0.0,Korbinian Holzer,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:04:18Z,1,13:19,06:41,Faceoff,n/a,-69.0,-22.0,Adam Henrique,Winner,Anaheim Ducks,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:04:48Z,1,13:29,06:31,Hit,n/a,-71.0,-41.0,Devin Shore,Hitter,Anaheim Ducks,Erik Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:04:58Z,1,13:39,06:21,Giveaway,n/a,82.0,16.0,Erik Gudbranson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:05:11Z,1,13:52,06:08,Giveaway,n/a,96.0,-2.0,Hampus Lindholm,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:05:13Z,1,13:53,06:07,Missed Shot,n/a,59.0,-13.0,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:05:24Z,1,14:04,05:56,Shot,Wrist Shot,83.0,-4.0,Barclay Goodrow,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:05:41Z,1,14:21,05:39,Giveaway,n/a,-47.0,-8.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:06:42Z,1,15:21,04:39,Hit,n/a,98.0,0.0,Stefan Noesen,Hitter,San Jose Sharks,Korbinian Holzer,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:06:45Z,1,15:26,04:34,Shot,Slap Shot,71.0,-38.0,Brent Burns,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:07:18Z,1,15:55,04:05,Hit,n/a,-52.0,35.0,Max Jones,Hitter,Anaheim Ducks,Joel Kellman,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:07:27Z,1,16:08,03:52,Takeaway,n/a,11.0,-15.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:07:35Z,1,16:16,03:44,Shot,Wrist Shot,-56.0,-17.0,Nicolas Deslauriers,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:07:43Z,1,16:23,03:37,Hit,n/a,-40.0,-40.0,Carter Rowney,Hitter,Anaheim Ducks,Timo Meier,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:08:06Z,1,16:23,03:37,Faceoff,n/a,-69.0,-22.0,Adam Henrique,Winner,Anaheim Ducks,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:08:16Z,1,16:28,03:32,Blocked Shot,n/a,-49.0,-18.0,Timo Meier,Blocker,San Jose Sharks,Cam Fowler,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:08:40Z,1,16:52,03:08,Hit,n/a,76.0,41.0,Timo Meier,Hitter,San Jose Sharks,Cam Fowler,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:09:00Z,1,17:12,02:48,Shot,Slap Shot,61.0,-11.0,Brent Burns,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:09:16Z,1,17:28,02:32,Giveaway,n/a,-98.0,3.0,Aaron Dell,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:09:34Z,1,17:36,02:24,Hit,n/a,-7.0,-21.0,Ryan Getzlaf,Hitter,Anaheim Ducks,Kevin Labanc,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:09:28Z,1,17:40,02:20,Hit,n/a,43.0,-40.0,Jacob Larsson,Hitter,Anaheim Ducks,Dylan Gambrell,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:09:43Z,1,17:55,02:05,Hit,n/a,98.0,1.0,Erik Gudbranson,Hitter,Anaheim Ducks,Marcus Sorensen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:10:08Z,1,18:08,01:52,Faceoff,n/a,-69.0,-22.0,Sam Steel,Winner,Anaheim Ducks,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:10:28Z,1,18:15,01:45,Missed Shot,n/a,-49.0,0.0,Hampus Lindholm,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:11:34Z,1,19:20,00:40,Shot,Backhand,80.0,8.0,Timo Meier,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:13:40Z,1,19:20,00:40,Faceoff,n/a,69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:14:11Z,1,19:31,00:29,Takeaway,n/a,99.0,2.0,Joe Thornton,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:14:15Z,1,19:34,00:26,Shot,Wrist Shot,72.0,-1.0,Kevin Labanc,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:14:22Z,1,19:42,00:18,Missed Shot,n/a,58.0,-12.0,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:14:26Z,1,19:45,00:15,Hit,n/a,56.0,42.0,Nick Ritchie,Hitter,Anaheim Ducks,Tomas Hertl,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:32:59Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Joe Thornton,Winner,San Jose Sharks,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:33:29Z,2,00:06,19:54,Faceoff,n/a,69.0,-22.0,Joe Thornton,Winner,San Jose Sharks,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:33:58Z,2,00:14,19:46,Faceoff,n/a,69.0,22.0,Sam Steel,Winner,Anaheim Ducks,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:34:19Z,2,00:24,19:36,Blocked Shot,n/a,46.0,-27.0,Barclay Goodrow,Blocker,San Jose Sharks,Josh Manson,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:34:28Z,2,00:33,19:27,Blocked Shot,n/a,73.0,10.0,Erik Karlsson,Blocker,San Jose Sharks,Ondrej Kase,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:34:29Z,2,00:34,19:26,Hit,n/a,71.0,39.0,Max Jones,Hitter,Anaheim Ducks,Erik Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:34:41Z,2,00:46,19:14,Missed Shot,n/a,78.0,-9.0,Ondrej Kase,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:35:40Z,2,01:40,18:20,Hit,n/a,-61.0,-41.0,Devin Shore,Hitter,Anaheim Ducks,Timo Meier,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:35:37Z,2,01:42,18:18,Shot,Backhand,-81.0,-8.0,Tomas Hertl,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:35:43Z,2,01:48,18:12,Missed Shot,n/a,-79.0,8.0,Brenden Dillon,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:35:43Z,2,01:52,18:08,Blocked Shot,n/a,-72.0,32.0,Jacob Larsson,Blocker,Anaheim Ducks,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:36:12Z,2,01:53,18:07,Faceoff,n/a,-69.0,22.0,Dylan Gambrell,Winner,San Jose Sharks,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:37:00Z,2,02:34,17:26,Shot,Wrist Shot,-39.0,16.0,Mario Ferraro,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:37:18Z,2,02:34,17:26,Faceoff,n/a,-69.0,22.0,Sam Steel,Winner,Anaheim Ducks,Melker Karlsson,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:38:16Z,2,03:19,16:41,Shot,Wrist Shot,62.0,-36.0,Josh Manson,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:38:23Z,2,03:26,16:34,Hit,n/a,99.0,12.0,Ryan Getzlaf,Hitter,Anaheim Ducks,Erik Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:38:28Z,2,03:30,16:30,Shot,Slap Shot,33.0,33.0,Cam Fowler,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:38:36Z,2,03:38,16:22,Missed Shot,n/a,39.0,27.0,Hampus Lindholm,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:38:52Z,2,03:54,16:06,Shot,Snap Shot,62.0,-20.0,Rickard Rakell,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:39:01Z,2,03:54,16:06,Faceoff,n/a,69.0,-22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Evander Kane,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:39:44Z,2,03:59,16:01,Missed Shot,n/a,88.0,7.0,Rickard Rakell,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:39:44Z,2,04:05,15:55,Shot,Slap Shot,41.0,-31.0,Erik Gudbranson,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:39:49Z,2,04:08,15:52,Hit,n/a,-54.0,-40.0,Timo Meier,Hitter,San Jose Sharks,Erik Gudbranson,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:39:59Z,2,04:14,15:46,Blocked Shot,n/a,53.0,13.0,Brent Burns,Blocker,San Jose Sharks,Hampus Lindholm,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:40:31Z,2,04:14,15:46,Faceoff,n/a,69.0,22.0,Joe Thornton,Winner,San Jose Sharks,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:41:09Z,2,04:40,15:20,Shot,Wrist Shot,-46.0,-26.0,Josh Manson,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:41:35Z,2,05:01,14:59,Hit,n/a,-74.0,40.0,Barclay Goodrow,Hitter,San Jose Sharks,Carter Rowney,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:41:45Z,2,05:14,14:46,Hit,n/a,-15.0,40.0,Carter Rowney,Hitter,Anaheim Ducks,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:42:01Z,2,05:14,14:46,Faceoff,n/a,20.0,22.0,Sam Steel,Winner,Anaheim Ducks,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:42:31Z,2,05:35,14:25,Hit,n/a,-1.0,3.0,Max Jones,Hitter,Anaheim Ducks,Dylan Gambrell,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:42:37Z,2,05:41,14:19,Blocked Shot,n/a,63.0,18.0,Mario Ferraro,Blocker,San Jose Sharks,Max Jones,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:42:45Z,2,05:49,14:11,Hit,n/a,39.0,39.0,Max Jones,Hitter,Anaheim Ducks,Dylan Gambrell,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:42:58Z,2,06:02,13:58,Hit,n/a,99.0,7.0,Nicolas Deslauriers,Hitter,Anaheim Ducks,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:45:14Z,2,06:08,13:52,Faceoff,n/a,-20.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:46:00Z,2,06:28,13:32,Blocked Shot,n/a,-76.0,-3.0,Erik Gudbranson,Blocker,Anaheim Ducks,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:45:53Z,2,06:29,13:31,Takeaway,n/a,-63.0,-3.0,Timo Meier,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:45:54Z,2,06:31,13:29,Shot,Wrist Shot,-76.0,-13.0,Evander Kane,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:46:21Z,2,06:32,13:28,Faceoff,n/a,-69.0,-22.0,Joel Kellman,Winner,San Jose Sharks,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:46:40Z,2,06:43,13:17,Shot,Wrist Shot,-33.0,-26.0,Brent Burns,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:46:57Z,2,06:59,13:01,Hit,n/a,69.0,-41.0,Brenden Dillon,Hitter,San Jose Sharks,Cam Fowler,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:47:08Z,2,07:11,12:49,Shot,Wrist Shot,62.0,17.0,Adam Henrique,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:47:23Z,2,07:26,12:34,Hit,n/a,-99.0,-16.0,Josh Manson,Hitter,Anaheim Ducks,Stefan Noesen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:47:28Z,2,07:31,12:29,Blocked Shot,n/a,-56.0,7.0,John Gibson,Blocker,Anaheim Ducks,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:48:04Z,2,08:06,11:54,Missed Shot,n/a,-40.0,-1.0,Erik Karlsson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:48:20Z,2,08:16,11:44,Penalty,Tripping,-92.0,-8.0,Cam Fowler,PenaltyOn,Anaheim Ducks,Joe Thornton,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:49:17Z,2,08:16,11:44,Faceoff,n/a,-69.0,-22.0,Derek Grant,Winner,Anaheim Ducks,Patrick Marleau,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:49:09Z,2,08:17,11:43,Shot,Tip-In,-84.0,2.0,Barclay Goodrow,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:49:36Z,2,08:21,11:39,Hit,n/a,-98.0,-23.0,Stefan Noesen,Hitter,San Jose Sharks,Erik Gudbranson,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:49:53Z,2,08:38,11:22,Hit,n/a,77.0,39.0,Timo Meier,Hitter,San Jose Sharks,Derek Grant,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:50:16Z,2,09:01,10:59,Takeaway,n/a,8.0,-13.0,Ondrej Kase,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:50:23Z,2,09:04,10:56,Goal,Backhand,78.0,1.0,Ondrej Kase,Scorer,Anaheim Ducks,Erik Gudbranson,Assist,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a
+2020-01-28T04:50:59Z,2,09:04,10:56,Faceoff,n/a,0.0,0.0,Tomas Hertl,Winner,San Jose Sharks,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:52:05Z,2,09:58,10:02,Missed Shot,n/a,-77.0,5.0,Tomas Hertl,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:52:16Z,2,10:13,09:47,Hit,n/a,90.0,-31.0,Max Jones,Hitter,Anaheim Ducks,Erik Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:52:39Z,2,10:35,09:25,Hit,n/a,99.0,-5.0,Radim Simek,Hitter,San Jose Sharks,Nick Ritchie,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:52:57Z,2,10:53,09:07,Giveaway,n/a,50.0,-17.0,Marcus Sorensen,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:53:08Z,2,11:05,08:55,Blocked Shot,n/a,44.0,5.0,Patrick Marleau,Blocker,San Jose Sharks,Erik Gudbranson,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:53:49Z,2,11:42,08:18,Takeaway,n/a,3.0,-7.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:53:50Z,2,11:47,08:13,Shot,Wrist Shot,-56.0,31.0,Brent Burns,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:54:20Z,2,12:13,07:47,Hit,n/a,81.0,-40.0,Brenden Dillon,Hitter,San Jose Sharks,Devin Shore,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:54:28Z,2,12:24,07:36,Missed Shot,n/a,81.0,13.0,Adam Henrique,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:54:34Z,2,12:28,07:32,Hit,n/a,36.0,-40.0,Evander Kane,Hitter,San Jose Sharks,Josh Manson,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:56:58Z,2,12:28,07:32,Faceoff,n/a,69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:57:30Z,2,12:34,07:26,Hit,n/a,72.0,-40.0,Max Jones,Hitter,Anaheim Ducks,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:57:40Z,2,12:44,07:16,Shot,Slap Shot,-51.0,26.0,Radim Simek,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:58:00Z,2,12:44,07:16,Faceoff,n/a,-69.0,22.0,Joe Thornton,Winner,San Jose Sharks,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:58:31Z,2,13:02,06:58,Hit,n/a,-21.0,-41.0,Carter Rowney,Hitter,Anaheim Ducks,Barclay Goodrow,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:58:41Z,2,13:12,06:48,Blocked Shot,n/a,69.0,-23.0,Radim Simek,Blocker,San Jose Sharks,Erik Gudbranson,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:58:57Z,2,13:18,06:42,Blocked Shot,n/a,73.0,21.0,Mario Ferraro,Blocker,San Jose Sharks,Nicolas Deslauriers,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:58:48Z,2,13:19,06:41,Hit,n/a,79.0,-39.0,Erik Gudbranson,Hitter,Anaheim Ducks,Radim Simek,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:59:04Z,2,13:33,06:27,Hit,n/a,-86.0,-38.0,Nicolas Deslauriers,Hitter,Anaheim Ducks,Timo Meier,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:59:10Z,2,13:35,06:25,Hit,n/a,-93.0,-20.0,Timo Meier,Hitter,San Jose Sharks,Erik Gudbranson,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:59:24Z,2,13:36,06:24,Faceoff,n/a,-69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:59:38Z,2,13:42,06:18,Blocked Shot,n/a,-42.0,4.0,Nick Ritchie,Blocker,Anaheim Ducks,Erik Karlsson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T04:59:51Z,2,13:52,06:08,Takeaway,n/a,-97.0,-11.0,Ryan Getzlaf,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:00:13Z,2,14:14,05:46,Missed Shot,n/a,-77.0,2.0,Evander Kane,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:01:14Z,2,15:18,04:42,Blocked Shot,n/a,72.0,-8.0,Brenden Dillon,Blocker,San Jose Sharks,Troy Terry,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:01:24Z,2,15:28,04:32,Shot,Slap Shot,35.0,-1.0,Devin Shore,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:01:43Z,2,15:32,04:28,Goal,Snap Shot,-69.0,2.0,Patrick Marleau,Scorer,San Jose Sharks,Brenden Dillon,Assist,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a
+2020-01-28T05:02:14Z,2,15:32,04:28,Faceoff,n/a,0.0,0.0,Sam Steel,Winner,Anaheim Ducks,Stefan Noesen,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:02:36Z,2,15:50,04:10,Hit,n/a,-51.0,-39.0,Stefan Noesen,Hitter,San Jose Sharks,Erik Gudbranson,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:02:48Z,2,16:02,03:58,Hit,n/a,-2.0,19.0,Stefan Noesen,Hitter,San Jose Sharks,Hampus Lindholm,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:03:43Z,2,16:58,03:02,Missed Shot,n/a,-89.0,13.0,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:04:00Z,2,17:04,02:56,Faceoff,n/a,-69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:04:25Z,2,17:07,02:53,Blocked Shot,n/a,-34.0,3.0,Ondrej Kase,Blocker,Anaheim Ducks,Brenden Dillon,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:04:25Z,2,17:09,02:51,Shot,Snap Shot,-61.0,9.0,Evander Kane,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:04:25Z,2,17:16,02:44,Missed Shot,n/a,-63.0,39.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:04:41Z,2,17:21,02:39,Shot,Slap Shot,-39.0,-36.0,Evander Kane,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:04:41Z,2,17:22,02:38,Shot,Backhand,-76.0,-1.0,Tomas Hertl,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:05:03Z,2,17:30,02:30,Faceoff,n/a,-69.0,22.0,Dylan Gambrell,Winner,San Jose Sharks,Sam Steel,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:05:29Z,2,17:39,02:21,Missed Shot,n/a,-71.0,5.0,Dylan Gambrell,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:07:35Z,2,17:47,02:13,Faceoff,n/a,-69.0,22.0,Dylan Gambrell,Winner,San Jose Sharks,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:08:00Z,2,17:59,02:01,Missed Shot,n/a,-39.0,30.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:08:05Z,2,18:04,01:56,Takeaway,n/a,-59.0,-40.0,Troy Terry,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:08:56Z,2,18:55,01:05,Shot,Backhand,-79.0,5.0,Tomas Hertl,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:09:26Z,2,19:24,00:36,Hit,n/a,-89.0,-36.0,Barclay Goodrow,Hitter,San Jose Sharks,Josh Manson,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:09:39Z,2,19:36,00:24,Shot,Wrist Shot,45.0,-30.0,Korbinian Holzer,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:10:05Z,2,19:36,00:24,Faceoff,n/a,69.0,-22.0,Joe Thornton,Winner,San Jose Sharks,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:10:30Z,2,19:58,00:02,Shot,Snap Shot,-87.0,29.0,Kevin Labanc,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:29:02Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Grant,Winner,Anaheim Ducks,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:29:34Z,3,00:21,19:39,Missed Shot,n/a,-81.0,5.0,Derek Grant,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:30:25Z,3,01:12,18:48,Shot,Wrist Shot,63.0,34.0,Sam Steel,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:30:29Z,3,01:16,18:44,Hit,n/a,-63.0,-40.0,Mario Ferraro,Hitter,San Jose Sharks,Ondrej Kase,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:30:37Z,3,01:24,18:36,Shot,Wrist Shot,-38.0,30.0,Erik Gudbranson,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:31:12Z,3,01:34,18:26,Faceoff,n/a,-69.0,-22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:31:26Z,3,01:40,18:20,Shot,Snap Shot,-78.0,-13.0,Ryan Getzlaf,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:31:39Z,3,01:41,18:19,Faceoff,n/a,-69.0,-22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:32:06Z,3,01:54,18:06,Shot,Wrist Shot,84.0,8.0,Patrick Marleau,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:32:20Z,3,02:08,17:52,Missed Shot,n/a,-75.0,3.0,Rickard Rakell,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:32:26Z,3,02:15,17:45,Takeaway,n/a,-95.0,-7.0,Patrick Marleau,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:32:43Z,3,02:28,17:32,Goal,Snap Shot,62.0,0.0,Stefan Noesen,Scorer,San Jose Sharks,Erik Karlsson,Assist,San Jose Sharks,Dylan Gambrell,Assist,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks
+2020-01-28T05:33:39Z,3,02:28,17:32,Faceoff,n/a,0.0,0.0,Joel Kellman,Winner,San Jose Sharks,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:34:23Z,3,02:55,17:05,Takeaway,n/a,46.0,-40.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:34:52Z,3,03:13,16:47,Faceoff,n/a,20.0,-22.0,Derek Grant,Winner,Anaheim Ducks,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:35:12Z,3,03:20,16:40,Takeaway,n/a,97.0,-12.0,Kevin Labanc,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:35:36Z,3,03:44,16:16,Giveaway,n/a,-9.0,-31.0,Mario Ferraro,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:35:45Z,3,03:53,16:07,Giveaway,n/a,1.0,-20.0,Timo Meier,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:36:55Z,3,04:26,15:34,Faceoff,n/a,-69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Ryan Getzlaf,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:37:11Z,3,04:45,15:15,Shot,Wrist Shot,-63.0,39.0,Rickard Rakell,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:37:25Z,3,04:59,15:01,Shot,Wrist Shot,-69.0,2.0,Rickard Rakell,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:37:52Z,3,04:59,15:01,Faceoff,n/a,-69.0,-22.0,Adam Henrique,Winner,Anaheim Ducks,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:38:11Z,3,05:10,14:50,Shot,Wrist Shot,63.0,8.0,Joel Kellman,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:38:24Z,3,05:10,14:50,Faceoff,n/a,69.0,22.0,Joel Kellman,Winner,San Jose Sharks,Adam Henrique,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:38:43Z,3,05:13,14:47,Penalty,Interference,70.0,21.0,Melker Karlsson,PenaltyOn,San Jose Sharks,Troy Terry,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:39:14Z,3,05:13,14:47,Faceoff,n/a,-69.0,-22.0,Adam Henrique,Winner,Anaheim Ducks,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:39:43Z,3,05:27,14:33,Takeaway,n/a,-15.0,-39.0,Tomas Hertl,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:40:16Z,3,06:00,14:00,Giveaway,n/a,-92.0,-28.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:40:27Z,3,06:09,13:51,Shot,Slap Shot,-36.0,24.0,Ryan Getzlaf,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:40:45Z,3,06:09,13:51,Faceoff,n/a,-69.0,22.0,Derek Grant,Winner,Anaheim Ducks,Evander Kane,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:41:00Z,3,06:16,13:44,Missed Shot,n/a,-75.0,3.0,Derek Grant,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:41:27Z,3,06:43,13:17,Shot,Slap Shot,-33.0,-30.0,Hampus Lindholm,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:42:05Z,3,07:21,12:39,Giveaway,n/a,-65.0,38.0,Radim Simek,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:42:13Z,3,07:29,12:31,Takeaway,n/a,-44.0,-18.0,Ryan Getzlaf,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:42:22Z,3,07:38,12:22,Hit,n/a,-98.0,-10.0,Mario Ferraro,Hitter,San Jose Sharks,Ryan Getzlaf,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:42:48Z,3,08:04,11:56,Hit,n/a,39.0,40.0,Evander Kane,Hitter,San Jose Sharks,Korbinian Holzer,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:43:16Z,3,08:19,11:41,Faceoff,n/a,69.0,-22.0,Adam Henrique,Winner,Anaheim Ducks,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:44:05Z,3,08:58,11:02,Missed Shot,n/a,32.0,29.0,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:46:19Z,3,08:58,11:02,Faceoff,n/a,69.0,22.0,Derek Grant,Winner,Anaheim Ducks,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:46:48Z,3,09:25,10:35,Hit,n/a,39.0,-37.0,Stefan Noesen,Hitter,San Jose Sharks,Hampus Lindholm,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:47:45Z,3,10:23,09:37,Hit,n/a,93.0,27.0,Barclay Goodrow,Hitter,San Jose Sharks,Korbinian Holzer,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:47:55Z,3,10:33,09:27,Blocked Shot,n/a,-41.0,-15.0,Sam Steel,Blocker,Anaheim Ducks,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:48:20Z,3,10:43,09:17,Faceoff,n/a,69.0,22.0,Sam Steel,Winner,Anaheim Ducks,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:48:37Z,3,10:52,09:08,Hit,n/a,45.0,-42.0,Timo Meier,Hitter,San Jose Sharks,Max Jones,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:48:54Z,3,10:54,09:06,Takeaway,n/a,-12.0,-17.0,Ryan Getzlaf,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:49:19Z,3,11:34,08:26,Shot,Wrist Shot,43.0,0.0,Tomas Hertl,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:49:57Z,3,12:11,07:49,Hit,n/a,-72.0,-39.0,Radim Simek,Hitter,San Jose Sharks,Adam Henrique,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:50:32Z,3,12:47,07:13,Giveaway,n/a,-94.0,6.0,Devin Shore,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:50:44Z,3,12:59,07:01,Shot,Slap Shot,-38.0,26.0,Korbinian Holzer,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:50:55Z,3,13:10,06:50,Hit,n/a,12.0,-30.0,Stefan Noesen,Hitter,San Jose Sharks,Jacob Larsson,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:51:25Z,3,13:36,06:24,Missed Shot,n/a,34.0,28.0,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:51:47Z,3,14:02,05:58,Takeaway,n/a,93.0,-22.0,Evander Kane,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:51:55Z,3,14:09,05:51,Missed Shot,n/a,31.0,24.0,Radim Simek,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:53:47Z,3,14:09,05:51,Faceoff,n/a,69.0,22.0,Ryan Getzlaf,Winner,Anaheim Ducks,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:54:36Z,3,14:31,05:29,Shot,Wrist Shot,37.0,31.0,Evander Kane,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:55:08Z,3,15:09,04:51,Takeaway,n/a,-8.0,7.0,Brent Burns,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:55:51Z,3,15:21,04:39,Blocked Shot,n/a,80.0,4.0,Korbinian Holzer,Blocker,Anaheim Ducks,Patrick Marleau,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:55:28Z,3,15:24,04:36,Shot,Wrist Shot,82.0,7.0,Patrick Marleau,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:57:27Z,3,15:27,04:33,Faceoff,n/a,69.0,22.0,Derek Grant,Winner,Anaheim Ducks,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:57:59Z,3,15:45,04:15,Takeaway,n/a,-42.0,36.0,Josh Manson,PlayerID,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:58:09Z,3,15:55,04:05,Shot,Wrist Shot,-81.0,-6.0,Carter Rowney,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:58:19Z,3,16:05,03:55,Shot,Wrist Shot,-36.0,-28.0,Nicolas Deslauriers,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:58:42Z,3,16:23,03:37,Shot,Wrist Shot,-81.0,-4.0,Max Jones,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:59:42Z,3,17:28,02:32,Hit,n/a,93.0,19.0,Tomas Hertl,Hitter,San Jose Sharks,Rickard Rakell,Hittee,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T05:59:53Z,3,17:39,02:21,Shot,Snap Shot,50.0,21.0,Evander Kane,Shooter,San Jose Sharks,John Gibson,Goalie,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:01:14Z,3,17:47,02:13,Penalty,Interference,75.0,17.0,Tomas Hertl,PenaltyOn,San Jose Sharks,Erik Gudbranson,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:01:14Z,3,17:47,02:13,Penalty,Fighting,49.0,17.0,Evander Kane,PenaltyOn,San Jose Sharks,Erik Gudbranson,DrewBy,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:02:02Z,3,17:47,02:13,Penalty,Fighting,43.0,21.0,Erik Gudbranson,PenaltyOn,Anaheim Ducks,Evander Kane,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:02:06Z,3,17:47,02:13,Faceoff,n/a,-69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Derek Grant,Loser,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:02:50Z,3,18:07,01:53,Goal,Snap Shot,-72.0,17.0,Nick Ritchie,Scorer,Anaheim Ducks,Sam Steel,Assist,Anaheim Ducks,Hampus Lindholm,Assist,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks
+2020-01-28T06:03:06Z,3,18:07,01:53,Faceoff,n/a,0.0,0.0,Ryan Getzlaf,Winner,Anaheim Ducks,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:03:17Z,3,18:18,01:42,Missed Shot,n/a,80.0,-2.0,Marcus Sorensen,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:03:20Z,3,18:22,01:38,Hit,n/a,87.0,31.0,Ryan Getzlaf,Hitter,Anaheim Ducks,Marcus Sorensen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:03:58Z,3,18:39,01:21,Faceoff,n/a,-69.0,-22.0,Adam Henrique,Winner,Anaheim Ducks,Dylan Gambrell,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:04:13Z,3,18:47,01:13,Missed Shot,n/a,-76.0,-5.0,Nick Ritchie,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:04:27Z,3,19:01,00:59,Shot,Slap Shot,-37.0,4.0,Cam Fowler,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:04:45Z,3,19:18,00:42,Blocked Shot,n/a,-44.0,0.0,Patrick Marleau,Blocker,San Jose Sharks,Cam Fowler,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:04:59Z,3,19:33,00:27,Shot,Wrist Shot,-66.0,-36.0,Rickard Rakell,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:05:10Z,3,19:42,00:18,Shot,Tip-In,-75.0,4.0,Adam Henrique,Shooter,Anaheim Ducks,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:05:48Z,3,19:42,00:18,Faceoff,n/a,-69.0,22.0,Derek Grant,Winner,Anaheim Ducks,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-28T06:05:50Z,3,19:47,00:13,Blocked Shot,n/a,-56.0,12.0,Barclay Goodrow,Blocker,San Jose Sharks,Ryan Getzlaf,Shooter,Anaheim Ducks,n/a,n/a,n/a,n/a,n/a,n/a

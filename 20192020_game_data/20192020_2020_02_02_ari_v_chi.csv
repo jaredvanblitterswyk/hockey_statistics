@@ -1,0 +1,263 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-02T01:08:06Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Nick Schmaltz,Winner,Arizona Coyotes,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:10:09Z,1,01:24,18:36,Shot,Wrist Shot,-43.0,-35.0,Jonathan Toews,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:10:45Z,1,02:00,18:00,Shot,Backhand,-90.0,17.0,Patrick Kane,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:11:22Z,1,02:36,17:24,Takeaway,n/a,-23.0,-26.0,Zack Smith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:11:56Z,1,03:11,16:49,Hit,n/a,-11.0,38.0,Kyle Capobianco,Hitter,Arizona Coyotes,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:12:33Z,1,03:48,16:12,Shot,Backhand,90.0,-17.0,Taylor Hall,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:12:38Z,1,03:52,16:08,Shot,Snap Shot,72.0,-5.0,Conor Garland,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:12:56Z,1,03:52,16:08,Faceoff,n/a,69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Dominik Kubalik,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:13:18Z,1,04:03,15:57,Missed Shot,n/a,34.0,27.0,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:13:30Z,1,04:15,15:45,Shot,Backhand,66.0,4.0,Conor Garland,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:13:42Z,1,04:23,15:37,Hit,n/a,65.0,2.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:13:59Z,1,04:43,15:17,Shot,Wrist Shot,-67.0,-17.0,Brandon Saad,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:14:11Z,1,04:45,15:15,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:14:44Z,1,05:06,14:54,Shot,Wrist Shot,53.0,26.0,Phil Kessel,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:15:20Z,1,05:34,14:26,Faceoff,n/a,69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:15:46Z,1,05:40,14:20,Blocked Shot,n/a,55.0,14.0,Jordan Oesterle,Blocker,Arizona Coyotes,Alex Nylander,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:15:52Z,1,05:44,14:16,Shot,Wrist Shot,81.0,33.0,Brad Richardson,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:16:03Z,1,05:45,14:15,Shot,Wrist Shot,76.0,0.0,Carl Soderberg,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:16:26Z,1,05:46,14:14,Shot,Wrist Shot,80.0,-1.0,Carl Soderberg,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:16:27Z,1,05:47,14:13,Faceoff,n/a,69.0,22.0,Nick Schmaltz,Winner,Arizona Coyotes,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:16:43Z,1,05:55,14:05,Shot,Wrap-around,86.0,-8.0,Lawson Crouse,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:17:08Z,1,06:01,13:59,Faceoff,n/a,69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:17:16Z,1,06:08,13:52,Blocked Shot,n/a,63.0,-5.0,Adam Boqvist,Blocker,Chicago Blackhawks,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:17:36Z,1,06:18,13:42,Penalty,Hooking,97.0,-21.0,Zack Smith,PenaltyOn,Chicago Blackhawks,Taylor Hall,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:19:44Z,1,06:18,13:42,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:20:40Z,1,07:25,12:35,Shot,Wrist Shot,46.0,25.0,Clayton Keller,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:20:48Z,1,07:26,12:34,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:21:26Z,1,07:30,12:30,Penalty,Tripping,63.0,31.0,Clayton Keller,PenaltyOn,Arizona Coyotes,Jonathan Toews,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:22:10Z,1,07:30,12:30,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Brandon Saad,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:22:20Z,1,07:37,12:23,Missed Shot,n/a,-47.0,14.0,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:22:37Z,1,07:53,12:07,Takeaway,n/a,20.0,-38.0,Dylan Strome,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:23:27Z,1,08:44,11:16,Shot,Tip-In,-76.0,-4.0,Jonathan Toews,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:23:47Z,1,08:52,11:08,Giveaway,n/a,-57.0,-38.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:23:58Z,1,09:14,10:46,Hit,n/a,-58.0,39.0,Carl Soderberg,Hitter,Arizona Coyotes,Adam Boqvist,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:24:04Z,1,09:20,10:40,Shot,Wrist Shot,-61.0,-21.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:24:32Z,1,09:46,10:14,Blocked Shot,n/a,-71.0,-13.0,Jason Demers,Blocker,Arizona Coyotes,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:25:05Z,1,10:21,09:39,Takeaway,n/a,-30.0,-1.0,David Kampf,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:25:53Z,1,11:09,08:51,Shot,Wrist Shot,82.0,18.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:26:01Z,1,11:17,08:43,Hit,n/a,62.0,-39.0,Lawson Crouse,Hitter,Arizona Coyotes,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:26:43Z,1,11:59,08:01,Shot,Wrist Shot,54.0,21.0,Christian Dvorak,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:26:51Z,1,12:08,07:52,Goal,Wrist Shot,-65.0,-27.0,Brandon Saad,Scorer,Chicago Blackhawks,Patrick Kane,Assist,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a
+2020-02-02T01:27:43Z,1,12:08,07:52,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Dominik Kubalik,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:27:51Z,1,12:16,07:44,Shot,Backhand,81.0,-21.0,Christian Fischer,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:30:14Z,1,12:33,07:27,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:30:29Z,1,12:38,07:22,Faceoff,n/a,-20.0,22.0,Drake Caggiula,Winner,Chicago Blackhawks,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:31:11Z,1,12:53,07:07,Shot,Slap Shot,-37.0,30.0,Slater Koekkoek,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:31:22Z,1,13:05,06:55,Hit,n/a,73.0,-32.0,Brad Richardson,Hitter,Arizona Coyotes,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:31:44Z,1,13:26,06:34,Hit,n/a,96.0,-25.0,Christian Fischer,Hitter,Arizona Coyotes,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:31:58Z,1,13:32,06:28,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:32:48Z,1,13:44,06:16,Faceoff,n/a,20.0,22.0,David Kampf,Winner,Chicago Blackhawks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:33:05Z,1,13:57,06:03,Shot,Wrist Shot,-73.0,12.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:33:22Z,1,14:14,05:46,Blocked Shot,n/a,55.0,3.0,Dylan Strome,Blocker,Chicago Blackhawks,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:33:26Z,1,14:18,05:42,Hit,n/a,72.0,-41.0,Erik Gustafsson,Hitter,Chicago Blackhawks,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:35:58Z,1,14:19,05:41,Faceoff,n/a,69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Zack Smith,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:36:16Z,1,14:23,05:37,Faceoff,n/a,69.0,-22.0,Clayton Keller,Winner,Arizona Coyotes,Brandon Saad,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:36:38Z,1,14:32,05:28,Missed Shot,n/a,40.0,-33.0,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:36:48Z,1,14:42,05:18,Giveaway,n/a,-42.0,-11.0,Patrick Kane,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:36:55Z,1,14:49,05:11,Takeaway,n/a,22.0,40.0,Adam Boqvist,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:37:05Z,1,14:59,05:01,Blocked Shot,n/a,49.0,4.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:37:28Z,1,15:22,04:38,Shot,Wrist Shot,-77.0,22.0,Ryan Carpenter,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:38:33Z,1,15:22,04:38,Faceoff,n/a,-69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:38:03Z,1,15:29,04:31,Shot,Wrist Shot,-49.0,-29.0,Olli Maatta,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:38:14Z,1,15:32,04:28,Blocked Shot,n/a,-65.0,7.0,Jason Demers,Blocker,Arizona Coyotes,Alex Nylander,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:38:25Z,1,15:58,04:02,Giveaway,n/a,-13.0,27.0,Alex Nylander,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:38:57Z,1,16:30,03:30,Blocked Shot,n/a,-55.0,20.0,Carl Soderberg,Blocker,Arizona Coyotes,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:39:11Z,1,16:36,03:24,Penalty,Tripping,-54.0,-23.0,Christian Fischer,PenaltyOn,Arizona Coyotes,Drake Caggiula,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:39:48Z,1,16:36,03:24,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:39:55Z,1,16:54,03:06,Missed Shot,n/a,-41.0,8.0,Adam Boqvist,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:41:14Z,1,18:13,01:47,Blocked Shot,n/a,-69.0,2.0,Lawson Crouse,Blocker,Arizona Coyotes,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:41:14Z,1,18:19,01:41,Giveaway,n/a,-52.0,-32.0,Jason Demers,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:41:26Z,1,18:23,01:37,Shot,Slap Shot,-45.0,18.0,Erik Gustafsson,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:41:45Z,1,18:24,01:36,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:42:22Z,1,18:48,01:12,Blocked Shot,n/a,-56.0,23.0,Alex Goligoski,Blocker,Arizona Coyotes,Dylan Strome,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T01:42:56Z,1,19:22,00:38,Takeaway,n/a,-6.0,39.0,Brandon Saad,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:02:19Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Nick Schmaltz,Winner,Arizona Coyotes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:03:50Z,2,01:34,18:26,Shot,Wrist Shot,50.0,-31.0,Duncan Keith,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:04:14Z,2,01:35,18:25,Faceoff,n/a,69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:04:38Z,2,01:46,18:14,Blocked Shot,n/a,51.0,41.0,Brad Richardson,Blocker,Arizona Coyotes,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:04:50Z,2,02:00,18:00,Hit,n/a,70.0,39.0,Christian Fischer,Hitter,Arizona Coyotes,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:05:14Z,2,02:24,17:36,Shot,Tip-In,-78.0,2.0,Christian Fischer,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:05:24Z,2,02:34,17:26,Blocked Shot,n/a,66.0,2.0,Jason Demers,Blocker,Arizona Coyotes,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:05:30Z,2,02:39,17:21,Shot,Backhand,84.0,-9.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:05:56Z,2,02:39,17:21,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:06:17Z,2,02:49,17:11,Faceoff,n/a,0.0,0.0,Zack Smith,Winner,Chicago Blackhawks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:06:59Z,2,03:18,16:42,Hit,n/a,49.0,41.0,Zack Smith,Hitter,Chicago Blackhawks,Phil Kessel,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:07:00Z,2,03:19,16:41,Shot,Wrist Shot,-75.0,-35.0,Clayton Keller,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:07:10Z,2,03:29,16:31,Shot,Tip-In,71.0,-9.0,Alex Nylander,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:07:18Z,2,03:37,16:23,Hit,n/a,68.0,39.0,Jakob Chychrun,Hitter,Arizona Coyotes,Zack Smith,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:07:51Z,2,04:00,16:00,Hit,n/a,89.0,-33.0,Kyle Capobianco,Hitter,Arizona Coyotes,Adam Boqvist,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:07:44Z,2,04:03,15:57,Takeaway,n/a,96.0,3.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:07:49Z,2,04:08,15:52,Shot,Wrist Shot,41.0,30.0,Duncan Keith,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:08:01Z,2,04:20,15:40,Missed Shot,n/a,68.0,-17.0,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:08:10Z,2,04:29,15:31,Shot,Wrist Shot,66.0,4.0,Patrick Kane,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:08:23Z,2,04:36,15:24,Goal,Wrist Shot,68.0,2.0,Brandon Saad,Scorer,Chicago Blackhawks,Patrick Kane,Assist,Chicago Blackhawks,Kirby Dach,Assist,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes
+2020-02-02T02:08:56Z,2,04:36,15:24,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:09:13Z,2,04:53,15:07,Shot,Wrist Shot,84.0,-19.0,Kirby Dach,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:09:58Z,2,05:04,14:56,Faceoff,n/a,20.0,22.0,Brad Richardson,Winner,Arizona Coyotes,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:10:26Z,2,05:19,14:41,Hit,n/a,-8.0,-38.0,Brad Richardson,Hitter,Arizona Coyotes,Dylan Strome,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:10:25Z,2,05:30,14:30,Blocked Shot,n/a,65.0,19.0,Jason Demers,Blocker,Arizona Coyotes,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:10:49Z,2,05:53,14:07,Hit,n/a,-84.0,35.0,Brad Richardson,Hitter,Arizona Coyotes,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:10:55Z,2,06:00,14:00,Shot,Wrist Shot,54.0,-26.0,Dylan Strome,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:13:00Z,2,06:01,13:59,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:13:07Z,2,06:04,13:56,Shot,Slap Shot,51.0,-9.0,Erik Gustafsson,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:13:29Z,2,06:27,13:33,Hit,n/a,59.0,-4.0,Drake Caggiula,Hitter,Chicago Blackhawks,Derek Stepan,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:14:05Z,2,07:03,12:57,Blocked Shot,n/a,63.0,0.0,Jordan Oesterle,Blocker,Arizona Coyotes,Alex Nylander,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:14:35Z,2,07:08,12:52,Faceoff,n/a,-20.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Zack Smith,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:15:00Z,2,07:19,12:41,Blocked Shot,n/a,-71.0,10.0,Duncan Keith,Blocker,Chicago Blackhawks,Jason Demers,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:15:42Z,2,08:01,11:59,Shot,Tip-In,-78.0,-8.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:15:57Z,2,08:16,11:44,Giveaway,n/a,-67.0,24.0,Vinnie Hinostroza,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:16:21Z,2,08:41,11:19,Shot,Wrap-around,-84.0,-10.0,Christian Fischer,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:16:46Z,2,08:55,11:05,Shot,Wrist Shot,-86.0,33.0,Carl Soderberg,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:16:38Z,2,08:58,11:02,Goal,Wrist Shot,-76.0,4.0,Brad Richardson,Scorer,Arizona Coyotes,Carl Soderberg,Assist,Arizona Coyotes,Alex Goligoski,Assist,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks
+2020-02-02T02:17:18Z,2,08:58,11:02,Faceoff,n/a,0.0,0.0,David Kampf,Winner,Chicago Blackhawks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:17:40Z,2,09:15,10:45,Shot,Wrist Shot,62.0,20.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:17:57Z,2,09:32,10:28,Shot,Wrist Shot,75.0,3.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:18:29Z,2,10:04,09:56,Shot,Backhand,-59.0,-18.0,Conor Garland,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:18:42Z,2,10:17,09:43,Shot,Wrist Shot,74.0,-7.0,Drake Caggiula,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:20:50Z,2,10:18,09:42,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:21:24Z,2,10:35,09:25,Blocked Shot,n/a,-81.0,6.0,Carl Soderberg,Blocker,Arizona Coyotes,Adam Boqvist,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:21:25Z,2,10:36,09:24,Hit,n/a,-74.0,25.0,Christian Fischer,Hitter,Arizona Coyotes,Adam Boqvist,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:21:34Z,2,10:45,09:15,Shot,Wrist Shot,-63.0,22.0,Carl Soderberg,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:21:58Z,2,10:54,09:06,Shot,Backhand,-42.0,39.0,Carl Soderberg,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:22:25Z,2,10:55,09:05,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Zack Smith,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:23:07Z,2,11:13,08:47,Faceoff,n/a,20.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Brandon Saad,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:23:26Z,2,11:24,08:36,Giveaway,n/a,14.0,30.0,Alex Goligoski,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:23:33Z,2,11:31,08:29,Shot,Slap Shot,38.0,19.0,Olli Maatta,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:23:35Z,2,11:33,08:27,Hit,n/a,70.0,40.0,Derek Stepan,Hitter,Arizona Coyotes,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:24:11Z,2,11:41,08:19,Faceoff,n/a,0.0,0.0,Zack Smith,Winner,Chicago Blackhawks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:24:56Z,2,12:21,07:39,Missed Shot,n/a,68.0,1.0,Alex Nylander,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:25:11Z,2,12:37,07:23,Hit,n/a,69.0,-37.0,Christian Dvorak,Hitter,Arizona Coyotes,Alex Nylander,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:25:16Z,2,12:41,07:19,Takeaway,n/a,35.0,-13.0,Jordan Oesterle,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:25:39Z,2,13:04,06:56,Shot,Backhand,-77.0,-3.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:26:13Z,2,13:06,06:54,Faceoff,n/a,-69.0,-22.0,Nick Schmaltz,Winner,Arizona Coyotes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:26:27Z,2,13:13,06:47,Blocked Shot,n/a,-75.0,-22.0,Jonathan Toews,Blocker,Chicago Blackhawks,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:26:51Z,2,13:18,06:42,Faceoff,n/a,-69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:27:19Z,2,13:23,06:37,Blocked Shot,n/a,-46.0,-20.0,Drake Caggiula,Blocker,Chicago Blackhawks,Kyle Capobianco,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:27:58Z,2,14:08,05:52,Blocked Shot,n/a,-82.0,-9.0,Adam Boqvist,Blocker,Chicago Blackhawks,Niklas Hjalmarsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:28:09Z,2,14:14,05:46,Shot,Slap Shot,-37.0,8.0,Jakob Chychrun,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:30:32Z,2,14:14,05:46,Faceoff,n/a,-69.0,22.0,Brandon Saad,Winner,Chicago Blackhawks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:30:41Z,2,14:35,05:25,Giveaway,n/a,-29.0,-1.0,Olli Maatta,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:31:00Z,2,14:54,05:06,Shot,Wrist Shot,55.0,0.0,Brandon Saad,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:31:10Z,2,15:04,04:56,Takeaway,n/a,-42.0,16.0,Erik Gustafsson,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:31:23Z,2,15:06,04:54,Giveaway,n/a,-36.0,31.0,Erik Gustafsson,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:31:41Z,2,15:35,04:25,Missed Shot,n/a,-53.0,-21.0,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:31:49Z,2,15:43,04:17,Blocked Shot,n/a,-61.0,-22.0,Dylan Strome,Blocker,Chicago Blackhawks,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:32:12Z,2,16:06,03:54,Shot,Wrist Shot,70.0,-12.0,Dylan Strome,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:32:24Z,2,16:18,03:42,Shot,Wrist Shot,-71.0,-12.0,Carl Soderberg,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:32:47Z,2,16:41,03:19,Blocked Shot,n/a,-75.0,-9.0,Adam Boqvist,Blocker,Chicago Blackhawks,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:33:16Z,2,17:10,02:50,Hit,n/a,-81.0,-37.0,Lawson Crouse,Hitter,Arizona Coyotes,Adam Boqvist,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:33:59Z,2,17:53,02:07,Shot,Wrist Shot,60.0,14.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:34:44Z,2,17:54,02:06,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:34:50Z,2,18:15,01:45,Hit,n/a,82.0,-37.0,Jonathan Toews,Hitter,Chicago Blackhawks,Niklas Hjalmarsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:34:53Z,2,18:20,01:40,Goal,Wrist Shot,-72.0,-18.0,Conor Garland,Scorer,Arizona Coyotes,Taylor Hall,Assist,Arizona Coyotes,Jason Demers,Assist,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks
+2020-02-02T02:35:46Z,2,18:20,01:40,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:36:37Z,2,19:03,00:57,Hit,n/a,-92.0,31.0,Erik Gustafsson,Hitter,Chicago Blackhawks,Brad Richardson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:36:47Z,2,19:05,00:55,Hit,n/a,-95.0,-4.0,Carl Soderberg,Hitter,Arizona Coyotes,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:37:12Z,2,19:37,00:23,Penalty,Hooking,64.0,-31.0,Jakob Chychrun,PenaltyOn,Arizona Coyotes,Patrick Kane,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:37:57Z,2,19:37,00:23,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:38:13Z,2,19:57,00:03,Faceoff,n/a,20.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:57:24Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:57:57Z,3,00:42,19:18,Blocked Shot,n/a,70.0,11.0,Adam Boqvist,Blocker,Chicago Blackhawks,Brad Richardson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:58:21Z,3,00:42,19:18,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:58:48Z,3,01:04,18:56,Shot,Backhand,-82.0,5.0,Patrick Kane,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:58:51Z,3,01:13,18:47,Shot,Wrist Shot,-69.0,20.0,Patrick Kane,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:59:13Z,3,01:14,18:46,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:59:28Z,3,01:22,18:38,Shot,Wrist Shot,-77.0,-11.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:59:34Z,3,01:28,18:32,Giveaway,n/a,-94.0,6.0,Alex DeBrincat,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:59:39Z,3,01:33,18:27,Giveaway,n/a,-51.0,29.0,Jason Demers,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T02:59:40Z,3,01:34,18:26,Blocked Shot,n/a,-52.0,4.0,Alex Goligoski,Blocker,Arizona Coyotes,Kirby Dach,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:00:17Z,3,01:41,18:19,Shot,Wrist Shot,7.0,-15.0,Derek Stepan,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:00:32Z,3,02:02,17:58,Faceoff,n/a,69.0,-22.0,Nick Schmaltz,Winner,Arizona Coyotes,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:00:41Z,3,02:09,17:51,Missed Shot,n/a,35.0,35.0,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:01:12Z,3,02:15,17:45,Faceoff,n/a,-69.0,-22.0,Zack Smith,Winner,Chicago Blackhawks,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:01:20Z,3,02:19,17:41,Shot,Wrist Shot,-68.0,-10.0,Olli Maatta,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:01:33Z,3,02:19,17:41,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Zack Smith,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:02:00Z,3,02:42,17:18,Takeaway,n/a,-62.0,36.0,Jakob Chychrun,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:02:09Z,3,02:51,17:09,Hit,n/a,96.0,-18.0,Zack Smith,Hitter,Chicago Blackhawks,Derek Stepan,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:02:27Z,3,02:56,17:04,Hit,n/a,65.0,40.0,Derek Stepan,Hitter,Arizona Coyotes,Zack Smith,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:02:28Z,3,03:05,16:55,Blocked Shot,n/a,-76.0,-10.0,Jason Demers,Blocker,Arizona Coyotes,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:02:49Z,3,03:05,16:55,Faceoff,n/a,-69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:03:47Z,3,03:58,16:02,Blocked Shot,n/a,57.0,-22.0,Brandon Saad,Blocker,Chicago Blackhawks,Niklas Hjalmarsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:03:50Z,3,04:00,16:00,Shot,Slap Shot,52.0,35.0,Kyle Capobianco,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:04:08Z,3,04:19,15:41,Giveaway,n/a,98.0,-1.0,Connor Murphy,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:04:35Z,3,04:45,15:15,Shot,Wrist Shot,80.0,-11.0,Taylor Hall,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:05:16Z,3,04:48,15:12,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:05:30Z,3,04:56,15:04,Hit,n/a,-79.0,4.0,Jakob Chychrun,Hitter,Arizona Coyotes,Drake Caggiula,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:05:29Z,3,04:58,15:02,Missed Shot,n/a,-80.0,7.0,Drake Caggiula,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:05:56Z,3,04:58,15:02,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:06:38Z,3,05:29,14:31,Blocked Shot,n/a,69.0,4.0,Adam Boqvist,Blocker,Chicago Blackhawks,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:06:56Z,3,05:48,14:12,Missed Shot,n/a,69.0,-27.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:07:10Z,3,06:01,13:59,Missed Shot,n/a,-47.0,-23.0,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:07:21Z,3,06:11,13:49,Shot,Wrist Shot,-68.0,10.0,Slater Koekkoek,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:09:22Z,3,06:12,13:48,Faceoff,n/a,-69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:09:53Z,3,06:36,13:24,Shot,Wrist Shot,77.0,9.0,Conor Garland,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:10:09Z,3,06:48,13:12,Penalty,Holding,60.0,39.0,Olli Maatta,PenaltyOn,Chicago Blackhawks,Conor Garland,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:10:51Z,3,06:48,13:12,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:11:04Z,3,06:58,13:02,Shot,Slap Shot,61.0,-14.0,Jakob Chychrun,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:11:24Z,3,07:19,12:41,Blocked Shot,n/a,74.0,8.0,Connor Murphy,Blocker,Chicago Blackhawks,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:11:45Z,3,07:28,12:32,Shot,Wrist Shot,75.0,40.0,Connor Murphy,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:12:39Z,3,08:33,11:27,Shot,Backhand,86.0,-8.0,Christian Dvorak,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:12:49Z,3,08:43,11:17,Shot,Wrist Shot,80.0,2.0,Phil Kessel,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:13:08Z,3,09:00,11:00,Hit,n/a,-35.0,-41.0,Brandon Saad,Hitter,Chicago Blackhawks,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:13:38Z,3,09:09,10:51,Faceoff,n/a,69.0,-22.0,Kirby Dach,Winner,Chicago Blackhawks,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:13:51Z,3,09:12,10:48,Shot,Wrist Shot,76.0,-13.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:14:05Z,3,09:13,10:47,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Vinnie Hinostroza,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:14:29Z,3,09:23,10:37,Shot,Backhand,68.0,4.0,Nick Schmaltz,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:14:59Z,3,09:24,10:36,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:15:09Z,3,09:31,10:29,Shot,Wrist Shot,65.0,30.0,Kyle Capobianco,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:15:18Z,3,09:40,10:20,Shot,Wrist Shot,-57.0,-22.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:15:32Z,3,09:54,10:06,Shot,Wrist Shot,-49.0,-26.0,Jonathan Toews,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:15:36Z,3,09:57,10:03,Hit,n/a,-60.0,40.0,Kyle Capobianco,Hitter,Arizona Coyotes,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:15:51Z,3,10:03,09:57,Penalty,Hooking,-47.0,-37.0,Jonathan Toews,PenaltyOn,Chicago Blackhawks,Clayton Keller,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:17:56Z,3,10:03,09:57,Faceoff,n/a,69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:19:53Z,3,11:56,08:04,Missed Shot,n/a,73.0,20.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:20:06Z,3,12:09,07:51,Giveaway,n/a,57.0,10.0,Clayton Keller,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:20:21Z,3,12:24,07:36,Shot,Wrist Shot,67.0,-20.0,Brad Richardson,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:20:46Z,3,12:45,07:15,Hit,n/a,-88.0,-20.0,Kyle Capobianco,Hitter,Arizona Coyotes,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:20:53Z,3,12:56,07:04,Shot,Backhand,54.0,-31.0,Christian Dvorak,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:21:29Z,3,12:57,07:03,Faceoff,n/a,69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:21:41Z,3,13:11,06:49,Shot,Wrist Shot,-38.0,-24.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:21:56Z,3,13:26,06:34,Blocked Shot,n/a,62.0,8.0,Connor Murphy,Blocker,Chicago Blackhawks,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:22:51Z,3,13:40,06:20,Faceoff,n/a,-20.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:23:10Z,3,13:54,06:06,Takeaway,n/a,95.0,-1.0,Brad Richardson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:23:28Z,3,14:12,05:48,Shot,Slap Shot,47.0,14.0,Carl Soderberg,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:23:39Z,3,14:23,05:37,Shot,Wrist Shot,-74.0,-10.0,Kirby Dach,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:23:45Z,3,14:29,05:31,Shot,Backhand,-63.0,9.0,Brandon Saad,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:24:04Z,3,14:48,05:12,Missed Shot,n/a,69.0,29.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:26:30Z,3,15:21,04:39,Faceoff,n/a,20.0,22.0,David Kampf,Winner,Chicago Blackhawks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:27:05Z,3,15:30,04:30,Missed Shot,n/a,54.0,-5.0,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:27:19Z,3,15:30,04:30,Faceoff,n/a,69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:28:21Z,3,16:25,03:35,Blocked Shot,n/a,65.0,9.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:28:43Z,3,16:47,03:13,Hit,n/a,73.0,39.0,Lawson Crouse,Hitter,Arizona Coyotes,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:28:49Z,3,16:53,03:07,Shot,Wrist Shot,-70.0,-27.0,Slater Koekkoek,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:29:22Z,3,16:54,03:06,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:30:28Z,3,18:00,02:00,Shot,Wrist Shot,-44.0,34.0,Connor Murphy,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:31:03Z,3,18:01,01:59,Faceoff,n/a,-69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:31:08Z,3,18:09,01:51,Missed Shot,n/a,-53.0,7.0,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:31:45Z,3,18:46,01:14,Hit,n/a,-92.0,24.0,Brad Richardson,Hitter,Arizona Coyotes,Brandon Saad,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:33:07Z,3,19:35,00:25,Faceoff,n/a,-20.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:33:13Z,3,19:44,00:16,Giveaway,n/a,-10.0,25.0,Christian Dvorak,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:35:43Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:36:11Z,4,00:32,04:28,Shot,Backhand,-68.0,-10.0,Taylor Hall,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:36:51Z,4,01:12,03:48,Shot,Wrist Shot,52.0,-3.0,Erik Gustafsson,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:36:59Z,4,01:20,03:40,Blocked Shot,n/a,75.0,3.0,Jakob Chychrun,Blocker,Arizona Coyotes,Brandon Saad,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:37:17Z,4,01:39,03:21,Takeaway,n/a,-61.0,-4.0,Dominik Kubalik,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:37:22Z,4,01:44,03:16,Shot,Wrist Shot,66.0,-10.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:38:09Z,4,01:45,03:15,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:39:03Z,4,02:19,02:41,Shot,Slap Shot,54.0,16.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:39:10Z,4,02:25,02:35,Shot,Slap Shot,58.0,-32.0,Duncan Keith,Shooter,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:39:43Z,4,02:58,02:02,Shot,Wrist Shot,-58.0,15.0,Clayton Keller,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:39:59Z,4,03:14,01:46,Shot,Wrist Shot,-12.0,-26.0,Jakob Chychrun,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:40:09Z,4,03:24,01:36,Hit,n/a,96.0,-9.0,Dominik Kubalik,Hitter,Chicago Blackhawks,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:40:29Z,4,03:44,01:16,Giveaway,n/a,96.0,-4.0,Patrick Kane,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:40:37Z,4,03:52,01:08,Takeaway,n/a,54.0,1.0,Alex DeBrincat,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:40:46Z,4,04:00,01:00,Hit,n/a,78.0,-38.0,Alex DeBrincat,Hitter,Chicago Blackhawks,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:40:49Z,4,04:03,00:57,Shot,Wrist Shot,-71.0,-25.0,Alex Goligoski,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:41:47Z,4,04:14,00:46,Faceoff,n/a,20.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:42:15Z,4,04:43,00:17,Hit,n/a,56.0,-14.0,Derek Stepan,Hitter,Arizona Coyotes,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:44:18Z,5,00:00,00:00,Goal,Wrist Shot,-81.0,-6.0,Jonathan Toews,Scorer,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:44:52Z,5,00:00,00:00,Shot,Wrist Shot,80.0,-3.0,Nick Schmaltz,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:45:16Z,5,00:00,00:00,Goal,Backhand,-85.0,5.0,Patrick Kane,Scorer,Chicago Blackhawks,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-02T03:45:46Z,5,00:00,00:00,Shot,Wrist Shot,82.0,0.0,Conor Garland,Shooter,Arizona Coyotes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a

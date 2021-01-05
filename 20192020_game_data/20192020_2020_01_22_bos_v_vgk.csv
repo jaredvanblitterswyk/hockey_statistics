@@ -1,0 +1,250 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-22T00:08:30Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Chandler Stephenson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:09:22Z,1,00:10,19:50,Shot,Backhand,81.0,9.0,David Pastrnak,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:09:35Z,1,00:23,19:37,Shot,Wrist Shot,51.0,-19.0,Patrice Bergeron,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:09:52Z,1,00:39,19:21,Missed Shot,n/a,39.0,-26.0,Brandon Carlo,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:10:39Z,1,01:24,18:36,Goal,Backhand,-81.0,-11.0,Mark Stone,Scorer,Vegas Golden Knights,Nate Schmidt,Assist,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a
+2020-01-22T00:11:20Z,1,01:24,18:36,Faceoff,n/a,0.0,0.0,David Krejci,Winner,Boston Bruins,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:11:41Z,1,01:39,18:21,Shot,Wrist Shot,43.0,4.0,Karson Kuhlman,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:11:57Z,1,01:39,18:21,Penalty,Interference,54.0,11.0,Nicolas Hague,PenaltyOn,Vegas Golden Knights,Danton Heinen,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:12:20Z,1,01:39,18:21,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:12:42Z,1,02:17,17:43,Blocked Shot,n/a,65.0,8.0,Brayden McNabb,Blocker,Vegas Golden Knights,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:12:47Z,1,02:22,17:38,Giveaway,n/a,41.0,32.0,Chandler Stephenson,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:13:06Z,1,02:41,17:19,Blocked Shot,n/a,55.0,-1.0,Brayden McNabb,Blocker,Vegas Golden Knights,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:13:34Z,1,03:09,16:51,Takeaway,n/a,56.0,39.0,Nick Holden,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:13:36Z,1,03:11,16:49,Hit,n/a,48.0,-35.0,Cody Eakin,Hitter,Vegas Golden Knights,David Krejci,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:13:39Z,1,03:13,16:47,Shot,Slap Shot,49.0,21.0,David Pastrnak,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:14:10Z,1,03:13,16:47,Faceoff,n/a,69.0,22.0,Nicolas Roy,Winner,Vegas Golden Knights,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:14:27Z,1,03:34,16:26,Hit,n/a,24.0,37.0,Nicolas Roy,Hitter,Vegas Golden Knights,Danton Heinen,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:14:33Z,1,03:40,16:20,Hit,n/a,96.0,6.0,Brayden McNabb,Hitter,Vegas Golden Knights,Danton Heinen,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:14:40Z,1,03:43,16:17,Missed Shot,n/a,75.0,3.0,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:15:04Z,1,04:11,15:49,Hit,n/a,82.0,-24.0,Anton Blidh,Hitter,Boston Bruins,Shea Theodore,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:15:24Z,1,04:31,15:29,Giveaway,n/a,84.0,-26.0,Chris Wagner,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:15:32Z,1,04:39,15:21,Shot,Snap Shot,-82.0,-21.0,Max Pacioretty,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:15:55Z,1,04:39,15:21,Faceoff,n/a,-69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Chandler Stephenson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:16:29Z,1,05:09,14:51,Blocked Shot,n/a,80.0,3.0,Brayden McNabb,Blocker,Vegas Golden Knights,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:16:29Z,1,05:09,14:51,Shot,Wrist Shot,39.0,24.0,Patrice Bergeron,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:16:34Z,1,05:14,14:46,Giveaway,n/a,52.0,-6.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:17:04Z,1,05:44,14:16,Shot,Slap Shot,40.0,17.0,Matt Grzelcyk,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:17:06Z,1,05:46,14:14,Hit,n/a,96.0,-13.0,Deryk Engelland,Hitter,Vegas Golden Knights,Charlie Coyle,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:17:29Z,1,06:08,13:52,Hit,n/a,-82.0,35.0,Ryan Reaves,Hitter,Vegas Golden Knights,Matt Grzelcyk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:17:37Z,1,06:17,13:43,Hit,n/a,-80.0,-36.0,Cody Eakin,Hitter,Vegas Golden Knights,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:17:58Z,1,06:37,13:23,Hit,n/a,-97.0,-10.0,Charlie McAvoy,Hitter,Boston Bruins,Cody Eakin,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:18:43Z,1,07:00,13:00,Shot,Wrist Shot,-80.0,24.0,Jeremy Lauzon,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:18:21Z,1,07:01,12:59,Takeaway,n/a,-23.0,7.0,Max Pacioretty,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:18:45Z,1,07:15,12:45,Penalty,Tripping,97.0,-10.0,Mark Stone,PenaltyOn,Vegas Golden Knights,Karson Kuhlman,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:20:51Z,1,07:15,12:45,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Chandler Stephenson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:21:11Z,1,07:24,12:36,Blocked Shot,n/a,71.0,-10.0,Deryk Engelland,Blocker,Vegas Golden Knights,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:21:42Z,1,07:54,12:06,Hit,n/a,73.0,38.0,Cody Eakin,Hitter,Vegas Golden Knights,Jake DeBrusk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:22:57Z,1,09:10,10:50,Hit,n/a,35.0,-36.0,Brayden McNabb,Hitter,Vegas Golden Knights,David Krejci,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:23:11Z,1,09:24,10:36,Shot,Wrist Shot,64.0,10.0,Matt Grzelcyk,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:23:24Z,1,09:36,10:24,Shot,Slap Shot,39.0,-15.0,Brandon Carlo,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:23:59Z,1,09:37,10:23,Faceoff,n/a,69.0,-22.0,Chris Wagner,Winner,Boston Bruins,Max Pacioretty,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:24:06Z,1,09:45,10:15,Missed Shot,n/a,58.0,-9.0,Sean Kuraly,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:25:01Z,1,10:16,09:44,Faceoff,n/a,-69.0,-22.0,Jonathan Marchessault,Winner,Vegas Golden Knights,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:25:30Z,1,10:29,09:31,Shot,Slap Shot,-37.0,-22.0,Brayden McNabb,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:27:44Z,1,10:29,09:31,Faceoff,n/a,-69.0,-22.0,Chandler Stephenson,Winner,Vegas Golden Knights,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:28:05Z,1,10:42,09:18,Blocked Shot,n/a,-69.0,7.0,Brad Marchand,Blocker,Boston Bruins,Nate Schmidt,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:28:25Z,1,11:02,08:58,Shot,Backhand,-65.0,16.0,Nate Schmidt,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:28:31Z,1,11:08,08:52,Shot,Backhand,-65.0,3.0,Jonathan Marchessault,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:28:53Z,1,11:30,08:30,Takeaway,n/a,18.0,-11.0,David Krejci,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:29:04Z,1,11:38,08:22,Hit,n/a,36.0,-36.0,William Carrier,Hitter,Vegas Golden Knights,David Krejci,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:29:06Z,1,11:40,08:20,Goal,Slap Shot,34.0,-22.0,Jeremy Lauzon,Scorer,Boston Bruins,David Krejci,Assist,Boston Bruins,Karson Kuhlman,Assist,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights
+2020-01-22T00:29:52Z,1,11:40,08:20,Faceoff,n/a,0.0,0.0,Cody Eakin,Winner,Vegas Golden Knights,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:29:56Z,1,11:51,08:09,Hit,n/a,-98.0,2.0,Alex Tuch,Hitter,Vegas Golden Knights,Matt Grzelcyk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:30:22Z,1,12:17,07:43,Shot,Wrist Shot,83.0,30.0,Jake DeBrusk,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:30:40Z,1,12:35,07:25,Takeaway,n/a,95.0,-19.0,Jake DeBrusk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:31:36Z,1,13:30,06:30,Hit,n/a,-84.0,-16.0,Brandon Carlo,Hitter,Boston Bruins,Mark Stone,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:31:47Z,1,13:42,06:18,Takeaway,n/a,-20.0,-28.0,Mark Stone,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:32:20Z,1,13:42,06:18,Faceoff,n/a,-20.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Chandler Stephenson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:32:29Z,1,13:56,06:04,Hit,n/a,-84.0,-28.0,Torey Krug,Hitter,Boston Bruins,Reilly Smith,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:32:49Z,1,14:17,05:43,Shot,Slap Shot,45.0,-5.0,Torey Krug,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:33:17Z,1,14:33,05:27,Faceoff,n/a,-69.0,-22.0,Charlie Coyle,Winner,Boston Bruins,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:35:44Z,1,14:47,05:13,Faceoff,n/a,0.0,0.0,Cody Eakin,Winner,Vegas Golden Knights,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:36:15Z,1,14:59,05:01,Takeaway,n/a,-47.0,40.0,William Carrier,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:36:27Z,1,15:11,04:49,Shot,Wrist Shot,-40.0,36.0,Shea Theodore,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:37:19Z,1,15:16,04:44,Faceoff,n/a,-20.0,22.0,Sean Kuraly,Winner,Boston Bruins,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:37:18Z,1,15:22,04:38,Faceoff,n/a,-69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:37:47Z,1,15:32,04:28,Hit,n/a,-55.0,-37.0,Ryan Reaves,Hitter,Vegas Golden Knights,Chris Wagner,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:38:01Z,1,15:47,04:13,Blocked Shot,n/a,61.0,-12.0,Nicolas Hague,Blocker,Vegas Golden Knights,Chris Wagner,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:38:16Z,1,15:55,04:05,Penalty,Tripping,-12.0,4.0,Zdeno Chara,PenaltyOn,Boston Bruins,Ryan Reaves,DrewBy,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:38:42Z,1,15:55,04:05,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:39:03Z,1,16:17,03:43,Missed Shot,n/a,-39.0,-30.0,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:39:17Z,1,16:31,03:29,Shot,Backhand,76.0,1.0,Brad Marchand,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:39:29Z,1,16:43,03:17,Giveaway,n/a,-13.0,-17.0,Shea Theodore,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:40:16Z,1,17:30,02:30,Hit,n/a,-72.0,35.0,Brandon Carlo,Hitter,Boston Bruins,Chandler Stephenson,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:40:28Z,1,17:42,02:18,Shot,Wrist Shot,-64.0,34.0,Nicolas Hague,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:40:51Z,1,18:05,01:55,Hit,n/a,-50.0,34.0,Matt Grzelcyk,Hitter,Boston Bruins,William Carrier,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:41:46Z,1,18:17,01:43,Faceoff,n/a,20.0,-22.0,Nicolas Roy,Winner,Vegas Golden Knights,Jake DeBrusk,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:42:17Z,1,18:56,01:04,Shot,Wrist Shot,70.0,-1.0,Jake DeBrusk,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:42:29Z,1,19:08,00:52,Giveaway,n/a,-11.0,-22.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:42:36Z,1,19:14,00:46,Shot,Backhand,-68.0,31.0,Max Pacioretty,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:42:47Z,1,19:17,00:43,Giveaway,n/a,-74.0,36.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:43:04Z,1,19:42,00:18,Takeaway,n/a,10.0,-11.0,Paul Stastny,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T00:43:12Z,1,19:50,00:10,Hit,n/a,-61.0,-37.0,David Pastrnak,Hitter,Boston Bruins,Max Pacioretty,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:02:08Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Paul Stastny,Winner,Vegas Golden Knights,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:02:46Z,2,00:37,19:23,Shot,Wrist Shot,-39.0,33.0,Charlie McAvoy,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:03:15Z,2,01:06,18:54,Takeaway,n/a,-45.0,38.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:03:49Z,2,01:40,18:20,Hit,n/a,78.0,36.0,Cody Eakin,Hitter,Vegas Golden Knights,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:04:17Z,2,01:42,18:18,Penalty,Interference,16.0,36.0,William Carrier,PenaltyOn,Vegas Golden Knights,David Pastrnak,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:04:48Z,2,01:42,18:18,Faceoff,n/a,-69.0,22.0,David Krejci,Winner,Boston Bruins,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:05:03Z,2,02:00,18:00,Missed Shot,n/a,-73.0,24.0,Anders Bjork,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:05:19Z,2,02:00,18:00,Faceoff,n/a,-69.0,22.0,David Krejci,Winner,Boston Bruins,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:07:13Z,2,03:46,16:14,Hit,n/a,-70.0,-36.0,Alex Tuch,Hitter,Vegas Golden Knights,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:07:59Z,2,04:07,15:53,Penalty,Too many men on the ice,13.0,38.0,Jonathan Marchessault,PenaltyOn,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:08:25Z,2,04:07,15:53,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:08:53Z,2,04:17,15:43,Faceoff,n/a,-20.0,-22.0,Brad Marchand,Winner,Boston Bruins,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:09:33Z,2,04:45,15:15,Blocked Shot,n/a,-65.0,-16.0,Deryk Engelland,Blocker,Vegas Golden Knights,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:10:01Z,2,05:14,14:46,Hit,n/a,-93.0,26.0,Brayden McNabb,Hitter,Vegas Golden Knights,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:10:52Z,2,06:05,13:55,Missed Shot,n/a,-37.0,-10.0,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:11:00Z,2,06:13,13:47,Blocked Shot,n/a,-73.0,-5.0,Nick Holden,Blocker,Vegas Golden Knights,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:11:05Z,2,06:17,13:43,Shot,Wrist Shot,-82.0,33.0,Charlie McAvoy,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:11:19Z,2,06:32,13:28,Shot,Wrist Shot,87.0,-8.0,Mark Stone,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:11:28Z,2,06:41,13:19,Hit,n/a,-94.0,16.0,Anton Blidh,Hitter,Boston Bruins,Nicolas Hague,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:12:19Z,2,07:31,12:29,Hit,n/a,57.0,38.0,William Carrier,Hitter,Vegas Golden Knights,Karson Kuhlman,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:12:30Z,2,07:42,12:18,Hit,n/a,-94.0,18.0,Nick Holden,Hitter,Vegas Golden Knights,Danton Heinen,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:13:02Z,2,08:11,11:49,Shot,Wrist Shot,-57.0,20.0,Patrice Bergeron,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:13:14Z,2,08:21,11:39,Shot,Wrist Shot,70.0,7.0,Tomas Nosek,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:16:22Z,2,08:21,11:39,Faceoff,n/a,69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:15:58Z,2,08:37,11:23,Blocked Shot,n/a,46.0,4.0,David Krejci,Blocker,Boston Bruins,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:16:11Z,2,08:37,11:23,Faceoff,n/a,20.0,-22.0,David Krejci,Winner,Boston Bruins,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:16:55Z,2,08:43,11:17,Faceoff,n/a,0.0,0.0,Chandler Stephenson,Winner,Vegas Golden Knights,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:17:06Z,2,08:52,11:08,Shot,Wrist Shot,12.0,26.0,Brayden McNabb,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:17:12Z,2,08:58,11:02,Takeaway,n/a,18.0,7.0,Chandler Stephenson,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:17:16Z,2,09:02,10:58,Giveaway,n/a,22.0,-2.0,Chandler Stephenson,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:17:51Z,2,09:15,10:45,Penalty,Hi-sticking,-22.0,31.0,Brandon Carlo,PenaltyOn,Boston Bruins,Reilly Smith,DrewBy,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:18:13Z,2,09:15,10:45,Faceoff,n/a,69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:18:21Z,2,09:21,10:39,Shot,Wrist Shot,77.0,-9.0,Max Pacioretty,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:18:32Z,2,09:21,10:39,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:18:52Z,2,09:36,10:24,Takeaway,n/a,71.0,-37.0,Max Pacioretty,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:19:22Z,2,10:06,09:54,Hit,n/a,78.0,-35.0,Alex Tuch,Hitter,Vegas Golden Knights,Jeremy Lauzon,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:19:24Z,2,10:07,09:53,Shot,Wrist Shot,53.0,12.0,Shea Theodore,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:19:41Z,2,10:25,09:35,Hit,n/a,50.0,-35.0,Jeremy Lauzon,Hitter,Boston Bruins,Paul Stastny,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:20:03Z,2,10:47,09:13,Takeaway,n/a,4.0,1.0,Sean Kuraly,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:20:18Z,2,10:59,09:01,Goal,Slap Shot,49.0,-18.0,Nicolas Hague,Scorer,Vegas Golden Knights,Nate Schmidt,Assist,Vegas Golden Knights,Jonathan Marchessault,Assist,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins
+2020-01-22T01:21:05Z,2,10:59,09:01,Faceoff,n/a,0.0,0.0,Cody Eakin,Winner,Vegas Golden Knights,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:21:35Z,2,11:29,08:31,Shot,Wrist Shot,-70.0,-16.0,Danton Heinen,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:22:15Z,2,12:05,07:55,Hit,n/a,-83.0,35.0,Danton Heinen,Hitter,Boston Bruins,Nicolas Hague,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:22:32Z,2,12:24,07:36,Shot,Wrist Shot,-71.0,20.0,Brad Marchand,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:22:36Z,2,12:26,07:34,Shot,Wrist Shot,-85.0,8.0,Brad Marchand,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:24:33Z,2,12:26,07:34,Faceoff,n/a,-69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:25:35Z,2,13:15,06:45,Takeaway,n/a,93.0,-18.0,Mark Stone,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:25:48Z,2,13:28,06:32,Hit,n/a,81.0,36.0,Patrice Bergeron,Hitter,Boston Bruins,Cody Eakin,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:25:57Z,2,13:37,06:23,Giveaway,n/a,56.0,33.0,Alex Tuch,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:26:02Z,2,13:43,06:17,Takeaway,n/a,38.0,4.0,Patrice Bergeron,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:26:28Z,2,14:00,06:00,Missed Shot,n/a,-68.0,-26.0,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:26:34Z,2,14:15,05:45,Takeaway,n/a,-48.0,29.0,Anders Bjork,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:27:12Z,2,14:17,05:43,Faceoff,n/a,-69.0,22.0,Karson Kuhlman,Winner,Boston Bruins,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:27:41Z,2,14:45,05:15,Hit,n/a,98.0,12.0,Jeremy Lauzon,Hitter,Boston Bruins,Jonathan Marchessault,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:27:51Z,2,14:55,05:05,Shot,Wrist Shot,-36.0,-20.0,Zdeno Chara,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:28:05Z,2,15:04,04:56,Penalty,Boarding,69.0,38.0,Chandler Stephenson,PenaltyOn,Vegas Golden Knights,Charlie McAvoy,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:31:06Z,2,15:04,04:56,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:32:01Z,2,15:38,04:22,Shot,Slap Shot,-65.0,-22.0,David Pastrnak,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:32:55Z,2,16:32,03:28,Shot,Slap Shot,-66.0,27.0,Patrice Bergeron,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:33:05Z,2,16:42,03:18,Blocked Shot,n/a,-38.0,5.0,Tomas Nosek,Blocker,Vegas Golden Knights,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:33:32Z,2,17:09,02:51,Missed Shot,n/a,-77.0,4.0,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:33:35Z,2,17:12,02:48,Hit,n/a,-96.0,-3.0,Nate Schmidt,Hitter,Vegas Golden Knights,Jake DeBrusk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:33:54Z,2,17:31,02:29,Takeaway,n/a,80.0,-35.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:33:56Z,2,17:33,02:27,Hit,n/a,88.0,-30.0,Charlie McAvoy,Hitter,Boston Bruins,Tomas Nosek,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:34:07Z,2,17:44,02:16,Takeaway,n/a,-98.0,16.0,Anton Blidh,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:34:19Z,2,17:56,02:04,Missed Shot,n/a,-39.0,29.0,Brandon Carlo,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:34:27Z,2,18:04,01:56,Shot,Snap Shot,64.0,16.0,Reilly Smith,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:34:37Z,2,18:14,01:46,Shot,Snap Shot,66.0,20.0,Nicolas Roy,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:34:41Z,2,18:18,01:42,Hit,n/a,84.0,-30.0,Nicolas Roy,Hitter,Vegas Golden Knights,Sean Kuraly,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:35:18Z,2,18:54,01:06,Takeaway,n/a,22.0,-23.0,Matt Grzelcyk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:35:22Z,2,18:59,01:01,Hit,n/a,-93.0,5.0,Karson Kuhlman,Hitter,Boston Bruins,Nicolas Roy,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:35:27Z,2,19:03,00:57,Missed Shot,n/a,53.0,-20.0,Nicolas Roy,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:35:57Z,2,19:33,00:27,Blocked Shot,n/a,-75.0,-10.0,Nick Holden,Blocker,Vegas Golden Knights,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:55:02Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:55:32Z,3,00:26,19:34,Hit,n/a,93.0,-23.0,Nick Holden,Hitter,Vegas Golden Knights,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:55:41Z,3,00:31,19:29,Shot,Deflected,62.0,-4.0,David Pastrnak,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:56:41Z,3,00:31,19:29,Faceoff,n/a,69.0,22.0,Cody Eakin,Winner,Vegas Golden Knights,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:57:17Z,3,00:57,19:03,Shot,Slap Shot,46.0,-26.0,Brandon Carlo,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:57:23Z,3,01:03,18:57,Takeaway,n/a,33.0,-8.0,Brandon Carlo,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:57:35Z,3,01:14,18:46,Hit,n/a,34.0,-38.0,Brandon Carlo,Hitter,Boston Bruins,William Carrier,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:57:48Z,3,01:27,18:33,Shot,Wrist Shot,-21.0,7.0,Alex Tuch,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:58:02Z,3,01:41,18:19,Takeaway,n/a,80.0,-16.0,Reilly Smith,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:58:40Z,3,02:19,17:41,Giveaway,n/a,38.0,-22.0,Tomas Nosek,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:58:50Z,3,02:29,17:31,Hit,n/a,91.0,14.0,Sean Kuraly,Hitter,Boston Bruins,Nick Holden,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:58:58Z,3,02:38,17:22,Hit,n/a,-71.0,-38.0,Ryan Reaves,Hitter,Vegas Golden Knights,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:59:08Z,3,02:48,17:12,Shot,Backhand,75.0,-10.0,Brandon Carlo,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:59:11Z,3,02:51,17:09,Hit,n/a,93.0,-13.0,Sean Kuraly,Hitter,Boston Bruins,Shea Theodore,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:59:36Z,3,03:13,16:47,Missed Shot,n/a,40.0,-27.0,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T01:59:47Z,3,03:14,16:46,Faceoff,n/a,69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:00:14Z,3,03:29,16:31,Hit,n/a,-95.0,-13.0,Max Pacioretty,Hitter,Vegas Golden Knights,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:00:31Z,3,03:46,16:14,Giveaway,n/a,80.0,34.0,Nate Schmidt,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:00:39Z,3,03:54,16:06,Giveaway,n/a,51.0,38.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:01:03Z,3,04:18,15:42,Hit,n/a,76.0,36.0,William Carrier,Hitter,Vegas Golden Knights,Matt Grzelcyk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:01:13Z,3,04:26,15:34,Goal,Wrist Shot,55.0,10.0,Jake DeBrusk,Scorer,Boston Bruins,Charlie Coyle,Assist,Boston Bruins,Jaroslav Halak,Assist,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights
+2020-01-22T02:02:01Z,3,04:26,15:34,Faceoff,n/a,0.0,0.0,David Krejci,Winner,Boston Bruins,Chandler Stephenson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:02:32Z,3,04:40,15:20,Faceoff,n/a,-69.0,-22.0,Jonathan Marchessault,Winner,Vegas Golden Knights,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:03:28Z,3,05:10,14:50,Shot,Wrist Shot,42.0,3.0,Torey Krug,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:03:52Z,3,05:10,14:50,Faceoff,n/a,69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:04:24Z,3,05:36,14:24,Hit,n/a,86.0,-29.0,Sean Kuraly,Hitter,Boston Bruins,Brayden McNabb,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:05:21Z,3,06:20,13:40,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:05:40Z,3,06:27,13:33,Blocked Shot,n/a,-67.0,14.0,Brad Marchand,Blocker,Boston Bruins,Nate Schmidt,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:05:54Z,3,06:39,13:21,Shot,Slap Shot,37.0,26.0,Zdeno Chara,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:07:49Z,3,06:39,13:21,Faceoff,n/a,69.0,22.0,Cody Eakin,Winner,Vegas Golden Knights,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:08:54Z,3,07:15,12:45,Shot,Wrist Shot,-81.0,-35.0,Alex Tuch,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:09:32Z,3,07:46,12:14,Faceoff,n/a,-69.0,-22.0,Chandler Stephenson,Winner,Vegas Golden Knights,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:10:22Z,3,08:14,11:46,Hit,n/a,40.0,11.0,Charlie McAvoy,Hitter,Boston Bruins,Reilly Smith,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:10:35Z,3,08:28,11:32,Takeaway,n/a,32.0,-36.0,Nicolas Hague,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:10:49Z,3,08:42,11:18,Blocked Shot,n/a,-72.0,-5.0,Jeremy Lauzon,Blocker,Boston Bruins,Ryan Reaves,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:10:58Z,3,08:51,11:09,Missed Shot,n/a,-38.0,-31.0,Nicolas Hague,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:11:15Z,3,09:07,10:53,Giveaway,n/a,-12.0,35.0,David Krejci,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:11:29Z,3,09:21,10:39,Giveaway,n/a,45.0,-9.0,Danton Heinen,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:11:42Z,3,09:32,10:28,Shot,Snap Shot,-70.0,-3.0,Max Pacioretty,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:12:02Z,3,09:32,10:28,Faceoff,n/a,-69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:12:29Z,3,09:49,10:11,Shot,Wrist Shot,-62.0,-36.0,Max Pacioretty,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:12:35Z,3,09:55,10:05,Hit,n/a,-81.0,-34.0,Paul Stastny,Hitter,Vegas Golden Knights,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:12:47Z,3,10:08,09:52,Hit,n/a,-94.0,16.0,Zdeno Chara,Hitter,Boston Bruins,Max Pacioretty,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:13:04Z,3,10:24,09:36,Hit,n/a,12.0,39.0,Brad Marchand,Hitter,Boston Bruins,Max Pacioretty,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:13:15Z,3,10:35,09:25,Giveaway,n/a,-84.0,19.0,Matt Grzelcyk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:13:24Z,3,10:44,09:16,Giveaway,n/a,-95.0,5.0,Anton Blidh,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:13:31Z,3,10:51,09:09,Hit,n/a,47.0,-35.0,Chris Wagner,Hitter,Boston Bruins,Brayden McNabb,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:13:57Z,3,11:17,08:43,Hit,n/a,-68.0,-38.0,Jeremy Lauzon,Hitter,Boston Bruins,Alex Tuch,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:13:57Z,3,11:18,08:42,Shot,Wrist Shot,-49.0,-26.0,Nicolas Hague,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:14:02Z,3,11:22,08:38,Shot,Backhand,-76.0,-1.0,William Carrier,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:14:07Z,3,11:24,08:36,Shot,Wrist Shot,-34.0,35.0,Deryk Engelland,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:14:26Z,3,11:46,08:14,Giveaway,n/a,-2.0,-27.0,Anders Bjork,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:16:43Z,3,11:57,08:03,Faceoff,n/a,-69.0,-22.0,David Krejci,Winner,Boston Bruins,Chandler Stephenson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:17:12Z,3,12:10,07:50,Shot,Wrist Shot,44.0,-28.0,Karson Kuhlman,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:17:16Z,3,12:14,07:46,Shot,Wrist Shot,76.0,-5.0,Karson Kuhlman,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:17:22Z,3,12:16,07:44,Shot,Wrist Shot,37.0,-27.0,Brandon Carlo,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:17:41Z,3,12:18,07:42,Goal,Wrist Shot,78.0,-1.0,David Krejci,Scorer,Boston Bruins,Brandon Carlo,Assist,Boston Bruins,Danton Heinen,Assist,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights
+2020-01-22T02:18:05Z,3,12:18,07:42,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:18:36Z,3,12:49,07:11,Shot,Wrist Shot,-37.0,-30.0,Max Pacioretty,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:18:41Z,3,12:54,07:06,Hit,n/a,-95.0,-18.0,Brayden McNabb,Hitter,Vegas Golden Knights,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:18:57Z,3,13:10,06:50,Giveaway,n/a,95.0,8.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:19:01Z,3,13:14,06:46,Hit,n/a,96.0,-5.0,Brayden McNabb,Hitter,Vegas Golden Knights,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:19:05Z,3,13:18,06:42,Giveaway,n/a,-35.0,5.0,Paul Stastny,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:19:25Z,3,13:30,06:30,Faceoff,n/a,69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:19:49Z,3,13:38,06:22,Shot,Wrist Shot,74.0,3.0,Anton Blidh,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:19:59Z,3,13:48,06:12,Hit,n/a,72.0,-35.0,Anton Blidh,Hitter,Boston Bruins,Nicolas Hague,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:19:59Z,3,13:48,06:12,Shot,Snap Shot,47.0,-14.0,Charlie McAvoy,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:20:12Z,3,14:01,05:59,Shot,Deflected,73.0,1.0,Chris Wagner,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:20:13Z,3,14:02,05:58,Hit,n/a,32.0,-38.0,Ryan Reaves,Hitter,Vegas Golden Knights,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:20:44Z,3,14:33,05:27,Shot,Wrist Shot,-45.0,-26.0,Shea Theodore,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:20:52Z,3,14:41,05:19,Takeaway,n/a,-55.0,20.0,Cody Eakin,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:20:56Z,3,14:44,05:16,Missed Shot,n/a,-72.0,16.0,Cody Eakin,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:21:39Z,3,14:44,05:16,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:22:26Z,3,15:26,04:34,Missed Shot,n/a,-61.0,24.0,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:22:35Z,3,15:31,04:29,Shot,Slap Shot,-38.0,-26.0,Nicolas Hague,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:24:28Z,3,15:31,04:29,Faceoff,n/a,-69.0,-22.0,Chandler Stephenson,Winner,Vegas Golden Knights,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:25:01Z,3,15:38,04:22,Blocked Shot,n/a,-72.0,-8.0,Charlie McAvoy,Blocker,Boston Bruins,Nate Schmidt,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:25:28Z,3,15:39,04:21,Faceoff,n/a,-69.0,22.0,Cody Eakin,Winner,Vegas Golden Knights,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:25:55Z,3,15:51,04:09,Shot,Wrist Shot,-51.0,4.0,Jonathan Marchessault,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:26:07Z,3,16:08,03:52,Takeaway,n/a,68.0,37.0,Nate Schmidt,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:26:14Z,3,16:15,03:45,Hit,n/a,-83.0,32.0,Jeremy Lauzon,Hitter,Boston Bruins,Jonathan Marchessault,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:26:36Z,3,16:37,03:23,Giveaway,n/a,28.0,2.0,Shea Theodore,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:26:58Z,3,16:45,03:15,Faceoff,n/a,69.0,-22.0,Charlie Coyle,Winner,Boston Bruins,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:27:13Z,3,16:49,03:11,Shot,Slap Shot,40.0,-29.0,Brandon Carlo,Shooter,Boston Bruins,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:27:21Z,3,16:56,03:04,Hit,n/a,85.0,-15.0,Charlie Coyle,Hitter,Boston Bruins,Nicolas Hague,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:27:31Z,3,17:06,02:54,Shot,Wrist Shot,-44.0,-28.0,Nick Holden,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:27:35Z,3,17:10,02:50,Hit,n/a,-91.0,-17.0,Brandon Carlo,Hitter,Boston Bruins,Max Pacioretty,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:28:53Z,3,18:28,01:32,Missed Shot,n/a,-35.0,20.0,Reilly Smith,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:30:36Z,3,18:36,01:24,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:31:08Z,3,18:50,01:10,Faceoff,n/a,-20.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:32:00Z,3,19:28,00:32,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:33:29Z,3,19:41,00:19,Missed Shot,n/a,-36.0,-4.0,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-22T02:33:46Z,3,19:58,00:02,Shot,Wrist Shot,-68.0,-26.0,Max Pacioretty,Shooter,Vegas Golden Knights,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a

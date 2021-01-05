@@ -1,0 +1,264 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-26T17:08:46Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:09:07Z,1,00:18,19:42,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:10:00Z,1,00:37,19:23,Faceoff,n/a,-69.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:10:13Z,1,00:41,19:19,Blocked Shot,n/a,-39.0,9.0,Alex DeBrincat,Blocker,Chicago Blackhawks,Warren Foegele,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:10:32Z,1,01:02,18:58,Shot,Snap Shot,-86.0,-9.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:11:10Z,1,01:15,18:45,Missed Shot,n/a,-84.0,5.0,Sebastian Aho,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:10:49Z,1,01:17,18:43,Shot,Wrist Shot,-85.0,-6.0,Andrei Svechnikov,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:11:00Z,1,01:30,18:30,Shot,Snap Shot,-63.0,-33.0,Jake Gardiner,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:11:32Z,1,01:42,18:18,Faceoff,n/a,-20.0,22.0,David Kampf,Winner,Chicago Blackhawks,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:11:45Z,1,01:47,18:13,Missed Shot,n/a,-33.0,2.0,Ryan Dzingel,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:11:49Z,1,01:52,18:08,Giveaway,n/a,-86.0,26.0,David Kampf,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:11:53Z,1,01:56,18:04,Shot,Snap Shot,-40.0,37.0,Martin Necas,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:11:58Z,1,02:01,17:59,Takeaway,n/a,-75.0,34.0,Martin Necas,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:12:10Z,1,02:13,17:47,Hit,n/a,97.0,7.0,Dominik Kubalik,Hitter,Chicago Blackhawks,Trevor van Riemsdyk,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:50:54Z,1,02:30,17:30,Hit,n/a,67.0,2.0,Brian Gibbons,Hitter,Carolina Hurricanes,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:12:32Z,1,02:35,17:25,Shot,Wrist Shot,68.0,7.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:53:34Z,1,02:37,17:23,Shot,Snap Shot,74.0,39.0,Olli Maatta,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:12:38Z,1,02:39,17:21,Shot,Wrist Shot,84.0,8.0,Alex Nylander,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:12:48Z,1,02:51,17:09,Hit,n/a,-80.0,39.0,Brock McGinn,Hitter,Carolina Hurricanes,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:20:52Z,1,02:52,17:08,Shot,Wrist Shot,-30.0,40.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:13:52Z,1,03:27,16:33,Faceoff,n/a,20.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:14:03Z,1,03:38,16:22,Giveaway,n/a,99.0,8.0,Jaccob Slavin,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:14:38Z,1,04:11,15:49,Giveaway,n/a,-82.0,30.0,Nino Niederreiter,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:14:51Z,1,04:12,15:48,Penalty,Hi-sticking,-99.0,9.0,Duncan Keith,PenaltyOn,Chicago Blackhawks,Jaccob Slavin,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:15:45Z,1,04:12,15:48,Faceoff,n/a,-69.0,-22.0,Erik Haula,Winner,Carolina Hurricanes,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:15:17Z,1,04:17,15:43,Goal,Snap Shot,-54.0,-24.0,Andrei Svechnikov,Scorer,Carolina Hurricanes,Dougie Hamilton,Assist,Carolina Hurricanes,Erik Haula,Assist,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks
+2019-10-26T17:15:58Z,1,04:17,15:43,Faceoff,n/a,0.0,0.0,Kirby Dach,Winner,Chicago Blackhawks,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:16:28Z,1,04:34,15:26,Missed Shot,n/a,71.0,-13.0,Kirby Dach,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:16:44Z,1,04:53,15:07,Shot,Snap Shot,31.0,13.0,Erik Gustafsson,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:17:16Z,1,04:54,15:06,Faceoff,n/a,69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:17:37Z,1,04:59,15:01,Penalty,Boarding,69.0,42.0,Jake Gardiner,PenaltyOn,Carolina Hurricanes,Alex Nylander,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:18:10Z,1,04:59,15:01,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:18:07Z,1,05:04,14:56,Missed Shot,n/a,31.0,13.0,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:18:23Z,1,05:20,14:40,Shot,Wrist Shot,31.0,6.0,Erik Gustafsson,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:18:40Z,1,05:36,14:24,Takeaway,n/a,-80.0,16.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:18:40Z,1,05:37,14:23,Shot,Wrist Shot,-78.0,15.0,Sebastian Aho,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:18:54Z,1,05:51,14:09,Takeaway,n/a,38.0,36.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:19:00Z,1,05:57,14:03,Hit,n/a,37.0,39.0,Erik Gustafsson,Hitter,Chicago Blackhawks,Sebastian Aho,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:19:40Z,1,06:36,13:24,Blocked Shot,n/a,52.0,11.0,Lucas Wallmark,Blocker,Carolina Hurricanes,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:20:02Z,1,06:59,13:01,Giveaway,n/a,68.0,-37.0,Andrew Shaw,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:20:05Z,1,07:02,12:58,Giveaway,n/a,40.0,-34.0,Jordan Staal,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:20:09Z,1,07:06,12:54,Shot,Snap Shot,86.0,23.0,Andrew Shaw,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:20:18Z,1,07:15,12:45,Shot,Slap Shot,30.0,-21.0,Olli Maatta,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:20:34Z,1,07:31,12:29,Hit,n/a,54.0,40.0,Warren Foegele,Hitter,Carolina Hurricanes,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:21:15Z,1,08:10,11:50,Blocked Shot,n/a,75.0,7.0,Joel Edmundson,Blocker,Carolina Hurricanes,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:21:16Z,1,08:13,11:47,Giveaway,n/a,93.0,22.0,Dougie Hamilton,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:21:39Z,1,08:36,11:24,Takeaway,n/a,-40.0,-37.0,Andrei Svechnikov,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:23:04Z,1,10:00,10:00,Shot,Snap Shot,87.0,-24.0,Kirby Dach,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:23:12Z,1,10:07,09:53,Shot,Snap Shot,23.0,-33.0,Kirby Dach,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:23:26Z,1,10:23,09:37,Shot,Wrist Shot,-73.0,8.0,Ryan Dzingel,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:24:01Z,1,10:58,09:02,Blocked Shot,n/a,79.0,17.0,Trevor van Riemsdyk,Blocker,Carolina Hurricanes,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:24:04Z,1,11:01,08:59,Giveaway,n/a,32.0,4.0,Calvin de Haan,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:24:12Z,1,11:09,08:51,Shot,Slap Shot,-65.0,27.0,Brock McGinn,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:24:16Z,1,11:13,08:47,Hit,n/a,-53.0,-40.0,Zack Smith,Hitter,Chicago Blackhawks,Lucas Wallmark,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:24:35Z,1,11:32,08:28,Takeaway,n/a,-20.0,25.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:25:12Z,1,12:08,07:52,Missed Shot,n/a,44.0,-35.0,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:27:30Z,1,12:09,07:51,Faceoff,n/a,69.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Andrew Shaw,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:27:44Z,1,12:20,07:40,Blocked Shot,n/a,-79.0,-6.0,Olli Maatta,Blocker,Chicago Blackhawks,Sebastian Aho,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:27:49Z,1,12:27,07:33,Giveaway,n/a,-68.0,29.0,Andrei Svechnikov,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:28:04Z,1,12:41,07:19,Giveaway,n/a,-68.0,17.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:28:12Z,1,12:50,07:10,Takeaway,n/a,44.0,38.0,Trevor van Riemsdyk,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:28:22Z,1,12:59,07:01,Shot,Slap Shot,-30.0,-6.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:28:59Z,1,13:34,06:26,Shot,Snap Shot,-49.0,5.0,Erik Haula,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:29:04Z,1,13:41,06:19,Giveaway,n/a,-68.0,33.0,Brett Pesce,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:29:55Z,1,14:32,05:28,Giveaway,n/a,63.0,-36.0,Dougie Hamilton,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:29:57Z,1,14:34,05:26,Missed Shot,n/a,62.0,0.0,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:30:54Z,1,15:31,04:29,Blocked Shot,n/a,-82.0,9.0,Calvin de Haan,Blocker,Chicago Blackhawks,Brian Gibbons,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:31:06Z,1,15:43,04:17,Hit,n/a,92.0,-29.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Jake Gardiner,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:31:36Z,1,16:13,03:47,Shot,Wrist Shot,73.0,20.0,Brandon Saad,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:32:33Z,1,17:10,02:50,Shot,Slap Shot,36.0,42.0,Slater Koekkoek,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:36:07Z,1,17:22,02:38,Blocked Shot,n/a,80.0,17.0,Jordan Staal,Blocker,Carolina Hurricanes,David Kampf,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:33:05Z,1,17:42,02:18,Shot,Tip-In,84.0,8.0,Patrick Kane,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:33:21Z,1,17:48,02:12,Blocked Shot,n/a,44.0,-5.0,Lucas Wallmark,Blocker,Carolina Hurricanes,Calvin de Haan,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:33:18Z,1,17:55,02:05,Hit,n/a,37.0,-40.0,Alex DeBrincat,Hitter,Chicago Blackhawks,Teuvo Teravainen,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:33:37Z,1,18:14,01:46,Shot,Wrist Shot,82.0,-5.0,Patrick Kane,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:33:43Z,1,18:21,01:39,Blocked Shot,n/a,77.0,4.0,Sebastian Aho,Blocker,Carolina Hurricanes,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:34:02Z,1,18:26,01:34,Missed Shot,n/a,35.0,-13.0,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:33:53Z,1,18:30,01:30,Missed Shot,n/a,67.0,-10.0,Dylan Strome,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:34:18Z,1,18:35,01:25,Faceoff,n/a,69.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Andrew Shaw,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:34:28Z,1,18:41,01:19,Shot,Wrist Shot,85.0,-30.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:54:17Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:54:58Z,2,00:29,19:31,Takeaway,n/a,35.0,11.0,Jaccob Slavin,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:55:12Z,2,00:30,19:30,Giveaway,n/a,44.0,9.0,Jaccob Slavin,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:55:16Z,2,00:40,19:20,Giveaway,n/a,90.0,4.0,Corey Crawford,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:55:14Z,2,00:43,19:17,Shot,Deflected,62.0,1.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:55:40Z,2,00:45,19:15,Faceoff,n/a,69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:56:17Z,2,01:10,18:50,Faceoff,n/a,20.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Ryan Dzingel,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:56:58Z,2,01:25,18:35,Shot,Wrist Shot,-72.0,13.0,Alex Nylander,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:57:21Z,2,01:49,18:11,Hit,n/a,-93.0,-17.0,Andrew Shaw,Hitter,Chicago Blackhawks,Trevor van Riemsdyk,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:57:35Z,2,01:57,18:03,Blocked Shot,n/a,-76.0,-6.0,Ryan Dzingel,Blocker,Carolina Hurricanes,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:58:01Z,2,02:03,17:57,Faceoff,n/a,-20.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:58:42Z,2,02:40,17:20,Hit,n/a,-27.0,4.0,Andrei Svechnikov,Hitter,Carolina Hurricanes,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:58:54Z,2,02:54,17:06,Hit,n/a,-90.0,25.0,Sebastian Aho,Hitter,Carolina Hurricanes,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:59:08Z,2,02:58,17:02,Faceoff,n/a,-69.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T17:59:38Z,2,03:05,16:55,Faceoff,n/a,-69.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:00:00Z,2,03:14,16:46,Missed Shot,n/a,-84.0,8.0,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:00:10Z,2,03:26,16:34,Hit,n/a,-41.0,-36.0,Jonathan Toews,Hitter,Chicago Blackhawks,Warren Foegele,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:00:23Z,2,03:37,16:23,Shot,Wrist Shot,-6.0,35.0,Warren Foegele,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:01:13Z,2,04:15,15:45,Faceoff,n/a,69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:01:50Z,2,04:39,15:21,Takeaway,n/a,19.0,-31.0,Brian Gibbons,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:01:58Z,2,04:46,15:14,Blocked Shot,n/a,49.0,25.0,Alex Nylander,Blocker,Chicago Blackhawks,Jake Gardiner,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:02:39Z,2,05:27,14:33,Shot,Wrist Shot,-82.0,-5.0,Kirby Dach,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:03:06Z,2,05:55,14:05,Hit,n/a,-73.0,-37.0,Zack Smith,Hitter,Chicago Blackhawks,Erik Haula,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:03:29Z,2,06:01,13:59,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:04:07Z,2,06:23,13:37,Missed Shot,n/a,-37.0,-40.0,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:04:16Z,2,06:33,13:27,Shot,Snap Shot,-41.0,25.0,Erik Gustafsson,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:06:24Z,2,06:34,13:26,Faceoff,n/a,-69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Brock McGinn,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:06:43Z,2,06:39,13:21,Missed Shot,n/a,-36.0,-31.0,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:06:50Z,2,06:47,13:13,Blocked Shot,n/a,-73.0,-1.0,Brett Pesce,Blocker,Carolina Hurricanes,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:06:58Z,2,06:55,13:05,Giveaway,n/a,98.0,2.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:08:27Z,2,06:56,13:04,Blocked Shot,n/a,85.0,-6.0,Duncan Keith,Blocker,Chicago Blackhawks,Lucas Wallmark,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:07:01Z,2,06:58,13:02,Shot,Wrist Shot,82.0,4.0,Brock McGinn,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:07:10Z,2,07:07,12:53,Shot,Wrist Shot,-74.0,-1.0,Dylan Strome,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:07:22Z,2,07:16,12:44,Hit,n/a,9.0,38.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Brock McGinn,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:07:40Z,2,07:31,12:29,Hit,n/a,91.0,28.0,Calvin de Haan,Hitter,Chicago Blackhawks,Andrei Svechnikov,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:08:17Z,2,07:39,12:21,Faceoff,n/a,-20.0,-22.0,Erik Haula,Winner,Carolina Hurricanes,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:09:02Z,2,08:01,11:59,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:09:37Z,2,08:23,11:37,Giveaway,n/a,-90.0,29.0,Dougie Hamilton,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:10:11Z,2,08:47,11:13,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:11:05Z,2,09:14,10:46,Missed Shot,n/a,-96.0,29.0,Kirby Dach,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:10:54Z,2,09:15,10:45,Hit,n/a,-95.0,19.0,Andrei Svechnikov,Hitter,Carolina Hurricanes,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:11:38Z,2,09:18,10:42,Faceoff,n/a,-69.0,-22.0,Kirby Dach,Winner,Chicago Blackhawks,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:11:49Z,2,09:22,10:38,Blocked Shot,n/a,-77.0,1.0,Joel Edmundson,Blocker,Carolina Hurricanes,Brandon Saad,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:12:13Z,2,09:34,10:26,Blocked Shot,n/a,39.0,-33.0,Brandon Saad,Blocker,Chicago Blackhawks,Trevor van Riemsdyk,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:12:50Z,2,09:35,10:25,Faceoff,n/a,69.0,-22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Zack Smith,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:14:11Z,2,09:44,10:16,Shot,Snap Shot,64.0,39.0,Joel Edmundson,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:13:06Z,2,09:47,10:13,Blocked Shot,n/a,82.0,7.0,Calvin de Haan,Blocker,Chicago Blackhawks,Brock McGinn,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:13:15Z,2,09:56,10:04,Hit,n/a,-16.0,-40.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Trevor van Riemsdyk,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:13:25Z,2,10:06,09:54,Shot,Slap Shot,-37.0,35.0,Calvin de Haan,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:13:33Z,2,10:09,09:51,Blocked Shot,n/a,-89.0,-2.0,Brian Gibbons,Blocker,Carolina Hurricanes,Ryan Carpenter,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:13:28Z,2,10:10,09:50,Hit,n/a,-96.0,-8.0,Dylan Strome,Hitter,Chicago Blackhawks,Brian Gibbons,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:13:56Z,2,10:35,09:25,Shot,Slap Shot,-32.0,-29.0,Calvin de Haan,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:15:49Z,2,10:36,09:24,Faceoff,n/a,-69.0,-22.0,Erik Haula,Winner,Carolina Hurricanes,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:16:23Z,2,10:48,09:12,Missed Shot,n/a,-37.0,-8.0,Alex Nylander,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:16:49Z,2,10:54,09:06,Penalty,Hooking,-67.0,2.0,Martin Necas,PenaltyOn,Carolina Hurricanes,Alex Nylander,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:17:13Z,2,10:54,09:06,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:17:10Z,2,11:00,09:00,Missed Shot,n/a,-78.0,-3.0,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:17:40Z,2,11:24,08:36,Takeaway,n/a,-54.0,14.0,Jordan Staal,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:17:59Z,2,11:46,08:14,Missed Shot,n/a,-70.0,7.0,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:18:10Z,2,11:59,08:01,Shot,Snap Shot,-80.0,-9.0,Alex Nylander,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:18:18Z,2,12:08,07:52,Blocked Shot,n/a,-68.0,-5.0,Brett Pesce,Blocker,Carolina Hurricanes,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:18:52Z,2,12:41,07:19,Blocked Shot,n/a,-60.0,0.0,Teuvo Teravainen,Blocker,Carolina Hurricanes,Brent Seabrook,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:19:07Z,2,12:57,07:03,Takeaway,n/a,-48.0,-40.0,Dominik Kubalik,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:19:15Z,2,13:04,06:56,Shot,Snap Shot,52.0,-17.0,Erik Haula,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:19:33Z,2,13:23,06:37,Missed Shot,n/a,35.0,-29.0,Dougie Hamilton,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:19:45Z,2,13:35,06:25,Takeaway,n/a,-43.0,-14.0,Warren Foegele,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:19:51Z,2,13:40,06:20,Hit,n/a,-81.0,35.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Warren Foegele,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:19:58Z,2,13:48,06:12,Hit,n/a,55.0,40.0,Olli Maatta,Hitter,Chicago Blackhawks,Lucas Wallmark,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:20:13Z,2,14:02,05:58,Hit,n/a,-81.0,32.0,Zack Smith,Hitter,Chicago Blackhawks,Brian Gibbons,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:20:32Z,2,14:21,05:39,Giveaway,n/a,-3.0,-36.0,Patrick Kane,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:20:44Z,2,14:33,05:27,Takeaway,n/a,-20.0,-37.0,Dougie Hamilton,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:20:49Z,2,14:39,05:21,Shot,Snap Shot,49.0,14.0,Jordan Staal,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:21:01Z,2,14:51,05:09,Takeaway,n/a,35.0,39.0,Jaccob Slavin,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:21:12Z,2,15:01,04:59,Blocked Shot,n/a,-77.0,13.0,Jaccob Slavin,Blocker,Carolina Hurricanes,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:23:13Z,2,15:02,04:58,Faceoff,n/a,-69.0,22.0,Kirby Dach,Winner,Chicago Blackhawks,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:24:26Z,2,15:25,04:35,Faceoff,n/a,-20.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:25:10Z,2,15:28,04:32,Shot,Deflected,-20.0,21.0,David Kampf,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:24:43Z,2,15:29,04:31,Faceoff,n/a,-69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Alex Nylander,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:25:28Z,2,15:36,04:24,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:25:59Z,2,15:53,04:07,Takeaway,n/a,-54.0,40.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:26:19Z,2,16:18,03:42,Shot,Snap Shot,67.0,-9.0,Warren Foegele,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:26:32Z,2,16:30,03:30,Shot,Snap Shot,-70.0,-16.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:27:05Z,2,16:31,03:29,Faceoff,n/a,-69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:27:07Z,2,16:40,03:20,Giveaway,n/a,-70.0,-6.0,Dougie Hamilton,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:27:18Z,2,16:51,03:09,Shot,Wrist Shot,-35.0,37.0,Brent Seabrook,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:27:22Z,2,16:55,03:05,Hit,n/a,-66.0,-38.0,Dougie Hamilton,Hitter,Carolina Hurricanes,Dominik Kubalik,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:27:46Z,2,17:02,02:58,Faceoff,n/a,-69.0,22.0,Erik Haula,Winner,Carolina Hurricanes,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:28:21Z,2,17:23,02:37,Giveaway,n/a,-71.0,-12.0,Erik Haula,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:28:26Z,2,17:26,02:34,Shot,Wrist Shot,-30.0,-26.0,Duncan Keith,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:28:53Z,2,17:27,02:33,Faceoff,n/a,-69.0,-22.0,Brock McGinn,Winner,Carolina Hurricanes,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:29:39Z,2,17:43,02:17,Faceoff,n/a,-20.0,-22.0,Kirby Dach,Winner,Chicago Blackhawks,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:30:18Z,2,17:50,02:10,Faceoff,n/a,-69.0,-22.0,Alex DeBrincat,Winner,Chicago Blackhawks,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:30:45Z,2,17:59,02:01,Blocked Shot,n/a,-54.0,-22.0,Brian Gibbons,Blocker,Carolina Hurricanes,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:30:49Z,2,18:07,01:53,Giveaway,n/a,86.0,-14.0,Corey Crawford,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:30:57Z,2,18:14,01:46,Missed Shot,n/a,65.0,32.0,Jordan Staal,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:31:08Z,2,18:26,01:34,Hit,n/a,98.0,-18.0,Jordan Staal,Hitter,Carolina Hurricanes,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:31:21Z,2,18:40,01:20,Missed Shot,n/a,37.0,-21.0,Brett Pesce,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:31:24Z,2,18:43,01:17,Hit,n/a,45.0,37.0,Brent Seabrook,Hitter,Chicago Blackhawks,Jordan Staal,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:31:49Z,2,19:06,00:54,Shot,Wrist Shot,82.0,-16.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:31:56Z,2,19:14,00:46,Goal,Snap Shot,64.0,22.0,Nino Niederreiter,Scorer,Carolina Hurricanes,Jaccob Slavin,Assist,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a
+2019-10-26T18:32:40Z,2,19:14,00:46,Faceoff,n/a,0.0,0.0,David Kampf,Winner,Chicago Blackhawks,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:33:13Z,2,19:41,00:19,Blocked Shot,n/a,73.0,23.0,Calvin de Haan,Blocker,Chicago Blackhawks,Jake Gardiner,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:33:41Z,2,19:42,00:18,Faceoff,n/a,69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Warren Foegele,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:52:44Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:53:05Z,3,00:22,19:38,Giveaway,n/a,-98.0,-9.0,Teuvo Teravainen,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:54:15Z,3,01:30,18:30,Missed Shot,n/a,-40.0,36.0,Brett Pesce,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:54:23Z,3,01:36,18:24,Penalty,Holding,-58.0,31.0,Kirby Dach,PenaltyOn,Chicago Blackhawks,Warren Foegele,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:54:57Z,3,01:36,18:24,Faceoff,n/a,-69.0,-22.0,Erik Haula,Winner,Carolina Hurricanes,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:55:21Z,3,02:06,17:54,Hit,n/a,-73.0,37.0,Olli Maatta,Hitter,Chicago Blackhawks,Ryan Dzingel,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:55:28Z,3,02:13,17:47,Blocked Shot,n/a,-78.0,0.0,Olli Maatta,Blocker,Chicago Blackhawks,Erik Haula,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:55:56Z,3,02:13,17:47,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:56:08Z,3,02:21,17:39,Shot,Wrist Shot,-30.0,-27.0,Jake Gardiner,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:56:15Z,3,02:26,17:34,Missed Shot,n/a,-60.0,-19.0,Martin Necas,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:56:17Z,3,02:32,17:28,Giveaway,n/a,30.0,36.0,Jake Gardiner,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:56:39Z,3,02:54,17:06,Shot,Wrist Shot,-83.0,7.0,Nino Niederreiter,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:56:51Z,3,03:06,16:54,Missed Shot,n/a,-75.0,3.0,Jordan Staal,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:57:04Z,3,03:19,16:41,Goal,Wrist Shot,-71.0,8.0,Jordan Staal,Scorer,Carolina Hurricanes,Sebastian Aho,Assist,Carolina Hurricanes,Nino Niederreiter,Assist,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks
+2019-10-26T18:57:47Z,3,03:19,16:41,Faceoff,n/a,0.0,0.0,Lucas Wallmark,Winner,Carolina Hurricanes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:58:01Z,3,03:33,16:27,Missed Shot,n/a,-33.0,30.0,Jaccob Slavin,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:58:20Z,3,03:51,16:09,Missed Shot,n/a,68.0,-6.0,Brent Seabrook,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:58:29Z,3,03:59,16:01,Blocked Shot,n/a,76.0,8.0,Dougie Hamilton,Blocker,Carolina Hurricanes,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:59:09Z,3,04:41,15:19,Shot,Snap Shot,-67.0,-36.0,Warren Foegele,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:59:16Z,3,04:48,15:12,Shot,Wrist Shot,89.0,-15.0,Dylan Strome,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:59:32Z,3,05:01,14:59,Missed Shot,n/a,-84.0,-11.0,Brett Pesce,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T18:59:54Z,3,05:27,14:33,Takeaway,n/a,-28.0,-34.0,Jake Gardiner,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:00:35Z,3,06:07,13:53,Giveaway,n/a,98.0,-24.0,Jaccob Slavin,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:00:46Z,3,06:19,13:41,Giveaway,n/a,-96.0,5.0,Brian Gibbons,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:01:01Z,3,06:34,13:26,Giveaway,n/a,98.0,2.0,Petr Mrazek,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:01:11Z,3,06:44,13:16,Hit,n/a,97.0,13.0,Dougie Hamilton,Hitter,Carolina Hurricanes,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:01:37Z,3,07:10,12:50,Hit,n/a,-72.0,-39.0,Andrew Shaw,Hitter,Chicago Blackhawks,Teuvo Teravainen,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:02:04Z,3,07:32,12:28,Shot,Wrist Shot,80.0,2.0,Patrick Kane,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:04:17Z,3,07:36,12:24,Faceoff,n/a,69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:04:36Z,3,07:43,12:17,Missed Shot,n/a,-58.0,7.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:05:02Z,3,08:13,11:47,Giveaway,n/a,-72.0,39.0,Erik Gustafsson,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:05:06Z,3,08:14,11:46,Hit,n/a,-77.0,37.0,Jordan Staal,Hitter,Carolina Hurricanes,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:05:07Z,3,08:16,11:44,Shot,Wrist Shot,-83.0,-6.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:05:43Z,3,08:21,11:39,Faceoff,n/a,-69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:05:44Z,3,08:26,11:34,Giveaway,n/a,-76.0,30.0,Andrei Svechnikov,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:05:54Z,3,08:36,11:24,Giveaway,n/a,54.0,-27.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:05:59Z,3,08:41,11:19,Hit,n/a,42.0,40.0,Joel Edmundson,Hitter,Carolina Hurricanes,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:06:07Z,3,08:49,11:11,Missed Shot,n/a,-66.0,7.0,Sebastian Aho,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:06:27Z,3,09:09,10:51,Hit,n/a,87.0,-27.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Sebastian Aho,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:06:31Z,3,09:13,10:47,Missed Shot,n/a,31.0,-4.0,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:06:53Z,3,09:35,10:25,Hit,n/a,-92.0,-28.0,Ryan Dzingel,Hitter,Carolina Hurricanes,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:07:42Z,3,10:24,09:36,Blocked Shot,n/a,69.0,-1.0,Jake Gardiner,Blocker,Carolina Hurricanes,David Kampf,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:08:06Z,3,10:48,09:12,Blocked Shot,n/a,32.0,36.0,Jaccob Slavin,Blocker,Carolina Hurricanes,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:08:14Z,3,10:56,09:04,Hit,n/a,54.0,39.0,Andrew Shaw,Hitter,Chicago Blackhawks,Lucas Wallmark,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:08:38Z,3,11:17,08:43,Hit,n/a,-97.0,16.0,Brock McGinn,Hitter,Carolina Hurricanes,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:08:48Z,3,11:30,08:30,Shot,Wrist Shot,-73.0,15.0,Jordan Staal,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:08:52Z,3,11:31,08:29,Missed Shot,n/a,-77.0,-5.0,Brock McGinn,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:09:25Z,3,12:06,07:54,Shot,Slap Shot,36.0,-36.0,Jonathan Toews,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:11:26Z,3,12:07,07:53,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:11:55Z,3,12:14,07:46,Blocked Shot,n/a,51.0,-18.0,Jaccob Slavin,Blocker,Carolina Hurricanes,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:12:17Z,3,12:33,07:27,Shot,Snap Shot,52.0,26.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:12:33Z,3,12:52,07:08,Shot,Snap Shot,-74.0,17.0,Sebastian Aho,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:12:46Z,3,13:05,06:55,Hit,n/a,-38.0,41.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Andrei Svechnikov,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:12:49Z,3,13:08,06:52,Shot,Wrist Shot,-80.0,5.0,Sebastian Aho,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:12:53Z,3,13:10,06:50,Missed Shot,n/a,-67.0,16.0,Warren Foegele,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:13:11Z,3,13:30,06:30,Shot,Snap Shot,45.0,22.0,Alex Nylander,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:13:54Z,3,13:58,06:02,Penalty,Tripping,34.0,-25.0,Joel Edmundson,PenaltyOn,Carolina Hurricanes,Alex Nylander,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:14:28Z,3,13:58,06:02,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:14:46Z,3,14:22,05:38,Giveaway,n/a,59.0,39.0,Jordan Staal,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:14:56Z,3,14:30,05:30,Blocked Shot,n/a,72.0,-13.0,Dougie Hamilton,Blocker,Carolina Hurricanes,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:15:12Z,3,14:47,05:13,Blocked Shot,n/a,66.0,-17.0,Dougie Hamilton,Blocker,Carolina Hurricanes,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:15:38Z,3,15:14,04:46,Takeaway,n/a,40.0,39.0,Brett Pesce,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:15:56Z,3,15:33,04:27,Takeaway,n/a,98.0,9.0,Brett Pesce,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:16:10Z,3,15:43,04:17,Faceoff,n/a,-69.0,-22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Andrew Shaw,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:16:50Z,3,16:01,03:59,Hit,n/a,36.0,-39.0,Jaccob Slavin,Hitter,Carolina Hurricanes,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:17:04Z,3,16:16,03:44,Shot,Snap Shot,39.0,-12.0,David Kampf,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:18:24Z,3,17:10,02:50,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:18:41Z,3,17:20,02:40,Shot,Backhand,-82.0,6.0,Nino Niederreiter,Shooter,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:18:55Z,3,17:34,02:26,Hit,n/a,97.0,-17.0,Jaccob Slavin,Hitter,Carolina Hurricanes,Alex DeBrincat,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:19:03Z,3,17:42,02:18,Shot,Slap Shot,31.0,25.0,Calvin de Haan,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:19:23Z,3,18:02,01:58,Giveaway,n/a,87.0,-7.0,Petr Mrazek,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:19:26Z,3,18:05,01:55,Missed Shot,n/a,42.0,3.0,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:19:32Z,3,18:08,01:52,Shot,Snap Shot,91.0,12.0,Kirby Dach,Shooter,Chicago Blackhawks,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:19:35Z,3,18:14,01:46,Takeaway,n/a,-21.0,3.0,Calvin de Haan,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:19:55Z,3,18:34,01:26,Hit,n/a,-86.0,9.0,Andrew Shaw,Hitter,Chicago Blackhawks,Sebastian Aho,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:20:13Z,3,18:49,01:11,Goal,Deflected,-81.0,1.0,Andrei Svechnikov,Scorer,Carolina Hurricanes,Sebastian Aho,Assist,Carolina Hurricanes,Jake Gardiner,Assist,Carolina Hurricanes,Corey Crawford,Goalie,Chicago Blackhawks
+2019-10-26T19:21:00Z,3,18:49,01:11,Faceoff,n/a,0.0,0.0,Dylan Strome,Winner,Chicago Blackhawks,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:21:15Z,3,19:06,00:54,Hit,n/a,-21.0,38.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Martin Necas,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:22:16Z,3,19:38,00:22,Faceoff,n/a,0.0,0.0,Ryan Carpenter,Winner,Chicago Blackhawks,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T19:22:35Z,3,19:50,00:10,Giveaway,n/a,-2.0,-36.0,Ryan Dzingel,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,235 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-08T00:14:18Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:15:24Z,1,00:20,19:40,Blocked Shot,n/a,65.0,-8.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:15:41Z,1,00:21,19:39,Faceoff,n/a,69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:15:54Z,1,00:32,19:28,Hit,n/a,82.0,38.0,Zach Sanford,Hitter,St. Louis Blues,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:15:57Z,1,00:33,19:27,Shot,Wrist Shot,-48.0,-20.0,John Tavares,Shooter,Toronto Maple Leafs,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:16:25Z,1,00:34,19:26,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:16:28Z,1,00:38,19:22,Blocked Shot,n/a,-48.0,-14.0,Nathan Walker,Blocker,St. Louis Blues,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:16:42Z,1,00:39,19:21,Faceoff,n/a,-69.0,-22.0,Brayden Schenn,Winner,St. Louis Blues,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:16:57Z,1,00:50,19:10,Hit,n/a,72.0,41.0,Nathan Walker,Hitter,St. Louis Blues,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:17:17Z,1,01:06,18:54,Missed Shot,n/a,43.0,-12.0,Justin Faulk,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:17:30Z,1,01:08,18:52,Shot,Wrist Shot,85.0,-10.0,Justin Faulk,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:17:42Z,1,01:09,18:51,Faceoff,n/a,69.0,-22.0,Robert Thomas,Winner,St. Louis Blues,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:18:20Z,1,01:29,18:31,Blocked Shot,n/a,-74.0,-11.0,Robert Bortuzzo,Blocker,St. Louis Blues,Travis Dermott,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:18:29Z,1,01:31,18:29,Shot,Wrist Shot,-79.0,8.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:18:43Z,1,01:34,18:26,Shot,Wrap-around,-87.0,7.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:18:43Z,1,01:54,18:06,Shot,Wrist Shot,60.0,14.0,Mackenzie MacEachern,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:18:43Z,1,01:55,18:05,Blocked Shot,n/a,66.0,-5.0,Travis Dermott,Blocker,Toronto Maple Leafs,Robert Thomas,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:19:11Z,1,01:56,18:04,Faceoff,n/a,69.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:19:49Z,1,02:28,17:32,Shot,Wrist Shot,80.0,-1.0,Colton Parayko,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:20:06Z,1,02:45,17:15,Takeaway,n/a,-12.0,38.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:20:12Z,1,02:50,17:10,Goal,Wrist Shot,-65.0,-17.0,Zach Hyman,Scorer,Toronto Maple Leafs,Mitchell Marner,Assist,Toronto Maple Leafs,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a
+2019-12-08T00:21:01Z,1,02:50,17:10,Faceoff,n/a,0.0,0.0,Ryan O'Reilly,Winner,St. Louis Blues,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:21:18Z,1,03:10,16:50,Shot,Snap Shot,-51.0,-18.0,Zach Hyman,Shooter,Toronto Maple Leafs,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:21:45Z,1,03:11,16:49,Faceoff,n/a,-69.0,-22.0,Brayden Schenn,Winner,St. Louis Blues,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:22:20Z,1,03:48,16:12,Hit,n/a,98.0,-9.0,Justin Holl,Hitter,Toronto Maple Leafs,Nathan Walker,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:22:59Z,1,04:23,15:37,Giveaway,n/a,64.0,-39.0,Travis Dermott,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:22:59Z,1,04:25,15:35,Goal,Wrist Shot,52.0,-13.0,Ivan Barbashev,Scorer,St. Louis Blues,Robert Thomas,Assist,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a
+2019-12-08T00:23:39Z,1,04:25,15:35,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:25:05Z,1,05:51,14:09,Hit,n/a,96.0,-26.0,Cody Ceci,Hitter,Toronto Maple Leafs,Robert Bortuzzo,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:25:23Z,1,06:06,13:54,Shot,Wrist Shot,42.0,14.0,Vince Dunn,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:27:40Z,1,06:07,13:53,Faceoff,n/a,69.0,22.0,William Nylander,Winner,Toronto Maple Leafs,Jaden Schwartz,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:28:12Z,1,06:25,13:35,Faceoff,n/a,20.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:28:33Z,1,06:33,13:27,Shot,Wrist Shot,-3.0,28.0,Jay Bouwmeester,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:28:52Z,1,06:51,13:09,Goal,Wrist Shot,-47.0,-20.0,Auston Matthews,Scorer,Toronto Maple Leafs,William Nylander,Assist,Toronto Maple Leafs,Pontus Aberg,Assist,Toronto Maple Leafs,Jordan Binnington,Goalie,St. Louis Blues
+2019-12-08T00:29:33Z,1,06:51,13:09,Faceoff,n/a,0.0,0.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:30:12Z,1,07:30,12:30,Shot,Wrist Shot,52.0,11.0,Ivan Barbashev,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:30:41Z,1,07:56,12:04,Penalty,Tripping,69.0,20.0,Morgan Rielly,PenaltyOn,Toronto Maple Leafs,Zach Sanford,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:31:21Z,1,07:56,12:04,Faceoff,n/a,69.0,22.0,Zach Hyman,Winner,Toronto Maple Leafs,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:31:34Z,1,08:18,11:42,Blocked Shot,n/a,71.0,-1.0,Cody Ceci,Blocker,Toronto Maple Leafs,Brayden Schenn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:32:25Z,1,09:09,10:51,Giveaway,n/a,22.0,-1.0,David Perron,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:32:31Z,1,09:12,10:48,Goal,Snap Shot,-79.0,5.0,Zach Hyman,Scorer,Toronto Maple Leafs,Pierre Engvall,Assist,Toronto Maple Leafs,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a
+2019-12-08T00:33:15Z,1,09:12,10:48,Faceoff,n/a,0.0,0.0,Tyler Bozak,Winner,St. Louis Blues,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:33:22Z,1,09:30,10:30,Hit,n/a,62.0,40.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Robert Thomas,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:33:43Z,1,09:51,10:09,Giveaway,n/a,97.0,-3.0,Jake Muzzin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:33:46Z,1,09:54,10:06,Blocked Shot,n/a,53.0,-5.0,Mitchell Marner,Blocker,Toronto Maple Leafs,Tyler Bozak,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:33:56Z,1,10:04,09:56,Shot,Wrist Shot,-61.0,20.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:34:25Z,1,10:15,09:45,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:34:35Z,1,10:20,09:40,Blocked Shot,n/a,-68.0,17.0,Troy Brouwer,Blocker,St. Louis Blues,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:34:54Z,1,10:38,09:22,Hit,n/a,46.0,39.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:35:11Z,1,10:56,09:04,Hit,n/a,-97.0,23.0,Jay Bouwmeester,Hitter,St. Louis Blues,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:37:14Z,1,11:01,08:59,Faceoff,n/a,-69.0,-22.0,Brayden Schenn,Winner,St. Louis Blues,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:38:21Z,1,11:28,08:32,Penalty,Holding,67.0,-27.0,Nathan Walker,PenaltyOn,St. Louis Blues,Travis Dermott,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:38:39Z,1,11:28,08:32,Faceoff,n/a,-69.0,-22.0,Tyler Bozak,Winner,St. Louis Blues,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:38:39Z,1,11:34,08:26,Shot,Wrist Shot,-50.0,10.0,Auston Matthews,Shooter,Toronto Maple Leafs,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:38:46Z,1,11:41,08:19,Missed Shot,n/a,-66.0,21.0,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:39:18Z,1,12:13,07:47,Blocked Shot,n/a,-74.0,9.0,Colton Parayko,Blocker,St. Louis Blues,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:39:43Z,1,12:38,07:22,Missed Shot,n/a,-46.0,7.0,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:39:55Z,1,12:47,07:13,Shot,Wrist Shot,-66.0,21.0,Auston Matthews,Shooter,Toronto Maple Leafs,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:40:31Z,1,12:48,07:12,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:40:39Z,1,12:57,07:03,Goal,Wrist Shot,-48.0,19.0,Jason Spezza,Scorer,Toronto Maple Leafs,Morgan Rielly,Assist,Toronto Maple Leafs,Kasperi Kapanen,Assist,Toronto Maple Leafs,Jordan Binnington,Goalie,St. Louis Blues
+2019-12-08T00:41:51Z,1,12:57,07:03,Faceoff,n/a,0.0,0.0,Brayden Schenn,Winner,St. Louis Blues,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:42:09Z,1,13:07,06:53,Hit,n/a,-16.0,-42.0,Jaden Schwartz,Hitter,St. Louis Blues,Ilya Mikheyev,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:42:31Z,1,13:30,06:30,Shot,Wrist Shot,33.0,30.0,Vince Dunn,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:42:39Z,1,13:37,06:23,Hit,n/a,96.0,26.0,David Perron,Hitter,St. Louis Blues,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:43:12Z,1,14:10,05:50,Giveaway,n/a,-57.0,-38.0,Ivan Barbashev,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:43:23Z,1,14:22,05:38,Blocked Shot,n/a,-58.0,9.0,Tyler Bozak,Blocker,St. Louis Blues,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:44:06Z,1,15:04,04:56,Takeaway,n/a,-68.0,4.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:44:09Z,1,15:07,04:53,Missed Shot,n/a,-58.0,-3.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:44:45Z,1,15:43,04:17,Hit,n/a,70.0,-40.0,David Perron,Hitter,St. Louis Blues,Pontus Aberg,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:44:50Z,1,15:49,04:11,Takeaway,n/a,34.0,39.0,Mackenzie MacEachern,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:45:08Z,1,16:04,03:56,Missed Shot,n/a,85.0,-11.0,Ryan O'Reilly,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:45:52Z,1,16:43,03:17,Penalty,Hi-sticking,-80.0,-21.0,Jason Spezza,PenaltyOn,Toronto Maple Leafs,Vince Dunn,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:47:42Z,1,16:43,03:17,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:48:28Z,1,16:51,03:09,Faceoff,n/a,20.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:49:49Z,1,17:59,02:01,Takeaway,n/a,-58.0,-39.0,Robert Thomas,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:49:59Z,1,18:09,01:51,Giveaway,n/a,81.0,35.0,Zach Sanford,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:50:09Z,1,18:20,01:40,Shot,Wrist Shot,-47.0,-4.0,Pierre Engvall,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:50:40Z,1,18:50,01:10,Hit,n/a,98.0,-5.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:51:42Z,1,19:52,00:08,Hit,n/a,80.0,39.0,Brayden Schenn,Hitter,St. Louis Blues,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:51:49Z,1,19:56,00:04,Hit,n/a,85.0,38.0,Nathan Walker,Hitter,St. Louis Blues,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T00:52:03Z,1,19:58,00:02,Hit,n/a,46.0,-41.0,Jaden Schwartz,Hitter,St. Louis Blues,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:03:11Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan O'Reilly,Winner,St. Louis Blues,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:11:33Z,2,01:07,18:53,Shot,Slap Shot,-70.0,-21.0,Justin Faulk,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:12:25Z,2,01:36,18:24,Faceoff,n/a,-20.0,-22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:12:51Z,2,02:01,17:59,Missed Shot,n/a,42.0,-10.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:13:01Z,2,02:11,17:49,Hit,n/a,-98.0,0.0,Nathan Walker,Hitter,St. Louis Blues,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:13:22Z,2,02:32,17:28,Hit,n/a,-98.0,-18.0,Troy Brouwer,Hitter,St. Louis Blues,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:13:41Z,2,02:49,17:11,Shot,Wrist Shot,19.0,26.0,Troy Brouwer,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:14:05Z,2,02:50,17:10,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:14:18Z,2,03:03,16:57,Blocked Shot,n/a,-54.0,-19.0,Pierre Engvall,Blocker,Toronto Maple Leafs,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:14:28Z,2,03:12,16:48,Blocked Shot,n/a,-75.0,-5.0,Cody Ceci,Blocker,Toronto Maple Leafs,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:14:34Z,2,03:19,16:41,Missed Shot,n/a,-55.0,10.0,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:15:14Z,2,03:59,16:01,Takeaway,n/a,-63.0,40.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:15:18Z,2,04:02,15:58,Giveaway,n/a,-62.0,39.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:15:43Z,2,04:28,15:32,Shot,Tip-In,-78.0,-2.0,Tyler Bozak,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:16:13Z,2,04:58,15:02,Blocked Shot,n/a,-70.0,-2.0,Pontus Aberg,Blocker,Toronto Maple Leafs,Ivan Barbashev,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:16:26Z,2,05:06,14:54,Missed Shot,n/a,-58.0,-7.0,Justin Faulk,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:16:30Z,2,05:15,14:45,Giveaway,n/a,79.0,-7.0,Justin Faulk,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:16:40Z,2,05:25,14:35,Blocked Shot,n/a,65.0,2.0,Ivan Barbashev,Blocker,St. Louis Blues,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:17:24Z,2,05:51,14:09,Penalty,Delaying Game - Puck over glass,-69.0,13.0,Alexander Kerfoot,PenaltyOn,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:18:02Z,2,05:51,14:09,Faceoff,n/a,-69.0,-22.0,Zach Hyman,Winner,Toronto Maple Leafs,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:18:11Z,2,06:11,13:49,Missed Shot,n/a,46.0,-6.0,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:18:43Z,2,06:43,13:17,Missed Shot,n/a,-82.0,11.0,Ryan O'Reilly,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:18:58Z,2,06:58,13:02,Missed Shot,n/a,-53.0,-19.0,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:19:20Z,2,07:19,12:41,Shot,Slap Shot,-30.0,-1.0,Alex Pietrangelo,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:19:44Z,2,07:20,12:40,Faceoff,n/a,-69.0,22.0,Zach Hyman,Winner,Toronto Maple Leafs,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:19:59Z,2,07:27,12:33,Shot,Wrist Shot,-34.0,22.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:20:17Z,2,07:46,12:14,Blocked Shot,n/a,-67.0,-10.0,Justin Holl,Blocker,Toronto Maple Leafs,Justin Faulk,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:20:28Z,2,07:56,12:04,Shot,Wrist Shot,-62.0,9.0,Tyler Bozak,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:20:39Z,2,08:07,11:53,Blocked Shot,n/a,46.0,1.0,Vince Dunn,Blocker,St. Louis Blues,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:21:23Z,2,08:48,11:12,Penalty,Interference,59.0,-7.0,Vince Dunn,PenaltyOn,St. Louis Blues,Auston Matthews,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:23:26Z,2,08:48,11:12,Faceoff,n/a,69.0,22.0,Tyler Bozak,Winner,St. Louis Blues,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:24:27Z,2,09:29,10:31,Goal,Tip-In,87.0,-7.0,Auston Matthews,Scorer,Toronto Maple Leafs,Mitchell Marner,Assist,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a
+2019-12-08T01:25:01Z,2,09:29,10:31,Faceoff,n/a,0.0,0.0,Jason Spezza,Winner,Toronto Maple Leafs,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:25:46Z,2,09:44,10:16,Faceoff,n/a,-69.0,22.0,Tyler Bozak,Winner,St. Louis Blues,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:26:02Z,2,10:00,10:00,Blocked Shot,n/a,-79.0,11.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Brayden Schenn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:26:20Z,2,10:15,09:45,Penalty,Hooking,-86.0,-8.0,Justin Holl,PenaltyOn,Toronto Maple Leafs,Jaden Schwartz,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:28:21Z,2,10:15,09:45,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:28:49Z,2,10:30,09:30,Shot,Slap Shot,-37.0,2.0,Alex Pietrangelo,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:29:49Z,2,10:51,09:09,Giveaway,n/a,-92.0,-6.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:29:12Z,2,10:52,09:08,Shot,Slap Shot,-50.0,7.0,Jaden Schwartz,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:29:22Z,2,11:02,08:58,Missed Shot,n/a,-77.0,-1.0,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:30:06Z,2,11:21,08:39,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Kasperi Kapanen,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:30:24Z,2,11:42,08:18,Blocked Shot,n/a,-73.0,0.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:31:09Z,2,12:27,07:33,Hit,n/a,-98.0,0.0,Jacob de la Rose,Hitter,St. Louis Blues,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:31:20Z,2,12:38,07:22,Hit,n/a,89.0,34.0,Auston Matthews,Hitter,Toronto Maple Leafs,Troy Brouwer,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:31:26Z,2,12:39,07:21,Blocked Shot,n/a,64.0,2.0,Vince Dunn,Blocker,St. Louis Blues,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:31:26Z,2,12:42,07:18,Blocked Shot,n/a,64.0,1.0,Vince Dunn,Blocker,St. Louis Blues,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:31:36Z,2,12:43,07:17,Blocked Shot,n/a,68.0,0.0,Robert Thomas,Blocker,St. Louis Blues,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:32:30Z,2,12:44,07:16,Faceoff,n/a,69.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:32:40Z,2,13:00,07:00,Missed Shot,n/a,-41.0,22.0,Colton Parayko,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:33:07Z,2,13:28,06:32,Missed Shot,n/a,-70.0,13.0,Nathan Walker,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:33:23Z,2,13:43,06:17,Hit,n/a,-30.0,-41.0,Justin Holl,Hitter,Toronto Maple Leafs,Ryan O'Reilly,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:33:42Z,2,14:00,06:00,Shot,Slap Shot,41.0,22.0,Jake Muzzin,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:35:58Z,2,14:01,05:59,Faceoff,n/a,69.0,22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:36:11Z,2,14:07,05:53,Blocked Shot,n/a,61.0,9.0,Vince Dunn,Blocker,St. Louis Blues,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:36:36Z,2,14:32,05:28,Hit,n/a,-84.0,-38.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:36:45Z,2,14:41,05:19,Blocked Shot,n/a,-57.0,-20.0,Alexander Kerfoot,Blocker,Toronto Maple Leafs,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:37:29Z,2,15:24,04:36,Blocked Shot,n/a,77.0,0.0,Colton Parayko,Blocker,St. Louis Blues,Nic Petan,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:37:39Z,2,15:34,04:26,Shot,Backhand,-75.0,-1.0,Justin Faulk,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:37:40Z,2,15:35,04:25,Hit,n/a,-98.0,1.0,Cody Ceci,Hitter,Toronto Maple Leafs,Justin Faulk,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:37:50Z,2,15:42,04:18,Shot,Slap Shot,-30.0,31.0,Justin Faulk,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:38:17Z,2,15:43,04:17,Faceoff,n/a,-69.0,22.0,Tyler Bozak,Winner,St. Louis Blues,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:38:25Z,2,15:52,04:08,Shot,Slap Shot,-45.0,10.0,Alex Pietrangelo,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:38:54Z,2,16:21,03:39,Giveaway,n/a,46.0,41.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:39:10Z,2,16:35,03:25,Shot,Wrist Shot,52.0,-37.0,Zach Hyman,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:39:29Z,2,16:36,03:24,Faceoff,n/a,69.0,-22.0,Ivan Barbashev,Winner,St. Louis Blues,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:40:09Z,2,17:00,03:00,Takeaway,n/a,41.0,25.0,Justin Faulk,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:40:34Z,2,17:25,02:35,Missed Shot,n/a,5.0,18.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:40:37Z,2,17:28,02:32,Takeaway,n/a,91.0,-5.0,Pontus Aberg,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:40:41Z,2,17:32,02:28,Shot,Wrist Shot,69.0,15.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:40:59Z,2,17:49,02:11,Shot,Backhand,-81.0,-13.0,Mackenzie MacEachern,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:41:26Z,2,17:51,02:09,Faceoff,n/a,-69.0,-22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:42:02Z,2,18:26,01:34,Hit,n/a,-93.0,-27.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Jaden Schwartz,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:42:12Z,2,18:36,01:24,Takeaway,n/a,46.0,32.0,Alex Pietrangelo,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:42:58Z,2,19:05,00:55,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:43:29Z,2,19:19,00:41,Takeaway,n/a,19.0,41.0,Jacob de la Rose,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:43:38Z,2,19:28,00:32,Hit,n/a,-39.0,-41.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T01:44:19Z,2,19:42,00:18,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:04:11Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:04:11Z,3,00:28,19:32,Faceoff,n/a,69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:04:22Z,3,00:34,19:26,Shot,Wrist Shot,33.0,-21.0,Justin Faulk,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:04:39Z,3,00:51,19:09,Shot,Slap Shot,-45.0,-4.0,Jake Muzzin,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:05:09Z,3,01:20,18:40,Takeaway,n/a,59.0,-39.0,Ivan Barbashev,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:05:11Z,3,01:23,18:37,Blocked Shot,n/a,55.0,8.0,Robert Thomas,Blocker,St. Louis Blues,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:05:23Z,3,01:36,18:24,Missed Shot,n/a,-69.0,3.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:05:33Z,3,01:42,18:18,Missed Shot,n/a,56.0,2.0,Ivan Barbashev,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:06:06Z,3,01:45,18:15,Faceoff,n/a,69.0,-22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:06:12Z,3,01:50,18:10,Takeaway,n/a,52.0,40.0,David Perron,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:06:28Z,3,02:02,17:58,Goal,Tip-In,79.0,0.0,David Perron,Scorer,St. Louis Blues,Alex Pietrangelo,Assist,St. Louis Blues,Ryan O'Reilly,Assist,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-12-08T02:08:08Z,3,02:02,17:58,Faceoff,n/a,0.0,0.0,Ryan O'Reilly,Winner,St. Louis Blues,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:09:08Z,3,02:58,17:02,Giveaway,n/a,96.0,7.0,Frederik Andersen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:09:42Z,3,02:59,17:01,Penalty,Fighting,93.0,10.0,Troy Brouwer,PenaltyOn,St. Louis Blues,Travis Dermott,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:10:05Z,3,02:59,17:01,Penalty,Fighting,98.0,12.0,Travis Dermott,PenaltyOn,Toronto Maple Leafs,Troy Brouwer,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:10:51Z,3,02:59,17:01,Faceoff,n/a,69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:10:40Z,3,03:07,16:53,Takeaway,n/a,93.0,-5.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:12:49Z,3,04:40,15:20,Faceoff,n/a,-69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:12:45Z,3,04:45,15:15,Hit,n/a,-60.0,40.0,Jacob de la Rose,Hitter,St. Louis Blues,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:13:14Z,3,05:14,14:46,Hit,n/a,-92.0,-32.0,Jacob de la Rose,Hitter,St. Louis Blues,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:13:22Z,3,05:22,14:38,Blocked Shot,n/a,-72.0,-7.0,Colton Parayko,Blocker,St. Louis Blues,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:13:30Z,3,05:30,14:30,Takeaway,n/a,-31.0,-37.0,Morgan Rielly,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:13:32Z,3,05:32,14:28,Shot,Wrist Shot,-68.0,-13.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:14:30Z,3,06:27,13:33,Shot,Backhand,68.0,0.0,Ivan Barbashev,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:15:32Z,3,07:32,12:28,Takeaway,n/a,-82.0,18.0,Ryan O'Reilly,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:15:44Z,3,07:42,12:18,Shot,Deflected,-78.0,-2.0,Zach Hyman,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:15:44Z,3,07:44,12:16,Hit,n/a,-79.0,-40.0,Alex Pietrangelo,Hitter,St. Louis Blues,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:16:29Z,3,07:46,12:14,Shot,Snap Shot,-79.0,8.0,John Tavares,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:17:47Z,3,07:47,12:13,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:18:51Z,3,08:19,11:41,Hit,n/a,59.0,-40.0,Jacob de la Rose,Hitter,St. Louis Blues,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:18:57Z,3,08:25,11:35,Hit,n/a,99.0,0.0,David Perron,Hitter,St. Louis Blues,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:19:08Z,3,08:36,11:24,Takeaway,n/a,36.0,-33.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:19:33Z,3,09:01,10:59,Shot,Wrist Shot,47.0,-6.0,Tyler Bozak,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:20:52Z,3,10:18,09:42,Blocked Shot,n/a,-64.0,-26.0,Robert Bortuzzo,Blocker,St. Louis Blues,Nic Petan,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:23:15Z,3,10:19,09:41,Faceoff,n/a,-69.0,-22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:23:13Z,3,10:24,09:36,Missed Shot,n/a,-63.0,-13.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:23:34Z,3,10:46,09:14,Missed Shot,n/a,-36.0,36.0,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:23:51Z,3,11:03,08:57,Shot,Wrist Shot,-73.0,10.0,Cody Ceci,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:23:59Z,3,11:06,08:54,Shot,Wrist Shot,-81.0,7.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:24:39Z,3,11:29,08:31,Faceoff,n/a,0.0,0.0,Ryan O'Reilly,Winner,St. Louis Blues,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:25:15Z,3,12:02,07:58,Shot,Wrist Shot,-42.0,-6.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:25:34Z,3,12:19,07:41,Giveaway,n/a,97.0,-4.0,Jake Muzzin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:25:43Z,3,12:26,07:34,Missed Shot,n/a,56.0,-8.0,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:25:55Z,3,12:43,07:17,Blocked Shot,n/a,-74.0,-1.0,Alex Pietrangelo,Blocker,St. Louis Blues,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:26:04Z,3,12:52,07:08,Blocked Shot,n/a,-72.0,3.0,Colton Parayko,Blocker,St. Louis Blues,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:26:22Z,3,13:04,06:56,Giveaway,n/a,-70.0,-16.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:26:22Z,3,13:10,06:50,Shot,Wrist Shot,53.0,14.0,Nathan Walker,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:26:44Z,3,13:27,06:33,Hit,n/a,-89.0,30.0,Robert Bortuzzo,Hitter,St. Louis Blues,Jason Spezza,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:26:51Z,3,13:39,06:21,Shot,Wrist Shot,-56.0,2.0,Jason Spezza,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:27:32Z,3,13:40,06:20,Faceoff,n/a,-69.0,22.0,Ivan Barbashev,Winner,St. Louis Blues,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:27:41Z,3,13:58,06:02,Blocked Shot,n/a,50.0,1.0,Ilya Mikheyev,Blocker,Toronto Maple Leafs,Ivan Barbashev,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:28:04Z,3,14:20,05:40,Missed Shot,n/a,56.0,2.0,Mackenzie MacEachern,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:28:21Z,3,14:38,05:22,Hit,n/a,98.0,-1.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Alex Pietrangelo,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:28:31Z,3,14:48,05:12,Blocked Shot,n/a,56.0,-11.0,Mitchell Marner,Blocker,Toronto Maple Leafs,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:29:11Z,3,15:27,04:33,Shot,Slap Shot,48.0,20.0,Jaden Schwartz,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:31:10Z,3,15:28,04:32,Faceoff,n/a,69.0,22.0,Brayden Schenn,Winner,St. Louis Blues,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:32:02Z,3,16:00,04:00,Hit,n/a,32.0,-39.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Jaden Schwartz,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:33:04Z,3,17:02,02:58,Shot,Wrist Shot,75.0,-4.0,Mackenzie MacEachern,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:33:40Z,3,17:03,02:57,Faceoff,n/a,69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:33:49Z,3,17:10,02:50,Shot,Slap Shot,75.0,-15.0,Ryan O'Reilly,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:34:14Z,3,17:35,02:25,Shot,Wrist Shot,-63.0,-21.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:34:30Z,3,17:35,02:25,Hit,n/a,-75.0,-40.0,Colton Parayko,Hitter,St. Louis Blues,Ilya Mikheyev,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:34:56Z,3,17:36,02:24,Faceoff,n/a,-69.0,-22.0,Pierre Engvall,Winner,Toronto Maple Leafs,Jacob de la Rose,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:34:58Z,3,17:45,02:15,Blocked Shot,n/a,-56.0,12.0,Troy Brouwer,Blocker,St. Louis Blues,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:35:07Z,3,17:53,02:07,Hit,n/a,60.0,41.0,Jacob de la Rose,Hitter,St. Louis Blues,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:35:29Z,3,18:14,01:46,Blocked Shot,n/a,-72.0,15.0,Alex Pietrangelo,Blocker,St. Louis Blues,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:35:59Z,3,18:15,01:45,Faceoff,n/a,-69.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:36:18Z,3,18:35,01:25,Takeaway,n/a,53.0,-28.0,Brayden Schenn,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:36:24Z,3,18:41,01:19,Giveaway,n/a,87.0,-31.0,Brayden Schenn,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:36:35Z,3,18:53,01:07,Takeaway,n/a,-98.0,15.0,Alexander Kerfoot,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:36:39Z,3,18:55,01:05,Shot,Slap Shot,-37.0,23.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:37:00Z,3,18:56,01:04,Faceoff,n/a,-69.0,22.0,Ivan Barbashev,Winner,St. Louis Blues,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:37:31Z,3,19:18,00:42,Blocked Shot,n/a,46.0,17.0,Jason Spezza,Blocker,Toronto Maple Leafs,Colton Parayko,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:37:46Z,3,19:19,00:41,Faceoff,n/a,69.0,22.0,Ivan Barbashev,Winner,St. Louis Blues,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-08T02:38:05Z,3,19:33,00:27,Shot,Tip-In,71.0,-9.0,Robert Thomas,Shooter,St. Louis Blues,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a

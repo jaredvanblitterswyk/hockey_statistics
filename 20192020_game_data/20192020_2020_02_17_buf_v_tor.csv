@@ -1,0 +1,228 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-17T00:10:08Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:11:41Z,1,00:31,19:29,Faceoff,n/a,20.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:12:16Z,1,01:02,18:58,Hit,n/a,-37.0,40.0,Johan Larsson,Hitter,Buffalo Sabres,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:12:23Z,1,01:09,18:51,Hit,n/a,-85.0,38.0,Henri Jokiharju,Hitter,Buffalo Sabres,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:13:09Z,1,01:23,18:37,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:13:34Z,1,01:50,18:10,Hit,n/a,99.0,15.0,Jimmy Vesey,Hitter,Buffalo Sabres,Timothy Liljegren,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:13:48Z,1,02:04,17:56,Hit,n/a,-96.0,-23.0,Kyle Clifford,Hitter,Toronto Maple Leafs,Curtis Lazar,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:14:01Z,1,02:17,17:43,Giveaway,n/a,56.0,3.0,Marcus Johansson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:14:06Z,1,02:22,17:38,Missed Shot,n/a,-57.0,5.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:14:13Z,1,02:29,17:31,Missed Shot,n/a,-76.0,-6.0,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:14:25Z,1,02:40,17:20,Missed Shot,n/a,-70.0,0.0,Mason Marchment,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:14:55Z,1,03:10,16:50,Hit,n/a,41.0,-39.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Egor Korshkov,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:14:59Z,1,03:14,16:46,Missed Shot,n/a,46.0,8.0,Conor Sheary,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:15:41Z,1,03:28,16:32,Faceoff,n/a,69.0,22.0,Zach Hyman,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:16:10Z,1,03:50,16:10,Giveaway,n/a,47.0,-38.0,Victor Olofsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:16:27Z,1,04:07,15:53,Hit,n/a,78.0,-41.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:16:50Z,1,04:19,15:41,Shot,Slap Shot,-44.0,-8.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:16:50Z,1,04:21,15:39,Shot,Wrist Shot,-81.0,6.0,Zach Hyman,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:16:43Z,1,04:22,15:38,Shot,Backhand,-76.0,2.0,Zach Hyman,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:17:07Z,1,04:23,15:37,Faceoff,n/a,-69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:17:28Z,1,04:40,15:20,Hit,n/a,-56.0,42.0,Kyle Okposo,Hitter,Buffalo Sabres,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:18:28Z,1,05:26,14:34,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:18:57Z,1,05:45,14:15,Blocked Shot,n/a,-48.0,15.0,Curtis Lazar,Blocker,Buffalo Sabres,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:19:14Z,1,06:02,13:58,Hit,n/a,52.0,-40.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Kyle Clifford,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:19:20Z,1,06:08,13:52,Hit,n/a,13.0,-39.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Pierre Engvall,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:19:48Z,1,06:36,13:24,Blocked Shot,n/a,-66.0,-13.0,Sam Reinhart,Blocker,Buffalo Sabres,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:19:54Z,1,06:39,13:21,Hit,n/a,-97.0,17.0,Egor Korshkov,Hitter,Toronto Maple Leafs,Brandon Montour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:20:08Z,1,06:56,13:04,Takeaway,n/a,35.0,37.0,Jake McCabe,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:20:09Z,1,06:57,13:03,Shot,Wrist Shot,39.0,35.0,Jake McCabe,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:20:21Z,1,07:10,12:50,Shot,Wrist Shot,74.0,0.0,Jack Eichel,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:20:27Z,1,07:15,12:45,Missed Shot,n/a,69.0,2.0,Zemgus Girgensons,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:20:33Z,1,07:21,12:39,Shot,Wrist Shot,68.0,-20.0,Jack Eichel,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:21:35Z,1,08:24,11:36,Shot,Backhand,-74.0,4.0,Zach Hyman,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:23:56Z,1,08:26,11:34,Faceoff,n/a,-69.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:24:25Z,1,08:54,11:06,Shot,Wrist Shot,-62.0,36.0,John Tavares,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:24:38Z,1,09:06,10:54,Hit,n/a,40.0,36.0,Curtis Lazar,Hitter,Buffalo Sabres,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:24:56Z,1,09:25,10:35,Shot,Snap Shot,84.0,-8.0,Conor Sheary,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:25:48Z,1,10:17,09:43,Missed Shot,n/a,59.0,18.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:26:02Z,1,10:30,09:30,Shot,Wrist Shot,75.0,26.0,Jake McCabe,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:26:23Z,1,10:31,09:29,Shot,Wrist Shot,78.0,8.0,Victor Olofsson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:28:09Z,1,10:32,09:28,Faceoff,n/a,69.0,22.0,Mason Marchment,Winner,Toronto Maple Leafs,Jeff Skinner,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:29:02Z,1,11:11,08:49,Blocked Shot,n/a,-64.0,-4.0,Conor Sheary,Blocker,Buffalo Sabres,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:29:16Z,1,11:24,08:36,Shot,Wrist Shot,77.0,-7.0,Conor Sheary,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:29:36Z,1,11:26,08:34,Faceoff,n/a,69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:30:01Z,1,11:34,08:26,Missed Shot,n/a,44.0,-4.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:30:25Z,1,11:56,08:04,Blocked Shot,n/a,-62.0,11.0,Brandon Montour,Blocker,Buffalo Sabres,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:30:48Z,1,11:56,08:04,Faceoff,n/a,-69.0,22.0,Zemgus Girgensons,Winner,Buffalo Sabres,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:31:37Z,1,12:28,07:32,Shot,Snap Shot,62.0,31.0,Jake McCabe,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:32:12Z,1,12:30,07:30,Faceoff,n/a,69.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:32:21Z,1,12:36,07:24,Shot,Wrist Shot,41.0,32.0,Marcus Johansson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:33:16Z,1,13:23,06:37,Giveaway,n/a,13.0,36.0,Jake Muzzin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:33:16Z,1,13:30,06:30,Blocked Shot,n/a,65.0,9.0,Rasmus Sandin,Blocker,Toronto Maple Leafs,Conor Sheary,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:33:44Z,1,13:34,06:26,Faceoff,n/a,-20.0,-22.0,Evan Rodrigues,Winner,Buffalo Sabres,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:33:57Z,1,13:44,06:16,Blocked Shot,n/a,78.0,6.0,Travis Dermott,Blocker,Toronto Maple Leafs,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:34:02Z,1,13:47,06:13,Shot,Snap Shot,71.0,7.0,Conor Sheary,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:34:30Z,1,13:48,06:12,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:35:04Z,1,14:17,05:43,Shot,Snap Shot,70.0,-19.0,Jack Eichel,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:35:28Z,1,14:39,05:21,Giveaway,n/a,-15.0,-39.0,Victor Olofsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:35:34Z,1,14:44,05:16,Giveaway,n/a,-60.0,-5.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:35:57Z,1,15:10,04:50,Takeaway,n/a,-77.0,33.0,Kyle Okposo,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:36:23Z,1,15:35,04:25,Missed Shot,n/a,76.0,3.0,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:36:31Z,1,15:38,04:22,Blocked Shot,n/a,75.0,2.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:38:38Z,1,15:41,04:19,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:39:26Z,1,16:27,03:33,Blocked Shot,n/a,75.0,-1.0,Auston Matthews,Blocker,Toronto Maple Leafs,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:39:46Z,1,16:46,03:14,Missed Shot,n/a,57.0,-9.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:39:54Z,1,16:54,03:06,Shot,Wrist Shot,37.0,2.0,Brandon Montour,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:39:58Z,1,16:58,03:02,Missed Shot,n/a,76.0,-1.0,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:40:06Z,1,17:06,02:54,Missed Shot,n/a,69.0,30.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:40:13Z,1,17:13,02:47,Giveaway,n/a,97.0,19.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:40:46Z,1,17:46,02:14,Shot,Wrist Shot,37.0,35.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:41:25Z,1,17:47,02:13,Shot,Wrist Shot,94.0,-8.0,Jimmy Vesey,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:41:44Z,1,17:48,02:12,Shot,Wrist Shot,78.0,0.0,Marcus Johansson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:42:06Z,1,17:49,02:11,Shot,Wrist Shot,80.0,-3.0,Marcus Johansson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:44:12Z,1,17:50,02:10,Faceoff,n/a,69.0,-22.0,Kyle Okposo,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:45:31Z,1,19:05,00:55,Missed Shot,n/a,-47.0,28.0,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:45:36Z,1,19:10,00:50,Giveaway,n/a,-32.0,5.0,Conor Sheary,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:45:38Z,1,19:12,00:48,Shot,Slap Shot,-36.0,23.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:46:14Z,1,19:12,00:48,Faceoff,n/a,-69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:46:33Z,1,19:33,00:27,Blocked Shot,n/a,73.0,2.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:47:04Z,1,19:34,00:26,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T00:47:18Z,1,19:43,00:17,Blocked Shot,n/a,71.0,7.0,Travis Dermott,Blocker,Toronto Maple Leafs,Jake McCabe,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:06:09Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:06:33Z,2,00:15,19:45,Takeaway,n/a,-59.0,31.0,Sam Reinhart,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:06:54Z,2,00:36,19:24,Missed Shot,n/a,37.0,-4.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:07:16Z,2,00:37,19:23,Faceoff,n/a,69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:07:47Z,2,01:02,18:58,Hit,n/a,54.0,41.0,Mason Marchment,Hitter,Toronto Maple Leafs,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:07:52Z,2,01:07,18:53,Hit,n/a,-92.0,31.0,Travis Dermott,Hitter,Toronto Maple Leafs,Kyle Okposo,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:08:10Z,2,01:23,18:37,Hit,n/a,88.0,-35.0,Kyle Okposo,Hitter,Buffalo Sabres,Mason Marchment,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:08:15Z,2,01:25,18:35,Hit,n/a,95.0,-27.0,Kyle Okposo,Hitter,Buffalo Sabres,Mason Marchment,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:08:19Z,2,01:30,18:30,Missed Shot,n/a,-35.0,2.0,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:08:28Z,2,01:32,18:28,Goal,Wrist Shot,-85.0,-9.0,Johan Larsson,Scorer,Buffalo Sabres,Colin Miller,Assist,Buffalo Sabres,Rasmus Dahlin,Assist,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs
+2020-02-17T01:08:58Z,2,01:32,18:28,Faceoff,n/a,0.0,0.0,Curtis Lazar,Winner,Buffalo Sabres,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:09:21Z,2,01:40,18:20,Faceoff,n/a,0.0,0.0,Curtis Lazar,Winner,Buffalo Sabres,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:09:46Z,2,01:54,18:06,Giveaway,n/a,-60.0,14.0,Timothy Liljegren,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:09:46Z,2,01:56,18:04,Blocked Shot,n/a,-75.0,3.0,Timothy Liljegren,Blocker,Toronto Maple Leafs,Curtis Lazar,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:10:17Z,2,01:59,18:01,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:10:30Z,2,02:08,17:52,Blocked Shot,n/a,-79.0,2.0,Justin Holl,Blocker,Toronto Maple Leafs,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:10:59Z,2,02:37,17:23,Missed Shot,n/a,-61.0,-7.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:11:14Z,2,02:52,17:08,Shot,Wrist Shot,-62.0,5.0,Sam Reinhart,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:11:39Z,2,02:53,17:07,Faceoff,n/a,-69.0,22.0,Evan Rodrigues,Winner,Buffalo Sabres,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:12:08Z,2,03:19,16:41,Shot,Wrist Shot,46.0,26.0,Jason Spezza,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:12:58Z,2,03:39,16:21,Faceoff,n/a,20.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:13:21Z,2,03:47,16:13,Faceoff,n/a,-20.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:13:40Z,2,03:53,16:07,Faceoff,n/a,20.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:14:19Z,2,04:17,15:43,Hit,n/a,-57.0,42.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:14:33Z,2,04:31,15:29,Missed Shot,n/a,-50.0,1.0,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:14:49Z,2,04:47,15:13,Blocked Shot,n/a,-71.0,1.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:15:17Z,2,05:13,14:47,Hit,n/a,42.0,-41.0,Brandon Montour,Hitter,Buffalo Sabres,Kasperi Kapanen,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:15:45Z,2,05:41,14:19,Shot,Tip-In,-81.0,-4.0,Curtis Lazar,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:15:45Z,2,05:43,14:17,Shot,Backhand,-85.0,-5.0,Curtis Lazar,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:18:03Z,2,06:01,13:59,Faceoff,n/a,20.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:18:35Z,2,06:21,13:39,Shot,Slap Shot,40.0,30.0,Travis Dermott,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:18:58Z,2,06:22,13:38,Shot,Wrist Shot,78.0,0.0,Auston Matthews,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:19:07Z,2,06:23,13:37,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:19:53Z,2,07:05,12:55,Giveaway,n/a,-49.0,-13.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:19:52Z,2,07:07,12:53,Blocked Shot,n/a,-77.0,-10.0,Zach Hyman,Blocker,Toronto Maple Leafs,Zemgus Girgensons,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:19:59Z,2,07:10,12:50,Shot,Tip-In,-74.0,1.0,Johan Larsson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:20:24Z,2,07:10,12:50,Faceoff,n/a,-69.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:20:54Z,2,07:40,12:20,Hit,n/a,95.0,-28.0,Curtis Lazar,Hitter,Buffalo Sabres,Mason Marchment,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:21:15Z,2,07:43,12:17,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:21:52Z,2,08:14,11:46,Shot,Slap Shot,68.0,-25.0,Auston Matthews,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:21:56Z,2,08:18,11:42,Shot,Wrist Shot,80.0,-6.0,Zach Hyman,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:22:02Z,2,08:24,11:36,Blocked Shot,n/a,76.0,2.0,Jake McCabe,Blocker,Buffalo Sabres,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:22:23Z,2,08:45,11:15,Blocked Shot,n/a,75.0,3.0,Henri Jokiharju,Blocker,Buffalo Sabres,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:23:22Z,2,09:42,10:18,Goal,Tip-In,-77.0,3.0,Conor Sheary,Scorer,Buffalo Sabres,Colin Miller,Assist,Buffalo Sabres,Evan Rodrigues,Assist,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs
+2020-02-17T01:24:15Z,2,09:42,10:18,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:24:25Z,2,10:03,09:57,Takeaway,n/a,7.0,0.0,Victor Olofsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:25:03Z,2,10:43,09:17,Shot,Backhand,-66.0,-6.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:25:36Z,2,11:16,08:44,Missed Shot,n/a,56.0,-18.0,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:25:43Z,2,11:22,08:38,Missed Shot,n/a,70.0,5.0,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:25:54Z,2,11:29,08:31,Goal,Wrist Shot,62.0,-25.0,Egor Korshkov,Scorer,Toronto Maple Leafs,Jason Spezza,Assist,Toronto Maple Leafs,Kyle Clifford,Assist,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres
+2020-02-17T01:26:35Z,2,11:29,08:31,Faceoff,n/a,0.0,0.0,Curtis Lazar,Winner,Buffalo Sabres,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:29:03Z,2,11:43,08:17,Faceoff,n/a,20.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:29:45Z,2,12:17,07:43,Missed Shot,n/a,56.0,1.0,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:30:01Z,2,12:29,07:31,Giveaway,n/a,85.0,31.0,Zach Hyman,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:30:35Z,2,13:07,06:53,Shot,Slap Shot,-42.0,23.0,Marcus Johansson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:30:52Z,2,13:23,06:37,Missed Shot,n/a,-38.0,-2.0,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:31:10Z,2,13:29,06:31,Penalty,Hooking,-81.0,2.0,Travis Dermott,PenaltyOn,Toronto Maple Leafs,Curtis Lazar,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:31:36Z,2,13:29,06:31,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:31:45Z,2,13:33,06:27,Missed Shot,n/a,-37.0,-3.0,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:32:04Z,2,13:33,06:27,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:32:45Z,2,14:16,05:44,Missed Shot,n/a,-36.0,16.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:32:54Z,2,14:24,05:36,Blocked Shot,n/a,-73.0,4.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:33:09Z,2,14:39,05:21,Shot,Wrist Shot,-56.0,25.0,Victor Olofsson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:33:28Z,2,14:59,05:01,Missed Shot,n/a,-36.0,-25.0,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:33:39Z,2,15:08,04:52,Hit,n/a,-93.0,-20.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:33:54Z,2,15:25,04:35,Takeaway,n/a,97.0,8.0,Zach Hyman,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:34:04Z,2,15:33,04:27,Hit,n/a,97.0,7.0,Jack Eichel,Hitter,Buffalo Sabres,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:34:36Z,2,16:03,03:57,Hit,n/a,35.0,-40.0,Colin Miller,Hitter,Buffalo Sabres,Mitchell Marner,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:34:45Z,2,16:16,03:44,Hit,n/a,91.0,36.0,Mitchell Marner,Hitter,Toronto Maple Leafs,Colin Miller,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:35:11Z,2,16:18,03:42,Faceoff,n/a,69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:35:28Z,2,16:29,03:31,Blocked Shot,n/a,78.0,-2.0,Brandon Montour,Blocker,Buffalo Sabres,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:36:30Z,2,17:00,03:00,Missed Shot,n/a,38.0,17.0,Kyle Okposo,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:36:30Z,2,17:00,03:00,Blocked Shot,n/a,58.0,10.0,Brandon Montour,Blocker,Buffalo Sabres,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:36:48Z,2,17:49,02:11,Shot,Backhand,-73.0,0.0,Jake McCabe,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:37:41Z,2,18:37,01:23,Penalty,Tripping,-92.0,22.0,Jake Muzzin,PenaltyOn,Toronto Maple Leafs,Jack Eichel,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:39:49Z,2,18:37,01:23,Faceoff,n/a,-69.0,22.0,Pierre Engvall,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:40:18Z,2,19:07,00:53,Shot,Snap Shot,-80.0,27.0,Victor Olofsson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:40:25Z,2,19:12,00:48,Giveaway,n/a,-86.0,19.0,Pierre Engvall,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:41:05Z,2,19:46,00:14,Giveaway,n/a,-96.0,-16.0,Frederik Andersen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:41:07Z,2,19:55,00:05,Shot,Slap Shot,-55.0,-19.0,Jack Eichel,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T01:59:46Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Zach Hyman,Winner,Toronto Maple Leafs,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:00:24Z,3,00:27,19:33,Hit,n/a,97.0,3.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:00:31Z,3,00:29,19:31,Hit,n/a,93.0,31.0,Jack Eichel,Hitter,Buffalo Sabres,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:00:33Z,3,00:36,19:24,Blocked Shot,n/a,-70.0,1.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:00:38Z,3,00:38,19:22,Shot,Wrist Shot,-78.0,-4.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:01:20Z,3,01:08,18:52,Blocked Shot,n/a,-74.0,-9.0,Jake McCabe,Blocker,Buffalo Sabres,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:01:12Z,3,01:15,18:45,Shot,Slap Shot,-73.0,-7.0,Jake McCabe,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:02:10Z,3,02:11,17:49,Goal,Tip-In,-83.0,-6.0,Zach Hyman,Scorer,Toronto Maple Leafs,Jake Muzzin,Assist,Toronto Maple Leafs,Mitchell Marner,Assist,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres
+2020-02-17T02:02:55Z,3,02:11,17:49,Faceoff,n/a,0.0,0.0,Curtis Lazar,Winner,Buffalo Sabres,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:02:57Z,3,02:21,17:39,Missed Shot,n/a,46.0,-7.0,Marcus Johansson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:03:17Z,3,02:41,17:19,Shot,Wrist Shot,-44.0,18.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:03:43Z,3,03:07,16:53,Shot,Tip-In,-75.0,-1.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:04:11Z,3,03:35,16:25,Shot,Snap Shot,-67.0,21.0,John Tavares,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:04:27Z,3,03:51,16:09,Takeaway,n/a,-47.0,-3.0,Jeff Skinner,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:05:18Z,3,04:43,15:17,Hit,n/a,-78.0,-36.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:05:25Z,3,04:49,15:11,Hit,n/a,-86.0,37.0,Colin Miller,Hitter,Buffalo Sabres,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:06:13Z,3,05:05,14:55,Faceoff,n/a,69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:06:36Z,3,05:12,14:48,Penalty,Tripping,74.0,-1.0,Jake Muzzin,PenaltyOn,Toronto Maple Leafs,Jimmy Vesey,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:06:56Z,3,05:12,14:48,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:07:33Z,3,05:38,14:22,Shot,Wrist Shot,68.0,-16.0,Victor Olofsson,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:07:52Z,3,05:55,14:05,Hit,n/a,47.0,-41.0,Mitchell Marner,Hitter,Toronto Maple Leafs,Victor Olofsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:08:02Z,3,06:06,13:54,Goal,Wrist Shot,68.0,14.0,Jack Eichel,Scorer,Buffalo Sabres,Victor Olofsson,Assist,Buffalo Sabres,Rasmus Ristolainen,Assist,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs
+2020-02-17T02:08:50Z,3,06:06,13:54,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:09:37Z,3,06:55,13:05,Goal,Wrist Shot,75.0,1.0,Kyle Okposo,Scorer,Buffalo Sabres,Johan Larsson,Assist,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a
+2020-02-17T02:10:42Z,3,06:55,13:05,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:11:22Z,3,07:33,12:27,Giveaway,n/a,91.0,-18.0,Zach Hyman,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:10:57Z,3,07:34,12:26,Missed Shot,n/a,61.0,7.0,Curtis Lazar,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:11:03Z,3,07:37,12:23,Goal,Wrist Shot,82.0,-7.0,Jimmy Vesey,Scorer,Buffalo Sabres,Rasmus Ristolainen,Assist,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a
+2020-02-17T02:11:46Z,3,07:37,12:23,Faceoff,n/a,0.0,0.0,Jeff Skinner,Winner,Buffalo Sabres,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:12:09Z,3,07:58,12:02,Shot,Slap Shot,35.0,32.0,Rasmus Dahlin,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:12:15Z,3,08:04,11:56,Shot,Wrist Shot,63.0,2.0,Conor Sheary,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:13:16Z,3,08:57,11:03,Hit,n/a,88.0,21.0,Alexander Kerfoot,Hitter,Toronto Maple Leafs,Jack Eichel,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:13:29Z,3,09:15,10:45,Blocked Shot,n/a,71.0,13.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:15:36Z,3,09:16,10:44,Faceoff,n/a,69.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Pierre Engvall,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:17:30Z,3,10:48,09:12,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:18:22Z,3,11:29,08:31,Hit,n/a,-98.0,1.0,Kyle Clifford,Hitter,Toronto Maple Leafs,Henri Jokiharju,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:18:49Z,3,11:56,08:04,Shot,Slap Shot,-52.0,-31.0,William Nylander,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:19:31Z,3,12:17,07:43,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:20:16Z,3,13:01,06:59,Hit,n/a,98.0,-2.0,Tyson Barrie,Hitter,Toronto Maple Leafs,Marcus Johansson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:20:29Z,3,13:13,06:47,Takeaway,n/a,-90.0,16.0,Jake McCabe,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:20:40Z,3,13:25,06:35,Hit,n/a,-85.0,-35.0,Mitchell Marner,Hitter,Toronto Maple Leafs,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:20:43Z,3,13:27,06:33,Blocked Shot,n/a,-71.0,2.0,Marcus Johansson,Blocker,Buffalo Sabres,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:21:19Z,3,14:03,05:57,Giveaway,n/a,73.0,38.0,Johan Larsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:21:32Z,3,14:16,05:44,Takeaway,n/a,-27.0,28.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:21:42Z,3,14:27,05:33,Blocked Shot,n/a,75.0,0.0,Justin Holl,Blocker,Toronto Maple Leafs,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:22:06Z,3,14:50,05:10,Shot,Slap Shot,-60.0,30.0,Kyle Clifford,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:22:13Z,3,14:58,05:02,Takeaway,n/a,-34.0,-29.0,Egor Korshkov,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:22:57Z,3,15:11,04:49,Faceoff,n/a,-69.0,-22.0,Evan Rodrigues,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:25:14Z,3,15:16,04:44,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:25:22Z,3,15:26,04:34,Shot,Wrist Shot,73.0,1.0,Curtis Lazar,Shooter,Buffalo Sabres,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:25:32Z,3,15:36,04:24,Missed Shot,n/a,31.0,37.0,Jake McCabe,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:25:39Z,3,15:43,04:17,Hit,n/a,88.0,-34.0,Rasmus Sandin,Hitter,Toronto Maple Leafs,Jimmy Vesey,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:26:38Z,3,16:40,03:20,Shot,Wrist Shot,-76.0,-1.0,Zach Hyman,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:26:47Z,3,16:41,03:19,Shot,Wrist Shot,-85.0,8.0,Auston Matthews,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:27:16Z,3,16:42,03:18,Penalty,Roughing,-79.0,5.0,Rasmus Ristolainen,PenaltyOn,Buffalo Sabres,Zach Hyman,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:28:54Z,3,16:42,03:18,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:29:02Z,3,16:49,03:11,Takeaway,n/a,-84.0,-28.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:29:26Z,3,17:14,02:46,Blocked Shot,n/a,-72.0,15.0,Jake McCabe,Blocker,Buffalo Sabres,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:29:45Z,3,17:32,02:28,Takeaway,n/a,-3.0,27.0,Johan Larsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:30:05Z,3,17:50,02:10,Giveaway,n/a,-97.0,-1.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:30:31Z,3,17:52,02:08,Faceoff,n/a,-69.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:30:49Z,3,18:01,01:59,Shot,Wrist Shot,-35.0,26.0,Jason Spezza,Shooter,Toronto Maple Leafs,Carter Hutton,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:31:00Z,3,18:02,01:58,Faceoff,n/a,-69.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:31:22Z,3,18:14,01:46,Blocked Shot,n/a,-60.0,-1.0,Zemgus Girgensons,Blocker,Buffalo Sabres,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:31:32Z,3,18:24,01:36,Missed Shot,n/a,-56.0,29.0,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-17T02:32:40Z,3,19:30,00:30,Giveaway,n/a,-72.0,31.0,Mason Marchment,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

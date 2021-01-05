@@ -1,0 +1,248 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-15T21:13:22Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Nick Bonino,Winner,Nashville Predators,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:10:58Z,1,00:07,19:53,Faceoff,n/a,20.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:11:27Z,1,00:31,19:29,Shot,Wrist Shot,-65.0,-10.0,Rocco Grimaldi,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:11:57Z,1,00:33,19:27,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:12:05Z,1,00:37,19:23,Shot,Wrist Shot,-58.0,-10.0,Filip Forsberg,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:12:14Z,1,00:46,19:14,Hit,n/a,-58.0,41.0,Zach Sanford,Hitter,St. Louis Blues,Mattias Ekholm,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:12:32Z,1,01:04,18:56,Hit,n/a,73.0,40.0,Zach Sanford,Hitter,St. Louis Blues,Mattias Ekholm,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:13:16Z,1,01:48,18:12,Takeaway,n/a,62.0,42.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:13:21Z,1,01:51,18:09,Blocked Shot,n/a,73.0,7.0,Dan Hamhuis,Blocker,Nashville Predators,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:13:26Z,1,01:58,18:02,Missed Shot,n/a,68.0,20.0,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:13:59Z,1,02:31,17:29,Giveaway,n/a,88.0,-37.0,Sammy Blais,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:14:05Z,1,02:35,17:25,Blocked Shot,n/a,-68.0,14.0,Carl Gunnarsson,Blocker,St. Louis Blues,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:14:04Z,1,02:36,17:24,Hit,n/a,36.0,-41.0,Ivan Barbashev,Hitter,St. Louis Blues,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:14:28Z,1,02:37,17:23,Faceoff,n/a,-69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:14:57Z,1,03:00,17:00,Takeaway,n/a,8.0,-27.0,Mikael Granlund,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:15:19Z,1,03:16,16:44,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:15:37Z,1,03:20,16:40,Shot,Slap Shot,-38.0,2.0,Mattias Ekholm,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:15:46Z,1,03:30,16:30,Blocked Shot,n/a,-56.0,18.0,Alexander Steen,Blocker,St. Louis Blues,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:15:56Z,1,03:36,16:24,Shot,Wrist Shot,-74.0,8.0,Rocco Grimaldi,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:16:26Z,1,04:09,15:51,Takeaway,n/a,32.0,-23.0,Mackenzie MacEachern,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:16:58Z,1,04:12,15:48,Faceoff,n/a,0.0,0.0,Brayden Schenn,Winner,St. Louis Blues,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:17:05Z,1,04:24,15:36,Hit,n/a,-22.0,-41.0,Colton Parayko,Hitter,St. Louis Blues,Kyle Turris,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:17:12Z,1,04:31,15:29,Missed Shot,n/a,-69.0,-7.0,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:17:20Z,1,04:39,15:21,Shot,Wrist Shot,0.0,0.0,Dan Hamhuis,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:17:34Z,1,04:51,15:09,Blocked Shot,n/a,-75.0,7.0,Brayden Schenn,Blocker,St. Louis Blues,Dante Fabbro,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:17:43Z,1,04:54,15:06,Penalty,Fighting,-82.0,-2.0,Brayden Schenn,PenaltyOn,St. Louis Blues,Filip Forsberg,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:17:57Z,1,04:54,15:06,Penalty,Fighting,-79.0,-4.0,Filip Forsberg,PenaltyOn,Nashville Predators,Brayden Schenn,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:18:48Z,1,04:54,15:06,Faceoff,n/a,-69.0,22.0,Colton Sissons,Winner,Nashville Predators,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:19:01Z,1,05:03,14:57,Hit,n/a,-17.0,-41.0,Zach Sanford,Hitter,St. Louis Blues,Austin Watson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:19:25Z,1,05:27,14:33,Hit,n/a,85.0,36.0,David Perron,Hitter,St. Louis Blues,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:19:30Z,1,05:31,14:29,Shot,Snap Shot,-48.0,-22.0,Calle Jarnkrok,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:20:08Z,1,05:33,14:27,Faceoff,n/a,-69.0,-22.0,Tyler Bozak,Winner,St. Louis Blues,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:20:10Z,1,05:39,14:21,Giveaway,n/a,-86.0,-24.0,Justin Faulk,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:20:12Z,1,05:41,14:19,Missed Shot,n/a,-62.0,35.0,Mikael Granlund,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:20:31Z,1,05:45,14:15,Hit,n/a,-63.0,-42.0,Sammy Blais,Hitter,St. Louis Blues,Jarred Tinordi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:20:42Z,1,05:57,14:03,Faceoff,n/a,-69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:21:25Z,1,06:25,13:35,Hit,n/a,-73.0,41.0,Ivan Barbashev,Hitter,St. Louis Blues,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:21:32Z,1,06:29,13:31,Goal,Slap Shot,-71.0,21.0,Viktor Arvidsson,Scorer,Nashville Predators,Mikael Granlund,Assist,Nashville Predators,Ryan Johansen,Assist,Nashville Predators,Jake Allen,Goalie,St. Louis Blues
+2020-02-15T20:22:19Z,1,06:29,13:31,Faceoff,n/a,0.0,0.0,Nick Bonino,Winner,Nashville Predators,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:23:04Z,1,07:17,12:43,Hit,n/a,19.0,-41.0,Colton Parayko,Hitter,St. Louis Blues,Nick Bonino,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:23:11Z,1,07:20,12:40,Faceoff,n/a,69.0,22.0,Nick Bonino,Winner,Nashville Predators,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:23:59Z,1,07:51,12:09,Hit,n/a,-40.0,40.0,Carl Gunnarsson,Hitter,St. Louis Blues,Kyle Turris,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:24:20Z,1,08:11,11:49,Blocked Shot,n/a,-79.0,14.0,Justin Faulk,Blocker,St. Louis Blues,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:26:12Z,1,08:12,11:48,Faceoff,n/a,-69.0,22.0,Tyler Bozak,Winner,St. Louis Blues,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:26:59Z,1,08:19,11:41,Faceoff,n/a,-69.0,22.0,Tyler Bozak,Winner,St. Louis Blues,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:27:27Z,1,08:26,11:34,Shot,Slap Shot,-75.0,-24.0,Alex Pietrangelo,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:27:39Z,1,08:28,11:32,Faceoff,n/a,69.0,-22.0,Ivan Barbashev,Winner,St. Louis Blues,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:28:05Z,1,08:33,11:27,Missed Shot,n/a,43.0,22.0,Justin Faulk,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:28:55Z,1,08:57,11:03,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:29:19Z,1,08:59,11:01,Penalty,Fighting,28.0,3.0,Robert Bortuzzo,PenaltyOn,St. Louis Blues,Jarred Tinordi,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:29:36Z,1,08:59,11:01,Penalty,Fighting,31.0,-9.0,Jarred Tinordi,PenaltyOn,Nashville Predators,Robert Bortuzzo,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:32:38Z,1,08:59,11:01,Faceoff,n/a,69.0,22.0,Colton Sissons,Winner,Nashville Predators,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:33:34Z,1,09:40,10:20,Hit,n/a,61.0,39.0,Dante Fabbro,Hitter,Nashville Predators,Zach Sanford,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:33:30Z,1,09:44,10:16,Missed Shot,n/a,-61.0,35.0,Colton Sissons,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:34:15Z,1,10:29,09:31,Hit,n/a,92.0,-31.0,Roman Josi,Hitter,Nashville Predators,Alexander Steen,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:34:23Z,1,10:36,09:24,Takeaway,n/a,53.0,-39.0,Robert Thomas,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:34:37Z,1,10:50,09:10,Hit,n/a,78.0,39.0,Matt Duchene,Hitter,Nashville Predators,Alex Pietrangelo,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:34:39Z,1,10:53,09:07,Shot,Wrist Shot,-49.0,-20.0,Roman Josi,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:34:54Z,1,11:08,08:52,Hit,n/a,89.0,34.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:38:00Z,1,11:46,08:14,Faceoff,n/a,-20.0,22.0,Brayden Schenn,Winner,St. Louis Blues,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:38:05Z,1,12:00,08:00,Shot,Wrist Shot,70.0,-11.0,Tyler Bozak,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:38:51Z,1,12:02,07:58,Faceoff,n/a,69.0,-22.0,Tyler Bozak,Winner,St. Louis Blues,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:38:46Z,1,12:06,07:54,Shot,Slap Shot,34.0,-29.0,Alex Pietrangelo,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:39:05Z,1,12:23,07:37,Goal,Wrist Shot,-70.0,-21.0,Matt Duchene,Scorer,Nashville Predators,Filip Forsberg,Assist,Nashville Predators,Kyle Turris,Assist,Nashville Predators,Jake Allen,Goalie,St. Louis Blues
+2020-02-15T20:39:51Z,1,12:23,07:37,Faceoff,n/a,0.0,0.0,Ryan O'Reilly,Winner,St. Louis Blues,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:40:04Z,1,12:29,07:31,Hit,n/a,-17.0,42.0,Roman Josi,Hitter,Nashville Predators,David Perron,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:40:14Z,1,12:31,07:29,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:41:00Z,1,12:50,07:10,Shot,Wrist Shot,-3.0,-23.0,Colton Parayko,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:41:48Z,1,13:38,06:22,Shot,Slap Shot,-38.0,-15.0,Dan Hamhuis,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:41:49Z,1,13:38,06:22,Hit,n/a,-50.0,-40.0,Sammy Blais,Hitter,St. Louis Blues,Calle Jarnkrok,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:41:55Z,1,13:44,06:16,Hit,n/a,-92.0,-30.0,Alex Pietrangelo,Hitter,St. Louis Blues,Calle Jarnkrok,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:42:28Z,1,13:58,06:02,Faceoff,n/a,-69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:42:38Z,1,14:04,05:56,Missed Shot,n/a,-51.0,21.0,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:42:46Z,1,14:11,05:49,Shot,Wrist Shot,-82.0,-9.0,Ryan Johansen,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:43:10Z,1,14:35,05:25,Hit,n/a,-99.0,-18.0,Mikael Granlund,Hitter,Nashville Predators,Carl Gunnarsson,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:43:19Z,1,14:44,05:16,Hit,n/a,91.0,-32.0,Dante Fabbro,Hitter,Nashville Predators,Jaden Schwartz,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:43:40Z,1,15:05,04:55,Shot,Wrist Shot,65.0,-28.0,Jordan Kyrou,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:43:50Z,1,15:13,04:47,Penalty,Slashing,61.0,39.0,Matt Duchene,PenaltyOn,Nashville Predators,Robert Thomas,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:45:37Z,1,15:13,04:47,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:46:14Z,1,15:20,04:40,Shot,Slap Shot,38.0,-1.0,Alex Pietrangelo,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:46:24Z,1,15:21,04:39,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:46:56Z,1,15:39,04:21,Giveaway,n/a,35.0,-37.0,David Perron,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:47:52Z,1,16:33,03:27,Hit,n/a,98.0,11.0,Colton Parayko,Hitter,St. Louis Blues,Jarred Tinordi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:48:07Z,1,16:34,03:26,Faceoff,n/a,69.0,22.0,Robert Thomas,Winner,St. Louis Blues,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:48:34Z,1,16:39,03:21,Shot,Slap Shot,65.0,-25.0,Tyler Bozak,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:48:43Z,1,16:41,03:19,Faceoff,n/a,69.0,-22.0,Robert Thomas,Winner,St. Louis Blues,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:49:21Z,1,16:52,03:08,Missed Shot,n/a,74.0,-3.0,Zach Sanford,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:49:36Z,1,17:09,02:51,Missed Shot,n/a,72.0,-19.0,Zach Sanford,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:50:02Z,1,17:34,02:26,Penalty,Slashing,95.0,4.0,Zach Sanford,PenaltyOn,St. Louis Blues,Matt Duchene,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:51:16Z,1,17:34,02:26,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:51:06Z,1,17:53,02:07,Hit,n/a,-31.0,-39.0,Robert Bortuzzo,Hitter,St. Louis Blues,Filip Forsberg,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:51:33Z,1,18:00,02:00,Faceoff,n/a,-69.0,-22.0,Mikael Granlund,Winner,Nashville Predators,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:51:55Z,1,18:14,01:46,Shot,Wrist Shot,-66.0,22.0,Filip Forsberg,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:52:07Z,1,18:26,01:34,Blocked Shot,n/a,-52.0,-3.0,Ryan O'Reilly,Blocker,St. Louis Blues,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:52:24Z,1,18:44,01:16,Shot,Slap Shot,-43.0,-30.0,Kyle Turris,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:52:44Z,1,19:02,00:58,Shot,Wrist Shot,-75.0,-6.0,Ryan Johansen,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:52:56Z,1,19:14,00:46,Blocked Shot,n/a,-66.0,1.0,Ivan Barbashev,Blocker,St. Louis Blues,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:53:05Z,1,19:23,00:37,Hit,n/a,-97.0,1.0,Alex Pietrangelo,Hitter,St. Louis Blues,Calle Jarnkrok,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:53:09Z,1,19:28,00:32,Takeaway,n/a,-78.0,1.0,Ivan Barbashev,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:53:37Z,1,19:50,00:10,Penalty,Tripping,-28.0,0.0,David Perron,PenaltyOn,St. Louis Blues,Filip Forsberg,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:54:16Z,1,19:50,00:10,Faceoff,n/a,-69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:54:23Z,1,19:56,00:04,Blocked Shot,n/a,-56.0,9.0,Ryan O'Reilly,Blocker,St. Louis Blues,Nick Bonino,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:54:33Z,1,19:58,00:02,Shot,Wrist Shot,-67.0,21.0,Matt Duchene,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T20:54:53Z,1,19:59,00:01,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:13:45Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:15:08Z,2,01:33,18:27,Shot,Wrist Shot,66.0,-10.0,Mikael Granlund,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:15:46Z,2,01:59,18:01,Penalty,Hi-sticking,-1.0,-33.0,Craig Smith,PenaltyOn,Nashville Predators,Jaden Schwartz,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:16:25Z,2,01:59,18:01,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:16:21Z,2,02:07,17:53,Blocked Shot,n/a,-74.0,-10.0,Mattias Ekholm,Blocker,Nashville Predators,Brayden Schenn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:16:37Z,2,02:22,17:38,Shot,Wrist Shot,-64.0,21.0,David Perron,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:16:44Z,2,02:23,17:37,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:17:00Z,2,02:26,17:34,Shot,Wrist Shot,-51.0,0.0,Brayden Schenn,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:17:06Z,2,02:27,17:33,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:17:56Z,2,02:41,17:19,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Calle Jarnkrok,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:18:55Z,2,03:00,17:00,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:19:29Z,2,03:34,16:26,Giveaway,n/a,-37.0,26.0,Alex Pietrangelo,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:19:49Z,2,03:38,16:22,Faceoff,n/a,69.0,22.0,Tyler Bozak,Winner,St. Louis Blues,Mikael Granlund,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:20:36Z,2,04:13,15:47,Goal,Wrist Shot,-67.0,16.0,Zach Sanford,Scorer,St. Louis Blues,Sammy Blais,Assist,St. Louis Blues,Robert Thomas,Assist,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators
+2020-02-15T21:21:25Z,2,04:13,15:47,Faceoff,n/a,0.0,0.0,Ivan Barbashev,Winner,St. Louis Blues,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:21:27Z,2,04:20,15:40,Faceoff,n/a,69.0,22.0,Matt Duchene,Winner,Nashville Predators,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:21:50Z,2,04:25,15:35,Blocked Shot,n/a,70.0,7.0,Ivan Barbashev,Blocker,St. Louis Blues,Dan Hamhuis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:22:03Z,2,04:34,15:26,Goal,Wrist Shot,56.0,7.0,Kyle Turris,Scorer,Nashville Predators,Matt Duchene,Assist,Nashville Predators,Dan Hamhuis,Assist,Nashville Predators,Jake Allen,Goalie,St. Louis Blues
+2020-02-15T21:22:41Z,2,04:34,15:26,Faceoff,n/a,0.0,0.0,Ryan O'Reilly,Winner,St. Louis Blues,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:23:17Z,2,05:07,14:53,Hit,n/a,5.0,-41.0,Mikael Granlund,Hitter,Nashville Predators,David Perron,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:23:39Z,2,05:29,14:31,Blocked Shot,n/a,-48.0,19.0,Viktor Arvidsson,Blocker,Nashville Predators,Robert Bortuzzo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:23:53Z,2,05:42,14:18,Takeaway,n/a,30.0,2.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:24:08Z,2,05:46,14:14,Penalty,Tripping,-14.0,38.0,Ryan Johansen,PenaltyOn,Nashville Predators,Jaden Schwartz,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:24:31Z,2,05:46,14:14,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:24:48Z,2,05:56,14:04,Missed Shot,n/a,-37.0,3.0,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:25:02Z,2,06:10,13:50,Missed Shot,n/a,-68.0,-13.0,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:25:13Z,2,06:18,13:42,Goal,Wrist Shot,-79.0,3.0,Jaden Schwartz,Scorer,St. Louis Blues,Brayden Schenn,Assist,St. Louis Blues,David Perron,Assist,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators
+2020-02-15T21:26:27Z,2,06:18,13:42,Faceoff,n/a,0.0,0.0,Colton Sissons,Winner,Nashville Predators,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:26:27Z,2,06:37,13:23,Takeaway,n/a,-75.0,28.0,Yannick Weber,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:29:01Z,2,06:55,13:05,Faceoff,n/a,-20.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:29:57Z,2,07:57,12:03,Shot,Backhand,78.0,10.0,Filip Forsberg,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:30:01Z,2,08:02,11:58,Takeaway,n/a,62.0,32.0,Kyle Turris,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:30:05Z,2,08:05,11:55,Takeaway,n/a,56.0,12.0,Alex Pietrangelo,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:30:31Z,2,08:10,11:50,Faceoff,n/a,-20.0,-22.0,Brayden Schenn,Winner,St. Louis Blues,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:30:57Z,2,08:21,11:39,Faceoff,n/a,69.0,22.0,Matt Duchene,Winner,Nashville Predators,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:31:18Z,2,08:26,11:34,Shot,Wrist Shot,49.0,29.0,Yannick Weber,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:31:29Z,2,08:37,11:23,Hit,n/a,80.0,-38.0,Tyler Bozak,Hitter,St. Louis Blues,Filip Forsberg,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:31:32Z,2,08:40,11:20,Shot,Wrist Shot,66.0,1.0,Kyle Turris,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:32:06Z,2,08:41,11:19,Faceoff,n/a,69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:32:24Z,2,08:58,11:02,Hit,n/a,-47.0,40.0,Zach Sanford,Hitter,St. Louis Blues,Dan Hamhuis,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:33:30Z,2,10:03,09:57,Hit,n/a,-63.0,41.0,Sammy Blais,Hitter,St. Louis Blues,Calle Jarnkrok,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:33:56Z,2,10:30,09:30,Missed Shot,n/a,-51.0,8.0,Carl Gunnarsson,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:33:57Z,2,10:30,09:30,Giveaway,n/a,-94.0,-16.0,Jarred Tinordi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:34:19Z,2,10:50,09:10,Goal,Wrist Shot,-86.0,1.0,Alexander Steen,Scorer,St. Louis Blues,Jordan Kyrou,Assist,St. Louis Blues,Tyler Bozak,Assist,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators
+2020-02-15T21:35:19Z,2,10:50,09:10,Faceoff,n/a,0.0,0.0,Matt Duchene,Winner,Nashville Predators,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:35:38Z,2,10:59,09:01,Hit,n/a,-39.0,-41.0,Brayden Schenn,Hitter,St. Louis Blues,Yannick Weber,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:36:10Z,2,11:25,08:35,Blocked Shot,n/a,-74.0,-2.0,Roman Josi,Blocker,Nashville Predators,Justin Faulk,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:36:43Z,2,12:04,07:56,Missed Shot,n/a,67.0,2.0,Nick Bonino,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:36:55Z,2,12:16,07:44,Giveaway,n/a,64.0,39.0,David Perron,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:37:36Z,2,12:56,07:04,Blocked Shot,n/a,70.0,12.0,Robert Bortuzzo,Blocker,St. Louis Blues,Dante Fabbro,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:37:43Z,2,13:04,06:56,Hit,n/a,62.0,-41.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Ryan Johansen,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:40:15Z,2,13:16,06:44,Faceoff,n/a,20.0,22.0,Tyler Bozak,Winner,St. Louis Blues,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:40:27Z,2,13:26,06:34,Shot,Wrist Shot,64.0,24.0,Kyle Turris,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:41:19Z,2,14:19,05:41,Hit,n/a,-96.0,-27.0,Filip Forsberg,Hitter,Nashville Predators,Carl Gunnarsson,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:41:50Z,2,14:50,05:10,Missed Shot,n/a,80.0,27.0,Austin Watson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:41:58Z,2,14:58,05:02,Hit,n/a,-68.0,-40.0,Jarred Tinordi,Hitter,Nashville Predators,Mackenzie MacEachern,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:42:04Z,2,15:03,04:57,Hit,n/a,-97.0,-2.0,Brayden Schenn,Hitter,St. Louis Blues,Mattias Ekholm,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:42:12Z,2,15:12,04:48,Hit,n/a,-66.0,39.0,Alex Pietrangelo,Hitter,St. Louis Blues,Austin Watson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:42:18Z,2,15:17,04:43,Shot,Slap Shot,-39.0,22.0,Alex Pietrangelo,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:44:45Z,2,15:18,04:42,Faceoff,n/a,-69.0,22.0,Nick Bonino,Winner,Nashville Predators,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:45:27Z,2,16:02,03:58,Shot,Slap Shot,-37.0,-12.0,Justin Faulk,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:45:35Z,2,16:10,03:50,Shot,Slap Shot,-41.0,24.0,Alex Pietrangelo,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:45:59Z,2,16:34,03:26,Hit,n/a,-95.0,25.0,Jarred Tinordi,Hitter,Nashville Predators,Brayden Schenn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:46:03Z,2,16:39,03:21,Blocked Shot,n/a,-49.0,12.0,Nick Bonino,Blocker,Nashville Predators,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:46:40Z,2,17:15,02:45,Shot,Slap Shot,37.0,-12.0,Yannick Weber,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:47:21Z,2,17:16,02:44,Faceoff,n/a,69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:47:42Z,2,17:38,02:22,Penalty,Holding,30.0,-31.0,Roman Josi,PenaltyOn,Nashville Predators,Carl Gunnarsson,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:48:17Z,2,17:38,02:22,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:48:40Z,2,17:55,02:05,Shot,Tip-In,-65.0,3.0,Ryan O'Reilly,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:48:46Z,2,18:01,01:59,Missed Shot,n/a,-50.0,-27.0,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:48:57Z,2,18:12,01:48,Blocked Shot,n/a,-59.0,-8.0,Colton Sissons,Blocker,Nashville Predators,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:50:10Z,2,19:24,00:36,Shot,Slap Shot,-48.0,-20.0,Colton Parayko,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:50:15Z,2,19:29,00:31,Hit,n/a,-50.0,-23.0,Colton Parayko,Hitter,St. Louis Blues,Kyle Turris,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T21:50:46Z,2,20:00,00:00,Hit,n/a,-96.0,-16.0,Brayden Schenn,Hitter,St. Louis Blues,Dan Hamhuis,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:09:38Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Nick Bonino,Winner,Nashville Predators,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:10:02Z,3,00:14,19:46,Faceoff,n/a,69.0,-22.0,Tyler Bozak,Winner,St. Louis Blues,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:10:41Z,3,00:35,19:25,Shot,Wrist Shot,-64.0,-5.0,Roman Josi,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:10:59Z,3,00:36,19:24,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:12:17Z,3,01:32,18:28,Faceoff,n/a,69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:12:41Z,3,01:51,18:09,Hit,n/a,98.0,12.0,Mackenzie MacEachern,Hitter,St. Louis Blues,Dan Hamhuis,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:12:56Z,3,02:04,17:56,Missed Shot,n/a,58.0,2.0,Alexander Steen,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:13:23Z,3,02:33,17:27,Shot,Wrist Shot,63.0,2.0,Vince Dunn,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:14:11Z,3,02:36,17:24,Faceoff,n/a,69.0,-22.0,Colton Sissons,Winner,Nashville Predators,Jordan Kyrou,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:15:12Z,3,03:00,17:00,Hit,n/a,-96.0,-7.0,Austin Watson,Hitter,Nashville Predators,Sammy Blais,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:15:05Z,3,03:08,16:52,Blocked Shot,n/a,64.0,-14.0,Roman Josi,Blocker,Nashville Predators,Jordan Kyrou,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:15:57Z,3,03:42,16:18,Penalty,Holding,-64.0,3.0,Carl Gunnarsson,PenaltyOn,St. Louis Blues,Mattias Ekholm,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:16:40Z,3,03:42,16:18,Faceoff,n/a,-69.0,-22.0,Mikael Granlund,Winner,Nashville Predators,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:16:38Z,3,03:52,16:08,Missed Shot,n/a,-69.0,0.0,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:16:44Z,3,03:58,16:02,Shot,Slap Shot,-37.0,-1.0,Roman Josi,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:16:51Z,3,03:59,16:01,Goal,Backhand,-77.0,-4.0,Mikael Granlund,Scorer,Nashville Predators,Roman Josi,Assist,Nashville Predators,Kyle Turris,Assist,Nashville Predators,Jake Allen,Goalie,St. Louis Blues
+2020-02-15T22:17:40Z,3,03:59,16:01,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:18:31Z,3,04:47,15:13,Takeaway,n/a,-97.0,-6.0,Ryan Johansen,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:18:34Z,3,04:50,15:10,Shot,Slap Shot,-42.0,25.0,Dante Fabbro,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:19:07Z,3,05:02,14:58,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:19:29Z,3,05:08,14:52,Penalty,Hi-sticking,71.0,-38.0,Brayden Schenn,PenaltyOn,St. Louis Blues,Rocco Grimaldi,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:20:10Z,3,05:08,14:52,Faceoff,n/a,-69.0,-22.0,Tyler Bozak,Winner,St. Louis Blues,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:20:55Z,3,05:37,14:23,Missed Shot,n/a,-63.0,-2.0,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:21:27Z,3,06:09,13:51,Shot,Wrist Shot,-59.0,30.0,Mikael Granlund,Shooter,Nashville Predators,Jake Allen,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:22:21Z,3,07:03,12:57,Blocked Shot,n/a,-71.0,-8.0,Carl Gunnarsson,Blocker,St. Louis Blues,Nick Bonino,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:22:54Z,3,07:36,12:24,Hit,n/a,-59.0,-41.0,Brayden Schenn,Hitter,St. Louis Blues,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:23:05Z,3,07:47,12:13,Hit,n/a,39.0,-41.0,Roman Josi,Hitter,Nashville Predators,Jaden Schwartz,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:23:11Z,3,07:53,12:07,Shot,Wrist Shot,78.0,-2.0,Brayden Schenn,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:24:07Z,3,08:49,11:11,Blocked Shot,n/a,72.0,2.0,Calle Jarnkrok,Blocker,Nashville Predators,Jordan Kyrou,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:24:16Z,3,08:58,11:02,Hit,n/a,76.0,39.0,Sammy Blais,Hitter,St. Louis Blues,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:24:59Z,3,09:06,10:54,Penalty,Roughing,-20.0,39.0,Sammy Blais,PenaltyOn,St. Louis Blues,Calle Jarnkrok,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:25:14Z,3,09:06,10:54,Penalty,Roughing,-32.0,41.0,Calle Jarnkrok,PenaltyOn,Nashville Predators,Sammy Blais,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:27:19Z,3,09:06,10:54,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:27:24Z,3,09:34,10:26,Blocked Shot,n/a,-72.0,9.0,Vince Dunn,Blocker,St. Louis Blues,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:27:25Z,3,09:36,10:24,Hit,n/a,-66.0,41.0,Alex Pietrangelo,Hitter,St. Louis Blues,Filip Forsberg,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:27:55Z,3,09:37,10:23,Faceoff,n/a,-69.0,-22.0,Mikael Granlund,Winner,Nashville Predators,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:28:30Z,3,10:05,09:55,Hit,n/a,-91.0,-34.0,Colton Parayko,Hitter,St. Louis Blues,Kyle Turris,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:28:37Z,3,10:12,09:48,Missed Shot,n/a,63.0,14.0,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:29:46Z,3,11:20,08:40,Hit,n/a,-96.0,16.0,Justin Faulk,Hitter,St. Louis Blues,Matt Duchene,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:32:20Z,3,12:02,07:58,Faceoff,n/a,-20.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:33:00Z,3,12:20,07:40,Hit,n/a,-72.0,-40.0,Robert Bortuzzo,Hitter,St. Louis Blues,Nick Bonino,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:33:08Z,3,12:28,07:32,Hit,n/a,-78.0,39.0,Zach Sanford,Hitter,St. Louis Blues,Yannick Weber,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:33:42Z,3,13:02,06:58,Shot,Slap Shot,67.0,35.0,David Perron,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:34:17Z,3,13:03,06:57,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Brayden Schenn,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:35:06Z,3,13:47,06:13,Shot,Tip-In,78.0,-9.0,Alex Pietrangelo,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:35:39Z,3,13:48,06:12,Faceoff,n/a,69.0,-22.0,Tyler Bozak,Winner,St. Louis Blues,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:36:14Z,3,14:26,05:34,Hit,n/a,67.0,-41.0,Sammy Blais,Hitter,St. Louis Blues,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:36:25Z,3,14:37,05:23,Hit,n/a,33.0,-40.0,Filip Forsberg,Hitter,Nashville Predators,Jordan Kyrou,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:36:34Z,3,14:47,05:13,Takeaway,n/a,29.0,-36.0,Filip Forsberg,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:36:48Z,3,15:00,05:00,Shot,Backhand,79.0,16.0,Colton Parayko,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:37:05Z,3,15:17,04:43,Shot,Wrist Shot,57.0,21.0,Carl Gunnarsson,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:37:09Z,3,15:22,04:38,Shot,Wrap-around,88.0,-5.0,Jaden Schwartz,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:37:14Z,3,15:27,04:33,Missed Shot,n/a,73.0,-17.0,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:38:06Z,3,16:18,03:42,Giveaway,n/a,51.0,37.0,Alex Pietrangelo,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:38:11Z,3,16:24,03:36,Takeaway,n/a,-22.0,-38.0,Rocco Grimaldi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:38:20Z,3,16:33,03:27,Hit,n/a,-83.0,-6.0,Alex Pietrangelo,Hitter,St. Louis Blues,Ryan Johansen,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:38:58Z,3,17:11,02:49,Missed Shot,n/a,38.0,-19.0,Colton Parayko,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:39:21Z,3,17:34,02:26,Giveaway,n/a,59.0,-28.0,Roman Josi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:39:39Z,3,17:51,02:09,Takeaway,n/a,81.0,38.0,Roman Josi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:39:40Z,3,17:53,02:07,Blocked Shot,n/a,55.0,-17.0,Austin Watson,Blocker,Nashville Predators,Colton Parayko,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:40:14Z,3,18:26,01:34,Blocked Shot,n/a,52.0,19.0,Nick Bonino,Blocker,Nashville Predators,Carl Gunnarsson,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:40:37Z,3,18:49,01:11,Shot,Wrist Shot,61.0,-25.0,Alex Pietrangelo,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:42:10Z,3,18:54,01:06,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:42:21Z,3,18:58,01:02,Shot,Wrist Shot,36.0,-11.0,Alex Pietrangelo,Shooter,St. Louis Blues,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:42:56Z,3,18:59,01:01,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:43:25Z,3,19:34,00:26,Missed Shot,n/a,73.0,-4.0,Zach Sanford,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:43:35Z,3,19:44,00:16,Missed Shot,n/a,-19.0,33.0,Mikael Granlund,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:43:44Z,3,19:53,00:07,Blocked Shot,n/a,74.0,7.0,Mattias Ekholm,Blocker,Nashville Predators,Zach Sanford,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-15T22:43:48Z,3,19:57,00:03,Hit,n/a,97.0,22.0,Alex Pietrangelo,Hitter,St. Louis Blues,Mattias Ekholm,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a

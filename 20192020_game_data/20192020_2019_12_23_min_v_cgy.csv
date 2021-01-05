@@ -1,0 +1,226 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-23T22:08:03Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Joel Eriksson Ek,Winner,Minnesota Wild,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:08:36Z,1,00:19,19:41,Shot,Slap Shot,38.0,32.0,Milan Lucic,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:08:53Z,1,00:20,19:40,Faceoff,n/a,69.0,22.0,Eric Staal,Winner,Minnesota Wild,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:09:12Z,1,00:29,19:31,Giveaway,n/a,97.0,10.0,Zach Parise,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:09:48Z,1,01:03,18:57,Blocked Shot,n/a,-57.0,-22.0,TJ Brodie,Blocker,Calgary Flames,Mats Zuccarello,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:10:06Z,1,01:05,18:55,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Nico Sturm,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:10:28Z,1,01:23,18:37,Shot,Wrist Shot,-72.0,7.0,Luke Kunin,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:10:34Z,1,01:30,18:30,Blocked Shot,n/a,-78.0,11.0,Michael Stone,Blocker,Calgary Flames,Luke Kunin,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:10:47Z,1,01:40,18:20,Giveaway,n/a,-58.0,-31.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:10:55Z,1,01:50,18:10,Missed Shot,n/a,-72.0,-30.0,Carson Soucy,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:11:19Z,1,02:15,17:45,Missed Shot,n/a,-30.0,-35.0,Brad Hunt,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:11:29Z,1,02:24,17:36,Hit,n/a,-65.0,40.0,Tobias Rieder,Hitter,Calgary Flames,Ryan Hartman,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:11:37Z,1,02:32,17:28,Shot,Slap Shot,-32.0,6.0,Matt Dumba,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:11:41Z,1,02:36,17:24,Blocked Shot,n/a,-78.0,-2.0,Noah Hanifin,Blocker,Calgary Flames,Marcus Foligno,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:12:04Z,1,02:59,17:01,Hit,n/a,-81.0,38.0,Zac Rinaldo,Hitter,Calgary Flames,Jonas Brodin,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:12:27Z,1,03:21,16:39,Takeaway,n/a,-63.0,-27.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:12:33Z,1,03:28,16:32,Blocked Shot,n/a,62.0,-26.0,Jonas Brodin,Blocker,Minnesota Wild,Derek Ryan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:12:46Z,1,03:41,16:19,Shot,Wrist Shot,-78.0,-27.0,Kevin Fiala,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:13:09Z,1,04:02,15:58,Shot,Slap Shot,-39.0,25.0,Jared Spurgeon,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:13:34Z,1,04:28,15:32,Giveaway,n/a,-52.0,-3.0,Zach Parise,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:13:40Z,1,04:32,15:28,Missed Shot,n/a,55.0,-20.0,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:14:24Z,1,04:33,15:27,Faceoff,n/a,69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Nico Sturm,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:14:52Z,1,05:02,14:58,Shot,Wrist Shot,47.0,38.0,Sean Monahan,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:15:19Z,1,05:30,14:30,Missed Shot,n/a,41.0,0.0,Sam Bennett,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:15:30Z,1,05:34,14:26,Giveaway,n/a,-44.0,34.0,Victor Rask,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:15:26Z,1,05:37,14:23,Missed Shot,n/a,81.0,34.0,Sam Bennett,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:15:44Z,1,05:54,14:06,Blocked Shot,n/a,37.0,-15.0,Marcus Foligno,Blocker,Minnesota Wild,TJ Brodie,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:18:12Z,1,06:11,13:49,Faceoff,n/a,-20.0,22.0,Derek Ryan,Winner,Calgary Flames,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:18:28Z,1,06:26,13:34,Giveaway,n/a,9.0,27.0,Joel Eriksson Ek,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:18:33Z,1,06:32,13:28,Hit,n/a,-64.0,41.0,Dillon Dube,Hitter,Calgary Flames,Joel Eriksson Ek,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:19:03Z,1,06:43,13:17,Faceoff,n/a,-69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:19:15Z,1,06:46,13:14,Shot,Slap Shot,-33.0,-26.0,Matt Dumba,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:19:45Z,1,06:47,13:13,Faceoff,n/a,-69.0,-22.0,Zach Parise,Winner,Minnesota Wild,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:19:49Z,1,06:52,13:08,Shot,Slap Shot,-30.0,-2.0,Brad Hunt,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:19:55Z,1,06:57,13:03,Shot,Snap Shot,-36.0,34.0,Matt Dumba,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:20:00Z,1,07:03,12:57,Blocked Shot,n/a,54.0,18.0,Matt Dumba,Blocker,Minnesota Wild,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:20:08Z,1,07:11,12:49,Missed Shot,n/a,34.0,-25.0,Travis Hamonic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:20:30Z,1,07:14,12:46,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:21:17Z,1,07:31,12:29,Faceoff,n/a,0.0,0.0,Sean Monahan,Winner,Calgary Flames,Nico Sturm,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:21:46Z,1,07:52,12:08,Hit,n/a,97.0,-20.0,Sean Monahan,Hitter,Calgary Flames,Carson Soucy,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:22:28Z,1,08:11,11:49,Faceoff,n/a,-69.0,-22.0,Victor Rask,Winner,Minnesota Wild,Tobias Rieder,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:23:39Z,1,08:45,11:15,Faceoff,n/a,20.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:24:32Z,1,09:08,10:52,Faceoff,n/a,-20.0,22.0,Elias Lindholm,Winner,Calgary Flames,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:25:10Z,1,09:43,10:17,Missed Shot,n/a,31.0,-16.0,Travis Hamonic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:25:41Z,1,10:14,09:46,Shot,Snap Shot,-38.0,28.0,Jonas Brodin,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:27:46Z,1,10:15,09:45,Faceoff,n/a,-69.0,22.0,Sean Monahan,Winner,Calgary Flames,Luke Kunin,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:28:11Z,1,10:31,09:29,Giveaway,n/a,45.0,16.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:28:18Z,1,10:39,09:21,Shot,Snap Shot,-65.0,-2.0,Luke Kunin,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:28:48Z,1,10:40,09:20,Faceoff,n/a,-69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:29:30Z,1,11:05,08:55,Takeaway,n/a,33.0,15.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:29:38Z,1,11:16,08:44,Hit,n/a,-82.0,35.0,Michael Stone,Hitter,Calgary Flames,Zach Parise,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:29:40Z,1,11:17,08:43,Hit,n/a,-97.0,-22.0,Mats Zuccarello,Hitter,Minnesota Wild,Rasmus Andersson,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:30:36Z,1,12:13,07:47,Blocked Shot,n/a,-50.0,23.0,Zac Rinaldo,Blocker,Calgary Flames,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:30:44Z,1,12:17,07:43,Shot,Wrist Shot,74.0,5.0,Tobias Rieder,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:31:04Z,1,12:18,07:42,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:31:20Z,1,12:28,07:32,Blocked Shot,n/a,60.0,-2.0,Ryan Suter,Blocker,Minnesota Wild,TJ Brodie,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:31:33Z,1,12:40,07:20,Shot,Wrist Shot,69.0,-24.0,Derek Ryan,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:31:56Z,1,12:41,07:19,Faceoff,n/a,69.0,-22.0,Nico Sturm,Winner,Minnesota Wild,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:32:34Z,1,13:02,06:58,Faceoff,n/a,0.0,0.0,Luke Kunin,Winner,Minnesota Wild,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:32:51Z,1,13:13,06:47,Blocked Shot,n/a,-64.0,13.0,Michael Stone,Blocker,Calgary Flames,Jordan Greenway,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:33:28Z,1,13:46,06:14,Penalty,Holding,-99.0,0.0,Luke Kunin,PenaltyOn,Minnesota Wild,Rasmus Andersson,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:34:00Z,1,13:46,06:14,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:35:37Z,1,15:10,04:50,Shot,Slap Shot,54.0,27.0,Rasmus Andersson,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:36:11Z,1,15:11,04:49,Faceoff,n/a,69.0,22.0,Mikael Backlund,Winner,Calgary Flames,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:36:51Z,1,15:27,04:33,Faceoff,n/a,20.0,22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:37:12Z,1,15:46,04:14,Shot,Wrist Shot,74.0,-32.0,Rasmus Andersson,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:37:31Z,1,16:04,03:56,Giveaway,n/a,11.0,-7.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:40:05Z,1,16:18,03:42,Faceoff,n/a,20.0,22.0,Luke Kunin,Winner,Minnesota Wild,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:41:03Z,1,16:36,03:24,Faceoff,n/a,20.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Milan Lucic,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:41:44Z,1,16:57,03:03,Hit,n/a,-87.0,-31.0,Joel Eriksson Ek,Hitter,Minnesota Wild,Mark Giordano,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:42:40Z,1,17:56,02:04,Hit,n/a,-70.0,42.0,Michael Stone,Hitter,Calgary Flames,Jared Spurgeon,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:42:56Z,1,18:12,01:48,Hit,n/a,97.0,10.0,Zac Rinaldo,Hitter,Calgary Flames,Jared Spurgeon,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:43:06Z,1,18:21,01:39,Blocked Shot,n/a,-78.0,-8.0,Rasmus Andersson,Blocker,Calgary Flames,Marcus Foligno,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:43:08Z,1,18:24,01:36,Shot,Wrist Shot,-82.0,32.0,Ryan Suter,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:43:25Z,1,18:39,01:21,Missed Shot,n/a,-24.0,-33.0,Jonas Brodin,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:43:45Z,1,18:42,01:18,Faceoff,n/a,-69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:44:00Z,1,18:53,01:07,Hit,n/a,-73.0,-41.0,Travis Hamonic,Hitter,Calgary Flames,Zach Parise,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:44:12Z,1,19:04,00:56,Giveaway,n/a,97.0,3.0,Devan Dubnyk,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:44:14Z,1,19:06,00:54,Hit,n/a,98.0,4.0,Jonas Brodin,Hitter,Minnesota Wild,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:44:24Z,1,19:16,00:44,Shot,Wrist Shot,-23.0,-36.0,Travis Hamonic,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:44:40Z,1,19:32,00:28,Missed Shot,n/a,-44.0,-31.0,Mats Zuccarello,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:44:49Z,1,19:41,00:19,Missed Shot,n/a,65.0,-34.0,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T22:45:12Z,1,19:57,00:03,Missed Shot,n/a,-60.0,26.0,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:04:00Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Ryan,Winner,Calgary Flames,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:04:36Z,2,00:37,19:23,Giveaway,n/a,94.0,8.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:04:37Z,2,00:38,19:22,Shot,Wrist Shot,58.0,40.0,Brad Hunt,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:04:51Z,2,00:54,19:06,Missed Shot,n/a,66.0,-4.0,Kevin Fiala,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:05:29Z,2,01:27,18:33,Giveaway,n/a,-55.0,-21.0,Joel Eriksson Ek,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:05:36Z,2,01:38,18:22,Shot,Snap Shot,73.0,16.0,Zach Parise,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:06:02Z,2,02:03,17:57,Shot,Wrist Shot,-70.0,33.0,Rasmus Andersson,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:06:15Z,2,02:16,17:44,Shot,Wrist Shot,78.0,29.0,Jordan Greenway,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:07:00Z,2,02:18,17:42,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Nico Sturm,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:07:09Z,2,02:23,17:37,Giveaway,n/a,55.0,16.0,Travis Hamonic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:07:26Z,2,02:42,17:18,Hit,n/a,-97.0,23.0,Mikael Backlund,Hitter,Calgary Flames,Nico Sturm,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:07:41Z,2,02:56,17:04,Blocked Shot,n/a,-72.0,8.0,Carson Soucy,Blocker,Minnesota Wild,Travis Hamonic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:08:09Z,2,02:59,17:01,Faceoff,n/a,-69.0,-22.0,Sam Bennett,Winner,Calgary Flames,Luke Kunin,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:08:18Z,2,03:05,16:55,Shot,Wrist Shot,-80.0,-1.0,Zac Rinaldo,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:09:33Z,2,04:21,15:39,Shot,Wrist Shot,54.0,23.0,Marcus Foligno,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:09:41Z,2,04:27,15:33,Hit,n/a,87.0,-32.0,Milan Lucic,Hitter,Calgary Flames,Matt Dumba,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:09:46Z,2,04:32,15:28,Shot,Wrist Shot,63.0,18.0,Matt Dumba,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:10:12Z,2,04:34,15:26,Faceoff,n/a,69.0,22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:10:33Z,2,04:39,15:21,Missed Shot,n/a,31.0,39.0,Ryan Suter,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:10:47Z,2,04:51,15:09,Goal,Wrist Shot,76.0,-1.0,Joel Eriksson Ek,Scorer,Minnesota Wild,Kevin Fiala,Assist,Minnesota Wild,Ryan Donato,Assist,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames
+2019-12-23T23:11:32Z,2,04:51,15:09,Faceoff,n/a,0.0,0.0,Sean Monahan,Winner,Calgary Flames,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:13:29Z,2,06:22,13:38,Faceoff,n/a,-69.0,22.0,Nico Sturm,Winner,Minnesota Wild,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:16:06Z,2,06:43,13:17,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Victor Rask,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:16:37Z,2,07:15,12:45,Missed Shot,n/a,62.0,-17.0,Victor Rask,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:17:03Z,2,07:39,12:21,Takeaway,n/a,94.0,16.0,Derek Ryan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:17:22Z,2,07:56,12:04,Shot,Backhand,54.0,-6.0,Joel Eriksson Ek,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:17:39Z,2,07:58,12:02,Faceoff,n/a,69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:18:28Z,2,08:22,11:38,Faceoff,n/a,20.0,22.0,Elias Lindholm,Winner,Calgary Flames,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:19:25Z,2,09:10,10:50,Takeaway,n/a,-57.0,2.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:19:29Z,2,09:16,10:44,Blocked Shot,n/a,-73.0,1.0,Ryan Suter,Blocker,Minnesota Wild,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:20:04Z,2,09:49,10:11,Goal,Snap Shot,77.0,-6.0,Luke Kunin,Scorer,Minnesota Wild,Jordan Greenway,Assist,Minnesota Wild,Nico Sturm,Assist,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames
+2019-12-23T23:20:50Z,2,09:49,10:11,Faceoff,n/a,0.0,0.0,Ryan Hartman,Winner,Minnesota Wild,Milan Lucic,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:21:27Z,2,09:59,10:01,Hit,n/a,-54.0,39.0,Milan Lucic,Hitter,Calgary Flames,Marcus Foligno,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:22:07Z,2,10:41,09:19,Missed Shot,n/a,-70.0,35.0,Dillon Dube,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:22:14Z,2,10:46,09:14,Missed Shot,n/a,-32.0,-33.0,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:22:19Z,2,10:53,09:07,Blocked Shot,n/a,-64.0,0.0,Matt Dumba,Blocker,Minnesota Wild,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:22:40Z,2,11:13,08:47,Shot,Wrist Shot,-33.0,-14.0,Mark Giordano,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:24:44Z,2,11:15,08:45,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:25:10Z,2,11:27,08:33,Shot,Deflected,86.0,-4.0,Mats Zuccarello,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:25:32Z,2,11:49,08:11,Missed Shot,n/a,51.0,-3.0,Eric Staal,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:26:05Z,2,12:18,07:42,Shot,Wrist Shot,72.0,-22.0,Carson Soucy,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:26:38Z,2,12:54,07:06,Blocked Shot,n/a,67.0,0.0,Noah Hanifin,Blocker,Calgary Flames,Jordan Greenway,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:27:05Z,2,12:56,07:04,Faceoff,n/a,69.0,-22.0,Ryan Hartman,Winner,Minnesota Wild,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:27:26Z,2,12:59,07:01,Shot,Wrist Shot,78.0,-6.0,Marcus Foligno,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:27:39Z,2,13:00,07:00,Faceoff,n/a,69.0,-22.0,Ryan Hartman,Winner,Minnesota Wild,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:27:48Z,2,13:04,06:56,Shot,Wrist Shot,73.0,-17.0,Ryan Hartman,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:28:01Z,2,13:17,06:43,Shot,Wrist Shot,-34.0,-14.0,Michael Stone,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:28:05Z,2,13:21,06:39,Blocked Shot,n/a,-80.0,7.0,Victor Rask,Blocker,Minnesota Wild,Milan Lucic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:28:06Z,2,13:22,06:38,Shot,Slap Shot,-33.0,-25.0,Michael Stone,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:28:53Z,2,13:49,06:11,Faceoff,n/a,-69.0,-22.0,Ryan Hartman,Winner,Minnesota Wild,Sam Bennett,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:29:28Z,2,14:16,05:44,Missed Shot,n/a,-74.0,-3.0,Tobias Rieder,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:29:40Z,2,14:28,05:32,Hit,n/a,-34.0,40.0,Zac Rinaldo,Hitter,Calgary Flames,Joel Eriksson Ek,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:30:07Z,2,14:55,05:05,Shot,Slap Shot,60.0,6.0,Eric Staal,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:30:17Z,2,15:03,04:57,Takeaway,n/a,97.0,-6.0,Ryan Donato,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:30:15Z,2,15:04,04:56,Missed Shot,n/a,40.0,19.0,Jonas Brodin,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:30:22Z,2,15:10,04:50,Blocked Shot,n/a,51.0,-7.0,Mark Giordano,Blocker,Calgary Flames,Ryan Donato,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:32:31Z,2,15:11,04:49,Faceoff,n/a,69.0,22.0,Eric Staal,Winner,Minnesota Wild,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:32:46Z,2,15:19,04:41,Shot,Wrist Shot,32.0,1.0,Ryan Suter,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:32:50Z,2,15:23,04:37,Missed Shot,n/a,63.0,-36.0,Jared Spurgeon,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:32:53Z,2,15:27,04:33,Blocked Shot,n/a,79.0,11.0,Elias Lindholm,Blocker,Calgary Flames,Ryan Suter,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:33:54Z,2,15:40,04:20,Missed Shot,n/a,-78.0,-2.0,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:33:17Z,2,15:49,04:11,Giveaway,n/a,-51.0,-7.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:33:26Z,2,16:00,04:00,Shot,Wrist Shot,-67.0,1.0,Matthew Tkachuk,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:33:36Z,2,16:10,03:50,Missed Shot,n/a,-31.0,26.0,Rasmus Andersson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:33:46Z,2,16:18,03:42,Shot,Wrist Shot,-34.0,-20.0,Michael Stone,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:34:14Z,2,16:19,03:41,Faceoff,n/a,-69.0,-22.0,Sam Bennett,Winner,Calgary Flames,Luke Kunin,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:35:05Z,2,16:55,03:05,Missed Shot,n/a,35.0,-15.0,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:35:40Z,2,16:56,03:04,Faceoff,n/a,69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Luke Kunin,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:36:32Z,2,17:48,02:12,Missed Shot,n/a,-76.0,4.0,Milan Lucic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:36:42Z,2,17:57,02:03,Blocked Shot,n/a,-71.0,2.0,Joel Eriksson Ek,Blocker,Minnesota Wild,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:36:42Z,2,17:58,02:02,Shot,Backhand,-80.0,7.0,Dillon Dube,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:37:50Z,2,18:41,01:19,Faceoff,n/a,-20.0,22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:39:14Z,2,19:24,00:36,Faceoff,n/a,20.0,-22.0,Luke Kunin,Winner,Minnesota Wild,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:39:31Z,2,19:39,00:21,Shot,Wrist Shot,56.0,5.0,Luke Kunin,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:39:57Z,2,19:41,00:19,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Nico Sturm,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:40:08Z,2,19:48,00:12,Hit,n/a,56.0,-40.0,Luke Kunin,Hitter,Minnesota Wild,Mark Giordano,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:59:09Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Elias Lindholm,Winner,Calgary Flames,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:59:26Z,3,00:19,19:41,Hit,n/a,35.0,-41.0,Matthew Tkachuk,Hitter,Calgary Flames,Ryan Donato,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:59:42Z,3,00:22,19:38,Blocked Shot,n/a,-54.0,-16.0,Elias Lindholm,Blocker,Calgary Flames,Joel Eriksson Ek,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:59:49Z,3,00:42,19:18,Missed Shot,n/a,-17.0,-36.0,Ryan Donato,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-23T23:59:57Z,3,00:50,19:10,Shot,Backhand,-75.0,12.0,Mats Zuccarello,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:00:27Z,3,01:03,18:57,Faceoff,n/a,20.0,-22.0,Sean Monahan,Winner,Calgary Flames,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:01:03Z,3,01:29,18:31,Shot,Snap Shot,59.0,-22.0,Sam Bennett,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:01:24Z,3,01:30,18:30,Faceoff,n/a,69.0,-22.0,Nico Sturm,Winner,Minnesota Wild,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:01:40Z,3,01:44,18:16,Shot,Wrist Shot,-72.0,-27.0,Luke Kunin,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:01:58Z,3,01:45,18:15,Faceoff,n/a,-69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Nico Sturm,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:02:25Z,3,02:15,17:45,Hit,n/a,95.0,15.0,Matt Dumba,Hitter,Minnesota Wild,Andrew Mangiapane,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:02:31Z,3,02:21,17:39,Hit,n/a,79.0,40.0,Milan Lucic,Hitter,Calgary Flames,Luke Kunin,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:02:41Z,3,02:29,17:31,Takeaway,n/a,95.0,20.0,Brad Hunt,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:02:42Z,3,02:32,17:28,Missed Shot,n/a,81.0,-8.0,Derek Ryan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:03:45Z,3,03:36,16:24,Hit,n/a,99.0,-14.0,Zac Rinaldo,Hitter,Calgary Flames,Carson Soucy,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:04:00Z,3,03:51,16:09,Missed Shot,n/a,71.0,-23.0,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:04:37Z,3,04:24,15:36,Giveaway,n/a,-84.0,7.0,Cam Talbot,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:04:45Z,3,04:35,15:25,Shot,Slap Shot,-58.0,19.0,Jared Spurgeon,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:05:24Z,3,04:37,15:23,Faceoff,n/a,-69.0,22.0,Sean Monahan,Winner,Calgary Flames,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:05:42Z,3,05:06,14:54,Hit,n/a,-57.0,34.0,Travis Hamonic,Hitter,Calgary Flames,Mats Zuccarello,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:06:42Z,3,06:05,13:55,Takeaway,n/a,22.0,36.0,Victor Rask,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:06:44Z,3,06:09,13:51,Hit,n/a,-15.0,42.0,Andrew Mangiapane,Hitter,Calgary Flames,Victor Rask,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:06:59Z,3,06:24,13:36,Shot,Wrist Shot,61.0,29.0,Dillon Dube,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:07:08Z,3,06:30,13:30,Shot,Wrist Shot,39.0,26.0,Mark Giordano,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:09:35Z,3,06:31,13:29,Faceoff,n/a,69.0,22.0,Ryan Hartman,Winner,Minnesota Wild,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:10:04Z,3,06:53,13:07,Hit,n/a,14.0,-39.0,Zac Rinaldo,Hitter,Calgary Flames,Ryan Hartman,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:10:39Z,3,07:05,12:55,Missed Shot,n/a,-79.0,36.0,Ryan Hartman,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:11:01Z,3,07:06,12:54,Faceoff,n/a,-69.0,-22.0,Elias Lindholm,Winner,Calgary Flames,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:12:04Z,3,08:20,11:40,Missed Shot,n/a,-63.0,33.0,Kevin Fiala,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:12:13Z,3,08:27,11:33,Giveaway,n/a,43.0,-17.0,Jonas Brodin,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:12:12Z,3,08:28,11:32,Blocked Shot,n/a,49.0,-8.0,Jonas Brodin,Blocker,Minnesota Wild,Sean Monahan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:12:30Z,3,08:29,11:31,Faceoff,n/a,69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:13:03Z,3,08:42,11:18,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:13:29Z,3,08:45,11:15,Faceoff,n/a,-69.0,-22.0,Sam Bennett,Winner,Calgary Flames,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:14:04Z,3,08:52,11:08,Faceoff,n/a,-69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:14:51Z,3,09:31,10:29,Shot,Wrist Shot,86.0,-1.0,Sam Bennett,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:14:58Z,3,09:38,10:22,Shot,Wrist Shot,70.0,-13.0,Derek Ryan,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:16:11Z,3,10:50,09:10,Blocked Shot,n/a,44.0,34.0,Luke Kunin,Blocker,Minnesota Wild,Milan Lucic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:16:38Z,3,11:12,08:48,Giveaway,n/a,96.0,20.0,Brad Hunt,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:16:59Z,3,11:37,08:23,Shot,Wrist Shot,-57.0,-35.0,Ryan Hartman,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:17:08Z,3,11:48,08:12,Missed Shot,n/a,-82.0,-10.0,Victor Rask,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:17:14Z,3,11:52,08:08,Blocked Shot,n/a,-74.0,-19.0,Zac Rinaldo,Blocker,Calgary Flames,Ryan Hartman,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:17:30Z,3,12:10,07:50,Shot,Slap Shot,47.0,17.0,Dillon Dube,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:18:33Z,3,12:45,07:15,Faceoff,n/a,69.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:18:57Z,3,12:57,07:03,Faceoff,n/a,69.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:20:14Z,3,13:47,06:13,Faceoff,n/a,69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:20:30Z,3,13:54,06:06,Shot,Wrist Shot,37.0,34.0,Mark Giordano,Shooter,Calgary Flames,Devan Dubnyk,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:22:11Z,3,13:59,06:01,Faceoff,n/a,20.0,-22.0,Nico Sturm,Winner,Minnesota Wild,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:22:17Z,3,14:10,05:50,Hit,n/a,20.0,-40.0,Sam Bennett,Hitter,Calgary Flames,Nico Sturm,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:22:40Z,3,14:33,05:27,Missed Shot,n/a,32.0,-16.0,TJ Brodie,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:23:04Z,3,14:57,05:03,Shot,Wrist Shot,-54.0,-25.0,Victor Rask,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:23:12Z,3,15:05,04:55,Shot,Wrist Shot,-66.0,34.0,Ryan Hartman,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:23:30Z,3,15:21,04:39,Blocked Shot,n/a,53.0,-17.0,Marcus Foligno,Blocker,Minnesota Wild,Travis Hamonic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:23:32Z,3,15:25,04:35,Missed Shot,n/a,61.0,-9.0,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:24:50Z,3,16:43,03:17,Blocked Shot,n/a,48.0,-4.0,Ryan Donato,Blocker,Minnesota Wild,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:24:55Z,3,16:45,03:15,Takeaway,n/a,35.0,36.0,Elias Lindholm,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:25:00Z,3,16:51,03:09,Blocked Shot,n/a,73.0,-9.0,Ryan Suter,Blocker,Minnesota Wild,Rasmus Andersson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:27:26Z,3,16:52,03:08,Faceoff,n/a,69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:27:38Z,3,17:01,02:59,Hit,n/a,96.0,-19.0,Jonas Brodin,Hitter,Minnesota Wild,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:27:57Z,3,17:17,02:43,Goal,Wrist Shot,-6.0,-38.0,Eric Staal,Scorer,Minnesota Wild,Jonas Brodin,Assist,Minnesota Wild,Luke Kunin,Assist,Calgary Flames,n/a,n/a,n/a
+2019-12-24T00:28:36Z,3,17:17,02:43,Faceoff,n/a,0.0,0.0,Ryan Hartman,Winner,Minnesota Wild,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:30:01Z,3,18:36,01:24,Missed Shot,n/a,-70.0,34.0,Luke Kunin,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:30:04Z,3,18:38,01:22,Shot,Slap Shot,-46.0,-32.0,Brad Hunt,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:30:29Z,3,18:39,01:21,Faceoff,n/a,-69.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:31:10Z,3,19:01,00:59,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:32:09Z,3,19:49,00:11,Shot,Wrist Shot,-3.0,28.0,Kevin Fiala,Shooter,Minnesota Wild,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,246 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-31T03:04:33Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:10:29Z,1,00:07,19:53,Penalty,Delaying Game - Puck over glass,18.0,42.0,Nathan MacKinnon,PenaltyOn,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:10:50Z,1,00:07,19:53,Faceoff,n/a,69.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:11:13Z,1,00:31,19:29,Blocked Shot,n/a,71.0,2.0,Erik Johnson,Blocker,Colorado Avalanche,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:11:36Z,1,00:54,19:06,Takeaway,n/a,-97.0,-9.0,Matt Calvert,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:12:13Z,1,01:22,18:38,Hit,n/a,0.0,-38.0,Brian Boyle,Hitter,Florida Panthers,Pierre-Edouard Bellemare,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:12:40Z,1,01:57,18:03,Hit,n/a,31.0,-40.0,J.T. Compher,Hitter,Colorado Avalanche,Brian Boyle,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:12:53Z,1,02:10,17:50,Shot,Wrist Shot,58.0,-13.0,Denis Malgin,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:13:35Z,1,02:52,17:08,Takeaway,n/a,-11.0,11.0,Nathan MacKinnon,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:14:03Z,1,03:06,16:54,Faceoff,n/a,20.0,-22.0,Tyson Jost,Winner,Colorado Avalanche,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:14:28Z,1,03:10,16:50,Missed Shot,n/a,-2.0,-5.0,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:16:34Z,1,03:35,16:25,Shot,Wrist Shot,-81.0,-2.0,Andre Burakovsky,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:14:51Z,1,03:36,16:24,Penalty,Tripping,-77.0,1.0,Mark Pysyk,PenaltyOn,Florida Panthers,Andre Burakovsky,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:15:25Z,1,03:36,16:24,Faceoff,n/a,-69.0,-22.0,Noel Acciari,Winner,Florida Panthers,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:16:01Z,1,03:59,16:01,Faceoff,n/a,-20.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:17:05Z,1,05:02,14:58,Giveaway,n/a,-92.0,22.0,Cale Makar,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:18:03Z,1,05:42,14:18,Faceoff,n/a,-69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:18:17Z,1,05:49,14:11,Missed Shot,n/a,-40.0,-26.0,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:18:33Z,1,06:03,13:57,Blocked Shot,n/a,-75.0,4.0,MacKenzie Weegar,Blocker,Florida Panthers,Matt Calvert,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:18:36Z,1,06:04,13:56,Shot,Wrist Shot,-76.0,2.0,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:18:43Z,1,06:05,13:55,Goal,Backhand,-80.0,-1.0,Matt Nieto,Scorer,Colorado Avalanche,Pierre-Edouard Bellemare,Assist,Colorado Avalanche,Matt Calvert,Assist,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers
+2019-10-31T02:19:25Z,1,06:05,13:55,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:19:37Z,1,06:13,13:47,Hit,n/a,61.0,41.0,Erik Johnson,Hitter,Colorado Avalanche,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:20:07Z,1,06:45,13:15,Shot,Deflected,5.0,-2.0,MacKenzie Weegar,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:20:15Z,1,06:58,13:02,Giveaway,n/a,98.0,12.0,Nikita Zadorov,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:20:44Z,1,07:26,12:34,Shot,Snap Shot,40.0,19.0,Riley Stillman,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:21:01Z,1,07:43,12:17,Blocked Shot,n/a,69.0,3.0,Ian Cole,Blocker,Colorado Avalanche,Brett Connolly,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:21:23Z,1,08:06,11:54,Hit,n/a,30.0,-40.0,Brian Boyle,Hitter,Florida Panthers,Ian Cole,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:21:39Z,1,08:22,11:38,Shot,Backhand,-79.0,5.0,Valeri Nichushkin,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:22:21Z,1,09:01,10:59,Giveaway,n/a,-5.0,-8.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:22:40Z,1,09:22,10:38,Hit,n/a,-82.0,38.0,Denis Malgin,Hitter,Florida Panthers,Nazem Kadri,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:22:51Z,1,09:34,10:26,Hit,n/a,-17.0,42.0,MacKenzie Weegar,Hitter,Florida Panthers,Nazem Kadri,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:25:02Z,1,09:34,10:26,Faceoff,n/a,-20.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:25:29Z,1,09:59,10:01,Goal,Tip-In,60.0,-6.0,Colton Sceviour,Scorer,Florida Panthers,Aaron Ekblad,Assist,Florida Panthers,MacKenzie Weegar,Assist,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche
+2019-10-31T02:26:20Z,1,09:59,10:01,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:26:21Z,1,10:07,09:53,Hit,n/a,67.0,41.0,Erik Johnson,Hitter,Colorado Avalanche,Jonathan Huberdeau,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:26:32Z,1,10:20,09:40,Giveaway,n/a,36.0,-28.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:26:42Z,1,10:29,09:31,Hit,n/a,-59.0,41.0,MacKenzie Weegar,Hitter,Florida Panthers,Matt Nieto,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:26:54Z,1,10:33,09:27,Shot,Wrist Shot,49.0,28.0,Evgenii Dadonov,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:27:22Z,1,10:33,09:27,Faceoff,n/a,69.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:28:27Z,1,11:02,08:58,Faceoff,n/a,69.0,-22.0,Tyson Jost,Winner,Colorado Avalanche,Frank Vatrano,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:32:03Z,1,11:12,08:48,Faceoff,n/a,69.0,-22.0,Tyson Jost,Winner,Colorado Avalanche,Denis Malgin,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:32:03Z,1,11:17,08:43,Missed Shot,n/a,28.0,-2.0,Anton Stralman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:32:03Z,1,11:42,08:18,Penalty,Interference,74.0,-5.0,Ian Cole,PenaltyOn,Colorado Avalanche,Denis Malgin,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:32:54Z,1,11:42,08:18,Faceoff,n/a,69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:32:29Z,1,11:56,08:04,Blocked Shot,n/a,66.0,12.0,Erik Johnson,Blocker,Colorado Avalanche,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:32:41Z,1,12:06,07:54,Missed Shot,n/a,56.0,-26.0,Evgenii Dadonov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:32:53Z,1,12:20,07:40,Blocked Shot,n/a,73.0,5.0,Erik Johnson,Blocker,Colorado Avalanche,Evgenii Dadonov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:33:13Z,1,12:39,07:21,Shot,Slap Shot,69.0,-28.0,Mike Hoffman,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:33:32Z,1,12:39,07:21,Faceoff,n/a,69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:34:11Z,1,13:10,06:50,Missed Shot,n/a,53.0,-31.0,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:34:19Z,1,13:16,06:44,Blocked Shot,n/a,70.0,5.0,Matt Nieto,Blocker,Colorado Avalanche,Evgenii Dadonov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:34:40Z,1,13:16,06:44,Faceoff,n/a,69.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:35:55Z,1,13:44,06:16,Shot,Wrist Shot,80.0,11.0,Brett Connolly,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:36:03Z,1,13:45,06:15,Shot,Wrist Shot,82.0,-12.0,Frank Vatrano,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:35:14Z,1,13:46,06:14,Missed Shot,n/a,36.0,11.0,Aaron Ekblad,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:35:22Z,1,13:51,06:09,Hit,n/a,-23.0,40.0,Frank Vatrano,Hitter,Florida Panthers,Ian Cole,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:35:32Z,1,14:04,05:56,Takeaway,n/a,44.0,17.0,Cale Makar,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:35:50Z,1,14:22,05:38,Giveaway,n/a,-92.0,21.0,Nazem Kadri,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:36:00Z,1,14:30,05:30,Hit,n/a,84.0,35.0,Samuel Girard,Hitter,Colorado Avalanche,Dryden Hunt,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:36:10Z,1,14:35,05:25,Shot,Wrist Shot,56.0,-29.0,Dryden Hunt,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:38:21Z,1,14:35,05:25,Faceoff,n/a,69.0,-22.0,Vladislav Kamenev,Winner,Colorado Avalanche,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:38:41Z,1,14:54,05:06,Shot,Deflected,51.0,-23.0,Mike Hoffman,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:39:09Z,1,14:54,05:06,Faceoff,n/a,69.0,-22.0,Denis Malgin,Winner,Florida Panthers,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:39:28Z,1,15:13,04:47,Giveaway,n/a,97.0,22.0,Nikita Zadorov,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:39:31Z,1,15:16,04:44,Blocked Shot,n/a,74.0,3.0,Ian Cole,Blocker,Colorado Avalanche,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:40:01Z,1,15:46,04:14,Takeaway,n/a,-56.0,31.0,Frank Vatrano,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:40:07Z,1,15:47,04:13,Hit,n/a,-18.0,32.0,Pierre-Edouard Bellemare,Hitter,Colorado Avalanche,Frank Vatrano,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:40:27Z,1,16:09,03:51,Giveaway,n/a,36.0,-39.0,Joonas Donskoi,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:40:59Z,1,16:44,03:16,Takeaway,n/a,8.0,-23.0,Cale Makar,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:41:07Z,1,16:51,03:09,Shot,Backhand,-80.0,12.0,Andre Burakovsky,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:41:31Z,1,17:16,02:44,Shot,Snap Shot,62.0,29.0,Evgenii Dadonov,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:42:00Z,1,17:16,02:44,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:42:09Z,1,17:22,02:38,Takeaway,n/a,38.0,38.0,Matt Calvert,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:43:02Z,1,18:15,01:45,Giveaway,n/a,96.0,8.0,Mike Hoffman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:43:21Z,1,18:36,01:24,Takeaway,n/a,-93.0,26.0,Brian Boyle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:44:05Z,1,19:00,01:00,Faceoff,n/a,-69.0,-22.0,Denis Malgin,Winner,Florida Panthers,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:44:42Z,1,19:27,00:33,Shot,Wrist Shot,-37.0,-26.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:44:48Z,1,19:28,00:32,Goal,Wrist Shot,-80.0,2.0,Joonas Donskoi,Scorer,Colorado Avalanche,Nathan MacKinnon,Assist,Colorado Avalanche,Samuel Girard,Assist,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers
+2019-10-31T02:45:17Z,1,19:28,00:32,Faceoff,n/a,0.0,0.0,J.T. Compher,Winner,Colorado Avalanche,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:45:44Z,1,19:39,00:21,Faceoff,n/a,20.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T02:46:13Z,1,19:59,00:01,Shot,Backhand,78.0,-12.0,Riley Stillman,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:57:54Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:05:21Z,2,00:40,19:20,Penalty,Holding,91.0,25.0,MacKenzie Weegar,PenaltyOn,Florida Panthers,Nathan MacKinnon,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:06:23Z,2,00:40,19:20,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:06:23Z,2,01:07,18:53,Shot,Wrist Shot,53.0,23.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:06:26Z,2,01:09,18:51,Shot,Wrist Shot,76.0,-14.0,Nazem Kadri,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:06:44Z,2,01:26,18:34,Giveaway,n/a,67.0,0.0,Riley Stillman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:07:41Z,2,01:47,18:13,Faceoff,n/a,20.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:08:03Z,2,02:20,17:40,Missed Shot,n/a,38.0,-5.0,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:08:09Z,2,02:24,17:36,Shot,Wrist Shot,54.0,22.0,J.T. Compher,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:08:37Z,2,02:24,17:36,Faceoff,n/a,69.0,22.0,Colton Sceviour,Winner,Florida Panthers,Vladislav Kamenev,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:08:56Z,2,02:37,17:23,Takeaway,n/a,55.0,-4.0,Colton Sceviour,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:09:15Z,2,02:56,17:04,Shot,Wrap-around,90.0,7.0,Vladislav Kamenev,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:09:21Z,2,02:56,17:04,Shot,Backhand,87.0,8.0,Vladislav Kamenev,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:10:15Z,2,02:56,17:04,Faceoff,n/a,69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:09:49Z,2,03:02,16:58,Shot,Slap Shot,35.0,23.0,Ian Cole,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:09:52Z,2,03:05,16:55,Shot,Slap Shot,47.0,-33.0,Erik Johnson,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:10:10Z,2,03:23,16:37,Shot,Snap Shot,-61.0,27.0,Mark Pysyk,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:10:53Z,2,04:05,15:55,Shot,Slap Shot,47.0,-10.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:11:23Z,2,04:05,15:55,Faceoff,n/a,69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:11:32Z,2,04:17,15:43,Hit,n/a,73.0,-38.0,Dryden Hunt,Hitter,Florida Panthers,Nathan MacKinnon,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:11:51Z,2,04:38,15:22,Blocked Shot,n/a,-57.0,0.0,Samuel Girard,Blocker,Colorado Avalanche,Noel Acciari,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:11:55Z,2,04:42,15:18,Shot,Wrist Shot,78.0,-11.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:12:05Z,2,04:52,15:08,Shot,Backhand,73.0,-14.0,Tyson Jost,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:12:12Z,2,05:00,15:00,Shot,Slap Shot,35.0,25.0,Nikita Zadorov,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:12:19Z,2,05:04,14:56,Shot,Snap Shot,40.0,-25.0,Andre Burakovsky,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:12:43Z,2,05:04,14:56,Faceoff,n/a,69.0,-22.0,Brian Boyle,Winner,Florida Panthers,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:13:08Z,2,05:19,14:41,Giveaway,n/a,-95.0,-13.0,Mark Barberio,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:13:55Z,2,06:07,13:53,Missed Shot,n/a,35.0,-28.0,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:14:06Z,2,06:17,13:43,Hit,n/a,-26.0,-37.0,Cale Makar,Hitter,Colorado Avalanche,Jayce Hawryluk,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:14:12Z,2,06:23,13:37,Giveaway,n/a,-98.0,2.0,Valeri Nichushkin,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:14:22Z,2,06:33,13:27,Shot,Wrist Shot,-31.0,38.0,Vladislav Kamenev,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:14:30Z,2,06:41,13:19,Blocked Shot,n/a,46.0,-12.0,Jonathan Huberdeau,Blocker,Florida Panthers,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:14:52Z,2,06:58,13:02,Blocked Shot,n/a,59.0,-16.0,Denis Malgin,Blocker,Florida Panthers,Erik Johnson,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:16:50Z,2,06:58,13:02,Faceoff,n/a,69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:18:12Z,2,08:07,11:53,Shot,Slap Shot,-36.0,31.0,Anton Stralman,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:18:40Z,2,08:35,11:25,Missed Shot,n/a,75.0,8.0,Matt Calvert,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:18:42Z,2,08:37,11:23,Shot,Slap Shot,71.0,8.0,Matt Nieto,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:18:49Z,2,08:44,11:16,Shot,Slap Shot,39.0,-19.0,Ian Cole,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:18:53Z,2,08:48,11:12,Takeaway,n/a,70.0,35.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:19:32Z,2,09:27,10:33,Blocked Shot,n/a,-76.0,7.0,Nikita Zadorov,Blocker,Colorado Avalanche,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:19:58Z,2,09:52,10:08,Shot,Snap Shot,37.0,34.0,Tyson Jost,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:20:27Z,2,09:52,10:08,Faceoff,n/a,69.0,22.0,Noel Acciari,Winner,Florida Panthers,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:22:43Z,2,10:07,09:53,Faceoff,n/a,20.0,22.0,Vladislav Kamenev,Winner,Colorado Avalanche,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:23:40Z,2,10:56,09:04,Hit,n/a,87.0,35.0,Valeri Nichushkin,Hitter,Colorado Avalanche,MacKenzie Weegar,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:23:53Z,2,11:09,08:51,Hit,n/a,-93.0,-28.0,Joonas Donskoi,Hitter,Colorado Avalanche,Brett Connolly,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:24:13Z,2,11:29,08:31,Takeaway,n/a,89.0,26.0,Anton Stralman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:24:25Z,2,11:41,08:19,Shot,Wrist Shot,60.0,-14.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:24:55Z,2,11:43,08:17,Faceoff,n/a,20.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:25:07Z,2,11:53,08:07,Missed Shot,n/a,62.0,35.0,Matt Calvert,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:25:51Z,2,12:15,07:45,Faceoff,n/a,-69.0,22.0,Denis Malgin,Winner,Florida Panthers,Tyson Jost,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:26:09Z,2,12:22,07:38,Takeaway,n/a,-77.0,7.0,Nikita Zadorov,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:26:34Z,2,12:49,07:11,Blocked Shot,n/a,76.0,5.0,Anton Stralman,Blocker,Florida Panthers,Tyson Jost,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:26:46Z,2,13:01,06:59,Blocked Shot,n/a,-66.0,-13.0,Mark Barberio,Blocker,Colorado Avalanche,Jayce Hawryluk,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:26:56Z,2,13:02,06:58,Missed Shot,n/a,-47.0,-20.0,Jayce Hawryluk,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:27:01Z,2,13:16,06:44,Hit,n/a,-29.0,1.0,Mark Barberio,Hitter,Colorado Avalanche,Noel Acciari,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:27:37Z,2,13:53,06:07,Shot,Wrist Shot,-58.0,-13.0,Dryden Hunt,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:27:57Z,2,14:10,05:50,Takeaway,n/a,20.0,-27.0,Ian Cole,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:28:13Z,2,14:26,05:34,Hit,n/a,-97.0,-4.0,Ian Cole,Hitter,Colorado Avalanche,Brian Boyle,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:28:17Z,2,14:27,05:33,Shot,Wrist Shot,-42.0,18.0,Brett Connolly,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:30:31Z,2,14:28,05:32,Faceoff,n/a,-69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:30:40Z,2,14:38,05:22,Shot,Wrist Shot,-84.0,-13.0,MacKenzie Weegar,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:30:41Z,2,14:39,05:21,Shot,Wrist Shot,-86.0,-7.0,MacKenzie Weegar,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:31:02Z,2,15:01,04:59,Hit,n/a,-27.0,-15.0,MacKenzie Weegar,Hitter,Florida Panthers,Joonas Donskoi,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:31:32Z,2,15:27,04:33,Takeaway,n/a,-37.0,20.0,Erik Johnson,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:32:13Z,2,15:56,04:04,Blocked Shot,n/a,55.0,4.0,Brian Boyle,Blocker,Florida Panthers,Nikita Zadorov,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:32:38Z,2,15:58,04:02,Faceoff,n/a,69.0,-22.0,Noel Acciari,Winner,Florida Panthers,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:33:37Z,2,17:01,02:59,Missed Shot,n/a,-37.0,-36.0,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:33:43Z,2,17:07,02:53,Hit,n/a,-59.0,40.0,Ian Cole,Hitter,Colorado Avalanche,Frank Vatrano,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:34:12Z,2,17:14,02:46,Penalty,Hooking,-54.0,21.0,Ian Cole,PenaltyOn,Colorado Avalanche,Frank Vatrano,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:34:42Z,2,17:14,02:46,Faceoff,n/a,-69.0,-22.0,J.T. Compher,Winner,Colorado Avalanche,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:35:06Z,2,17:45,02:15,Shot,Slap Shot,-63.0,33.0,Mike Hoffman,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:35:08Z,2,17:47,02:13,Shot,Wrist Shot,-72.0,0.0,Keith Yandle,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:35:36Z,2,18:15,01:45,Takeaway,n/a,-41.0,24.0,Matt Nieto,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:35:46Z,2,18:25,01:35,Takeaway,n/a,-87.0,25.0,Erik Johnson,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:36:29Z,2,18:33,01:27,Faceoff,n/a,-69.0,22.0,Brian Boyle,Winner,Florida Panthers,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:36:39Z,2,18:48,01:12,Shot,Snap Shot,-69.0,-15.0,Brett Connolly,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:36:58Z,2,19:05,00:55,Shot,Tip-In,-86.0,-7.0,Denis Malgin,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:37:03Z,2,19:10,00:50,Blocked Shot,n/a,-85.0,4.0,Nikita Zadorov,Blocker,Colorado Avalanche,Brian Boyle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:37:36Z,2,19:19,00:41,Faceoff,n/a,69.0,22.0,Noel Acciari,Winner,Florida Panthers,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:38:02Z,2,19:37,00:23,Takeaway,n/a,-54.0,-38.0,Noel Acciari,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:38:09Z,2,19:44,00:16,Takeaway,n/a,-66.0,-9.0,Joonas Donskoi,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:38:24Z,2,19:59,00:01,Giveaway,n/a,-60.0,36.0,Samuel Girard,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:38:33Z,2,19:59,00:01,Shot,Wrist Shot,-62.0,17.0,Noel Acciari,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:38:58Z,2,20:00,00:00,Penalty,Fighting,-13.0,-36.0,MacKenzie Weegar,PenaltyOn,Florida Panthers,Nazem Kadri,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:38:58Z,2,20:00,00:00,Penalty,Fighting,-12.0,-36.0,Nazem Kadri,PenaltyOn,Colorado Avalanche,MacKenzie Weegar,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:58:08Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Nathan MacKinnon,Winner,Colorado Avalanche,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:58:33Z,3,00:35,19:25,Shot,Wrist Shot,88.0,-13.0,Aleksander Barkov,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:59:15Z,3,01:01,18:59,Faceoff,n/a,-69.0,-22.0,Tyson Jost,Winner,Colorado Avalanche,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:59:43Z,3,01:08,18:52,Hit,n/a,27.0,-39.0,Ian Cole,Hitter,Colorado Avalanche,Brett Connolly,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T03:59:56Z,3,01:22,18:38,Takeaway,n/a,-33.0,6.0,Brian Boyle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:00:20Z,3,01:46,18:14,Missed Shot,n/a,53.0,37.0,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:01:01Z,3,02:26,17:34,Takeaway,n/a,1.0,-41.0,Joonas Donskoi,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:01:07Z,3,02:32,17:28,Shot,Wrist Shot,-75.0,-8.0,Joonas Donskoi,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:01:30Z,3,02:56,17:04,Shot,Wrist Shot,53.0,-9.0,Aaron Ekblad,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:02:00Z,3,02:57,17:03,Faceoff,n/a,69.0,-22.0,Tyson Jost,Winner,Colorado Avalanche,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:02:22Z,3,03:12,16:48,Blocked Shot,n/a,-71.0,-7.0,Aaron Ekblad,Blocker,Florida Panthers,Andre Burakovsky,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:02:44Z,3,03:31,16:29,Giveaway,n/a,98.0,-15.0,Cale Makar,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:02:54Z,3,03:40,16:20,Missed Shot,n/a,28.0,-25.0,Riley Stillman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:03:21Z,3,04:11,15:49,Missed Shot,n/a,-55.0,-3.0,Matt Calvert,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:04:08Z,3,04:31,15:29,Faceoff,n/a,69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:04:49Z,3,04:41,15:19,Faceoff,n/a,-69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:06:10Z,3,05:04,14:56,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:06:19Z,3,05:16,14:44,Shot,Tip-In,64.0,-1.0,Evgenii Dadonov,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:07:11Z,3,05:35,14:25,Faceoff,n/a,20.0,22.0,Aleksander Barkov,Winner,Florida Panthers,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:07:15Z,3,05:43,14:17,Shot,Slap Shot,14.0,-31.0,Aaron Ekblad,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:07:46Z,3,06:13,13:47,Giveaway,n/a,-42.0,34.0,Andre Burakovsky,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:08:17Z,3,06:44,13:16,Missed Shot,n/a,-84.0,10.0,Matt Nieto,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:08:38Z,3,07:05,12:55,Missed Shot,n/a,-35.0,31.0,Mark Barberio,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:08:40Z,3,07:07,12:53,Hit,n/a,-31.0,-37.0,Nikita Zadorov,Hitter,Colorado Avalanche,Jayce Hawryluk,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:09:00Z,3,07:27,12:33,Blocked Shot,n/a,-81.0,-6.0,Mark Pysyk,Blocker,Florida Panthers,Matt Nieto,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:12:01Z,3,07:31,12:29,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:12:29Z,3,07:37,12:23,Goal,Wrist Shot,-34.0,-11.0,Nathan MacKinnon,Scorer,Colorado Avalanche,Ian Cole,Assist,Colorado Avalanche,Nazem Kadri,Assist,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers
+2019-10-31T04:13:06Z,3,07:37,12:23,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:13:59Z,3,08:41,11:19,Shot,Wrist Shot,30.0,-31.0,Anton Stralman,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:15:02Z,3,09:47,10:13,Hit,n/a,-22.0,-30.0,Keith Yandle,Hitter,Florida Panthers,Vladislav Kamenev,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:15:22Z,3,10:08,09:52,Hit,n/a,-16.0,-40.0,Aaron Ekblad,Hitter,Florida Panthers,Valeri Nichushkin,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:15:31Z,3,10:17,09:43,Shot,Wrist Shot,-67.0,1.0,Valeri Nichushkin,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:16:12Z,3,10:58,09:02,Shot,Snap Shot,-63.0,-7.0,Nazem Kadri,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:16:14Z,3,11:01,08:59,Missed Shot,n/a,-77.0,-2.0,Joonas Donskoi,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:16:58Z,3,11:44,08:16,Hit,n/a,18.0,42.0,Dryden Hunt,Hitter,Florida Panthers,Nikita Zadorov,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:17:04Z,3,11:50,08:10,Missed Shot,n/a,-52.0,-27.0,Matt Nieto,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:18:18Z,3,11:53,08:07,Penalty,Slashing,-42.0,33.0,Nikita Zadorov,PenaltyOn,Colorado Avalanche,Dryden Hunt,DrewBy,Colorado Avalanche,Vladislav Kamenev,ServedBy,Florida Panthers,n/a,n/a,n/a
+2019-10-31T04:18:56Z,3,11:53,08:07,Penalty,Misconduct,-23.0,41.0,Nikita Zadorov,PenaltyOn,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:18:56Z,3,11:53,08:07,Penalty,Roughing,-42.0,35.0,Dryden Hunt,PenaltyOn,Florida Panthers,Nikita Zadorov,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:18:56Z,3,11:53,08:07,Penalty,Roughing,-41.0,33.0,Nikita Zadorov,PenaltyOn,Colorado Avalanche,Dryden Hunt,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:18:56Z,3,11:53,08:07,Penalty,Misconduct,-37.0,33.0,Dryden Hunt,PenaltyOn,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:22:46Z,3,11:53,08:07,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:20:40Z,3,12:04,07:56,Goal,Tip-In,77.0,3.0,Aleksander Barkov,Scorer,Florida Panthers,Keith Yandle,Assist,Florida Panthers,Mike Hoffman,Assist,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche
+2019-10-31T04:58:28Z,3,12:04,07:56,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:21:27Z,3,12:22,07:38,Shot,Wrist Shot,-56.0,-26.0,Matt Nieto,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:22:10Z,3,13:05,06:55,Missed Shot,n/a,-45.0,-14.0,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:22:24Z,3,13:16,06:44,Shot,Wrist Shot,65.0,-24.0,MacKenzie Weegar,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:23:04Z,3,13:16,06:44,Faceoff,n/a,69.0,-22.0,Tyson Jost,Winner,Colorado Avalanche,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:23:06Z,3,13:26,06:34,Hit,n/a,-19.0,41.0,Brett Connolly,Hitter,Florida Panthers,J.T. Compher,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:23:29Z,3,13:31,06:29,Faceoff,n/a,0.0,0.0,Noel Acciari,Winner,Florida Panthers,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:24:03Z,3,13:56,06:04,Hit,n/a,96.0,5.0,Samuel Girard,Hitter,Colorado Avalanche,Noel Acciari,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:24:09Z,3,14:04,05:56,Shot,Wrist Shot,62.0,15.0,Colton Sceviour,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:26:11Z,3,14:04,05:56,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:26:41Z,3,14:29,05:31,Takeaway,n/a,50.0,37.0,Matt Calvert,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:27:40Z,3,15:26,04:34,Takeaway,n/a,-31.0,17.0,Frank Vatrano,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:27:58Z,3,15:45,04:15,Missed Shot,n/a,46.0,5.0,Brett Connolly,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:28:00Z,3,15:46,04:14,Shot,Wrist Shot,83.0,-7.0,Brett Connolly,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:28:07Z,3,15:46,04:14,Shot,Wrist Shot,80.0,3.0,Brett Connolly,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:28:48Z,3,16:34,03:26,Shot,Tip-In,78.0,5.0,Brett Connolly,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:29:12Z,3,16:34,03:26,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:29:35Z,3,16:42,03:18,Blocked Shot,n/a,45.0,-3.0,Pierre-Edouard Bellemare,Blocker,Colorado Avalanche,Aaron Ekblad,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:29:48Z,3,16:42,03:18,Faceoff,n/a,69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:30:10Z,3,16:57,03:03,Shot,Slap Shot,39.0,16.0,MacKenzie Weegar,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:30:56Z,3,17:29,02:31,Faceoff,n/a,20.0,22.0,Denis Malgin,Winner,Florida Panthers,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:31:29Z,3,17:42,02:18,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Denis Malgin,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:32:10Z,3,18:04,01:56,Blocked Shot,n/a,55.0,-17.0,Samuel Girard,Blocker,Colorado Avalanche,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:32:41Z,3,18:04,01:56,Faceoff,n/a,69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:33:19Z,3,18:30,01:30,Goal,Wrist Shot,52.0,25.0,Jonathan Huberdeau,Scorer,Florida Panthers,Aaron Ekblad,Assist,Florida Panthers,Evgenii Dadonov,Assist,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche
+2019-10-31T04:34:09Z,3,18:30,01:30,Faceoff,n/a,0.0,0.0,Noel Acciari,Winner,Florida Panthers,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:34:19Z,3,18:45,01:15,Hit,n/a,95.0,4.0,Samuel Girard,Hitter,Colorado Avalanche,Colton Sceviour,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:34:25Z,3,18:51,01:09,Hit,n/a,-3.0,-39.0,Frank Vatrano,Hitter,Florida Panthers,Valeri Nichushkin,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:34:46Z,3,19:11,00:49,Hit,n/a,-65.0,40.0,MacKenzie Weegar,Hitter,Florida Panthers,Samuel Girard,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:34:49Z,3,19:12,00:48,Shot,Wrist Shot,51.0,5.0,Aaron Ekblad,Shooter,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:34:59Z,3,19:23,00:37,Hit,n/a,93.0,-29.0,Brian Boyle,Hitter,Florida Panthers,Tyson Jost,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:35:46Z,3,19:42,00:18,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:36:10Z,3,19:59,00:01,Shot,Wrist Shot,-56.0,13.0,Valeri Nichushkin,Shooter,Colorado Avalanche,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:38:17Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-31T04:38:52Z,4,00:29,04:31,Goal,Backhand,-75.0,2.0,Jonathan Huberdeau,Scorer,Florida Panthers,Aleksander Barkov,Assist,Florida Panthers,Philipp Grubauer,Goalie,Colorado Avalanche,n/a,n/a,n/a

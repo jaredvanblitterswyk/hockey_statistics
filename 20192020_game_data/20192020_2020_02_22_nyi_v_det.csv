@@ -1,0 +1,281 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-22T01:14:40Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Frans Nielsen,Winner,Detroit Red Wings,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:16:15Z,1,00:21,19:39,Shot,Wrist Shot,77.0,-6.0,Michael Dal Colle,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:42:10Z,1,00:21,19:39,Faceoff,n/a,69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:16:49Z,1,00:29,19:31,Giveaway,n/a,63.0,-1.0,Madison Bowey,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:16:54Z,1,00:33,19:27,Shot,Wrist Shot,45.0,-31.0,Andy Greene,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:16:56Z,1,00:35,19:25,Hit,n/a,94.0,-22.0,Leo Komarov,Hitter,New York Islanders,Mike Green,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:17:05Z,1,00:44,19:16,Blocked Shot,n/a,-63.0,14.0,Ryan Pulock,Blocker,New York Islanders,Madison Bowey,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:17:15Z,1,00:54,19:06,Missed Shot,n/a,-63.0,-26.0,Mike Green,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:17:22Z,1,01:01,18:59,Hit,n/a,-10.0,-40.0,Leo Komarov,Hitter,New York Islanders,Madison Bowey,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:17:35Z,1,01:14,18:46,Missed Shot,n/a,-34.0,29.0,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:18:10Z,1,01:39,18:21,Faceoff,n/a,-20.0,-22.0,Valtteri Filppula,Winner,Detroit Red Wings,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:08:18Z,1,02:04,17:56,Shot,Deflected,-79.0,0.0,Andreas Athanasiou,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:18:57Z,1,02:07,17:53,Missed Shot,n/a,-35.0,38.0,Alex Biega,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:19:16Z,1,02:07,17:53,Faceoff,n/a,-69.0,22.0,Christoffer Ehn,Winner,Detroit Red Wings,Otto Koivula,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:19:27Z,1,02:14,17:46,Takeaway,n/a,-45.0,-2.0,Christoffer Ehn,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:19:30Z,1,02:15,17:45,Shot,Wrist Shot,-65.0,2.0,Brendan Perlini,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:19:40Z,1,02:16,17:44,Faceoff,n/a,-69.0,-22.0,Christoffer Ehn,Winner,Detroit Red Wings,Otto Koivula,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:19:58Z,1,02:22,17:38,Hit,n/a,-31.0,-41.0,Tom Kuhnhackl,Hitter,New York Islanders,Gustav Lindstrom,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:20:04Z,1,02:27,17:33,Hit,n/a,-93.0,-24.0,Adam Erne,Hitter,Detroit Red Wings,Otto Koivula,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:20:21Z,1,02:45,17:15,Hit,n/a,93.0,-26.0,Otto Koivula,Hitter,New York Islanders,Christoffer Ehn,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:20:46Z,1,03:10,16:50,Hit,n/a,61.0,-39.0,Matt Martin,Hitter,New York Islanders,Adam Erne,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:21:11Z,1,03:35,16:25,Hit,n/a,96.0,-17.0,Michael Dal Colle,Hitter,New York Islanders,Luke Glendening,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:21:31Z,1,03:55,16:05,Giveaway,n/a,-63.0,-40.0,Ryan Pulock,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:21:37Z,1,03:59,16:01,Hit,n/a,-15.0,39.0,Mike Green,Hitter,Detroit Red Wings,Andrew Ladd,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:21:54Z,1,04:00,16:00,Faceoff,n/a,-69.0,-22.0,Josh Bailey,Winner,New York Islanders,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:22:31Z,1,04:31,15:29,Hit,n/a,96.0,-17.0,Gustav Lindstrom,Hitter,Detroit Red Wings,Brock Nelson,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:23:00Z,1,05:00,15:00,Takeaway,n/a,-17.0,15.0,Devon Toews,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:23:07Z,1,05:07,14:53,Giveaway,n/a,96.0,3.0,Madison Bowey,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:23:22Z,1,05:22,14:38,Giveaway,n/a,36.0,-38.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:23:46Z,1,05:45,14:15,Goal,Slap Shot,79.0,0.0,Jordan Eberle,Scorer,New York Islanders,Ryan Pulock,Assist,New York Islanders,Anders Lee,Assist,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings
+2020-02-22T02:08:18Z,1,05:45,14:15,Faceoff,n/a,0.0,0.0,Christoffer Ehn,Winner,Detroit Red Wings,Otto Koivula,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:24:47Z,1,06:03,13:57,Missed Shot,n/a,-85.0,-7.0,Christoffer Ehn,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:24:49Z,1,06:04,13:56,Hit,n/a,-52.0,-40.0,Christoffer Ehn,Hitter,Detroit Red Wings,Johnny Boychuk,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:24:57Z,1,06:13,13:47,Hit,n/a,-52.0,-39.0,Johnny Boychuk,Hitter,New York Islanders,Christoffer Ehn,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:25:06Z,1,06:19,13:41,Hit,n/a,-95.0,-22.0,Adam Erne,Hitter,Detroit Red Wings,Matt Martin,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:25:08Z,1,06:23,13:37,Shot,Wrist Shot,51.0,-26.0,Johnny Boychuk,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:27:35Z,1,06:23,13:37,Faceoff,n/a,69.0,-22.0,Brock Nelson,Winner,New York Islanders,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:28:01Z,1,06:48,13:12,Blocked Shot,n/a,74.0,-3.0,Frans Nielsen,Blocker,Detroit Red Wings,Anthony Beauvillier,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:28:27Z,1,07:14,12:46,Shot,Slap Shot,75.0,1.0,Scott Mayfield,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:28:50Z,1,07:37,12:23,Takeaway,n/a,-76.0,1.0,Devon Toews,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:29:04Z,1,07:51,12:09,Giveaway,n/a,-58.0,39.0,Dylan Larkin,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:29:16Z,1,08:03,11:57,Hit,n/a,52.0,-40.0,Patrik Nemeth,Hitter,Detroit Red Wings,Jordan Eberle,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:29:26Z,1,08:13,11:47,Giveaway,n/a,33.0,-23.0,Anders Lee,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:29:55Z,1,08:42,11:18,Hit,n/a,22.0,-40.0,Andrew Ladd,Hitter,New York Islanders,Andreas Athanasiou,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:30:06Z,1,08:53,11:07,Hit,n/a,98.0,-3.0,Andrew Ladd,Hitter,New York Islanders,Gustav Lindstrom,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:30:14Z,1,09:00,11:00,Hit,n/a,7.0,40.0,Michael Dal Colle,Hitter,New York Islanders,Christoffer Ehn,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:30:18Z,1,09:05,10:55,Shot,Tip-In,73.0,4.0,Otto Koivula,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:31:12Z,1,09:23,10:37,Shot,Wrist Shot,47.0,-25.0,Johnny Boychuk,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:31:12Z,1,09:23,10:37,Faceoff,n/a,69.0,-22.0,Frans Nielsen,Winner,Detroit Red Wings,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:31:28Z,1,09:39,10:21,Shot,Slap Shot,49.0,-32.0,Johnny Boychuk,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:31:36Z,1,09:47,10:13,Blocked Shot,n/a,74.0,7.0,Mike Green,Blocker,Detroit Red Wings,Mathew Barzal,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:31:42Z,1,09:53,10:07,Missed Shot,n/a,32.0,0.0,Nick Leddy,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:31:50Z,1,10:01,09:59,Shot,Slap Shot,50.0,-25.0,Johnny Boychuk,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:31:59Z,1,10:10,09:50,Hit,n/a,97.0,1.0,Madison Bowey,Hitter,Detroit Red Wings,Anders Lee,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:32:07Z,1,10:18,09:42,Shot,Wrist Shot,42.0,-27.0,Johnny Boychuk,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:34:21Z,1,10:18,09:42,Faceoff,n/a,69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:34:42Z,1,10:24,09:36,Hit,n/a,79.0,-38.0,Leo Komarov,Hitter,New York Islanders,Patrik Nemeth,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:34:43Z,1,10:26,09:34,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:35:20Z,1,10:41,09:19,Penalty,Elbowing,-60.0,39.0,Dylan Larkin,PenaltyOn,Detroit Red Wings,Anthony Beauvillier,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:35:58Z,1,10:41,09:19,Faceoff,n/a,69.0,22.0,Josh Bailey,Winner,New York Islanders,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:37:35Z,1,12:23,07:37,Hit,n/a,86.0,-34.0,Gustav Lindstrom,Hitter,Detroit Red Wings,Anders Lee,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:37:49Z,1,12:23,07:37,Faceoff,n/a,69.0,-22.0,Brock Nelson,Winner,New York Islanders,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:38:29Z,1,12:43,07:17,Blocked Shot,n/a,73.0,10.0,Frans Nielsen,Blocker,Detroit Red Wings,Anders Lee,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:38:55Z,1,12:50,07:10,Faceoff,n/a,69.0,22.0,Otto Koivula,Winner,New York Islanders,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:39:31Z,1,12:59,07:01,Faceoff,n/a,69.0,22.0,Otto Koivula,Winner,New York Islanders,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:39:52Z,1,13:14,06:46,Hit,n/a,91.0,29.0,Matt Martin,Hitter,New York Islanders,Patrik Nemeth,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:39:50Z,1,13:16,06:44,Shot,Wrist Shot,45.0,36.0,Andy Greene,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:44:49Z,1,13:16,06:44,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:40:29Z,1,13:26,06:34,Hit,n/a,59.0,-40.0,Michael Dal Colle,Hitter,New York Islanders,Robby Fabbri,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:40:35Z,1,13:32,06:28,Giveaway,n/a,-7.0,-27.0,Robby Fabbri,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:40:45Z,1,13:39,06:21,Hit,n/a,96.0,2.0,Andrew Ladd,Hitter,New York Islanders,Gustav Lindstrom,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:40:55Z,1,13:52,06:08,Hit,n/a,-80.0,37.0,Ryan Pulock,Hitter,New York Islanders,Robby Fabbri,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:41:00Z,1,13:56,06:04,Blocked Shot,n/a,-81.0,19.0,Josh Bailey,Blocker,New York Islanders,Dylan Larkin,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:41:22Z,1,14:02,05:58,Penalty,Hi-sticking,-62.0,40.0,Michael Dal Colle,PenaltyOn,New York Islanders,Anthony Mantha,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:43:42Z,1,14:02,05:58,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:43:57Z,1,14:21,05:39,Giveaway,n/a,-93.0,14.0,Andy Greene,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:44:49Z,1,14:27,05:33,Faceoff,n/a,69.0,-22.0,Valtteri Filppula,Winner,Detroit Red Wings,Leo Komarov,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:45:54Z,1,15:29,04:31,Missed Shot,n/a,58.0,27.0,Mike Green,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:46:07Z,1,15:42,04:18,Missed Shot,n/a,-70.0,23.0,Andreas Athanasiou,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:46:21Z,1,15:51,04:09,Blocked Shot,n/a,79.0,2.0,Gustav Lindstrom,Blocker,Detroit Red Wings,Brock Nelson,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:46:34Z,1,15:51,04:09,Faceoff,n/a,69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:47:02Z,1,16:11,03:49,Hit,n/a,-83.0,-35.0,Johnny Boychuk,Hitter,New York Islanders,Dylan Larkin,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:47:20Z,1,16:28,03:32,Takeaway,n/a,11.0,38.0,Dylan Larkin,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:47:27Z,1,16:34,03:26,Shot,Backhand,74.0,-13.0,Anders Lee,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:47:56Z,1,16:34,03:26,Faceoff,n/a,69.0,-22.0,Mathew Barzal,Winner,New York Islanders,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:48:47Z,1,17:22,02:38,Shot,Slap Shot,54.0,23.0,Michael Dal Colle,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:48:51Z,1,17:22,02:38,Penalty,Slashing,86.0,16.0,Adam Erne,PenaltyOn,Detroit Red Wings,Mathew Barzal,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:49:18Z,1,17:22,02:38,Faceoff,n/a,69.0,22.0,Brock Nelson,Winner,New York Islanders,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:50:10Z,1,18:12,01:48,Takeaway,n/a,30.0,-20.0,Brock Nelson,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:50:16Z,1,18:19,01:41,Blocked Shot,n/a,67.0,11.0,Alex Biega,Blocker,Detroit Red Wings,Brock Nelson,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:50:20Z,1,18:23,01:37,Hit,n/a,95.0,-15.0,Alex Biega,Hitter,Detroit Red Wings,Anders Lee,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:50:59Z,1,19:01,00:59,Blocked Shot,n/a,73.0,15.0,Madison Bowey,Blocker,Detroit Red Wings,Ryan Pulock,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:51:17Z,1,19:19,00:41,Giveaway,n/a,46.0,36.0,Nick Leddy,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T01:51:46Z,1,19:48,00:12,Hit,n/a,76.0,-38.0,Matt Martin,Hitter,New York Islanders,Trevor Daley,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:10:25Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Frans Nielsen,Winner,Detroit Red Wings,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:10:54Z,2,00:28,19:32,Hit,n/a,-81.0,-36.0,Andrew Ladd,Hitter,New York Islanders,Patrik Nemeth,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:10:55Z,2,00:29,19:31,Shot,Backhand,-80.0,-5.0,Michael Dal Colle,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:10:58Z,2,00:33,19:27,Hit,n/a,-56.0,-39.0,Luke Glendening,Hitter,Detroit Red Wings,Andrew Ladd,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:11:22Z,2,00:57,19:03,Shot,Wrist Shot,-68.0,-14.0,Andy Greene,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:11:31Z,2,00:57,19:03,Faceoff,n/a,-69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:11:47Z,2,01:02,18:58,Hit,n/a,-81.0,-37.0,Leo Komarov,Hitter,New York Islanders,Alex Biega,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:12:08Z,2,01:21,18:39,Giveaway,n/a,-58.0,-5.0,Luke Glendening,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:12:08Z,2,01:22,18:38,Shot,Wrist Shot,-54.0,13.0,Leo Komarov,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:12:28Z,2,01:22,18:38,Faceoff,n/a,-69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Anders Lee,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:12:45Z,2,01:33,18:27,Shot,Wrist Shot,-74.0,-1.0,Jordan Eberle,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:12:54Z,2,01:33,18:27,Faceoff,n/a,-69.0,-22.0,Anders Lee,Winner,New York Islanders,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:13:25Z,2,01:53,18:07,Missed Shot,n/a,47.0,11.0,Mike Green,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:13:52Z,2,02:18,17:42,Shot,Tip-In,74.0,3.0,Valtteri Filppula,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:14:08Z,2,02:18,17:42,Faceoff,n/a,69.0,22.0,Valtteri Filppula,Winner,Detroit Red Wings,Otto Koivula,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:14:32Z,2,02:25,17:35,Blocked Shot,n/a,67.0,22.0,Andy Greene,Blocker,New York Islanders,Tyler Bertuzzi,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:15:20Z,2,03:13,16:47,Shot,Wrist Shot,75.0,7.0,Trevor Daley,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:15:58Z,2,03:52,16:08,Missed Shot,n/a,84.0,-17.0,Christoffer Ehn,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:16:24Z,2,04:17,15:43,Hit,n/a,-65.0,-20.0,Christoffer Ehn,Hitter,Detroit Red Wings,Andrew Ladd,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:16:48Z,2,04:18,15:42,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Christoffer Ehn,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:17:09Z,2,04:30,15:30,Shot,Wrist Shot,-67.0,-8.0,Anthony Beauvillier,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:17:28Z,2,04:32,15:28,Faceoff,n/a,-20.0,22.0,Frans Nielsen,Winner,Detroit Red Wings,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:17:45Z,2,04:42,15:18,Faceoff,n/a,-69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Anders Lee,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:18:39Z,2,05:24,14:36,Shot,Backhand,81.0,-5.0,Dylan Larkin,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:19:15Z,2,06:00,14:00,Hit,n/a,-94.0,21.0,Anthony Beauvillier,Hitter,New York Islanders,Mike Green,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:19:17Z,2,06:02,13:58,Missed Shot,n/a,-35.0,37.0,Scott Mayfield,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:19:25Z,2,06:09,13:51,Shot,Wrist Shot,-42.0,-31.0,Andy Greene,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:21:43Z,2,06:09,13:51,Faceoff,n/a,-69.0,-22.0,Valtteri Filppula,Winner,Detroit Red Wings,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:21:58Z,2,06:20,13:40,Giveaway,n/a,-97.0,-1.0,Madison Bowey,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:22:25Z,2,06:48,13:12,Takeaway,n/a,-94.0,-25.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:22:27Z,2,06:49,13:11,Shot,Wrist Shot,-76.0,-9.0,Anders Lee,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:22:52Z,2,06:49,13:11,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:24:41Z,2,07:09,12:51,Faceoff,n/a,69.0,-22.0,Brock Nelson,Winner,New York Islanders,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:24:53Z,2,07:24,12:36,Takeaway,n/a,-96.0,18.0,Brock Nelson,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:25:02Z,2,07:33,12:27,Giveaway,n/a,-76.0,1.0,Gustav Lindstrom,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:25:03Z,2,07:34,12:26,Missed Shot,n/a,-45.0,19.0,Scott Mayfield,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:25:33Z,2,08:03,11:57,Shot,Wrist Shot,67.0,17.0,Robby Fabbri,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:25:53Z,2,08:04,11:56,Faceoff,n/a,69.0,22.0,Christoffer Ehn,Winner,Detroit Red Wings,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:26:34Z,2,08:37,11:23,Giveaway,n/a,18.0,-32.0,Adam Erne,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:26:49Z,2,08:51,11:09,Hit,n/a,94.0,-22.0,Christoffer Ehn,Hitter,Detroit Red Wings,Johnny Boychuk,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:26:53Z,2,08:55,11:05,Blocked Shot,n/a,67.0,13.0,Nick Leddy,Blocker,New York Islanders,Brendan Perlini,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:27:27Z,2,09:29,10:31,Giveaway,n/a,96.0,-5.0,Andy Greene,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:27:45Z,2,09:45,10:15,Hit,n/a,-23.0,39.0,Patrik Nemeth,Hitter,Detroit Red Wings,Anders Lee,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:28:06Z,2,09:47,10:13,Faceoff,n/a,20.0,-22.0,Valtteri Filppula,Winner,Detroit Red Wings,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:28:25Z,2,10:02,09:58,Blocked Shot,n/a,75.0,1.0,Ryan Pulock,Blocker,New York Islanders,Alex Biega,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:28:33Z,2,10:03,09:57,Shot,Wrist Shot,77.0,1.0,Andreas Athanasiou,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:03Z,2,10:03,09:57,Faceoff,n/a,69.0,-22.0,Valtteri Filppula,Winner,Detroit Red Wings,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:31:14Z,2,10:14,09:46,Takeaway,n/a,32.0,24.0,Andreas Athanasiou,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:31:26Z,2,10:25,09:35,Shot,Wrist Shot,40.0,-29.0,Alex Biega,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:31:32Z,2,10:31,09:29,Shot,Wrist Shot,41.0,-24.0,Alex Biega,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:31:36Z,2,10:34,09:26,Giveaway,n/a,86.0,-17.0,Andreas Athanasiou,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:03Z,2,10:49,09:11,Blocked Shot,n/a,71.0,-4.0,Anders Lee,Blocker,New York Islanders,Alex Biega,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:31:50Z,2,10:50,09:10,Shot,Wrist Shot,76.0,-9.0,Tyler Bertuzzi,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:18Z,2,11:18,08:42,Shot,Wrist Shot,-67.0,-6.0,Anthony Beauvillier,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:23Z,2,11:23,08:37,Giveaway,n/a,-94.0,-22.0,Anthony Beauvillier,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:31Z,2,11:31,08:29,Shot,Wrist Shot,-56.0,-6.0,Scott Mayfield,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:40Z,2,11:39,08:21,Shot,Slap Shot,-53.0,23.0,Scott Mayfield,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:32:49Z,2,11:48,08:12,Blocked Shot,n/a,-49.0,3.0,Dylan Larkin,Blocker,Detroit Red Wings,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:33:05Z,2,12:05,07:55,Takeaway,n/a,-50.0,-18.0,Tom Kuhnhackl,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:33:13Z,2,12:13,07:47,Shot,Backhand,75.0,-2.0,Dylan Larkin,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:33:27Z,2,12:27,07:33,Hit,n/a,-96.0,-20.0,Michael Dal Colle,Hitter,New York Islanders,Madison Bowey,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:33:34Z,2,12:28,07:32,Hit,n/a,-18.0,-38.0,Matt Martin,Hitter,New York Islanders,Anthony Mantha,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:33:40Z,2,12:39,07:21,Missed Shot,n/a,-49.0,35.0,Michael Dal Colle,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:33:57Z,2,12:57,07:03,Hit,n/a,-57.0,39.0,Christoffer Ehn,Hitter,Detroit Red Wings,Otto Koivula,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:34:07Z,2,13:07,06:53,Shot,Wrist Shot,-82.0,24.0,Josh Bailey,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:34:19Z,2,13:19,06:41,Hit,n/a,-57.0,40.0,Christoffer Ehn,Hitter,Detroit Red Wings,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:34:24Z,2,13:23,06:37,Hit,n/a,-84.0,-35.0,Mike Green,Hitter,Detroit Red Wings,Andy Greene,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:34:33Z,2,13:32,06:28,Takeaway,n/a,97.0,2.0,Brendan Perlini,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:34:38Z,2,13:37,06:23,Giveaway,n/a,42.0,21.0,Andrew Ladd,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:34:45Z,2,13:42,06:18,Shot,Wrap-around,90.0,7.0,Alex Biega,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:35:06Z,2,13:42,06:18,Faceoff,n/a,69.0,22.0,Mathew Barzal,Winner,New York Islanders,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:36:02Z,2,13:51,06:09,Missed Shot,n/a,46.0,-27.0,Valtteri Filppula,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:36:02Z,2,13:52,06:08,Faceoff,n/a,69.0,-22.0,Valtteri Filppula,Winner,Detroit Red Wings,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:35:54Z,2,13:57,06:03,Giveaway,n/a,59.0,-23.0,Andreas Athanasiou,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:36:28Z,2,14:30,05:30,Blocked Shot,n/a,-75.0,3.0,Patrik Nemeth,Blocker,Detroit Red Wings,Nick Leddy,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:36:36Z,2,14:38,05:22,Blocked Shot,n/a,-82.0,11.0,Patrik Nemeth,Blocker,Detroit Red Wings,Scott Mayfield,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:37:29Z,2,15:31,04:29,Giveaway,n/a,-46.0,-40.0,Brock Nelson,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:37:46Z,2,15:49,04:11,Hit,n/a,94.0,20.0,Ryan Pulock,Hitter,New York Islanders,Frans Nielsen,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:38:04Z,2,16:07,03:53,Hit,n/a,86.0,-36.0,Luke Glendening,Hitter,Detroit Red Wings,Michael Dal Colle,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:38:08Z,2,16:10,03:50,Shot,Wrist Shot,65.0,-20.0,Darren Helm,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:40:41Z,2,16:10,03:50,Faceoff,n/a,69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:40:34Z,2,16:19,03:41,Giveaway,n/a,34.0,32.0,Robby Fabbri,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:40:39Z,2,16:24,03:36,Shot,Wrist Shot,-63.0,18.0,Tom Kuhnhackl,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:41:10Z,2,16:56,03:04,Hit,n/a,91.0,28.0,Dylan Larkin,Hitter,Detroit Red Wings,Devon Toews,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:41:18Z,2,17:02,02:58,Goal,Wrist Shot,-68.0,-18.0,Jordan Eberle,Scorer,New York Islanders,Mathew Barzal,Assist,New York Islanders,Anthony Beauvillier,Assist,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings
+2020-02-22T02:42:08Z,2,17:02,02:58,Faceoff,n/a,0.0,0.0,Valtteri Filppula,Winner,Detroit Red Wings,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:42:13Z,2,17:13,02:47,Shot,Deflected,-16.0,-38.0,Tyler Bertuzzi,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:42:35Z,2,17:13,02:47,Faceoff,n/a,69.0,22.0,Josh Bailey,Winner,New York Islanders,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:43:13Z,2,17:45,02:15,Shot,Tip-In,-80.0,5.0,Devon Toews,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:43:36Z,2,17:45,02:15,Faceoff,n/a,-69.0,22.0,Frans Nielsen,Winner,Detroit Red Wings,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:43:52Z,2,17:53,02:07,Shot,Wrist Shot,-70.0,25.0,Anders Lee,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:44:08Z,2,18:08,01:52,Blocked Shot,n/a,-64.0,1.0,Frans Nielsen,Blocker,Detroit Red Wings,Mathew Barzal,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:44:11Z,2,18:08,01:52,Penalty,Cross checking,-70.0,-1.0,Alex Biega,PenaltyOn,Detroit Red Wings,Jordan Eberle,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:44:58Z,2,18:08,01:52,Faceoff,n/a,-69.0,-22.0,Valtteri Filppula,Winner,Detroit Red Wings,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:45:22Z,2,18:38,01:22,Shot,Wrist Shot,-82.0,6.0,Anders Lee,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:45:31Z,2,18:47,01:13,Shot,Wrist Shot,-77.0,-2.0,Jordan Eberle,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:45:53Z,2,19:09,00:51,Shot,Wrist Shot,-51.0,20.0,Brock Nelson,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:45:59Z,2,19:15,00:45,Hit,n/a,-86.0,-33.0,Valtteri Filppula,Hitter,Detroit Red Wings,Mathew Barzal,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:45:59Z,2,19:15,00:45,Shot,Wrist Shot,-77.0,-7.0,Mathew Barzal,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:46:07Z,2,19:20,00:40,Shot,Tip-In,-73.0,-1.0,Anders Lee,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:47:40Z,2,19:20,00:40,Faceoff,n/a,-69.0,-22.0,Josh Bailey,Winner,New York Islanders,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:46:59Z,2,19:39,00:21,Blocked Shot,n/a,-73.0,13.0,Trevor Daley,Blocker,Detroit Red Wings,Josh Bailey,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:47:13Z,2,19:53,00:07,Hit,n/a,93.0,-26.0,Luke Glendening,Hitter,Detroit Red Wings,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T02:47:40Z,2,19:58,00:02,Shot,Backhand,-50.0,22.0,Anthony Beauvillier,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:06:05Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Luke Glendening,Winner,Detroit Red Wings,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:06:30Z,3,00:25,19:35,Giveaway,n/a,96.0,-16.0,Michael Dal Colle,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:06:45Z,3,00:42,19:18,Hit,n/a,92.0,-27.0,Andrew Ladd,Hitter,New York Islanders,Mike Green,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:07:44Z,3,01:39,18:21,Hit,n/a,-94.0,-26.0,Scott Mayfield,Hitter,New York Islanders,Andreas Athanasiou,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:08:07Z,3,02:02,17:58,Hit,n/a,96.0,23.0,Tyler Bertuzzi,Hitter,Detroit Red Wings,Mathew Barzal,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:08:34Z,3,02:07,17:53,Faceoff,n/a,-20.0,22.0,Otto Koivula,Winner,New York Islanders,Christoffer Ehn,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:08:54Z,3,02:23,17:37,Hit,n/a,-97.0,-9.0,Adam Erne,Hitter,Detroit Red Wings,Nick Leddy,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:09:06Z,3,02:36,17:24,Missed Shot,n/a,-37.0,35.0,Alex Biega,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:09:59Z,3,03:07,16:53,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Otto Koivula,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:10:25Z,3,03:16,16:44,Blocked Shot,n/a,-74.0,-9.0,Nick Leddy,Blocker,New York Islanders,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:10:58Z,3,04:01,15:59,Hit,n/a,-97.0,17.0,Robby Fabbri,Hitter,Detroit Red Wings,Andy Greene,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:11:23Z,3,04:26,15:34,Hit,n/a,-58.0,38.0,Andrew Ladd,Hitter,New York Islanders,Frans Nielsen,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:11:28Z,3,04:31,15:29,Missed Shot,n/a,-42.0,34.0,Mike Green,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:11:36Z,3,04:39,15:21,Giveaway,n/a,-35.0,35.0,Mike Green,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:11:54Z,3,04:56,15:04,Blocked Shot,n/a,80.0,-7.0,Madison Bowey,Blocker,Detroit Red Wings,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:12:12Z,3,05:14,14:46,Blocked Shot,n/a,47.0,-10.0,Andreas Athanasiou,Blocker,Detroit Red Wings,Ryan Pulock,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:12:29Z,3,05:32,14:28,Hit,n/a,36.0,39.0,Alex Biega,Hitter,Detroit Red Wings,Andy Greene,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:13:05Z,3,05:41,14:19,Faceoff,n/a,-20.0,-22.0,Otto Koivula,Winner,New York Islanders,Christoffer Ehn,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:13:26Z,3,05:53,14:07,Faceoff,n/a,69.0,22.0,Christoffer Ehn,Winner,Detroit Red Wings,Otto Koivula,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:14:14Z,3,06:25,13:35,Hit,n/a,97.0,-17.0,Madison Bowey,Hitter,Detroit Red Wings,Otto Koivula,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:14:21Z,3,06:33,13:27,Hit,n/a,-21.0,-38.0,Matt Martin,Hitter,New York Islanders,Madison Bowey,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:14:45Z,3,06:56,13:04,Hit,n/a,95.0,19.0,Robby Fabbri,Hitter,Detroit Red Wings,Leo Komarov,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:14:57Z,3,07:09,12:51,Hit,n/a,-76.0,-40.0,Dylan Larkin,Hitter,Detroit Red Wings,Ryan Pulock,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:15:08Z,3,07:20,12:40,Blocked Shot,n/a,-60.0,23.0,Ryan Pulock,Blocker,New York Islanders,Dylan Larkin,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:15:19Z,3,07:30,12:30,Hit,n/a,-58.0,40.0,Anthony Beauvillier,Hitter,New York Islanders,Alex Biega,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:15:25Z,3,07:37,12:23,Hit,n/a,-69.0,-38.0,Ryan Pulock,Hitter,New York Islanders,Anthony Mantha,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:16:12Z,3,08:24,11:36,Shot,Wrist Shot,-53.0,-12.0,Valtteri Filppula,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:16:33Z,3,08:29,11:31,Faceoff,n/a,-69.0,22.0,Josh Bailey,Winner,New York Islanders,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:17:11Z,3,08:51,11:09,Missed Shot,n/a,-58.0,21.0,Darren Helm,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:17:23Z,3,09:03,10:57,Hit,n/a,-60.0,39.0,Ryan Pulock,Hitter,New York Islanders,Darren Helm,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:17:31Z,3,09:11,10:49,Shot,Wrist Shot,-63.0,-26.0,Frans Nielsen,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:17:45Z,3,09:23,10:37,Giveaway,n/a,-94.0,-16.0,Scott Mayfield,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:18:36Z,3,10:17,09:43,Blocked Shot,n/a,-82.0,-7.0,Nick Leddy,Blocker,New York Islanders,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:18:46Z,3,10:26,09:34,Missed Shot,n/a,-84.0,-16.0,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:18:50Z,3,10:31,09:29,Missed Shot,n/a,71.0,8.0,Leo Komarov,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:19:07Z,3,10:45,09:15,Hit,n/a,-96.0,6.0,Devon Toews,Hitter,New York Islanders,Robby Fabbri,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:21:37Z,3,11:03,08:57,Faceoff,n/a,20.0,22.0,Valtteri Filppula,Winner,Detroit Red Wings,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:22:07Z,3,11:26,08:34,Shot,Wrist Shot,64.0,-15.0,Anders Lee,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:22:39Z,3,11:26,08:34,Faceoff,n/a,69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:22:55Z,3,11:31,08:29,Penalty,Delaying Game - Puck over glass,94.0,19.0,Mike Green,PenaltyOn,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:23:24Z,3,11:31,08:29,Faceoff,n/a,69.0,22.0,Brock Nelson,Winner,New York Islanders,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:23:34Z,3,11:39,08:21,Shot,Slap Shot,42.0,31.0,Mathew Barzal,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:23:37Z,3,11:43,08:17,Giveaway,n/a,92.0,26.0,Patrik Nemeth,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:23:45Z,3,11:51,08:09,Takeaway,n/a,52.0,-38.0,Darren Helm,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:23:53Z,3,11:58,08:02,Hit,n/a,-56.0,39.0,Devon Toews,Hitter,New York Islanders,Darren Helm,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:24:08Z,3,12:14,07:46,Giveaway,n/a,40.0,-11.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:24:32Z,3,12:37,07:23,Hit,n/a,61.0,-39.0,Gustav Lindstrom,Hitter,Detroit Red Wings,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:25:41Z,3,13:46,06:14,Missed Shot,n/a,-81.0,-11.0,Christoffer Ehn,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:25:44Z,3,13:50,06:10,Giveaway,n/a,-86.0,-8.0,Christoffer Ehn,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:26:33Z,3,14:38,05:22,Blocked Shot,n/a,-71.0,-7.0,Johnny Boychuk,Blocker,New York Islanders,Dylan Larkin,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:26:40Z,3,14:45,05:15,Hit,n/a,-80.0,-38.0,Johnny Boychuk,Hitter,New York Islanders,Dylan Larkin,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:27:35Z,3,15:41,04:19,Missed Shot,n/a,-54.0,28.0,Luke Glendening,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:27:54Z,3,15:56,04:04,Penalty,Tripping,-17.0,-37.0,Andrew Ladd,PenaltyOn,New York Islanders,Darren Helm,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:30:08Z,3,15:56,04:04,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:30:27Z,3,16:09,03:51,Blocked Shot,n/a,-70.0,4.0,Scott Mayfield,Blocker,New York Islanders,Andreas Athanasiou,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:30:37Z,3,16:09,03:51,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:31:01Z,3,16:13,03:47,Blocked Shot,n/a,-56.0,-8.0,Josh Bailey,Blocker,New York Islanders,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:31:09Z,3,16:21,03:39,Shot,Wrist Shot,-73.0,0.0,Dylan Larkin,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:31:17Z,3,16:29,03:31,Shot,Tip-In,-80.0,1.0,Andreas Athanasiou,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:31:22Z,3,16:32,03:28,Shot,Slap Shot,-50.0,-5.0,Robby Fabbri,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:31:32Z,3,16:32,03:28,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:32:25Z,3,17:11,02:49,Blocked Shot,n/a,-74.0,-2.0,Andy Greene,Blocker,New York Islanders,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:32:30Z,3,17:17,02:43,Takeaway,n/a,-31.0,39.0,Anthony Mantha,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:32:37Z,3,17:18,02:42,Shot,Wrist Shot,-65.0,7.0,Dylan Larkin,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:34:47Z,3,17:19,02:41,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:35:14Z,3,17:25,02:35,Goal,Tip-In,-54.0,36.0,Anthony Mantha,Scorer,Detroit Red Wings,Mike Green,Assist,Detroit Red Wings,Dylan Larkin,Assist,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders
+2020-02-22T03:40:02Z,3,17:25,02:35,Faceoff,n/a,0.0,0.0,Brock Nelson,Winner,New York Islanders,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:36:26Z,3,17:30,02:30,Penalty,Tripping,-18.0,-26.0,Dylan Larkin,PenaltyOn,Detroit Red Wings,Leo Komarov,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:38:10Z,3,17:30,02:30,Faceoff,n/a,69.0,22.0,Anders Lee,Winner,New York Islanders,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:38:45Z,3,17:48,02:12,Shot,Snap Shot,63.0,14.0,Anders Lee,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:38:52Z,3,17:48,02:12,Faceoff,n/a,69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Anders Lee,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:39:24Z,3,18:09,01:51,Shot,Deflected,68.0,16.0,Alex Biega,Shooter,Detroit Red Wings,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:39:59Z,3,18:43,01:17,Giveaway,n/a,70.0,-13.0,Madison Bowey,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:40:12Z,3,18:56,01:04,Missed Shot,n/a,74.0,2.0,Anders Lee,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:40:40Z,3,19:23,00:37,Shot,Slap Shot,44.0,27.0,Andy Greene,Shooter,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:40:47Z,3,19:23,00:37,Goal,Wrist Shot,81.0,-14.0,Jordan Eberle,Scorer,New York Islanders,Anders Lee,Assist,New York Islanders,Andy Greene,Assist,New York Islanders,Jonathan Bernier,Goalie,Detroit Red Wings
+2020-02-22T03:42:30Z,3,19:23,00:37,Faceoff,n/a,0.0,0.0,Dylan Larkin,Winner,Detroit Red Wings,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:42:34Z,3,19:33,00:27,Hit,n/a,-96.0,-8.0,Dylan Larkin,Hitter,Detroit Red Wings,Scott Mayfield,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:42:42Z,3,19:41,00:19,Blocked Shot,n/a,-75.0,7.0,Scott Mayfield,Blocker,New York Islanders,Tyler Bertuzzi,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:42:49Z,3,19:48,00:12,Missed Shot,n/a,-45.0,-27.0,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-22T03:42:57Z,3,19:53,00:07,Goal,Wrist Shot,74.0,-3.0,Leo Komarov,Scorer,New York Islanders,Josh Bailey,Assist,New York Islanders,Brock Nelson,Assist,Detroit Red Wings,n/a,n/a,n/a
+2020-02-22T03:43:44Z,3,19:53,00:07,Faceoff,n/a,0.0,0.0,Otto Koivula,Winner,New York Islanders,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a

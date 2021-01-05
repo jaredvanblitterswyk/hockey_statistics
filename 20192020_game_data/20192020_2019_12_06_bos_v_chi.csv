@@ -1,0 +1,292 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-06T00:08:37Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Dylan Strome,Winner,Chicago Blackhawks,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:10:03Z,1,00:32,19:28,Shot,Wrist Shot,69.0,23.0,Torey Krug,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:10:13Z,1,00:33,19:27,Penalty,Hooking,73.0,2.0,Patrick Kane,PenaltyOn,Chicago Blackhawks,Brad Marchand,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:10:44Z,1,00:33,19:27,Faceoff,n/a,69.0,-22.0,Charlie Coyle,Winner,Boston Bruins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:10:59Z,1,00:58,19:02,Shot,Snap Shot,59.0,6.0,Danton Heinen,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:11:13Z,1,01:12,18:48,Hit,n/a,45.0,-36.0,Ryan Carpenter,Hitter,Chicago Blackhawks,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:11:53Z,1,01:45,18:15,Faceoff,n/a,20.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:12:33Z,1,02:04,17:56,Missed Shot,n/a,63.0,5.0,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:12:56Z,1,02:17,17:43,Shot,Snap Shot,71.0,13.0,Matt Grzelcyk,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:13:18Z,1,02:46,17:14,Takeaway,n/a,53.0,19.0,David Kampf,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:13:29Z,1,02:52,17:08,Hit,n/a,-36.0,38.0,David Kampf,Hitter,Chicago Blackhawks,Chris Wagner,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:13:50Z,1,02:53,17:07,Faceoff,n/a,-69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:14:50Z,1,03:31,16:29,Faceoff,n/a,-69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:15:12Z,1,03:51,16:09,Hit,n/a,-89.0,-26.0,John Moore,Hitter,Boston Bruins,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:15:25Z,1,04:04,15:56,Hit,n/a,-42.0,38.0,Joakim Nordstrom,Hitter,Boston Bruins,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:15:42Z,1,04:21,15:39,Shot,Wrist Shot,62.0,-36.0,David Backes,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:15:46Z,1,04:24,15:36,Blocked Shot,n/a,70.0,5.0,Ryan Carpenter,Blocker,Chicago Blackhawks,Torey Krug,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:16:10Z,1,04:24,15:36,Faceoff,n/a,69.0,22.0,David Krejci,Winner,Boston Bruins,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:16:38Z,1,04:49,15:11,Hit,n/a,-75.0,31.0,Anton Wedin,Hitter,Chicago Blackhawks,Torey Krug,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:16:50Z,1,04:57,15:03,Takeaway,n/a,-45.0,5.0,Jake DeBrusk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:17:05Z,1,05:15,14:45,Blocked Shot,n/a,82.0,-18.0,Dennis Gilbert,Blocker,Chicago Blackhawks,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:17:28Z,1,05:28,14:32,Faceoff,n/a,69.0,-22.0,Charlie Coyle,Winner,Boston Bruins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:17:52Z,1,05:35,14:25,Blocked Shot,n/a,44.0,-27.0,Alex Nylander,Blocker,Chicago Blackhawks,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:18:07Z,1,05:49,14:11,Missed Shot,n/a,-59.0,4.0,Brandon Saad,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:18:57Z,1,06:40,13:20,Missed Shot,n/a,40.0,4.0,Brandon Carlo,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:18:58Z,1,06:41,13:19,Hit,n/a,74.0,-34.0,Alex DeBrincat,Hitter,Chicago Blackhawks,Anders Bjork,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:19:22Z,1,07:05,12:55,Hit,n/a,87.0,-33.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Sean Kuraly,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:19:36Z,1,07:19,12:41,Shot,Wrist Shot,85.0,27.0,John Moore,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:19:57Z,1,07:39,12:21,Missed Shot,n/a,88.0,-31.0,David Backes,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:20:57Z,1,08:40,11:20,Missed Shot,n/a,-72.0,1.0,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:21:04Z,1,08:45,11:15,Shot,Wrist Shot,-42.0,13.0,Erik Gustafsson,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:22:57Z,1,08:45,11:15,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:24:06Z,1,09:20,10:40,Giveaway,n/a,-23.0,-17.0,Alex Nylander,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:24:16Z,1,09:30,10:30,Hit,n/a,95.0,-13.0,Sean Kuraly,Hitter,Boston Bruins,Alex Nylander,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:24:20Z,1,09:34,10:26,Takeaway,n/a,6.0,-40.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:24:42Z,1,09:56,10:04,Giveaway,n/a,-48.0,7.0,Alex DeBrincat,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:24:52Z,1,10:06,09:54,Blocked Shot,n/a,62.0,6.0,Connor Murphy,Blocker,Chicago Blackhawks,Danton Heinen,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:25:28Z,1,10:37,09:23,Shot,Wrist Shot,34.0,23.0,John Moore,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:26:52Z,1,10:38,09:22,Faceoff,n/a,69.0,22.0,David Krejci,Winner,Boston Bruins,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:27:59Z,1,10:52,09:08,Giveaway,n/a,95.0,-20.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:28:33Z,1,11:20,08:40,Giveaway,n/a,-86.0,23.0,Kirby Dach,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:28:29Z,1,11:22,08:38,Hit,n/a,-55.0,37.0,John Moore,Hitter,Boston Bruins,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:28:39Z,1,11:32,08:28,Shot,Wrist Shot,49.0,20.0,Jake DeBrusk,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:28:46Z,1,11:39,08:21,Blocked Shot,n/a,70.0,8.0,Zack Smith,Blocker,Chicago Blackhawks,John Moore,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:28:49Z,1,11:42,08:18,Takeaway,n/a,47.0,-4.0,Zack Smith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:29:02Z,1,11:55,08:05,Hit,n/a,-93.0,-8.0,Brandon Carlo,Hitter,Boston Bruins,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:29:36Z,1,12:29,07:31,Hit,n/a,91.0,-24.0,Danton Heinen,Hitter,Boston Bruins,Dennis Gilbert,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:29:44Z,1,12:37,07:23,Takeaway,n/a,35.0,-36.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:29:46Z,1,12:39,07:21,Hit,n/a,31.0,-37.0,Dennis Gilbert,Hitter,Chicago Blackhawks,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:29:53Z,1,12:40,07:20,Blocked Shot,n/a,-69.0,-12.0,Charlie McAvoy,Blocker,Boston Bruins,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:30:10Z,1,12:40,07:20,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,David Backes,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:30:26Z,1,12:49,07:11,Missed Shot,n/a,-38.0,-31.0,Calvin de Haan,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:30:40Z,1,13:03,06:57,Blocked Shot,n/a,68.0,0.0,Brent Seabrook,Blocker,Chicago Blackhawks,Joakim Nordstrom,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:30:49Z,1,13:12,06:48,Hit,n/a,-56.0,38.0,Zdeno Chara,Hitter,Boston Bruins,Brandon Saad,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:31:00Z,1,13:17,06:43,Missed Shot,n/a,-43.0,-28.0,Calvin de Haan,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:31:14Z,1,13:37,06:23,Missed Shot,n/a,-39.0,-29.0,Calvin de Haan,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:31:15Z,1,13:38,06:22,Hit,n/a,-73.0,37.0,Jonathan Toews,Hitter,Chicago Blackhawks,Zdeno Chara,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:31:31Z,1,13:54,06:06,Shot,Wrist Shot,-52.0,33.0,Alex Nylander,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:31:41Z,1,14:04,05:56,Giveaway,n/a,-37.0,-29.0,Slater Koekkoek,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:31:58Z,1,14:21,05:39,Takeaway,n/a,-57.0,10.0,Torey Krug,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:32:16Z,1,14:39,05:21,Missed Shot,n/a,-55.0,2.0,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:32:22Z,1,14:45,05:15,Hit,n/a,-81.0,31.0,Brandon Carlo,Hitter,Boston Bruins,Patrick Kane,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:32:22Z,1,14:45,05:15,Shot,Slap Shot,-40.0,-30.0,Dennis Gilbert,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:32:48Z,1,14:58,05:02,Faceoff,n/a,69.0,-22.0,Jake DeBrusk,Winner,Boston Bruins,Zack Smith,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:34:03Z,1,15:31,04:29,Faceoff,n/a,-69.0,-22.0,David Krejci,Winner,Boston Bruins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:34:31Z,1,15:43,04:17,Shot,Wrist Shot,-86.0,14.0,Jonathan Toews,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:36:38Z,1,15:43,04:17,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:37:00Z,1,15:52,04:08,Takeaway,n/a,-27.0,8.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:37:28Z,1,15:54,04:06,Faceoff,n/a,20.0,-22.0,Charlie Coyle,Winner,Boston Bruins,Dominik Kubalik,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:37:54Z,1,16:11,03:49,Hit,n/a,95.0,-16.0,Danton Heinen,Hitter,Boston Bruins,Calvin de Haan,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:38:04Z,1,16:21,03:39,Blocked Shot,n/a,69.0,-9.0,David Kampf,Blocker,Chicago Blackhawks,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:38:10Z,1,16:27,03:33,Shot,Wrist Shot,76.0,-1.0,Danton Heinen,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:38:34Z,1,16:35,03:25,Penalty,Tripping,-47.0,-2.0,Anton Wedin,PenaltyOn,Chicago Blackhawks,Charlie Coyle,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:39:00Z,1,16:35,03:25,Faceoff,n/a,69.0,-22.0,Charlie Coyle,Winner,Boston Bruins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:39:12Z,1,16:47,03:13,Blocked Shot,n/a,24.0,0.0,Jonathan Toews,Blocker,Chicago Blackhawks,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:39:24Z,1,16:59,03:01,Shot,Wrist Shot,74.0,-10.0,David Pastrnak,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:39:28Z,1,17:03,02:57,Hit,n/a,95.0,8.0,Calvin de Haan,Hitter,Chicago Blackhawks,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:39:59Z,1,17:34,02:26,Takeaway,n/a,35.0,-7.0,Brandon Saad,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:40:20Z,1,17:55,02:05,Missed Shot,n/a,82.0,25.0,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:40:33Z,1,18:08,01:52,Giveaway,n/a,35.0,-1.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:40:43Z,1,18:14,01:46,Shot,Wrist Shot,-50.0,29.0,Connor Murphy,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:41:03Z,1,18:14,01:46,Goal,Wrist Shot,-71.0,1.0,Ryan Carpenter,Scorer,Chicago Blackhawks,Connor Murphy,Assist,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a
+2019-12-06T00:41:37Z,1,18:14,01:46,Faceoff,n/a,0.0,0.0,David Krejci,Winner,Boston Bruins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:41:44Z,1,18:26,01:34,Shot,Wrist Shot,48.0,33.0,Torey Krug,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:41:57Z,1,18:26,01:34,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:42:42Z,1,18:41,01:19,Penalty,Interference,11.0,-28.0,David Pastrnak,PenaltyOn,Boston Bruins,Dennis Gilbert,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:43:12Z,1,18:41,01:19,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:43:16Z,1,18:51,01:09,Goal,Deflected,-73.0,0.0,Dylan Strome,Scorer,Chicago Blackhawks,Erik Gustafsson,Assist,Chicago Blackhawks,Patrick Kane,Assist,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins
+2019-12-06T00:43:55Z,1,18:51,01:09,Faceoff,n/a,0.0,0.0,Sean Kuraly,Winner,Boston Bruins,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:44:03Z,1,19:10,00:50,Shot,Wrist Shot,57.0,35.0,Sean Kuraly,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:44:57Z,1,19:50,00:10,Faceoff,n/a,69.0,22.0,David Krejci,Winner,Boston Bruins,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:45:20Z,1,19:56,00:04,Shot,Wrist Shot,47.0,34.0,Torey Krug,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T00:45:30Z,1,19:58,00:02,Shot,Wrist Shot,74.0,-20.0,Zack Smith,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:03:40Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Charlie Coyle,Winner,Boston Bruins,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:04:21Z,2,00:23,19:37,Takeaway,n/a,90.0,20.0,Alex DeBrincat,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:04:17Z,2,00:26,19:34,Shot,Snap Shot,75.0,5.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:04:24Z,2,00:29,19:31,Hit,n/a,92.0,24.0,Alex DeBrincat,Hitter,Chicago Blackhawks,Torey Krug,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:04:33Z,2,00:42,19:18,Blocked Shot,n/a,-67.0,0.0,Brent Seabrook,Blocker,Chicago Blackhawks,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:04:42Z,2,00:48,19:12,Giveaway,n/a,46.0,39.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:05:28Z,2,00:53,19:07,Penalty,Too many men on the ice,-80.0,21.0,Alex Nylander,PenaltyOn,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:05:54Z,2,00:53,19:07,Faceoff,n/a,-69.0,22.0,Charlie Coyle,Winner,Boston Bruins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:05:47Z,2,00:59,19:01,Shot,Wrist Shot,-41.0,-6.0,Brad Marchand,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:05:56Z,2,01:07,18:53,Shot,Wrist Shot,-65.0,-31.0,Torey Krug,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:06:18Z,2,01:26,18:34,Shot,Wrist Shot,-78.0,12.0,Danton Heinen,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:06:39Z,2,01:48,18:12,Shot,Wrist Shot,-87.0,28.0,Torey Krug,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:07:18Z,2,01:51,18:09,Faceoff,n/a,-69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:07:18Z,2,02:02,17:58,Shot,Slap Shot,-44.0,-3.0,David Pastrnak,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:07:18Z,2,02:03,17:57,Hit,n/a,-77.0,-35.0,Charlie Coyle,Hitter,Boston Bruins,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:07:35Z,2,02:19,17:41,Takeaway,n/a,-96.0,4.0,Brandon Saad,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:08:03Z,2,02:47,17:13,Giveaway,n/a,95.0,23.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:08:31Z,2,03:15,16:45,Blocked Shot,n/a,-65.0,12.0,Calvin de Haan,Blocker,Chicago Blackhawks,David Krejci,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:08:43Z,2,03:27,16:33,Takeaway,n/a,-55.0,40.0,Jake DeBrusk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:08:52Z,2,03:37,16:23,Hit,n/a,-65.0,39.0,Chris Wagner,Hitter,Boston Bruins,Zack Smith,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:08:57Z,2,03:42,16:18,Hit,n/a,-75.0,-36.0,Sean Kuraly,Hitter,Boston Bruins,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:09:32Z,2,04:17,15:43,Hit,n/a,-95.0,3.0,Chris Wagner,Hitter,Boston Bruins,Dennis Gilbert,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:09:49Z,2,04:34,15:26,Missed Shot,n/a,-61.0,15.0,Anders Bjork,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:10:08Z,2,04:49,15:11,Hit,n/a,8.0,38.0,David Backes,Hitter,Boston Bruins,Dennis Gilbert,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:10:24Z,2,05:09,14:51,Hit,n/a,-78.0,35.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Par Lindholm,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:10:35Z,2,05:20,14:40,Shot,Wrist Shot,-46.0,-37.0,Joakim Nordstrom,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:10:39Z,2,05:24,14:36,Hit,n/a,-97.0,-8.0,Erik Gustafsson,Hitter,Chicago Blackhawks,Danton Heinen,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:10:46Z,2,05:30,14:30,Hit,n/a,-14.0,-39.0,Brad Marchand,Hitter,Boston Bruins,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:10:55Z,2,05:36,14:24,Giveaway,n/a,-9.0,27.0,Danton Heinen,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:11:03Z,2,05:48,14:12,Hit,n/a,7.0,36.0,Brad Marchand,Hitter,Boston Bruins,Dennis Gilbert,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:11:25Z,2,06:10,13:50,Giveaway,n/a,95.0,16.0,Matt Grzelcyk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:11:31Z,2,06:15,13:45,Giveaway,n/a,96.0,11.0,John Moore,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:11:36Z,2,06:21,13:39,Shot,Snap Shot,69.0,-4.0,Jonathan Toews,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:11:41Z,2,06:26,13:34,Missed Shot,n/a,32.0,19.0,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:11:56Z,2,06:35,13:25,Blocked Shot,n/a,72.0,5.0,John Moore,Blocker,Boston Bruins,Calvin de Haan,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:11:56Z,2,06:41,13:19,Missed Shot,n/a,-78.0,8.0,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:12:20Z,2,06:48,13:12,Faceoff,n/a,-69.0,-22.0,David Krejci,Winner,Boston Bruins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:12:49Z,2,07:04,12:56,Takeaway,n/a,69.0,39.0,David Krejci,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:13:06Z,2,07:21,12:39,Giveaway,n/a,-65.0,-40.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:13:10Z,2,07:25,12:35,Giveaway,n/a,-44.0,-33.0,Zack Smith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:13:17Z,2,07:31,12:29,Blocked Shot,n/a,-74.0,9.0,Dennis Gilbert,Blocker,Chicago Blackhawks,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:13:18Z,2,07:33,12:27,Missed Shot,n/a,-72.0,6.0,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:13:33Z,2,07:48,12:12,Hit,n/a,-80.0,38.0,Dennis Gilbert,Hitter,Chicago Blackhawks,Jake DeBrusk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:14:04Z,2,08:14,11:46,Shot,Snap Shot,80.0,22.0,Patrick Kane,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:14:21Z,2,08:19,11:41,Shot,Wrist Shot,90.0,13.0,Patrick Kane,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:16:12Z,2,08:19,11:41,Faceoff,n/a,69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:16:45Z,2,08:37,11:23,Shot,Wrist Shot,35.0,25.0,Calvin de Haan,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:16:51Z,2,08:42,11:18,Hit,n/a,47.0,34.0,Calvin de Haan,Hitter,Chicago Blackhawks,Chris Wagner,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:17:14Z,2,09:06,10:54,Blocked Shot,n/a,-75.0,7.0,Calvin de Haan,Blocker,Chicago Blackhawks,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:17:27Z,2,09:18,10:42,Hit,n/a,89.0,28.0,Charlie McAvoy,Hitter,Boston Bruins,Dylan Strome,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:17:32Z,2,09:23,10:37,Giveaway,n/a,-69.0,-32.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:17:42Z,2,09:34,10:26,Takeaway,n/a,58.0,-29.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:18:16Z,2,10:07,09:53,Hit,n/a,86.0,31.0,Charlie Coyle,Hitter,Boston Bruins,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:20:33Z,2,10:13,09:47,Faceoff,n/a,-20.0,-22.0,David Krejci,Winner,Boston Bruins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:20:53Z,2,10:19,09:41,Takeaway,n/a,-61.0,-40.0,Brandon Saad,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:21:12Z,2,10:35,09:25,Penalty,Hi-sticking,65.0,34.0,Alex Nylander,PenaltyOn,Chicago Blackhawks,Charlie McAvoy,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:21:45Z,2,10:35,09:25,Faceoff,n/a,-69.0,22.0,David Krejci,Winner,Boston Bruins,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:22:01Z,2,10:49,09:11,Hit,n/a,-45.0,-36.0,Calvin de Haan,Hitter,Chicago Blackhawks,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:22:04Z,2,10:52,09:08,Missed Shot,n/a,-78.0,-17.0,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:22:14Z,2,10:57,09:03,Shot,Wrist Shot,-84.0,17.0,Connor Murphy,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:22:23Z,2,11:11,08:49,Giveaway,n/a,-7.0,36.0,David Backes,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:22:28Z,2,11:16,08:44,Shot,Wrist Shot,49.0,-21.0,David Kampf,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:22:49Z,2,11:38,08:22,Shot,Wrist Shot,-44.0,33.0,Charlie McAvoy,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:23:06Z,2,11:54,08:06,Giveaway,n/a,-37.0,-7.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:23:36Z,2,12:18,07:42,Blocked Shot,n/a,-73.0,9.0,Slater Koekkoek,Blocker,Chicago Blackhawks,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:23:53Z,2,12:18,07:42,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Brad Marchand,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:24:20Z,2,12:30,07:30,Hit,n/a,-49.0,37.0,Jonathan Toews,Hitter,Chicago Blackhawks,Torey Krug,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:24:29Z,2,12:39,07:21,Shot,Wrist Shot,-42.0,0.0,Danton Heinen,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:24:42Z,2,12:52,07:08,Hit,n/a,-72.0,-36.0,Connor Murphy,Hitter,Chicago Blackhawks,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:24:49Z,2,12:58,07:02,Blocked Shot,n/a,-75.0,6.0,Calvin de Haan,Blocker,Chicago Blackhawks,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:25:42Z,2,12:58,07:02,Penalty,Roughing,-78.0,2.0,David Pastrnak,PenaltyOn,Boston Bruins,Connor Murphy,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:26:26Z,2,12:58,07:02,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:26:41Z,2,13:08,06:52,Shot,Wrist Shot,58.0,-30.0,Patrick Kane,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:26:51Z,2,13:08,06:52,Faceoff,n/a,69.0,-22.0,Par Lindholm,Winner,Boston Bruins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:27:53Z,2,14:02,05:58,Giveaway,n/a,88.0,-16.0,Zdeno Chara,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:28:25Z,2,14:32,05:28,Shot,Snap Shot,65.0,20.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:28:56Z,2,14:32,05:28,Faceoff,n/a,69.0,22.0,Charlie Coyle,Winner,Boston Bruins,Brandon Saad,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:29:43Z,2,15:17,04:43,Hit,n/a,92.0,-17.0,John Moore,Hitter,Boston Bruins,Alex Nylander,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:29:50Z,2,15:25,04:35,Blocked Shot,n/a,66.0,-9.0,David Pastrnak,Blocker,Boston Bruins,Kirby Dach,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:29:56Z,2,15:31,04:29,Takeaway,n/a,29.0,-26.0,Charlie Coyle,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:30:26Z,2,16:00,04:00,Takeaway,n/a,-46.0,-17.0,Anton Wedin,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:30:31Z,2,16:05,03:55,Takeaway,n/a,-74.0,-20.0,David Krejci,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:30:39Z,2,16:14,03:46,Blocked Shot,n/a,-73.0,8.0,David Kampf,Blocker,Chicago Blackhawks,Danton Heinen,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:30:49Z,2,16:23,03:37,Hit,n/a,97.0,-7.0,Dominik Kubalik,Hitter,Chicago Blackhawks,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:31:37Z,2,17:12,02:48,Shot,Wrist Shot,77.0,-21.0,Patrick Kane,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:31:47Z,2,17:21,02:39,Missed Shot,n/a,38.0,-21.0,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:32:02Z,2,17:37,02:23,Hit,n/a,-63.0,9.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Jake DeBrusk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:32:15Z,2,17:49,02:11,Giveaway,n/a,62.0,36.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:32:27Z,2,18:02,01:58,Hit,n/a,-14.0,32.0,Chris Wagner,Hitter,Boston Bruins,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:32:45Z,2,18:19,01:41,Missed Shot,n/a,74.0,-4.0,Kirby Dach,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:33:00Z,2,18:35,01:25,Blocked Shot,n/a,76.0,-2.0,John Moore,Blocker,Boston Bruins,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:33:12Z,2,18:47,01:13,Blocked Shot,n/a,61.0,-4.0,Chris Wagner,Blocker,Boston Bruins,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:33:20Z,2,18:54,01:06,Missed Shot,n/a,-63.0,36.0,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:33:25Z,2,18:56,01:04,Shot,Wrist Shot,-46.0,-27.0,Zdeno Chara,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:35:33Z,2,18:56,01:04,Faceoff,n/a,-69.0,-22.0,David Krejci,Winner,Boston Bruins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:36:01Z,2,19:02,00:58,Shot,Wrist Shot,-39.0,-2.0,Charlie McAvoy,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:36:18Z,2,19:02,00:58,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:36:41Z,2,19:12,00:48,Shot,Wrist Shot,45.0,36.0,David Kampf,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:37:04Z,2,19:12,00:48,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:37:16Z,2,19:23,00:37,Blocked Shot,n/a,74.0,1.0,Charlie McAvoy,Blocker,Boston Bruins,David Kampf,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:37:42Z,2,19:49,00:11,Takeaway,n/a,-17.0,-38.0,Patrick Kane,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:37:46Z,2,19:53,00:07,Shot,Slap Shot,-38.0,2.0,Dylan Strome,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:56:12Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Charlie Coyle,Winner,Boston Bruins,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:57:12Z,3,00:17,19:43,Goal,Wrist Shot,-65.0,-19.0,Alex DeBrincat,Scorer,Chicago Blackhawks,Dylan Strome,Assist,Chicago Blackhawks,Calvin de Haan,Assist,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins
+2019-12-06T01:57:42Z,3,00:17,19:43,Faceoff,n/a,0.0,0.0,Sean Kuraly,Winner,Boston Bruins,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:57:45Z,3,00:24,19:36,Faceoff,n/a,-69.0,-22.0,Chris Wagner,Winner,Boston Bruins,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:58:56Z,3,00:51,19:09,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:59:26Z,3,01:07,18:53,Shot,Slap Shot,36.0,20.0,Zdeno Chara,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T01:59:51Z,3,01:07,18:53,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:00:50Z,3,01:21,18:39,Faceoff,n/a,69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:00:57Z,3,01:33,18:27,Hit,n/a,-74.0,-36.0,Torey Krug,Hitter,Boston Bruins,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:01:16Z,3,01:49,18:11,Shot,Wrist Shot,57.0,-19.0,David Backes,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:01:24Z,3,01:49,18:11,Goal,Wrist Shot,73.0,1.0,Joakim Nordstrom,Scorer,Boston Bruins,David Backes,Assist,Boston Bruins,Charlie McAvoy,Assist,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks
+2019-12-06T02:02:06Z,3,01:49,18:11,Faceoff,n/a,0.0,0.0,David Kampf,Winner,Chicago Blackhawks,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:02:23Z,3,02:08,17:52,Missed Shot,n/a,79.0,-25.0,Chris Wagner,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:03:49Z,3,03:40,16:20,Giveaway,n/a,42.0,-33.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:03:53Z,3,03:44,16:16,Giveaway,n/a,10.0,10.0,Dylan Strome,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:03:58Z,3,03:47,16:13,Shot,Wrist Shot,61.0,-40.0,Charlie Coyle,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:04:21Z,3,03:47,16:13,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:04:33Z,3,03:54,16:06,Shot,Wrist Shot,35.0,-9.0,Brad Marchand,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:04:53Z,3,03:54,16:06,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:05:06Z,3,04:04,15:56,Giveaway,n/a,52.0,35.0,Brandon Saad,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:05:10Z,3,04:07,15:53,Blocked Shot,n/a,76.0,12.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:05:24Z,3,04:22,15:38,Takeaway,n/a,-12.0,-25.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:05:35Z,3,04:33,15:27,Blocked Shot,n/a,69.0,6.0,Jonathan Toews,Blocker,Chicago Blackhawks,Torey Krug,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:05:43Z,3,04:41,15:19,Takeaway,n/a,-54.0,-2.0,Torey Krug,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:05:53Z,3,04:51,15:09,Hit,n/a,58.0,-17.0,Dennis Gilbert,Hitter,Chicago Blackhawks,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:06:09Z,3,05:07,14:53,Hit,n/a,92.0,-27.0,Anders Bjork,Hitter,Boston Bruins,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:06:55Z,3,05:53,14:07,Giveaway,n/a,23.0,3.0,Par Lindholm,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:07:14Z,3,05:59,14:01,Shot,Slap Shot,-46.0,25.0,Connor Murphy,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:07:47Z,3,05:59,14:01,Faceoff,n/a,-69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:07:55Z,3,06:15,13:45,Shot,Wrist Shot,68.0,-13.0,Danton Heinen,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:08:03Z,3,06:18,13:42,Blocked Shot,n/a,-71.0,8.0,Danton Heinen,Blocker,Boston Bruins,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:08:19Z,3,06:39,13:21,Takeaway,n/a,-93.0,22.0,Dylan Strome,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:08:33Z,3,06:52,13:08,Hit,n/a,-73.0,-37.0,Matt Grzelcyk,Hitter,Boston Bruins,Dominik Kubalik,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:08:45Z,3,07:05,12:55,Shot,Wrist Shot,-45.0,-1.0,Dennis Gilbert,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:09:15Z,3,07:34,12:26,Giveaway,n/a,47.0,-36.0,Calvin de Haan,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:09:19Z,3,07:39,12:21,Shot,Deflected,74.0,-4.0,Jake DeBrusk,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:09:45Z,3,08:05,11:55,Hit,n/a,47.0,-37.0,Calvin de Haan,Hitter,Chicago Blackhawks,Anders Bjork,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:10:17Z,3,08:33,11:27,Hit,n/a,-47.0,38.0,Zack Smith,Hitter,Chicago Blackhawks,Anders Bjork,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:10:24Z,3,08:43,11:17,Takeaway,n/a,83.0,-32.0,Ryan Carpenter,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:10:42Z,3,08:59,11:01,Blocked Shot,n/a,-73.0,4.0,Matt Grzelcyk,Blocker,Boston Bruins,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:10:50Z,3,09:10,10:50,Takeaway,n/a,-8.0,35.0,Ryan Carpenter,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:11:01Z,3,09:21,10:39,Giveaway,n/a,-96.0,21.0,Par Lindholm,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:11:13Z,3,09:29,10:31,Shot,Deflected,9.0,31.0,Joakim Nordstrom,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:11:42Z,3,09:29,10:31,Faceoff,n/a,69.0,22.0,Par Lindholm,Winner,Boston Bruins,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:11:55Z,3,09:36,10:24,Shot,Wrist Shot,36.0,8.0,John Moore,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:12:01Z,3,09:43,10:17,Shot,Wrist Shot,69.0,4.0,Joakim Nordstrom,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:12:15Z,3,09:57,10:03,Shot,Slap Shot,22.0,36.0,Torey Krug,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:12:17Z,3,09:59,10:01,Hit,n/a,53.0,36.0,Par Lindholm,Hitter,Boston Bruins,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:12:32Z,3,10:14,09:46,Shot,Wrist Shot,58.0,-17.0,Charlie McAvoy,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:12:51Z,3,10:18,09:42,Faceoff,n/a,69.0,-22.0,Charlie Coyle,Winner,Boston Bruins,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:13:28Z,3,10:38,09:22,Shot,Wrist Shot,31.0,-21.0,Charlie Coyle,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:13:55Z,3,11:05,08:55,Missed Shot,n/a,62.0,-5.0,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:13:59Z,3,11:08,08:52,Hit,n/a,93.0,13.0,Matt Grzelcyk,Hitter,Boston Bruins,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:14:05Z,3,11:15,08:45,Missed Shot,n/a,-58.0,-24.0,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:14:17Z,3,11:27,08:33,Shot,Wrist Shot,-66.0,29.0,Kirby Dach,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:14:27Z,3,11:37,08:23,Hit,n/a,-97.0,20.0,Zack Smith,Hitter,Chicago Blackhawks,Zdeno Chara,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:14:33Z,3,11:38,08:22,Missed Shot,n/a,-81.0,28.0,Kirby Dach,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:14:37Z,3,11:46,08:14,Hit,n/a,-47.0,-38.0,Zack Smith,Hitter,Chicago Blackhawks,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:15:25Z,3,11:46,08:14,Penalty,Fighting,-31.0,-23.0,Zack Smith,PenaltyOn,Chicago Blackhawks,John Moore,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:15:25Z,3,11:46,08:14,Penalty,Fighting,-32.0,-24.0,John Moore,PenaltyOn,Boston Bruins,Zack Smith,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:17:23Z,3,11:46,08:14,Faceoff,n/a,20.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:17:51Z,3,11:52,08:08,Hit,n/a,-12.0,-37.0,Sean Kuraly,Hitter,Boston Bruins,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:18:27Z,3,12:04,07:56,Faceoff,n/a,69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:19:03Z,3,12:35,07:25,Missed Shot,n/a,58.0,26.0,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:19:20Z,3,12:53,07:07,Shot,Snap Shot,-66.0,3.0,Dylan Strome,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:19:32Z,3,13:04,06:56,Shot,Wrist Shot,-50.0,-23.0,Connor Murphy,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:19:46Z,3,13:18,06:42,Hit,n/a,-15.0,-37.0,Charlie McAvoy,Hitter,Boston Bruins,David Kampf,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:19:55Z,3,13:28,06:32,Shot,Wrist Shot,40.0,13.0,Danton Heinen,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:20:14Z,3,13:40,06:20,Penalty,Roughing,57.0,-7.0,Charlie Coyle,PenaltyOn,Boston Bruins,Slater Koekkoek,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:22:16Z,3,13:40,06:20,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:22:55Z,3,13:57,06:03,Shot,Wrist Shot,-47.0,-27.0,Erik Gustafsson,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:23:07Z,3,14:09,05:51,Shot,Snap Shot,-38.0,0.0,Erik Gustafsson,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:23:34Z,3,14:35,05:25,Shot,Slap Shot,-65.0,21.0,Patrick Kane,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:23:58Z,3,14:35,05:25,Faceoff,n/a,-69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:24:54Z,3,14:56,05:04,Blocked Shot,n/a,-54.0,16.0,Matt Grzelcyk,Blocker,Boston Bruins,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:24:37Z,3,15:01,04:59,Goal,Wrist Shot,69.0,-3.0,Chris Wagner,Scorer,Boston Bruins,Sean Kuraly,Assist,Boston Bruins,Matt Grzelcyk,Assist,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks
+2019-12-06T02:25:29Z,3,15:01,04:59,Faceoff,n/a,0.0,0.0,Brandon Saad,Winner,Chicago Blackhawks,Joakim Nordstrom,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:26:23Z,3,15:46,04:14,Shot,Snap Shot,1.0,-29.0,Calvin de Haan,Shooter,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:26:48Z,3,16:12,03:48,Blocked Shot,n/a,-75.0,4.0,Zdeno Chara,Blocker,Boston Bruins,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:26:52Z,3,16:16,03:44,Missed Shot,n/a,-68.0,21.0,Ryan Carpenter,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:27:26Z,3,16:49,03:11,Hit,n/a,-94.0,-15.0,Charlie McAvoy,Hitter,Boston Bruins,Dennis Gilbert,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:27:34Z,3,16:58,03:02,Takeaway,n/a,34.0,3.0,Dennis Gilbert,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:28:07Z,3,17:25,02:35,Hit,n/a,79.0,-32.0,Dennis Gilbert,Hitter,Chicago Blackhawks,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:28:07Z,3,17:27,02:33,Goal,Slap Shot,83.0,-17.0,Torey Krug,Scorer,Boston Bruins,Jake DeBrusk,Assist,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a
+2019-12-06T02:28:58Z,3,17:27,02:33,Faceoff,n/a,0.0,0.0,Ryan Carpenter,Winner,Chicago Blackhawks,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:29:26Z,3,17:51,02:09,Giveaway,n/a,6.0,36.0,Chris Wagner,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:29:42Z,3,18:11,01:49,Shot,Wrist Shot,-17.0,32.0,Anders Bjork,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:30:09Z,3,18:11,01:49,Faceoff,n/a,69.0,22.0,Charlie Coyle,Winner,Boston Bruins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:30:36Z,3,18:34,01:26,Blocked Shot,n/a,69.0,-7.0,Brent Seabrook,Blocker,Chicago Blackhawks,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:30:52Z,3,18:49,01:11,Shot,Slap Shot,65.0,-20.0,Charlie Coyle,Shooter,Boston Bruins,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:30:57Z,3,18:55,01:05,Hit,n/a,91.0,-18.0,Charlie Coyle,Hitter,Boston Bruins,Calvin de Haan,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:31:42Z,3,19:39,00:21,Missed Shot,n/a,-44.0,-26.0,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:31:53Z,3,19:50,00:10,Hit,n/a,-93.0,-16.0,Brandon Carlo,Hitter,Boston Bruins,Dominik Kubalik,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:34:40Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:36:36Z,4,00:52,04:08,Hit,n/a,-51.0,17.0,Jonathan Toews,Hitter,Chicago Blackhawks,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-06T02:35:35Z,4,00:54,04:06,Goal,Backhand,72.0,-2.0,Jonathan Toews,Scorer,Chicago Blackhawks,Connor Murphy,Assist,Chicago Blackhawks,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a

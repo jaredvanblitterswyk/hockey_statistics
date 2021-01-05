@@ -1,0 +1,236 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-03-09T02:09:04Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:09:41Z,1,00:30,19:30,Missed Shot,n/a,-74.0,-34.0,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:09:50Z,1,00:39,19:21,Takeaway,n/a,-12.0,30.0,Tanner Pearson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:10:07Z,1,00:56,19:04,Missed Shot,n/a,52.0,31.0,Nick Foligno,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:10:24Z,1,01:12,18:48,Hit,n/a,43.0,-40.0,Nick Foligno,Hitter,Columbus Blue Jackets,Oscar Fantenberg,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:10:50Z,1,01:38,18:22,Hit,n/a,98.0,10.0,Riley Nash,Hitter,Columbus Blue Jackets,Alexander Edler,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:11:01Z,1,01:50,18:10,Giveaway,n/a,-76.0,32.0,Zack MacEwen,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:11:13Z,1,02:01,17:59,Shot,Wrist Shot,-6.0,-39.0,Alexander Edler,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:11:32Z,1,02:01,17:59,Faceoff,n/a,-69.0,-22.0,Brandon Sutter,Winner,Vancouver Canucks,Devin Shore,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:20:03Z,1,02:15,17:45,Blocked Shot,n/a,-81.0,0.0,Zach Werenski,Blocker,Columbus Blue Jackets,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:11:53Z,1,02:17,17:43,Shot,Wrist Shot,-76.0,-3.0,Jake Virtanen,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:20:03Z,1,02:17,17:43,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:12:44Z,1,02:38,17:22,Missed Shot,n/a,-29.0,-37.0,Oscar Fantenberg,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:12:51Z,1,02:44,17:16,Blocked Shot,n/a,-79.0,5.0,David Savard,Blocker,Columbus Blue Jackets,Tyler Myers,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:14:07Z,1,03:45,16:15,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:14:47Z,1,04:13,15:47,Shot,Wrist Shot,-32.0,34.0,Troy Stecher,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:15:10Z,1,04:33,15:27,Missed Shot,n/a,36.0,8.0,Andrew Peeke,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:15:24Z,1,04:33,15:27,Faceoff,n/a,69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:16:02Z,1,05:00,15:00,Hit,n/a,-44.0,32.0,Andrew Peeke,Hitter,Columbus Blue Jackets,Tyler Motte,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:16:22Z,1,05:16,14:44,Hit,n/a,98.0,15.0,Antoine Roussel,Hitter,Vancouver Canucks,Andrew Peeke,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:16:39Z,1,05:37,14:23,Missed Shot,n/a,-81.0,4.0,Zack MacEwen,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:16:47Z,1,05:45,14:15,Giveaway,n/a,-53.0,-1.0,Christopher Tanev,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:16:54Z,1,05:51,14:09,Missed Shot,n/a,68.0,-34.0,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:16:58Z,1,05:55,14:05,Hit,n/a,86.0,-36.0,J.T. Miller,Hitter,Vancouver Canucks,David Savard,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:17:05Z,1,06:03,13:57,Shot,Wrist Shot,54.0,23.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:17:13Z,1,06:11,13:49,Hit,n/a,94.0,24.0,Vladislav Gavrikov,Hitter,Columbus Blue Jackets,Christopher Tanev,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:17:47Z,1,06:31,13:29,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:18:09Z,1,06:44,13:16,Hit,n/a,94.0,-27.0,Alexander Edler,Hitter,Vancouver Canucks,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:18:30Z,1,07:04,12:56,Hit,n/a,43.0,-40.0,Nick Foligno,Hitter,Columbus Blue Jackets,Tanner Pearson,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:18:35Z,1,07:09,12:51,Hit,n/a,-43.0,-42.0,Andrew Peeke,Hitter,Columbus Blue Jackets,Bo Horvat,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:20:54Z,1,07:25,12:35,Faceoff,n/a,-20.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:21:32Z,1,08:01,11:59,Giveaway,n/a,32.0,20.0,Elias Pettersson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:21:45Z,1,08:11,11:49,Penalty,Interference,-26.0,-22.0,David Savard,PenaltyOn,Columbus Blue Jackets,Jake Virtanen,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:22:18Z,1,08:11,11:49,Faceoff,n/a,-69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:22:29Z,1,08:21,11:39,Shot,Wrist Shot,41.0,25.0,Ryan Murray,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:23:23Z,1,08:54,11:06,Faceoff,n/a,-20.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:24:12Z,1,09:41,10:19,Hit,n/a,-28.0,38.0,Nick Foligno,Hitter,Columbus Blue Jackets,Elias Pettersson,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:24:47Z,1,10:16,09:44,Missed Shot,n/a,-41.0,-7.0,Troy Stecher,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:24:53Z,1,10:22,09:38,Shot,Wrap-around,-89.0,3.0,Adam Gaudette,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:25:43Z,1,11:12,08:48,Takeaway,n/a,90.0,-30.0,Tyler Motte,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:25:59Z,1,11:14,08:46,Faceoff,n/a,69.0,22.0,Devin Shore,Winner,Columbus Blue Jackets,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:26:16Z,1,11:21,08:39,Hit,n/a,98.0,12.0,Tyler Myers,Hitter,Vancouver Canucks,Devin Shore,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:26:26Z,1,11:31,08:29,Blocked Shot,n/a,52.0,-20.0,Tyler Motte,Blocker,Vancouver Canucks,Andrew Peeke,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:26:42Z,1,11:44,08:16,Blocked Shot,n/a,72.0,7.0,Tyler Myers,Blocker,Vancouver Canucks,Stefan Matteau,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:27:05Z,1,12:10,07:50,Giveaway,n/a,-30.0,17.0,Quinn Hughes,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:27:22Z,1,12:26,07:34,Hit,n/a,-30.0,39.0,Eric Robinson,Hitter,Columbus Blue Jackets,Troy Stecher,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:27:36Z,1,12:41,07:19,Missed Shot,n/a,-37.0,-33.0,Jake Virtanen,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:27:44Z,1,12:48,07:12,Shot,Slap Shot,-70.0,-23.0,Jake Virtanen,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:28:06Z,1,13:11,06:49,Blocked Shot,n/a,-52.0,-4.0,Ryan Murray,Blocker,Columbus Blue Jackets,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:29:06Z,1,14:10,05:50,Shot,Wrist Shot,-49.0,-10.0,Brandon Sutter,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:29:48Z,1,14:53,05:07,Hit,n/a,-98.0,12.0,David Savard,Hitter,Columbus Blue Jackets,Zack MacEwen,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:29:58Z,1,15:01,04:59,Hit,n/a,19.0,39.0,Jake Virtanen,Hitter,Vancouver Canucks,Jakob Lilja,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:30:15Z,1,15:02,04:58,Faceoff,n/a,-69.0,-22.0,Devin Shore,Winner,Columbus Blue Jackets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:30:40Z,1,15:18,04:42,Blocked Shot,n/a,-71.0,-5.0,David Savard,Blocker,Columbus Blue Jackets,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:30:48Z,1,15:23,04:37,Missed Shot,n/a,48.0,-31.0,Jakob Lilja,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:32:56Z,1,15:23,04:37,Faceoff,n/a,69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:33:22Z,1,15:54,04:06,Giveaway,n/a,52.0,36.0,Jake Virtanen,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:33:27Z,1,15:59,04:01,Blocked Shot,n/a,56.0,1.0,Jake Virtanen,Blocker,Vancouver Canucks,Eric Robinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:34:00Z,1,16:03,03:57,Hit,n/a,54.0,-40.0,Jake Virtanen,Hitter,Vancouver Canucks,Ryan Murray,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:33:43Z,1,16:04,03:56,Blocked Shot,n/a,58.0,-2.0,Tanner Pearson,Blocker,Vancouver Canucks,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:34:00Z,1,16:04,03:56,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:34:20Z,1,16:20,03:40,Blocked Shot,n/a,-71.0,-7.0,Nick Foligno,Blocker,Columbus Blue Jackets,Oscar Fantenberg,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:34:27Z,1,16:27,03:33,Shot,Wrist Shot,49.0,38.0,Boone Jenner,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:36:15Z,1,16:28,03:32,Faceoff,n/a,69.0,22.0,Brandon Sutter,Winner,Vancouver Canucks,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:36:56Z,1,16:48,03:12,Hit,n/a,92.0,29.0,Emil Bemstrom,Hitter,Columbus Blue Jackets,Oscar Fantenberg,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:37:39Z,1,17:04,02:56,Faceoff,n/a,-20.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:37:50Z,1,17:16,02:44,Hit,n/a,-94.0,28.0,Tanner Pearson,Hitter,Vancouver Canucks,David Savard,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:38:46Z,1,18:12,01:48,Giveaway,n/a,-96.0,0.0,Markus Nutivaara,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:39:00Z,1,18:16,01:44,Blocked Shot,n/a,-64.0,11.0,Stefan Matteau,Blocker,Columbus Blue Jackets,Troy Stecher,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:39:12Z,1,18:20,01:40,Faceoff,n/a,-69.0,-22.0,Elias Pettersson,Winner,Vancouver Canucks,Devin Shore,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:40:21Z,1,19:17,00:43,Hit,n/a,-20.0,-41.0,Oscar Fantenberg,Hitter,Vancouver Canucks,Kevin Stenlund,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:40:58Z,1,19:27,00:33,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:41:16Z,1,19:39,00:21,Hit,n/a,99.0,12.0,Nick Foligno,Hitter,Columbus Blue Jackets,Christopher Tanev,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:41:28Z,1,19:48,00:12,Penalty,Hooking,85.0,-8.0,Quinn Hughes,PenaltyOn,Vancouver Canucks,Boone Jenner,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:42:00Z,1,19:48,00:12,Faceoff,n/a,69.0,22.0,Brandon Sutter,Winner,Vancouver Canucks,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T02:42:15Z,1,19:58,00:02,Missed Shot,n/a,64.0,20.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:00:43Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Brandon Sutter,Winner,Vancouver Canucks,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:00:46Z,2,00:11,19:49,Shot,Wrist Shot,-34.0,-8.0,Alexander Edler,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:00:58Z,2,00:23,19:37,Takeaway,n/a,-29.0,-38.0,Zach Werenski,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:01:30Z,2,00:55,19:05,Shot,Wrist Shot,43.0,32.0,Loui Eriksson,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:02:24Z,2,01:49,18:11,Takeaway,n/a,-75.0,-23.0,Tyler Myers,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:02:57Z,2,02:22,17:38,Blocked Shot,n/a,-65.0,4.0,Bo Horvat,Blocker,Vancouver Canucks,Andrew Peeke,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:03:20Z,2,02:45,17:15,Hit,n/a,98.0,9.0,Tanner Pearson,Hitter,Vancouver Canucks,Eric Robinson,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:03:56Z,2,03:21,16:39,Hit,n/a,-99.0,-10.0,Devin Shore,Hitter,Columbus Blue Jackets,Quinn Hughes,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:04:06Z,2,03:29,16:31,Blocked Shot,n/a,72.0,10.0,Ryan Murray,Blocker,Columbus Blue Jackets,Tyler Toffoli,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:04:16Z,2,03:41,16:19,Shot,Wrist Shot,-54.0,-29.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:04:45Z,2,03:41,16:19,Faceoff,n/a,-69.0,-22.0,Brandon Sutter,Winner,Vancouver Canucks,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:05:11Z,2,04:01,15:59,Hit,n/a,98.0,-1.0,Tyler Motte,Hitter,Vancouver Canucks,Andrew Peeke,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:05:14Z,2,04:04,15:56,Shot,Wrist Shot,-64.0,16.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:05:42Z,2,04:04,15:56,Faceoff,n/a,-69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:06:09Z,2,04:28,15:32,Blocked Shot,n/a,76.0,-6.0,Boone Jenner,Blocker,Columbus Blue Jackets,Jake Virtanen,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:06:20Z,2,04:40,15:20,Blocked Shot,n/a,-80.0,-12.0,Troy Stecher,Blocker,Vancouver Canucks,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:07:17Z,2,05:08,14:52,Faceoff,n/a,20.0,22.0,J.T. Miller,Winner,Vancouver Canucks,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:07:50Z,2,05:32,14:28,Shot,Wrist Shot,66.0,-14.0,Tyler Toffoli,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:08:22Z,2,06:03,13:57,Blocked Shot,n/a,-73.0,8.0,Oscar Fantenberg,Blocker,Vancouver Canucks,Kevin Stenlund,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:08:41Z,2,06:23,13:37,Hit,n/a,-89.0,-32.0,Jakob Lilja,Hitter,Columbus Blue Jackets,Oscar Fantenberg,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:08:43Z,2,06:25,13:35,Missed Shot,n/a,-74.0,-38.0,Stefan Matteau,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:08:53Z,2,06:35,13:25,Hit,n/a,-98.0,18.0,Adam Gaudette,Hitter,Vancouver Canucks,Stefan Matteau,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:09:37Z,2,07:06,12:54,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:09:59Z,2,07:18,12:42,Goal,Wrist Shot,-75.0,5.0,Emil Bemstrom,Scorer,Columbus Blue Jackets,Pierre-Luc Dubois,Assist,Columbus Blue Jackets,Alexander Wennberg,Assist,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks
+2020-03-09T03:10:42Z,2,07:18,12:42,Faceoff,n/a,0.0,0.0,J.T. Miller,Winner,Vancouver Canucks,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:11:07Z,2,07:33,12:27,Hit,n/a,57.0,-32.0,Vladislav Gavrikov,Hitter,Columbus Blue Jackets,Elias Pettersson,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:11:21Z,2,07:44,12:16,Penalty,Hi-sticking,66.0,0.0,David Savard,PenaltyOn,Columbus Blue Jackets,Elias Pettersson,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:13:05Z,2,07:44,12:16,Faceoff,n/a,69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:13:41Z,2,07:54,12:06,Shot,Wrist Shot,60.0,-26.0,Elias Pettersson,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:13:49Z,2,07:54,12:06,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:14:14Z,2,08:11,11:49,Shot,Snap Shot,71.0,5.0,Bo Horvat,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:14:52Z,2,08:49,11:11,Blocked Shot,n/a,53.0,1.0,Boone Jenner,Blocker,Columbus Blue Jackets,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:15:00Z,2,08:58,11:02,Blocked Shot,n/a,69.0,0.0,Ryan Murray,Blocker,Columbus Blue Jackets,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:15:26Z,2,09:23,10:37,Shot,Wrist Shot,59.0,-19.0,Tyler Toffoli,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:15:41Z,2,09:38,10:22,Shot,Wrist Shot,-36.0,-31.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:16:02Z,2,10:00,10:00,Hit,n/a,92.0,29.0,Tanner Pearson,Hitter,Vancouver Canucks,Andrew Peeke,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:16:13Z,2,10:10,09:50,Giveaway,n/a,-26.0,16.0,Alexander Edler,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:16:20Z,2,10:18,09:42,Hit,n/a,-78.0,-17.0,Stefan Matteau,Hitter,Columbus Blue Jackets,Tyler Myers,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:16:26Z,2,10:24,09:36,Hit,n/a,-54.0,-41.0,Tyler Motte,Hitter,Vancouver Canucks,Stefan Matteau,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:16:56Z,2,10:54,09:06,Blocked Shot,n/a,-63.0,-20.0,Oscar Fantenberg,Blocker,Vancouver Canucks,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:17:32Z,2,11:30,08:30,Hit,n/a,-63.0,-42.0,Oscar Fantenberg,Hitter,Vancouver Canucks,Riley Nash,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:17:43Z,2,11:41,08:19,Missed Shot,n/a,-83.0,-37.0,Eric Robinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:17:48Z,2,11:45,08:15,Takeaway,n/a,-44.0,31.0,Ryan Murray,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:18:20Z,2,11:50,08:10,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:19:27Z,2,12:32,07:28,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:20:30Z,2,13:24,06:36,Shot,Wrist Shot,65.0,22.0,Quinn Hughes,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:23:17Z,2,13:24,06:36,Faceoff,n/a,69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Adam Gaudette,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:22:53Z,2,13:38,06:22,Hit,n/a,94.0,-27.0,Eric Robinson,Hitter,Columbus Blue Jackets,Adam Gaudette,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:23:18Z,2,13:44,06:16,Faceoff,n/a,-69.0,-22.0,Adam Gaudette,Winner,Vancouver Canucks,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:23:56Z,2,14:01,05:59,Faceoff,n/a,69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:24:10Z,2,14:09,05:51,Missed Shot,n/a,53.0,15.0,Tanner Pearson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:28:41Z,2,14:15,05:45,Takeaway,n/a,54.0,-39.0,Alexander Wennberg,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:24:45Z,2,14:43,05:17,Blocked Shot,n/a,75.0,10.0,Zach Werenski,Blocker,Columbus Blue Jackets,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:24:59Z,2,14:59,05:01,Missed Shot,n/a,56.0,-8.0,Tyler Toffoli,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:25:44Z,2,15:42,04:18,Shot,Deflected,3.0,-2.0,Tyler Toffoli,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:25:51Z,2,15:51,04:09,Giveaway,n/a,7.0,-40.0,Vladislav Gavrikov,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:26:41Z,2,16:40,03:20,Blocked Shot,n/a,-64.0,3.0,Quinn Hughes,Blocker,Vancouver Canucks,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:26:59Z,2,16:58,03:02,Giveaway,n/a,64.0,36.0,Andrew Peeke,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:27:01Z,2,17:00,03:00,Shot,Wrist Shot,72.0,13.0,Jake Virtanen,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:27:54Z,2,17:28,02:32,Faceoff,n/a,-69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Elias Pettersson,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:28:09Z,2,17:41,02:19,Shot,Snap Shot,-32.0,17.0,David Savard,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:29:43Z,2,17:41,02:19,Faceoff,n/a,-69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:30:29Z,2,17:57,02:03,Blocked Shot,n/a,-46.0,-27.0,Bo Horvat,Blocker,Vancouver Canucks,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:30:43Z,2,17:57,02:03,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:30:43Z,2,18:02,01:58,Giveaway,n/a,-89.0,-28.0,Christopher Tanev,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:31:01Z,2,18:06,01:54,Shot,Wrist Shot,-62.0,-12.0,Boone Jenner,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:31:18Z,2,18:06,01:54,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:31:42Z,2,18:23,01:37,Hit,n/a,-96.0,-17.0,Nick Foligno,Hitter,Columbus Blue Jackets,Christopher Tanev,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:32:49Z,2,19:00,01:00,Faceoff,n/a,69.0,-22.0,Adam Gaudette,Winner,Vancouver Canucks,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:32:55Z,2,19:08,00:52,Missed Shot,n/a,82.0,2.0,Zack MacEwen,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:33:39Z,2,19:24,00:36,Blocked Shot,n/a,-51.0,-19.0,Zack MacEwen,Blocker,Vancouver Canucks,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:33:14Z,2,19:25,00:35,Hit,n/a,-39.0,-30.0,Zack MacEwen,Hitter,Vancouver Canucks,Vladislav Gavrikov,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:33:20Z,2,19:32,00:28,Goal,Slap Shot,-60.0,0.0,Eric Robinson,Scorer,Columbus Blue Jackets,David Savard,Assist,Columbus Blue Jackets,Vladislav Gavrikov,Assist,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks
+2020-03-09T03:34:04Z,2,19:32,00:28,Faceoff,n/a,0.0,0.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:34:31Z,2,19:58,00:02,Blocked Shot,n/a,64.0,3.0,David Savard,Blocker,Columbus Blue Jackets,Tyler Motte,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:53:01Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:53:11Z,3,00:10,19:50,Shot,Backhand,79.0,1.0,Alexander Wennberg,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:53:19Z,3,00:18,19:42,Shot,Wrist Shot,53.0,-26.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:53:39Z,3,00:38,19:22,Shot,Wrist Shot,81.0,-13.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:54:08Z,3,00:38,19:22,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:54:20Z,3,00:43,19:17,Shot,Wrist Shot,43.0,27.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:54:39Z,3,00:43,19:17,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:54:47Z,3,00:47,19:13,Blocked Shot,n/a,63.0,17.0,Jake Virtanen,Blocker,Vancouver Canucks,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:54:48Z,3,00:48,19:12,Shot,Wrist Shot,54.0,17.0,David Savard,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:55:05Z,3,00:48,19:12,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:55:13Z,3,00:54,19:06,Blocked Shot,n/a,51.0,10.0,Jake Virtanen,Blocker,Vancouver Canucks,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:55:15Z,3,00:56,19:04,Missed Shot,n/a,70.0,-1.0,Nick Foligno,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:55:47Z,3,01:28,18:32,Blocked Shot,n/a,78.0,-6.0,Alexander Edler,Blocker,Vancouver Canucks,Kevin Stenlund,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:56:13Z,3,01:54,18:06,Shot,Wrist Shot,-41.0,21.0,Tanner Pearson,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:56:19Z,3,02:00,18:00,Shot,Wrist Shot,-37.0,-30.0,Alexander Edler,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:56:44Z,3,02:01,17:59,Faceoff,n/a,-69.0,-22.0,Elias Pettersson,Winner,Vancouver Canucks,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:56:55Z,3,02:12,17:48,Shot,Slap Shot,55.0,25.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:57:16Z,3,02:33,17:27,Shot,Slap Shot,58.0,-12.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:57:22Z,3,02:39,17:21,Shot,Backhand,79.0,-1.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:57:27Z,3,02:44,17:16,Missed Shot,n/a,85.0,7.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:57:37Z,3,02:54,17:06,Missed Shot,n/a,82.0,8.0,Stefan Matteau,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:57:50Z,3,03:07,16:53,Missed Shot,n/a,84.0,-13.0,Jakob Lilja,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:58:03Z,3,03:20,16:40,Hit,n/a,29.0,-40.0,Oscar Fantenberg,Hitter,Vancouver Canucks,Jakob Lilja,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:58:41Z,3,03:58,16:02,Shot,Deflected,65.0,6.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:59:15Z,3,03:58,16:02,Faceoff,n/a,69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:59:15Z,3,04:01,15:59,Missed Shot,n/a,76.0,-7.0,Eric Robinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:59:25Z,3,04:06,15:54,Shot,Wrist Shot,-52.0,33.0,Tyler Toffoli,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T03:59:34Z,3,04:15,15:45,Shot,Wrist Shot,-55.0,30.0,Troy Stecher,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:00:02Z,3,04:16,15:44,Faceoff,n/a,-69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:00:26Z,3,04:39,15:21,Shot,Wrist Shot,-62.0,-12.0,J.T. Miller,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:00:48Z,3,04:39,15:21,Faceoff,n/a,-69.0,-22.0,Nick Foligno,Winner,Columbus Blue Jackets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:01:35Z,3,04:46,15:14,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:02:05Z,3,05:02,14:58,Hit,n/a,85.0,36.0,Gustav Nyquist,Hitter,Columbus Blue Jackets,Christopher Tanev,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:02:27Z,3,05:24,14:36,Blocked Shot,n/a,-75.0,4.0,David Savard,Blocker,Columbus Blue Jackets,Tyler Toffoli,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:02:42Z,3,05:36,14:24,Missed Shot,n/a,-61.0,0.0,Tyler Toffoli,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:03:07Z,3,05:36,14:24,Faceoff,n/a,-69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:03:39Z,3,06:04,13:56,Hit,n/a,87.0,-34.0,J.T. Miller,Hitter,Vancouver Canucks,Riley Nash,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:03:46Z,3,06:07,13:53,Penalty,Elbowing,61.0,-33.0,Elias Pettersson,PenaltyOn,Vancouver Canucks,Eric Robinson,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:06:06Z,3,06:07,13:53,Faceoff,n/a,69.0,22.0,Brandon Sutter,Winner,Vancouver Canucks,Nick Foligno,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:06:40Z,3,06:32,13:28,Faceoff,n/a,69.0,22.0,Nick Foligno,Winner,Columbus Blue Jackets,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:07:01Z,3,06:40,13:20,Blocked Shot,n/a,77.0,-4.0,Alexander Edler,Blocker,Vancouver Canucks,Gustav Nyquist,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:07:20Z,3,06:59,13:01,Takeaway,n/a,-95.0,-9.0,J.T. Miller,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:07:49Z,3,07:28,12:32,Missed Shot,n/a,62.0,-28.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:08:25Z,3,07:28,12:32,Faceoff,n/a,69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:08:51Z,3,08:04,11:56,Shot,Wrist Shot,62.0,19.0,David Savard,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:09:07Z,3,08:19,11:41,Goal,Wrist Shot,-75.0,0.0,Elias Pettersson,Scorer,Vancouver Canucks,Oscar Fantenberg,Assist,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a
+2020-03-09T04:10:08Z,3,08:19,11:41,Faceoff,n/a,0.0,0.0,Riley Nash,Winner,Columbus Blue Jackets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:09:56Z,3,08:26,11:34,Hit,n/a,-17.0,-39.0,Elias Pettersson,Hitter,Vancouver Canucks,Andrew Peeke,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:10:20Z,3,08:50,11:10,Shot,Wrist Shot,-69.0,-20.0,J.T. Miller,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:10:45Z,3,09:15,10:45,Hit,n/a,-32.0,-40.0,Tanner Pearson,Hitter,Vancouver Canucks,Stefan Matteau,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:11:08Z,3,09:38,10:22,Shot,Backhand,-66.0,29.0,Tanner Pearson,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:12:00Z,3,10:29,09:31,Missed Shot,n/a,-36.0,31.0,Adam Gaudette,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:12:03Z,3,10:33,09:27,Hit,n/a,-69.0,-41.0,Zack MacEwen,Hitter,Vancouver Canucks,Markus Nutivaara,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:12:26Z,3,10:55,09:05,Hit,n/a,-97.0,-16.0,David Savard,Hitter,Columbus Blue Jackets,Adam Gaudette,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:12:46Z,3,11:10,08:50,Penalty,Holding,-69.0,-38.0,Emil Bemstrom,PenaltyOn,Columbus Blue Jackets,Quinn Hughes,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:14:41Z,3,11:10,08:50,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:15:09Z,3,11:26,08:34,Missed Shot,n/a,-66.0,13.0,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:15:17Z,3,11:33,08:27,Shot,Wrist Shot,-86.0,-11.0,Tyler Toffoli,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:15:24Z,3,11:41,08:19,Missed Shot,n/a,-54.0,18.0,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:17:02Z,3,13:19,06:41,Hit,n/a,-11.0,-18.0,Emil Bemstrom,Hitter,Columbus Blue Jackets,Alexander Edler,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:17:27Z,3,13:44,06:16,Missed Shot,n/a,-42.0,-36.0,Oscar Fantenberg,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:17:32Z,3,13:49,06:11,Giveaway,n/a,-34.0,16.0,Tyler Myers,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:19:42Z,3,14:16,05:44,Faceoff,n/a,-69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:21:16Z,3,15:22,04:38,Hit,n/a,28.0,16.0,Tyler Myers,Hitter,Vancouver Canucks,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:21:33Z,3,15:39,04:21,Hit,n/a,-95.0,-24.0,J.T. Miller,Hitter,Vancouver Canucks,David Savard,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:21:51Z,3,15:57,04:03,Missed Shot,n/a,-76.0,9.0,Jake Virtanen,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:22:20Z,3,16:07,03:53,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:22:40Z,3,16:13,03:47,Shot,Deflected,-77.0,-3.0,Tanner Pearson,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:23:13Z,3,16:20,03:40,Faceoff,n/a,-20.0,-22.0,Adam Gaudette,Winner,Vancouver Canucks,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:23:48Z,3,16:55,03:05,Shot,Wrist Shot,-48.0,31.0,Zack MacEwen,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:24:11Z,3,16:56,03:04,Faceoff,n/a,-69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:24:28Z,3,17:06,02:54,Shot,Wrist Shot,63.0,-37.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:24:59Z,3,17:06,02:54,Faceoff,n/a,69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:25:19Z,3,17:30,02:30,Shot,Wrist Shot,-55.0,31.0,Alexander Wennberg,Shooter,Columbus Blue Jackets,Thatcher Demko,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:25:46Z,3,17:56,02:04,Hit,n/a,64.0,39.0,Alexander Edler,Hitter,Vancouver Canucks,Kevin Stenlund,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:26:10Z,3,18:20,01:40,Shot,Wrist Shot,-80.0,37.0,Tyler Myers,Shooter,Vancouver Canucks,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:26:35Z,3,18:20,01:40,Faceoff,n/a,-69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:27:41Z,3,18:43,01:17,Faceoff,n/a,-20.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:28:15Z,3,19:22,00:38,Hit,n/a,-82.0,-39.0,David Savard,Hitter,Columbus Blue Jackets,Bo Horvat,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:28:32Z,3,19:37,00:23,Missed Shot,n/a,-83.0,-14.0,Tyler Toffoli,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:29:42Z,3,19:37,00:23,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:30:44Z,3,19:57,00:03,Blocked Shot,n/a,-77.0,-4.0,Boone Jenner,Blocker,Columbus Blue Jackets,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:30:53Z,3,19:59,00:01,Blocked Shot,n/a,-62.0,-5.0,Gustav Nyquist,Blocker,Columbus Blue Jackets,Tanner Pearson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-09T04:31:04Z,3,19:59,00:01,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a

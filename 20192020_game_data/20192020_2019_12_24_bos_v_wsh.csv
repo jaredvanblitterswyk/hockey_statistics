@@ -1,0 +1,270 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-24T00:08:36Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:09:18Z,1,00:10,19:50,Shot,Wrist Shot,49.0,-26.0,Brad Marchand,Shooter,Boston Bruins,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:09:26Z,1,00:10,19:50,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:09:40Z,1,00:14,19:46,Missed Shot,n/a,37.0,-24.0,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:10:08Z,1,00:43,19:17,Hit,n/a,50.0,10.0,Alex Ovechkin,Hitter,Washington Capitals,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:10:51Z,1,00:56,19:04,Faceoff,n/a,69.0,-22.0,Charlie Coyle,Winner,Boston Bruins,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:11:29Z,1,01:08,18:52,Faceoff,n/a,20.0,-22.0,Sean Kuraly,Winner,Boston Bruins,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:11:52Z,1,01:21,18:39,Takeaway,n/a,55.0,-35.0,Brandon Carlo,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:11:55Z,1,01:24,18:36,Shot,Wrist Shot,64.0,-30.0,Brandon Carlo,Shooter,Boston Bruins,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:12:05Z,1,01:30,18:30,Penalty,Hi-sticking,91.0,17.0,Nick Jensen,PenaltyOn,Washington Capitals,Sean Kuraly,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:12:45Z,1,01:30,18:30,Faceoff,n/a,69.0,-22.0,Lars Eller,Winner,Washington Capitals,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:13:37Z,1,01:54,18:06,Faceoff,n/a,20.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:13:52Z,1,02:14,17:46,Giveaway,n/a,61.0,-35.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:13:55Z,1,02:17,17:43,Hit,n/a,55.0,-37.0,Dmitry Orlov,Hitter,Washington Capitals,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:14:21Z,1,02:43,17:17,Blocked Shot,n/a,73.0,-4.0,Radko Gudas,Blocker,Washington Capitals,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:14:24Z,1,02:46,17:14,Takeaway,n/a,90.0,-11.0,Radko Gudas,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:14:44Z,1,03:06,16:54,Blocked Shot,n/a,45.0,-1.0,Tom Wilson,Blocker,Washington Capitals,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:14:53Z,1,03:15,16:45,Blocked Shot,n/a,61.0,15.0,John Carlson,Blocker,Washington Capitals,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:15:04Z,1,03:26,16:34,Giveaway,n/a,63.0,39.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:15:12Z,1,03:34,16:26,Shot,Snap Shot,52.0,-28.0,Charlie McAvoy,Shooter,Boston Bruins,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:15:19Z,1,03:41,16:19,Hit,n/a,61.0,-38.0,Nic Dowd,Hitter,Washington Capitals,Jake DeBrusk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:15:54Z,1,03:43,16:17,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:16:07Z,1,03:52,16:08,Hit,n/a,70.0,34.0,John Carlson,Hitter,Washington Capitals,Brett Ritchie,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:16:25Z,1,04:10,15:50,Blocked Shot,n/a,46.0,3.0,Tom Wilson,Blocker,Washington Capitals,Torey Krug,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:17:21Z,1,05:06,14:54,Hit,n/a,-97.0,-5.0,Charlie McAvoy,Hitter,Boston Bruins,Brendan Leipsic,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:17:33Z,1,05:19,14:41,Blocked Shot,n/a,57.0,-5.0,Radko Gudas,Blocker,Washington Capitals,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:17:43Z,1,05:28,14:32,Takeaway,n/a,73.0,19.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:17:50Z,1,05:28,14:32,Penalty,Hooking,84.0,14.0,Radko Gudas,PenaltyOn,Washington Capitals,Brad Marchand,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:18:27Z,1,05:28,14:32,Faceoff,n/a,69.0,-22.0,David Krejci,Winner,Boston Bruins,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:18:39Z,1,05:35,14:25,Shot,Snap Shot,77.0,-12.0,Jake DeBrusk,Shooter,Boston Bruins,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:18:45Z,1,05:37,14:23,Goal,Snap Shot,83.0,-3.0,Jake DeBrusk,Scorer,Boston Bruins,David Krejci,Assist,Boston Bruins,Matt Grzelcyk,Assist,Boston Bruins,Braden Holtby,Goalie,Washington Capitals
+2019-12-24T00:19:51Z,1,05:37,14:23,Faceoff,n/a,0.0,0.0,Evgeny Kuznetsov,Winner,Washington Capitals,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:20:05Z,1,05:57,14:03,Faceoff,n/a,-69.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:20:28Z,1,06:00,14:00,Shot,Slap Shot,-36.0,-27.0,Michal Kempny,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:20:45Z,1,06:17,13:43,Hit,n/a,-93.0,-25.0,Brandon Carlo,Hitter,Boston Bruins,T.J. Oshie,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:23:22Z,1,06:43,13:17,Faceoff,n/a,-20.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:24:08Z,1,07:00,13:00,Faceoff,n/a,-20.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:24:39Z,1,07:29,12:31,Shot,Snap Shot,-78.0,-5.0,Nicklas Backstrom,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:24:52Z,1,07:41,12:19,Giveaway,n/a,-1.0,35.0,Nic Dowd,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:25:04Z,1,07:54,12:06,Shot,Tip-In,1.0,-16.0,Brendan Leipsic,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:25:24Z,1,08:14,11:46,Giveaway,n/a,-40.0,30.0,Danton Heinen,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:25:27Z,1,08:17,11:43,Shot,Wrist Shot,-67.0,-8.0,Garnet Hathaway,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:25:32Z,1,08:22,11:38,Hit,n/a,-73.0,39.0,Nic Dowd,Hitter,Washington Capitals,Danton Heinen,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:25:59Z,1,08:42,11:18,Faceoff,n/a,20.0,22.0,Carl Hagelin,Winner,Washington Capitals,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:26:30Z,1,08:51,11:09,Hit,n/a,-12.0,38.0,Par Lindholm,Hitter,Boston Bruins,Richard Panik,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:26:41Z,1,08:54,11:06,Penalty,Tripping,-47.0,-16.0,Charlie McAvoy,PenaltyOn,Boston Bruins,Lars Eller,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:27:14Z,1,08:54,11:06,Faceoff,n/a,-69.0,22.0,T.J. Oshie,Winner,Washington Capitals,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:27:26Z,1,09:13,10:47,Shot,Snap Shot,-67.0,14.0,T.J. Oshie,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:27:38Z,1,09:13,10:47,Faceoff,n/a,-69.0,22.0,Sean Kuraly,Winner,Boston Bruins,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:28:59Z,1,10:23,09:37,Blocked Shot,n/a,56.0,2.0,John Carlson,Blocker,Washington Capitals,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:29:24Z,1,10:23,09:37,Faceoff,n/a,69.0,-22.0,Charlie Coyle,Winner,Boston Bruins,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:29:31Z,1,10:28,09:32,Shot,Wrist Shot,53.0,-32.0,Brandon Carlo,Shooter,Boston Bruins,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:30:00Z,1,10:56,09:04,Shot,Wrist Shot,-67.0,-18.0,Alex Ovechkin,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:30:37Z,1,11:34,08:26,Hit,n/a,-65.0,-34.0,Garnet Hathaway,Hitter,Washington Capitals,David Krejci,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:30:56Z,1,11:47,08:13,Hit,n/a,30.0,18.0,Nic Dowd,Hitter,Washington Capitals,Jake DeBrusk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:32:54Z,1,11:49,08:11,Faceoff,n/a,20.0,22.0,David Krejci,Winner,Boston Bruins,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:33:26Z,1,11:57,08:03,Hit,n/a,45.0,24.0,Radko Gudas,Hitter,Washington Capitals,Danton Heinen,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:33:44Z,1,12:15,07:45,Blocked Shot,n/a,-63.0,-17.0,David Krejci,Blocker,Boston Bruins,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:33:45Z,1,12:17,07:43,Giveaway,n/a,-96.0,-13.0,Matt Grzelcyk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:34:03Z,1,12:33,07:27,Shot,Wrist Shot,-55.0,31.0,Carl Hagelin,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:34:31Z,1,12:33,07:27,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:35:05Z,1,12:52,07:08,Faceoff,n/a,69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:35:29Z,1,12:58,07:02,Hit,n/a,52.0,37.0,Tom Wilson,Hitter,Washington Capitals,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:35:51Z,1,13:20,06:40,Takeaway,n/a,-39.0,-26.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:36:01Z,1,13:29,06:31,Shot,Wrist Shot,43.0,19.0,David Pastrnak,Shooter,Boston Bruins,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:36:05Z,1,13:29,06:31,Goal,Wrist Shot,76.0,-2.0,Brad Marchand,Scorer,Boston Bruins,David Pastrnak,Assist,Boston Bruins,Charlie McAvoy,Assist,Boston Bruins,Braden Holtby,Goalie,Washington Capitals
+2019-12-24T00:36:58Z,1,13:29,06:31,Faceoff,n/a,0.0,0.0,Sean Kuraly,Winner,Boston Bruins,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:37:24Z,1,13:54,06:06,Hit,n/a,92.0,16.0,Sean Kuraly,Hitter,Boston Bruins,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:37:21Z,1,13:56,06:04,Goal,Slap Shot,57.0,-6.0,Anders Bjork,Scorer,Boston Bruins,Charlie Coyle,Assist,Boston Bruins,Sean Kuraly,Assist,Boston Bruins,Braden Holtby,Goalie,Washington Capitals
+2019-12-24T00:38:14Z,1,13:56,06:04,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:38:43Z,1,14:25,05:35,Missed Shot,n/a,-32.0,29.0,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:38:43Z,1,14:25,05:35,Hit,n/a,-63.0,-37.0,Brett Ritchie,Hitter,Boston Bruins,Jonas Siegenthaler,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:39:02Z,1,14:44,05:16,Hit,n/a,-68.0,-35.0,Connor Clifton,Hitter,Boston Bruins,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:39:36Z,1,14:46,05:14,Penalty,Slashing,-29.0,-13.0,Connor Clifton,PenaltyOn,Boston Bruins,Garnet Hathaway,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:39:48Z,1,14:46,05:14,Penalty,Cross checking,-29.0,-17.0,Garnet Hathaway,PenaltyOn,Washington Capitals,Connor Clifton,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:41:01Z,1,14:46,05:14,Faceoff,n/a,20.0,22.0,Sean Kuraly,Winner,Boston Bruins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:41:56Z,1,15:03,04:57,Shot,Wrist Shot,83.0,12.0,Charlie Coyle,Shooter,Boston Bruins,Braden Holtby,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:42:22Z,1,15:29,04:31,Blocked Shot,n/a,-71.0,4.0,John Moore,Blocker,Boston Bruins,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:42:37Z,1,15:44,04:16,Hit,n/a,54.0,-33.0,Dmitry Orlov,Hitter,Washington Capitals,Charlie Coyle,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:42:42Z,1,15:49,04:11,Hit,n/a,93.0,-18.0,Brad Marchand,Hitter,Boston Bruins,John Carlson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:42:50Z,1,15:57,04:03,Takeaway,n/a,85.0,14.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:42:55Z,1,16:02,03:58,Hit,n/a,38.0,14.0,Brad Marchand,Hitter,Boston Bruins,T.J. Oshie,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:43:30Z,1,16:37,03:23,Giveaway,n/a,33.0,-12.0,Torey Krug,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:43:36Z,1,16:43,03:17,Shot,Snap Shot,-43.0,26.0,Jakub Vrana,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:43:48Z,1,16:55,03:05,Takeaway,n/a,-2.0,-17.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:44:10Z,1,17:18,02:42,Blocked Shot,n/a,75.0,5.0,Nick Jensen,Blocker,Washington Capitals,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:44:20Z,1,17:25,02:35,Hit,n/a,48.0,38.0,Nick Jensen,Hitter,Washington Capitals,Patrice Bergeron,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:45:00Z,1,17:25,02:35,Penalty,Tripping,79.0,8.0,Jakub Vrana,PenaltyOn,Washington Capitals,David Pastrnak,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:45:01Z,1,17:25,02:35,Penalty,Slashing,45.0,-22.0,Evgeny Kuznetsov,PenaltyOn,Washington Capitals,David Krejci,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:45:45Z,1,17:25,02:35,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:45:29Z,1,17:42,02:18,Giveaway,n/a,72.0,-27.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:46:47Z,1,18:57,01:03,Goal,Tip-In,81.0,3.0,Patrice Bergeron,Scorer,Boston Bruins,David Pastrnak,Assist,Boston Bruins,David Krejci,Assist,Boston Bruins,Braden Holtby,Goalie,Washington Capitals
+2019-12-24T00:47:47Z,1,18:57,01:03,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:48:11Z,1,19:01,00:59,Faceoff,n/a,69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:49:12Z,1,19:27,00:33,Hit,n/a,92.0,24.0,Nick Jensen,Hitter,Washington Capitals,Jake DeBrusk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T00:49:12Z,1,19:27,00:33,Takeaway,n/a,94.0,10.0,Jake DeBrusk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:08:21Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:08:38Z,2,00:18,19:42,Blocked Shot,n/a,48.0,-14.0,Patrice Bergeron,Blocker,Boston Bruins,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:08:48Z,2,00:27,19:33,Blocked Shot,n/a,57.0,14.0,John Moore,Blocker,Boston Bruins,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:09:10Z,2,00:49,19:11,Shot,Wrap-around,85.0,12.0,Alex Ovechkin,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:09:28Z,2,01:08,18:52,Hit,n/a,73.0,36.0,Richard Panik,Hitter,Washington Capitals,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:09:33Z,2,01:18,18:42,Shot,Wrist Shot,36.0,26.0,Dmitry Orlov,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:09:52Z,2,01:31,18:29,Missed Shot,n/a,-80.0,5.0,Anders Bjork,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:09:55Z,2,01:34,18:26,Hit,n/a,-93.0,25.0,Sean Kuraly,Hitter,Boston Bruins,T.J. Oshie,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:10:19Z,2,01:39,18:21,Faceoff,n/a,-69.0,22.0,Lars Eller,Winner,Washington Capitals,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:10:41Z,2,01:44,18:16,Blocked Shot,n/a,-64.0,16.0,Richard Panik,Blocker,Washington Capitals,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:11:13Z,2,02:05,17:55,Penalty,Slashing,36.0,-11.0,Jake DeBrusk,PenaltyOn,Boston Bruins,Garnet Hathaway,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:11:34Z,2,02:05,17:55,Faceoff,n/a,69.0,-22.0,Sean Kuraly,Winner,Boston Bruins,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:12:35Z,2,02:47,17:13,Missed Shot,n/a,74.0,-1.0,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:12:52Z,2,03:14,16:46,Missed Shot,n/a,33.0,4.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:12:59Z,2,03:21,16:39,Shot,Wrist Shot,82.0,-6.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:13:17Z,2,03:39,16:21,Blocked Shot,n/a,44.0,3.0,Sean Kuraly,Blocker,Boston Bruins,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:13:36Z,2,03:58,16:02,Hit,n/a,58.0,11.0,Brandon Carlo,Hitter,Boston Bruins,John Carlson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:13:53Z,2,04:11,15:49,Missed Shot,n/a,77.0,29.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:14:28Z,2,04:13,15:47,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:14:41Z,2,04:24,15:36,Blocked Shot,n/a,67.0,11.0,Charlie McAvoy,Blocker,Boston Bruins,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:15:06Z,2,04:49,15:11,Hit,n/a,-43.0,27.0,Tom Wilson,Hitter,Washington Capitals,Anders Bjork,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:15:30Z,2,04:49,15:11,Faceoff,n/a,-69.0,22.0,Lars Eller,Winner,Washington Capitals,Jake DeBrusk,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:16:01Z,2,05:01,14:59,Hit,n/a,50.0,38.0,Tom Wilson,Hitter,Washington Capitals,Torey Krug,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:16:23Z,2,05:06,14:54,Penalty,Tripping,-96.0,0.0,David Krejci,PenaltyOn,Boston Bruins,Dmitry Orlov,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:18:38Z,2,05:06,14:54,Faceoff,n/a,69.0,-22.0,T.J. Oshie,Winner,Washington Capitals,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:18:54Z,2,05:41,14:19,Shot,Wrist Shot,37.0,12.0,Alex Ovechkin,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:19:36Z,2,06:23,13:37,Shot,Snap Shot,58.0,27.0,Alex Ovechkin,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:19:46Z,2,06:33,13:27,Missed Shot,n/a,-45.0,11.0,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:20:42Z,2,06:50,13:10,Takeaway,n/a,23.0,-35.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:20:11Z,2,06:52,13:08,Hit,n/a,-15.0,-31.0,Jakub Vrana,Hitter,Washington Capitals,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:20:10Z,2,06:55,13:05,Goal,Wrist Shot,-77.0,-1.0,Charlie Coyle,Scorer,Boston Bruins,Brad Marchand,Assist,Boston Bruins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a
+2019-12-24T01:21:11Z,2,06:55,13:05,Faceoff,n/a,0.0,0.0,Anders Bjork,Winner,Boston Bruins,Richard Panik,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:24:00Z,2,07:20,12:40,Faceoff,n/a,-20.0,22.0,Par Lindholm,Winner,Boston Bruins,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:24:18Z,2,07:34,12:26,Missed Shot,n/a,-76.0,-8.0,Par Lindholm,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:24:28Z,2,07:44,12:16,Takeaway,n/a,-90.0,20.0,Garnet Hathaway,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:24:30Z,2,07:46,12:14,Hit,n/a,-84.0,34.0,Joakim Nordstrom,Hitter,Boston Bruins,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:24:46Z,2,08:01,11:59,Giveaway,n/a,55.0,7.0,Brandon Carlo,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:24:54Z,2,08:07,11:53,Shot,Tip-In,72.0,2.0,Garnet Hathaway,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:25:37Z,2,08:07,11:53,Faceoff,n/a,69.0,-22.0,Brad Marchand,Winner,Boston Bruins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:26:00Z,2,08:14,11:46,Hit,n/a,94.0,-13.0,Alex Ovechkin,Hitter,Washington Capitals,John Moore,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:26:06Z,2,08:20,11:40,Blocked Shot,n/a,71.0,9.0,John Moore,Blocker,Boston Bruins,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:26:16Z,2,08:30,11:30,Hit,n/a,93.0,-22.0,Alex Ovechkin,Hitter,Washington Capitals,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:26:18Z,2,08:32,11:28,Shot,Wrist Shot,83.0,10.0,Alex Ovechkin,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:26:28Z,2,08:42,11:18,Takeaway,n/a,53.0,34.0,Alex Ovechkin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:26:33Z,2,08:47,11:13,Blocked Shot,n/a,54.0,12.0,Charlie McAvoy,Blocker,Boston Bruins,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:27:21Z,2,09:35,10:25,Takeaway,n/a,-94.0,21.0,Jake DeBrusk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:27:24Z,2,09:38,10:22,Giveaway,n/a,-94.0,-8.0,Jake DeBrusk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:27:50Z,2,09:54,10:06,Hit,n/a,90.0,22.0,T.J. Oshie,Hitter,Washington Capitals,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:27:45Z,2,09:59,10:01,Shot,Wrist Shot,65.0,-11.0,Carl Hagelin,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:28:21Z,2,10:35,09:25,Hit,n/a,78.0,37.0,Connor Clifton,Hitter,Boston Bruins,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:28:33Z,2,10:47,09:13,Giveaway,n/a,39.0,-29.0,Sean Kuraly,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:28:44Z,2,10:58,09:02,Hit,n/a,78.0,35.0,Nic Dowd,Hitter,Washington Capitals,Connor Clifton,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:31:04Z,2,11:11,08:49,Faceoff,n/a,-20.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:32:26Z,2,11:52,08:08,Faceoff,n/a,20.0,-22.0,Lars Eller,Winner,Washington Capitals,Brad Marchand,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:33:01Z,2,12:15,07:45,Shot,Backhand,41.0,7.0,Radko Gudas,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:33:16Z,2,12:30,07:30,Shot,Snap Shot,81.0,-10.0,Carl Hagelin,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:33:21Z,2,12:34,07:26,Shot,Backhand,74.0,3.0,Lars Eller,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:33:23Z,2,12:37,07:23,Hit,n/a,95.0,17.0,T.J. Oshie,Hitter,Washington Capitals,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:33:30Z,2,12:44,07:16,Missed Shot,n/a,44.0,35.0,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:33:43Z,2,12:57,07:03,Blocked Shot,n/a,53.0,13.0,David Pastrnak,Blocker,Boston Bruins,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:34:15Z,2,13:29,06:31,Shot,Snap Shot,43.0,-3.0,Michal Kempny,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:34:36Z,2,13:50,06:10,Hit,n/a,95.0,-6.0,Richard Panik,Hitter,Washington Capitals,John Moore,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:34:41Z,2,13:55,06:05,Takeaway,n/a,61.0,27.0,Nic Dowd,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:34:56Z,2,14:09,05:51,Takeaway,n/a,22.0,-31.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:35:12Z,2,14:26,05:34,Hit,n/a,92.0,-20.0,Nicklas Backstrom,Hitter,Washington Capitals,Jake DeBrusk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:35:17Z,2,14:31,05:29,Shot,Tip-In,54.0,2.0,Tom Wilson,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:35:21Z,2,14:33,05:27,Blocked Shot,n/a,74.0,1.0,John Moore,Blocker,Boston Bruins,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:35:23Z,2,14:35,05:25,Goal,Wrist Shot,63.0,-1.0,Alex Ovechkin,Scorer,Washington Capitals,Tom Wilson,Assist,Washington Capitals,John Carlson,Assist,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins
+2019-12-24T01:36:14Z,2,14:35,05:25,Faceoff,n/a,0.0,0.0,Evgeny Kuznetsov,Winner,Washington Capitals,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:36:20Z,2,14:46,05:14,Hit,n/a,-91.0,-20.0,Sean Kuraly,Hitter,Boston Bruins,John Carlson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:36:43Z,2,14:53,05:07,Penalty,Slashing,-35.0,-15.0,John Carlson,PenaltyOn,Washington Capitals,Sean Kuraly,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:38:28Z,2,14:53,05:07,Faceoff,n/a,-69.0,22.0,Lars Eller,Winner,Washington Capitals,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:39:06Z,2,15:05,04:55,Shot,Wrist Shot,-23.0,31.0,Jonas Siegenthaler,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:39:48Z,2,15:48,04:12,Shot,Slap Shot,57.0,-27.0,Tom Wilson,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:40:50Z,2,15:48,04:12,Faceoff,n/a,69.0,22.0,David Krejci,Winner,Boston Bruins,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:41:19Z,2,16:06,03:54,Hit,n/a,-83.0,-31.0,Nick Jensen,Hitter,Washington Capitals,John Moore,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:41:56Z,2,16:43,03:17,Shot,Wrist Shot,-79.0,10.0,Jake DeBrusk,Shooter,Boston Bruins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:42:24Z,2,17:12,02:48,Hit,n/a,-93.0,20.0,Brett Ritchie,Hitter,Boston Bruins,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:42:44Z,2,17:32,02:28,Hit,n/a,40.0,37.0,Tom Wilson,Hitter,Washington Capitals,Par Lindholm,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:43:13Z,2,18:01,01:59,Missed Shot,n/a,-40.0,20.0,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:43:32Z,2,18:20,01:40,Giveaway,n/a,-36.0,24.0,Sean Kuraly,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:43:38Z,2,18:26,01:34,Hit,n/a,30.0,-36.0,Anders Bjork,Hitter,Boston Bruins,T.J. Oshie,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:43:45Z,2,18:33,01:27,Takeaway,n/a,22.0,31.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:44:21Z,2,19:08,00:52,Hit,n/a,94.0,-12.0,Brandon Carlo,Hitter,Boston Bruins,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:44:29Z,2,19:15,00:45,Shot,Wrist Shot,39.0,23.0,Dmitry Orlov,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:44:40Z,2,19:27,00:33,Takeaway,n/a,-39.0,25.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:03:48Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:04:09Z,3,00:11,19:49,Faceoff,n/a,-69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:05:09Z,3,00:58,19:02,Takeaway,n/a,-36.0,6.0,Brandon Carlo,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:05:24Z,3,01:13,18:47,Blocked Shot,n/a,49.0,-14.0,Michal Kempny,Blocker,Washington Capitals,Brandon Carlo,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:05:29Z,3,01:18,18:42,Missed Shot,n/a,37.0,-1.0,Brandon Carlo,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:05:34Z,3,01:23,18:37,Giveaway,n/a,-20.0,20.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:06:18Z,3,02:07,17:53,Giveaway,n/a,7.0,-15.0,Danton Heinen,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:06:37Z,3,02:26,17:34,Shot,Wrist Shot,-54.0,26.0,Brendan Leipsic,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:06:50Z,3,02:39,17:21,Hit,n/a,-82.0,-35.0,Brendan Leipsic,Hitter,Washington Capitals,Connor Clifton,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:07:29Z,3,03:18,16:42,Hit,n/a,-93.0,9.0,Nicklas Backstrom,Hitter,Washington Capitals,John Moore,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:07:32Z,3,03:21,16:39,Shot,Snap Shot,-31.0,16.0,Nick Jensen,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:07:50Z,3,03:26,16:34,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:08:11Z,3,03:31,16:29,Shot,Slap Shot,-40.0,-24.0,Alex Ovechkin,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:08:24Z,3,03:36,16:24,Faceoff,n/a,-69.0,-22.0,Par Lindholm,Winner,Boston Bruins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:09:23Z,3,04:12,15:48,Hit,n/a,-92.0,-24.0,Charlie McAvoy,Hitter,Boston Bruins,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:09:28Z,3,04:17,15:43,Takeaway,n/a,40.0,33.0,Radko Gudas,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:10:10Z,3,04:49,15:11,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:11:01Z,3,04:59,15:01,Penalty,Holding,-77.0,3.0,Alex Ovechkin,PenaltyOn,Washington Capitals,Matt Grzelcyk,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:11:49Z,3,04:59,15:01,Faceoff,n/a,69.0,-22.0,Lars Eller,Winner,Washington Capitals,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:12:10Z,3,05:22,14:38,Hit,n/a,48.0,-37.0,Carl Hagelin,Hitter,Washington Capitals,Patrice Bergeron,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:12:13Z,3,05:26,14:34,Takeaway,n/a,44.0,11.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:12:28Z,3,05:41,14:19,Missed Shot,n/a,77.0,-6.0,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:12:44Z,3,05:56,14:04,Blocked Shot,n/a,58.0,9.0,Jonas Siegenthaler,Blocker,Washington Capitals,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:12:52Z,3,06:04,13:56,Shot,Backhand,-80.0,0.0,Tom Wilson,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:13:14Z,3,06:25,13:35,Hit,n/a,23.0,37.0,Radko Gudas,Hitter,Washington Capitals,Connor Clifton,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:13:55Z,3,07:08,12:52,Takeaway,n/a,-90.0,25.0,Jake DeBrusk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:14:17Z,3,07:16,12:44,Giveaway,n/a,-59.0,25.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:14:00Z,3,07:17,12:43,Takeaway,n/a,-35.0,-1.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:14:09Z,3,07:21,12:39,Shot,Snap Shot,47.0,-8.0,Jake DeBrusk,Shooter,Boston Bruins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:14:31Z,3,07:28,12:32,Penalty,Too many men on the ice,-49.0,27.0,Jake DeBrusk,PenaltyOn,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:16:21Z,3,07:28,12:32,Faceoff,n/a,-69.0,22.0,T.J. Oshie,Winner,Washington Capitals,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:17:05Z,3,07:55,12:05,Shot,Snap Shot,-32.0,-1.0,John Carlson,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:17:21Z,3,07:55,12:05,Faceoff,n/a,-69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:18:05Z,3,08:30,11:30,Shot,Snap Shot,-55.0,25.0,Nicklas Backstrom,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:18:14Z,3,08:39,11:21,Hit,n/a,-51.0,-35.0,John Carlson,Hitter,Washington Capitals,Patrice Bergeron,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:18:35Z,3,09:00,11:00,Hit,n/a,-56.0,-25.0,John Carlson,Hitter,Washington Capitals,Patrice Bergeron,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:18:55Z,3,09:20,10:40,Shot,Wrist Shot,-54.0,30.0,Nicklas Backstrom,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:19:12Z,3,09:37,10:23,Giveaway,n/a,13.0,-29.0,Alex Ovechkin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:19:20Z,3,09:37,10:23,Shot,Wrist Shot,52.0,-22.0,Jake DeBrusk,Shooter,Boston Bruins,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:19:58Z,3,09:37,10:23,Faceoff,n/a,69.0,-22.0,Lars Eller,Winner,Washington Capitals,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:20:18Z,3,10:09,09:51,Shot,Wrist Shot,-75.0,-6.0,Dmitry Orlov,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:23:07Z,3,10:38,09:22,Faceoff,n/a,-20.0,22.0,Nic Dowd,Winner,Washington Capitals,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:23:33Z,3,11:02,08:58,Blocked Shot,n/a,-71.0,-4.0,Brandon Carlo,Blocker,Boston Bruins,Brendan Leipsic,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:23:35Z,3,11:05,08:55,Missed Shot,n/a,-47.0,37.0,Radko Gudas,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:23:52Z,3,11:21,08:39,Giveaway,n/a,-55.0,-17.0,Carl Hagelin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:24:13Z,3,11:38,08:22,Hit,n/a,-13.0,38.0,Sean Kuraly,Hitter,Boston Bruins,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:24:12Z,3,11:40,08:20,Shot,Snap Shot,-65.0,-18.0,Richard Panik,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:24:51Z,3,11:40,08:20,Faceoff,n/a,-69.0,-22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:25:25Z,3,12:14,07:46,Giveaway,n/a,-41.0,-8.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:25:57Z,3,12:45,07:15,Hit,n/a,95.0,4.0,David Pastrnak,Hitter,Boston Bruins,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:26:08Z,3,12:57,07:03,Giveaway,n/a,23.0,-18.0,Nicklas Backstrom,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:26:25Z,3,13:14,06:46,Hit,n/a,-84.0,26.0,Alex Ovechkin,Hitter,Washington Capitals,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:26:33Z,3,13:18,06:42,Hit,n/a,14.0,38.0,Tom Wilson,Hitter,Washington Capitals,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:30:41Z,3,13:24,06:36,Shot,Snap Shot,-57.0,26.0,T.J. Oshie,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:27:10Z,3,13:26,06:34,Penalty,Roughing,37.0,35.0,David Pastrnak,PenaltyOn,Boston Bruins,Tom Wilson,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:27:10Z,3,13:26,06:34,Penalty,Roughing,35.0,21.0,Tom Wilson,PenaltyOn,Washington Capitals,David Pastrnak,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:27:10Z,3,13:26,06:34,Penalty,Too many men on the ice,-83.0,23.0,Jake DeBrusk,PenaltyOn,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:27:10Z,3,13:26,06:34,Penalty,Misconduct,36.0,22.0,Tom Wilson,PenaltyOn,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:30:37Z,3,13:26,06:34,Faceoff,n/a,-69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:30:49Z,3,13:51,06:09,Shot,Snap Shot,-48.0,-21.0,Alex Ovechkin,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:31:13Z,3,14:15,05:45,Hit,n/a,-76.0,-33.0,Alex Ovechkin,Hitter,Washington Capitals,Connor Clifton,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:32:15Z,3,15:16,04:44,Shot,Slap Shot,-45.0,31.0,Lars Eller,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:32:30Z,3,15:29,04:31,Goal,Tip-In,-76.0,0.0,Lars Eller,Scorer,Washington Capitals,Jakub Vrana,Assist,Washington Capitals,Radko Gudas,Assist,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins
+2019-12-24T02:35:26Z,3,15:29,04:31,Faceoff,n/a,0.0,0.0,David Krejci,Winner,Boston Bruins,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:36:33Z,3,15:42,04:18,Faceoff,n/a,-20.0,-22.0,Charlie Coyle,Winner,Boston Bruins,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:36:40Z,3,15:50,04:10,Faceoff,n/a,0.0,0.0,Sean Kuraly,Winner,Boston Bruins,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:37:34Z,3,16:32,03:28,Shot,Wrist Shot,-39.0,11.0,John Carlson,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:38:40Z,3,16:48,03:12,Takeaway,n/a,92.0,17.0,Sean Kuraly,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:37:53Z,3,16:50,03:10,Goal,Wrist Shot,78.0,-2.0,David Krejci,Scorer,Boston Bruins,Sean Kuraly,Assist,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:38:38Z,3,16:50,03:10,Faceoff,n/a,0.0,0.0,Par Lindholm,Winner,Boston Bruins,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:38:54Z,3,17:09,02:51,Hit,n/a,56.0,38.0,Nick Jensen,Hitter,Washington Capitals,Connor Clifton,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:39:27Z,3,17:21,02:39,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:40:05Z,3,17:47,02:13,Goal,Wrist Shot,-75.0,-5.0,Garnet Hathaway,Scorer,Washington Capitals,Jonas Siegenthaler,Assist,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a
+2019-12-24T02:41:04Z,3,17:47,02:13,Faceoff,n/a,0.0,0.0,T.J. Oshie,Winner,Washington Capitals,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:41:19Z,3,18:17,01:43,Blocked Shot,n/a,-69.0,-16.0,David Pastrnak,Blocker,Boston Bruins,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:41:30Z,3,18:28,01:32,Hit,n/a,13.0,40.0,T.J. Oshie,Hitter,Washington Capitals,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:41:47Z,3,18:45,01:15,Shot,Wrist Shot,-73.0,35.0,Nicklas Backstrom,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:41:54Z,3,18:52,01:08,Blocked Shot,n/a,-74.0,10.0,Brandon Carlo,Blocker,Boston Bruins,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:42:04Z,3,19:01,00:59,Shot,Wrist Shot,-33.0,7.0,John Carlson,Shooter,Washington Capitals,Tuukka Rask,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:42:14Z,3,19:11,00:49,Hit,n/a,-76.0,35.0,Lars Eller,Hitter,Washington Capitals,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:42:30Z,3,19:27,00:33,Missed Shot,n/a,16.0,38.0,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:42:34Z,3,19:31,00:29,Hit,n/a,58.0,-36.0,Alex Ovechkin,Hitter,Washington Capitals,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:42:40Z,3,19:32,00:28,Goal,Wrist Shot,78.0,4.0,Patrice Bergeron,Scorer,Boston Bruins,Brad Marchand,Assist,Boston Bruins,David Pastrnak,Assist,Washington Capitals,n/a,n/a,n/a
+2019-12-24T02:43:33Z,3,19:32,00:28,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:43:36Z,3,19:46,00:14,Hit,n/a,-51.0,-36.0,Garnet Hathaway,Hitter,Washington Capitals,Brett Ritchie,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:43:48Z,3,19:58,00:02,Missed Shot,n/a,-71.0,-11.0,Brendan Leipsic,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:43:50Z,3,19:59,00:01,Hit,n/a,-93.0,18.0,Garnet Hathaway,Hitter,Washington Capitals,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,257 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-11T02:07:54Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:09:19Z,1,00:29,19:31,Hit,n/a,98.0,21.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Samuel Girard,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:09:19Z,1,00:31,19:29,Hit,n/a,88.0,30.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Pierre-Edouard Bellemare,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:09:29Z,1,00:42,19:18,Hit,n/a,-49.0,41.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Matt Nieto,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:09:30Z,1,00:42,19:18,Shot,Slap Shot,-53.0,-28.0,Ryan Graves,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:10:00Z,1,00:42,19:18,Faceoff,n/a,-69.0,-22.0,Mikko Rantanen,Winner,Colorado Avalanche,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:10:16Z,1,00:54,19:06,Takeaway,n/a,-99.0,7.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:10:19Z,1,00:57,19:03,Giveaway,n/a,-89.0,28.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:10:33Z,1,01:10,18:50,Blocked Shot,n/a,56.0,-12.0,Mikko Rantanen,Blocker,Colorado Avalanche,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:10:48Z,1,01:26,18:34,Takeaway,n/a,62.0,5.0,Nathan MacKinnon,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:10:52Z,1,01:29,18:31,Takeaway,n/a,24.0,26.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:10:54Z,1,01:30,18:30,Shot,Wrist Shot,45.0,4.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:11:14Z,1,01:32,18:28,Faceoff,n/a,69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:11:28Z,1,01:40,18:20,Shot,Wrist Shot,34.0,23.0,Jack Johnson,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:12:18Z,1,02:09,17:51,Faceoff,n/a,20.0,-22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Tyson Jost,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:12:50Z,1,02:19,17:41,Hit,n/a,98.0,-12.0,Andrew Agozzino,Hitter,Pittsburgh Penguins,Samuel Girard,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:12:34Z,1,02:20,17:40,Giveaway,n/a,96.0,-17.0,Samuel Girard,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:13:01Z,1,02:48,17:12,Hit,n/a,-33.0,-38.0,J.T. Compher,Hitter,Colorado Avalanche,Chad Ruhwedel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:13:17Z,1,03:01,16:59,Hit,n/a,-75.0,-41.0,Andrew Agozzino,Hitter,Pittsburgh Penguins,Tyson Jost,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:13:48Z,1,03:32,16:28,Takeaway,n/a,-3.0,41.0,Marcus Pettersson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:14:07Z,1,03:53,16:07,Hit,n/a,46.0,41.0,Nikita Zadorov,Hitter,Colorado Avalanche,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:14:15Z,1,04:02,15:58,Shot,Wrist Shot,-77.0,3.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:15:06Z,1,04:50,15:10,Hit,n/a,94.0,-3.0,Samuel Girard,Hitter,Colorado Avalanche,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:15:11Z,1,04:58,15:02,Hit,n/a,-98.0,-15.0,Valeri Nichushkin,Hitter,Colorado Avalanche,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:15:36Z,1,05:23,14:37,Blocked Shot,n/a,-66.0,7.0,Andrew Agozzino,Blocker,Pittsburgh Penguins,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:15:55Z,1,05:39,14:21,Hit,n/a,-33.0,41.0,Vladislav Kamenev,Hitter,Colorado Avalanche,Alex Galchenyuk,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:16:06Z,1,05:53,14:07,Hit,n/a,-21.0,40.0,Kris Letang,Hitter,Pittsburgh Penguins,Tyson Jost,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:16:39Z,1,06:26,13:34,Takeaway,n/a,-6.0,-4.0,Pierre-Edouard Bellemare,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:17:15Z,1,06:31,13:29,Faceoff,n/a,69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Brandon Tanev,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:19:44Z,1,06:43,13:17,Faceoff,n/a,-69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:20:11Z,1,07:07,12:53,Shot,Wrist Shot,-76.0,-21.0,Gabriel Landeskog,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:20:20Z,1,07:10,12:50,Blocked Shot,n/a,-79.0,-1.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:20:37Z,1,07:11,12:49,Shot,Wrist Shot,-82.0,-3.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:30:29Z,1,07:11,12:49,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:20:54Z,1,07:19,12:41,Missed Shot,n/a,-40.0,23.0,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:21:13Z,1,07:38,12:22,Hit,n/a,55.0,-40.0,Nikita Zadorov,Hitter,Colorado Avalanche,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:21:23Z,1,07:47,12:13,Shot,Wrist Shot,34.0,-37.0,Kris Letang,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:21:49Z,1,07:47,12:13,Faceoff,n/a,69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:22:28Z,1,08:14,11:46,Hit,n/a,-3.0,37.0,Ian Cole,Hitter,Colorado Avalanche,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:23:02Z,1,08:49,11:11,Hit,n/a,91.0,-34.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:23:08Z,1,08:55,11:05,Blocked Shot,n/a,-79.0,-4.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:23:30Z,1,09:17,10:43,Shot,Snap Shot,-70.0,12.0,Erik Johnson,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:23:56Z,1,09:17,10:43,Faceoff,n/a,-69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:24:15Z,1,09:23,10:37,Faceoff,n/a,-69.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:24:43Z,1,09:33,10:27,Blocked Shot,n/a,-82.0,-14.0,Juuso Riikola,Blocker,Pittsburgh Penguins,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:25:12Z,1,10:02,09:58,Missed Shot,n/a,-57.0,-34.0,Tyson Jost,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:25:34Z,1,10:23,09:37,Giveaway,n/a,-72.0,30.0,Andre Burakovsky,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:26:34Z,1,11:22,08:38,Takeaway,n/a,48.0,5.0,Pierre-Edouard Bellemare,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:26:37Z,1,11:27,08:33,Shot,Wrist Shot,-8.0,1.0,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:27:03Z,1,11:52,08:08,Shot,Wrist Shot,43.0,-33.0,Dominik Simon,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:27:24Z,1,12:12,07:48,Takeaway,n/a,-58.0,-38.0,Matt Nieto,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:27:33Z,1,12:23,07:37,Blocked Shot,n/a,-64.0,0.0,Jared McCann,Blocker,Pittsburgh Penguins,Nikita Zadorov,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:27:55Z,1,12:42,07:18,Giveaway,n/a,-91.0,-16.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:29:59Z,1,12:52,07:08,Faceoff,n/a,-20.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:30:30Z,1,12:54,07:06,Faceoff,n/a,-20.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:30:38Z,1,12:55,07:05,Faceoff,n/a,-20.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:31:03Z,1,13:16,06:44,Giveaway,n/a,-31.0,-6.0,Cale Makar,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:31:16Z,1,13:22,06:38,Hit,n/a,90.0,-31.0,Cale Makar,Hitter,Colorado Avalanche,Dominik Kahun,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:31:16Z,1,13:29,06:31,Blocked Shot,n/a,71.0,0.0,Gabriel Landeskog,Blocker,Colorado Avalanche,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:31:22Z,1,13:33,06:27,Takeaway,n/a,49.0,-15.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:31:28Z,1,13:39,06:21,Blocked Shot,n/a,72.0,0.0,Gabriel Landeskog,Blocker,Colorado Avalanche,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:31:32Z,1,13:45,06:15,Takeaway,n/a,83.0,20.0,Cale Makar,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:31:38Z,1,13:52,06:08,Shot,Wrist Shot,-72.0,-23.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:32:02Z,1,13:56,06:04,Missed Shot,n/a,-77.0,4.0,Gabriel Landeskog,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:32:02Z,1,14:09,05:51,Penalty,Slashing,-47.0,34.0,Evgeni Malkin,PenaltyOn,Pittsburgh Penguins,Gabriel Landeskog,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:33:44Z,1,14:09,05:51,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:34:30Z,1,14:27,05:33,Missed Shot,n/a,-37.0,-12.0,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:34:41Z,1,14:38,05:22,Goal,Slap Shot,-70.0,-21.0,Nathan MacKinnon,Scorer,Colorado Avalanche,Samuel Girard,Assist,Colorado Avalanche,Gabriel Landeskog,Assist,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins
+2020-01-11T02:35:27Z,1,14:38,05:22,Faceoff,n/a,0.0,0.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:36:10Z,1,15:22,04:38,Hit,n/a,-95.0,24.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Matt Calvert,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:36:37Z,1,15:43,04:17,Giveaway,n/a,-91.0,-17.0,Valeri Nichushkin,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:36:42Z,1,15:54,04:06,Giveaway,n/a,2.0,-35.0,Alex Galchenyuk,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:36:52Z,1,16:04,03:56,Missed Shot,n/a,-76.0,5.0,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:37:21Z,1,16:12,03:48,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:37:40Z,1,16:17,03:43,Blocked Shot,n/a,55.0,27.0,Andre Burakovsky,Blocker,Colorado Avalanche,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:37:56Z,1,16:32,03:28,Shot,Wrist Shot,83.0,3.0,Bryan Rust,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:38:08Z,1,16:33,03:27,Shot,Wrist Shot,82.0,0.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:39:46Z,1,16:34,03:26,Faceoff,n/a,20.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Vladislav Kamenev,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:40:02Z,1,16:47,03:13,Blocked Shot,n/a,47.0,-23.0,Vladislav Kamenev,Blocker,Colorado Avalanche,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:40:58Z,1,17:41,02:19,Shot,Slap Shot,30.0,-18.0,Kris Letang,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:41:06Z,1,17:51,02:09,Hit,n/a,-94.0,28.0,Kris Letang,Hitter,Pittsburgh Penguins,Nathan MacKinnon,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:41:21Z,1,18:06,01:54,Hit,n/a,-97.0,7.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Mikko Rantanen,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:41:32Z,1,18:13,01:47,Takeaway,n/a,21.0,-8.0,Dominik Simon,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:41:56Z,1,18:36,01:24,Takeaway,n/a,-69.0,2.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:42:56Z,1,19:39,00:21,Hit,n/a,-99.0,10.0,Nathan MacKinnon,Hitter,Colorado Avalanche,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:43:00Z,1,19:44,00:16,Shot,Wrist Shot,-36.0,35.0,Erik Johnson,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T02:43:30Z,1,19:55,00:05,Faceoff,n/a,69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:54:32Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:02:46Z,2,00:20,19:40,Hit,n/a,-86.0,36.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Erik Johnson,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:03:01Z,2,00:37,19:23,Shot,Slap Shot,-42.0,-35.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:03:07Z,2,00:41,19:19,Shot,Snap Shot,-77.0,17.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:03:07Z,2,00:42,19:18,Shot,Wrist Shot,-65.0,8.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:03:28Z,2,01:03,18:57,Shot,Slap Shot,-39.0,-23.0,Jack Johnson,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:03:43Z,2,01:04,18:56,Faceoff,n/a,-69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:04:13Z,2,01:27,18:33,Blocked Shot,n/a,78.0,4.0,Jack Johnson,Blocker,Pittsburgh Penguins,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:04:24Z,2,01:38,18:22,Blocked Shot,n/a,73.0,3.0,Bryan Rust,Blocker,Pittsburgh Penguins,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:04:41Z,2,01:55,18:05,Hit,n/a,-44.0,-38.0,Cale Makar,Hitter,Colorado Avalanche,Dominik Kahun,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:05:42Z,2,02:52,17:08,Takeaway,n/a,-9.0,41.0,Nazem Kadri,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:06:03Z,2,03:17,16:43,Blocked Shot,n/a,55.0,15.0,Sam Lafferty,Blocker,Pittsburgh Penguins,Erik Johnson,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:06:51Z,2,04:05,15:55,Blocked Shot,n/a,-67.0,18.0,Ryan Graves,Blocker,Colorado Avalanche,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:07:05Z,2,04:19,15:41,Giveaway,n/a,22.0,-39.0,Dominik Kahun,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:07:08Z,2,04:22,15:38,Shot,Wrist Shot,59.0,29.0,Ryan Graves,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:07:13Z,2,04:27,15:33,Hit,n/a,77.0,40.0,Bryan Rust,Hitter,Pittsburgh Penguins,Pierre-Edouard Bellemare,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:07:47Z,2,05:01,14:59,Shot,Wrist Shot,-72.0,2.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:08:25Z,2,05:01,14:59,Faceoff,n/a,-69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:08:26Z,2,05:05,14:55,Blocked Shot,n/a,-59.0,32.0,Mikko Rantanen,Blocker,Colorado Avalanche,Chad Ruhwedel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:08:39Z,2,05:05,14:55,Faceoff,n/a,-69.0,22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:08:56Z,2,05:15,14:45,Shot,Wrist Shot,61.0,-17.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:09:34Z,2,05:55,14:05,Shot,Snap Shot,71.0,26.0,Nazem Kadri,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:09:58Z,2,06:06,13:54,Penalty,Hi-sticking,-95.0,-24.0,Ian Cole,PenaltyOn,Colorado Avalanche,Andrew Agozzino,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:12:04Z,2,06:06,13:54,Faceoff,n/a,-69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:12:53Z,2,06:11,13:49,Faceoff,n/a,-20.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:14:05Z,2,06:46,13:14,Takeaway,n/a,-99.0,-11.0,Erik Johnson,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:14:50Z,2,07:29,12:31,Takeaway,n/a,-96.0,-20.0,Nikita Zadorov,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:15:56Z,2,08:38,11:22,Takeaway,n/a,47.0,-17.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:16:27Z,2,09:08,10:52,Shot,Wrist Shot,-61.0,-34.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:17:02Z,2,09:08,10:52,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:17:40Z,2,09:20,10:40,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:17:50Z,2,09:27,10:33,Missed Shot,n/a,32.0,-28.0,Erik Johnson,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:17:56Z,2,09:31,10:29,Takeaway,n/a,99.0,-1.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:18:31Z,2,09:40,10:20,Faceoff,n/a,-20.0,-22.0,Andrew Agozzino,Winner,Pittsburgh Penguins,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:19:02Z,2,09:54,10:06,Faceoff,n/a,69.0,22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:19:30Z,2,10:06,09:54,Hit,n/a,71.0,38.0,Andrew Agozzino,Hitter,Pittsburgh Penguins,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:19:38Z,2,10:16,09:44,Blocked Shot,n/a,48.0,12.0,Andrew Agozzino,Blocker,Pittsburgh Penguins,Ryan Graves,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:19:57Z,2,10:35,09:25,Blocked Shot,n/a,-62.0,21.0,Gabriel Landeskog,Blocker,Colorado Avalanche,Teddy Blueger,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:20:18Z,2,10:57,09:03,Shot,Backhand,-78.0,9.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:20:26Z,2,11:04,08:56,Hit,n/a,-74.0,-39.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Matt Nieto,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:20:49Z,2,11:23,08:37,Penalty,Tripping,-97.0,0.0,Erik Johnson,PenaltyOn,Colorado Avalanche,Bryan Rust,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:22:46Z,2,11:23,08:37,Faceoff,n/a,-69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:23:27Z,2,11:48,08:12,Giveaway,n/a,-86.0,-31.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:23:34Z,2,11:55,08:05,Shot,Wrist Shot,42.0,-35.0,Matt Calvert,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:24:10Z,2,12:31,07:29,Blocked Shot,n/a,-56.0,10.0,Ryan Graves,Blocker,Colorado Avalanche,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:24:18Z,2,12:39,07:21,Shot,Wrist Shot,-50.0,17.0,John Marino,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:24:35Z,2,12:56,07:04,Missed Shot,n/a,-82.0,5.0,Andrew Agozzino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:24:52Z,2,13:13,06:47,Hit,n/a,-90.0,33.0,Nikita Zadorov,Hitter,Colorado Avalanche,Alex Galchenyuk,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:25:08Z,2,13:29,06:31,Blocked Shot,n/a,-73.0,-2.0,Ian Cole,Blocker,Colorado Avalanche,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:25:15Z,2,13:29,06:31,Goal,Tip-In,-82.0,-10.0,Teddy Blueger,Scorer,Pittsburgh Penguins,Dominik Kahun,Assist,Pittsburgh Penguins,John Marino,Assist,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche
+2020-01-11T03:25:56Z,2,13:29,06:31,Faceoff,n/a,0.0,0.0,Nazem Kadri,Winner,Colorado Avalanche,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:26:18Z,2,13:52,06:08,Shot,Wrist Shot,-61.0,-9.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:26:48Z,2,14:22,05:38,Hit,n/a,70.0,39.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Andre Burakovsky,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:27:21Z,2,14:55,05:05,Shot,Wrist Shot,-51.0,0.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:27:27Z,2,15:00,05:00,Blocked Shot,n/a,-76.0,5.0,Nathan MacKinnon,Blocker,Colorado Avalanche,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:27:45Z,2,15:19,04:41,Missed Shot,n/a,-78.0,2.0,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:28:45Z,2,15:58,04:02,Faceoff,n/a,-69.0,-22.0,J.T. Compher,Winner,Colorado Avalanche,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:29:12Z,2,16:08,03:52,Hit,n/a,6.0,41.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Vladislav Kamenev,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:29:25Z,2,16:22,03:38,Hit,n/a,78.0,39.0,Vladislav Kamenev,Hitter,Colorado Avalanche,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:29:41Z,2,16:38,03:22,Hit,n/a,97.0,15.0,Chad Ruhwedel,Hitter,Pittsburgh Penguins,Tyson Jost,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:30:24Z,2,17:18,02:42,Hit,n/a,91.0,-31.0,Andrew Agozzino,Hitter,Pittsburgh Penguins,Matt Calvert,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:30:33Z,2,17:30,02:30,Giveaway,n/a,87.0,-16.0,Alex Galchenyuk,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:30:55Z,2,17:51,02:09,Shot,Wrist Shot,31.0,28.0,Ryan Graves,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:30:58Z,2,17:52,02:08,Missed Shot,n/a,86.0,-29.0,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:31:14Z,2,17:57,02:03,Shot,Snap Shot,55.0,7.0,Gabriel Landeskog,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:33:17Z,2,17:57,02:03,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:33:43Z,2,18:20,01:40,Goal,Wrist Shot,16.0,4.0,Gabriel Landeskog,Scorer,Colorado Avalanche,Samuel Girard,Assist,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a
+2020-01-11T03:34:29Z,2,18:20,01:40,Faceoff,n/a,0.0,0.0,Nazem Kadri,Winner,Colorado Avalanche,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:34:50Z,2,18:36,01:24,Takeaway,n/a,-1.0,6.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:35:09Z,2,18:52,01:08,Takeaway,n/a,-90.0,32.0,Ian Cole,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:35:23Z,2,19:08,00:52,Missed Shot,n/a,79.0,4.0,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:35:28Z,2,19:12,00:48,Hit,n/a,99.0,0.0,Nazem Kadri,Hitter,Colorado Avalanche,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:35:45Z,2,19:29,00:31,Hit,n/a,-5.0,-42.0,Nathan MacKinnon,Hitter,Colorado Avalanche,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:54:40Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:55:08Z,3,00:11,19:49,Hit,n/a,75.0,39.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Erik Johnson,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:55:33Z,3,00:38,19:22,Hit,n/a,89.0,-31.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Erik Johnson,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:55:37Z,3,00:40,19:20,Hit,n/a,41.0,-40.0,Pierre-Edouard Bellemare,Hitter,Colorado Avalanche,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:56:00Z,3,01:05,18:55,Shot,Tip-In,-74.0,-4.0,Gabriel Landeskog,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:56:07Z,3,01:12,18:48,Shot,Wrist Shot,45.0,-2.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:56:13Z,3,01:14,18:46,Goal,Wrist Shot,57.0,-10.0,Bryan Rust,Scorer,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Dominik Kahun,Assist,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche
+2020-01-11T03:56:55Z,3,01:14,18:46,Faceoff,n/a,0.0,0.0,Nazem Kadri,Winner,Colorado Avalanche,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:57:20Z,3,01:33,18:27,Giveaway,n/a,55.0,40.0,Nikita Zadorov,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:57:40Z,3,01:38,18:22,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Andrew Agozzino,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:58:15Z,3,02:05,17:55,Missed Shot,n/a,32.0,35.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:58:42Z,3,02:05,17:55,Faceoff,n/a,69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:59:02Z,3,02:17,17:43,Shot,Wrist Shot,-54.0,-37.0,Matt Nieto,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:59:04Z,3,02:18,17:42,Shot,Wrap-around,-88.0,7.0,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T03:59:57Z,3,02:38,17:22,Faceoff,n/a,-69.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:00:28Z,3,03:10,16:50,Shot,Wrist Shot,65.0,10.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:01:02Z,3,03:44,16:16,Missed Shot,n/a,-57.0,26.0,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:01:09Z,3,03:51,16:09,Blocked Shot,n/a,-43.0,26.0,Teddy Blueger,Blocker,Pittsburgh Penguins,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:01:18Z,3,03:59,16:01,Shot,Wrist Shot,-59.0,34.0,Nazem Kadri,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:01:40Z,3,04:04,15:56,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:02:01Z,3,04:17,15:43,Shot,Backhand,-82.0,-6.0,Erik Johnson,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:02:04Z,3,04:20,15:40,Blocked Shot,n/a,-83.0,-7.0,John Marino,Blocker,Pittsburgh Penguins,Nazem Kadri,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:02:11Z,3,04:28,15:32,Missed Shot,n/a,-76.0,-6.0,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:02:43Z,3,04:59,15:01,Blocked Shot,n/a,-74.0,-5.0,Juuso Riikola,Blocker,Pittsburgh Penguins,Andre Burakovsky,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:02:58Z,3,05:03,14:57,Penalty,Holding,-62.0,40.0,Patric Hornqvist,PenaltyOn,Pittsburgh Penguins,Nazem Kadri,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:03:20Z,3,05:03,14:57,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:03:52Z,3,05:23,14:37,Giveaway,n/a,-69.0,-40.0,Nathan MacKinnon,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:03:55Z,3,05:27,14:33,Shot,Wrist Shot,23.0,-38.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:04:22Z,3,05:52,14:08,Giveaway,n/a,-48.0,-41.0,Nazem Kadri,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:04:54Z,3,06:26,13:34,Missed Shot,n/a,-37.0,-7.0,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:05:04Z,3,06:35,13:25,Shot,Wrist Shot,-57.0,-24.0,Tyson Jost,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:05:22Z,3,06:54,13:06,Shot,Wrist Shot,-65.0,-7.0,Cale Makar,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:05:41Z,3,06:54,13:06,Faceoff,n/a,-69.0,-22.0,Tyson Jost,Winner,Colorado Avalanche,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:06:06Z,3,07:00,13:00,Shot,Wrist Shot,-70.0,-5.0,Bryan Rust,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:06:39Z,3,07:11,12:49,Hit,n/a,-92.0,29.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Tyson Jost,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:06:39Z,3,07:31,12:29,Hit,n/a,94.0,-26.0,Tyson Jost,Hitter,Colorado Avalanche,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:06:51Z,3,07:46,12:14,Blocked Shot,n/a,-72.0,-18.0,Evgeni Malkin,Blocker,Pittsburgh Penguins,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:09:12Z,3,08:06,11:54,Faceoff,n/a,-69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:09:47Z,3,08:16,11:44,Missed Shot,n/a,-45.0,-23.0,Nikita Zadorov,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:09:56Z,3,08:26,11:34,Blocked Shot,n/a,-52.0,21.0,Zach Aston-Reese,Blocker,Pittsburgh Penguins,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:10:30Z,3,08:59,11:01,Giveaway,n/a,-89.0,22.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:10:30Z,3,09:00,11:00,Shot,Slap Shot,-45.0,15.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:10:51Z,3,09:00,11:00,Faceoff,n/a,-69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:11:02Z,3,09:08,10:52,Missed Shot,n/a,-74.0,-3.0,Gabriel Landeskog,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:11:26Z,3,09:30,10:30,Shot,Wrist Shot,-9.0,-35.0,Samuel Girard,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:12:16Z,3,09:51,10:09,Faceoff,n/a,-20.0,22.0,Andrew Agozzino,Winner,Pittsburgh Penguins,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:13:03Z,3,10:33,09:27,Giveaway,n/a,-57.0,37.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:13:02Z,3,10:36,09:24,Shot,Wrist Shot,-33.0,20.0,Cale Makar,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:15:20Z,3,10:50,09:10,Faceoff,n/a,-20.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:16:08Z,3,11:22,08:38,Hit,n/a,-73.0,41.0,Jack Johnson,Hitter,Pittsburgh Penguins,Matt Nieto,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:16:59Z,3,12:12,07:48,Hit,n/a,24.0,40.0,Erik Johnson,Hitter,Colorado Avalanche,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:17:07Z,3,12:23,07:37,Hit,n/a,-62.0,-39.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Andre Burakovsky,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:17:39Z,3,12:30,07:30,Faceoff,n/a,20.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:17:52Z,3,12:36,07:24,Shot,Wrist Shot,56.0,-36.0,Dominik Simon,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:18:14Z,3,12:36,07:24,Faceoff,n/a,69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:19:00Z,3,13:14,06:46,Hit,n/a,32.0,-39.0,Nikita Zadorov,Hitter,Colorado Avalanche,Sam Lafferty,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:19:19Z,3,13:33,06:27,Hit,n/a,90.0,33.0,Nikita Zadorov,Hitter,Colorado Avalanche,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:19:26Z,3,13:40,06:20,Missed Shot,n/a,62.0,-17.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:19:32Z,3,13:45,06:15,Shot,Wrist Shot,84.0,26.0,Kris Letang,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:19:32Z,3,13:46,06:14,Shot,Wrist Shot,86.0,10.0,Kris Letang,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:19:38Z,3,13:51,06:09,Blocked Shot,n/a,80.0,-16.0,Nazem Kadri,Blocker,Colorado Avalanche,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:20:19Z,3,13:55,06:05,Faceoff,n/a,69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:20:19Z,3,14:10,05:50,Shot,Wrist Shot,-34.0,16.0,Nazem Kadri,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:22:49Z,3,14:43,05:17,Faceoff,n/a,-69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:23:16Z,3,14:55,05:05,Hit,n/a,-49.0,39.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Mikko Rantanen,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:23:32Z,3,15:10,04:50,Hit,n/a,40.0,-40.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:23:47Z,3,15:26,04:34,Hit,n/a,31.0,-25.0,Ryan Graves,Hitter,Colorado Avalanche,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:23:58Z,3,15:36,04:24,Hit,n/a,-79.0,-3.0,Kris Letang,Hitter,Pittsburgh Penguins,Mikko Rantanen,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:24:05Z,3,15:43,04:17,Goal,Wrist Shot,57.0,-28.0,Evgeni Malkin,Scorer,Pittsburgh Penguins,Dominik Kahun,Assist,Pittsburgh Penguins,Bryan Rust,Assist,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche
+2020-01-11T04:24:54Z,3,15:43,04:17,Faceoff,n/a,0.0,0.0,Jared McCann,Winner,Pittsburgh Penguins,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:25:47Z,3,16:14,03:46,Faceoff,n/a,-20.0,-22.0,Gabriel Landeskog,Winner,Colorado Avalanche,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:26:07Z,3,16:25,03:35,Missed Shot,n/a,-78.0,-10.0,Mikko Rantanen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:26:17Z,3,16:34,03:26,Missed Shot,n/a,44.0,24.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:26:24Z,3,16:42,03:18,Hit,n/a,98.0,-6.0,Nathan MacKinnon,Hitter,Colorado Avalanche,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:26:27Z,3,16:44,03:16,Shot,Slap Shot,40.0,28.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:26:47Z,3,16:46,03:14,Faceoff,n/a,69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:27:02Z,3,16:54,03:06,Shot,Wrist Shot,-70.0,-20.0,Matt Calvert,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:27:23Z,3,16:57,03:03,Penalty,Delaying Game - Puck over glass,-79.0,-30.0,Bryan Rust,PenaltyOn,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:27:51Z,3,16:57,03:03,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:28:17Z,3,17:15,02:45,Hit,n/a,-76.0,41.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Mikko Rantanen,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:28:31Z,3,17:30,02:30,Hit,n/a,-75.0,-41.0,John Marino,Hitter,Pittsburgh Penguins,Nathan MacKinnon,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:28:37Z,3,17:35,02:25,Shot,Slap Shot,-70.0,22.0,Mikko Rantanen,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:29:01Z,3,17:35,02:25,Faceoff,n/a,-69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:30:01Z,3,18:22,01:38,Shot,Wrist Shot,-80.0,-7.0,Gabriel Landeskog,Shooter,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:30:10Z,3,18:30,01:30,Takeaway,n/a,-75.0,11.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:30:35Z,3,18:56,01:04,Takeaway,n/a,-30.0,-39.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:31:03Z,3,19:21,00:39,Blocked Shot,n/a,-46.0,26.0,Brandon Tanev,Blocker,Pittsburgh Penguins,Cale Makar,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:31:10Z,3,19:29,00:31,Goal,Tip-In,-80.0,3.0,Matt Calvert,Scorer,Colorado Avalanche,Cale Makar,Assist,Colorado Avalanche,Andre Burakovsky,Assist,Colorado Avalanche,Matt Murray,Goalie,Pittsburgh Penguins
+2020-01-11T04:32:04Z,3,19:29,00:31,Faceoff,n/a,0.0,0.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:32:22Z,3,19:47,00:13,Missed Shot,n/a,81.0,6.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:34:46Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Nazem Kadri,Winner,Colorado Avalanche,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:36:07Z,4,01:17,03:43,Shot,Backhand,-80.0,2.0,John Marino,Shooter,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:36:54Z,4,02:05,02:55,Giveaway,n/a,24.0,3.0,Kris Letang,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:37:05Z,4,02:16,02:44,Missed Shot,n/a,77.0,-5.0,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:37:48Z,4,02:58,02:02,Blocked Shot,n/a,-56.0,2.0,Samuel Girard,Blocker,Colorado Avalanche,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-11T04:38:09Z,4,03:19,01:41,Goal,Wrist Shot,-61.0,1.0,Jared McCann,Scorer,Pittsburgh Penguins,Teddy Blueger,Assist,Pittsburgh Penguins,John Marino,Assist,Pittsburgh Penguins,Pavel Francouz,Goalie,Colorado Avalanche

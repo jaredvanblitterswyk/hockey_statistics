@@ -1,0 +1,264 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-06T01:13:10Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:14:05Z,1,00:09,19:51,Hit,n/a,-37.0,-39.0,Jason Demers,Hitter,Arizona Coyotes,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:14:11Z,1,00:14,19:46,Hit,n/a,-87.0,-40.0,Jason Demers,Hitter,Arizona Coyotes,Patrice Bergeron,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:14:30Z,1,00:18,19:42,Giveaway,n/a,-83.0,39.0,Brad Richardson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:14:20Z,1,00:22,19:38,Shot,Tip-In,-74.0,-7.0,Brad Marchand,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:15:03Z,1,00:22,19:38,Faceoff,n/a,-69.0,-22.0,David Krejci,Winner,Boston Bruins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:15:26Z,1,00:45,19:15,Blocked Shot,n/a,49.0,-19.0,Zdeno Chara,Blocker,Boston Bruins,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:16:02Z,1,01:22,18:38,Hit,n/a,-97.0,7.0,Brett Ritchie,Hitter,Boston Bruins,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:16:16Z,1,01:34,18:26,Shot,Tip-In,81.0,3.0,Conor Garland,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:16:55Z,1,01:35,18:25,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:17:11Z,1,01:50,18:10,Shot,Wrist Shot,31.0,4.0,Jakob Chychrun,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:17:19Z,1,01:56,18:04,Missed Shot,n/a,75.0,5.0,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:17:36Z,1,02:15,17:45,Shot,Wrist Shot,-55.0,-31.0,Sean Kuraly,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:18:01Z,1,02:16,17:44,Faceoff,n/a,-69.0,-22.0,Lawson Crouse,Winner,Arizona Coyotes,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:18:32Z,1,02:28,17:32,Giveaway,n/a,-39.0,30.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:18:39Z,1,02:34,17:26,Hit,n/a,59.0,-38.0,Lawson Crouse,Hitter,Arizona Coyotes,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:18:51Z,1,02:46,17:14,Takeaway,n/a,65.0,2.0,Christian Fischer,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:18:55Z,1,02:50,17:10,Giveaway,n/a,94.0,-16.0,Torey Krug,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:19:01Z,1,02:56,17:04,Blocked Shot,n/a,46.0,-8.0,Torey Krug,Blocker,Boston Bruins,Jason Demers,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:19:28Z,1,03:22,16:38,Blocked Shot,n/a,-75.0,-4.0,Niklas Hjalmarsson,Blocker,Arizona Coyotes,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:19:35Z,1,03:30,16:30,Blocked Shot,n/a,-76.0,-9.0,Niklas Hjalmarsson,Blocker,Arizona Coyotes,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:19:48Z,1,03:44,16:16,Hit,n/a,47.0,40.0,Connor Clifton,Hitter,Boston Bruins,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:19:53Z,1,03:49,16:11,Hit,n/a,82.0,38.0,Conor Garland,Hitter,Arizona Coyotes,Brett Ritchie,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:20:06Z,1,04:01,15:59,Blocked Shot,n/a,-70.0,-12.0,Jordan Oesterle,Blocker,Arizona Coyotes,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:20:45Z,1,04:04,15:56,Faceoff,n/a,20.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:20:56Z,1,04:16,15:44,Shot,Wrist Shot,51.0,-28.0,Derek Stepan,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:21:04Z,1,04:26,15:34,Hit,n/a,97.0,17.0,Phil Kessel,Hitter,Arizona Coyotes,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:21:22Z,1,04:42,15:18,Shot,Wrist Shot,66.0,29.0,Clayton Keller,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:21:55Z,1,04:43,15:17,Faceoff,n/a,69.0,22.0,Chris Wagner,Winner,Boston Bruins,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:22:20Z,1,05:09,14:51,Blocked Shot,n/a,-76.0,6.0,Christian Dvorak,Blocker,Arizona Coyotes,Sean Kuraly,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:22:52Z,1,05:22,14:38,Faceoff,n/a,69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:23:12Z,1,05:26,14:34,Shot,Wrist Shot,46.0,-39.0,Jason Demers,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:23:28Z,1,05:27,14:33,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Vinnie Hinostroza,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:23:41Z,1,05:31,14:29,Hit,n/a,96.0,-16.0,Vinnie Hinostroza,Hitter,Arizona Coyotes,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:23:57Z,1,05:48,14:12,Giveaway,n/a,-62.0,-31.0,Jason Demers,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:24:09Z,1,05:59,14:01,Blocked Shot,n/a,-70.0,0.0,Vinnie Hinostroza,Blocker,Arizona Coyotes,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:24:10Z,1,06:00,14:00,Blocked Shot,n/a,-67.0,-11.0,Vinnie Hinostroza,Blocker,Arizona Coyotes,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:24:37Z,1,06:27,13:33,Shot,Wrist Shot,65.0,-13.0,Jordan Oesterle,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:24:54Z,1,06:44,13:16,Hit,n/a,82.0,39.0,Connor Clifton,Hitter,Boston Bruins,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:25:15Z,1,07:06,12:54,Giveaway,n/a,21.0,32.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:25:23Z,1,07:13,12:47,Shot,Wrist Shot,59.0,20.0,Phil Kessel,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:25:45Z,1,07:35,12:25,Missed Shot,n/a,41.0,34.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:25:48Z,1,07:39,12:21,Hit,n/a,93.0,36.0,Charlie McAvoy,Hitter,Boston Bruins,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:26:03Z,1,07:54,12:06,Hit,n/a,-64.0,39.0,Christian Fischer,Hitter,Arizona Coyotes,David Krejci,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:26:16Z,1,08:07,11:53,Missed Shot,n/a,68.0,-15.0,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:26:53Z,1,08:44,11:16,Giveaway,n/a,-48.0,27.0,Jake DeBrusk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:27:00Z,1,08:50,11:10,Shot,Wrist Shot,25.0,-38.0,Christian Fischer,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:27:05Z,1,08:55,11:05,Giveaway,n/a,62.0,-22.0,Matt Grzelcyk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:27:08Z,1,08:59,11:01,Hit,n/a,38.0,-39.0,Par Lindholm,Hitter,Boston Bruins,Brad Richardson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:27:16Z,1,09:06,10:54,Hit,n/a,58.0,-36.0,Brad Richardson,Hitter,Arizona Coyotes,Sean Kuraly,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:27:42Z,1,09:08,10:52,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:28:02Z,1,09:18,10:42,Giveaway,n/a,64.0,33.0,Phil Kessel,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:28:23Z,1,09:39,10:21,Takeaway,n/a,-2.0,38.0,Conor Garland,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:28:36Z,1,09:52,10:08,Hit,n/a,-96.0,-12.0,Brett Ritchie,Hitter,Boston Bruins,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:28:51Z,1,10:07,09:53,Giveaway,n/a,-81.0,35.0,Danton Heinen,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:28:58Z,1,10:12,09:48,Takeaway,n/a,33.0,3.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:29:03Z,1,10:19,09:41,Blocked Shot,n/a,-65.0,-6.0,Jason Demers,Blocker,Arizona Coyotes,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:29:31Z,1,10:47,09:13,Giveaway,n/a,-96.0,-5.0,Alex Goligoski,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:29:40Z,1,10:56,09:04,Shot,Snap Shot,-58.0,11.0,Patrice Bergeron,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:30:17Z,1,11:31,08:29,Blocked Shot,n/a,-70.0,-13.0,Jordan Oesterle,Blocker,Arizona Coyotes,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:30:26Z,1,11:41,08:19,Shot,Wrist Shot,71.0,4.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:30:42Z,1,11:56,08:04,Shot,Wrist Shot,-12.0,-37.0,Jake DeBrusk,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:31:28Z,1,12:17,07:43,Faceoff,n/a,69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:31:59Z,1,12:26,07:34,Missed Shot,n/a,33.0,34.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:32:06Z,1,12:29,07:31,Hit,n/a,36.0,-38.0,Carl Soderberg,Hitter,Arizona Coyotes,Sean Kuraly,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:32:14Z,1,12:31,07:29,Faceoff,n/a,69.0,-22.0,Nick Schmaltz,Winner,Arizona Coyotes,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:32:43Z,1,12:45,07:15,Hit,n/a,-61.0,39.0,Carl Soderberg,Hitter,Arizona Coyotes,Chris Wagner,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:32:48Z,1,12:51,07:09,Hit,n/a,-87.0,-36.0,Chris Wagner,Hitter,Boston Bruins,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:35:29Z,1,12:53,07:07,Faceoff,n/a,-20.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:35:39Z,1,13:01,06:59,Penalty,Interference,15.0,39.0,Charlie McAvoy,PenaltyOn,Boston Bruins,Lawson Crouse,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:36:11Z,1,13:01,06:59,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:37:30Z,1,13:41,06:19,Faceoff,n/a,69.0,-22.0,Sean Kuraly,Winner,Boston Bruins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:37:48Z,1,14:07,05:53,Blocked Shot,n/a,71.0,10.0,Brandon Carlo,Blocker,Boston Bruins,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:38:15Z,1,14:08,05:52,Faceoff,n/a,69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:38:57Z,1,14:51,05:09,Missed Shot,n/a,60.0,-15.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:39:25Z,1,14:54,05:06,Faceoff,n/a,20.0,22.0,Par Lindholm,Winner,Boston Bruins,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:39:40Z,1,15:07,04:53,Missed Shot,n/a,-64.0,-25.0,Par Lindholm,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:40:44Z,1,16:11,03:49,Hit,n/a,-63.0,8.0,Jason Demers,Hitter,Arizona Coyotes,Jake DeBrusk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:41:12Z,1,16:39,03:21,Hit,n/a,34.0,40.0,Connor Clifton,Hitter,Boston Bruins,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:41:20Z,1,16:47,03:13,Missed Shot,n/a,29.0,7.0,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:41:27Z,1,16:54,03:06,Blocked Shot,n/a,73.0,4.0,Matt Grzelcyk,Blocker,Boston Bruins,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:41:37Z,1,17:04,02:56,Takeaway,n/a,-73.0,11.0,Danton Heinen,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:41:56Z,1,17:23,02:37,Takeaway,n/a,-96.0,11.0,Niklas Hjalmarsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:42:35Z,1,18:01,01:59,Blocked Shot,n/a,-37.0,-30.0,Jakob Chychrun,Blocker,Arizona Coyotes,Torey Krug,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:43:07Z,1,18:34,01:26,Shot,Wrist Shot,-52.0,37.0,Patrice Bergeron,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:43:16Z,1,18:41,01:19,Goal,Wrist Shot,-63.0,-17.0,Brad Marchand,Scorer,Boston Bruins,Patrice Bergeron,Assist,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a
+2019-10-06T01:44:07Z,1,18:41,01:19,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:44:42Z,1,19:17,00:43,Shot,Wrist Shot,22.0,25.0,Alex Goligoski,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:44:54Z,1,19:30,00:30,Hit,n/a,-97.0,25.0,Brett Ritchie,Hitter,Boston Bruins,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:45:07Z,1,19:43,00:17,Takeaway,n/a,36.0,-31.0,Brandon Carlo,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:45:24Z,1,19:58,00:02,Missed Shot,n/a,-75.0,22.0,Charlie Coyle,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:04:08Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:04:25Z,2,00:15,19:45,Takeaway,n/a,44.0,18.0,Jason Demers,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:04:47Z,2,00:41,19:19,Takeaway,n/a,-3.0,28.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:05:08Z,2,01:03,18:57,Takeaway,n/a,-55.0,19.0,Par Lindholm,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:05:18Z,2,01:11,18:49,Missed Shot,n/a,47.0,-34.0,Chris Wagner,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:05:35Z,2,01:29,18:31,Blocked Shot,n/a,52.0,-6.0,Jakob Chychrun,Blocker,Arizona Coyotes,Chris Wagner,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:05:43Z,2,01:37,18:23,Hit,n/a,-1.0,-36.0,Chris Wagner,Hitter,Boston Bruins,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:06:12Z,2,01:45,18:15,Faceoff,n/a,-69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:06:33Z,2,01:54,18:06,Blocked Shot,n/a,-70.0,2.0,Charlie McAvoy,Blocker,Boston Bruins,Jason Demers,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:06:33Z,2,01:56,18:04,Blocked Shot,n/a,-72.0,0.0,Charlie McAvoy,Blocker,Boston Bruins,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:06:51Z,2,02:15,17:45,Blocked Shot,n/a,-75.0,11.0,Chris Wagner,Blocker,Boston Bruins,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:07:02Z,2,02:19,17:41,Hit,n/a,-76.0,39.0,Sean Kuraly,Hitter,Boston Bruins,Jason Demers,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:07:04Z,2,02:27,17:33,Missed Shot,n/a,-39.0,32.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:07:52Z,2,03:14,16:46,Hit,n/a,19.0,-33.0,Michael Grabner,Hitter,Arizona Coyotes,Karson Kuhlman,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:08:04Z,2,03:28,16:32,Hit,n/a,91.0,-38.0,Alex Goligoski,Hitter,Arizona Coyotes,Karson Kuhlman,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:08:39Z,2,04:02,15:58,Hit,n/a,-97.0,-10.0,Clayton Keller,Hitter,Arizona Coyotes,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:09:24Z,2,04:18,15:42,Faceoff,n/a,-20.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:09:42Z,2,04:37,15:23,Blocked Shot,n/a,52.0,-11.0,Christian Dvorak,Blocker,Arizona Coyotes,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:09:42Z,2,04:37,15:23,Hit,n/a,96.0,-24.0,Patrice Bergeron,Hitter,Boston Bruins,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:09:55Z,2,04:48,15:12,Shot,Snap Shot,-35.0,34.0,Jason Demers,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:10:04Z,2,04:59,15:01,Hit,n/a,67.0,-37.0,Christian Fischer,Hitter,Arizona Coyotes,Brad Marchand,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:10:09Z,2,05:01,14:59,Shot,Slap Shot,33.0,-37.0,Brandon Carlo,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:10:58Z,2,05:02,14:58,Faceoff,n/a,69.0,-22.0,David Krejci,Winner,Boston Bruins,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:11:16Z,2,05:22,14:38,Blocked Shot,n/a,62.0,-16.0,Alex Goligoski,Blocker,Arizona Coyotes,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:11:29Z,2,05:27,14:33,Missed Shot,n/a,-41.0,41.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:11:58Z,2,05:28,14:32,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Par Lindholm,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:12:08Z,2,05:41,14:19,Blocked Shot,n/a,-62.0,17.0,Sean Kuraly,Blocker,Boston Bruins,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:12:10Z,2,05:42,14:18,Shot,Wrist Shot,-31.0,16.0,Jordan Oesterle,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:12:31Z,2,05:43,14:17,Faceoff,n/a,-69.0,22.0,Par Lindholm,Winner,Boston Bruins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:12:38Z,2,05:51,14:09,Takeaway,n/a,-39.0,-37.0,Clayton Keller,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:12:38Z,2,05:58,14:02,Missed Shot,n/a,-74.0,3.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:12:55Z,2,06:08,13:52,Hit,n/a,69.0,39.0,Chris Wagner,Hitter,Boston Bruins,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:13:04Z,2,06:17,13:43,Shot,Wrist Shot,-43.0,9.0,Derek Stepan,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:13:30Z,2,06:43,13:17,Blocked Shot,n/a,70.0,11.0,Jordan Oesterle,Blocker,Arizona Coyotes,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:13:39Z,2,06:52,13:08,Hit,n/a,-57.0,-38.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Brett Ritchie,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:13:56Z,2,07:07,12:53,Shot,Wrist Shot,69.0,-16.0,David Pastrnak,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:13:58Z,2,07:09,12:51,Shot,Wrist Shot,70.0,2.0,Brad Marchand,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:14:08Z,2,07:14,12:46,Shot,Wrist Shot,-37.0,-18.0,Christian Dvorak,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:16:13Z,2,07:15,12:45,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:16:18Z,2,07:20,12:40,Hit,n/a,-28.0,-39.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:16:27Z,2,07:26,12:34,Hit,n/a,21.0,-37.0,Jason Demers,Hitter,Arizona Coyotes,David Pastrnak,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:16:43Z,2,07:41,12:19,Giveaway,n/a,26.0,-37.0,Christian Dvorak,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:16:46Z,2,07:48,12:12,Hit,n/a,39.0,-31.0,Lawson Crouse,Hitter,Arizona Coyotes,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:16:55Z,2,07:55,12:05,Shot,Wrist Shot,45.0,-15.0,Torey Krug,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:17:30Z,2,08:32,11:28,Shot,Wrist Shot,-79.0,-4.0,Clayton Keller,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:17:40Z,2,08:38,11:22,Missed Shot,n/a,65.0,-37.0,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:18:12Z,2,08:39,11:21,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:18:40Z,2,09:00,11:00,Blocked Shot,n/a,67.0,11.0,Jordan Oesterle,Blocker,Arizona Coyotes,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:19:13Z,2,09:33,10:27,Missed Shot,n/a,37.0,34.0,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:19:35Z,2,09:55,10:05,Blocked Shot,n/a,58.0,7.0,Carl Soderberg,Blocker,Arizona Coyotes,Torey Krug,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:20:26Z,2,10:46,09:14,Shot,Slap Shot,-52.0,-24.0,Lawson Crouse,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:20:28Z,2,10:48,09:12,Hit,n/a,-95.0,-8.0,Connor Clifton,Hitter,Boston Bruins,Lawson Crouse,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:20:38Z,2,10:57,09:03,Hit,n/a,-44.0,-25.0,Chris Wagner,Hitter,Boston Bruins,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:20:58Z,2,11:01,08:59,Giveaway,n/a,-42.0,38.0,Matt Grzelcyk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:20:45Z,2,11:04,08:56,Shot,Wrist Shot,-56.0,-6.0,Christian Dvorak,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:21:31Z,2,11:05,08:55,Penalty,Roughing,-85.0,-23.0,Connor Clifton,PenaltyOn,Boston Bruins,Lawson Crouse,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:22:29Z,2,11:05,08:55,Penalty,Roughing,-75.0,-19.0,Lawson Crouse,PenaltyOn,Arizona Coyotes,Connor Clifton,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:23:44Z,2,11:05,08:55,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:23:47Z,2,11:14,08:46,Blocked Shot,n/a,-78.0,10.0,Matt Grzelcyk,Blocker,Boston Bruins,Jason Demers,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:23:58Z,2,11:25,08:35,Blocked Shot,n/a,-72.0,-7.0,Oliver Ekman-Larsson,Blocker,Arizona Coyotes,Charlie McAvoy,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:24:09Z,2,11:36,08:24,Shot,Wrist Shot,-38.0,-7.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:24:20Z,2,11:47,08:13,Takeaway,n/a,76.0,-30.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:24:33Z,2,12:00,08:00,Blocked Shot,n/a,-71.0,-2.0,Torey Krug,Blocker,Boston Bruins,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:25:43Z,2,13:10,06:50,Shot,Wrist Shot,30.0,15.0,David Pastrnak,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:25:53Z,2,13:20,06:40,Hit,n/a,21.0,-38.0,Brett Ritchie,Hitter,Boston Bruins,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:26:01Z,2,13:25,06:35,Hit,n/a,-97.0,22.0,Zdeno Chara,Hitter,Boston Bruins,Lawson Crouse,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:26:10Z,2,13:37,06:23,Blocked Shot,n/a,-69.0,3.0,Jake DeBrusk,Blocker,Boston Bruins,Niklas Hjalmarsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:27:06Z,2,14:34,05:26,Giveaway,n/a,52.0,36.0,Chris Wagner,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:27:22Z,2,14:43,05:17,Shot,Wrist Shot,54.0,34.0,Karson Kuhlman,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:29:40Z,2,14:44,05:16,Faceoff,n/a,69.0,22.0,Sean Kuraly,Winner,Boston Bruins,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:29:47Z,2,14:56,05:04,Shot,Backhand,-85.0,1.0,Christian Fischer,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:30:31Z,2,15:11,04:49,Faceoff,n/a,20.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:31:02Z,2,15:25,04:35,Faceoff,n/a,-69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:31:26Z,2,15:44,04:16,Hit,n/a,43.0,38.0,Brad Marchand,Hitter,Boston Bruins,Jason Demers,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:31:39Z,2,15:58,04:02,Hit,n/a,-87.0,-39.0,Clayton Keller,Hitter,Arizona Coyotes,Connor Clifton,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:31:48Z,2,16:06,03:54,Shot,Wrist Shot,58.0,-17.0,David Pastrnak,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:31:56Z,2,16:14,03:46,Shot,Wrist Shot,61.0,-32.0,Charlie McAvoy,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:32:13Z,2,16:31,03:29,Blocked Shot,n/a,-78.0,3.0,David Krejci,Blocker,Boston Bruins,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:32:56Z,2,16:52,03:08,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:33:16Z,2,16:59,03:01,Giveaway,n/a,-27.0,-28.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:33:38Z,2,17:21,02:39,Missed Shot,n/a,85.0,-6.0,Karson Kuhlman,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:34:11Z,2,17:54,02:06,Giveaway,n/a,-89.0,-28.0,Charlie Coyle,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:34:28Z,2,17:59,02:01,Penalty,Hi-sticking,-96.0,-6.0,Christian Fischer,PenaltyOn,Arizona Coyotes,Connor Clifton,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:35:17Z,2,17:59,02:01,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:35:14Z,2,18:07,01:53,Shot,Wrist Shot,-79.0,-3.0,Michael Grabner,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:35:48Z,2,18:07,01:53,Penalty,Interference,-33.0,4.0,David Pastrnak,PenaltyOn,Boston Bruins,Michael Grabner,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:36:44Z,2,18:07,01:53,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:37:04Z,2,19:14,00:46,Missed Shot,n/a,81.0,9.0,Patrice Bergeron,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:37:13Z,2,19:22,00:38,Shot,Wrist Shot,58.0,25.0,Patrice Bergeron,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:37:51Z,2,19:23,00:37,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Charlie Coyle,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:38:19Z,2,19:58,00:02,Shot,Wrist Shot,-87.0,7.0,Jakob Chychrun,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:57:01Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Patrice Bergeron,Winner,Boston Bruins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:57:40Z,3,00:32,19:28,Giveaway,n/a,88.0,33.0,Phil Kessel,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:58:07Z,3,00:45,19:15,Faceoff,n/a,-69.0,22.0,David Krejci,Winner,Boston Bruins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:58:27Z,3,00:47,19:13,Shot,Wrist Shot,-55.0,20.0,Jake DeBrusk,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:58:38Z,3,00:48,19:12,Penalty,Interference,-68.0,20.0,Karson Kuhlman,PenaltyOn,Boston Bruins,Lawson Crouse,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:59:10Z,3,00:48,19:12,Faceoff,n/a,69.0,-22.0,Patrice Bergeron,Winner,Boston Bruins,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T02:59:31Z,3,01:15,18:45,Blocked Shot,n/a,62.0,2.0,Brad Marchand,Blocker,Boston Bruins,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:00:08Z,3,01:51,18:09,Hit,n/a,82.0,-37.0,Charlie McAvoy,Hitter,Boston Bruins,Nick Schmaltz,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:00:39Z,3,02:23,17:37,Missed Shot,n/a,56.0,26.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:01:05Z,3,02:48,17:12,Shot,Slap Shot,35.0,-17.0,Jordan Oesterle,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:01:57Z,3,02:49,17:11,Faceoff,n/a,69.0,-22.0,Vinnie Hinostroza,Winner,Arizona Coyotes,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:01:51Z,3,02:58,17:02,Missed Shot,n/a,65.0,-3.0,Brad Richardson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:02:23Z,3,03:23,16:37,Shot,Backhand,-82.0,-1.0,Chris Wagner,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:02:32Z,3,03:24,16:36,Penalty,Slashing,-66.0,2.0,Jordan Oesterle,PenaltyOn,Arizona Coyotes,Chris Wagner,DrewBy,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:03:08Z,3,03:24,16:36,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:03:15Z,3,03:33,16:27,Takeaway,n/a,-58.0,-32.0,Patrice Bergeron,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:03:45Z,3,04:02,15:58,Shot,Wrist Shot,16.0,38.0,Derek Stepan,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:03:45Z,3,04:03,15:57,Blocked Shot,n/a,-71.0,-3.0,Alex Goligoski,Blocker,Arizona Coyotes,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:04:00Z,3,04:18,15:42,Giveaway,n/a,-9.0,-12.0,David Pastrnak,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:04:28Z,3,04:47,15:13,Shot,Tip-In,-78.0,-1.0,David Krejci,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:04:46Z,3,05:05,14:55,Shot,Wrist Shot,-52.0,-21.0,Matt Grzelcyk,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:04:48Z,3,05:06,14:54,Takeaway,n/a,-42.0,-24.0,Matt Grzelcyk,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:05:03Z,3,05:22,14:38,Shot,Slap Shot,-46.0,-19.0,Matt Grzelcyk,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:05:22Z,3,05:40,14:20,Hit,n/a,-93.0,-20.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Danton Heinen,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:06:01Z,3,06:19,13:41,Hit,n/a,-96.0,-11.0,Sean Kuraly,Hitter,Boston Bruins,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:06:09Z,3,06:27,13:33,Shot,Tip-In,-78.0,-5.0,Sean Kuraly,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:06:30Z,3,06:49,13:11,Shot,Wrist Shot,85.0,-18.0,Conor Garland,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:06:38Z,3,06:57,13:03,Blocked Shot,n/a,70.0,2.0,Connor Clifton,Blocker,Boston Bruins,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:06:47Z,3,07:03,12:57,Shot,Backhand,67.0,17.0,Carl Soderberg,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:06:53Z,3,07:10,12:50,Shot,Wrist Shot,84.0,1.0,Carl Soderberg,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:07:21Z,3,07:40,12:20,Shot,Slap Shot,-29.0,-26.0,Zdeno Chara,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:07:51Z,3,08:09,11:51,Hit,n/a,13.0,-39.0,Derek Stepan,Hitter,Arizona Coyotes,Brett Ritchie,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:07:58Z,3,08:14,11:46,Hit,n/a,-70.0,-37.0,Niklas Hjalmarsson,Hitter,Arizona Coyotes,Charlie McAvoy,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:08:18Z,3,08:36,11:24,Hit,n/a,-92.0,-35.0,Brett Ritchie,Hitter,Boston Bruins,Niklas Hjalmarsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:08:27Z,3,08:46,11:14,Shot,Wrist Shot,60.0,5.0,Phil Kessel,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:09:39Z,3,08:46,11:14,Shot,Wrist Shot,82.0,-3.0,Clayton Keller,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:10:47Z,3,08:47,11:13,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:10:55Z,3,08:55,11:05,Missed Shot,n/a,51.0,15.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:11:15Z,3,09:09,10:51,Shot,Wrist Shot,-55.0,36.0,Chris Wagner,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:11:33Z,3,09:10,10:50,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Patrice Bergeron,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:12:21Z,3,09:28,10:32,Faceoff,n/a,69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:12:59Z,3,09:52,10:08,Hit,n/a,71.0,39.0,Lawson Crouse,Hitter,Arizona Coyotes,Brandon Carlo,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:12:49Z,3,09:57,10:03,Missed Shot,n/a,-54.0,6.0,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:13:15Z,3,10:22,09:38,Blocked Shot,n/a,-76.0,-20.0,Jakob Chychrun,Blocker,Arizona Coyotes,Matt Grzelcyk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:13:23Z,3,10:30,09:30,Hit,n/a,-61.0,-39.0,Christian Fischer,Hitter,Arizona Coyotes,Matt Grzelcyk,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:13:35Z,3,10:36,09:24,Missed Shot,n/a,-80.0,-12.0,Jake DeBrusk,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:14:23Z,3,11:29,08:31,Shot,Wrist Shot,61.0,15.0,Clayton Keller,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:16:22Z,3,11:30,08:30,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:16:46Z,3,11:45,08:15,Giveaway,n/a,66.0,22.0,Charlie McAvoy,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:16:57Z,3,11:55,08:05,Shot,Wrist Shot,61.0,7.0,Phil Kessel,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:17:33Z,3,11:56,08:04,Faceoff,n/a,69.0,22.0,Patrice Bergeron,Winner,Boston Bruins,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:17:50Z,3,12:18,07:42,Giveaway,n/a,-97.0,5.0,Darcy Kuemper,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:17:59Z,3,12:26,07:34,Giveaway,n/a,-62.0,-34.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:18:11Z,3,12:39,07:21,Blocked Shot,n/a,-73.0,-8.0,Jordan Oesterle,Blocker,Arizona Coyotes,David Pastrnak,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:18:15Z,3,12:43,07:17,Takeaway,n/a,-23.0,6.0,Michael Grabner,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:18:28Z,3,12:56,07:04,Blocked Shot,n/a,70.0,-1.0,David Pastrnak,Blocker,Boston Bruins,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:18:55Z,3,13:23,06:37,Takeaway,n/a,30.0,4.0,Clayton Keller,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:19:46Z,3,14:14,05:46,Hit,n/a,-93.0,30.0,Charlie Coyle,Hitter,Boston Bruins,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:19:50Z,3,14:18,05:42,Shot,Wrist Shot,56.0,28.0,Carl Soderberg,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:22:04Z,3,14:19,05:41,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Chris Wagner,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:22:09Z,3,14:27,05:33,Giveaway,n/a,76.0,36.0,Jason Demers,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:22:17Z,3,14:36,05:24,Missed Shot,n/a,-64.0,16.0,Sean Kuraly,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:23:08Z,3,15:27,04:33,Shot,Wrist Shot,51.0,33.0,Brandon Carlo,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:23:41Z,3,15:36,04:24,Faceoff,n/a,20.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,David Krejci,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:23:50Z,3,15:41,04:19,Hit,n/a,56.0,-37.0,Matt Grzelcyk,Hitter,Boston Bruins,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:23:59Z,3,15:49,04:11,Hit,n/a,67.0,-37.0,Conor Garland,Hitter,Arizona Coyotes,Connor Clifton,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:24:05Z,3,15:54,04:06,Giveaway,n/a,55.0,19.0,Christian Fischer,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:25:13Z,3,17:05,02:55,Shot,Wrist Shot,63.0,31.0,Clayton Keller,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:25:22Z,3,17:14,02:46,Shot,Wrist Shot,56.0,-31.0,Jakob Chychrun,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:25:30Z,3,17:21,02:39,Shot,Wrist Shot,79.0,25.0,Phil Kessel,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:25:52Z,3,17:43,02:17,Hit,n/a,13.0,-38.0,Matt Grzelcyk,Hitter,Boston Bruins,Lawson Crouse,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:26:31Z,3,18:22,01:38,Hit,n/a,-97.0,10.0,Lawson Crouse,Hitter,Arizona Coyotes,Patrice Bergeron,Hittee,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:26:32Z,3,18:24,01:36,Shot,Backhand,-83.0,-5.0,Charlie Coyle,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:26:32Z,3,18:30,01:30,Shot,Slap Shot,-35.0,-18.0,Zdeno Chara,Shooter,Boston Bruins,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:26:42Z,3,18:38,01:22,Missed Shot,n/a,-80.0,4.0,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:26:52Z,3,18:41,01:19,Takeaway,n/a,-58.0,36.0,Brad Marchand,PlayerID,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:26:54Z,3,18:43,01:17,Missed Shot,n/a,-73.0,9.0,Brad Marchand,Shooter,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:27:17Z,3,19:08,00:52,Hit,n/a,40.0,-15.0,Chris Wagner,Hitter,Boston Bruins,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:27:41Z,3,19:31,00:29,Shot,Tip-In,77.0,-8.0,Phil Kessel,Shooter,Arizona Coyotes,Jaroslav Halak,Goalie,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:29:36Z,3,19:32,00:28,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Sean Kuraly,Loser,Boston Bruins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T03:29:36Z,3,19:38,00:22,Takeaway,n/a,32.0,-32.0,Clayton Keller,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

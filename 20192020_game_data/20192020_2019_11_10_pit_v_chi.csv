@@ -1,0 +1,270 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-10T00:08:11Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:09:30Z,1,00:11,19:49,Faceoff,n/a,20.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:09:57Z,1,00:21,19:39,Hit,n/a,97.0,-14.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:10:06Z,1,00:33,19:27,Hit,n/a,36.0,-40.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Jonathan Toews,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:10:22Z,1,00:39,19:21,Giveaway,n/a,-85.0,-34.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:10:19Z,1,00:43,19:17,Blocked Shot,n/a,-69.0,7.0,Zach Aston-Reese,Blocker,Pittsburgh Penguins,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:10:41Z,1,00:45,19:15,Faceoff,n/a,-69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:11:02Z,1,00:58,19:02,Takeaway,n/a,35.0,34.0,Erik Gustafsson,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:11:10Z,1,01:06,18:54,Hit,n/a,-86.0,35.0,Alex DeBrincat,Hitter,Chicago Blackhawks,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:11:22Z,1,01:18,18:42,Shot,Wrist Shot,81.0,0.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:12:02Z,1,01:19,18:41,Faceoff,n/a,69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:12:45Z,1,01:56,18:04,Giveaway,n/a,-93.0,23.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:12:29Z,1,01:59,18:01,Shot,Snap Shot,-57.0,2.0,Andrew Shaw,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:12:55Z,1,02:24,17:36,Hit,n/a,-96.0,17.0,Zack Smith,Hitter,Chicago Blackhawks,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:13:12Z,1,02:41,17:19,Shot,Wrist Shot,-48.0,-34.0,Zack Smith,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:13:20Z,1,02:49,17:11,Hit,n/a,-95.0,-26.0,Zack Smith,Hitter,Chicago Blackhawks,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:13:41Z,1,03:10,16:50,Hit,n/a,90.0,-32.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Jonathan Toews,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:13:56Z,1,03:15,16:45,Takeaway,n/a,-47.0,9.0,Teddy Blueger,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:13:51Z,1,03:20,16:40,Hit,n/a,58.0,40.0,Erik Gustafsson,Hitter,Chicago Blackhawks,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:14:17Z,1,03:28,16:32,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:14:38Z,1,03:43,16:17,Hit,n/a,-67.0,-40.0,Justin Schultz,Hitter,Pittsburgh Penguins,Brandon Saad,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:14:51Z,1,03:55,16:05,Shot,Wrist Shot,73.0,-25.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:15:06Z,1,04:06,15:54,Missed Shot,n/a,-84.0,-28.0,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:15:06Z,1,04:10,15:50,Shot,Snap Shot,-41.0,20.0,Brent Seabrook,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:15:26Z,1,04:11,15:49,Faceoff,n/a,-69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:15:42Z,1,04:22,15:38,Hit,n/a,91.0,30.0,Bryan Rust,Hitter,Pittsburgh Penguins,Calvin de Haan,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:15:53Z,1,04:33,15:27,Giveaway,n/a,91.0,-30.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:16:01Z,1,04:41,15:19,Blocked Shot,n/a,-73.0,-9.0,John Marino,Blocker,Pittsburgh Penguins,Calvin de Haan,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:16:33Z,1,05:13,14:47,Missed Shot,n/a,65.0,34.0,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:16:41Z,1,05:13,14:47,Hit,n/a,19.0,41.0,Nick Bjugstad,Hitter,Pittsburgh Penguins,Brent Seabrook,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:16:50Z,1,05:25,14:35,Takeaway,n/a,10.0,23.0,Dominik Kubalik,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:16:56Z,1,05:35,14:25,Blocked Shot,n/a,-42.0,-2.0,Dominik Simon,Blocker,Pittsburgh Penguins,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:17:05Z,1,05:44,14:16,Shot,Wrist Shot,79.0,5.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:17:18Z,1,05:52,14:08,Shot,Backhand,78.0,3.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:18:16Z,1,05:53,14:07,Faceoff,n/a,69.0,-22.0,Zack Smith,Winner,Chicago Blackhawks,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:18:53Z,1,06:11,13:49,Giveaway,n/a,-53.0,39.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:19:00Z,1,06:25,13:35,Shot,Slap Shot,-48.0,-19.0,Zack Smith,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:20:47Z,1,06:26,13:34,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:21:20Z,1,06:33,13:27,Blocked Shot,n/a,-75.0,-7.0,John Marino,Blocker,Pittsburgh Penguins,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:21:29Z,1,06:42,13:18,Hit,n/a,99.0,1.0,Jared McCann,Hitter,Pittsburgh Penguins,Duncan Keith,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:21:38Z,1,06:48,13:12,Shot,Backhand,-75.0,27.0,Erik Gustafsson,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:22:26Z,1,06:49,13:11,Faceoff,n/a,-69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:22:49Z,1,07:27,12:33,Missed Shot,n/a,77.0,-11.0,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:22:55Z,1,07:33,12:27,Blocked Shot,n/a,79.0,1.0,Calvin de Haan,Blocker,Chicago Blackhawks,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:23:42Z,1,08:20,11:40,Blocked Shot,n/a,-61.0,-10.0,Juuso Riikola,Blocker,Pittsburgh Penguins,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:24:00Z,1,08:38,11:22,Shot,Wrist Shot,-76.0,1.0,Alex Nylander,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:24:18Z,1,08:56,11:04,Shot,Snap Shot,46.0,-20.0,Dominik Simon,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:24:34Z,1,09:12,10:48,Blocked Shot,n/a,-71.0,-7.0,John Marino,Blocker,Pittsburgh Penguins,David Kampf,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:27:50Z,1,10:08,09:52,Faceoff,n/a,-20.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:27:59Z,1,10:18,09:42,Hit,n/a,98.0,-16.0,Jake Guentzel,Hitter,Pittsburgh Penguins,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:28:12Z,1,10:31,09:29,Missed Shot,n/a,-68.0,10.0,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:28:34Z,1,10:53,09:07,Hit,n/a,84.0,-36.0,Olli Maatta,Hitter,Chicago Blackhawks,Jake Guentzel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:29:19Z,1,11:24,08:36,Faceoff,n/a,-20.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:30:17Z,1,11:46,08:14,Faceoff,n/a,20.0,-22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:30:45Z,1,12:10,07:50,Hit,n/a,-30.0,38.0,Brian Dumoulin,Hitter,Pittsburgh Penguins,Andrew Shaw,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:31:22Z,1,12:33,07:27,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Andrew Shaw,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:31:41Z,1,12:36,07:24,Blocked Shot,n/a,46.0,0.0,Dominik Kubalik,Blocker,Chicago Blackhawks,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:31:37Z,1,12:39,07:21,Blocked Shot,n/a,53.0,1.0,Dominik Kubalik,Blocker,Chicago Blackhawks,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:31:41Z,1,12:40,07:20,Shot,Backhand,93.0,-10.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:32:18Z,1,12:41,07:19,Faceoff,n/a,69.0,-22.0,Zack Smith,Winner,Chicago Blackhawks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:32:45Z,1,12:52,07:08,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:33:22Z,1,13:23,06:37,Giveaway,n/a,-36.0,-29.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:33:41Z,1,13:41,06:19,Shot,Snap Shot,36.0,-25.0,John Marino,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:34:01Z,1,13:43,06:17,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:34:22Z,1,13:56,06:04,Giveaway,n/a,-32.0,36.0,Olli Maatta,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:34:35Z,1,14:09,05:51,Giveaway,n/a,91.0,27.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:36:53Z,1,14:20,05:40,Faceoff,n/a,-20.0,22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:37:14Z,1,14:34,05:26,Hit,n/a,-96.0,-22.0,Drake Caggiula,Hitter,Chicago Blackhawks,Juuso Riikola,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:37:34Z,1,14:42,05:18,Giveaway,n/a,86.0,6.0,Corey Crawford,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:37:25Z,1,14:45,05:15,Blocked Shot,n/a,77.0,-6.0,Calvin de Haan,Blocker,Chicago Blackhawks,Nick Bjugstad,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:37:35Z,1,14:52,05:08,Shot,Wrist Shot,-39.0,-24.0,Zack Smith,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:37:55Z,1,14:53,05:07,Faceoff,n/a,-69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:38:15Z,1,15:03,04:57,Takeaway,n/a,-67.0,-39.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:38:49Z,1,15:37,04:23,Blocked Shot,n/a,-56.0,12.0,Zach Aston-Reese,Blocker,Pittsburgh Penguins,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:38:54Z,1,15:42,04:18,Takeaway,n/a,-40.0,36.0,Patrick Kane,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:39:40Z,1,16:19,03:41,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Andrew Shaw,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:40:21Z,1,16:42,03:18,Blocked Shot,n/a,65.0,12.0,Olli Maatta,Blocker,Chicago Blackhawks,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:40:28Z,1,16:43,03:17,Hit,n/a,47.0,41.0,Andrew Shaw,Hitter,Chicago Blackhawks,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:40:36Z,1,16:57,03:03,Missed Shot,n/a,-41.0,-17.0,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:40:58Z,1,17:19,02:41,Takeaway,n/a,2.0,11.0,Brandon Saad,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:41:20Z,1,17:41,02:19,Blocked Shot,n/a,75.0,-14.0,Brandon Saad,Blocker,Chicago Blackhawks,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:41:22Z,1,17:43,02:17,Hit,n/a,72.0,-40.0,Brandon Saad,Hitter,Chicago Blackhawks,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:41:34Z,1,17:55,02:05,Shot,Wrist Shot,-73.0,-10.0,Brandon Saad,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:41:54Z,1,18:15,01:45,Hit,n/a,-43.0,-41.0,Ryan Carpenter,Hitter,Chicago Blackhawks,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:42:09Z,1,18:30,01:30,Blocked Shot,n/a,-69.0,-7.0,Nick Bjugstad,Blocker,Pittsburgh Penguins,Ryan Carpenter,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:43:16Z,1,18:38,01:22,Faceoff,n/a,69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:44:01Z,1,19:24,00:36,Penalty,Hooking,-27.0,-41.0,Patrick Kane,PenaltyOn,Chicago Blackhawks,Alex Galchenyuk,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:44:30Z,1,19:24,00:36,Faceoff,n/a,69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:44:39Z,1,19:28,00:32,Hit,n/a,87.0,29.0,Bryan Rust,Hitter,Pittsburgh Penguins,Brent Seabrook,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T00:44:47Z,1,19:36,00:24,Hit,n/a,-50.0,38.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:03:51Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:05:15Z,2,01:30,18:30,Hit,n/a,-99.0,2.0,Brent Seabrook,Hitter,Chicago Blackhawks,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:05:24Z,2,01:38,18:22,Shot,Snap Shot,62.0,-11.0,David Kampf,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:05:27Z,2,01:41,18:19,Takeaway,n/a,98.0,2.0,Patrick Kane,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:05:31Z,2,01:46,18:14,Blocked Shot,n/a,76.0,-5.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,David Kampf,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:05:59Z,2,02:14,17:46,Giveaway,n/a,40.0,6.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:06:04Z,2,02:15,17:45,Shot,Tip-In,71.0,12.0,Dylan Strome,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:06:28Z,2,02:16,17:44,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:06:48Z,2,02:30,17:30,Shot,Wrist Shot,-37.0,-20.0,Brian Dumoulin,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:06:52Z,2,02:34,17:26,Hit,n/a,-90.0,-32.0,Nick Bjugstad,Hitter,Pittsburgh Penguins,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:07:05Z,2,02:48,17:12,Hit,n/a,-93.0,-30.0,Olli Maatta,Hitter,Chicago Blackhawks,Dominik Kahun,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:07:14Z,2,02:57,17:03,Hit,n/a,-55.0,39.0,Nick Bjugstad,Hitter,Pittsburgh Penguins,Drake Caggiula,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:07:30Z,2,03:13,16:47,Blocked Shot,n/a,61.0,-13.0,Alex Galchenyuk,Blocker,Pittsburgh Penguins,Brent Seabrook,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:07:42Z,2,03:24,16:36,Shot,Snap Shot,-66.0,14.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:07:53Z,2,03:35,16:25,Hit,n/a,94.0,31.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Patrick Kane,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:08:02Z,2,03:38,16:22,Penalty,Tripping,89.0,-23.0,Jack Johnson,PenaltyOn,Pittsburgh Penguins,Dylan Strome,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:08:54Z,2,03:38,16:22,Faceoff,n/a,69.0,22.0,Dylan Strome,Winner,Chicago Blackhawks,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:08:50Z,2,03:47,16:13,Shot,Wrist Shot,77.0,12.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:09:40Z,2,04:04,15:56,Penalty,Boarding,94.0,30.0,Brandon Tanev,PenaltyOn,Pittsburgh Penguins,Alex DeBrincat,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:09:54Z,2,04:04,15:56,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:10:55Z,2,04:50,15:10,Missed Shot,n/a,77.0,-15.0,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:11:54Z,2,04:51,15:09,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:12:33Z,2,05:20,14:40,Shot,Wrist Shot,80.0,9.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:12:47Z,2,05:35,14:25,Shot,Snap Shot,51.0,7.0,Patrick Kane,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:13:25Z,2,06:12,13:48,Hit,n/a,87.0,-39.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Brent Seabrook,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:13:42Z,2,06:29,13:31,Hit,n/a,-71.0,-39.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Alex Nylander,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:15:53Z,2,06:32,13:28,Faceoff,n/a,20.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:16:35Z,2,06:59,13:01,Hit,n/a,-91.0,-31.0,Olli Maatta,Hitter,Chicago Blackhawks,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:16:40Z,2,07:09,12:51,Goal,Snap Shot,83.0,-8.0,Dominik Kubalik,Scorer,Chicago Blackhawks,Brandon Saad,Assist,Chicago Blackhawks,Slater Koekkoek,Assist,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins
+2019-11-10T01:17:27Z,2,07:09,12:51,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Zack Smith,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:17:48Z,2,07:28,12:32,Blocked Shot,n/a,-77.0,-7.0,Erik Gustafsson,Blocker,Chicago Blackhawks,Jake Guentzel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:17:59Z,2,07:33,12:27,Shot,Wrist Shot,-35.0,6.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:18:19Z,2,07:34,12:26,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:18:31Z,2,07:43,12:17,Hit,n/a,80.0,40.0,Alex DeBrincat,Hitter,Chicago Blackhawks,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:18:52Z,2,08:04,11:56,Shot,Backhand,-77.0,11.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:19:16Z,2,08:27,11:33,Shot,Wrist Shot,-75.0,5.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:19:30Z,2,08:41,11:19,Blocked Shot,n/a,-72.0,1.0,Calvin de Haan,Blocker,Chicago Blackhawks,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:19:38Z,2,08:47,11:13,Goal,Snap Shot,53.0,-15.0,Patrick Kane,Scorer,Chicago Blackhawks,Calvin de Haan,Assist,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a
+2019-11-10T01:20:23Z,2,08:47,11:13,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:20:39Z,2,09:07,10:53,Blocked Shot,n/a,75.0,-10.0,Teddy Blueger,Blocker,Pittsburgh Penguins,Alex Nylander,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:21:08Z,2,09:28,10:32,Takeaway,n/a,56.0,-3.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:21:04Z,2,09:33,10:27,Shot,Wrist Shot,-76.0,-9.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:21:15Z,2,09:35,10:25,Shot,Wrist Shot,-68.0,11.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:21:36Z,2,10:04,09:56,Hit,n/a,96.0,-27.0,Dominik Kubalik,Hitter,Chicago Blackhawks,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:22:02Z,2,10:30,09:30,Hit,n/a,11.0,41.0,Andrew Shaw,Hitter,Chicago Blackhawks,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:22:17Z,2,10:45,09:15,Shot,Wrist Shot,43.0,-17.0,Dominik Kubalik,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:22:21Z,2,10:50,09:10,Takeaway,n/a,98.0,-13.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:23:01Z,2,11:08,08:52,Faceoff,n/a,-69.0,22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Zack Smith,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:23:25Z,2,11:24,08:36,Hit,n/a,32.0,41.0,Andrew Shaw,Hitter,Chicago Blackhawks,Nick Bjugstad,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:23:55Z,2,11:49,08:11,Shot,Backhand,-78.0,2.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:24:21Z,2,11:51,08:09,Penalty,Slashing,-68.0,14.0,Ryan Carpenter,PenaltyOn,Chicago Blackhawks,Nick Bjugstad,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:27:42Z,2,11:51,08:09,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:28:10Z,2,12:09,07:51,Giveaway,n/a,-91.0,26.0,Jake Guentzel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:28:26Z,2,12:32,07:28,Giveaway,n/a,-32.0,39.0,Jake Guentzel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:28:46Z,2,12:52,07:08,Hit,n/a,9.0,-40.0,David Kampf,Hitter,Chicago Blackhawks,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:28:54Z,2,12:59,07:01,Giveaway,n/a,-91.0,-27.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:29:22Z,2,13:27,06:33,Blocked Shot,n/a,-76.0,7.0,Olli Maatta,Blocker,Chicago Blackhawks,Alex Galchenyuk,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:29:30Z,2,13:35,06:25,Shot,Slap Shot,-38.0,-18.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:29:43Z,2,13:46,06:14,Shot,Wrist Shot,-55.0,13.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:30:10Z,2,13:47,06:13,Faceoff,n/a,-69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:30:31Z,2,14:09,05:51,Hit,n/a,-73.0,-42.0,Calvin de Haan,Hitter,Chicago Blackhawks,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:33:27Z,2,14:40,05:20,Faceoff,n/a,-20.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:33:38Z,2,14:56,05:04,Shot,Wrist Shot,79.0,-9.0,Erik Gustafsson,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:34:26Z,2,15:45,04:15,Blocked Shot,n/a,55.0,-11.0,Alex Galchenyuk,Blocker,Pittsburgh Penguins,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:34:35Z,2,15:54,04:06,Shot,Wrist Shot,46.0,0.0,Alex Nylander,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:34:52Z,2,16:04,03:56,Goal,Snap Shot,-75.0,9.0,Jake Guentzel,Scorer,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Jared McCann,Assist,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks
+2019-11-10T01:35:34Z,2,16:04,03:56,Faceoff,n/a,0.0,0.0,Nick Bjugstad,Winner,Pittsburgh Penguins,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:35:53Z,2,16:25,03:35,Missed Shot,n/a,-36.0,12.0,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:36:08Z,2,16:37,03:23,Shot,Wrist Shot,-87.0,-21.0,Dominik Simon,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:36:10Z,2,16:42,03:18,Hit,n/a,90.0,-31.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Andrew Shaw,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:36:17Z,2,16:49,03:11,Hit,n/a,93.0,-31.0,Jack Johnson,Hitter,Pittsburgh Penguins,Andrew Shaw,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:36:31Z,2,17:03,02:57,Blocked Shot,n/a,-65.0,10.0,Calvin de Haan,Blocker,Chicago Blackhawks,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:37:17Z,2,17:27,02:33,Faceoff,n/a,-69.0,-22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:37:26Z,2,17:34,02:26,Hit,n/a,-96.0,2.0,Jake Guentzel,Hitter,Pittsburgh Penguins,Calvin de Haan,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:37:34Z,2,17:39,02:21,Takeaway,n/a,-62.0,38.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:37:39Z,2,17:40,02:20,Shot,Wrist Shot,-2.0,-21.0,Andrew Shaw,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:37:58Z,2,17:44,02:16,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:38:39Z,2,18:14,01:46,Hit,n/a,81.0,39.0,Alex DeBrincat,Hitter,Chicago Blackhawks,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:39:12Z,2,18:19,01:41,Faceoff,n/a,20.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:39:59Z,2,18:36,01:24,Faceoff,n/a,-20.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:40:17Z,2,18:54,01:06,Shot,Backhand,78.0,2.0,Ryan Carpenter,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:40:21Z,2,18:58,01:02,Giveaway,n/a,47.0,-15.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:40:56Z,2,19:32,00:28,Shot,Snap Shot,53.0,4.0,David Kampf,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:41:11Z,2,19:46,00:14,Blocked Shot,n/a,72.0,1.0,Sidney Crosby,Blocker,Pittsburgh Penguins,Zack Smith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T01:41:36Z,2,19:51,00:09,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:00:17Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:00:53Z,3,00:31,19:29,Shot,Snap Shot,48.0,10.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:01:15Z,3,00:52,19:08,Shot,Wrist Shot,78.0,7.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:01:18Z,3,00:55,19:05,Hit,n/a,97.0,19.0,Olli Maatta,Hitter,Chicago Blackhawks,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:01:29Z,3,01:06,18:54,Takeaway,n/a,85.0,-32.0,Dominik Kahun,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:02:00Z,3,01:08,18:52,Faceoff,n/a,69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:02:20Z,3,01:29,18:31,Hit,n/a,-96.0,20.0,Dominik Kubalik,Hitter,Chicago Blackhawks,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:02:32Z,3,01:43,18:17,Blocked Shot,n/a,-72.0,12.0,Sidney Crosby,Blocker,Pittsburgh Penguins,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:02:52Z,3,02:03,17:57,Giveaway,n/a,-11.0,-6.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:03:21Z,3,02:32,17:28,Giveaway,n/a,-95.0,9.0,Brent Seabrook,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:03:23Z,3,02:34,17:26,Missed Shot,n/a,-34.0,-23.0,Calvin de Haan,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:03:32Z,3,02:43,17:17,Hit,n/a,-71.0,-36.0,Zack Smith,Hitter,Chicago Blackhawks,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:04:03Z,3,03:14,16:46,Takeaway,n/a,-27.0,-23.0,Ryan Carpenter,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:04:12Z,3,03:23,16:37,Hit,n/a,-95.0,23.0,Zack Smith,Hitter,Chicago Blackhawks,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:05:17Z,3,04:28,15:32,Takeaway,n/a,-19.0,-27.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:05:21Z,3,04:32,15:28,Shot,Wrist Shot,-59.0,-13.0,Jonathan Toews,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:05:38Z,3,04:49,15:11,Hit,n/a,95.0,-29.0,Calvin de Haan,Hitter,Chicago Blackhawks,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:06:38Z,3,05:43,14:17,Penalty,Tripping,26.0,-41.0,Dylan Strome,PenaltyOn,Chicago Blackhawks,Nick Bjugstad,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:07:24Z,3,05:43,14:17,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:08:27Z,3,06:48,13:12,Hit,n/a,99.0,-5.0,Bryan Rust,Hitter,Pittsburgh Penguins,Brent Seabrook,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:09:05Z,3,07:27,12:33,Missed Shot,n/a,-35.0,-6.0,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:09:50Z,3,08:10,11:50,Shot,Slap Shot,-36.0,-19.0,Olli Maatta,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:12:12Z,3,08:12,11:48,Faceoff,n/a,-69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:12:24Z,3,08:21,11:39,Missed Shot,n/a,-33.0,1.0,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:12:45Z,3,08:42,11:18,Hit,n/a,-98.0,-11.0,Alex DeBrincat,Hitter,Chicago Blackhawks,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:13:21Z,3,09:14,10:46,Shot,Wrist Shot,80.0,31.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:13:42Z,3,09:15,10:45,Faceoff,n/a,69.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:14:49Z,3,10:19,09:41,Takeaway,n/a,55.0,33.0,Nick Bjugstad,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:14:53Z,3,10:23,09:37,Takeaway,n/a,64.0,39.0,Olli Maatta,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:15:24Z,3,10:54,09:06,Shot,Wrist Shot,88.0,-6.0,Bryan Rust,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:15:38Z,3,10:57,09:03,Goal,Wrist Shot,80.0,12.0,Bryan Rust,Scorer,Pittsburgh Penguins,John Marino,Assist,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks
+2019-11-10T02:16:11Z,3,10:57,09:03,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:16:29Z,3,11:11,08:49,Hit,n/a,96.0,-28.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Duncan Keith,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:16:52Z,3,11:35,08:25,Hit,n/a,73.0,41.0,Erik Gustafsson,Hitter,Chicago Blackhawks,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:17:01Z,3,11:42,08:18,Hit,n/a,46.0,-41.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Alex DeBrincat,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:17:40Z,3,12:22,07:38,Hit,n/a,-98.0,-9.0,Zack Smith,Hitter,Chicago Blackhawks,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:17:50Z,3,12:33,07:27,Missed Shot,n/a,78.0,-9.0,Jake Guentzel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:18:03Z,3,12:43,07:17,Hit,n/a,81.0,-38.0,Calvin de Haan,Hitter,Chicago Blackhawks,Jake Guentzel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:18:19Z,3,13:02,06:58,Hit,n/a,-89.0,-33.0,David Kampf,Hitter,Chicago Blackhawks,Juuso Riikola,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:18:42Z,3,13:21,06:39,Shot,Backhand,-78.0,-9.0,Andrew Shaw,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:18:47Z,3,13:30,06:30,Giveaway,n/a,-60.0,35.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:19:02Z,3,13:32,06:28,Shot,Wrist Shot,-53.0,-2.0,Andrew Shaw,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:20:10Z,3,13:33,06:27,Shot,Wrist Shot,-80.0,4.0,David Kampf,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:21:02Z,3,13:34,06:26,Faceoff,n/a,-69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:21:27Z,3,13:53,06:07,Hit,n/a,-15.0,40.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:21:45Z,3,14:10,05:50,Hit,n/a,44.0,-40.0,Brandon Saad,Hitter,Chicago Blackhawks,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:22:13Z,3,14:39,05:21,Hit,n/a,-17.0,39.0,Zack Smith,Hitter,Chicago Blackhawks,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:22:19Z,3,14:44,05:16,Blocked Shot,n/a,65.0,-6.0,Calvin de Haan,Blocker,Chicago Blackhawks,Jake Guentzel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:22:31Z,3,14:52,05:08,Blocked Shot,n/a,72.0,-10.0,Brent Seabrook,Blocker,Chicago Blackhawks,Alex Galchenyuk,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:23:13Z,3,14:56,05:04,Shot,Wrist Shot,-40.0,24.0,Brent Seabrook,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:24:35Z,3,14:58,05:02,Faceoff,n/a,-69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:25:01Z,3,15:12,04:48,Hit,n/a,66.0,40.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:25:17Z,3,15:28,04:32,Hit,n/a,-61.0,-41.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Alex DeBrincat,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:25:36Z,3,15:47,04:13,Giveaway,n/a,-18.0,-14.0,Patrick Kane,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:25:44Z,3,15:55,04:05,Shot,Slap Shot,47.0,-6.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:26:06Z,3,16:15,03:45,Shot,Wrist Shot,-37.0,-24.0,Slater Koekkoek,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:26:31Z,3,16:16,03:44,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:26:45Z,3,16:25,03:35,Hit,n/a,-87.0,34.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Jonathan Toews,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:27:22Z,3,17:02,02:58,Hit,n/a,-96.0,22.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Drake Caggiula,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:27:31Z,3,17:09,02:51,Shot,Wrist Shot,-35.0,-27.0,Calvin de Haan,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:28:06Z,3,17:11,02:49,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:28:31Z,3,17:31,02:29,Takeaway,n/a,41.0,39.0,Brian Dumoulin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:28:46Z,3,17:34,02:26,Hit,n/a,67.0,29.0,Jonathan Toews,Hitter,Chicago Blackhawks,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:28:39Z,3,17:39,02:21,Takeaway,n/a,61.0,40.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:29:02Z,3,18:03,01:57,Shot,Wrap-around,87.0,7.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:29:13Z,3,18:13,01:47,Missed Shot,n/a,-81.0,-13.0,Brandon Saad,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:29:33Z,3,18:34,01:26,Missed Shot,n/a,-62.0,-8.0,David Kampf,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:30:12Z,3,19:11,00:49,Hit,n/a,99.0,-2.0,Olli Maatta,Hitter,Chicago Blackhawks,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:30:30Z,3,19:25,00:35,Missed Shot,n/a,64.0,4.0,Teddy Blueger,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:30:39Z,3,19:37,00:23,Hit,n/a,93.0,-28.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:31:35Z,3,19:39,00:21,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:34:09Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:34:31Z,4,00:13,04:47,Shot,Slap Shot,-45.0,10.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:34:47Z,4,00:28,04:32,Shot,Snap Shot,69.0,23.0,Patrick Kane,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:35:03Z,4,00:29,04:31,Faceoff,n/a,69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:35:55Z,4,01:03,03:57,Shot,Backhand,-87.0,-6.0,Brian Dumoulin,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:36:37Z,4,01:04,03:56,Faceoff,n/a,-69.0,-22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Dominik Kahun,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:37:37Z,4,01:38,03:22,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:38:12Z,4,02:04,02:56,Shot,Wrist Shot,57.0,3.0,Jonathan Toews,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:39:04Z,4,02:57,02:03,Takeaway,n/a,46.0,24.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:39:42Z,4,03:35,01:25,Shot,Wrist Shot,-46.0,4.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:40:05Z,4,03:58,01:02,Shot,Wrist Shot,-62.0,24.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:40:11Z,4,04:03,00:57,Takeaway,n/a,-50.0,13.0,Dylan Strome,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:40:26Z,4,04:14,00:46,Shot,Tip-In,-80.0,-6.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:40:51Z,4,04:15,00:45,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Jake Guentzel,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:41:17Z,4,04:37,00:23,Missed Shot,n/a,50.0,-10.0,Brandon Saad,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:41:31Z,4,04:51,00:09,Missed Shot,n/a,44.0,-5.0,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:41:32Z,4,04:52,00:08,Giveaway,n/a,60.0,38.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:43:34Z,5,00:00,00:00,Goal,Backhand,78.0,1.0,Jake Guentzel,Scorer,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:43:59Z,5,00:00,00:00,Shot,Wrist Shot,-83.0,-3.0,Jonathan Toews,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:44:28Z,5,00:00,00:00,Shot,Wrist Shot,76.0,1.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:44:51Z,5,00:00,00:00,Goal,Wrist Shot,-79.0,0.0,Patrick Kane,Scorer,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:45:17Z,5,00:00,00:00,Goal,Wrist Shot,76.0,-7.0,Jared McCann,Scorer,Pittsburgh Penguins,Corey Crawford,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-10T02:45:41Z,5,00:00,00:00,Shot,Wrist Shot,-75.0,-1.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a

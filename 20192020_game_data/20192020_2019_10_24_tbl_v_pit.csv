@@ -1,0 +1,276 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-24T00:15:55Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:17:49Z,1,00:18,19:42,Giveaway,n/a,-42.0,-21.0,Nikita Kucherov,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:18:03Z,1,00:32,19:28,Missed Shot,n/a,-57.0,9.0,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:18:12Z,1,00:41,19:19,Shot,Wrist Shot,-35.0,-12.0,John Marino,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:18:42Z,1,01:11,18:49,Missed Shot,n/a,71.0,-6.0,Mathieu Joseph,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:18:59Z,1,01:25,18:35,Shot,Slap Shot,9.0,3.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:19:47Z,1,02:13,17:47,Hit,n/a,-14.0,-32.0,Luke Witkowski,Hitter,Tampa Bay Lightning,Sam Lafferty,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:20:04Z,1,02:15,17:45,Faceoff,n/a,69.0,22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:20:38Z,1,02:22,17:38,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Joseph Blandisi,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:20:54Z,1,02:28,17:32,Missed Shot,n/a,37.0,-25.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:21:08Z,1,02:45,17:15,Giveaway,n/a,37.0,-23.0,Jake Guentzel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:21:12Z,1,02:49,17:11,Takeaway,n/a,82.0,-15.0,Jack Johnson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:21:33Z,1,03:10,16:50,Takeaway,n/a,-85.0,30.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:21:52Z,1,03:13,16:47,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Tyler Johnson,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:22:40Z,1,03:52,16:08,Hit,n/a,63.0,-35.0,Kris Letang,Hitter,Pittsburgh Penguins,Alex Killorn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:22:47Z,1,03:58,16:02,Giveaway,n/a,45.0,0.0,Marcus Pettersson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:22:48Z,1,03:59,16:01,Shot,Snap Shot,57.0,-24.0,Alex Killorn,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:23:06Z,1,04:00,16:00,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:23:31Z,1,04:13,15:47,Hit,n/a,-92.0,21.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:23:34Z,1,04:16,15:44,Blocked Shot,n/a,-73.0,-3.0,Mikhail Sergachev,Blocker,Tampa Bay Lightning,Teddy Blueger,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:24:31Z,1,04:56,15:04,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Joseph Blandisi,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:24:51Z,1,04:57,15:03,Missed Shot,n/a,77.0,-17.0,Steven Stamkos,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:25:11Z,1,05:24,14:36,Shot,Wrist Shot,-81.0,-8.0,Sam Lafferty,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:25:16Z,1,05:29,14:31,Hit,n/a,-87.0,-17.0,Tyler Johnson,Hitter,Tampa Bay Lightning,Sam Lafferty,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:25:45Z,1,05:56,14:04,Shot,Wrist Shot,-36.0,-26.0,Dominik Simon,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:25:56Z,1,06:08,13:52,Blocked Shot,n/a,-52.0,-19.0,Anthony Cirelli,Blocker,Tampa Bay Lightning,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:26:06Z,1,06:09,13:51,Shot,Wrist Shot,-62.0,-26.0,Dominik Simon,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:28:11Z,1,06:10,13:50,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:28:29Z,1,06:23,13:37,Shot,Snap Shot,56.0,19.0,Ondrej Palat,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:28:41Z,1,06:36,13:24,Blocked Shot,n/a,49.0,19.0,Sidney Crosby,Blocker,Pittsburgh Penguins,Ryan McDonagh,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:28:46Z,1,06:41,13:19,Hit,n/a,85.0,29.0,Ondrej Palat,Hitter,Tampa Bay Lightning,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:28:59Z,1,06:50,13:10,Blocked Shot,n/a,-56.0,-5.0,Ondrej Palat,Blocker,Tampa Bay Lightning,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:29:07Z,1,07:01,12:59,Hit,n/a,-29.0,-34.0,Erik Cernak,Hitter,Tampa Bay Lightning,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:29:10Z,1,07:03,12:57,Shot,Wrist Shot,-72.0,-10.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:29:25Z,1,07:20,12:40,Hit,n/a,89.0,-22.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:29:45Z,1,07:33,12:27,Blocked Shot,n/a,60.0,31.0,Kris Letang,Blocker,Pittsburgh Penguins,Braydon Coburn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:29:54Z,1,07:49,12:11,Hit,n/a,-6.0,-1.0,Luke Witkowski,Hitter,Tampa Bay Lightning,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:30:01Z,1,07:56,12:04,Hit,n/a,91.0,-16.0,Luke Witkowski,Hitter,Tampa Bay Lightning,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:30:37Z,1,08:12,11:48,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:31:11Z,1,08:34,11:26,Missed Shot,n/a,36.0,23.0,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:31:21Z,1,08:48,11:12,Hit,n/a,89.0,-20.0,Erik Gudbranson,Hitter,Pittsburgh Penguins,Mathieu Joseph,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:31:51Z,1,08:54,11:06,Faceoff,n/a,20.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:32:37Z,1,09:41,10:19,Shot,Wrist Shot,47.0,8.0,Alex Killorn,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:32:49Z,1,09:46,10:14,Goal,Tip-In,72.0,-1.0,Alex Killorn,Scorer,Tampa Bay Lightning,Nikita Kucherov,Assist,Tampa Bay Lightning,Mikhail Sergachev,Assist,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins
+2019-10-24T00:33:33Z,1,09:46,10:14,Faceoff,n/a,0.0,0.0,Brayden Point,Winner,Tampa Bay Lightning,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:33:45Z,1,09:53,10:07,Hit,n/a,2.0,35.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Braydon Coburn,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:34:00Z,1,10:08,09:52,Blocked Shot,n/a,65.0,9.0,John Marino,Blocker,Pittsburgh Penguins,Braydon Coburn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:34:35Z,1,10:25,09:35,Hit,n/a,74.0,23.0,Yanni Gourde,Hitter,Tampa Bay Lightning,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:34:27Z,1,10:34,09:26,Hit,n/a,85.0,-28.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:34:52Z,1,11:00,09:00,Hit,n/a,83.0,17.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:34:58Z,1,11:06,08:54,Giveaway,n/a,48.0,0.0,Juuso Riikola,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:35:08Z,1,11:12,08:48,Hit,n/a,-6.0,-33.0,Luke Witkowski,Hitter,Tampa Bay Lightning,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:35:53Z,1,12:00,08:00,Hit,n/a,-5.0,-30.0,Jake Guentzel,Hitter,Pittsburgh Penguins,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:35:57Z,1,12:02,07:58,Shot,Snap Shot,45.0,-3.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:36:06Z,1,12:14,07:46,Hit,n/a,-22.0,-34.0,Erik Cernak,Hitter,Tampa Bay Lightning,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:36:14Z,1,12:19,07:41,Shot,Wrist Shot,10.0,2.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:38:23Z,1,12:21,07:39,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:38:56Z,1,12:31,07:29,Shot,Backhand,-67.0,15.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:39:07Z,1,12:43,07:17,Shot,Wrist Shot,37.0,-14.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:39:16Z,1,12:51,07:09,Shot,Wrist Shot,74.0,5.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:39:30Z,1,13:02,06:58,Shot,Wrist Shot,-73.0,-7.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:39:36Z,1,13:07,06:53,Giveaway,n/a,62.0,-3.0,Tristan Jarry,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:39:39Z,1,13:14,06:46,Blocked Shot,n/a,63.0,3.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Brayden Point,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:39:55Z,1,13:28,06:32,Shot,Slap Shot,-40.0,26.0,Justin Schultz,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:40:00Z,1,13:35,06:25,Hit,n/a,-14.0,-38.0,Ondrej Palat,Hitter,Tampa Bay Lightning,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:40:24Z,1,13:59,06:01,Hit,n/a,40.0,-35.0,Jack Johnson,Hitter,Pittsburgh Penguins,Pat Maroon,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:40:55Z,1,14:02,05:58,Hit,n/a,45.0,34.0,Luke Witkowski,Hitter,Tampa Bay Lightning,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:41:14Z,1,14:05,05:55,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:41:26Z,1,14:09,05:51,Shot,Wrist Shot,41.0,27.0,Braydon Coburn,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:41:20Z,1,14:10,05:50,Shot,Wrist Shot,41.0,-25.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:43:19Z,1,14:11,05:49,Faceoff,n/a,69.0,22.0,Cedric Paquette,Winner,Tampa Bay Lightning,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:43:49Z,1,14:23,05:37,Hit,n/a,-86.0,32.0,Joseph Blandisi,Hitter,Pittsburgh Penguins,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:43:57Z,1,14:27,05:33,Blocked Shot,n/a,-58.0,20.0,Cedric Paquette,Blocker,Tampa Bay Lightning,Erik Gudbranson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:44:01Z,1,14:35,05:25,Hit,n/a,-85.0,-18.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Mikhail Sergachev,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:44:08Z,1,14:41,05:19,Hit,n/a,96.0,-6.0,Pat Maroon,Hitter,Tampa Bay Lightning,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:44:15Z,1,14:47,05:13,Shot,Wrist Shot,38.0,17.0,Braydon Coburn,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:44:50Z,1,14:48,05:12,Penalty,Roughing,65.0,-8.0,Erik Gudbranson,PenaltyOn,Pittsburgh Penguins,Pat Maroon,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:45:24Z,1,14:48,05:12,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:45:50Z,1,15:03,04:57,Hit,n/a,-94.0,18.0,Victor Hedman,Hitter,Tampa Bay Lightning,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:46:20Z,1,15:38,04:22,Shot,Slap Shot,55.0,27.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:46:32Z,1,15:48,04:12,Shot,Wrist Shot,-76.0,10.0,Sam Lafferty,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:46:34Z,1,15:52,04:08,Hit,n/a,-91.0,17.0,Victor Hedman,Hitter,Tampa Bay Lightning,Sam Lafferty,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:47:05Z,1,16:21,03:39,Shot,Slap Shot,36.0,-8.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:47:36Z,1,16:49,03:11,Missed Shot,n/a,36.0,1.0,Ryan McDonagh,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:47:48Z,1,17:06,02:54,Hit,n/a,92.0,21.0,Jack Johnson,Hitter,Pittsburgh Penguins,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:47:59Z,1,17:14,02:46,Takeaway,n/a,-33.0,3.0,Ryan McDonagh,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:48:29Z,1,17:17,02:43,Faceoff,n/a,-69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:48:56Z,1,17:48,02:12,Shot,Wrist Shot,-36.0,-23.0,Jared McCann,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:49:14Z,1,17:58,02:02,Shot,Wrist Shot,-74.0,-10.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:49:42Z,1,18:19,01:41,Hit,n/a,33.0,-31.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:49:34Z,1,18:20,01:40,Hit,n/a,44.0,-34.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Cedric Paquette,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:49:34Z,1,18:21,01:39,Hit,n/a,41.0,-27.0,Jared McCann,Hitter,Pittsburgh Penguins,Cedric Paquette,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:49:34Z,1,18:23,01:37,Penalty,Roughing,34.0,-35.0,Anthony Cirelli,PenaltyOn,Tampa Bay Lightning,Patric Hornqvist,DrewBy,Tampa Bay Lightning,Luke Witkowski,ServedBy,Pittsburgh Penguins,n/a,n/a,n/a
+2019-10-24T00:49:34Z,1,18:23,01:37,Penalty,Roughing,33.0,-23.0,Patric Hornqvist,PenaltyOn,Pittsburgh Penguins,Anthony Cirelli,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:51:06Z,1,18:23,01:37,Penalty,Roughing,37.0,-29.0,Anthony Cirelli,PenaltyOn,Tampa Bay Lightning,Patric Hornqvist,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:51:35Z,1,18:23,01:37,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:51:35Z,1,18:24,01:36,Shot,Wrist Shot,-38.0,26.0,Kris Letang,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:51:56Z,1,18:26,01:34,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:52:05Z,1,18:38,01:22,Shot,Slap Shot,-42.0,19.0,Kris Letang,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:52:15Z,1,18:40,01:20,Blocked Shot,n/a,-66.0,-12.0,Erik Cernak,Blocker,Tampa Bay Lightning,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:52:40Z,1,19:14,00:46,Missed Shot,n/a,-71.0,5.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T00:53:12Z,1,19:47,00:13,Missed Shot,n/a,-61.0,-2.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:12:23Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:12:36Z,2,00:10,19:50,Shot,Wrist Shot,61.0,7.0,Ryan McDonagh,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:13:17Z,2,00:52,19:08,Shot,Wrist Shot,-55.0,29.0,Alex Killorn,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:13:35Z,2,01:12,18:48,Shot,Slap Shot,-37.0,7.0,Victor Hedman,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:13:56Z,2,01:15,18:45,Shot,Wrist Shot,-76.0,6.0,Yanni Gourde,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:13:43Z,2,01:16,18:44,Shot,Wrist Shot,-67.0,7.0,Yanni Gourde,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:27:15Z,2,01:17,18:43,Shot,Wrist Shot,-46.0,15.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:14:21Z,2,01:18,18:42,Faceoff,n/a,-69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:14:54Z,2,01:23,18:37,Faceoff,n/a,-69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:15:30Z,2,01:57,18:03,Shot,Wrist Shot,-72.0,13.0,Tyler Johnson,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:16:06Z,2,02:14,17:46,Faceoff,n/a,0.0,0.0,Cedric Paquette,Winner,Tampa Bay Lightning,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:16:34Z,2,02:20,17:40,Faceoff,n/a,-69.0,22.0,Pat Maroon,Winner,Tampa Bay Lightning,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:17:27Z,2,02:44,17:16,Shot,Backhand,84.0,-12.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:17:54Z,2,03:11,16:49,Hit,n/a,-16.0,-33.0,Joseph Blandisi,Hitter,Pittsburgh Penguins,Pat Maroon,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:18:36Z,2,03:38,16:22,Hit,n/a,-31.0,35.0,Joseph Blandisi,Hitter,Pittsburgh Penguins,Nikita Kucherov,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:19:01Z,2,03:40,16:20,Hit,n/a,-93.0,24.0,Ondrej Palat,Hitter,Tampa Bay Lightning,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:18:50Z,2,03:48,16:12,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:19:03Z,2,03:50,16:10,Shot,Slap Shot,38.0,21.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:19:13Z,2,04:01,15:59,Shot,Slap Shot,40.0,-26.0,Justin Schultz,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:19:19Z,2,04:07,15:53,Shot,Backhand,85.0,-13.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:19:27Z,2,04:15,15:45,Shot,Wrist Shot,64.0,13.0,Dominik Simon,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:20:01Z,2,04:49,15:11,Takeaway,n/a,-92.0,22.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:21:09Z,2,05:00,15:00,Takeaway,n/a,39.0,9.0,Mathieu Joseph,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:20:15Z,2,05:01,14:59,Missed Shot,n/a,79.0,10.0,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:20:26Z,2,05:06,14:54,Goal,Backhand,71.0,-5.0,Brandon Tanev,Scorer,Pittsburgh Penguins,Teddy Blueger,Assist,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a
+2019-10-24T01:21:07Z,2,05:06,14:54,Faceoff,n/a,0.0,0.0,Jared McCann,Winner,Pittsburgh Penguins,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:21:26Z,2,05:09,14:51,Faceoff,n/a,0.0,0.0,Jared McCann,Winner,Pittsburgh Penguins,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:21:55Z,2,05:19,14:41,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Yanni Gourde,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:22:40Z,2,05:39,14:21,Faceoff,n/a,-69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:22:56Z,2,05:44,14:16,Shot,Wrist Shot,-67.0,32.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:23:17Z,2,05:46,14:14,Faceoff,n/a,-69.0,22.0,Joseph Blandisi,Winner,Pittsburgh Penguins,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:23:50Z,2,06:03,13:57,Hit,n/a,93.0,-12.0,Kevin Shattenkirk,Hitter,Tampa Bay Lightning,Joseph Blandisi,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:24:19Z,2,06:37,13:23,Missed Shot,n/a,35.0,11.0,Jake Guentzel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:24:34Z,2,06:40,13:20,Shot,Wrist Shot,42.0,-13.0,Pat Maroon,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:24:39Z,2,06:57,13:03,Takeaway,n/a,77.0,1.0,Ryan McDonagh,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:24:57Z,2,07:15,12:45,Giveaway,n/a,-12.0,11.0,Erik Cernak,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:24:58Z,2,07:16,12:44,Shot,Wrist Shot,72.0,15.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:26:29Z,2,08:46,11:14,Shot,Wrist Shot,38.0,1.0,Justin Schultz,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:28:52Z,2,08:47,11:13,Faceoff,n/a,69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Yanni Gourde,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:29:02Z,2,08:51,11:09,Missed Shot,n/a,38.0,-26.0,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:29:15Z,2,08:52,11:08,Faceoff,n/a,69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:29:54Z,2,09:28,10:32,Takeaway,n/a,-40.0,22.0,Joseph Blandisi,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:30:29Z,2,10:03,09:57,Takeaway,n/a,46.0,14.0,Cedric Paquette,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:30:41Z,2,10:14,09:46,Shot,Wrist Shot,-42.0,-25.0,Braydon Coburn,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:32:54Z,2,10:15,09:45,Faceoff,n/a,-69.0,-22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:33:37Z,2,10:55,09:05,Shot,Backhand,-78.0,-16.0,Tyler Johnson,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:34:41Z,2,11:24,08:36,Penalty,Too many men on the ice,12.0,35.0,Dominik Kahun,PenaltyOn,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:35:08Z,2,11:24,08:36,Faceoff,n/a,-69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:35:32Z,2,11:49,08:11,Hit,n/a,-89.0,21.0,Kris Letang,Hitter,Pittsburgh Penguins,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:35:54Z,2,12:11,07:49,Blocked Shot,n/a,75.0,-10.0,Victor Hedman,Blocker,Tampa Bay Lightning,Zach Aston-Reese,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:36:27Z,2,12:43,07:17,Missed Shot,n/a,-63.0,-17.0,Steven Stamkos,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:36:36Z,2,12:49,07:11,Shot,Slap Shot,-56.0,22.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:37:03Z,2,12:50,07:10,Faceoff,n/a,-69.0,22.0,Yanni Gourde,Winner,Tampa Bay Lightning,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:37:13Z,2,12:59,07:01,Shot,Slap Shot,-35.0,26.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:37:31Z,2,13:10,06:50,Shot,Wrist Shot,-40.0,17.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:37:53Z,2,13:12,06:48,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:38:16Z,2,13:25,06:35,Blocked Shot,n/a,-73.0,-6.0,Kris Letang,Blocker,Pittsburgh Penguins,Anthony Cirelli,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:38:16Z,2,13:35,06:25,Takeaway,n/a,-50.0,36.0,Anthony Cirelli,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:39:26Z,2,13:35,06:25,Faceoff,n/a,-20.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:38:51Z,2,13:41,06:19,Shot,Slap Shot,-24.0,-25.0,Ryan McDonagh,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:40:45Z,2,13:46,06:14,Hit,n/a,-84.0,31.0,Yanni Gourde,Hitter,Tampa Bay Lightning,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:39:15Z,2,13:48,06:12,Blocked Shot,n/a,-44.0,-22.0,Yanni Gourde,Blocker,Tampa Bay Lightning,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:39:10Z,2,13:56,06:04,Shot,Slap Shot,-36.0,27.0,Erik Cernak,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:39:42Z,2,13:58,06:02,Faceoff,n/a,-69.0,22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:39:59Z,2,14:03,05:57,Shot,Wrist Shot,-57.0,-4.0,Mathieu Joseph,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:40:15Z,2,14:05,05:55,Blocked Shot,n/a,-69.0,-9.0,Jack Johnson,Blocker,Pittsburgh Penguins,Braydon Coburn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:42:04Z,2,14:06,05:54,Faceoff,n/a,-69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Sam Lafferty,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:42:37Z,2,14:28,05:32,Hit,n/a,-48.0,-35.0,Mathieu Joseph,Hitter,Tampa Bay Lightning,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:43:19Z,2,14:47,05:13,Faceoff,n/a,-69.0,-22.0,Sam Lafferty,Winner,Pittsburgh Penguins,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:43:53Z,2,15:15,04:45,Shot,Wrist Shot,-64.0,-14.0,Alex Killorn,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:44:06Z,2,15:28,04:32,Shot,Wrist Shot,-74.0,7.0,Alex Killorn,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:44:27Z,2,15:51,04:09,Hit,n/a,-87.0,-29.0,Ondrej Palat,Hitter,Tampa Bay Lightning,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:44:46Z,2,15:54,04:06,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:45:10Z,2,16:06,03:54,Takeaway,n/a,13.0,-28.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:45:27Z,2,16:08,03:52,Faceoff,n/a,20.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:45:41Z,2,16:15,03:45,Shot,Tip-In,-57.0,-9.0,Yanni Gourde,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:46:04Z,2,16:16,03:44,Faceoff,n/a,-69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:46:39Z,2,16:36,03:24,Blocked Shot,n/a,-72.0,2.0,Jack Johnson,Blocker,Pittsburgh Penguins,Mikhail Sergachev,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:47:00Z,2,17:04,02:56,Hit,n/a,-61.0,36.0,Luke Witkowski,Hitter,Tampa Bay Lightning,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:47:14Z,2,17:05,02:55,Faceoff,n/a,20.0,22.0,Joseph Blandisi,Winner,Pittsburgh Penguins,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:47:36Z,2,17:22,02:38,Hit,n/a,-55.0,-32.0,Luke Witkowski,Hitter,Tampa Bay Lightning,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:47:52Z,2,17:34,02:26,Hit,n/a,-30.0,34.0,Jack Johnson,Hitter,Pittsburgh Penguins,Cedric Paquette,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:47:53Z,2,17:39,02:21,Shot,Wrist Shot,51.0,-20.0,Sam Lafferty,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:48:30Z,2,17:49,02:11,Faceoff,n/a,-20.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:48:59Z,2,18:12,01:48,Takeaway,n/a,2.0,-8.0,Mathieu Joseph,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:49:02Z,2,18:15,01:45,Shot,Slap Shot,-55.0,32.0,Tyler Johnson,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:49:10Z,2,18:22,01:38,Shot,Wrist Shot,42.0,24.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:49:39Z,2,18:52,01:08,Shot,Wrist Shot,-78.0,-11.0,Yanni Gourde,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:49:54Z,2,18:53,01:07,Hit,n/a,-49.0,29.0,Sidney Crosby,Hitter,Pittsburgh Penguins,Ondrej Palat,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:49:53Z,2,19:01,00:59,Goal,Wrist Shot,70.0,7.0,Jake Guentzel,Scorer,Pittsburgh Penguins,Sidney Crosby,Assist,Pittsburgh Penguins,Dominik Simon,Assist,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning
+2019-10-24T01:51:29Z,2,19:01,00:59,Faceoff,n/a,0.0,0.0,Jared McCann,Winner,Pittsburgh Penguins,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:51:53Z,2,19:28,00:32,Blocked Shot,n/a,-57.0,-5.0,Patric Hornqvist,Blocker,Pittsburgh Penguins,Nikita Kucherov,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T01:52:22Z,2,19:37,00:23,Faceoff,n/a,-69.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:11:29Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:12:01Z,3,00:26,19:34,Shot,Wrist Shot,-57.0,-9.0,Dominik Simon,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:13:13Z,3,00:27,19:33,Faceoff,n/a,-69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:13:02Z,3,01:06,18:54,Blocked Shot,n/a,-66.0,8.0,Braydon Coburn,Blocker,Tampa Bay Lightning,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:13:21Z,3,01:22,18:38,Blocked Shot,n/a,-68.0,8.0,Kevin Shattenkirk,Blocker,Tampa Bay Lightning,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:14:07Z,3,02:10,17:50,Hit,n/a,91.0,-19.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:14:20Z,3,02:18,17:42,Hit,n/a,-22.0,40.0,Luke Witkowski,Hitter,Tampa Bay Lightning,Joseph Blandisi,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:14:28Z,3,02:31,17:29,Shot,Wrist Shot,73.0,-23.0,Kris Letang,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:14:40Z,3,02:43,17:17,Blocked Shot,n/a,72.0,-9.0,Kris Letang,Blocker,Pittsburgh Penguins,Alex Killorn,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:14:53Z,3,02:43,17:17,Shot,Wrist Shot,41.0,7.0,Victor Hedman,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:15:18Z,3,02:44,17:16,Faceoff,n/a,69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:15:16Z,3,02:50,17:10,Shot,Wrist Shot,67.0,8.0,Ondrej Palat,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:15:26Z,3,03:00,17:00,Hit,n/a,59.0,-40.0,Sidney Crosby,Hitter,Pittsburgh Penguins,Victor Hedman,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:16:18Z,3,03:52,16:08,Hit,n/a,54.0,-40.0,Mathieu Joseph,Hitter,Tampa Bay Lightning,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:16:30Z,3,04:02,15:58,Shot,Snap Shot,53.0,-13.0,Steven Stamkos,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:16:52Z,3,04:03,15:57,Faceoff,n/a,69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Cedric Paquette,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:17:15Z,3,04:19,15:41,Hit,n/a,39.0,37.0,Luke Witkowski,Hitter,Tampa Bay Lightning,Erik Gudbranson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:17:23Z,3,04:27,15:33,Shot,Tip-In,-75.0,3.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:17:37Z,3,04:27,15:33,Shot,Wrist Shot,-55.0,6.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:17:48Z,3,04:29,15:31,Shot,Wrist Shot,-77.0,6.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:17:54Z,3,04:30,15:30,Faceoff,n/a,-69.0,22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:18:07Z,3,04:43,15:17,Shot,Tip-In,-73.0,-4.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:18:39Z,3,05:12,14:48,Blocked Shot,n/a,60.0,8.0,Dominik Simon,Blocker,Pittsburgh Penguins,Victor Hedman,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:19:03Z,3,05:13,14:47,Faceoff,n/a,69.0,22.0,Brayden Point,Winner,Tampa Bay Lightning,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:19:13Z,3,05:18,14:42,Shot,Wrist Shot,64.0,13.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:19:20Z,3,05:25,14:35,Shot,Wrist Shot,62.0,5.0,Nikita Kucherov,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:19:27Z,3,05:32,14:28,Shot,Wrist Shot,38.0,16.0,Mikhail Sergachev,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:19:58Z,3,05:36,14:24,Faceoff,n/a,-20.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:20:23Z,3,06:05,13:55,Blocked Shot,n/a,-62.0,-10.0,Steven Stamkos,Blocker,Tampa Bay Lightning,Dominik Kahun,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:20:58Z,3,06:40,13:20,Giveaway,n/a,-24.0,20.0,Ryan McDonagh,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:21:03Z,3,06:45,13:15,Blocked Shot,n/a,-65.0,3.0,Erik Cernak,Blocker,Tampa Bay Lightning,Joseph Blandisi,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:21:24Z,3,07:01,12:59,Hit,n/a,33.0,-38.0,Jack Johnson,Hitter,Pittsburgh Penguins,Erik Cernak,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:22:43Z,3,07:02,12:58,Hit,n/a,94.0,11.0,Jack Johnson,Hitter,Pittsburgh Penguins,Luke Witkowski,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:21:29Z,3,07:07,12:53,Goal,Tip-In,73.0,0.0,Cedric Paquette,Scorer,Tampa Bay Lightning,Ryan McDonagh,Assist,Tampa Bay Lightning,Luke Witkowski,Assist,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins
+2019-10-24T02:22:13Z,3,07:07,12:53,Faceoff,n/a,0.0,0.0,Brayden Point,Winner,Tampa Bay Lightning,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:23:37Z,3,08:32,11:28,Hit,n/a,96.0,10.0,Kris Letang,Hitter,Pittsburgh Penguins,Mathieu Joseph,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:23:49Z,3,08:40,11:20,Shot,Wrist Shot,-76.0,17.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:25:49Z,3,08:41,11:19,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:26:06Z,3,08:47,11:13,Shot,Wrist Shot,-47.0,12.0,Dominik Simon,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:26:12Z,3,08:53,11:07,Shot,Wrist Shot,-79.0,10.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:27:00Z,3,09:39,10:21,Shot,Wrist Shot,-48.0,30.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:27:08Z,3,09:49,10:11,Hit,n/a,-84.0,27.0,Jared McCann,Hitter,Pittsburgh Penguins,Kevin Shattenkirk,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:27:10Z,3,09:51,10:09,Shot,Wrist Shot,-53.0,6.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:27:20Z,3,10:01,09:59,Shot,Wrist Shot,-72.0,11.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:27:39Z,3,10:20,09:40,Missed Shot,n/a,-75.0,-6.0,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:27:40Z,3,10:21,09:39,Hit,n/a,-85.0,28.0,Steven Stamkos,Hitter,Tampa Bay Lightning,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:27:49Z,3,10:26,09:34,Shot,Wrist Shot,-54.0,-23.0,Kevin Shattenkirk,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:28:18Z,3,10:27,09:33,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Brayden Point,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:28:38Z,3,10:35,09:25,Giveaway,n/a,-5.0,2.0,Mikhail Sergachev,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:28:38Z,3,10:40,09:20,Shot,Wrist Shot,-71.0,9.0,Teddy Blueger,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:28:48Z,3,10:49,09:11,Takeaway,n/a,76.0,26.0,Zach Aston-Reese,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:29:38Z,3,11:39,08:21,Missed Shot,n/a,42.0,-32.0,Erik Cernak,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:29:47Z,3,11:40,08:20,Missed Shot,n/a,72.0,4.0,Anthony Cirelli,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:32:05Z,3,11:43,08:17,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:32:24Z,3,11:50,08:10,Missed Shot,n/a,37.0,0.0,Mathieu Joseph,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:32:55Z,3,11:53,08:07,Faceoff,n/a,20.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:33:18Z,3,12:13,07:47,Hit,n/a,88.0,24.0,Steven Stamkos,Hitter,Tampa Bay Lightning,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:33:47Z,3,12:17,07:43,Faceoff,n/a,0.0,0.0,Cedric Paquette,Winner,Tampa Bay Lightning,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:34:15Z,3,12:45,07:15,Hit,n/a,-17.0,32.0,Cedric Paquette,Hitter,Tampa Bay Lightning,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:34:27Z,3,12:58,07:02,Hit,n/a,21.0,-32.0,Jared McCann,Hitter,Pittsburgh Penguins,Pat Maroon,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:35:15Z,3,13:46,06:14,Shot,Deflected,34.0,14.0,Ryan McDonagh,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:36:01Z,3,14:31,05:29,Blocked Shot,n/a,67.0,-13.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Yanni Gourde,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:36:08Z,3,14:39,05:21,Hit,n/a,78.0,13.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Yanni Gourde,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:36:57Z,3,15:19,04:41,Penalty,Throwing stick,66.0,-19.0,Zach Aston-Reese,PenaltyOn,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:39:00Z,3,15:19,04:41,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:39:25Z,3,15:29,04:31,Missed Shot,n/a,55.0,23.0,Tyler Johnson,Shooter,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:39:41Z,3,15:30,04:30,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Steven Stamkos,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:40:47Z,3,16:08,03:52,Giveaway,n/a,61.0,0.0,Tyler Johnson,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:41:45Z,3,17:06,02:54,Hit,n/a,89.0,20.0,Jack Johnson,Hitter,Pittsburgh Penguins,Brayden Point,Hittee,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:42:40Z,3,17:54,02:06,Shot,Tip-In,77.0,-5.0,Anthony Cirelli,Shooter,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:42:40Z,3,17:55,02:05,Penalty,Hooking,54.0,10.0,Jake Guentzel,PenaltyOn,Pittsburgh Penguins,Anthony Cirelli,DrewBy,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:43:21Z,3,17:55,02:05,Faceoff,n/a,69.0,-22.0,Steven Stamkos,Winner,Tampa Bay Lightning,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:43:40Z,3,18:09,01:51,Giveaway,n/a,55.0,-33.0,Nikita Kucherov,PlayerID,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:44:39Z,3,19:03,00:57,Goal,Slap Shot,37.0,2.0,Victor Hedman,Scorer,Tampa Bay Lightning,Steven Stamkos,Assist,Tampa Bay Lightning,Tyler Johnson,Assist,Tampa Bay Lightning,Tristan Jarry,Goalie,Pittsburgh Penguins
+2019-10-24T02:46:33Z,3,19:03,00:57,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:47:07Z,3,19:14,00:46,Faceoff,n/a,-69.0,-22.0,Anthony Cirelli,Winner,Tampa Bay Lightning,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:47:29Z,3,19:21,00:39,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Anthony Cirelli,Loser,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:48:09Z,3,19:49,00:11,Shot,Slap Shot,-41.0,-27.0,Justin Schultz,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:48:54Z,3,19:58,00:02,Shot,Backhand,-77.0,-8.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-24T02:49:35Z,3,19:59,00:01,Shot,Wrist Shot,-74.0,17.0,Kris Letang,Shooter,Pittsburgh Penguins,Andrei Vasilevskiy,Goalie,Tampa Bay Lightning,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,240 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-17T00:09:19Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:10:00Z,1,00:14,19:46,Giveaway,n/a,94.0,21.0,Chris Driedger,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:10:19Z,1,00:34,19:26,Shot,Snap Shot,-47.0,-6.0,Mike Matheson,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:10:27Z,1,00:39,19:21,Takeaway,n/a,-37.0,-27.0,Tyler Toffoli,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:10:31Z,1,00:44,19:16,Blocked Shot,n/a,80.0,0.0,Aaron Ekblad,Blocker,Florida Panthers,Anze Kopitar,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:10:46Z,1,01:03,18:57,Hit,n/a,-19.0,-40.0,Kyle Clifford,Hitter,Los Angeles Kings,Noel Acciari,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:11:11Z,1,01:28,18:32,Hit,n/a,12.0,-41.0,Kyle Clifford,Hitter,Los Angeles Kings,Vincent Trocheck,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:11:29Z,1,01:46,18:14,Hit,n/a,-40.0,-27.0,Matt Roy,Hitter,Los Angeles Kings,Mike Hoffman,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:11:38Z,1,01:55,18:05,Hit,n/a,-85.0,-32.0,Derek Forbort,Hitter,Los Angeles Kings,Dominic Toninato,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:11:39Z,1,01:56,18:04,Missed Shot,n/a,-34.0,-34.0,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:11:57Z,1,02:00,18:00,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:12:13Z,1,02:06,17:54,Blocked Shot,n/a,-88.0,-31.0,Evgenii Dadonov,Blocker,Florida Panthers,Matt Roy,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:12:47Z,1,02:38,17:22,Shot,Wrist Shot,40.0,-35.0,Tyler Toffoli,Shooter,Los Angeles Kings,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:12:54Z,1,02:47,17:13,Shot,Snap Shot,41.0,-19.0,Alec Martinez,Shooter,Los Angeles Kings,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:13:32Z,1,03:25,16:35,Hit,n/a,-98.0,-10.0,Alec Martinez,Hitter,Los Angeles Kings,Brian Boyle,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:13:40Z,1,03:32,16:28,Takeaway,n/a,-82.0,-27.0,Brian Boyle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:14:01Z,1,03:54,16:06,Missed Shot,n/a,-39.0,-16.0,Mike Matheson,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:14:09Z,1,04:02,15:58,Shot,Snap Shot,-56.0,26.0,Mark Pysyk,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:14:20Z,1,04:11,15:49,Shot,Wrist Shot,-45.0,-15.0,Brian Boyle,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:14:44Z,1,04:12,15:48,Faceoff,n/a,-69.0,-22.0,Noel Acciari,Winner,Florida Panthers,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:15:08Z,1,04:17,15:43,Blocked Shot,n/a,-47.0,-18.0,Dustin Brown,Blocker,Los Angeles Kings,Riley Stillman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:15:11Z,1,04:22,15:38,Hit,n/a,-99.0,-9.0,Noel Acciari,Hitter,Florida Panthers,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:15:25Z,1,04:35,15:25,Missed Shot,n/a,65.0,22.0,Kyle Clifford,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:15:33Z,1,04:44,15:16,Hit,n/a,-30.0,-18.0,Austin Wagner,Hitter,Los Angeles Kings,Brett Connolly,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:15:59Z,1,05:09,14:51,Giveaway,n/a,55.0,-29.0,Michael Amadio,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:16:13Z,1,05:20,14:40,Takeaway,n/a,57.0,-22.0,Keith Yandle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:16:20Z,1,05:23,14:37,Penalty,Holding,58.0,25.0,Austin Wagner,PenaltyOn,Los Angeles Kings,Josh Brown,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:17:07Z,1,05:23,14:37,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:17:10Z,1,05:33,14:27,Blocked Shot,n/a,-64.0,7.0,Alex Iafallo,Blocker,Los Angeles Kings,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:17:20Z,1,05:43,14:17,Blocked Shot,n/a,-67.0,-1.0,Alex Iafallo,Blocker,Los Angeles Kings,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:17:43Z,1,06:04,13:56,Goal,Snap Shot,-76.0,1.0,Evgenii Dadonov,Scorer,Florida Panthers,Jonathan Huberdeau,Assist,Florida Panthers,Aleksander Barkov,Assist,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings
+2020-01-17T00:18:36Z,1,06:04,13:56,Faceoff,n/a,0.0,0.0,Jeff Carter,Winner,Los Angeles Kings,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:18:50Z,1,06:27,13:33,Shot,Snap Shot,55.0,-23.0,Kyle Clifford,Shooter,Los Angeles Kings,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:18:59Z,1,06:35,13:25,Hit,n/a,95.0,-16.0,Riley Stillman,Hitter,Florida Panthers,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:19:03Z,1,06:40,13:20,Hit,n/a,98.0,15.0,Kyle Clifford,Hitter,Los Angeles Kings,Anton Stralman,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:19:33Z,1,07:09,12:51,Shot,Snap Shot,58.0,-16.0,Nikolai Prokhorkin,Shooter,Los Angeles Kings,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:20:22Z,1,07:59,12:01,Blocked Shot,n/a,-59.0,-10.0,Drew Doughty,Blocker,Los Angeles Kings,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:20:29Z,1,08:06,11:54,Hit,n/a,-53.0,34.0,Dominic Toninato,Hitter,Florida Panthers,Anze Kopitar,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:22:48Z,1,08:20,11:40,Faceoff,n/a,69.0,22.0,Noel Acciari,Winner,Florida Panthers,Adrian Kempe,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:23:26Z,1,08:43,11:17,Hit,n/a,96.0,-8.0,Keith Yandle,Hitter,Florida Panthers,Nikolai Prokhorkin,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:23:34Z,1,08:56,11:04,Missed Shot,n/a,81.0,-25.0,Michael Amadio,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:24:01Z,1,09:22,10:38,Hit,n/a,-64.0,-38.0,Jeff Carter,Hitter,Los Angeles Kings,Noel Acciari,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:24:14Z,1,09:35,10:25,Missed Shot,n/a,65.0,-6.0,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:24:30Z,1,09:52,10:08,Hit,n/a,45.0,-36.0,Riley Stillman,Hitter,Florida Panthers,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:24:41Z,1,10:03,09:57,Hit,n/a,-6.0,40.0,Mark Pysyk,Hitter,Florida Panthers,Austin Wagner,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:26:49Z,1,10:05,09:55,Faceoff,n/a,69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:28:18Z,1,11:07,08:53,Giveaway,n/a,-51.0,-24.0,Drew Doughty,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:28:34Z,1,11:22,08:38,Blocked Shot,n/a,-80.0,-4.0,Frank Vatrano,Blocker,Florida Panthers,Alec Martinez,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:28:45Z,1,11:27,08:33,Shot,Snap Shot,-45.0,-30.0,Riley Stillman,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:28:45Z,1,11:28,08:32,Shot,Slap Shot,-81.0,0.0,Dominic Toninato,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:30:18Z,1,11:28,08:32,Faceoff,n/a,-69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:30:44Z,1,11:40,08:20,Takeaway,n/a,7.0,17.0,Mike Hoffman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:30:55Z,1,11:51,08:09,Blocked Shot,n/a,-72.0,17.0,Kyle Clifford,Blocker,Los Angeles Kings,Anton Stralman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:31:04Z,1,12:01,07:59,Missed Shot,n/a,-51.0,33.0,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:31:50Z,1,12:46,07:14,Shot,Snap Shot,69.0,33.0,Austin Wagner,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:32:06Z,1,13:02,06:58,Giveaway,n/a,-58.0,26.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:32:18Z,1,13:14,06:46,Missed Shot,n/a,41.0,25.0,Ben Hutton,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:32:26Z,1,13:20,06:40,Shot,Slap Shot,41.0,16.0,Matt Roy,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:33:00Z,1,13:24,06:36,Faceoff,n/a,20.0,22.0,Vincent Trocheck,Winner,Florida Panthers,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:33:38Z,1,14:03,05:57,Shot,Snap Shot,68.0,-31.0,Tyler Toffoli,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:35:32Z,1,14:04,05:56,Faceoff,n/a,69.0,-22.0,Brian Boyle,Winner,Florida Panthers,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:36:45Z,1,14:11,05:49,Faceoff,n/a,-20.0,22.0,Brian Boyle,Winner,Florida Panthers,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:37:01Z,1,14:20,05:40,Faceoff,n/a,-69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:37:29Z,1,14:33,05:27,Shot,Wrap-around,88.0,7.0,Jeff Carter,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:38:21Z,1,15:23,04:37,Shot,Tip-In,1.0,27.0,Austin Wagner,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:38:36Z,1,15:26,04:34,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:38:58Z,1,15:32,04:28,Takeaway,n/a,-63.0,22.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:39:16Z,1,15:57,04:03,Shot,Wrist Shot,-48.0,3.0,Mike Matheson,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:39:43Z,1,15:58,04:02,Faceoff,n/a,-69.0,22.0,Nikolai Prokhorkin,Winner,Los Angeles Kings,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:40:13Z,1,16:25,03:35,Blocked Shot,n/a,-73.0,7.0,Alec Martinez,Blocker,Los Angeles Kings,Noel Acciari,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:40:37Z,1,16:49,03:11,Shot,Slap Shot,-45.0,-18.0,Vincent Trocheck,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:40:48Z,1,16:59,03:01,Giveaway,n/a,-19.0,-35.0,Vincent Trocheck,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:41:20Z,1,17:12,02:48,Faceoff,n/a,20.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:42:21Z,1,18:07,01:53,Giveaway,n/a,-59.0,24.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:42:32Z,1,18:19,01:41,Shot,Wrist Shot,-86.0,-19.0,Jonathan Huberdeau,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:42:40Z,1,18:26,01:34,Takeaway,n/a,-75.0,39.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:42:54Z,1,18:37,01:23,Hit,n/a,-45.0,34.0,Tyler Toffoli,Hitter,Los Angeles Kings,Mike Matheson,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:43:10Z,1,18:56,01:04,Hit,n/a,-62.0,38.0,Derek Forbort,Hitter,Los Angeles Kings,Aleksander Barkov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:43:31Z,1,19:17,00:43,Giveaway,n/a,11.0,38.0,Anton Stralman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:43:40Z,1,19:21,00:39,Penalty,Hooking,37.0,37.0,Dominic Toninato,PenaltyOn,Florida Panthers,Dustin Brown,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T00:44:23Z,1,19:21,00:39,Faceoff,n/a,69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:03:28Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:03:55Z,2,00:27,19:33,Blocked Shot,n/a,-66.0,12.0,Riley Stillman,Blocker,Florida Panthers,Anze Kopitar,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:04:12Z,2,00:43,19:17,Missed Shot,n/a,-37.0,-14.0,Drew Doughty,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:04:24Z,2,00:56,19:04,Takeaway,n/a,-49.0,30.0,Colton Sceviour,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:04:29Z,2,01:02,18:58,Shot,Backhand,76.0,17.0,Colton Sceviour,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:04:47Z,2,01:19,18:41,Takeaway,n/a,-55.0,39.0,Mike Matheson,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:04:53Z,2,01:25,18:35,Giveaway,n/a,-34.0,39.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:05:07Z,2,01:37,18:23,Shot,Wrist Shot,-92.0,17.0,Sean Walker,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:05:17Z,2,01:49,18:11,Hit,n/a,62.0,39.0,Jeff Carter,Hitter,Los Angeles Kings,Brett Connolly,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:05:25Z,2,01:57,18:03,Giveaway,n/a,-12.0,28.0,Jeff Carter,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:36:01Z,2,02:00,18:00,Hit,n/a,63.0,37.0,Sean Walker,Hitter,Los Angeles Kings,Brett Connolly,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:05:25Z,2,02:15,17:45,Missed Shot,n/a,-75.0,21.0,Austin Wagner,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:06:28Z,2,02:28,17:32,Faceoff,n/a,20.0,22.0,Dominic Toninato,Winner,Florida Panthers,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:06:44Z,2,02:49,17:11,Hit,n/a,-16.0,39.0,Keith Yandle,Hitter,Florida Panthers,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:07:04Z,2,03:06,16:54,Goal,Slap Shot,53.0,-15.0,Frank Vatrano,Scorer,Florida Panthers,Dominic Toninato,Assist,Florida Panthers,Mike Hoffman,Assist,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings
+2020-01-17T01:07:47Z,2,03:06,16:54,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:08:40Z,2,03:30,16:30,Takeaway,n/a,-45.0,-26.0,Aaron Ekblad,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:08:47Z,2,03:38,16:22,Missed Shot,n/a,61.0,-19.0,Aleksander Barkov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:09:17Z,2,04:07,15:53,Hit,n/a,11.0,-28.0,Derek Forbort,Hitter,Los Angeles Kings,Colton Sceviour,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:09:25Z,2,04:15,15:45,Hit,n/a,70.0,42.0,Brian Boyle,Hitter,Florida Panthers,Derek Forbort,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:09:34Z,2,04:24,15:36,Hit,n/a,37.0,-38.0,Mark Pysyk,Hitter,Florida Panthers,Jaret Anderson-Dolan,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:09:44Z,2,04:34,15:26,Hit,n/a,95.0,-9.0,Brian Boyle,Hitter,Florida Panthers,Derek Forbort,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:09:56Z,2,04:46,15:14,Blocked Shot,n/a,-72.0,-16.0,Josh Brown,Blocker,Florida Panthers,Ben Hutton,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:10:12Z,2,04:52,15:08,Penalty,Delaying Game - Puck over glass,-30.0,-36.0,Brett Connolly,PenaltyOn,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:10:35Z,2,04:52,15:08,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:10:49Z,2,05:06,14:54,Giveaway,n/a,3.0,31.0,Adrian Kempe,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:11:44Z,2,06:01,13:59,Giveaway,n/a,-67.0,-11.0,Nikolai Prokhorkin,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:11:45Z,2,06:02,13:58,Shot,Snap Shot,-70.0,-21.0,Aaron Ekblad,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:12:14Z,2,06:32,13:28,Shot,Snap Shot,-41.0,17.0,Sean Walker,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:12:49Z,2,06:48,13:12,Blocked Shot,n/a,-85.0,-6.0,Anton Stralman,Blocker,Florida Panthers,Nikolai Prokhorkin,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:14:29Z,2,06:59,13:01,Faceoff,n/a,-20.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Trevor Lewis,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:15:50Z,2,07:28,12:32,Faceoff,n/a,20.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:16:44Z,2,08:19,11:41,Hit,n/a,-65.0,37.0,Riley Stillman,Hitter,Florida Panthers,Kyle Clifford,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:16:56Z,2,08:31,11:29,Giveaway,n/a,17.0,21.0,Noel Acciari,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:17:02Z,2,08:37,11:23,Hit,n/a,-99.0,-13.0,Anton Stralman,Hitter,Florida Panthers,Anze Kopitar,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:17:09Z,2,08:44,11:16,Blocked Shot,n/a,-79.0,12.0,Frank Vatrano,Blocker,Florida Panthers,Tyler Toffoli,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:17:11Z,2,08:45,11:15,Takeaway,n/a,-69.0,26.0,Tyler Toffoli,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:17:25Z,2,09:00,11:00,Shot,Snap Shot,77.0,-1.0,Dominic Toninato,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:17:46Z,2,09:21,10:39,Shot,Wrist Shot,54.0,5.0,Mike Hoffman,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:18:13Z,2,09:48,10:12,Takeaway,n/a,36.0,11.0,Michael Amadio,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:18:23Z,2,09:58,10:02,Blocked Shot,n/a,-69.0,7.0,Aleksander Barkov,Blocker,Florida Panthers,Matt Roy,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:18:32Z,2,10:07,09:53,Missed Shot,n/a,-43.0,-19.0,Adrian Kempe,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:18:39Z,2,10:10,09:50,Shot,Wrist Shot,1.0,30.0,Keith Yandle,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:18:53Z,2,10:11,09:49,Faceoff,n/a,69.0,22.0,Vincent Trocheck,Winner,Florida Panthers,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:19:19Z,2,10:24,09:36,Takeaway,n/a,-96.0,1.0,Sam Montembeault,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:19:29Z,2,10:35,09:25,Blocked Shot,n/a,47.0,-14.0,Matt Roy,Blocker,Los Angeles Kings,Vincent Trocheck,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:21:37Z,2,10:36,09:24,Faceoff,n/a,69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:22:00Z,2,11:02,08:58,Giveaway,n/a,35.0,-27.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:22:06Z,2,11:08,08:52,Takeaway,n/a,-14.0,36.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:22:27Z,2,11:29,08:31,Shot,Slap Shot,9.0,34.0,Drew Doughty,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:23:51Z,2,12:51,07:09,Shot,Slap Shot,-80.0,1.0,Dustin Brown,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:24:22Z,2,12:52,07:08,Faceoff,n/a,-69.0,22.0,Brian Boyle,Winner,Florida Panthers,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:24:46Z,2,13:05,06:55,Blocked Shot,n/a,60.0,14.0,Sean Walker,Blocker,Los Angeles Kings,Mark Pysyk,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:25:04Z,2,13:23,06:37,Hit,n/a,-18.0,26.0,Dustin Brown,Hitter,Los Angeles Kings,Vincent Trocheck,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:25:26Z,2,13:46,06:14,Missed Shot,n/a,42.0,16.0,Vincent Trocheck,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:26:09Z,2,14:29,05:31,Takeaway,n/a,35.0,35.0,Drew Doughty,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:26:23Z,2,14:43,05:17,Blocked Shot,n/a,56.0,-13.0,Alec Martinez,Blocker,Los Angeles Kings,Aaron Ekblad,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:27:07Z,2,15:26,04:34,Missed Shot,n/a,-78.0,-26.0,Trevor Lewis,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:27:20Z,2,15:37,04:23,Shot,Slap Shot,-35.0,-24.0,Derek Forbort,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:29:14Z,2,15:38,04:22,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:30:02Z,2,15:55,04:05,Hit,n/a,7.0,39.0,Brian Boyle,Hitter,Florida Panthers,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:30:10Z,2,16:03,03:57,Shot,Snap Shot,-73.0,33.0,Alex Iafallo,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:30:10Z,2,16:06,03:54,Blocked Shot,n/a,-80.0,-10.0,Mark Pysyk,Blocker,Florida Panthers,Derek Forbort,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:30:21Z,2,16:14,03:46,Hit,n/a,-92.0,26.0,Colton Sceviour,Hitter,Florida Panthers,Kyle Clifford,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:31:25Z,2,17:18,02:42,Missed Shot,n/a,-74.0,-12.0,Austin Wagner,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:31:41Z,2,17:34,02:26,Shot,Slap Shot,41.0,34.0,Keith Yandle,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:31:46Z,2,17:36,02:24,Giveaway,n/a,58.0,-8.0,Alec Martinez,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:31:48Z,2,17:41,02:19,Shot,Slap Shot,46.0,16.0,Josh Brown,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:32:12Z,2,17:48,02:12,Faceoff,n/a,69.0,22.0,Dominic Toninato,Winner,Florida Panthers,Trevor Lewis,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:32:55Z,2,18:14,01:46,Blocked Shot,n/a,44.0,14.0,Alec Martinez,Blocker,Los Angeles Kings,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:33:04Z,2,18:26,01:34,Hit,n/a,43.0,-37.0,Matt Roy,Hitter,Los Angeles Kings,Frank Vatrano,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:33:30Z,2,18:30,01:30,Faceoff,n/a,69.0,-22.0,Vincent Trocheck,Winner,Florida Panthers,Nikolai Prokhorkin,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:34:02Z,2,18:58,01:02,Hit,n/a,-45.0,0.0,Vincent Trocheck,Hitter,Florida Panthers,Nikolai Prokhorkin,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:34:48Z,2,19:31,00:29,Penalty,Slashing,82.0,-31.0,Ben Hutton,PenaltyOn,Los Angeles Kings,Colton Sceviour,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:35:32Z,2,19:31,00:29,Faceoff,n/a,69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:35:24Z,2,19:37,00:23,Giveaway,n/a,94.0,20.0,Sean Walker,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:35:31Z,2,19:43,00:17,Missed Shot,n/a,76.0,5.0,Evgenii Dadonov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:35:46Z,2,19:57,00:03,Shot,Snap Shot,45.0,37.0,Jeff Carter,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:54:36Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:54:42Z,3,00:14,19:46,Shot,Wrist Shot,-70.0,-6.0,Jonathan Huberdeau,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:54:49Z,3,00:20,19:40,Missed Shot,n/a,-60.0,24.0,Evgenii Dadonov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:55:04Z,3,00:35,19:25,Giveaway,n/a,17.0,19.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:55:43Z,3,01:15,18:45,Blocked Shot,n/a,-74.0,6.0,Derek Forbort,Blocker,Los Angeles Kings,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:56:08Z,3,01:39,18:21,Missed Shot,n/a,-72.0,15.0,Aaron Ekblad,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:56:41Z,3,02:12,17:48,Giveaway,n/a,91.0,12.0,Aaron Ekblad,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:57:00Z,3,02:31,17:29,Shot,Wrist Shot,-52.0,26.0,Mark Pysyk,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:57:06Z,3,02:34,17:26,Shot,Wrap-around,-86.0,-7.0,Noel Acciari,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:57:06Z,3,02:35,17:25,Shot,Slap Shot,-81.0,-5.0,Noel Acciari,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:57:25Z,3,02:35,17:25,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:59:07Z,3,02:57,17:03,Penalty,Hi-sticking,-11.0,-38.0,Matt Roy,PenaltyOn,Los Angeles Kings,Jonathan Huberdeau,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T01:59:52Z,3,02:57,17:03,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:00:52Z,3,03:37,16:23,Takeaway,n/a,-12.0,37.0,Alex Iafallo,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:00:50Z,3,03:40,16:20,Shot,Slap Shot,82.0,11.0,Alex Iafallo,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:01:58Z,3,04:46,15:14,Blocked Shot,n/a,-73.0,6.0,Tyler Toffoli,Blocker,Los Angeles Kings,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:02:18Z,3,04:47,15:13,Faceoff,n/a,-69.0,22.0,Vincent Trocheck,Winner,Florida Panthers,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:02:40Z,3,04:55,15:05,Goal,Slap Shot,-43.0,24.0,Mike Matheson,Scorer,Florida Panthers,Aaron Ekblad,Assist,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a
+2020-01-17T02:03:13Z,3,04:55,15:05,Faceoff,n/a,0.0,0.0,Vincent Trocheck,Winner,Florida Panthers,Nikolai Prokhorkin,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:03:48Z,3,05:15,14:45,Giveaway,n/a,-59.0,20.0,Brett Connolly,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:03:57Z,3,05:34,14:26,Blocked Shot,n/a,57.0,-14.0,Aaron Ekblad,Blocker,Florida Panthers,Michael Amadio,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:04:21Z,3,05:58,14:02,Shot,Snap Shot,81.0,11.0,Nikolai Prokhorkin,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:04:29Z,3,06:07,13:53,Shot,Snap Shot,79.0,-17.0,Michael Amadio,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:04:37Z,3,06:14,13:46,Shot,Slap Shot,45.0,-12.0,Matt Roy,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:04:51Z,3,06:28,13:32,Takeaway,n/a,13.0,-33.0,Dustin Brown,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:05:31Z,3,07:02,12:58,Takeaway,n/a,-56.0,0.0,Trevor Lewis,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:05:31Z,3,07:04,12:56,Giveaway,n/a,-60.0,0.0,Trevor Lewis,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:05:31Z,3,07:06,12:54,Goal,Wrist Shot,-59.0,-5.0,Brian Boyle,Scorer,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:06:07Z,3,07:06,12:54,Faceoff,n/a,0.0,0.0,Brian Boyle,Winner,Florida Panthers,Jaret Anderson-Dolan,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:06:26Z,3,07:21,12:39,Shot,Snap Shot,-78.0,4.0,Brian Boyle,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:07:46Z,3,08:41,11:19,Takeaway,n/a,-47.0,11.0,Dustin Brown,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:08:16Z,3,09:11,10:49,Giveaway,n/a,75.0,-38.0,Riley Stillman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:08:22Z,3,09:18,10:42,Hit,n/a,19.0,-36.0,Kyle Clifford,Hitter,Los Angeles Kings,Riley Stillman,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:08:29Z,3,09:24,10:36,Hit,n/a,-79.0,-34.0,Vincent Trocheck,Hitter,Florida Panthers,Drew Doughty,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:10:35Z,3,09:28,10:32,Faceoff,n/a,20.0,-22.0,Michael Amadio,Winner,Los Angeles Kings,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:11:07Z,3,09:50,10:10,Shot,Wrist Shot,-68.0,-1.0,Frank Vatrano,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:11:24Z,3,10:07,09:53,Giveaway,n/a,59.0,36.0,Josh Brown,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:11:29Z,3,10:12,09:48,Shot,Tip-In,76.0,11.0,Nikolai Prokhorkin,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:12:17Z,3,11:00,09:00,Takeaway,n/a,-90.0,-28.0,Brian Boyle,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:12:23Z,3,11:06,08:54,Missed Shot,n/a,-61.0,40.0,Brian Boyle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:12:30Z,3,11:09,08:51,Hit,n/a,-48.0,-36.0,Trevor Lewis,Hitter,Los Angeles Kings,Riley Stillman,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:12:54Z,3,11:35,08:25,Shot,Slap Shot,85.0,-8.0,Anze Kopitar,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:14:40Z,3,11:36,08:24,Faceoff,n/a,69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:15:14Z,3,11:42,08:18,Goal,Backhand,66.0,-9.0,Alex Iafallo,Scorer,Los Angeles Kings,Drew Doughty,Assist,Los Angeles Kings,Anze Kopitar,Assist,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers
+2020-01-17T02:15:45Z,3,11:42,08:18,Faceoff,n/a,0.0,0.0,Vincent Trocheck,Winner,Florida Panthers,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:16:29Z,3,12:23,07:37,Missed Shot,n/a,-40.0,-23.0,Riley Stillman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:16:45Z,3,12:40,07:20,Hit,n/a,9.0,40.0,Vincent Trocheck,Hitter,Florida Panthers,Austin Wagner,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:16:52Z,3,12:47,07:13,Hit,n/a,-81.0,30.0,Noel Acciari,Hitter,Florida Panthers,Drew Doughty,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:17:00Z,3,12:54,07:06,Missed Shot,n/a,74.0,33.0,Austin Wagner,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:17:59Z,3,13:47,06:13,Hit,n/a,-97.0,12.0,Dominic Toninato,Hitter,Florida Panthers,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:18:18Z,3,14:09,05:51,Blocked Shot,n/a,90.0,6.0,Michael Amadio,Blocker,Los Angeles Kings,Aaron Ekblad,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:18:33Z,3,14:10,05:50,Penalty,Hooking,36.0,-26.0,Brian Boyle,PenaltyOn,Florida Panthers,Michael Amadio,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:20:14Z,3,14:10,05:50,Faceoff,n/a,69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:20:40Z,3,14:21,05:39,Missed Shot,n/a,56.0,-23.0,Adrian Kempe,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:21:02Z,3,14:43,05:17,Missed Shot,n/a,67.0,4.0,Alex Iafallo,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:21:29Z,3,15:06,04:54,Hit,n/a,91.0,29.0,Aaron Ekblad,Hitter,Florida Panthers,Drew Doughty,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:21:30Z,3,15:08,04:52,Goal,Wrist Shot,41.0,5.0,Jeff Carter,Scorer,Los Angeles Kings,Adrian Kempe,Assist,Los Angeles Kings,Anze Kopitar,Assist,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers
+2020-01-17T02:22:12Z,3,15:08,04:52,Faceoff,n/a,0.0,0.0,Jeff Carter,Winner,Los Angeles Kings,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:22:22Z,3,15:15,04:45,Hit,n/a,13.0,40.0,Noel Acciari,Hitter,Florida Panthers,Derek Forbort,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:22:33Z,3,15:27,04:33,Blocked Shot,n/a,-10.0,16.0,Riley Stillman,Blocker,Florida Panthers,Derek Forbort,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:22:37Z,3,15:31,04:29,Hit,n/a,29.0,-39.0,Brett Connolly,Hitter,Florida Panthers,Derek Forbort,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:22:45Z,3,15:38,04:22,Shot,Snap Shot,-54.0,3.0,Vincent Trocheck,Shooter,Florida Panthers,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:23:33Z,3,16:08,03:52,Penalty,Holding,63.0,-17.0,Josh Brown,PenaltyOn,Florida Panthers,Adrian Kempe,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:23:52Z,3,16:08,03:52,Faceoff,n/a,69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Colton Sceviour,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:24:07Z,3,16:17,03:43,Shot,Slap Shot,42.0,16.0,Drew Doughty,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:24:07Z,3,16:28,03:32,Blocked Shot,n/a,65.0,-11.0,Riley Stillman,Blocker,Florida Panthers,Tyler Toffoli,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:24:35Z,3,16:45,03:15,Shot,Slap Shot,74.0,-21.0,Anze Kopitar,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:25:16Z,3,17:18,02:42,Shot,Slap Shot,76.0,1.0,Nikolai Prokhorkin,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:25:27Z,3,17:20,02:40,Goal,Slap Shot,-75.0,2.0,Anze Kopitar,Scorer,Los Angeles Kings,Nikolai Prokhorkin,Assist,Los Angeles Kings,Dustin Brown,Assist,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers
+2020-01-17T02:27:04Z,3,17:20,02:40,Faceoff,n/a,0.0,0.0,Brian Boyle,Winner,Florida Panthers,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:27:17Z,3,17:38,02:22,Missed Shot,n/a,42.0,-28.0,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:28:22Z,3,18:14,01:46,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:28:43Z,3,18:36,01:24,Giveaway,n/a,-20.0,-19.0,Drew Doughty,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:29:08Z,3,19:00,01:00,Blocked Shot,n/a,-32.0,14.0,Drew Doughty,Blocker,Los Angeles Kings,Evgenii Dadonov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:29:25Z,3,19:17,00:43,Blocked Shot,n/a,47.0,-19.0,Evgenii Dadonov,Blocker,Florida Panthers,Matt Roy,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:29:52Z,3,19:41,00:19,Blocked Shot,n/a,49.0,-22.0,Jonathan Huberdeau,Blocker,Florida Panthers,Matt Roy,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:31:28Z,3,19:42,00:18,Faceoff,n/a,69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:31:46Z,3,19:48,00:12,Shot,Slap Shot,70.0,29.0,Tyler Toffoli,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:31:53Z,3,19:55,00:05,Blocked Shot,n/a,61.0,-17.0,Brian Boyle,Blocker,Florida Panthers,Anze Kopitar,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-17T02:32:01Z,3,19:59,00:01,Shot,Slap Shot,19.0,31.0,Adrian Kempe,Shooter,Los Angeles Kings,Sam Montembeault,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a

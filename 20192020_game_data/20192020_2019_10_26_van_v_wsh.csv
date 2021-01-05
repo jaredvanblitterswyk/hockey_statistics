@@ -1,0 +1,264 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-26T02:07:54Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Brandon Sutter,Winner,Vancouver Canucks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:08:29Z,1,00:09,19:51,Missed Shot,n/a,6.0,-7.0,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:08:43Z,1,00:23,19:37,Giveaway,n/a,-96.0,6.0,Ilya Samsonov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:08:49Z,1,00:28,19:32,Shot,Snap Shot,-55.0,17.0,Josh Leivo,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:09:06Z,1,00:28,19:32,Faceoff,n/a,-69.0,22.0,J.T. Miller,Winner,Vancouver Canucks,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:09:45Z,1,00:49,19:11,Takeaway,n/a,-7.0,-36.0,Carl Hagelin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:09:55Z,1,00:59,19:01,Hit,n/a,-21.0,-37.0,Radko Gudas,Hitter,Washington Capitals,J.T. Miller,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:10:05Z,1,01:09,18:51,Giveaway,n/a,87.0,-29.0,Jordie Benn,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:10:26Z,1,01:29,18:31,Blocked Shot,n/a,42.0,17.0,Troy Stecher,Blocker,Vancouver Canucks,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:10:37Z,1,01:41,18:19,Shot,Wrist Shot,-32.0,0.0,Micheal Ferland,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:10:54Z,1,01:58,18:02,Takeaway,n/a,31.0,-17.0,Bo Horvat,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:10:59Z,1,02:04,17:56,Hit,n/a,-38.0,-30.0,Micheal Ferland,Hitter,Vancouver Canucks,John Carlson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:11:18Z,1,02:22,17:38,Blocked Shot,n/a,-50.0,-30.0,John Carlson,Blocker,Washington Capitals,Bo Horvat,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:11:47Z,1,02:27,17:33,Hit,n/a,41.0,-34.0,Tim Schaller,Hitter,Vancouver Canucks,Travis Boyd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:11:34Z,1,02:37,17:23,Shot,Deflected,83.0,-11.0,Nic Dowd,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:11:59Z,1,02:37,17:23,Faceoff,n/a,69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:12:46Z,1,02:59,17:01,Shot,Snap Shot,81.0,-15.0,Jakub Vrana,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:12:50Z,1,03:04,16:56,Giveaway,n/a,39.0,-35.0,Christopher Tanev,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:12:52Z,1,03:06,16:54,Shot,Slap Shot,61.0,-4.0,Jakub Vrana,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:13:02Z,1,03:15,16:45,Hit,n/a,72.0,-38.0,Evgeny Kuznetsov,Hitter,Washington Capitals,Micheal Ferland,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:13:06Z,1,03:18,16:42,Goal,Wrist Shot,77.0,2.0,Evgeny Kuznetsov,Scorer,Washington Capitals,Jakub Vrana,Assist,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a
+2019-10-26T02:13:43Z,1,03:18,16:42,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:14:30Z,1,04:05,15:55,Shot,Wrist Shot,-36.0,-31.0,Alexander Edler,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:14:54Z,1,04:05,15:55,Faceoff,n/a,-69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Tom Wilson,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:15:22Z,1,04:22,15:38,Hit,n/a,-91.0,25.0,Tom Wilson,Hitter,Washington Capitals,Brock Boeser,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:15:40Z,1,04:41,15:19,Shot,Wrist Shot,-35.0,-31.0,Quinn Hughes,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:15:49Z,1,04:42,15:18,Penalty,Hooking,-59.0,-38.0,Michal Kempny,PenaltyOn,Washington Capitals,Elias Pettersson,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:16:33Z,1,04:42,15:18,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:16:52Z,1,05:01,14:59,Giveaway,n/a,-31.0,20.0,Quinn Hughes,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:16:57Z,1,05:06,14:54,Missed Shot,n/a,83.0,21.0,Carl Hagelin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:17:12Z,1,05:06,14:54,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:17:30Z,1,05:17,14:43,Giveaway,n/a,43.0,-18.0,Bo Horvat,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:17:48Z,1,05:33,14:27,Goal,Snap Shot,-72.0,10.0,Brock Boeser,Scorer,Vancouver Canucks,Quinn Hughes,Assist,Vancouver Canucks,Bo Horvat,Assist,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals
+2019-10-26T02:56:39Z,1,05:33,14:27,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:19:01Z,1,05:53,14:07,Faceoff,n/a,0.0,0.0,Jay Beagle,Winner,Vancouver Canucks,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:19:32Z,1,06:13,13:47,Hit,n/a,-64.0,38.0,Nick Jensen,Hitter,Washington Capitals,Tim Schaller,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:22:04Z,1,06:39,13:21,Faceoff,n/a,69.0,-22.0,Brandon Sutter,Winner,Vancouver Canucks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:22:34Z,1,07:02,12:58,Blocked Shot,n/a,66.0,9.0,Tyler Myers,Blocker,Vancouver Canucks,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:22:55Z,1,07:21,12:39,Blocked Shot,n/a,67.0,-14.0,Alexander Edler,Blocker,Vancouver Canucks,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:23:15Z,1,07:21,12:39,Penalty,Hi-sticking,-61.0,38.0,Tanner Pearson,PenaltyOn,Vancouver Canucks,John Carlson,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:23:36Z,1,07:21,12:39,Faceoff,n/a,69.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:23:54Z,1,07:29,12:31,Goal,Wrist Shot,-54.0,-32.0,Tim Schaller,Scorer,Vancouver Canucks,Jay Beagle,Assist,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a
+2019-10-26T02:24:19Z,1,07:29,12:31,Faceoff,n/a,0.0,0.0,Nicklas Backstrom,Winner,Washington Capitals,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:26:40Z,1,09:36,10:24,Shot,Slap Shot,57.0,-29.0,Jakub Vrana,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:27:24Z,1,09:36,10:24,Faceoff,n/a,69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Travis Boyd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:27:55Z,1,10:06,09:54,Giveaway,n/a,60.0,-14.0,Brendan Leipsic,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:28:09Z,1,10:20,09:40,Giveaway,n/a,78.0,29.0,Troy Stecher,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:28:42Z,1,10:53,09:07,Shot,Wrist Shot,57.0,13.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:29:06Z,1,11:16,08:44,Shot,Backhand,85.0,-23.0,Nicklas Backstrom,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:29:17Z,1,11:16,08:44,Penalty,Tripping,-62.0,-13.0,J.T. Miller,PenaltyOn,Vancouver Canucks,Jonas Siegenthaler,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:31:12Z,1,11:16,08:44,Faceoff,n/a,69.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:32:20Z,1,12:22,07:38,Missed Shot,n/a,79.0,-7.0,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:32:36Z,1,12:39,07:21,Shot,Wrist Shot,-56.0,26.0,Tyler Myers,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:33:40Z,1,13:42,06:18,Takeaway,n/a,62.0,-40.0,J.T. Miller,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:34:04Z,1,14:04,05:56,Hit,n/a,-47.0,13.0,Dmitry Orlov,Hitter,Washington Capitals,Elias Pettersson,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:34:13Z,1,14:15,05:45,Shot,Wrap-around,-87.0,-5.0,Troy Stecher,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:34:19Z,1,14:17,05:43,Shot,Wrist Shot,-83.0,-9.0,Troy Stecher,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:36:14Z,1,14:17,05:43,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:36:45Z,1,14:32,05:28,Hit,n/a,-33.0,38.0,Jake Virtanen,Hitter,Vancouver Canucks,Brendan Leipsic,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:36:52Z,1,14:38,05:22,Takeaway,n/a,-33.0,-38.0,Micheal Ferland,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:36:54Z,1,14:40,05:20,Shot,Wrist Shot,-68.0,-29.0,Micheal Ferland,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:37:03Z,1,14:49,05:11,Shot,Wrist Shot,68.0,34.0,Brendan Leipsic,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:37:35Z,1,14:49,05:11,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:38:13Z,1,15:02,04:58,Faceoff,n/a,-20.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:38:32Z,1,15:21,04:39,Hit,n/a,95.0,15.0,Garnet Hathaway,Hitter,Washington Capitals,Christopher Tanev,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:39:11Z,1,15:59,04:01,Blocked Shot,n/a,-55.0,9.0,Garnet Hathaway,Blocker,Washington Capitals,Tyler Myers,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:39:21Z,1,16:09,03:51,Takeaway,n/a,69.0,29.0,Tyler Myers,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:39:58Z,1,16:14,03:46,Faceoff,n/a,-20.0,-22.0,Jay Beagle,Winner,Vancouver Canucks,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:40:21Z,1,16:33,03:27,Giveaway,n/a,65.0,-38.0,Tim Schaller,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:40:24Z,1,16:35,03:25,Missed Shot,n/a,41.0,25.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:41:10Z,1,17:21,02:39,Hit,n/a,-75.0,34.0,Dmitry Orlov,Hitter,Washington Capitals,Bo Horvat,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:41:17Z,1,17:26,02:34,Hit,n/a,-64.0,20.0,Tom Wilson,Hitter,Washington Capitals,Micheal Ferland,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:41:41Z,1,17:28,02:32,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:42:15Z,1,17:54,02:06,Hit,n/a,97.0,12.0,Jakub Vrana,Hitter,Washington Capitals,J.T. Miller,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:42:32Z,1,18:10,01:50,Shot,Slap Shot,56.0,17.0,Carl Hagelin,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:43:06Z,1,18:10,01:50,Faceoff,n/a,69.0,22.0,Brandon Sutter,Winner,Vancouver Canucks,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:43:12Z,1,18:16,01:44,Hit,n/a,98.0,-5.0,Garnet Hathaway,Hitter,Washington Capitals,Quinn Hughes,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:43:22Z,1,18:26,01:34,Blocked Shot,n/a,-62.0,-22.0,Nick Jensen,Blocker,Washington Capitals,Tanner Pearson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:43:31Z,1,18:36,01:24,Shot,Wrist Shot,64.0,-21.0,Carl Hagelin,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:44:20Z,1,18:57,01:03,Giveaway,n/a,-60.0,-25.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:43:58Z,1,19:01,00:59,Takeaway,n/a,9.0,-31.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:44:21Z,1,19:07,00:53,Faceoff,n/a,-20.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:44:35Z,1,19:13,00:47,Shot,Wrist Shot,-34.0,-35.0,Alexander Edler,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:45:01Z,1,19:13,00:47,Faceoff,n/a,-69.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:45:21Z,1,19:18,00:42,Shot,Deflected,-74.0,-6.0,J.T. Miller,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:45:42Z,1,19:39,00:21,Missed Shot,n/a,-34.0,31.0,Tyler Myers,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:46:01Z,1,19:48,00:12,Penalty,Slashing,-47.0,-9.0,Alex Ovechkin,PenaltyOn,Washington Capitals,Tyler Myers,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T02:46:23Z,1,19:48,00:12,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:05:26Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:05:43Z,2,00:28,19:32,Takeaway,n/a,23.0,-11.0,Quinn Hughes,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:06:05Z,2,00:47,19:13,Shot,Deflected,81.0,0.0,J.T. Miller,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:06:13Z,2,00:56,19:04,Shot,Wrist Shot,24.0,36.0,Nic Dowd,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:06:24Z,2,01:09,18:51,Giveaway,n/a,62.0,-37.0,Tanner Pearson,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:07:06Z,2,01:27,18:33,Faceoff,n/a,0.0,0.0,Brandon Sutter,Winner,Vancouver Canucks,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:07:37Z,2,01:55,18:05,Missed Shot,n/a,39.0,-12.0,Tyler Myers,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:08:12Z,2,02:30,17:30,Missed Shot,n/a,-39.0,-37.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:08:30Z,2,02:48,17:12,Takeaway,n/a,97.0,-24.0,Tim Schaller,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:08:40Z,2,02:58,17:02,Hit,n/a,44.0,35.0,Jay Beagle,Hitter,Vancouver Canucks,John Carlson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:08:43Z,2,03:01,16:59,Missed Shot,n/a,-50.0,-8.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:09:00Z,2,03:16,16:44,Blocked Shot,n/a,61.0,3.0,Michal Kempny,Blocker,Washington Capitals,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:09:24Z,2,03:16,16:44,Faceoff,n/a,69.0,22.0,J.T. Miller,Winner,Vancouver Canucks,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:09:43Z,2,03:30,16:30,Shot,Slap Shot,39.0,26.0,Alexander Edler,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:09:53Z,2,03:40,16:20,Hit,n/a,-75.0,-39.0,Tom Wilson,Hitter,Washington Capitals,Tyler Myers,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:10:24Z,2,04:11,15:49,Hit,n/a,-64.0,37.0,Tom Wilson,Hitter,Washington Capitals,Alexander Edler,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:11:01Z,2,04:11,15:49,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:11:22Z,2,04:25,15:35,Blocked Shot,n/a,-58.0,-25.0,Jake Virtanen,Blocker,Vancouver Canucks,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:11:37Z,2,04:40,15:20,Blocked Shot,n/a,-41.0,-13.0,Jake Virtanen,Blocker,Vancouver Canucks,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:11:41Z,2,04:43,15:17,Shot,Wrist Shot,-77.0,-7.0,Travis Boyd,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:12:01Z,2,04:43,15:17,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Jay Beagle,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:12:22Z,2,04:47,15:13,Blocked Shot,n/a,-53.0,-23.0,Tyler Motte,Blocker,Vancouver Canucks,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:12:34Z,2,05:00,15:00,Blocked Shot,n/a,-61.0,6.0,Tyler Motte,Blocker,Vancouver Canucks,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:12:44Z,2,05:09,14:51,Missed Shot,n/a,-37.0,-8.0,Garnet Hathaway,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:13:15Z,2,05:09,14:51,Faceoff,n/a,-69.0,-22.0,Brandon Sutter,Winner,Vancouver Canucks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:13:23Z,2,05:16,14:44,Hit,n/a,-95.0,2.0,Alex Ovechkin,Hitter,Washington Capitals,Alexander Edler,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:13:34Z,2,05:17,14:43,Faceoff,n/a,-69.0,-22.0,Brandon Sutter,Winner,Vancouver Canucks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:14:04Z,2,05:29,14:31,Takeaway,n/a,94.0,-24.0,J.T. Miller,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:14:36Z,2,05:59,14:01,Goal,Wrist Shot,66.0,-20.0,Elias Pettersson,Scorer,Vancouver Canucks,J.T. Miller,Assist,Vancouver Canucks,Brock Boeser,Assist,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals
+2019-10-26T03:15:19Z,2,05:59,14:01,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:16:07Z,2,06:14,13:46,Shot,Wrist Shot,-25.0,-3.0,Jordie Benn,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:16:07Z,2,06:15,13:45,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:16:32Z,2,06:40,13:20,Blocked Shot,n/a,48.0,14.0,Garnet Hathaway,Blocker,Washington Capitals,Jordie Benn,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:17:01Z,2,07:09,12:51,Missed Shot,n/a,72.0,2.0,Brandon Sutter,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:17:10Z,2,07:18,12:42,Missed Shot,n/a,69.0,-2.0,Josh Leivo,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:17:14Z,2,07:22,12:38,Giveaway,n/a,78.0,30.0,Josh Leivo,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:17:22Z,2,07:30,12:30,Shot,Wrist Shot,-65.0,0.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:17:37Z,2,07:45,12:15,Shot,Wrist Shot,-65.0,-11.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:17:48Z,2,07:56,12:04,Hit,n/a,-51.0,-38.0,Evgeny Kuznetsov,Hitter,Washington Capitals,Christopher Tanev,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:18:08Z,2,08:16,11:44,Blocked Shot,n/a,77.0,3.0,Jonas Siegenthaler,Blocker,Washington Capitals,Jake Virtanen,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:18:20Z,2,08:28,11:32,Shot,Wrist Shot,78.0,24.0,Micheal Ferland,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:18:37Z,2,08:45,11:15,Shot,Wrist Shot,75.0,19.0,Bo Horvat,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:18:43Z,2,08:51,11:09,Hit,n/a,41.0,32.0,Tyler Motte,Hitter,Vancouver Canucks,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:19:18Z,2,09:25,10:35,Shot,Wrist Shot,-53.0,-23.0,Michal Kempny,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:21:32Z,2,09:25,10:35,Faceoff,n/a,-69.0,-22.0,Brandon Sutter,Winner,Vancouver Canucks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:21:49Z,2,09:48,10:12,Shot,Snap Shot,67.0,25.0,Brandon Sutter,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:22:13Z,2,09:48,10:12,Faceoff,n/a,69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:22:36Z,2,10:03,09:57,Missed Shot,n/a,55.0,1.0,Bo Horvat,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:22:37Z,2,10:04,09:56,Giveaway,n/a,64.0,14.0,Jakub Vrana,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:22:40Z,2,10:07,09:53,Missed Shot,n/a,86.0,16.0,Josh Leivo,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:22:49Z,2,10:08,09:52,Shot,Backhand,87.0,11.0,Tanner Pearson,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:22:48Z,2,10:15,09:45,Hit,n/a,-14.0,-38.0,Tanner Pearson,Hitter,Vancouver Canucks,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:23:07Z,2,10:23,09:37,Penalty,Interference,-32.0,-36.0,Michal Kempny,PenaltyOn,Washington Capitals,Tanner Pearson,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:23:31Z,2,10:23,09:37,Faceoff,n/a,69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:24:01Z,2,10:38,09:22,Missed Shot,n/a,67.0,29.0,Elias Pettersson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:24:11Z,2,10:38,09:22,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:24:45Z,2,11:02,08:58,Blocked Shot,n/a,55.0,-9.0,Nic Dowd,Blocker,Washington Capitals,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:25:15Z,2,11:32,08:28,Shot,Deflected,77.0,-1.0,Bo Horvat,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:25:53Z,2,12:10,07:50,Missed Shot,n/a,53.0,12.0,Tanner Pearson,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:26:09Z,2,12:26,07:34,Blocked Shot,n/a,64.0,16.0,Radko Gudas,Blocker,Washington Capitals,Josh Leivo,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:26:41Z,2,12:40,07:20,Blocked Shot,n/a,72.0,-4.0,Radko Gudas,Blocker,Washington Capitals,Tyler Myers,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:28:34Z,2,12:40,07:20,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Elias Pettersson,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:29:28Z,2,13:16,06:44,Hit,n/a,11.0,-34.0,T.J. Oshie,Hitter,Washington Capitals,Tyler Myers,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:29:44Z,2,13:36,06:24,Blocked Shot,n/a,-83.0,5.0,Alexander Edler,Blocker,Vancouver Canucks,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:30:07Z,2,13:59,06:01,Blocked Shot,n/a,79.0,-16.0,John Carlson,Blocker,Washington Capitals,Tim Schaller,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:30:09Z,2,13:59,06:01,Goal,Slap Shot,76.0,-6.0,Tim Schaller,Scorer,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:31:09Z,2,13:59,06:01,Faceoff,n/a,0.0,0.0,Evgeny Kuznetsov,Winner,Washington Capitals,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:31:39Z,2,14:29,05:31,Hit,n/a,-57.0,37.0,Radko Gudas,Hitter,Washington Capitals,Tanner Pearson,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:32:06Z,2,14:54,05:06,Goal,Wrist Shot,69.0,-2.0,Jake Virtanen,Scorer,Vancouver Canucks,Bo Horvat,Assist,Vancouver Canucks,Micheal Ferland,Assist,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals
+2019-10-26T03:32:56Z,2,14:54,05:06,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:32:54Z,2,15:03,04:57,Hit,n/a,-93.0,-27.0,Garnet Hathaway,Hitter,Washington Capitals,Jordie Benn,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:33:42Z,2,15:35,04:25,Penalty,Tripping,-61.0,-15.0,Lars Eller,PenaltyOn,Washington Capitals,Troy Stecher,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:35:29Z,2,15:35,04:25,Faceoff,n/a,69.0,22.0,Nic Dowd,Winner,Washington Capitals,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:36:02Z,2,15:50,04:10,Shot,Wrist Shot,63.0,10.0,Bo Horvat,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:36:16Z,2,16:04,03:56,Shot,Slap Shot,37.0,3.0,Quinn Hughes,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:36:53Z,2,16:39,03:21,Blocked Shot,n/a,72.0,-7.0,Jonas Siegenthaler,Blocker,Washington Capitals,Brock Boeser,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:36:56Z,2,16:44,03:16,Missed Shot,n/a,32.0,-2.0,Quinn Hughes,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:37:50Z,2,17:38,02:22,Blocked Shot,n/a,75.0,-10.0,Travis Boyd,Blocker,Washington Capitals,Tyler Myers,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:38:51Z,2,17:46,02:14,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Tyler Motte,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:39:05Z,2,17:52,02:08,Hit,n/a,96.0,-20.0,Jay Beagle,Hitter,Vancouver Canucks,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:39:13Z,2,18:00,02:00,Blocked Shot,n/a,-75.0,-15.0,Jordie Benn,Blocker,Vancouver Canucks,Nicklas Backstrom,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:39:27Z,2,18:14,01:46,Hit,n/a,-93.0,-25.0,Alex Ovechkin,Hitter,Washington Capitals,Christopher Tanev,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:39:47Z,2,18:33,01:27,Missed Shot,n/a,-54.0,32.0,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:39:57Z,2,18:43,01:17,Giveaway,n/a,-37.0,-1.0,Alex Ovechkin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:41:06Z,2,19:26,00:34,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:41:21Z,2,19:36,00:24,Hit,n/a,98.0,-18.0,Micheal Ferland,Hitter,Vancouver Canucks,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:41:28Z,2,19:43,00:17,Missed Shot,n/a,37.0,30.0,Alexander Edler,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T03:41:49Z,2,19:59,00:01,Goal,Wrist Shot,-62.0,6.0,Evgeny Kuznetsov,Scorer,Washington Capitals,Lars Eller,Assist,Washington Capitals,Radko Gudas,Assist,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks
+2019-10-26T03:42:53Z,2,19:59,00:01,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:01:19Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Brandon Sutter,Winner,Vancouver Canucks,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:01:47Z,3,00:34,19:26,Giveaway,n/a,82.0,-4.0,Jacob Markstrom,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:02:20Z,3,00:57,19:03,Blocked Shot,n/a,83.0,5.0,Christopher Tanev,Blocker,Vancouver Canucks,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:02:40Z,3,01:08,18:52,Penalty,Hi-sticking,97.0,0.0,Jakub Vrana,PenaltyOn,Washington Capitals,Brandon Sutter,DrewBy,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:03:00Z,3,01:08,18:52,Faceoff,n/a,-69.0,-22.0,Bo Horvat,Winner,Vancouver Canucks,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:03:48Z,3,01:56,18:04,Takeaway,n/a,80.0,-37.0,Garnet Hathaway,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:03:50Z,3,01:57,18:03,Goal,Wrist Shot,77.0,2.0,Lars Eller,Scorer,Washington Capitals,Garnet Hathaway,Assist,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a
+2019-10-26T04:04:38Z,3,01:57,18:03,Faceoff,n/a,0.0,0.0,Brandon Sutter,Winner,Vancouver Canucks,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:05:15Z,3,02:31,17:29,Shot,Wrist Shot,-68.0,-5.0,Josh Leivo,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:06:12Z,3,03:28,16:32,Missed Shot,n/a,64.0,-31.0,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:06:22Z,3,03:38,16:22,Takeaway,n/a,65.0,-16.0,Quinn Hughes,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:06:54Z,3,04:09,15:51,Shot,Snap Shot,48.0,-11.0,Dmitry Orlov,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:07:20Z,3,04:09,15:51,Faceoff,n/a,69.0,-22.0,Micheal Ferland,Winner,Vancouver Canucks,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:08:19Z,3,04:57,15:03,Goal,Slap Shot,34.0,16.0,Michal Kempny,Scorer,Washington Capitals,Carl Hagelin,Assist,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a
+2019-10-26T04:09:10Z,3,04:57,15:03,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Elias Pettersson,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:09:20Z,3,05:13,14:47,Blocked Shot,n/a,71.0,8.0,Jordie Benn,Blocker,Vancouver Canucks,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:10:53Z,3,06:47,13:13,Hit,n/a,-5.0,40.0,Tyler Motte,Hitter,Vancouver Canucks,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:11:06Z,3,06:59,13:01,Hit,n/a,-78.0,-39.0,Dmitry Orlov,Hitter,Washington Capitals,Tim Schaller,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:11:17Z,3,07:11,12:49,Blocked Shot,n/a,76.0,-16.0,Alexander Edler,Blocker,Vancouver Canucks,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:13:30Z,3,07:16,12:44,Faceoff,n/a,-20.0,-22.0,J.T. Miller,Winner,Vancouver Canucks,Travis Boyd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:13:46Z,3,07:28,12:32,Hit,n/a,-76.0,-38.0,J.T. Miller,Hitter,Vancouver Canucks,Radko Gudas,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:13:58Z,3,07:38,12:22,Blocked Shot,n/a,76.0,7.0,J.T. Miller,Blocker,Vancouver Canucks,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:14:01Z,3,07:41,12:19,Goal,Slap Shot,36.0,7.0,Michal Kempny,Scorer,Washington Capitals,Brendan Leipsic,Assist,Washington Capitals,Travis Boyd,Assist,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks
+2019-10-26T04:15:38Z,3,07:41,12:19,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:16:27Z,3,07:56,12:04,Faceoff,n/a,-20.0,-22.0,Brandon Sutter,Winner,Vancouver Canucks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:17:07Z,3,08:33,11:27,Blocked Shot,n/a,-67.0,5.0,Nicklas Backstrom,Blocker,Washington Capitals,Brandon Sutter,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:17:19Z,3,08:44,11:16,Hit,n/a,70.0,-30.0,Alexander Edler,Hitter,Vancouver Canucks,John Carlson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:17:37Z,3,09:03,10:57,Blocked Shot,n/a,-48.0,-20.0,Tom Wilson,Blocker,Washington Capitals,Troy Stecher,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:17:51Z,3,09:17,10:43,Missed Shot,n/a,78.0,27.0,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:17:59Z,3,09:24,10:36,Shot,Backhand,75.0,1.0,Nick Jensen,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:19:33Z,3,10:59,09:01,Shot,Slap Shot,-62.0,-17.0,Micheal Ferland,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:21:33Z,3,11:00,09:00,Faceoff,n/a,-69.0,-22.0,Josh Leivo,Winner,Vancouver Canucks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:22:19Z,3,11:27,08:33,Shot,Wrist Shot,-69.0,18.0,Tanner Pearson,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:22:24Z,3,11:32,08:28,Shot,Wrap-around,-88.0,5.0,Josh Leivo,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:22:29Z,3,11:38,08:22,Blocked Shot,n/a,-70.0,-6.0,John Carlson,Blocker,Washington Capitals,Josh Leivo,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:22:48Z,3,11:56,08:04,Shot,Wrist Shot,88.0,-35.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:22:59Z,3,12:08,07:52,Blocked Shot,n/a,33.0,13.0,Tyler Motte,Blocker,Vancouver Canucks,Jonas Siegenthaler,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:23:21Z,3,12:30,07:30,Hit,n/a,-32.0,-36.0,J.T. Miller,Hitter,Vancouver Canucks,Nick Jensen,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:23:45Z,3,12:54,07:06,Hit,n/a,92.0,-30.0,Garnet Hathaway,Hitter,Washington Capitals,J.T. Miller,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:24:04Z,3,13:13,06:47,Hit,n/a,43.0,-39.0,Jordie Benn,Hitter,Vancouver Canucks,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:25:10Z,3,13:54,06:06,Faceoff,n/a,20.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Brandon Sutter,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:25:32Z,3,14:13,05:47,Shot,Slap Shot,-66.0,8.0,Brandon Sutter,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:25:49Z,3,14:31,05:29,Hit,n/a,51.0,0.0,Alex Ovechkin,Hitter,Washington Capitals,Brandon Sutter,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:27:45Z,3,14:44,05:16,Faceoff,n/a,-20.0,22.0,Jay Beagle,Winner,Vancouver Canucks,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:28:24Z,3,14:55,05:05,Hit,n/a,-83.0,34.0,Jay Beagle,Hitter,Vancouver Canucks,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:28:28Z,3,14:59,05:01,Missed Shot,n/a,-71.0,7.0,Jay Beagle,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:28:59Z,3,15:06,04:54,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,J.T. Miller,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:29:41Z,3,15:43,04:17,Hit,n/a,99.0,9.0,Garnet Hathaway,Hitter,Washington Capitals,Alexander Edler,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:30:24Z,3,16:25,03:35,Blocked Shot,n/a,51.0,0.0,Jake Virtanen,Blocker,Vancouver Canucks,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:30:28Z,3,16:30,03:30,Missed Shot,n/a,-63.0,25.0,Jake Virtanen,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:30:42Z,3,16:44,03:16,Missed Shot,n/a,-49.0,7.0,Josh Leivo,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:31:15Z,3,17:17,02:43,Giveaway,n/a,-12.0,-29.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:31:16Z,3,17:17,02:43,Shot,Wrist Shot,-71.0,17.0,Josh Leivo,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:31:41Z,3,17:17,02:43,Faceoff,n/a,-69.0,22.0,J.T. Miller,Winner,Vancouver Canucks,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:33:04Z,3,18:31,01:29,Giveaway,n/a,-82.0,32.0,Michal Kempny,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:33:08Z,3,18:35,01:25,Shot,Wrist Shot,-86.0,7.0,Tim Schaller,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:33:54Z,3,19:20,00:40,Takeaway,n/a,70.0,-35.0,Tyler Myers,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:34:09Z,3,19:35,00:25,Blocked Shot,n/a,-70.0,10.0,John Carlson,Blocker,Washington Capitals,Bo Horvat,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:34:18Z,3,19:44,00:16,Blocked Shot,n/a,-71.0,-5.0,John Carlson,Blocker,Washington Capitals,Alexander Edler,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:34:46Z,3,19:45,00:15,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:35:07Z,3,19:58,00:02,Hit,n/a,96.0,20.0,Garnet Hathaway,Hitter,Washington Capitals,Alexander Edler,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:37:10Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Bo Horvat,Winner,Vancouver Canucks,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:37:50Z,4,00:30,04:30,Shot,Wrist Shot,50.0,21.0,J.T. Miller,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:37:58Z,4,00:38,04:22,Shot,Wrist Shot,-73.0,-6.0,John Carlson,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:38:50Z,4,01:30,03:30,Shot,Slap Shot,53.0,26.0,Brock Boeser,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:39:03Z,4,01:42,03:18,Shot,Wrist Shot,-74.0,-17.0,Dmitry Orlov,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:39:09Z,4,01:49,03:11,Shot,Slap Shot,-40.0,3.0,Lars Eller,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:39:16Z,4,01:56,03:04,Giveaway,n/a,-57.0,-8.0,Christopher Tanev,PlayerID,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:39:23Z,4,02:03,02:57,Blocked Shot,n/a,-64.0,-16.0,Christopher Tanev,Blocker,Vancouver Canucks,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:40:01Z,4,02:26,02:34,Faceoff,n/a,69.0,22.0,Bo Horvat,Winner,Vancouver Canucks,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:40:34Z,4,02:48,02:12,Missed Shot,n/a,66.0,-8.0,J.T. Miller,Shooter,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:40:40Z,4,02:54,02:06,Shot,Wrist Shot,-49.0,-15.0,Alex Ovechkin,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:40:56Z,4,03:11,01:49,Shot,Wrist Shot,-64.0,-18.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:41:13Z,4,03:28,01:32,Missed Shot,n/a,-59.0,-37.0,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:41:24Z,4,03:39,01:21,Blocked Shot,n/a,-67.0,5.0,Alexander Edler,Blocker,Vancouver Canucks,Evgeny Kuznetsov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:41:45Z,4,03:58,01:02,Blocked Shot,n/a,-65.0,-8.0,Alexander Edler,Blocker,Vancouver Canucks,Tom Wilson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:42:05Z,4,03:58,01:02,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Bo Horvat,Loser,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:42:16Z,4,04:01,00:59,Shot,Wrist Shot,-53.0,-3.0,John Carlson,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:42:44Z,4,04:29,00:31,Hit,n/a,97.0,18.0,Tom Wilson,Hitter,Washington Capitals,Quinn Hughes,Hittee,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:42:54Z,4,04:39,00:21,Shot,Deflected,-73.0,6.0,Tom Wilson,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:45:14Z,5,00:00,00:00,Shot,Wrist Shot,-71.0,-1.0,Brock Boeser,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:45:48Z,5,00:00,00:00,Goal,Wrist Shot,71.0,0.0,T.J. Oshie,Scorer,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:46:16Z,5,00:00,00:00,Goal,Wrist Shot,-79.0,-6.0,Elias Pettersson,Scorer,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:46:48Z,5,00:00,00:00,Shot,Wrist Shot,84.0,5.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:47:18Z,5,00:00,00:00,Shot,Wrist Shot,-71.0,9.0,Tanner Pearson,Shooter,Vancouver Canucks,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-26T04:47:47Z,5,00:00,00:00,Goal,Wrist Shot,71.0,-5.0,Nicklas Backstrom,Scorer,Washington Capitals,Jacob Markstrom,Goalie,Vancouver Canucks,n/a,n/a,n/a,n/a,n/a,n/a

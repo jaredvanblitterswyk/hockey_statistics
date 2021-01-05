@@ -1,0 +1,293 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-03-01T00:15:13Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:15:37Z,1,00:12,19:48,Giveaway,n/a,-97.0,4.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:15:37Z,1,00:13,19:47,Shot,Wrist Shot,-78.0,6.0,Tyler Bertuzzi,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:16:11Z,1,00:48,19:12,Blocked Shot,n/a,79.0,-7.0,Trevor Daley,Blocker,Detroit Red Wings,Chris Tierney,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:16:47Z,1,01:17,18:43,Penalty,Slashing,18.0,-15.0,Sam Gagner,PenaltyOn,Detroit Red Wings,Nikita Zaitsev,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:17:28Z,1,01:17,18:43,Faceoff,n/a,69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Josh Norris,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:18:01Z,1,01:57,18:03,Blocked Shot,n/a,76.0,0.0,Patrik Nemeth,Blocker,Detroit Red Wings,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:18:13Z,1,02:08,17:52,Shot,Wrist Shot,80.0,-1.0,Brady Tkachuk,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:18:40Z,1,02:22,17:38,Shot,Wrap-around,85.0,-7.0,Brady Tkachuk,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:18:40Z,1,02:26,17:34,Shot,Deflected,81.0,1.0,Josh Norris,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:18:40Z,1,02:28,17:32,Missed Shot,n/a,84.0,-3.0,Connor Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:18:46Z,1,02:30,17:30,Shot,Snap Shot,62.0,3.0,Brady Tkachuk,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:19:13Z,1,02:31,17:29,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:19:20Z,1,02:39,17:21,Missed Shot,n/a,29.0,15.0,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:19:36Z,1,02:55,17:05,Missed Shot,n/a,79.0,25.0,Nick Paul,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:19:43Z,1,03:02,16:58,Blocked Shot,n/a,80.0,10.0,Filip Hronek,Blocker,Detroit Red Wings,Rudolfs Balcers,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:19:48Z,1,03:08,16:52,Shot,Wrist Shot,73.0,-13.0,Artem Anisimov,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:20:15Z,1,03:34,16:26,Blocked Shot,n/a,83.0,10.0,Trevor Daley,Blocker,Detroit Red Wings,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:20:23Z,1,03:42,16:18,Blocked Shot,n/a,80.0,12.0,Frans Nielsen,Blocker,Detroit Red Wings,Ron Hainsey,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:20:37Z,1,03:56,16:04,Takeaway,n/a,14.0,23.0,Adam Erne,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:20:48Z,1,03:59,16:01,Goal,Backhand,-82.0,-4.0,Frans Nielsen,Scorer,Detroit Red Wings,Adam Erne,Assist,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a
+2020-03-01T00:21:33Z,1,03:59,16:01,Faceoff,n/a,0.0,0.0,Josh Norris,Winner,Ottawa Senators,Sam Gagner,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:21:57Z,1,04:25,15:35,Shot,Wrist Shot,-74.0,-12.0,Anthony Mantha,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:22:10Z,1,04:32,15:28,Missed Shot,n/a,-31.0,-26.0,Patrik Nemeth,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:22:27Z,1,04:34,15:26,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:23:36Z,1,05:08,14:52,Faceoff,n/a,0.0,0.0,Luke Glendening,Winner,Detroit Red Wings,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:23:55Z,1,05:28,14:32,Blocked Shot,n/a,-52.0,-28.0,Jayce Hawryluk,Blocker,Ottawa Senators,Jonathan Ericsson,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:24:11Z,1,05:44,14:16,Hit,n/a,93.0,-26.0,Adam Erne,Hitter,Detroit Red Wings,Christian Jaros,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:24:20Z,1,05:53,14:07,Missed Shot,n/a,43.0,-26.0,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:24:44Z,1,06:17,13:43,Hit,n/a,-99.0,-8.0,Mike Reilly,Hitter,Ottawa Senators,Dmytro Timashov,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:25:07Z,1,06:38,13:22,Shot,Wrist Shot,-35.0,11.0,Filip Hronek,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:27:16Z,1,06:39,13:21,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:28:03Z,1,07:07,12:53,Blocked Shot,n/a,81.0,2.0,Trevor Daley,Blocker,Detroit Red Wings,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:28:12Z,1,07:17,12:43,Hit,n/a,-94.0,27.0,Dylan Larkin,Hitter,Detroit Red Wings,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:28:19Z,1,07:24,12:36,Shot,Wrist Shot,79.0,1.0,Brady Tkachuk,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:28:29Z,1,07:33,12:27,Hit,n/a,-95.0,27.0,Robby Fabbri,Hitter,Detroit Red Wings,Mike Reilly,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:28:38Z,1,07:41,12:19,Shot,Wrist Shot,60.0,-11.0,Josh Norris,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:29:06Z,1,07:42,12:18,Faceoff,n/a,69.0,-22.0,Valtteri Filppula,Winner,Detroit Red Wings,Josh Norris,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:29:33Z,1,07:46,12:14,Faceoff,n/a,69.0,-22.0,Valtteri Filppula,Winner,Detroit Red Wings,Josh Norris,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:30:11Z,1,08:07,11:53,Shot,Wrist Shot,69.0,35.0,Josh Norris,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:30:18Z,1,08:13,11:47,Hit,n/a,92.0,30.0,Alex Biega,Hitter,Detroit Red Wings,Josh Norris,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:30:52Z,1,08:17,11:43,Faceoff,n/a,-20.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Nick Paul,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:31:05Z,1,08:37,11:23,Takeaway,n/a,19.0,38.0,Artem Anisimov,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:31:14Z,1,08:46,11:14,Blocked Shot,n/a,89.0,5.0,Jonathan Ericsson,Blocker,Detroit Red Wings,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:31:17Z,1,08:49,11:11,Hit,n/a,-98.0,12.0,Christian Jaros,Hitter,Ottawa Senators,Darren Helm,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:23Z,1,09:09,10:51,Faceoff,n/a,-69.0,-22.0,Valtteri Filppula,Winner,Detroit Red Wings,Nick Paul,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:16Z,1,09:14,10:46,Shot,Snap Shot,-35.0,9.0,Filip Hronek,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:23Z,1,09:15,10:45,Faceoff,n/a,-69.0,22.0,Matthew Peca,Winner,Ottawa Senators,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:41Z,1,09:22,10:38,Hit,n/a,-97.0,1.0,Dmytro Timashov,Hitter,Detroit Red Wings,Ron Hainsey,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:52Z,1,09:33,10:27,Giveaway,n/a,10.0,-20.0,Valtteri Filppula,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:32:57Z,1,09:38,10:22,Hit,n/a,89.0,-33.0,Scott Sabourin,Hitter,Ottawa Senators,Dennis Cholowski,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:33:09Z,1,09:50,10:10,Shot,Backhand,79.0,8.0,Scott Sabourin,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:33:41Z,1,09:52,10:08,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:33:50Z,1,10:01,09:59,Missed Shot,n/a,57.0,19.0,Connor Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:34:01Z,1,10:12,09:48,Shot,Deflected,-88.0,14.0,Dylan Larkin,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:36:22Z,1,10:17,09:43,Faceoff,n/a,-69.0,22.0,Josh Norris,Winner,Ottawa Senators,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:36:30Z,1,10:27,09:33,Shot,Wrist Shot,-83.0,-23.0,Darren Helm,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:36:36Z,1,10:33,09:27,Shot,Wrist Shot,57.0,-35.0,Bobby Ryan,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:36:50Z,1,10:47,09:13,Blocked Shot,n/a,78.0,4.0,Jonathan Ericsson,Blocker,Detroit Red Wings,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:37:01Z,1,10:58,09:02,Missed Shot,n/a,-49.0,2.0,Luke Glendening,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:37:28Z,1,11:25,08:35,Hit,n/a,80.0,39.0,Nick Paul,Hitter,Ottawa Senators,Filip Hronek,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:37:43Z,1,11:40,08:20,Shot,Backhand,65.0,-33.0,Nick Paul,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:37:52Z,1,11:48,08:12,Giveaway,n/a,51.0,-39.0,Jayce Hawryluk,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:38:19Z,1,12:16,07:44,Giveaway,n/a,42.0,36.0,Frans Nielsen,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:38:21Z,1,12:18,07:42,Hit,n/a,81.0,-37.0,Matthew Peca,Hitter,Ottawa Senators,Dennis Cholowski,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:39:00Z,1,12:57,07:03,Shot,Wrist Shot,-67.0,41.0,Gustav Lindstrom,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:39:07Z,1,13:02,06:58,Blocked Shot,n/a,-67.0,0.0,Chris Tierney,Blocker,Ottawa Senators,Tyler Bertuzzi,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:39:54Z,1,13:47,06:13,Hit,n/a,-73.0,-40.0,Brady Tkachuk,Hitter,Ottawa Senators,Dylan Larkin,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:40:03Z,1,14:00,06:00,Hit,n/a,-56.0,40.0,Ron Hainsey,Hitter,Ottawa Senators,Luke Glendening,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:40:39Z,1,14:36,05:24,Missed Shot,n/a,-74.0,10.0,Sam Gagner,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:41:30Z,1,15:13,04:47,Penalty,Hooking,-24.0,-5.0,Nick Paul,PenaltyOn,Ottawa Senators,Dmytro Timashov,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:43:42Z,1,15:13,04:47,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:43:59Z,1,15:37,04:23,Missed Shot,n/a,-50.0,32.0,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:44:22Z,1,16:03,03:57,Shot,Deflected,-75.0,3.0,Sam Gagner,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:44:29Z,1,16:10,03:50,Blocked Shot,n/a,-72.0,12.0,Ron Hainsey,Blocker,Ottawa Senators,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:45:03Z,1,16:29,03:31,Faceoff,n/a,69.0,22.0,Valtteri Filppula,Winner,Detroit Red Wings,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:45:33Z,1,16:49,03:11,Giveaway,n/a,-95.0,-6.0,Andreas Englund,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:45:40Z,1,16:56,03:04,Shot,Wrist Shot,-72.0,-10.0,Robby Fabbri,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:45:54Z,1,17:10,02:50,Missed Shot,n/a,-55.0,-27.0,Gustav Lindstrom,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:46:25Z,1,17:41,02:19,Hit,n/a,-89.0,33.0,Luke Glendening,Hitter,Detroit Red Wings,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:46:29Z,1,17:45,02:15,Missed Shot,n/a,-57.0,28.0,Alex Biega,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:46:35Z,1,17:52,02:08,Blocked Shot,n/a,-76.0,-19.0,Bobby Ryan,Blocker,Ottawa Senators,Jonathan Ericsson,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:46:39Z,1,17:56,02:04,Blocked Shot,n/a,-33.0,2.0,Ron Hainsey,Blocker,Ottawa Senators,Luke Glendening,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:46:51Z,1,18:08,01:52,Missed Shot,n/a,-40.0,-25.0,Darren Helm,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:47:25Z,1,18:41,01:19,Blocked Shot,n/a,73.0,9.0,Nick Paul,Blocker,Ottawa Senators,Patrik Nemeth,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:47:27Z,1,18:43,01:17,Missed Shot,n/a,37.0,-24.0,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:48:23Z,1,18:53,01:07,Takeaway,n/a,-44.0,35.0,Artem Anisimov,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:47:39Z,1,18:55,01:05,Hit,n/a,-45.0,-41.0,Nick Paul,Hitter,Ottawa Senators,Tyler Bertuzzi,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T00:48:03Z,1,19:18,00:42,Hit,n/a,-47.0,40.0,Thomas Chabot,Hitter,Ottawa Senators,Dmytro Timashov,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:07:40Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Josh Norris,Winner,Ottawa Senators,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:08:06Z,2,00:35,19:25,Hit,n/a,-60.0,41.0,Bobby Ryan,Hitter,Ottawa Senators,Trevor Daley,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:08:14Z,2,00:43,19:17,Blocked Shot,n/a,66.0,-6.0,Thomas Chabot,Blocker,Ottawa Senators,Dylan Larkin,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:08:34Z,2,01:03,18:57,Shot,Tip-In,79.0,-1.0,Tyler Bertuzzi,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:09:15Z,2,01:24,18:36,Faceoff,n/a,-20.0,22.0,Valtteri Filppula,Winner,Detroit Red Wings,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:09:34Z,2,01:34,18:26,Giveaway,n/a,20.0,-38.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:09:38Z,2,01:42,18:18,Hit,n/a,97.0,0.0,Dmytro Timashov,Hitter,Detroit Red Wings,Ron Hainsey,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:10:04Z,2,02:08,17:52,Hit,n/a,-97.0,-11.0,Jayce Hawryluk,Hitter,Ottawa Senators,Patrik Nemeth,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:10:51Z,2,02:41,17:19,Missed Shot,n/a,-84.0,-12.0,Scott Sabourin,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:11:03Z,2,02:43,17:17,Faceoff,n/a,-69.0,22.0,Josh Norris,Winner,Ottawa Senators,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:11:19Z,2,02:49,17:11,Blocked Shot,n/a,-68.0,-5.0,Gustav Lindstrom,Blocker,Detroit Red Wings,Bobby Ryan,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:11:20Z,2,02:50,17:10,Hit,n/a,-75.0,-39.0,Adam Erne,Hitter,Detroit Red Wings,Mike Reilly,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:11:35Z,2,03:05,16:55,Hit,n/a,-79.0,-39.0,Gustav Lindstrom,Hitter,Detroit Red Wings,Josh Norris,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:11:51Z,2,03:21,16:39,Hit,n/a,97.0,-7.0,Mike Reilly,Hitter,Ottawa Senators,Adam Erne,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:00Z,2,03:30,16:30,Missed Shot,n/a,46.0,-3.0,Dylan Larkin,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:04Z,2,03:31,16:29,Shot,Wrist Shot,74.0,10.0,Robby Fabbri,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:21Z,2,03:32,16:28,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:12:41Z,2,03:43,16:17,Takeaway,n/a,-94.0,1.0,Connor Brown,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:13:05Z,2,04:06,15:54,Hit,n/a,-38.0,41.0,Robby Fabbri,Hitter,Detroit Red Wings,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:13:47Z,2,04:13,15:47,Giveaway,n/a,95.0,-4.0,Ron Hainsey,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:13:21Z,2,04:20,15:40,Blocked Shot,n/a,76.0,-7.0,Ron Hainsey,Blocker,Ottawa Senators,Filip Hronek,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:13:51Z,2,04:22,15:38,Faceoff,n/a,69.0,22.0,Valtteri Filppula,Winner,Detroit Red Wings,Nick Paul,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:13:21Z,2,04:23,15:37,Shot,Wrist Shot,71.0,39.0,Trevor Daley,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:14:16Z,2,04:51,15:09,Blocked Shot,n/a,76.0,-1.0,Nikita Zaitsev,Blocker,Ottawa Senators,Gustav Lindstrom,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:14:19Z,2,04:57,15:03,Hit,n/a,-90.0,34.0,Anthony Mantha,Hitter,Detroit Red Wings,Nick Paul,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:14:45Z,2,05:19,14:41,Hit,n/a,21.0,41.0,Andreas Englund,Hitter,Ottawa Senators,Sam Gagner,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:14:58Z,2,05:34,14:26,Blocked Shot,n/a,-70.0,13.0,Jonathan Ericsson,Blocker,Detroit Red Wings,Scott Sabourin,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:15:08Z,2,05:46,14:14,Hit,n/a,-95.0,23.0,Mikkel Boedker,Hitter,Ottawa Senators,Jonathan Ericsson,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:15:24Z,2,06:03,13:57,Hit,n/a,18.0,-41.0,Brady Tkachuk,Hitter,Ottawa Senators,Alex Biega,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:17:46Z,2,06:14,13:46,Faceoff,n/a,-20.0,-22.0,Brady Tkachuk,Winner,Ottawa Senators,Robby Fabbri,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:18:39Z,2,06:59,13:01,Goal,Wrist Shot,62.0,6.0,Dylan Larkin,Scorer,Detroit Red Wings,Tyler Bertuzzi,Assist,Detroit Red Wings,Robby Fabbri,Assist,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators
+2020-03-01T01:42:51Z,2,06:59,13:01,Faceoff,n/a,0.0,0.0,Luke Glendening,Winner,Detroit Red Wings,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:19:34Z,2,07:15,12:45,Shot,Wrist Shot,64.0,-10.0,Adam Erne,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:19:48Z,2,07:29,12:31,Hit,n/a,99.0,10.0,Nikita Zaitsev,Hitter,Ottawa Senators,Luke Glendening,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:19:57Z,2,07:33,12:27,Shot,Wrist Shot,58.0,5.0,Adam Erne,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:20:17Z,2,07:56,12:04,Blocked Shot,n/a,-77.0,-15.0,Valtteri Filppula,Blocker,Detroit Red Wings,Nick Paul,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:20:18Z,2,07:58,12:02,Shot,Wrist Shot,-80.0,-3.0,Artem Anisimov,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:42:51Z,2,07:59,12:01,Faceoff,n/a,-69.0,-22.0,Nick Paul,Winner,Ottawa Senators,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:20:50Z,2,08:09,11:51,Missed Shot,n/a,-42.0,32.0,Christian Jaros,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:21:15Z,2,08:34,11:26,Hit,n/a,76.0,-40.0,Sam Gagner,Hitter,Detroit Red Wings,Andreas Englund,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:21:21Z,2,08:40,11:20,Hit,n/a,29.0,-40.0,Nick Paul,Hitter,Ottawa Senators,Sam Gagner,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:21:53Z,2,08:53,11:07,Shot,Wrist Shot,49.0,35.0,Dennis Cholowski,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:22:00Z,2,08:54,11:06,Faceoff,n/a,69.0,22.0,Matthew Peca,Winner,Ottawa Senators,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:22:28Z,2,09:22,10:38,Hit,n/a,94.0,-25.0,Dmytro Timashov,Hitter,Detroit Red Wings,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:22:52Z,2,09:43,10:17,Blocked Shot,n/a,-68.0,-17.0,Filip Hronek,Blocker,Detroit Red Wings,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:23:04Z,2,09:43,10:17,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:23:18Z,2,09:48,10:12,Missed Shot,n/a,-35.0,-33.0,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:23:34Z,2,10:02,09:58,Giveaway,n/a,-86.0,16.0,Tyler Bertuzzi,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:23:50Z,2,10:15,09:45,Penalty,Tripping,-89.0,-6.0,Jonathan Bernier,PenaltyOn,Detroit Red Wings,Mike Reilly,DrewBy,Detroit Red Wings,Robby Fabbri,ServedBy,Ottawa Senators,n/a,n/a,n/a
+2020-03-01T01:25:47Z,2,10:15,09:45,Faceoff,n/a,-69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Josh Norris,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:26:34Z,2,10:48,09:12,Hit,n/a,-94.0,26.0,Alex Biega,Hitter,Detroit Red Wings,Josh Norris,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:27:10Z,2,11:24,08:36,Hit,n/a,-73.0,-39.0,Gustav Lindstrom,Hitter,Detroit Red Wings,Brady Tkachuk,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:27:23Z,2,11:36,08:24,Missed Shot,n/a,-85.0,-2.0,Connor Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:27:23Z,2,11:37,08:23,Missed Shot,n/a,-83.0,-7.0,Connor Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:27:42Z,2,11:57,08:03,Blocked Shot,n/a,-65.0,9.0,Valtteri Filppula,Blocker,Detroit Red Wings,Josh Norris,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:27:52Z,2,12:06,07:54,Missed Shot,n/a,-42.0,3.0,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:27:55Z,2,12:09,07:51,Shot,Backhand,-89.0,9.0,Brady Tkachuk,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:28:03Z,2,12:15,07:45,Blocked Shot,n/a,-63.0,1.0,Frans Nielsen,Blocker,Detroit Red Wings,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:28:33Z,2,12:19,07:41,Faceoff,n/a,-69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Nick Paul,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:28:46Z,2,12:27,07:33,Shot,Wrist Shot,-82.0,2.0,Artem Anisimov,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:28:53Z,2,12:29,07:31,Shot,Wrist Shot,-82.0,-4.0,Artem Anisimov,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:28:53Z,2,12:30,07:30,Blocked Shot,n/a,-86.0,0.0,Patrik Nemeth,Blocker,Detroit Red Wings,Nick Paul,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:29:03Z,2,12:31,07:29,Penalty,Hooking,-81.0,2.0,Alex Biega,PenaltyOn,Detroit Red Wings,Artem Anisimov,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:29:27Z,2,12:31,07:29,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:29:40Z,2,12:47,07:13,Blocked Shot,n/a,-76.0,0.0,Luke Glendening,Blocker,Detroit Red Wings,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:29:59Z,2,13:08,06:52,Shot,Wrist Shot,71.0,33.0,Darren Helm,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:30:40Z,2,13:38,06:22,Missed Shot,n/a,-82.0,-3.0,Rudolfs Balcers,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:30:35Z,2,13:42,06:18,Goal,Wrist Shot,-68.0,26.0,Artem Anisimov,Scorer,Ottawa Senators,Mike Reilly,Assist,Ottawa Senators,Chris Tierney,Assist,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings
+2020-03-01T01:31:19Z,2,13:42,06:18,Faceoff,n/a,0.0,0.0,Dylan Larkin,Winner,Detroit Red Wings,Josh Norris,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:31:29Z,2,13:55,06:05,Blocked Shot,n/a,-78.0,-5.0,Gustav Lindstrom,Blocker,Detroit Red Wings,Josh Norris,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:31:33Z,2,13:59,06:01,Shot,Wrist Shot,-83.0,8.0,Mikkel Boedker,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:32:13Z,2,14:00,06:00,Faceoff,n/a,-69.0,22.0,Valtteri Filppula,Winner,Detroit Red Wings,Josh Norris,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:32:59Z,2,14:54,05:06,Missed Shot,n/a,-87.0,5.0,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:33:07Z,2,14:54,05:06,Blocked Shot,n/a,-55.0,24.0,Anthony Mantha,Blocker,Detroit Red Wings,Bobby Ryan,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:33:06Z,2,15:03,04:57,Hit,n/a,-37.0,40.0,Rudolfs Balcers,Hitter,Ottawa Senators,Alex Biega,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:33:32Z,2,15:28,04:32,Hit,n/a,91.0,31.0,Dmytro Timashov,Hitter,Detroit Red Wings,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:33:39Z,2,15:35,04:25,Shot,Wrist Shot,-55.0,-16.0,Mike Reilly,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:33:39Z,2,15:40,04:20,Blocked Shot,n/a,-84.0,3.0,Filip Hronek,Blocker,Detroit Red Wings,Rudolfs Balcers,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:34:13Z,2,15:50,04:10,Faceoff,n/a,-69.0,-22.0,Frans Nielsen,Winner,Detroit Red Wings,Nick Paul,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:34:52Z,2,16:18,03:42,Hit,n/a,-6.0,25.0,Frans Nielsen,Hitter,Detroit Red Wings,Christian Jaros,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:35:05Z,2,16:30,03:30,Hit,n/a,-97.0,16.0,Jonathan Ericsson,Hitter,Detroit Red Wings,Artem Anisimov,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:35:35Z,2,17:00,03:00,Shot,Wrist Shot,-77.0,13.0,Mikkel Boedker,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:35:42Z,2,17:08,02:52,Missed Shot,n/a,-45.0,27.0,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:37:55Z,2,17:18,02:42,Faceoff,n/a,-69.0,22.0,Josh Norris,Winner,Ottawa Senators,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:38:34Z,2,17:31,02:29,Missed Shot,n/a,-45.0,-18.0,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:39:21Z,2,17:56,02:04,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Josh Norris,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:39:44Z,2,18:16,01:44,Blocked Shot,n/a,81.0,19.0,Bobby Ryan,Blocker,Ottawa Senators,Filip Hronek,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:40:09Z,2,18:40,01:20,Penalty,Hi-sticking,90.0,-31.0,Dylan Larkin,PenaltyOn,Detroit Red Wings,Thomas Chabot,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:40:56Z,2,18:40,01:20,Faceoff,n/a,-69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:41:11Z,2,18:59,01:01,Giveaway,n/a,81.0,-22.0,Chris Tierney,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:41:55Z,2,19:42,00:18,Blocked Shot,n/a,-57.0,-1.0,Valtteri Filppula,Blocker,Detroit Red Wings,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:42:05Z,2,19:52,00:08,Shot,Wrap-around,-89.0,-5.0,Bobby Ryan,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:42:12Z,2,19:53,00:07,Shot,Wrist Shot,-84.0,0.0,Bobby Ryan,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:42:29Z,2,19:53,00:07,Faceoff,n/a,-69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Josh Norris,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T01:42:51Z,2,19:59,00:01,Shot,Wrist Shot,-37.0,-36.0,Darren Helm,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:01:13Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Josh Norris,Winner,Ottawa Senators,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:01:50Z,3,00:30,19:30,Giveaway,n/a,85.0,34.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:01:55Z,3,00:35,19:25,Shot,Wrist Shot,64.0,40.0,Darren Helm,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:02:14Z,3,00:53,19:07,Shot,Wrist Shot,52.0,0.0,Artem Anisimov,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:02:34Z,3,00:54,19:06,Faceoff,n/a,69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Nick Paul,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:03:09Z,3,01:27,18:33,Hit,n/a,44.0,-40.0,Jayce Hawryluk,Hitter,Ottawa Senators,Dylan Larkin,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:03:22Z,3,01:41,18:19,Shot,Wrist Shot,67.0,-5.0,Scott Sabourin,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:03:31Z,3,01:48,18:12,Goal,Wrist Shot,86.0,5.0,Scott Sabourin,Scorer,Ottawa Senators,Matthew Peca,Assist,Ottawa Senators,Thomas Chabot,Assist,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings
+2020-03-01T02:04:24Z,3,01:48,18:12,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:04:53Z,3,02:14,17:46,Hit,n/a,-68.0,40.0,Thomas Chabot,Hitter,Ottawa Senators,Sam Gagner,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:05:20Z,3,02:41,17:19,Blocked Shot,n/a,-81.0,8.0,Mike Reilly,Blocker,Ottawa Senators,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:05:41Z,3,03:02,16:58,Blocked Shot,n/a,-83.0,-3.0,Nikita Zaitsev,Blocker,Ottawa Senators,Patrik Nemeth,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:05:56Z,3,03:15,16:45,Blocked Shot,n/a,-87.0,7.0,Mike Reilly,Blocker,Ottawa Senators,Darren Helm,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:06:36Z,3,03:15,16:45,Faceoff,n/a,-69.0,22.0,Nick Paul,Winner,Ottawa Senators,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:06:37Z,3,03:29,16:31,Hit,n/a,-61.0,-40.0,Dmytro Timashov,Hitter,Detroit Red Wings,Christian Jaros,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:06:47Z,3,03:37,16:23,Shot,Tip-In,83.0,-7.0,Artem Anisimov,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:06:53Z,3,03:40,16:20,Shot,Wrist Shot,79.0,3.0,Nick Paul,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:08:04Z,3,04:25,15:35,Faceoff,n/a,20.0,-22.0,Matthew Peca,Winner,Ottawa Senators,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:08:26Z,3,04:33,15:27,Faceoff,n/a,0.0,0.0,Matthew Peca,Winner,Ottawa Senators,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:08:47Z,3,04:49,15:11,Blocked Shot,n/a,75.0,8.0,Gustav Lindstrom,Blocker,Detroit Red Wings,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:09:13Z,3,05:18,14:42,Missed Shot,n/a,-52.0,-2.0,Sam Gagner,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:09:38Z,3,05:32,14:28,Faceoff,n/a,20.0,22.0,Josh Norris,Winner,Ottawa Senators,Robby Fabbri,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:10:03Z,3,05:38,14:22,Shot,Slap Shot,26.0,-37.0,Nikita Zaitsev,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:10:16Z,3,05:50,14:10,Shot,Wrist Shot,63.0,39.0,Brady Tkachuk,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:10:41Z,3,05:51,14:09,Faceoff,n/a,69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Nick Paul,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:11:03Z,3,06:09,13:51,Goal,Wrist Shot,78.0,5.0,Artem Anisimov,Scorer,Ottawa Senators,Jayce Hawryluk,Assist,Ottawa Senators,Nick Paul,Assist,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings
+2020-03-01T02:11:56Z,3,06:09,13:51,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Frans Nielsen,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:12:20Z,3,06:30,13:30,Shot,Wrist Shot,86.0,-29.0,Dennis Cholowski,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:12:47Z,3,06:35,13:25,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Sam Gagner,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:13:16Z,3,06:56,13:04,Shot,Wrist Shot,-14.0,38.0,Alex Biega,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:15:13Z,3,06:58,13:02,Faceoff,n/a,-69.0,22.0,Matthew Peca,Winner,Ottawa Senators,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:15:41Z,3,07:13,12:47,Missed Shot,n/a,-71.0,-20.0,Luke Glendening,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:15:49Z,3,07:24,12:36,Hit,n/a,42.0,-40.0,Scott Sabourin,Hitter,Ottawa Senators,Dennis Cholowski,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:16:06Z,3,07:27,12:33,Penalty,Tripping,-28.0,-40.0,Nikita Zaitsev,PenaltyOn,Ottawa Senators,Luke Glendening,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:16:29Z,3,07:27,12:33,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:16:31Z,3,07:34,12:26,Blocked Shot,n/a,-85.0,-12.0,Christian Jaros,Blocker,Ottawa Senators,Dylan Larkin,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:16:45Z,3,07:46,12:14,Goal,Tip-In,-66.0,-9.0,Sam Gagner,Scorer,Detroit Red Wings,Filip Hronek,Assist,Detroit Red Wings,Dylan Larkin,Assist,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators
+2020-03-01T02:17:29Z,3,07:46,12:14,Faceoff,n/a,0.0,0.0,Josh Norris,Winner,Ottawa Senators,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:17:36Z,3,07:59,12:01,Hit,n/a,98.0,-8.0,Josh Norris,Hitter,Ottawa Senators,Patrik Nemeth,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:17:47Z,3,08:10,11:50,Hit,n/a,9.0,-40.0,Bobby Ryan,Hitter,Ottawa Senators,Darren Helm,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:18:07Z,3,08:30,11:30,Shot,Wrist Shot,26.0,-38.0,Bobby Ryan,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:18:27Z,3,08:48,11:12,Blocked Shot,n/a,78.0,-10.0,Patrik Nemeth,Blocker,Detroit Red Wings,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:18:34Z,3,08:57,11:03,Shot,Backhand,-78.0,-1.0,Alex Biega,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:18:44Z,3,09:04,10:56,Giveaway,n/a,-63.0,-27.0,Nick Paul,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:18:50Z,3,09:13,10:47,Shot,Slap Shot,-38.0,28.0,Gustav Lindstrom,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:19:25Z,3,09:13,10:47,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:19:35Z,3,09:30,10:30,Takeaway,n/a,56.0,31.0,Dylan Larkin,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:19:41Z,3,09:34,10:26,Takeaway,n/a,-88.0,20.0,Nikita Zaitsev,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:19:52Z,3,09:44,10:16,Missed Shot,n/a,48.0,-35.0,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:20:06Z,3,09:59,10:01,Missed Shot,n/a,-49.0,-26.0,Dylan Larkin,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:20:19Z,3,10:13,09:47,Hit,n/a,-99.0,12.0,Thomas Chabot,Hitter,Ottawa Senators,Tyler Bertuzzi,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:20:40Z,3,10:35,09:25,Shot,Snap Shot,80.0,6.0,Mikkel Boedker,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:20:59Z,3,10:53,09:07,Shot,Wrist Shot,-51.0,39.0,Anthony Mantha,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:22:51Z,3,10:53,09:07,Faceoff,n/a,-69.0,22.0,Josh Norris,Winner,Ottawa Senators,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:23:31Z,3,11:00,09:00,Faceoff,n/a,-69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Josh Norris,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:23:45Z,3,11:07,08:53,Blocked Shot,n/a,-84.0,-10.0,Thomas Chabot,Blocker,Ottawa Senators,Patrik Nemeth,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:23:56Z,3,11:20,08:40,Hit,n/a,-92.0,-30.0,Josh Norris,Hitter,Ottawa Senators,Luke Glendening,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:24:00Z,3,11:24,08:36,Blocked Shot,n/a,-71.0,9.0,Brady Tkachuk,Blocker,Ottawa Senators,Alex Biega,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:24:05Z,3,11:29,08:31,Missed Shot,n/a,-74.0,8.0,Luke Glendening,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:24:05Z,3,11:29,08:31,Hit,n/a,-98.0,-7.0,Darren Helm,Hitter,Detroit Red Wings,Josh Norris,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:24:17Z,3,11:37,08:23,Hit,n/a,-11.0,40.0,Brady Tkachuk,Hitter,Ottawa Senators,Alex Biega,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:24:42Z,3,12:06,07:54,Shot,Slap Shot,32.0,-21.0,Jayce Hawryluk,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:25:34Z,3,12:58,07:02,Hit,n/a,89.0,34.0,Patrik Nemeth,Hitter,Detroit Red Wings,Rudolfs Balcers,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:25:49Z,3,13:13,06:47,Hit,n/a,13.0,-40.0,Bobby Ryan,Hitter,Ottawa Senators,Robby Fabbri,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:26:26Z,3,13:32,06:28,Faceoff,n/a,20.0,-22.0,Matthew Peca,Winner,Ottawa Senators,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:26:57Z,3,13:58,06:02,Shot,Snap Shot,-67.0,2.0,Anthony Mantha,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:27:10Z,3,14:11,05:49,Missed Shot,n/a,-89.0,-13.0,Sam Gagner,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:27:48Z,3,14:42,05:18,Faceoff,n/a,69.0,22.0,Josh Norris,Winner,Ottawa Senators,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:28:14Z,3,14:51,05:09,Blocked Shot,n/a,78.0,16.0,Adam Erne,Blocker,Detroit Red Wings,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:28:42Z,3,15:20,04:40,Hit,n/a,97.0,-8.0,Patrik Nemeth,Hitter,Detroit Red Wings,Josh Norris,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:28:48Z,3,15:27,04:33,Takeaway,n/a,67.0,-34.0,Jayce Hawryluk,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:29:32Z,3,16:12,03:48,Shot,Wrist Shot,-1.0,28.0,Thomas Chabot,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:30:18Z,3,16:56,03:04,Missed Shot,n/a,34.0,26.0,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:30:34Z,3,17:14,02:46,Blocked Shot,n/a,-66.0,4.0,Bobby Ryan,Blocker,Ottawa Senators,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:31:13Z,3,17:25,02:35,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:31:20Z,3,17:33,02:27,Blocked Shot,n/a,-85.0,6.0,Nikita Zaitsev,Blocker,Ottawa Senators,Filip Hronek,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:31:27Z,3,17:40,02:20,Hit,n/a,-60.0,38.0,Nikita Zaitsev,Hitter,Ottawa Senators,Dylan Larkin,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:31:41Z,3,17:48,02:12,Giveaway,n/a,-85.0,31.0,Robby Fabbri,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:32:02Z,3,18:12,01:48,Takeaway,n/a,-42.0,-37.0,Brady Tkachuk,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:32:32Z,3,18:45,01:15,Hit,n/a,90.0,-32.0,Patrik Nemeth,Hitter,Detroit Red Wings,Mikkel Boedker,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:32:53Z,3,19:02,00:58,Blocked Shot,n/a,52.0,-1.0,Valtteri Filppula,Blocker,Detroit Red Wings,Nick Paul,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:33:04Z,3,19:10,00:50,Takeaway,n/a,-56.0,37.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:33:42Z,3,19:29,00:31,Faceoff,n/a,69.0,22.0,Sam Gagner,Winner,Detroit Red Wings,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:33:57Z,3,19:38,00:22,Blocked Shot,n/a,-81.0,-6.0,Ron Hainsey,Blocker,Ottawa Senators,Sam Gagner,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:34:18Z,3,19:38,00:22,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:34:34Z,3,19:52,00:08,Missed Shot,n/a,-71.0,-20.0,Dylan Larkin,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:36:58Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Josh Norris,Winner,Ottawa Senators,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:37:49Z,4,00:55,04:05,Shot,Wrist Shot,-60.0,33.0,Thomas Chabot,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:38:56Z,4,02:02,02:58,Missed Shot,n/a,-62.0,-1.0,Connor Brown,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:38:59Z,4,02:05,02:55,Shot,Backhand,-80.0,1.0,Artem Anisimov,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:39:04Z,4,02:10,02:50,Missed Shot,n/a,-84.0,7.0,Artem Anisimov,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:39:05Z,4,02:11,02:49,Missed Shot,n/a,-52.0,18.0,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:39:24Z,4,02:26,02:34,Penalty,Tripping,-71.0,39.0,Robby Fabbri,PenaltyOn,Detroit Red Wings,Thomas Chabot,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:40:41Z,4,02:26,02:34,Faceoff,n/a,-69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,Josh Norris,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:41:13Z,4,02:34,02:26,Shot,Wrist Shot,-83.0,-10.0,Patrik Nemeth,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:41:34Z,4,02:55,02:05,Missed Shot,n/a,-75.0,-13.0,Bobby Ryan,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:42:01Z,4,03:22,01:38,Blocked Shot,n/a,-67.0,-2.0,Luke Glendening,Blocker,Detroit Red Wings,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:42:30Z,4,03:51,01:09,Giveaway,n/a,-15.0,2.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:43:06Z,4,04:27,00:33,Shot,Wrist Shot,-84.0,7.0,Brady Tkachuk,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:43:19Z,4,04:39,00:21,Shot,Wrist Shot,-80.0,-2.0,Artem Anisimov,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:43:33Z,4,04:53,00:07,Shot,Slap Shot,-66.0,15.0,Chris Tierney,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:43:41Z,4,05:00,00:00,Shot,Tip-In,-80.0,3.0,Chris Tierney,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:45:40Z,5,00:00,00:00,Missed Shot,n/a,79.0,1.0,Mike Reilly,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:46:09Z,5,00:00,00:00,Shot,Backhand,-80.0,4.0,Dylan Larkin,Shooter,Detroit Red Wings,Marcus Hogberg,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:46:36Z,5,00:00,00:00,Goal,Backhand,79.0,-2.0,Artem Anisimov,Scorer,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:47:06Z,5,00:00,00:00,Missed Shot,n/a,-85.0,8.0,Robby Fabbri,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:47:34Z,5,00:00,00:00,Shot,Wrist Shot,81.0,0.0,Bobby Ryan,Shooter,Ottawa Senators,Jonathan Bernier,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-01T02:48:07Z,5,00:00,00:00,Missed Shot,n/a,-78.0,0.0,Tyler Bertuzzi,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,237 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-16T00:08:00Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Carl Soderberg,Winner,Arizona Coyotes,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:08:33Z,1,00:16,19:44,Hit,n/a,12.0,16.0,Lawson Crouse,Hitter,Arizona Coyotes,Jack Roslovic,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:08:56Z,1,00:39,19:21,Blocked Shot,n/a,-70.0,12.0,Jakob Chychrun,Blocker,Arizona Coyotes,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:09:18Z,1,01:02,18:58,Hit,n/a,98.0,-6.0,Vinnie Hinostroza,Hitter,Arizona Coyotes,Carl Dahlstrom,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:10:21Z,1,01:15,18:45,Faceoff,n/a,-69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:10:58Z,1,01:55,18:05,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:11:11Z,1,02:00,18:00,Shot,Wrist Shot,1.0,39.0,Clayton Keller,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:11:51Z,1,02:39,17:21,Shot,Wrist Shot,5.0,-39.0,Jason Demers,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:11:58Z,1,02:49,17:11,Hit,n/a,81.0,38.0,Carl Soderberg,Hitter,Arizona Coyotes,Mark Scheifele,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:12:01Z,1,02:52,17:08,Shot,Wrist Shot,35.0,24.0,Jakob Chychrun,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:12:32Z,1,02:52,17:08,Faceoff,n/a,69.0,22.0,Adam Lowry,Winner,Winnipeg Jets,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:12:37Z,1,03:02,16:58,Takeaway,n/a,52.0,-36.0,Lawson Crouse,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:12:39Z,1,03:02,16:58,Shot,Wrist Shot,91.0,-16.0,Christian Fischer,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:14:48Z,1,04:55,15:05,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:15:38Z,1,05:37,14:23,Shot,Snap Shot,72.0,12.0,Alex Goligoski,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:16:27Z,1,05:51,14:09,Faceoff,n/a,20.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,David Gustafsson,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:16:36Z,1,06:02,13:58,Giveaway,n/a,39.0,35.0,Mason Appleton,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:16:39Z,1,06:04,13:56,Blocked Shot,n/a,66.0,11.0,David Gustafsson,Blocker,Winnipeg Jets,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:17:10Z,1,06:17,13:43,Faceoff,n/a,69.0,-22.0,David Gustafsson,Winner,Winnipeg Jets,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:17:29Z,1,06:30,13:30,Hit,n/a,59.0,-40.0,Gabriel Bourque,Hitter,Winnipeg Jets,Jason Demers,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:17:47Z,1,06:33,13:27,Penalty,Hooking,37.0,-25.0,Derek Stepan,PenaltyOn,Arizona Coyotes,David Gustafsson,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:20:19Z,1,06:33,13:27,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:20:05Z,1,06:41,13:19,Missed Shot,n/a,-74.0,-24.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:20:11Z,1,06:45,13:15,Shot,Slap Shot,-68.0,10.0,Mark Scheifele,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:20:37Z,1,07:11,12:49,Shot,Slap Shot,-69.0,-37.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:20:59Z,1,07:34,12:26,Missed Shot,n/a,-58.0,-25.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:21:11Z,1,07:35,12:25,Goal,Slap Shot,-80.0,0.0,Mark Scheifele,Scorer,Winnipeg Jets,Patrik Laine,Assist,Winnipeg Jets,Josh Morrissey,Assist,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes
+2019-10-16T00:21:55Z,1,07:35,12:25,Faceoff,n/a,0.0,0.0,Adam Lowry,Winner,Winnipeg Jets,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:22:02Z,1,07:45,12:15,Giveaway,n/a,-46.0,39.0,Darcy Kuemper,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:22:06Z,1,07:49,12:11,Shot,Slap Shot,-80.0,11.0,Adam Lowry,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:23:03Z,1,08:04,11:56,Faceoff,n/a,69.0,22.0,Andrew Copp,Winner,Winnipeg Jets,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:23:08Z,1,08:14,11:46,Shot,Wrist Shot,-50.0,-35.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:23:19Z,1,08:21,11:39,Blocked Shot,n/a,-52.0,-17.0,Conor Garland,Blocker,Arizona Coyotes,Carl Dahlstrom,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:23:42Z,1,08:23,11:37,Faceoff,n/a,-69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:24:08Z,1,08:29,11:31,Faceoff,n/a,-69.0,22.0,Andrew Copp,Winner,Winnipeg Jets,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:24:33Z,1,08:44,11:16,Shot,Wrist Shot,-35.0,-13.0,Anthony Bitetto,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:24:59Z,1,08:45,11:15,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:25:34Z,1,09:16,10:44,Hit,n/a,75.0,40.0,Tucker Poolman,Hitter,Winnipeg Jets,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:25:55Z,1,09:36,10:24,Shot,Slap Shot,-34.0,-12.0,Dmitry Kulikov,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:26:21Z,1,09:37,10:23,Faceoff,n/a,-69.0,-22.0,David Gustafsson,Winner,Winnipeg Jets,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:26:36Z,1,09:50,10:10,Shot,Wrist Shot,10.0,6.0,Jordan Oesterle,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:26:39Z,1,09:54,10:06,Giveaway,n/a,71.0,-39.0,Dmitry Kulikov,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:26:44Z,1,09:58,10:02,Shot,Slap Shot,42.0,-25.0,Jordan Oesterle,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:26:49Z,1,10:03,09:57,Shot,Wrist Shot,35.0,15.0,Kyle Capobianco,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:27:02Z,1,10:14,09:46,Takeaway,n/a,-93.0,37.0,Mason Appleton,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:27:29Z,1,10:43,09:17,Giveaway,n/a,7.0,-1.0,Jakob Chychrun,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:27:33Z,1,10:47,09:13,Shot,Slap Shot,-71.0,17.0,Jack Roslovic,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:27:37Z,1,10:51,09:09,Hit,n/a,-81.0,-38.0,Jack Roslovic,Hitter,Winnipeg Jets,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:28:09Z,1,11:23,08:37,Hit,n/a,-98.0,10.0,Brad Richardson,Hitter,Arizona Coyotes,Andrew Copp,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:28:16Z,1,11:30,08:30,Shot,Wrist Shot,-41.0,-32.0,Josh Morrissey,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:30:44Z,1,11:31,08:29,Faceoff,n/a,-69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:31:15Z,1,12:10,07:50,Giveaway,n/a,44.0,-38.0,Dmitry Kulikov,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:31:16Z,1,12:12,07:48,Missed Shot,n/a,65.0,-3.0,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:31:22Z,1,12:18,07:42,Shot,Slap Shot,41.0,13.0,Kyle Capobianco,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:31:25Z,1,12:19,07:41,Shot,Wrist Shot,80.0,1.0,Phil Kessel,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:31:53Z,1,12:21,07:39,Faceoff,n/a,20.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:32:28Z,1,12:56,07:04,Takeaway,n/a,-70.0,35.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:32:32Z,1,13:00,07:00,Missed Shot,n/a,-62.0,10.0,Blake Wheeler,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:32:52Z,1,13:11,06:49,Penalty,Hi-sticking,-72.0,10.0,Alex Goligoski,PenaltyOn,Arizona Coyotes,Blake Wheeler,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:33:32Z,1,13:11,06:49,Faceoff,n/a,-69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:34:45Z,1,14:31,05:29,Giveaway,n/a,-32.0,-18.0,Patrik Laine,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:35:14Z,1,15:00,05:00,Shot,Wrist Shot,-41.0,6.0,Carl Dahlstrom,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:35:35Z,1,15:01,04:59,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:36:14Z,1,15:24,04:36,Missed Shot,n/a,-62.0,16.0,Gabriel Bourque,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:38:43Z,1,16:00,04:00,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:39:02Z,1,16:05,03:55,Giveaway,n/a,-8.0,-31.0,Alex Goligoski,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:39:36Z,1,16:39,03:21,Hit,n/a,80.0,-39.0,Anthony Bitetto,Hitter,Winnipeg Jets,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:40:02Z,1,17:05,02:55,Hit,n/a,39.0,-39.0,Josh Morrissey,Hitter,Winnipeg Jets,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:40:11Z,1,17:14,02:46,Hit,n/a,96.0,-23.0,Lawson Crouse,Hitter,Arizona Coyotes,Tucker Poolman,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:40:50Z,1,17:54,02:06,Shot,Backhand,79.0,-19.0,Brad Richardson,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:41:11Z,1,18:14,01:46,Hit,n/a,43.0,39.0,Michael Grabner,Hitter,Arizona Coyotes,Neal Pionk,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:42:08Z,1,18:56,01:04,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:42:44Z,1,19:24,00:36,Shot,Wrist Shot,-37.0,-37.0,Anthony Bitetto,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:43:08Z,1,19:48,00:12,Hit,n/a,93.0,27.0,Conor Garland,Hitter,Arizona Coyotes,Mark Scheifele,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T00:43:19Z,1,19:52,00:08,Goal,Deflected,78.0,4.0,Conor Garland,Scorer,Arizona Coyotes,Oliver Ekman-Larsson,Assist,Arizona Coyotes,Nick Schmaltz,Assist,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets
+2019-10-16T00:44:06Z,1,19:52,00:08,Faceoff,n/a,0.0,0.0,Lawson Crouse,Winner,Arizona Coyotes,Patrik Laine,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:03:00Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Adam Lowry,Winner,Winnipeg Jets,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:03:05Z,2,00:17,19:43,Hit,n/a,31.0,39.0,Adam Lowry,Hitter,Winnipeg Jets,Carl Soderberg,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:03:08Z,2,00:21,19:39,Hit,n/a,1.0,39.0,Christian Fischer,Hitter,Arizona Coyotes,Anthony Bitetto,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:03:19Z,2,00:32,19:28,Blocked Shot,n/a,-70.0,-12.0,Dmitry Kulikov,Blocker,Winnipeg Jets,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:03:29Z,2,00:42,19:18,Blocked Shot,n/a,-70.0,-1.0,Anthony Bitetto,Blocker,Winnipeg Jets,Christian Fischer,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:04:04Z,2,01:17,18:43,Takeaway,n/a,90.0,-33.0,Andrew Copp,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:04:30Z,2,01:43,18:17,Hit,n/a,97.0,-18.0,Andrew Copp,Hitter,Winnipeg Jets,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:04:45Z,2,01:44,18:16,Giveaway,n/a,33.0,-37.0,Jakob Chychrun,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:04:34Z,2,01:46,18:14,Shot,Wrist Shot,31.0,8.0,Carl Dahlstrom,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:04:58Z,2,01:47,18:13,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:05:33Z,2,02:13,17:47,Shot,Wrist Shot,-75.0,-20.0,Phil Kessel,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:05:53Z,2,02:33,17:27,Missed Shot,n/a,-80.0,-2.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:06:10Z,2,02:49,17:11,Shot,Wrist Shot,-73.0,-15.0,Conor Garland,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:06:11Z,2,02:51,17:09,Giveaway,n/a,-41.0,-19.0,Neal Pionk,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:06:43Z,2,03:23,16:37,Shot,Wrist Shot,-34.0,23.0,Kyle Capobianco,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:06:58Z,2,03:38,16:22,Giveaway,n/a,-18.0,16.0,Neal Pionk,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:07:09Z,2,03:49,16:11,Hit,n/a,95.0,16.0,Adam Lowry,Hitter,Winnipeg Jets,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:07:22Z,2,04:02,15:58,Shot,Snap Shot,82.0,-10.0,Adam Lowry,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:07:31Z,2,04:11,15:49,Shot,Wrist Shot,56.0,20.0,Mathieu Perreault,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:07:58Z,2,04:12,15:48,Faceoff,n/a,69.0,22.0,Andrew Copp,Winner,Winnipeg Jets,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:08:33Z,2,04:36,15:24,Blocked Shot,n/a,-66.0,-12.0,Nikolaj Ehlers,Blocker,Winnipeg Jets,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:08:41Z,2,04:40,15:20,Penalty,Hi-sticking,-75.0,-39.0,Dmitry Kulikov,PenaltyOn,Winnipeg Jets,Vinnie Hinostroza,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:09:11Z,2,04:40,15:20,Faceoff,n/a,-69.0,22.0,Andrew Copp,Winner,Winnipeg Jets,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:09:24Z,2,04:54,15:06,Shot,Wrist Shot,-94.0,19.0,Josh Morrissey,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:09:36Z,2,05:11,14:49,Shot,Slap Shot,-51.0,-21.0,Phil Kessel,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:09:44Z,2,05:11,14:49,Goal,Wrist Shot,-78.0,-3.0,Christian Dvorak,Scorer,Arizona Coyotes,Phil Kessel,Assist,Arizona Coyotes,Oliver Ekman-Larsson,Assist,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets
+2019-10-16T01:10:41Z,2,05:11,14:49,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:10:37Z,2,05:25,14:35,Penalty,Slashing,-2.0,19.0,Mark Scheifele,PenaltyOn,Winnipeg Jets,Christian Dvorak,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:11:18Z,2,05:25,14:35,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:11:32Z,2,05:43,14:17,Shot,Wrist Shot,-57.0,26.0,Clayton Keller,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:11:45Z,2,05:44,14:16,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Andrew Copp,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:12:08Z,2,06:00,14:00,Shot,Wrist Shot,73.0,3.0,Adam Lowry,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:12:11Z,2,06:03,13:57,Giveaway,n/a,39.0,-19.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:12:20Z,2,06:12,13:48,Hit,n/a,39.0,39.0,Adam Lowry,Hitter,Winnipeg Jets,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:12:49Z,2,06:40,13:20,Takeaway,n/a,97.0,-1.0,Blake Wheeler,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:12:49Z,2,06:41,13:19,Shot,Wrist Shot,88.0,-21.0,Blake Wheeler,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:13:11Z,2,07:03,12:57,Shot,Wrist Shot,-33.0,-40.0,Jakob Chychrun,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:13:35Z,2,07:21,12:39,Goal,Wrist Shot,-62.0,14.0,Nick Schmaltz,Scorer,Arizona Coyotes,Jordan Oesterle,Assist,Arizona Coyotes,Carl Soderberg,Assist,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets
+2019-10-16T01:14:14Z,2,07:21,12:39,Faceoff,n/a,0.0,0.0,Vinnie Hinostroza,Winner,Arizona Coyotes,Nikolaj Ehlers,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:14:56Z,2,07:30,12:30,Giveaway,n/a,24.0,37.0,Jason Demers,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:15:00Z,2,07:34,12:26,Missed Shot,n/a,29.0,32.0,Josh Morrissey,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:15:05Z,2,07:37,12:23,Missed Shot,n/a,52.0,-39.0,Tucker Poolman,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:15:33Z,2,07:54,12:06,Penalty,Roughing,-15.0,39.0,Brad Richardson,PenaltyOn,Arizona Coyotes,Nikolaj Ehlers,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:17:44Z,2,07:54,12:06,Faceoff,n/a,69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:17:48Z,2,07:59,12:01,Giveaway,n/a,34.0,39.0,Jason Demers,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:17:53Z,2,08:03,11:57,Takeaway,n/a,83.0,37.0,Jason Demers,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:18:13Z,2,08:23,11:37,Shot,Slap Shot,66.0,-10.0,Mark Scheifele,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:18:24Z,2,08:34,11:26,Missed Shot,n/a,50.0,22.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:18:38Z,2,08:48,11:12,Blocked Shot,n/a,70.0,8.0,Christian Dvorak,Blocker,Arizona Coyotes,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:18:41Z,2,08:51,11:09,Takeaway,n/a,42.0,-10.0,Michael Grabner,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:19:02Z,2,09:12,10:48,Missed Shot,n/a,62.0,-24.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:19:28Z,2,09:38,10:22,Blocked Shot,n/a,65.0,12.0,Alex Goligoski,Blocker,Arizona Coyotes,Mark Scheifele,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:19:55Z,2,10:05,09:55,Shot,Wrist Shot,56.0,12.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:20:02Z,2,10:12,09:48,Shot,Snap Shot,-72.0,-14.0,Phil Kessel,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:20:24Z,2,10:17,09:43,Faceoff,n/a,-69.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Jack Roslovic,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:20:51Z,2,10:36,09:24,Missed Shot,n/a,-70.0,26.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:21:20Z,2,11:05,08:55,Shot,Wrist Shot,-88.0,-30.0,Jakob Chychrun,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:21:24Z,2,11:07,08:53,Hit,n/a,-94.0,4.0,Gabriel Bourque,Hitter,Winnipeg Jets,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:21:31Z,2,11:15,08:45,Hit,n/a,-97.0,24.0,Josh Morrissey,Hitter,Winnipeg Jets,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:24:06Z,2,11:20,08:40,Faceoff,n/a,-20.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:24:45Z,2,11:53,08:07,Hit,n/a,-94.0,-10.0,Dmitry Kulikov,Hitter,Winnipeg Jets,Lawson Crouse,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:24:53Z,2,12:01,07:59,Hit,n/a,-55.0,39.0,Mathieu Perreault,Hitter,Winnipeg Jets,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:24:57Z,2,12:05,07:55,Hit,n/a,-96.0,-25.0,Adam Lowry,Hitter,Winnipeg Jets,Carl Soderberg,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:25:01Z,2,12:09,07:51,Hit,n/a,-97.0,23.0,Lawson Crouse,Hitter,Arizona Coyotes,Dmitry Kulikov,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:25:03Z,2,12:10,07:50,Missed Shot,n/a,15.0,34.0,Mathieu Perreault,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:25:18Z,2,12:26,07:34,Missed Shot,n/a,-67.0,-17.0,Michael Grabner,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:25:36Z,2,12:43,07:17,Shot,Wrist Shot,37.0,-5.0,Patrik Laine,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:26:02Z,2,12:45,07:15,Faceoff,n/a,69.0,-22.0,Andrew Copp,Winner,Winnipeg Jets,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:26:19Z,2,12:59,07:01,Giveaway,n/a,66.0,27.0,Phil Kessel,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:26:21Z,2,13:00,07:00,Blocked Shot,n/a,67.0,17.0,Jordan Oesterle,Blocker,Arizona Coyotes,Kyle Connor,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:26:48Z,2,13:02,06:58,Faceoff,n/a,69.0,22.0,Andrew Copp,Winner,Winnipeg Jets,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:27:31Z,2,13:42,06:18,Shot,Slap Shot,47.0,17.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:27:41Z,2,13:52,06:08,Blocked Shot,n/a,64.0,-2.0,Jakob Chychrun,Blocker,Arizona Coyotes,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:27:54Z,2,14:05,05:55,Shot,Slap Shot,79.0,-23.0,Blake Wheeler,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:28:42Z,2,14:46,05:14,Shot,Backhand,81.0,28.0,Patrik Laine,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:28:53Z,2,14:59,05:01,Shot,Wrist Shot,-80.0,19.0,Brad Richardson,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:29:21Z,2,15:32,04:28,Hit,n/a,96.0,-14.0,Jordan Oesterle,Hitter,Arizona Coyotes,Mason Appleton,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:29:51Z,2,16:02,03:58,Shot,Wrist Shot,85.0,-32.0,Gabriel Bourque,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:29:58Z,2,16:09,03:51,Blocked Shot,n/a,68.0,7.0,Derek Stepan,Blocker,Arizona Coyotes,Carl Dahlstrom,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:30:04Z,2,16:15,03:45,Blocked Shot,n/a,65.0,12.0,Kyle Capobianco,Blocker,Arizona Coyotes,David Gustafsson,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:30:21Z,2,16:31,03:29,Hit,n/a,43.0,-38.0,Adam Lowry,Hitter,Winnipeg Jets,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:30:33Z,2,16:40,03:20,Shot,Wrist Shot,-37.0,37.0,Christian Fischer,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:30:39Z,2,16:43,03:17,Shot,Wrist Shot,-74.0,12.0,Christian Fischer,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:31:24Z,2,17:35,02:25,Blocked Shot,n/a,54.0,20.0,Christian Dvorak,Blocker,Arizona Coyotes,Nikolaj Ehlers,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:31:41Z,2,17:47,02:13,Goal,Wrist Shot,-79.0,11.0,Christian Dvorak,Scorer,Arizona Coyotes,Nick Schmaltz,Assist,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a
+2019-10-16T01:32:22Z,2,17:47,02:13,Faceoff,n/a,0.0,0.0,Mark Scheifele,Winner,Winnipeg Jets,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:32:32Z,2,18:00,02:00,Hit,n/a,96.0,21.0,Patrik Laine,Hitter,Winnipeg Jets,Jason Demers,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:32:44Z,2,18:11,01:49,Shot,Snap Shot,-68.0,34.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:35:05Z,2,18:13,01:47,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:35:27Z,2,18:35,01:25,Hit,n/a,-73.0,-38.0,Neal Pionk,Hitter,Winnipeg Jets,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:35:31Z,2,18:38,01:22,Giveaway,n/a,-94.0,24.0,Carl Dahlstrom,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:35:53Z,2,18:58,01:02,Missed Shot,n/a,31.0,-27.0,Tucker Poolman,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:36:02Z,2,19:09,00:51,Blocked Shot,n/a,66.0,-5.0,Jason Demers,Blocker,Arizona Coyotes,Nikolaj Ehlers,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:36:05Z,2,19:12,00:48,Giveaway,n/a,34.0,-15.0,Jason Demers,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:36:18Z,2,19:25,00:35,Giveaway,n/a,34.0,-36.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:36:52Z,2,19:58,00:02,Shot,Wrist Shot,14.0,-22.0,Josh Morrissey,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:55:37Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Adam Lowry,Winner,Winnipeg Jets,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:55:54Z,3,00:24,19:36,Hit,n/a,-50.0,38.0,Lawson Crouse,Hitter,Arizona Coyotes,Tucker Poolman,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:56:01Z,3,00:38,19:22,Blocked Shot,n/a,-56.0,-13.0,Oliver Ekman-Larsson,Blocker,Arizona Coyotes,Josh Morrissey,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:56:18Z,3,00:55,19:05,Missed Shot,n/a,-55.0,-12.0,Mathieu Perreault,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:56:22Z,3,00:59,19:01,Hit,n/a,-58.0,40.0,Lawson Crouse,Hitter,Arizona Coyotes,Tucker Poolman,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:56:32Z,3,01:08,18:52,Shot,Snap Shot,-46.0,-12.0,Blake Wheeler,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:56:39Z,3,01:16,18:44,Missed Shot,n/a,-59.0,-11.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:57:26Z,3,01:41,18:19,Faceoff,n/a,-20.0,22.0,Andrew Copp,Winner,Winnipeg Jets,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:57:35Z,3,01:50,18:10,Shot,Wrist Shot,48.0,-33.0,Phil Kessel,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:58:03Z,3,02:19,17:41,Shot,Deflected,-81.0,1.0,Andrew Copp,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:58:16Z,3,02:31,17:29,Hit,n/a,2.0,39.0,Andrew Copp,Hitter,Winnipeg Jets,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:58:47Z,3,02:40,17:20,Faceoff,n/a,-69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:59:12Z,3,02:55,17:05,Takeaway,n/a,-45.0,-33.0,Adam Lowry,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:59:32Z,3,03:03,16:57,Shot,Wrist Shot,39.0,32.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T01:59:48Z,3,03:04,16:56,Faceoff,n/a,69.0,22.0,Carl Soderberg,Winner,Arizona Coyotes,Mason Appleton,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:00:19Z,3,03:29,16:31,Hit,n/a,-97.0,16.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Mason Appleton,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:00:53Z,3,03:36,16:24,Faceoff,n/a,-69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Nick Schmaltz,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:01:06Z,3,03:43,16:17,Shot,Wrist Shot,-32.0,-16.0,Neal Pionk,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:01:12Z,3,03:45,16:15,Penalty,Hi stick - double minor,-57.0,-36.0,Conor Garland,PenaltyOn,Arizona Coyotes,Patrik Laine,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:01:51Z,3,03:45,16:15,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:02:25Z,3,04:04,15:56,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:03:07Z,3,04:34,15:26,Shot,Slap Shot,-65.0,-26.0,Mark Scheifele,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:03:15Z,3,04:42,15:18,Shot,Slap Shot,-81.0,37.0,Blake Wheeler,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:03:22Z,3,04:45,15:15,Shot,Wrist Shot,-79.0,5.0,Kyle Connor,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:03:38Z,3,04:58,15:02,Goal,Backhand,-83.0,-7.0,Kyle Connor,Scorer,Winnipeg Jets,Mark Scheifele,Assist,Winnipeg Jets,Josh Morrissey,Assist,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes
+2019-10-16T02:04:31Z,3,04:58,15:02,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:05:00Z,3,05:10,14:50,Faceoff,n/a,-20.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:06:12Z,3,06:26,13:34,Shot,Wrist Shot,-37.0,20.0,Neal Pionk,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:06:25Z,3,06:37,13:23,Missed Shot,n/a,-82.0,-5.0,Adam Lowry,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:06:40Z,3,06:54,13:06,Shot,Wrist Shot,-72.0,-33.0,Dmitry Kulikov,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:06:55Z,3,07:03,12:57,Blocked Shot,n/a,-67.0,-6.0,Jordan Oesterle,Blocker,Arizona Coyotes,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:07:21Z,3,07:32,12:28,Shot,Wrist Shot,58.0,27.0,Clayton Keller,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:09:34Z,3,07:33,12:27,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:09:39Z,3,07:36,12:24,Shot,Wrist Shot,61.0,30.0,Phil Kessel,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:09:50Z,3,07:37,12:23,Faceoff,n/a,69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:10:09Z,3,07:45,12:15,Shot,Wrist Shot,1.0,-41.0,Jack Roslovic,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:10:33Z,3,07:47,12:13,Faceoff,n/a,-69.0,-22.0,Nick Schmaltz,Winner,Arizona Coyotes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:10:45Z,3,07:58,12:02,Blocked Shot,n/a,-62.0,-5.0,Jason Demers,Blocker,Arizona Coyotes,Mark Scheifele,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:11:13Z,3,08:26,11:34,Giveaway,n/a,-53.0,34.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:12:41Z,3,09:54,10:06,Shot,Wrist Shot,-21.0,-17.0,Carl Dahlstrom,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:13:13Z,3,09:56,10:04,Faceoff,n/a,-69.0,-22.0,Adam Lowry,Winner,Winnipeg Jets,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:13:11Z,3,09:58,10:02,Shot,Slap Shot,-36.0,-13.0,Josh Morrissey,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:13:22Z,3,09:59,10:01,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:14:13Z,3,10:44,09:16,Hit,n/a,-97.0,-17.0,Adam Lowry,Hitter,Winnipeg Jets,Oliver Ekman-Larsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:14:54Z,3,11:25,08:35,Shot,Backhand,-79.0,-5.0,Jack Roslovic,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:15:46Z,3,12:18,07:42,Shot,Wrist Shot,64.0,-35.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:19:12Z,3,13:33,06:27,Faceoff,n/a,20.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:20:06Z,3,14:16,05:44,Penalty,Tripping,51.0,16.0,Nick Schmaltz,PenaltyOn,Arizona Coyotes,Neal Pionk,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:20:38Z,3,14:16,05:44,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:20:56Z,3,14:29,05:31,Shot,Slap Shot,-36.0,4.0,Josh Morrissey,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:21:12Z,3,14:30,05:30,Faceoff,n/a,-69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:21:45Z,3,14:55,05:05,Giveaway,n/a,-36.0,-20.0,Kyle Connor,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:23:07Z,3,16:17,03:43,Takeaway,n/a,-50.0,39.0,Phil Kessel,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:23:43Z,3,16:53,03:07,Shot,Snap Shot,71.0,-11.0,Brad Richardson,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:26:05Z,3,16:54,03:06,Faceoff,n/a,69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:26:49Z,3,17:30,02:30,Shot,Wrist Shot,7.0,-33.0,Jason Demers,Shooter,Arizona Coyotes,Connor Hellebuyck,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:27:41Z,3,17:50,02:10,Faceoff,n/a,-69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:28:42Z,3,18:47,01:13,Shot,Deflected,-81.0,-3.0,Mark Scheifele,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:28:49Z,3,18:50,01:10,Shot,Wrist Shot,-67.0,32.0,Blake Wheeler,Shooter,Winnipeg Jets,Darcy Kuemper,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:29:58Z,3,18:51,01:09,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:30:53Z,3,19:27,00:33,Hit,n/a,-48.0,-39.0,Jason Demers,Hitter,Arizona Coyotes,Patrik Laine,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:31:05Z,3,19:39,00:21,Blocked Shot,n/a,-79.0,9.0,Christian Dvorak,Blocker,Arizona Coyotes,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:31:22Z,3,19:51,00:09,Missed Shot,n/a,-67.0,-8.0,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-16T02:32:23Z,3,19:57,00:03,Faceoff,n/a,-20.0,-22.0,David Gustafsson,Winner,Winnipeg Jets,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a

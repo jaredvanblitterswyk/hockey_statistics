@@ -1,0 +1,265 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-09T01:07:49Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Ryan,Winner,Calgary Flames,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:08:32Z,1,00:18,19:42,Shot,Wrist Shot,50.0,14.0,Kyle Clifford,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:08:40Z,1,00:26,19:34,Missed Shot,n/a,71.0,-10.0,Trevor Lewis,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:08:52Z,1,00:32,19:28,Shot,Wrist Shot,74.0,32.0,Trevor Lewis,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:09:15Z,1,00:39,19:21,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Sam Bennett,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:10:14Z,1,00:49,19:11,Faceoff,n/a,20.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:10:29Z,1,01:09,18:51,Hit,n/a,-42.0,39.0,Sam Bennett,Hitter,Calgary Flames,Anze Kopitar,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:10:36Z,1,01:14,18:46,Hit,n/a,-49.0,-35.0,Matthew Tkachuk,Hitter,Calgary Flames,Drew Doughty,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:11:12Z,1,01:51,18:09,Shot,Snap Shot,49.0,28.0,Adrian Kempe,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:11:35Z,1,01:51,18:09,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:11:51Z,1,02:00,18:00,Shot,Wrist Shot,-38.0,-30.0,Elias Lindholm,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:11:59Z,1,02:04,17:56,Hit,n/a,46.0,-38.0,Sean Monahan,Hitter,Calgary Flames,Jeff Carter,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:12:24Z,1,02:31,17:29,Shot,Wrist Shot,59.0,5.0,Tyler Toffoli,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:12:40Z,1,02:31,17:29,Faceoff,n/a,69.0,22.0,Mark Jankowski,Winner,Calgary Flames,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:13:09Z,1,02:49,17:11,Shot,Wrist Shot,45.0,-29.0,Drew Doughty,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:13:17Z,1,02:53,17:07,Goal,Wrist Shot,58.0,-17.0,Tyler Toffoli,Scorer,Los Angeles Kings,Ilya Kovalchuk,Assist,Los Angeles Kings,Drew Doughty,Assist,Los Angeles Kings,David Rittich,Goalie,Calgary Flames
+2019-10-09T01:13:49Z,1,02:53,17:07,Faceoff,n/a,0.0,0.0,Michael Amadio,Winner,Los Angeles Kings,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:14:11Z,1,03:09,16:51,Takeaway,n/a,56.0,-31.0,Trevor Lewis,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:14:14Z,1,03:10,16:50,Takeaway,n/a,67.0,-33.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:14:43Z,1,03:43,16:17,Shot,Wrist Shot,57.0,-22.0,Anze Kopitar,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:15:06Z,1,03:52,16:08,Faceoff,n/a,69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Sam Bennett,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:15:59Z,1,04:32,15:28,Giveaway,n/a,-81.0,-38.0,Drew Doughty,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:16:10Z,1,04:45,15:15,Blocked Shot,n/a,-55.0,7.0,Alex Iafallo,Blocker,Los Angeles Kings,TJ Brodie,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:16:12Z,1,04:48,15:12,Hit,n/a,-92.0,-40.0,Mikael Backlund,Hitter,Calgary Flames,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:20:18Z,1,06:36,13:24,Faceoff,n/a,-20.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:20:42Z,1,06:55,13:05,Hit,n/a,-7.0,31.0,Adrian Kempe,Hitter,Los Angeles Kings,Sam Bennett,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:20:51Z,1,07:04,12:56,Blocked Shot,n/a,78.0,-14.0,Mark Giordano,Blocker,Calgary Flames,Jeff Carter,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:20:53Z,1,07:05,12:55,Hit,n/a,80.0,-22.0,Drew Doughty,Hitter,Los Angeles Kings,Mikael Backlund,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:21:11Z,1,07:08,12:52,Faceoff,n/a,-20.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:21:33Z,1,07:21,12:39,Giveaway,n/a,64.0,-37.0,David Rittich,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:21:36Z,1,07:23,12:37,Shot,Backhand,58.0,-16.0,Dustin Brown,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:21:44Z,1,07:23,12:37,Faceoff,n/a,69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:22:28Z,1,07:32,12:28,Faceoff,n/a,-69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:23:34Z,1,07:53,12:07,Shot,Snap Shot,73.0,-1.0,Alex Iafallo,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:23:00Z,1,07:54,12:06,Shot,Snap Shot,76.0,1.0,Alex Iafallo,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:23:34Z,1,07:54,12:06,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:23:47Z,1,08:06,11:54,Blocked Shot,n/a,-49.0,-13.0,Ben Hutton,Blocker,Los Angeles Kings,Derek Ryan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:23:54Z,1,08:07,11:53,Faceoff,n/a,-69.0,-22.0,Blake Lizotte,Winner,Los Angeles Kings,Andrew Mangiapane,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:24:51Z,1,08:16,11:44,Faceoff,n/a,-69.0,-22.0,Blake Lizotte,Winner,Los Angeles Kings,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:25:08Z,1,08:26,11:34,Missed Shot,n/a,-67.0,-12.0,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:25:11Z,1,08:29,11:31,Hit,n/a,-56.0,39.0,Kurtis MacDermid,Hitter,Los Angeles Kings,Rasmus Andersson,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:25:16Z,1,08:32,11:28,Hit,n/a,-86.0,36.0,Sam Bennett,Hitter,Calgary Flames,Blake Lizotte,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:25:23Z,1,08:33,11:27,Hit,n/a,-67.0,-31.0,Matthew Tkachuk,Hitter,Calgary Flames,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:25:35Z,1,08:35,11:25,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:26:05Z,1,08:57,11:03,Giveaway,n/a,-54.0,-39.0,Mark Giordano,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:26:46Z,1,09:12,10:48,Faceoff,n/a,0.0,0.0,Michael Amadio,Winner,Los Angeles Kings,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:27:43Z,1,10:12,09:48,Hit,n/a,-96.0,33.0,Milan Lucic,Hitter,Calgary Flames,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:28:23Z,1,10:27,09:33,Faceoff,n/a,-69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Sam Bennett,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:28:57Z,1,10:51,09:09,Shot,Wrist Shot,72.0,-29.0,Jeff Carter,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:31:09Z,1,11:00,09:00,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:32:03Z,1,11:14,08:46,Faceoff,n/a,-69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:32:19Z,1,11:24,08:36,Missed Shot,n/a,-51.0,28.0,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:32:49Z,1,11:54,08:06,Takeaway,n/a,-13.0,3.0,Anze Kopitar,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:32:52Z,1,11:57,08:03,Missed Shot,n/a,57.0,-5.0,Alex Iafallo,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:33:12Z,1,12:18,07:42,Hit,n/a,-41.0,-38.0,Matthew Tkachuk,Hitter,Calgary Flames,Drew Doughty,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:33:22Z,1,12:26,07:34,Shot,Wrist Shot,64.0,-26.0,Trevor Lewis,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:33:24Z,1,12:26,07:34,Giveaway,n/a,67.0,-10.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:33:58Z,1,12:26,07:34,Penalty,Roughing,51.0,-9.0,Kurtis MacDermid,PenaltyOn,Los Angeles Kings,Matthew Tkachuk,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:34:35Z,1,12:26,07:34,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:35:14Z,1,13:00,07:00,Missed Shot,n/a,-68.0,-9.0,Sean Monahan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:36:19Z,1,14:06,05:54,Shot,Wrist Shot,66.0,-18.0,Blake Lizotte,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:36:46Z,1,14:28,05:32,Giveaway,n/a,-49.0,30.0,Jack Campbell,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:36:49Z,1,14:36,05:24,Missed Shot,n/a,-67.0,8.0,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:36:57Z,1,14:43,05:17,Blocked Shot,n/a,-54.0,-9.0,Alec Martinez,Blocker,Los Angeles Kings,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:37:02Z,1,14:46,05:14,Hit,n/a,-15.0,40.0,Alec Martinez,Hitter,Los Angeles Kings,Michael Frolik,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:37:16Z,1,15:02,04:58,Blocked Shot,n/a,-57.0,2.0,Matt Roy,Blocker,Los Angeles Kings,Travis Hamonic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:37:50Z,1,15:36,04:24,Shot,Wrist Shot,49.0,5.0,Ben Hutton,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:39:30Z,1,15:36,04:24,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:40:23Z,1,15:48,04:12,Missed Shot,n/a,-52.0,-9.0,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:40:27Z,1,15:53,04:07,Giveaway,n/a,-86.0,39.0,Milan Lucic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:41:05Z,1,16:31,03:29,Missed Shot,n/a,66.0,-15.0,Adrian Kempe,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:41:12Z,1,16:35,03:25,Blocked Shot,n/a,55.0,4.0,Matthew Tkachuk,Blocker,Calgary Flames,Alec Martinez,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:41:23Z,1,16:45,03:15,Hit,n/a,-17.0,-21.0,Matt Roy,Hitter,Los Angeles Kings,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:41:22Z,1,16:47,03:13,Takeaway,n/a,-65.0,-32.0,Adrian Kempe,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:41:28Z,1,16:53,03:07,Shot,Wrist Shot,64.0,24.0,Ilya Kovalchuk,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:41:56Z,1,17:21,02:39,Takeaway,n/a,90.0,38.0,Tyler Toffoli,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:42:05Z,1,17:26,02:34,Goal,Wrist Shot,77.0,-36.0,Sean Walker,Scorer,Los Angeles Kings,Blake Lizotte,Assist,Los Angeles Kings,Tyler Toffoli,Assist,Los Angeles Kings,David Rittich,Goalie,Calgary Flames
+2019-10-09T01:42:37Z,1,17:26,02:34,Faceoff,n/a,0.0,0.0,Mark Jankowski,Winner,Calgary Flames,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:43:01Z,1,17:44,02:16,Blocked Shot,n/a,76.0,13.0,Travis Hamonic,Blocker,Calgary Flames,Michael Amadio,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:43:07Z,1,17:48,02:12,Shot,Wrist Shot,41.0,-11.0,Drew Doughty,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:43:23Z,1,17:50,02:10,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:44:17Z,1,18:18,01:42,Faceoff,n/a,69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:45:01Z,1,18:32,01:28,Faceoff,n/a,69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:45:56Z,1,19:19,00:41,Hit,n/a,-96.0,28.0,Sam Bennett,Hitter,Calgary Flames,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:45:58Z,1,19:21,00:39,Shot,Wrist Shot,-48.0,40.0,Rasmus Andersson,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:46:03Z,1,19:26,00:34,Shot,Wrist Shot,78.0,-1.0,Mikael Backlund,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:46:12Z,1,19:36,00:24,Shot,Slap Shot,55.0,-25.0,Michael Amadio,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:46:31Z,1,19:55,00:05,Blocked Shot,n/a,74.0,2.0,Oliver Kylington,Blocker,Calgary Flames,Tyler Toffoli,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:46:34Z,1,19:56,00:04,Shot,Wrist Shot,84.0,-22.0,Tyler Toffoli,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T01:46:38Z,1,19:59,00:01,Shot,Wrist Shot,72.0,16.0,Ben Hutton,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:05:09Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Michael Amadio,Winner,Los Angeles Kings,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:05:20Z,2,00:15,19:45,Shot,Snap Shot,-76.0,38.0,Trevor Lewis,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:05:35Z,2,00:29,19:31,Missed Shot,n/a,83.0,1.0,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:05:54Z,2,00:44,19:16,Penalty,Tripping,11.0,26.0,Dustin Brown,PenaltyOn,Los Angeles Kings,Johnny Gaudreau,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:06:15Z,2,00:44,19:16,Faceoff,n/a,69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:07:08Z,2,01:09,18:51,Blocked Shot,n/a,75.0,1.0,Matt Roy,Blocker,Los Angeles Kings,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:07:22Z,2,01:24,18:36,Missed Shot,n/a,59.0,-24.0,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:08:20Z,2,02:21,17:39,Shot,Wrist Shot,61.0,-20.0,Derek Ryan,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:09:18Z,2,03:02,16:58,Faceoff,n/a,20.0,-22.0,Adrian Kempe,Winner,Los Angeles Kings,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:10:03Z,2,03:43,16:17,Blocked Shot,n/a,-50.0,13.0,Tobias Rieder,Blocker,Calgary Flames,Adrian Kempe,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:10:11Z,2,03:46,16:14,Shot,Wrist Shot,-43.0,31.0,Adrian Kempe,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:10:19Z,2,03:46,16:14,Goal,Wrist Shot,-86.0,-2.0,Ilya Kovalchuk,Scorer,Los Angeles Kings,Adrian Kempe,Assist,Los Angeles Kings,Drew Doughty,Assist,Los Angeles Kings,David Rittich,Goalie,Calgary Flames
+2019-10-09T02:12:50Z,2,03:46,16:14,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:13:57Z,2,04:55,15:05,Takeaway,n/a,-50.0,8.0,Oliver Kylington,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:14:23Z,2,05:20,14:40,Takeaway,n/a,-49.0,30.0,Michael Amadio,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:14:27Z,2,05:25,14:35,Blocked Shot,n/a,-63.0,18.0,Oliver Kylington,Blocker,Calgary Flames,Michael Amadio,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:14:38Z,2,05:35,14:25,Hit,n/a,-37.0,-38.0,Kyle Clifford,Hitter,Los Angeles Kings,Rasmus Andersson,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:14:44Z,2,05:40,14:20,Hit,n/a,7.0,6.0,Andrew Mangiapane,Hitter,Calgary Flames,Michael Amadio,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:14:54Z,2,05:52,14:08,Hit,n/a,-94.0,-36.0,Trevor Lewis,Hitter,Los Angeles Kings,Rasmus Andersson,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:15:01Z,2,05:59,14:01,Shot,Wrist Shot,-49.0,-37.0,Kurtis MacDermid,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:15:08Z,2,06:06,13:54,Hit,n/a,4.0,2.0,Kurtis MacDermid,Hitter,Los Angeles Kings,Milan Lucic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:15:17Z,2,06:08,13:52,Shot,Backhand,80.0,10.0,Sam Bennett,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:15:14Z,2,06:09,13:51,Penalty,Fighting,64.0,-20.0,Milan Lucic,PenaltyOn,Calgary Flames,Kurtis MacDermid,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:15:23Z,2,06:09,13:51,Penalty,Fighting,13.0,2.0,Kurtis MacDermid,PenaltyOn,Los Angeles Kings,Milan Lucic,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:18:10Z,2,06:09,13:51,Faceoff,n/a,69.0,22.0,Mikael Backlund,Winner,Calgary Flames,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:25:14Z,2,06:15,13:45,Shot,Wrist Shot,71.0,34.0,Dustin Brown,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:18:17Z,2,06:17,13:43,Shot,Slap Shot,57.0,-35.0,TJ Brodie,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:18:52Z,2,06:52,13:08,Hit,n/a,-18.0,-36.0,Andrew Mangiapane,Hitter,Calgary Flames,Alex Iafallo,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:19:02Z,2,07:03,12:57,Hit,n/a,37.0,2.0,Sean Walker,Hitter,Los Angeles Kings,Tobias Rieder,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:19:13Z,2,07:13,12:47,Hit,n/a,11.0,40.0,Michael Frolik,Hitter,Calgary Flames,Trevor Lewis,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:19:50Z,2,07:50,12:10,Blocked Shot,n/a,73.0,1.0,Sean Walker,Blocker,Los Angeles Kings,Oliver Kylington,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:20:13Z,2,08:13,11:47,Takeaway,n/a,55.0,6.0,Dustin Brown,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:20:32Z,2,08:33,11:27,Hit,n/a,-95.0,-37.0,Rasmus Andersson,Hitter,Calgary Flames,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:20:52Z,2,08:53,11:07,Blocked Shot,n/a,66.0,-23.0,Anze Kopitar,Blocker,Los Angeles Kings,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:21:13Z,2,08:55,11:05,Faceoff,n/a,-20.0,-22.0,Adrian Kempe,Winner,Los Angeles Kings,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:22:16Z,2,09:45,10:15,Hit,n/a,-7.0,39.0,Sam Bennett,Hitter,Calgary Flames,Tobias Bjornfot,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:22:30Z,2,10:03,09:57,Hit,n/a,42.0,35.0,Matthew Tkachuk,Hitter,Calgary Flames,Kyle Clifford,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:23:00Z,2,10:33,09:27,Missed Shot,n/a,-52.0,13.0,Blake Lizotte,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:23:10Z,2,10:40,09:20,Blocked Shot,n/a,71.0,7.0,Matt Roy,Blocker,Los Angeles Kings,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:25:14Z,2,10:40,09:20,Faceoff,n/a,69.0,22.0,Mikael Backlund,Winner,Calgary Flames,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:25:31Z,2,10:47,09:13,Blocked Shot,n/a,48.0,13.0,Alex Iafallo,Blocker,Los Angeles Kings,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:25:38Z,2,10:49,09:11,Blocked Shot,n/a,44.0,-24.0,Alec Martinez,Blocker,Los Angeles Kings,TJ Brodie,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:26:18Z,2,10:50,09:10,Giveaway,n/a,51.0,-8.0,Anze Kopitar,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:25:43Z,2,10:51,09:09,Goal,Wrist Shot,63.0,6.0,Matthew Tkachuk,Scorer,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:26:18Z,2,10:51,09:09,Faceoff,n/a,0.0,0.0,Adrian Kempe,Winner,Los Angeles Kings,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:26:43Z,2,11:19,08:41,Hit,n/a,-38.0,-35.0,Ben Hutton,Hitter,Los Angeles Kings,Elias Lindholm,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:27:57Z,2,12:32,07:28,Shot,Wrist Shot,-73.0,-23.0,Jeff Carter,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:28:56Z,2,12:32,07:28,Faceoff,n/a,-69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:28:55Z,2,12:50,07:10,Blocked Shot,n/a,-70.0,-2.0,Rasmus Andersson,Blocker,Calgary Flames,Blake Lizotte,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:29:17Z,2,13:11,06:49,Hit,n/a,97.0,9.0,Milan Lucic,Hitter,Calgary Flames,Alec Martinez,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:29:26Z,2,13:20,06:40,Shot,Backhand,-86.0,6.0,Anze Kopitar,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:30:02Z,2,13:20,06:40,Faceoff,n/a,-69.0,22.0,Mikael Backlund,Winner,Calgary Flames,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:30:15Z,2,13:33,06:27,Shot,Backhand,82.0,-24.0,Noah Hanifin,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:30:20Z,2,13:33,06:27,Goal,Backhand,85.0,-25.0,Noah Hanifin,Scorer,Calgary Flames,Matthew Tkachuk,Assist,Calgary Flames,TJ Brodie,Assist,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings
+2019-10-09T02:30:50Z,2,13:33,06:27,Faceoff,n/a,0.0,0.0,Sean Monahan,Winner,Calgary Flames,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:31:19Z,2,13:37,06:23,Faceoff,n/a,0.0,0.0,Sean Monahan,Winner,Calgary Flames,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:31:36Z,2,13:51,06:09,Hit,n/a,85.0,-38.0,Elias Lindholm,Hitter,Calgary Flames,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:32:03Z,2,14:20,05:40,Giveaway,n/a,-50.0,-7.0,Elias Lindholm,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:32:03Z,2,14:21,05:39,Shot,Wrist Shot,-40.0,-22.0,Ben Hutton,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:32:12Z,2,14:30,05:30,Blocked Shot,n/a,-69.0,-15.0,Mark Giordano,Blocker,Calgary Flames,Ben Hutton,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:32:18Z,2,14:34,05:26,Hit,n/a,-30.0,-23.0,Dustin Brown,Hitter,Los Angeles Kings,Elias Lindholm,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:32:21Z,2,14:39,05:21,Shot,Wrist Shot,47.0,14.0,Sean Monahan,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:34:31Z,2,14:48,05:12,Faceoff,n/a,0.0,0.0,Mikael Backlund,Winner,Calgary Flames,Adrian Kempe,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:34:57Z,2,15:01,04:59,Hit,n/a,83.0,-37.0,Matthew Tkachuk,Hitter,Calgary Flames,Kurtis MacDermid,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:35:33Z,2,15:10,04:50,Faceoff,n/a,69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Tyler Toffoli,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:35:56Z,2,15:15,04:45,Shot,Wrist Shot,56.0,-20.0,Sam Bennett,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:36:01Z,2,15:19,04:41,Shot,Slap Shot,44.0,-29.0,Rasmus Andersson,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:36:06Z,2,15:24,04:36,Hit,n/a,-20.0,3.0,Rasmus Andersson,Hitter,Calgary Flames,Blake Lizotte,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:36:09Z,2,15:28,04:32,Shot,Wrist Shot,-84.0,-2.0,Tyler Toffoli,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:40:18Z,2,15:30,04:30,Blocked Shot,n/a,-87.0,-1.0,Rasmus Andersson,Blocker,Calgary Flames,Alex Iafallo,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:36:15Z,2,15:34,04:26,Missed Shot,n/a,-82.0,3.0,Blake Lizotte,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:36:29Z,2,15:48,04:12,Hit,n/a,-45.0,38.0,Milan Lucic,Hitter,Calgary Flames,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:36:57Z,2,16:16,03:44,Shot,Wrist Shot,71.0,3.0,Elias Lindholm,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:37:53Z,2,16:26,03:34,Faceoff,n/a,-20.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:38:41Z,2,17:06,02:54,Giveaway,n/a,-34.0,-11.0,David Rittich,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:39:05Z,2,17:32,02:28,Giveaway,n/a,-13.0,-22.0,Kyle Clifford,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:39:16Z,2,17:43,02:17,Takeaway,n/a,14.0,27.0,Derek Ryan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:39:19Z,2,17:46,02:14,Blocked Shot,n/a,68.0,14.0,Alec Martinez,Blocker,Los Angeles Kings,Milan Lucic,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:39:29Z,2,17:56,02:04,Hit,n/a,-21.0,-17.0,Milan Lucic,Hitter,Calgary Flames,Kyle Clifford,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:39:41Z,2,18:08,01:52,Hit,n/a,95.0,-11.0,Elias Lindholm,Hitter,Calgary Flames,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:40:02Z,2,18:29,01:31,Giveaway,n/a,33.0,-3.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:40:34Z,2,18:31,01:29,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Blake Lizotte,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:40:39Z,2,18:40,01:20,Shot,Snap Shot,75.0,27.0,Elias Lindholm,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:40:51Z,2,18:53,01:07,Shot,Wrist Shot,69.0,15.0,Sean Monahan,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:41:17Z,2,19:18,00:42,Shot,Wrist Shot,-64.0,34.0,Dustin Brown,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:41:35Z,2,19:18,00:42,Faceoff,n/a,-69.0,22.0,Michael Amadio,Winner,Los Angeles Kings,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:42:15Z,2,19:46,00:14,Hit,n/a,40.0,38.0,Matthew Tkachuk,Hitter,Calgary Flames,Drew Doughty,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:42:16Z,2,19:47,00:13,Missed Shot,n/a,29.0,39.0,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T02:43:37Z,2,19:49,00:11,Faceoff,n/a,69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:02:21Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Mikael Backlund,Winner,Calgary Flames,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:02:36Z,3,00:18,19:42,Hit,n/a,40.0,41.0,Kyle Clifford,Hitter,Los Angeles Kings,Travis Hamonic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:02:43Z,3,00:24,19:36,Shot,Snap Shot,51.0,-32.0,Kyle Clifford,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:02:47Z,3,00:26,19:34,Hit,n/a,49.0,38.0,Ben Hutton,Hitter,Los Angeles Kings,Mikael Backlund,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:02:47Z,3,00:28,19:32,Shot,Wrist Shot,59.0,-2.0,Michael Amadio,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:02:54Z,3,00:33,19:27,Shot,Wrist Shot,56.0,-35.0,Trevor Lewis,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:03:15Z,3,00:33,19:27,Faceoff,n/a,69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:04:01Z,3,01:11,18:49,Missed Shot,n/a,-66.0,21.0,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:04:17Z,3,01:11,18:49,Faceoff,n/a,-69.0,22.0,Adrian Kempe,Winner,Los Angeles Kings,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:04:30Z,3,01:18,18:42,Giveaway,n/a,-59.0,-39.0,Drew Doughty,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:04:54Z,3,01:43,18:17,Hit,n/a,-63.0,-38.0,Sam Bennett,Hitter,Calgary Flames,Drew Doughty,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:05:08Z,3,01:57,18:03,Shot,Wrist Shot,-52.0,-20.0,Sam Bennett,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:05:16Z,3,02:04,17:56,Shot,Snap Shot,71.0,24.0,Blake Lizotte,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:05:31Z,3,02:04,17:56,Penalty,Tripping,-93.0,-33.0,Sam Bennett,PenaltyOn,Calgary Flames,Drew Doughty,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:05:51Z,3,02:04,17:56,Faceoff,n/a,69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:06:08Z,3,02:15,17:45,Missed Shot,n/a,61.0,-23.0,Adrian Kempe,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:06:29Z,3,02:35,17:25,Giveaway,n/a,40.0,39.0,Travis Hamonic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:06:38Z,3,02:45,17:15,Missed Shot,n/a,82.0,-1.0,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:06:48Z,3,02:55,17:05,Blocked Shot,n/a,68.0,-2.0,Mark Jankowski,Blocker,Calgary Flames,Drew Doughty,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:06:59Z,3,03:07,16:53,Missed Shot,n/a,59.0,-26.0,Anze Kopitar,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:07:21Z,3,03:29,16:31,Giveaway,n/a,39.0,-36.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:07:56Z,3,04:04,15:56,Blocked Shot,n/a,6.0,12.0,Ilya Kovalchuk,Blocker,Los Angeles Kings,Tobias Rieder,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:08:05Z,3,04:13,15:47,Hit,n/a,-49.0,-38.0,Sean Walker,Hitter,Los Angeles Kings,Tobias Rieder,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:08:14Z,3,04:21,15:39,Missed Shot,n/a,0.0,6.0,Ben Hutton,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:08:23Z,3,04:30,15:30,Missed Shot,n/a,88.0,13.0,Blake Lizotte,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:08:44Z,3,04:51,15:09,Missed Shot,n/a,-38.0,-18.0,Oliver Kylington,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:09:12Z,3,04:51,15:09,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:09:58Z,3,05:12,14:48,Faceoff,n/a,20.0,22.0,Derek Ryan,Winner,Calgary Flames,Adrian Kempe,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:10:15Z,3,05:22,14:38,Shot,Wrist Shot,-62.0,37.0,Derek Ryan,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:10:26Z,3,05:33,14:27,Hit,n/a,-92.0,-36.0,Drew Doughty,Hitter,Los Angeles Kings,Milan Lucic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:10:48Z,3,05:54,14:06,Shot,Wrist Shot,-57.0,-36.0,Sam Bennett,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:11:08Z,3,05:54,14:06,Faceoff,n/a,-69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:11:53Z,3,06:23,13:37,Blocked Shot,n/a,-58.0,-22.0,Matt Roy,Blocker,Los Angeles Kings,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:13:46Z,3,06:23,13:37,Faceoff,n/a,-69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:14:23Z,3,06:30,13:30,Hit,n/a,-57.0,39.0,Matthew Tkachuk,Hitter,Calgary Flames,Alec Martinez,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:14:39Z,3,06:32,13:28,Faceoff,n/a,-20.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:14:54Z,3,06:43,13:17,Giveaway,n/a,-53.0,-37.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:15:11Z,3,06:59,13:01,Blocked Shot,n/a,-63.0,-3.0,Matt Roy,Blocker,Los Angeles Kings,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:16:00Z,3,07:46,12:14,Hit,n/a,-92.0,-37.0,Milan Lucic,Hitter,Calgary Flames,Michael Amadio,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:16:16Z,3,08:04,11:56,Hit,n/a,-30.0,-30.0,Drew Doughty,Hitter,Los Angeles Kings,Oliver Kylington,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:16:49Z,3,08:15,11:45,Faceoff,n/a,20.0,22.0,Andrew Mangiapane,Winner,Calgary Flames,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:17:19Z,3,08:21,11:39,Faceoff,n/a,69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:17:57Z,3,08:42,11:18,Takeaway,n/a,-71.0,8.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:18:01Z,3,08:48,11:12,Missed Shot,n/a,-79.0,0.0,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:18:43Z,3,09:29,10:31,Shot,Wrist Shot,-67.0,12.0,Rasmus Andersson,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:19:14Z,3,09:29,10:31,Faceoff,n/a,-69.0,22.0,Derek Ryan,Winner,Calgary Flames,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:19:25Z,3,09:37,10:23,Shot,Tip-In,-72.0,8.0,Derek Ryan,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:20:04Z,3,10:15,09:45,Shot,Wrist Shot,47.0,35.0,Alex Iafallo,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:20:12Z,3,10:24,09:36,Hit,n/a,14.0,-38.0,Milan Lucic,Hitter,Calgary Flames,Anze Kopitar,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:20:26Z,3,10:37,09:23,Hit,n/a,20.0,-33.0,Drew Doughty,Hitter,Los Angeles Kings,Milan Lucic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:20:58Z,3,11:09,08:51,Shot,Snap Shot,-76.0,-6.0,Sean Monahan,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:21:12Z,3,11:24,08:36,Giveaway,n/a,-53.0,30.0,Elias Lindholm,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:21:49Z,3,12:01,07:59,Blocked Shot,n/a,-61.0,2.0,Drew Doughty,Blocker,Los Angeles Kings,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:21:58Z,3,12:09,07:51,Missed Shot,n/a,-86.0,10.0,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:21:58Z,3,12:09,07:51,Shot,Tip-In,-80.0,6.0,Andrew Mangiapane,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:22:14Z,3,12:25,07:35,Shot,Wrist Shot,-61.0,10.0,Oliver Kylington,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:22:33Z,3,12:44,07:16,Hit,n/a,-31.0,-40.0,Tyler Toffoli,Hitter,Los Angeles Kings,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:23:20Z,3,13:32,06:28,Blocked Shot,n/a,-63.0,26.0,Alec Martinez,Blocker,Los Angeles Kings,Tobias Rieder,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:23:33Z,3,13:43,06:17,Hit,n/a,-28.0,40.0,Dustin Brown,Hitter,Los Angeles Kings,Travis Hamonic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:23:58Z,3,14:09,05:51,Shot,Slap Shot,-31.0,4.0,Rasmus Andersson,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:24:17Z,3,14:28,05:32,Takeaway,n/a,-13.0,-20.0,Jeff Carter,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:24:41Z,3,14:53,05:07,Blocked Shot,n/a,-62.0,18.0,Sean Walker,Blocker,Los Angeles Kings,Mikael Backlund,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:26:14Z,3,16:23,03:37,Hit,n/a,96.0,25.0,Jeff Carter,Hitter,Los Angeles Kings,Noah Hanifin,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:26:15Z,3,16:26,03:34,Missed Shot,n/a,65.0,40.0,Kyle Clifford,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:26:22Z,3,16:31,03:29,Hit,n/a,50.0,-30.0,Noah Hanifin,Hitter,Calgary Flames,Michael Amadio,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:26:26Z,3,16:37,03:23,Shot,Wrist Shot,-54.0,-7.0,Travis Hamonic,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:28:35Z,3,16:37,03:23,Faceoff,n/a,-69.0,-22.0,Mikael Backlund,Winner,Calgary Flames,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:29:04Z,3,16:45,03:15,Blocked Shot,n/a,-56.0,-5.0,Michael Amadio,Blocker,Los Angeles Kings,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:29:32Z,3,17:10,02:50,Shot,Slap Shot,-49.0,-30.0,Mark Giordano,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:29:59Z,3,17:10,02:50,Faceoff,n/a,-69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:30:20Z,3,17:22,02:38,Shot,Wrist Shot,69.0,2.0,Anze Kopitar,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:30:27Z,3,17:29,02:31,Blocked Shot,n/a,77.0,-11.0,Travis Hamonic,Blocker,Calgary Flames,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:30:49Z,3,17:50,02:10,Shot,Wrist Shot,41.0,22.0,Ben Hutton,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:32:46Z,3,17:50,02:10,Faceoff,n/a,69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:34:09Z,3,18:56,01:04,Shot,Slap Shot,-28.0,19.0,Rasmus Andersson,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:34:16Z,3,18:56,01:04,Goal,Tip-In,-87.0,6.0,Matthew Tkachuk,Scorer,Calgary Flames,Rasmus Andersson,Assist,Calgary Flames,Johnny Gaudreau,Assist,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings
+2019-10-09T03:35:26Z,3,18:56,01:04,Faceoff,n/a,0.0,0.0,Mikael Backlund,Winner,Calgary Flames,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:35:45Z,3,19:09,00:51,Hit,n/a,17.0,33.0,Alex Iafallo,Hitter,Los Angeles Kings,Travis Hamonic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:36:12Z,3,19:32,00:28,Penalty,Tripping,46.0,32.0,Sam Bennett,PenaltyOn,Calgary Flames,Anze Kopitar,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:36:54Z,3,19:32,00:28,Faceoff,n/a,69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:37:20Z,3,19:39,00:21,Shot,Wrist Shot,94.0,-7.0,Mark Giordano,Shooter,Calgary Flames,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:37:37Z,3,19:57,00:03,Shot,Wrist Shot,65.0,22.0,Michael Amadio,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:39:47Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Elias Lindholm,Winner,Calgary Flames,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:40:35Z,4,00:40,04:20,Shot,Slap Shot,-54.0,20.0,Drew Doughty,Shooter,Los Angeles Kings,David Rittich,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-09T03:40:48Z,4,00:50,04:10,Goal,Slap Shot,-62.0,-19.0,Drew Doughty,Scorer,Los Angeles Kings,Anze Kopitar,Assist,Los Angeles Kings,Ilya Kovalchuk,Assist,Los Angeles Kings,David Rittich,Goalie,Calgary Flames

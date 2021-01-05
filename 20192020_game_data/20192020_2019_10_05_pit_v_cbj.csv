@@ -1,0 +1,290 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-05T23:08:07Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:08:44Z,1,00:16,19:44,Hit,n/a,98.0,-26.0,Dominik Simon,Hitter,Pittsburgh Penguins,Seth Jones,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:08:51Z,1,00:23,19:37,Takeaway,n/a,60.0,25.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:09:21Z,1,00:54,19:06,Missed Shot,n/a,-66.0,26.0,Josh Anderson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:09:27Z,1,00:57,19:03,Hit,n/a,-72.0,-40.0,Alex Galchenyuk,Hitter,Pittsburgh Penguins,Zach Werenski,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:09:40Z,1,01:00,19:00,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:09:58Z,1,01:07,18:53,Missed Shot,n/a,-33.0,4.0,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:10:18Z,1,01:07,18:53,Penalty,Cross checking,-82.0,1.0,Josh Anderson,PenaltyOn,Columbus Blue Jackets,Justin Schultz,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:11:27Z,1,01:07,18:53,Faceoff,n/a,69.0,22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:12:11Z,1,01:54,18:06,Hit,n/a,79.0,-41.0,Riley Nash,Hitter,Columbus Blue Jackets,Alex Galchenyuk,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:12:57Z,1,02:10,17:50,Faceoff,n/a,20.0,-22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:18:02Z,1,02:30,17:30,Shot,Wrist Shot,50.0,-18.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:13:28Z,1,02:42,17:18,Shot,Wrist Shot,-78.0,3.0,Boone Jenner,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:14:04Z,1,03:08,16:52,Hit,n/a,-27.0,11.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Zach Werenski,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:14:11Z,1,03:25,16:35,Missed Shot,n/a,79.0,-11.0,Teddy Blueger,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:14:27Z,1,03:40,16:20,Missed Shot,n/a,42.0,-35.0,Dominik Kahun,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:14:34Z,1,03:47,16:13,Shot,Wrist Shot,62.0,12.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:14:49Z,1,03:50,16:10,Missed Shot,n/a,78.0,-36.0,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:14:56Z,1,04:10,15:50,Shot,Backhand,-46.0,-38.0,Cam Atkinson,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:15:09Z,1,04:14,15:46,Hit,n/a,-97.0,-13.0,Alexander Wennberg,Hitter,Columbus Blue Jackets,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:15:29Z,1,04:43,15:17,Blocked Shot,n/a,-64.0,1.0,Jack Johnson,Blocker,Pittsburgh Penguins,Emil Bemstrom,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:15:35Z,1,04:49,15:11,Hit,n/a,-19.0,-26.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Emil Bemstrom,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:16:07Z,1,04:49,15:11,Faceoff,n/a,-20.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:16:11Z,1,04:55,15:05,Shot,Wrist Shot,-56.0,-38.0,Ryan Murray,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:16:22Z,1,04:56,15:04,Faceoff,n/a,-69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:17:12Z,1,05:09,14:51,Faceoff,n/a,20.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:17:24Z,1,05:18,14:42,Hit,n/a,-18.0,39.0,Nick Bjugstad,Hitter,Pittsburgh Penguins,Nick Foligno,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:17:46Z,1,05:37,14:23,Giveaway,n/a,62.0,-39.0,Elvis Merzlikins,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:17:46Z,1,05:40,14:20,Shot,Wrist Shot,88.0,-4.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:18:47Z,1,05:41,14:19,Faceoff,n/a,69.0,-22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:19:05Z,1,05:51,14:09,Takeaway,n/a,-18.0,-1.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:19:22Z,1,05:59,14:01,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:19:48Z,1,06:15,13:45,Hit,n/a,-66.0,39.0,Brian Dumoulin,Hitter,Pittsburgh Penguins,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:20:06Z,1,06:36,13:24,Shot,Tip-In,56.0,-4.0,Brandon Tanev,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:20:25Z,1,06:55,13:05,Giveaway,n/a,98.0,-1.0,Seth Jones,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:20:53Z,1,07:22,12:38,Takeaway,n/a,-31.0,33.0,Dean Kukan,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:21:02Z,1,07:32,12:28,Missed Shot,n/a,-68.0,3.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:21:06Z,1,07:35,12:25,Missed Shot,n/a,-43.0,-39.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:21:09Z,1,07:37,12:23,Hit,n/a,-36.0,37.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Dean Kukan,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:21:20Z,1,07:49,12:11,Hit,n/a,94.0,-37.0,Dean Kukan,Hitter,Columbus Blue Jackets,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:21:30Z,1,07:59,12:01,Hit,n/a,-61.0,37.0,Justin Schultz,Hitter,Pittsburgh Penguins,Cam Atkinson,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:21:35Z,1,08:03,11:57,Hit,n/a,-90.0,39.0,Cam Atkinson,Hitter,Columbus Blue Jackets,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:22:01Z,1,08:31,11:29,Hit,n/a,-97.0,-27.0,Jakob Lilja,Hitter,Columbus Blue Jackets,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:22:12Z,1,08:42,11:18,Hit,n/a,97.0,-22.0,David Savard,Hitter,Columbus Blue Jackets,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:22:23Z,1,08:53,11:07,Hit,n/a,-95.0,34.0,Jakob Lilja,Hitter,Columbus Blue Jackets,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:22:49Z,1,09:19,10:41,Hit,n/a,-98.0,-33.0,Nick Foligno,Hitter,Columbus Blue Jackets,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:23:02Z,1,09:32,10:28,Hit,n/a,-7.0,40.0,Nick Foligno,Hitter,Columbus Blue Jackets,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:23:12Z,1,09:42,10:18,Missed Shot,n/a,78.0,-4.0,Jake Guentzel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:23:20Z,1,09:50,10:10,Shot,Wrist Shot,-43.0,-21.0,Nick Foligno,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:23:30Z,1,09:51,10:09,Hit,n/a,-80.0,-25.0,Erik Gudbranson,Hitter,Pittsburgh Penguins,Josh Anderson,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:23:23Z,1,09:52,10:08,Shot,Wrist Shot,-86.0,-11.0,Nick Foligno,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:23:43Z,1,10:13,09:47,Takeaway,n/a,-56.0,11.0,Jack Johnson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:23:53Z,1,10:23,09:37,Hit,n/a,98.0,4.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Dean Kukan,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:24:05Z,1,10:34,09:26,Hit,n/a,84.0,-35.0,Alex Galchenyuk,Hitter,Pittsburgh Penguins,Dean Kukan,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:24:14Z,1,10:43,09:17,Shot,Snap Shot,-61.0,18.0,Alexandre Texier,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:24:31Z,1,11:01,08:59,Hit,n/a,-97.0,35.0,Gustav Nyquist,Hitter,Columbus Blue Jackets,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:24:53Z,1,11:22,08:38,Hit,n/a,-97.0,-9.0,Cam Atkinson,Hitter,Columbus Blue Jackets,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:25:20Z,1,11:50,08:10,Hit,n/a,18.0,32.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Ryan Murray,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:25:25Z,1,11:55,08:05,Hit,n/a,98.0,24.0,Ryan Murray,Hitter,Columbus Blue Jackets,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:25:30Z,1,12:00,08:00,Shot,Snap Shot,56.0,37.0,Jared McCann,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:25:35Z,1,12:05,07:55,Hit,n/a,80.0,39.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Jakob Lilja,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:25:47Z,1,12:17,07:43,Hit,n/a,-97.0,-10.0,Emil Bemstrom,Hitter,Columbus Blue Jackets,Erik Gudbranson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:26:23Z,1,12:52,07:08,Shot,Wrist Shot,91.0,-15.0,Justin Schultz,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:26:34Z,1,13:03,06:57,Shot,Wrist Shot,82.0,4.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:26:38Z,1,13:07,06:53,Shot,Snap Shot,76.0,20.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:26:53Z,1,13:13,06:47,Hit,n/a,62.0,-36.0,Josh Anderson,Hitter,Columbus Blue Jackets,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:27:10Z,1,13:21,06:39,Penalty,Slashing,49.0,4.0,Nick Foligno,PenaltyOn,Columbus Blue Jackets,Jake Guentzel,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:31:33Z,1,13:21,06:39,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:29:34Z,1,13:45,06:15,Hit,n/a,97.0,-25.0,Ryan Murray,Hitter,Columbus Blue Jackets,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:29:50Z,1,14:00,06:00,Takeaway,n/a,-73.0,20.0,Alexander Wennberg,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:30:43Z,1,14:53,05:07,Shot,Snap Shot,52.0,-33.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:31:09Z,1,15:19,04:41,Blocked Shot,n/a,52.0,-2.0,Boone Jenner,Blocker,Columbus Blue Jackets,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:31:18Z,1,15:29,04:31,Hit,n/a,80.0,-40.0,Nick Foligno,Hitter,Columbus Blue Jackets,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:31:18Z,1,15:48,04:12,Blocked Shot,n/a,84.0,10.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Dominik Kahun,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:33:45Z,1,15:49,04:11,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:34:23Z,1,16:13,03:47,Hit,n/a,-55.0,-39.0,Oliver Bjorkstrand,Hitter,Columbus Blue Jackets,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:34:28Z,1,16:18,03:42,Shot,Snap Shot,61.0,-20.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:35:04Z,1,16:55,03:05,Hit,n/a,-97.0,17.0,Emil Bemstrom,Hitter,Columbus Blue Jackets,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:35:15Z,1,17:05,02:55,Hit,n/a,-65.0,38.0,Pierre-Luc Dubois,Hitter,Columbus Blue Jackets,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:35:22Z,1,17:13,02:47,Shot,Wrist Shot,-52.0,-32.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:35:42Z,1,17:19,02:41,Penalty,Holding,-97.0,-4.0,Brian Dumoulin,PenaltyOn,Pittsburgh Penguins,Pierre-Luc Dubois,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:37:27Z,1,17:19,02:41,Faceoff,n/a,-69.0,-22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:38:24Z,1,17:49,02:11,Hit,n/a,-99.0,4.0,Cam Atkinson,Hitter,Columbus Blue Jackets,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:38:32Z,1,17:57,02:03,Shot,Slap Shot,-31.0,0.0,Seth Jones,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:38:38Z,1,18:03,01:57,Shot,Wrist Shot,-88.0,-3.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:39:03Z,1,18:28,01:32,Hit,n/a,-50.0,-39.0,Erik Gudbranson,Hitter,Pittsburgh Penguins,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:39:43Z,1,18:33,01:27,Shot,Wrist Shot,-53.0,-23.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:39:10Z,1,18:35,01:25,Shot,Backhand,-84.0,-1.0,Alexander Wennberg,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:39:52Z,1,19:03,00:57,Hit,n/a,-44.0,-13.0,Jared McCann,Hitter,Pittsburgh Penguins,Emil Bemstrom,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:39:16Z,1,19:04,00:56,Shot,Wrist Shot,-30.0,-38.0,Nick Foligno,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:40:06Z,1,19:06,00:54,Faceoff,n/a,-69.0,-22.0,Nick Foligno,Winner,Columbus Blue Jackets,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:40:12Z,1,19:12,00:48,Hit,n/a,-72.0,37.0,Jack Johnson,Hitter,Pittsburgh Penguins,Oliver Bjorkstrand,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:40:21Z,1,19:21,00:39,Blocked Shot,n/a,-50.0,-2.0,Kris Letang,Blocker,Pittsburgh Penguins,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:41:02Z,1,19:58,00:02,Missed Shot,n/a,-33.0,-7.0,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:59:47Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-05T23:59:47Z,2,00:09,19:51,Faceoff,n/a,-20.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:00:09Z,2,00:21,19:39,Giveaway,n/a,-15.0,-20.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:00:15Z,2,00:27,19:33,Missed Shot,n/a,61.0,10.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:00:44Z,2,00:56,19:04,Blocked Shot,n/a,-53.0,9.0,Gustav Nyquist,Blocker,Columbus Blue Jackets,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:00:56Z,2,01:07,18:53,Missed Shot,n/a,-77.0,10.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:01:03Z,2,01:15,18:45,Takeaway,n/a,47.0,38.0,Justin Schultz,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:01:21Z,2,01:27,18:33,Hit,n/a,-9.0,-42.0,Nick Foligno,Hitter,Columbus Blue Jackets,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:01:31Z,2,01:29,18:31,Hit,n/a,69.0,-39.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Boone Jenner,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:01:29Z,2,01:41,18:19,Shot,Backhand,-71.0,-7.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:01:43Z,2,01:45,18:15,Goal,Wrist Shot,-79.0,-5.0,Patric Hornqvist,Scorer,Pittsburgh Penguins,Jack Johnson,Assist,Pittsburgh Penguins,Jared McCann,Assist,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets
+2019-10-06T00:02:17Z,2,01:45,18:15,Faceoff,n/a,0.0,0.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:02:43Z,2,02:09,17:51,Hit,n/a,-98.0,36.0,Oliver Bjorkstrand,Hitter,Columbus Blue Jackets,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:02:49Z,2,02:15,17:45,Hit,n/a,-92.0,37.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Vladislav Gavrikov,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:03:04Z,2,02:29,17:31,Shot,Wrist Shot,87.0,-16.0,Dean Kukan,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:03:27Z,2,02:52,17:08,Hit,n/a,-99.0,21.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Dean Kukan,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:03:47Z,2,03:12,16:48,Shot,Wrist Shot,-42.0,-30.0,Brian Dumoulin,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:04:01Z,2,03:26,16:34,Missed Shot,n/a,77.0,32.0,Jakob Lilja,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:04:03Z,2,03:28,16:32,Hit,n/a,30.0,-38.0,Emil Bemstrom,Hitter,Columbus Blue Jackets,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:04:24Z,2,03:49,16:11,Shot,Tip-In,-17.0,-5.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:04:28Z,2,03:53,16:07,Hit,n/a,-60.0,-39.0,Jake Guentzel,Hitter,Pittsburgh Penguins,Seth Jones,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:04:34Z,2,04:00,16:00,Blocked Shot,n/a,71.0,2.0,Justin Schultz,Blocker,Pittsburgh Penguins,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:04:43Z,2,04:09,15:51,Hit,n/a,-86.0,-38.0,David Savard,Hitter,Columbus Blue Jackets,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:04:49Z,2,04:12,15:48,Takeaway,n/a,-97.0,24.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:04:51Z,2,04:14,15:46,Goal,Snap Shot,-61.0,-14.0,Marcus Pettersson,Scorer,Pittsburgh Penguins,Sidney Crosby,Assist,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a
+2019-10-06T00:05:32Z,2,04:14,15:46,Faceoff,n/a,0.0,0.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:05:46Z,2,04:28,15:32,Takeaway,n/a,-13.0,-36.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:05:54Z,2,04:36,15:24,Hit,n/a,17.0,-38.0,Nick Foligno,Hitter,Columbus Blue Jackets,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:06:12Z,2,04:54,15:06,Shot,Wrist Shot,31.0,-4.0,Dean Kukan,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:06:30Z,2,05:12,14:48,Takeaway,n/a,48.0,-28.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:06:42Z,2,05:24,14:36,Giveaway,n/a,90.0,-24.0,Boone Jenner,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:06:48Z,2,05:30,14:30,Shot,Wrist Shot,-66.0,-34.0,Kris Letang,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:06:56Z,2,05:38,14:22,Blocked Shot,n/a,-76.0,2.0,Seth Jones,Blocker,Columbus Blue Jackets,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:07:07Z,2,05:49,14:11,Hit,n/a,58.0,39.0,Kris Letang,Hitter,Pittsburgh Penguins,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:07:51Z,2,06:11,13:49,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:08:14Z,2,06:25,13:35,Hit,n/a,-12.0,39.0,Jake Guentzel,Hitter,Pittsburgh Penguins,Jakob Lilja,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:08:20Z,2,06:31,13:29,Shot,Wrist Shot,70.0,34.0,Nick Foligno,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:08:27Z,2,06:38,13:22,Shot,Wrist Shot,85.0,-15.0,Nick Foligno,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:08:34Z,2,06:41,13:19,Shot,Wrist Shot,71.0,27.0,Jakob Lilja,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:08:46Z,2,06:44,13:16,Blocked Shot,n/a,71.0,3.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Riley Nash,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:08:46Z,2,06:45,13:15,Goal,Snap Shot,80.0,-8.0,Zach Werenski,Scorer,Columbus Blue Jackets,Riley Nash,Assist,Columbus Blue Jackets,Nick Foligno,Assist,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins
+2019-10-06T00:09:25Z,2,06:45,13:15,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:10:01Z,2,07:19,12:41,Hit,n/a,-98.0,14.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Dean Kukan,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:10:11Z,2,07:28,12:32,Blocked Shot,n/a,-49.0,-17.0,Pierre-Luc Dubois,Blocker,Columbus Blue Jackets,Brian Dumoulin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:10:32Z,2,07:39,12:21,Giveaway,n/a,-68.0,2.0,Gustav Nyquist,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:10:29Z,2,07:47,12:13,Missed Shot,n/a,-47.0,-25.0,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:10:46Z,2,08:03,11:57,Hit,n/a,-29.0,39.0,Vladislav Gavrikov,Hitter,Columbus Blue Jackets,Evgeni Malkin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:12:56Z,2,08:04,11:56,Faceoff,n/a,-20.0,22.0,Jared McCann,Winner,Pittsburgh Penguins,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:13:16Z,2,08:09,11:51,Faceoff,n/a,-20.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:13:39Z,2,08:26,11:34,Hit,n/a,96.0,-8.0,Boone Jenner,Hitter,Columbus Blue Jackets,Erik Gudbranson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:13:51Z,2,08:38,11:22,Hit,n/a,93.0,38.0,Jack Johnson,Hitter,Pittsburgh Penguins,Emil Bemstrom,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:14:00Z,2,08:45,11:15,Goal,Wrist Shot,-64.0,14.0,Jared McCann,Scorer,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:14:40Z,2,08:45,11:15,Faceoff,n/a,0.0,0.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:14:48Z,2,08:55,11:05,Hit,n/a,-3.0,-38.0,David Savard,Hitter,Columbus Blue Jackets,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:15:01Z,2,08:58,11:02,Hit,n/a,28.0,26.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Oliver Bjorkstrand,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:15:04Z,2,09:09,10:51,Shot,Snap Shot,31.0,-28.0,Zach Werenski,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:15:24Z,2,09:10,10:50,Faceoff,n/a,69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:15:56Z,2,09:25,10:35,Shot,Wrist Shot,-71.0,11.0,Dominik Simon,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:16:01Z,2,09:30,10:30,Shot,Wrist Shot,-73.0,4.0,Dominik Simon,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:16:08Z,2,09:38,10:22,Takeaway,n/a,6.0,-20.0,Zach Werenski,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:16:16Z,2,09:45,10:15,Blocked Shot,n/a,-70.0,11.0,David Savard,Blocker,Columbus Blue Jackets,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:16:35Z,2,10:04,09:56,Hit,n/a,-86.0,39.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Vladislav Gavrikov,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:16:54Z,2,10:23,09:37,Hit,n/a,69.0,-40.0,Alexandre Texier,Hitter,Columbus Blue Jackets,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:17:49Z,2,10:46,09:14,Hit,n/a,96.0,-22.0,Jack Johnson,Hitter,Pittsburgh Penguins,Oliver Bjorkstrand,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:17:18Z,2,10:47,09:13,Hit,n/a,81.0,-39.0,Alexandre Texier,Hitter,Columbus Blue Jackets,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:17:49Z,2,10:51,09:09,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:18:09Z,2,11:06,08:54,Hit,n/a,-96.0,-21.0,Nick Foligno,Hitter,Columbus Blue Jackets,Alex Galchenyuk,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:18:22Z,2,11:19,08:41,Hit,n/a,-97.0,-24.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Seth Jones,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:18:39Z,2,11:36,08:24,Hit,n/a,-12.0,-36.0,David Savard,Hitter,Columbus Blue Jackets,Patric Hornqvist,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:20:46Z,2,11:38,08:22,Faceoff,n/a,20.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:21:26Z,2,11:54,08:06,Hit,n/a,-66.0,4.0,Zach Werenski,Hitter,Columbus Blue Jackets,Sidney Crosby,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:21:41Z,2,11:59,08:01,Takeaway,n/a,-74.0,39.0,Jake Guentzel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:21:36Z,2,12:04,07:56,Blocked Shot,n/a,-60.0,-7.0,Jakob Lilja,Blocker,Columbus Blue Jackets,Brian Dumoulin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:21:45Z,2,12:13,07:47,Blocked Shot,n/a,-48.0,-7.0,Riley Nash,Blocker,Columbus Blue Jackets,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:21:49Z,2,12:17,07:43,Giveaway,n/a,-69.0,-10.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:22:10Z,2,12:38,07:22,Hit,n/a,31.0,-41.0,Brian Dumoulin,Hitter,Pittsburgh Penguins,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:22:59Z,2,13:00,07:00,Faceoff,n/a,-20.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:23:16Z,2,13:19,06:41,Shot,Snap Shot,55.0,-9.0,Nick Foligno,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:23:44Z,2,13:47,06:13,Shot,Slap Shot,47.0,21.0,David Savard,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:23:49Z,2,13:52,06:08,Hit,n/a,63.0,-38.0,Nick Foligno,Hitter,Columbus Blue Jackets,Alex Galchenyuk,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:24:11Z,2,14:14,05:46,Shot,Tip-In,77.0,5.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:24:20Z,2,14:18,05:42,Shot,Wrist Shot,79.0,-4.0,Oliver Bjorkstrand,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:24:22Z,2,14:25,05:35,Hit,n/a,65.0,-38.0,Nick Bjugstad,Hitter,Pittsburgh Penguins,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:24:37Z,2,14:39,05:21,Shot,Snap Shot,48.0,-13.0,Zach Werenski,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:26:53Z,2,14:40,05:20,Faceoff,n/a,69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:27:06Z,2,14:47,05:13,Hit,n/a,27.0,40.0,Pierre-Luc Dubois,Hitter,Columbus Blue Jackets,Dominik Simon,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:27:10Z,2,14:49,05:11,Blocked Shot,n/a,-56.0,-7.0,Ryan Murray,Blocker,Columbus Blue Jackets,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:27:27Z,2,14:50,05:10,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:27:38Z,2,14:57,05:03,Shot,Slap Shot,-72.0,24.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:27:42Z,2,15:01,04:59,Hit,n/a,-69.0,39.0,Pierre-Luc Dubois,Hitter,Columbus Blue Jackets,Jake Guentzel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:29:03Z,2,15:09,04:51,Penalty,Fighting,78.0,-34.0,Sidney Crosby,PenaltyOn,Pittsburgh Penguins,Pierre-Luc Dubois,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:29:16Z,2,15:09,04:51,Penalty,Fighting,82.0,-33.0,Pierre-Luc Dubois,PenaltyOn,Columbus Blue Jackets,Sidney Crosby,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:29:59Z,2,15:09,04:51,Faceoff,n/a,69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Alexandre Texier,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:30:09Z,2,15:18,04:42,Missed Shot,n/a,55.0,24.0,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:30:17Z,2,15:23,04:37,Goal,Snap Shot,-59.0,-16.0,Jared McCann,Scorer,Pittsburgh Penguins,Alex Galchenyuk,Assist,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a
+2019-10-06T00:31:39Z,2,15:23,04:37,Faceoff,n/a,0.0,0.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:32:17Z,2,15:44,04:16,Hit,n/a,-25.0,39.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:32:32Z,2,16:00,04:00,Blocked Shot,n/a,56.0,22.0,Patric Hornqvist,Blocker,Pittsburgh Penguins,Dean Kukan,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:32:44Z,2,16:11,03:49,Missed Shot,n/a,45.0,-30.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:32:46Z,2,16:14,03:46,Hit,n/a,-38.0,-40.0,Nick Bjugstad,Hitter,Pittsburgh Penguins,Vladislav Gavrikov,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:32:52Z,2,16:19,03:41,Hit,n/a,97.0,8.0,Oliver Bjorkstrand,Hitter,Columbus Blue Jackets,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:33:26Z,2,16:53,03:07,Blocked Shot,n/a,-62.0,-4.0,Riley Nash,Blocker,Columbus Blue Jackets,Jake Guentzel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:33:28Z,2,16:55,03:05,Hit,n/a,-94.0,37.0,Riley Nash,Hitter,Columbus Blue Jackets,Jake Guentzel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:34:04Z,2,17:32,02:28,Blocked Shot,n/a,57.0,-9.0,Brandon Tanev,Blocker,Pittsburgh Penguins,David Savard,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:34:24Z,2,17:43,02:17,Missed Shot,n/a,-65.0,17.0,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:34:50Z,2,17:47,02:13,Faceoff,n/a,20.0,22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:35:13Z,2,18:06,01:54,Hit,n/a,-72.0,-38.0,Seth Jones,Hitter,Columbus Blue Jackets,Dominik Kahun,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:35:20Z,2,18:12,01:48,Giveaway,n/a,-70.0,9.0,Elvis Merzlikins,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:36:26Z,2,18:12,01:48,Hit,n/a,-85.0,39.0,Patric Hornqvist,Hitter,Pittsburgh Penguins,Alexandre Texier,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:35:39Z,2,18:32,01:28,Hit,n/a,95.0,37.0,Josh Anderson,Hitter,Columbus Blue Jackets,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:36:13Z,2,18:41,01:19,Faceoff,n/a,20.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:36:36Z,2,18:48,01:12,Faceoff,n/a,-20.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:37:01Z,2,18:54,01:06,Shot,Wrist Shot,-3.0,23.0,Erik Gudbranson,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:37:24Z,2,18:55,01:05,Faceoff,n/a,-69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:37:30Z,2,19:04,00:56,Blocked Shot,n/a,-72.0,7.0,Seth Jones,Blocker,Columbus Blue Jackets,Erik Gudbranson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:37:54Z,2,19:28,00:32,Hit,n/a,79.0,-38.0,Oliver Bjorkstrand,Hitter,Columbus Blue Jackets,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:38:02Z,2,19:34,00:26,Penalty,Tripping,26.0,-20.0,Seth Jones,PenaltyOn,Columbus Blue Jackets,Jake Guentzel,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:38:42Z,2,19:34,00:26,Faceoff,n/a,-69.0,-22.0,Jared McCann,Winner,Pittsburgh Penguins,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:38:58Z,2,19:50,00:10,Shot,Tip-In,-68.0,8.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:39:09Z,2,19:58,00:02,Goal,Slap Shot,-66.0,21.0,Kris Letang,Scorer,Pittsburgh Penguins,Alex Galchenyuk,Assist,Pittsburgh Penguins,Justin Schultz,Assist,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets
+2019-10-06T00:39:51Z,2,19:58,00:02,Faceoff,n/a,0.0,0.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:58:53Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:58:33Z,3,00:08,19:52,Takeaway,n/a,-18.0,-11.0,Nick Bjugstad,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:58:39Z,3,00:14,19:46,Shot,Backhand,84.0,-10.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:58:47Z,3,00:14,19:46,Shot,Wrist Shot,40.0,-13.0,Kris Letang,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:59:21Z,3,00:15,19:45,Faceoff,n/a,69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:59:35Z,3,00:37,19:23,Missed Shot,n/a,45.0,-40.0,Erik Gudbranson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T00:59:56Z,3,00:58,19:02,Shot,Wrist Shot,78.0,-14.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:00:02Z,3,01:04,18:56,Shot,Snap Shot,30.0,-40.0,Justin Schultz,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:00:36Z,3,01:38,18:22,Hit,n/a,86.0,-31.0,Riley Nash,Hitter,Columbus Blue Jackets,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:01:23Z,3,02:24,17:36,Shot,Snap Shot,-50.0,-38.0,Alexandre Texier,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:01:49Z,3,02:25,17:35,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:02:04Z,3,02:39,17:21,Takeaway,n/a,-36.0,37.0,Gustav Nyquist,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:02:08Z,3,02:43,17:17,Shot,Wrist Shot,-75.0,-17.0,Cam Atkinson,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:02:28Z,3,02:55,17:05,Hit,n/a,22.0,-39.0,Gustav Nyquist,Hitter,Columbus Blue Jackets,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:03:12Z,3,03:08,16:52,Faceoff,n/a,0.0,0.0,Jared McCann,Winner,Pittsburgh Penguins,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:03:25Z,3,03:26,16:34,Blocked Shot,n/a,70.0,-5.0,David Savard,Blocker,Columbus Blue Jackets,Erik Gudbranson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:03:37Z,3,03:29,16:31,Hit,n/a,87.0,-39.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Dean Kukan,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:03:30Z,3,03:31,16:29,Hit,n/a,97.0,-27.0,Dean Kukan,Hitter,Columbus Blue Jackets,Brandon Tanev,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:03:48Z,3,03:49,16:11,Hit,n/a,-98.0,-24.0,Jack Johnson,Hitter,Pittsburgh Penguins,Josh Anderson,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:04:21Z,3,04:22,15:38,Missed Shot,n/a,64.0,-31.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:05:10Z,3,04:33,15:27,Faceoff,n/a,-69.0,-22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:05:06Z,3,04:39,15:21,Hit,n/a,-66.0,-40.0,Alexandre Texier,Hitter,Columbus Blue Jackets,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:06:23Z,3,05:50,14:10,Blocked Shot,n/a,73.0,7.0,Seth Jones,Blocker,Columbus Blue Jackets,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:06:20Z,3,05:53,14:07,Hit,n/a,88.0,40.0,Sidney Crosby,Hitter,Pittsburgh Penguins,Seth Jones,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:06:52Z,3,06:22,13:38,Hit,n/a,63.0,-11.0,Vladislav Gavrikov,Hitter,Columbus Blue Jackets,Alex Galchenyuk,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:07:17Z,3,06:50,13:10,Missed Shot,n/a,41.0,30.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:07:28Z,3,06:53,13:07,Hit,n/a,57.0,-39.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:09:35Z,3,07:03,12:57,Faceoff,n/a,20.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:10:44Z,3,07:43,12:17,Faceoff,n/a,-20.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:11:01Z,3,07:55,12:05,Shot,Tip-In,-20.0,-34.0,Nick Foligno,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:11:37Z,3,08:31,11:29,Hit,n/a,-97.0,26.0,Nick Foligno,Hitter,Columbus Blue Jackets,Jack Johnson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:11:48Z,3,08:32,11:28,Hit,n/a,-83.0,23.0,Jared McCann,Hitter,Pittsburgh Penguins,Boone Jenner,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:11:52Z,3,08:44,11:16,Shot,Wrist Shot,34.0,1.0,Jack Johnson,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:12:35Z,3,08:46,11:14,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:12:42Z,3,09:07,10:53,Hit,n/a,-86.0,39.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Oliver Bjorkstrand,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:13:09Z,3,09:34,10:26,Missed Shot,n/a,52.0,23.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:13:30Z,3,09:50,10:10,Goal,Wrist Shot,68.0,-16.0,Patric Hornqvist,Scorer,Pittsburgh Penguins,Sidney Crosby,Assist,Pittsburgh Penguins,Jake Guentzel,Assist,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets
+2019-10-06T01:14:16Z,3,09:50,10:10,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:14:41Z,3,10:23,09:37,Shot,Backhand,84.0,-3.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:14:50Z,3,10:32,09:28,Shot,Tip-In,65.0,6.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:15:03Z,3,10:45,09:15,Takeaway,n/a,-17.0,-20.0,Jared McCann,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:15:18Z,3,10:47,09:13,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:15:18Z,3,10:48,09:12,Shot,Wrist Shot,-67.0,-17.0,Boone Jenner,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:15:37Z,3,10:53,09:07,Hit,n/a,-47.0,40.0,Alex Galchenyuk,Hitter,Pittsburgh Penguins,Seth Jones,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:17:43Z,3,11:07,08:53,Faceoff,n/a,0.0,0.0,Jared McCann,Winner,Pittsburgh Penguins,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:18:59Z,3,11:58,08:02,Goal,Snap Shot,48.0,4.0,Teddy Blueger,Scorer,Pittsburgh Penguins,Dominik Kahun,Assist,Pittsburgh Penguins,Brandon Tanev,Assist,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets
+2019-10-06T01:19:38Z,3,11:58,08:02,Faceoff,n/a,0.0,0.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:20:07Z,3,12:32,07:28,Takeaway,n/a,37.0,11.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:20:13Z,3,12:38,07:22,Missed Shot,n/a,69.0,17.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:20:51Z,3,12:49,07:11,Shot,Snap Shot,36.0,8.0,Justin Schultz,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:20:33Z,3,12:57,07:03,Shot,Backhand,84.0,10.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:20:39Z,3,13:03,06:57,Takeaway,n/a,90.0,12.0,Dominik Kahun,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:21:11Z,3,13:25,06:35,Hit,n/a,8.0,-39.0,Jakob Lilja,Hitter,Columbus Blue Jackets,Kris Letang,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:21:14Z,3,13:39,06:21,Blocked Shot,n/a,48.0,-16.0,Jakob Lilja,Blocker,Columbus Blue Jackets,Kris Letang,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:21:59Z,3,14:19,05:41,Goal,Wrist Shot,-80.0,10.0,Gustav Nyquist,Scorer,Columbus Blue Jackets,Riley Nash,Assist,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a
+2019-10-06T01:22:29Z,3,14:19,05:41,Faceoff,n/a,0.0,0.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Jared McCann,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:22:49Z,3,14:38,05:22,Hit,n/a,-85.0,36.0,Jack Johnson,Hitter,Pittsburgh Penguins,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:22:56Z,3,14:45,05:15,Blocked Shot,n/a,-74.0,-11.0,Brandon Tanev,Blocker,Pittsburgh Penguins,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:23:15Z,3,15:04,04:56,Shot,Slap Shot,58.0,36.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:25:44Z,3,15:36,04:24,Faceoff,n/a,-69.0,22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:26:18Z,3,15:43,04:17,Blocked Shot,n/a,-70.0,-7.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Dean Kukan,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:26:19Z,3,15:44,04:16,Hit,n/a,-82.0,40.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,David Savard,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:26:25Z,3,15:50,04:10,Hit,n/a,-87.0,-40.0,Justin Schultz,Hitter,Pittsburgh Penguins,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:26:45Z,3,16:01,03:59,Hit,n/a,-97.0,29.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:27:12Z,3,16:37,03:23,Shot,Wrist Shot,-13.0,28.0,Zach Werenski,Shooter,Columbus Blue Jackets,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:27:50Z,3,17:15,02:45,Hit,n/a,-85.0,-40.0,Jakob Lilja,Hitter,Columbus Blue Jackets,Erik Gudbranson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:28:07Z,3,17:24,02:36,Penalty,Slashing,81.0,-1.0,Riley Nash,PenaltyOn,Columbus Blue Jackets,Jared McCann,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:28:43Z,3,17:24,02:36,Faceoff,n/a,69.0,22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:28:58Z,3,17:34,02:26,Shot,Wrist Shot,73.0,-16.0,Justin Schultz,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:29:03Z,3,17:36,02:24,Shot,Backhand,75.0,0.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:30:24Z,3,19:00,01:00,Shot,Wrist Shot,67.0,18.0,Dominik Simon,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:30:39Z,3,19:14,00:46,Blocked Shot,n/a,72.0,-7.0,Seth Jones,Blocker,Columbus Blue Jackets,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:30:49Z,3,19:22,00:38,Missed Shot,n/a,81.0,4.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-06T01:31:03Z,3,19:39,00:21,Shot,Snap Shot,57.0,-2.0,Patric Hornqvist,Shooter,Pittsburgh Penguins,Elvis Merzlikins,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a

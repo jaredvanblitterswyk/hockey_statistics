@@ -1,0 +1,269 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-14T02:07:53Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Nathan MacKinnon,Winner,Colorado Avalanche,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:09:04Z,1,00:11,19:49,Takeaway,n/a,-96.0,2.0,Joonas Donskoi,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:09:33Z,1,00:34,19:26,Faceoff,n/a,69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:10:18Z,1,01:01,18:59,Blocked Shot,n/a,38.0,-28.0,Gabriel Landeskog,Blocker,Colorado Avalanche,Sami Vatanen,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:10:30Z,1,01:06,18:54,Giveaway,n/a,43.0,33.0,Nazem Kadri,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:10:26Z,1,01:10,18:50,Shot,Wrist Shot,51.0,2.0,Nikita Gusev,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:10:30Z,1,01:11,18:49,Shot,Wrist Shot,85.0,4.0,Travis Zajac,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:11:07Z,1,01:23,18:37,Faceoff,n/a,-20.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:11:24Z,1,01:42,18:18,Missed Shot,n/a,-65.0,7.0,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:11:37Z,1,01:46,18:14,Faceoff,n/a,-20.0,22.0,Jack Hughes,Winner,New Jersey Devils,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:11:58Z,1,01:54,18:06,Takeaway,n/a,-52.0,-38.0,Valeri Nichushkin,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:12:01Z,1,01:57,18:03,Blocked Shot,n/a,-73.0,-10.0,Mirco Mueller,Blocker,New Jersey Devils,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:12:08Z,1,02:04,17:56,Shot,Wrist Shot,-51.0,-35.0,Calle Rosen,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:12:18Z,1,02:13,17:47,Shot,Wrist Shot,38.0,-35.0,Jack Hughes,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:12:41Z,1,02:13,17:47,Faceoff,n/a,69.0,-22.0,Tyson Jost,Winner,Colorado Avalanche,Jesper Boqvist,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:13:01Z,1,02:24,17:36,Hit,n/a,-27.0,-40.0,Michael McLeod,Hitter,New Jersey Devils,Matt Nieto,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:13:15Z,1,02:39,17:21,Hit,n/a,-98.0,4.0,Will Butcher,Hitter,New Jersey Devils,Tyson Jost,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:13:39Z,1,02:53,17:07,Penalty,Delaying Game - Puck over glass,-35.0,40.0,Jesper Boqvist,PenaltyOn,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:14:13Z,1,02:53,17:07,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:15:03Z,1,03:50,16:10,Blocked Shot,n/a,-68.0,-15.0,Pavel Zacha,Blocker,New Jersey Devils,Nazem Kadri,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:15:31Z,1,04:18,15:42,Shot,Slap Shot,-66.0,17.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:16:15Z,1,05:01,14:59,Shot,Wrist Shot,58.0,27.0,Jesper Boqvist,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:17:03Z,1,05:01,14:59,Faceoff,n/a,69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Kyle Palmieri,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:17:58Z,1,05:59,14:01,Missed Shot,n/a,32.0,16.0,Andy Greene,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:18:10Z,1,06:10,13:50,Hit,n/a,68.0,-37.0,Wayne Simmonds,Hitter,New Jersey Devils,Andre Burakovsky,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:18:37Z,1,06:37,13:23,Hit,n/a,-10.0,-35.0,Gabriel Landeskog,Hitter,Colorado Avalanche,Blake Coleman,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:19:16Z,1,07:17,12:43,Takeaway,n/a,-64.0,-26.0,Mikko Rantanen,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:19:21Z,1,07:22,12:38,Hit,n/a,-91.0,-32.0,Michael McLeod,Hitter,New Jersey Devils,Gabriel Landeskog,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:19:27Z,1,07:28,12:32,Takeaway,n/a,-54.0,21.0,Michael McLeod,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:19:44Z,1,07:45,12:15,Giveaway,n/a,99.0,-14.0,Calle Rosen,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:21:58Z,1,08:06,11:54,Faceoff,n/a,-20.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:22:45Z,1,08:40,11:20,Missed Shot,n/a,70.0,2.0,Jesper Bratt,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:23:14Z,1,08:40,11:20,Faceoff,n/a,69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:23:38Z,1,09:03,10:57,Giveaway,n/a,62.0,-11.0,Jack Hughes,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:23:44Z,1,09:08,10:52,Shot,Wrist Shot,-61.0,-25.0,Valeri Nichushkin,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:24:14Z,1,09:09,10:51,Faceoff,n/a,-69.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Matt Calvert,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:24:47Z,1,09:18,10:42,Shot,Wrist Shot,-39.0,-33.0,Ryan Graves,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:25:39Z,1,09:51,10:09,Faceoff,n/a,0.0,0.0,Michael McLeod,Winner,New Jersey Devils,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:26:23Z,1,10:27,09:33,Missed Shot,n/a,38.0,-13.0,Jesper Boqvist,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:26:29Z,1,10:31,09:29,Shot,Backhand,86.0,-10.0,Miles Wood,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:26:39Z,1,10:31,09:29,Penalty,Interference,80.0,-1.0,Michael McLeod,PenaltyOn,New Jersey Devils,Mark Barberio,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:28:48Z,1,10:31,09:29,Faceoff,n/a,-69.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Gabriel Landeskog,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:29:38Z,1,11:06,08:54,Giveaway,n/a,-32.0,41.0,Gabriel Landeskog,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:30:07Z,1,11:37,08:23,Goal,Slap Shot,-58.0,-8.0,Gabriel Landeskog,Scorer,Colorado Avalanche,Nathan MacKinnon,Assist,Colorado Avalanche,Samuel Girard,Assist,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils
+2019-12-14T02:30:52Z,1,11:37,08:23,Faceoff,n/a,0.0,0.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:31:11Z,1,11:54,08:06,Takeaway,n/a,-37.0,40.0,Jack Hughes,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:31:17Z,1,12:03,07:57,Takeaway,n/a,53.0,-35.0,Pierre-Edouard Bellemare,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:31:39Z,1,12:21,07:39,Hit,n/a,32.0,-40.0,Wayne Simmonds,Hitter,New Jersey Devils,Nikita Zadorov,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:32:11Z,1,12:56,07:04,Hit,n/a,99.0,-6.0,Ian Cole,Hitter,Colorado Avalanche,Nico Hischier,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:32:21Z,1,13:05,06:55,Giveaway,n/a,-97.0,1.0,Louis Domingue,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:32:57Z,1,13:19,06:41,Faceoff,n/a,69.0,-22.0,Michael McLeod,Winner,New Jersey Devils,Tyson Jost,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:33:09Z,1,13:24,06:36,Shot,Wrist Shot,58.0,-30.0,Miles Wood,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:33:43Z,1,13:32,06:28,Faceoff,n/a,69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:34:06Z,1,13:40,06:20,Shot,Wrist Shot,72.0,7.0,Blake Coleman,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:34:22Z,1,13:40,06:20,Faceoff,n/a,69.0,22.0,Travis Zajac,Winner,New Jersey Devils,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:34:31Z,1,13:41,06:19,Shot,Wrist Shot,55.0,11.0,Blake Coleman,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:34:57Z,1,14:15,05:45,Blocked Shot,n/a,-80.0,-2.0,Sami Vatanen,Blocker,New Jersey Devils,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:35:05Z,1,14:16,05:44,Blocked Shot,n/a,-83.0,-9.0,Sami Vatanen,Blocker,New Jersey Devils,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:35:05Z,1,14:22,05:38,Shot,Wrist Shot,75.0,27.0,Nikita Gusev,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:35:39Z,1,14:56,05:04,Shot,Slap Shot,35.0,16.0,P.K. Subban,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:35:53Z,1,15:11,04:49,Takeaway,n/a,-51.0,41.0,P.K. Subban,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:35:59Z,1,15:14,04:46,Takeaway,n/a,44.0,28.0,Nikita Zadorov,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:36:29Z,1,15:46,04:14,Giveaway,n/a,-90.0,-24.0,Matt Calvert,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:36:35Z,1,15:52,04:08,Shot,Wrist Shot,74.0,10.0,Jack Hughes,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:36:48Z,1,16:06,03:54,Shot,Slap Shot,-38.0,32.0,Mark Barberio,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:37:41Z,1,16:41,03:19,Faceoff,n/a,-69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Michael McLeod,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:38:02Z,1,16:57,03:03,Missed Shot,n/a,-82.0,8.0,Joonas Donskoi,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:38:11Z,1,17:06,02:54,Missed Shot,n/a,-36.0,12.0,Nikita Zadorov,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:38:35Z,1,17:28,02:32,Penalty,Cross checking,97.0,12.0,Nazem Kadri,PenaltyOn,Colorado Avalanche,Travis Zajac,DrewBy,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:41:00Z,1,17:28,02:32,Faceoff,n/a,69.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:40:54Z,1,17:35,02:25,Giveaway,n/a,94.0,-8.0,Ryan Graves,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:41:09Z,1,17:52,02:08,Missed Shot,n/a,59.0,-22.0,Jack Hughes,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:41:19Z,1,18:02,01:58,Shot,Slap Shot,61.0,-24.0,Jack Hughes,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:41:59Z,1,18:42,01:18,Shot,Tip-In,69.0,1.0,Jesper Bratt,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:42:46Z,1,19:27,00:33,Blocked Shot,n/a,60.0,-2.0,Mikko Rantanen,Blocker,Colorado Avalanche,Blake Coleman,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T02:42:50Z,1,19:32,00:28,Missed Shot,n/a,40.0,32.0,P.K. Subban,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:54:01Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Nico Hischier,Winner,New Jersey Devils,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:02:02Z,2,00:20,19:40,Blocked Shot,n/a,70.0,-3.0,Andy Greene,Blocker,New Jersey Devils,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:02:08Z,2,00:26,19:34,Shot,Wrist Shot,-60.0,12.0,Nico Hischier,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:02:21Z,2,00:38,19:22,Shot,Wrist Shot,40.0,6.0,Andre Burakovsky,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:02:58Z,2,01:15,18:45,Missed Shot,n/a,-76.0,12.0,Nikita Gusev,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:03:17Z,2,01:33,18:27,Blocked Shot,n/a,65.0,-10.0,Will Butcher,Blocker,New Jersey Devils,Mikko Rantanen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:03:40Z,2,01:33,18:27,Faceoff,n/a,69.0,-22.0,J.T. Compher,Winner,Colorado Avalanche,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:03:48Z,2,01:38,18:22,Shot,Wrist Shot,59.0,-8.0,Tyson Jost,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:03:54Z,2,01:43,18:17,Missed Shot,n/a,61.0,0.0,J.T. Compher,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:04:15Z,2,01:45,18:15,Shot,Snap Shot,59.0,40.0,Matt Nieto,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:04:21Z,2,01:45,18:15,Faceoff,n/a,69.0,22.0,Pavel Zacha,Winner,New Jersey Devils,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:05:04Z,2,02:04,17:56,Hit,n/a,4.0,-35.0,J.T. Compher,Hitter,Colorado Avalanche,Wayne Simmonds,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:05:12Z,2,02:12,17:48,Shot,Wrist Shot,75.0,-19.0,Matt Nieto,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:05:23Z,2,02:23,17:37,Shot,Slap Shot,65.0,34.0,Tyson Jost,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:05:23Z,2,02:23,17:37,Hit,n/a,42.0,-2.0,Wayne Simmonds,Hitter,New Jersey Devils,Matt Nieto,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:05:54Z,2,02:23,17:37,Shot,Wrist Shot,42.0,16.0,Matt Calvert,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:05:54Z,2,02:24,17:36,Faceoff,n/a,69.0,22.0,Matt Calvert,Winner,Colorado Avalanche,Jesper Boqvist,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:06:25Z,2,02:39,17:21,Hit,n/a,98.0,-6.0,P.K. Subban,Hitter,New Jersey Devils,Matt Calvert,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:06:58Z,2,03:03,16:57,Penalty,Interference,-58.0,8.0,Samuel Girard,PenaltyOn,Colorado Avalanche,Miles Wood,DrewBy,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:07:32Z,2,03:03,16:57,Faceoff,n/a,-69.0,-22.0,J.T. Compher,Winner,Colorado Avalanche,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:07:30Z,2,03:09,16:51,Giveaway,n/a,-98.0,10.0,Ryan Graves,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:07:45Z,2,03:24,16:36,Missed Shot,n/a,-37.0,-1.0,Sami Vatanen,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:07:49Z,2,03:28,16:32,Blocked Shot,n/a,-73.0,9.0,Ryan Graves,Blocker,Colorado Avalanche,Nikita Gusev,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:07:56Z,2,03:35,16:25,Shot,Snap Shot,-49.0,-15.0,Kyle Palmieri,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:08:04Z,2,03:39,16:21,Shot,Wrist Shot,-73.0,-3.0,Nico Hischier,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:08:18Z,2,03:57,16:03,Shot,Wrist Shot,-62.0,-13.0,Nikita Gusev,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:08:23Z,2,04:02,15:58,Missed Shot,n/a,-79.0,-2.0,Nico Hischier,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:08:27Z,2,04:06,15:54,Blocked Shot,n/a,-74.0,12.0,Ryan Graves,Blocker,Colorado Avalanche,Jack Hughes,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:08:38Z,2,04:15,15:45,Takeaway,n/a,-43.0,40.0,J.T. Compher,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:09:07Z,2,04:46,15:14,Missed Shot,n/a,-47.0,25.0,P.K. Subban,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:09:24Z,2,05:04,14:56,Shot,Slap Shot,-44.0,-28.0,P.K. Subban,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:09:45Z,2,05:25,14:35,Missed Shot,n/a,65.0,1.0,Andre Burakovsky,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:09:57Z,2,05:36,14:24,Shot,Snap Shot,44.0,-29.0,Calle Rosen,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:10:09Z,2,05:48,14:12,Hit,n/a,-21.0,-39.0,Blake Coleman,Hitter,New Jersey Devils,Joonas Donskoi,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:10:16Z,2,05:51,14:09,Hit,n/a,42.0,-38.0,Miles Wood,Hitter,New Jersey Devils,Andre Burakovsky,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:10:37Z,2,05:53,14:07,Blocked Shot,n/a,76.0,12.0,Damon Severson,Blocker,New Jersey Devils,Joonas Donskoi,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:10:51Z,2,05:54,14:06,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:11:13Z,2,06:24,13:36,Takeaway,n/a,63.0,31.0,Damon Severson,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:11:18Z,2,06:29,13:31,Hit,n/a,9.0,39.0,Mikko Rantanen,Hitter,Colorado Avalanche,Pavel Zacha,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:11:24Z,2,06:35,13:25,Takeaway,n/a,-85.0,32.0,Samuel Girard,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:11:28Z,2,06:39,13:21,Giveaway,n/a,-30.0,-39.0,Gabriel Landeskog,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:11:33Z,2,06:43,13:17,Shot,Wrist Shot,-52.0,10.0,Jesper Bratt,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:13:44Z,2,06:43,13:17,Faceoff,n/a,-69.0,-22.0,J.T. Compher,Winner,Colorado Avalanche,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:14:27Z,2,07:16,12:44,Shot,Wrist Shot,64.0,-14.0,Tyson Jost,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:14:29Z,2,07:18,12:42,Missed Shot,n/a,73.0,3.0,Tyson Jost,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:14:37Z,2,07:25,12:35,Missed Shot,n/a,74.0,-13.0,J.T. Compher,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:14:43Z,2,07:31,12:29,Missed Shot,n/a,56.0,13.0,Matt Nieto,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:15:08Z,2,07:56,12:04,Goal,Wrist Shot,50.0,-15.0,Valeri Nichushkin,Scorer,Colorado Avalanche,Mark Barberio,Assist,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a
+2019-12-14T03:15:47Z,2,07:56,12:04,Faceoff,n/a,0.0,0.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:16:23Z,2,08:11,11:49,Penalty,Roughing,62.0,-41.0,P.K. Subban,PenaltyOn,New Jersey Devils,Matt Calvert,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:16:38Z,2,08:11,11:49,Faceoff,n/a,69.0,22.0,Nazem Kadri,Winner,Colorado Avalanche,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:17:24Z,2,08:48,11:12,Shot,Wrist Shot,65.0,-15.0,Mikko Rantanen,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:17:48Z,2,09:12,10:48,Shot,Tip-In,79.0,0.0,Nazem Kadri,Shooter,Colorado Avalanche,Louis Domingue,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:18:18Z,2,09:41,10:19,Blocked Shot,n/a,-67.0,3.0,Nazem Kadri,Blocker,Colorado Avalanche,Mirco Mueller,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:18:36Z,2,09:42,10:18,Faceoff,n/a,-69.0,-22.0,Pavel Zacha,Winner,New Jersey Devils,Tyson Jost,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:18:55Z,2,09:43,10:17,Shot,Snap Shot,-69.0,-21.0,Pavel Zacha,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:19:42Z,2,09:52,10:08,Blocked Shot,n/a,62.0,-9.0,Andy Greene,Blocker,New Jersey Devils,Joonas Donskoi,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:19:42Z,2,10:34,09:26,Takeaway,n/a,68.0,-35.0,Michael McLeod,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:19:51Z,2,10:43,09:17,Hit,n/a,-98.0,-7.0,Ryan Graves,Hitter,Colorado Avalanche,Miles Wood,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:20:02Z,2,10:53,09:07,Hit,n/a,79.0,38.0,Matt Calvert,Hitter,Colorado Avalanche,Will Butcher,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:20:10Z,2,10:54,09:06,Takeaway,n/a,79.0,38.0,Will Butcher,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:20:22Z,2,11:14,08:46,Shot,Wrist Shot,-49.0,-12.0,Wayne Simmonds,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:22:30Z,2,11:15,08:45,Faceoff,n/a,-69.0,-22.0,Pavel Zacha,Winner,New Jersey Devils,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:22:46Z,2,11:26,08:34,Blocked Shot,n/a,67.0,3.0,Sami Vatanen,Blocker,New Jersey Devils,Nathan MacKinnon,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:23:05Z,2,11:27,08:33,Faceoff,n/a,69.0,-22.0,Nico Hischier,Winner,New Jersey Devils,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:23:20Z,2,11:34,08:26,Hit,n/a,82.0,37.0,Andre Burakovsky,Hitter,Colorado Avalanche,Damon Severson,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:23:32Z,2,11:47,08:13,Shot,Wrist Shot,-85.0,10.0,Kyle Palmieri,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:23:45Z,2,11:58,08:02,Hit,n/a,-4.0,18.0,Nathan MacKinnon,Hitter,Colorado Avalanche,Kyle Palmieri,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:23:56Z,2,12:11,07:49,Shot,Wrist Shot,63.0,2.0,Mark Barberio,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:24:06Z,2,12:21,07:39,Hit,n/a,22.0,-40.0,Mirco Mueller,Hitter,New Jersey Devils,Nazem Kadri,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:24:13Z,2,12:26,07:34,Hit,n/a,99.0,2.0,Damon Severson,Hitter,New Jersey Devils,Mikko Rantanen,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:24:22Z,2,12:35,07:25,Blocked Shot,n/a,74.0,8.0,Damon Severson,Blocker,New Jersey Devils,Mikko Rantanen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:24:37Z,2,12:35,07:25,Faceoff,n/a,69.0,22.0,Nico Hischier,Winner,New Jersey Devils,Nazem Kadri,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:25:24Z,2,13:04,06:56,Hit,n/a,-93.0,30.0,Blake Coleman,Hitter,New Jersey Devils,Mark Barberio,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:25:33Z,2,13:14,06:46,Shot,Slap Shot,60.0,1.0,Gabriel Landeskog,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:25:37Z,2,13:17,06:43,Hit,n/a,87.0,36.0,Blake Coleman,Hitter,New Jersey Devils,Gabriel Landeskog,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:25:50Z,2,13:30,06:30,Hit,n/a,-96.0,3.0,Blake Coleman,Hitter,New Jersey Devils,Ryan Graves,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:26:07Z,2,13:45,06:15,Giveaway,n/a,-33.0,-24.0,Travis Zajac,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:26:12Z,2,13:53,06:07,Shot,Wrist Shot,77.0,7.0,Matt Calvert,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:26:21Z,2,14:00,06:00,Shot,Wrist Shot,58.0,-31.0,Ian Cole,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:26:45Z,2,14:00,06:00,Faceoff,n/a,69.0,-22.0,Pavel Zacha,Winner,New Jersey Devils,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:26:56Z,2,14:05,05:55,Missed Shot,n/a,59.0,-12.0,Valeri Nichushkin,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:27:21Z,2,14:30,05:30,Shot,Snap Shot,74.0,3.0,Tyson Jost,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:27:38Z,2,14:47,05:13,Blocked Shot,n/a,68.0,1.0,Wayne Simmonds,Blocker,New Jersey Devils,Matt Nieto,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:28:35Z,2,15:44,04:16,Giveaway,n/a,50.0,20.0,Andy Greene,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:28:39Z,2,15:48,04:12,Shot,Backhand,70.0,4.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:28:44Z,2,15:50,04:10,Blocked Shot,n/a,52.0,-15.0,Miles Wood,Blocker,New Jersey Devils,Ian Cole,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:28:51Z,2,15:52,04:08,Shot,Wrist Shot,52.0,-1.0,Andre Burakovsky,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:29:00Z,2,16:07,03:53,Hit,n/a,-91.0,-33.0,Jesper Boqvist,Hitter,New Jersey Devils,Samuel Girard,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:29:36Z,2,16:44,03:16,Hit,n/a,-88.0,34.0,Nikita Zadorov,Hitter,Colorado Avalanche,Kyle Palmieri,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:29:58Z,2,17:06,02:54,Blocked Shot,n/a,-41.0,5.0,Nazem Kadri,Blocker,Colorado Avalanche,Will Butcher,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:30:19Z,2,17:28,02:32,Blocked Shot,n/a,70.0,-1.0,Will Butcher,Blocker,New Jersey Devils,Calle Rosen,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:30:33Z,2,17:42,02:18,Shot,Backhand,70.0,-24.0,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:30:51Z,2,17:58,02:02,Penalty,Tripping,-10.0,17.0,Damon Severson,PenaltyOn,New Jersey Devils,Valeri Nichushkin,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:33:00Z,2,17:58,02:02,Faceoff,n/a,69.0,-22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Blake Coleman,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:33:18Z,2,18:04,01:56,Takeaway,n/a,22.0,-32.0,Blake Coleman,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:33:26Z,2,18:07,01:53,Missed Shot,n/a,-78.0,-2.0,Blake Coleman,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:33:57Z,2,18:19,01:41,Faceoff,n/a,-69.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:35:18Z,2,19:39,00:21,Takeaway,n/a,1.0,-41.0,Blake Coleman,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:54:05Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Nathan MacKinnon,Winner,Colorado Avalanche,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:54:15Z,3,00:10,19:50,Shot,Snap Shot,-65.0,15.0,Joonas Donskoi,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:54:41Z,3,00:10,19:50,Faceoff,n/a,-69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:54:45Z,3,00:22,19:38,Hit,n/a,-94.0,-4.0,Damon Severson,Hitter,New Jersey Devils,Nikita Zadorov,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:55:01Z,3,00:38,19:22,Takeaway,n/a,99.0,11.0,Jesper Bratt,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:55:07Z,3,00:43,19:17,Shot,Wrist Shot,80.0,4.0,Jack Hughes,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:55:14Z,3,00:51,19:09,Blocked Shot,n/a,73.0,-1.0,Andre Burakovsky,Blocker,Colorado Avalanche,Sami Vatanen,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:55:40Z,3,01:14,18:46,Hit,n/a,-92.0,-24.0,P.K. Subban,Hitter,New Jersey Devils,Nazem Kadri,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:55:55Z,3,01:22,18:38,Blocked Shot,n/a,79.0,-8.0,Mikko Rantanen,Blocker,Colorado Avalanche,Jack Hughes,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:55:55Z,3,01:23,18:37,Penalty,Holding,87.0,37.0,Gabriel Landeskog,PenaltyOn,Colorado Avalanche,P.K. Subban,DrewBy,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:56:38Z,3,01:23,18:37,Faceoff,n/a,69.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:57:02Z,3,01:59,18:01,Missed Shot,n/a,9.0,-5.0,Sami Vatanen,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:57:09Z,3,02:06,17:54,Shot,Wrist Shot,-65.0,4.0,Matt Calvert,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:57:31Z,3,02:29,17:31,Blocked Shot,n/a,-69.0,3.0,Will Butcher,Blocker,New Jersey Devils,Nikita Zadorov,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:57:47Z,3,02:44,17:16,Takeaway,n/a,18.0,-18.0,Joonas Donskoi,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:58:00Z,3,02:58,17:02,Hit,n/a,97.0,-18.0,Wayne Simmonds,Hitter,New Jersey Devils,Mark Barberio,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:58:16Z,3,03:11,16:49,Takeaway,n/a,-85.0,-35.0,Jesper Boqvist,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:59:13Z,3,04:10,15:50,Hit,n/a,87.0,-37.0,Miles Wood,Hitter,New Jersey Devils,Ian Cole,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:59:37Z,3,04:13,15:47,Faceoff,n/a,69.0,22.0,Pavel Zacha,Winner,New Jersey Devils,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T03:59:47Z,3,04:19,15:41,Blocked Shot,n/a,47.0,2.0,J.T. Compher,Blocker,Colorado Avalanche,Kyle Palmieri,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:00:20Z,3,04:28,15:32,Faceoff,n/a,-69.0,-22.0,Nazem Kadri,Winner,Colorado Avalanche,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:00:28Z,3,04:35,15:25,Blocked Shot,n/a,-53.0,-16.0,Kyle Palmieri,Blocker,New Jersey Devils,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:00:41Z,3,04:47,15:13,Giveaway,n/a,98.0,-13.0,Calle Rosen,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:00:49Z,3,04:54,15:06,Takeaway,n/a,-15.0,2.0,Nico Hischier,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:00:52Z,3,05:00,15:00,Blocked Shot,n/a,42.0,-20.0,Mikko Rantanen,Blocker,Colorado Avalanche,Pavel Zacha,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:01:00Z,3,05:06,14:54,Hit,n/a,-27.0,40.0,Andy Greene,Hitter,New Jersey Devils,Mikko Rantanen,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:01:16Z,3,05:22,14:38,Shot,Tip-In,-84.0,5.0,Nazem Kadri,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:01:44Z,3,05:22,14:38,Faceoff,n/a,-69.0,22.0,Travis Zajac,Winner,New Jersey Devils,Nathan MacKinnon,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:02:03Z,3,05:39,14:21,Missed Shot,n/a,32.0,-27.0,Sami Vatanen,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:02:06Z,3,05:42,14:18,Takeaway,n/a,67.0,32.0,Nikita Gusev,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:02:11Z,3,05:46,14:14,Blocked Shot,n/a,53.0,25.0,Ryan Graves,Blocker,Colorado Avalanche,Blake Coleman,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:02:21Z,3,05:57,14:03,Shot,Slap Shot,-48.0,-19.0,Joonas Donskoi,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:02:38Z,3,06:14,13:46,Blocked Shot,n/a,-78.0,2.0,Will Butcher,Blocker,New Jersey Devils,Andre Burakovsky,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:03:02Z,3,06:15,13:45,Penalty,Roughing,-69.0,4.0,Blake Coleman,PenaltyOn,New Jersey Devils,Joonas Donskoi,DrewBy,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:04:59Z,3,06:15,13:45,Faceoff,n/a,-69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:05:37Z,3,06:41,13:19,Hit,n/a,21.0,-40.0,Pavel Zacha,Hitter,New Jersey Devils,Samuel Girard,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:06:07Z,3,07:11,12:49,Hit,n/a,92.0,-31.0,Gabriel Landeskog,Hitter,Colorado Avalanche,Miles Wood,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:06:25Z,3,07:28,12:32,Shot,Slap Shot,-70.0,-23.0,P.K. Subban,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:06:52Z,3,07:33,12:27,Takeaway,n/a,97.0,-12.0,Pavel Zacha,PlayerID,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:06:34Z,3,07:35,12:25,Shot,Snap Shot,68.0,-1.0,Travis Zajac,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:06:53Z,3,07:35,12:25,Faceoff,n/a,69.0,-22.0,Travis Zajac,Winner,New Jersey Devils,Tyson Jost,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:07:05Z,3,07:43,12:17,Shot,Slap Shot,4.0,32.0,Andy Greene,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:07:44Z,3,08:22,11:38,Shot,Backhand,81.0,7.0,Wayne Simmonds,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:08:00Z,3,08:38,11:22,Shot,Backhand,-78.0,12.0,Tyson Jost,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:08:04Z,3,08:41,11:19,Shot,Wrist Shot,-29.0,-36.0,Ryan Graves,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:08:40Z,3,08:44,11:16,Faceoff,n/a,20.0,22.0,Jack Hughes,Winner,New Jersey Devils,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:08:47Z,3,08:52,11:08,Blocked Shot,n/a,61.0,4.0,Ian Cole,Blocker,Colorado Avalanche,Jesper Boqvist,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:08:57Z,3,08:56,11:04,Penalty,Slashing,86.0,32.0,Pierre-Edouard Bellemare,PenaltyOn,Colorado Avalanche,Jesper Boqvist,DrewBy,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:09:32Z,3,08:56,11:04,Faceoff,n/a,69.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:09:42Z,3,09:02,10:58,Giveaway,n/a,91.0,-26.0,Ian Cole,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:09:46Z,3,09:07,10:53,Shot,Slap Shot,35.0,3.0,Sami Vatanen,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:10:03Z,3,09:07,10:53,Faceoff,n/a,69.0,22.0,J.T. Compher,Winner,Colorado Avalanche,Jack Hughes,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:10:26Z,3,09:12,10:48,Faceoff,n/a,69.0,22.0,Nico Hischier,Winner,New Jersey Devils,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:10:37Z,3,09:19,10:41,Shot,Snap Shot,35.0,19.0,J.T. Compher,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:12:26Z,3,10:37,09:23,Faceoff,n/a,69.0,-22.0,Travis Zajac,Winner,New Jersey Devils,J.T. Compher,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:12:34Z,3,10:44,09:16,Shot,Snap Shot,60.0,18.0,Damon Severson,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:12:54Z,3,11:03,08:57,Shot,Wrist Shot,55.0,-38.0,Jesper Bratt,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:13:02Z,3,11:11,08:49,Blocked Shot,n/a,-72.0,9.0,Will Butcher,Blocker,New Jersey Devils,Pierre-Edouard Bellemare,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:15:05Z,3,11:11,08:49,Faceoff,n/a,-69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:15:44Z,3,11:40,08:20,Shot,Snap Shot,73.0,-19.0,Travis Zajac,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:16:21Z,3,12:17,07:43,Shot,Snap Shot,-34.0,20.0,Calle Rosen,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:16:42Z,3,12:38,07:22,Takeaway,n/a,46.0,-11.0,Gabriel Landeskog,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:17:09Z,3,12:43,07:17,Faceoff,n/a,-20.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Nico Hischier,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:17:30Z,3,13:00,07:00,Missed Shot,n/a,-35.0,9.0,Samuel Girard,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:17:50Z,3,13:19,06:41,Blocked Shot,n/a,-84.0,-14.0,Will Butcher,Blocker,New Jersey Devils,Matt Calvert,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:18:35Z,3,14:02,05:58,Shot,Wrist Shot,84.0,-15.0,Jesper Boqvist,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:18:37Z,3,14:06,05:54,Blocked Shot,n/a,87.0,6.0,Ian Cole,Blocker,Colorado Avalanche,Andy Greene,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:18:43Z,3,14:12,05:48,Missed Shot,n/a,36.0,25.0,Jesper Boqvist,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:18:51Z,3,14:20,05:40,Blocked Shot,n/a,69.0,15.0,J.T. Compher,Blocker,Colorado Avalanche,Andy Greene,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:18:56Z,3,14:25,05:35,Shot,Wrist Shot,-49.0,16.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:19:24Z,3,14:53,05:07,Takeaway,n/a,15.0,6.0,Mikko Rantanen,PlayerID,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:19:32Z,3,15:01,04:59,Shot,Wrist Shot,72.0,-1.0,Nikita Gusev,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:19:48Z,3,15:02,04:58,Hit,n/a,96.0,12.0,Mark Barberio,Hitter,Colorado Avalanche,Nikita Gusev,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:19:53Z,3,15:22,04:38,Shot,Wrist Shot,71.0,-16.0,Nikita Gusev,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:22:09Z,3,15:22,04:38,Faceoff,n/a,69.0,-22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Wayne Simmonds,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:22:26Z,3,15:32,04:28,Hit,n/a,-12.0,41.0,Jack Hughes,Hitter,New Jersey Devils,Joonas Donskoi,Hittee,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:22:42Z,3,15:48,04:12,Goal,Wrist Shot,75.0,33.0,Mirco Mueller,Scorer,New Jersey Devils,Pavel Zacha,Assist,New Jersey Devils,Wayne Simmonds,Assist,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche
+2019-12-14T04:23:24Z,3,15:48,04:12,Faceoff,n/a,0.0,0.0,Nico Hischier,Winner,New Jersey Devils,Pierre-Edouard Bellemare,Loser,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:23:50Z,3,16:10,03:50,Shot,Wrist Shot,-61.0,-37.0,Sami Vatanen,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:24:03Z,3,16:25,03:35,Shot,Wrist Shot,86.0,-25.0,Kyle Palmieri,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:24:09Z,3,16:31,03:29,Missed Shot,n/a,79.0,17.0,Kyle Palmieri,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:24:14Z,3,16:36,03:24,Blocked Shot,n/a,79.0,11.0,Pierre-Edouard Bellemare,Blocker,Colorado Avalanche,Will Butcher,Shooter,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:24:21Z,3,16:42,03:18,Hit,n/a,71.0,-36.0,Valeri Nichushkin,Hitter,Colorado Avalanche,Kyle Palmieri,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:24:49Z,3,17:11,02:49,Shot,Wrist Shot,60.0,5.0,Travis Zajac,Shooter,New Jersey Devils,Pavel Francouz,Goalie,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:25:18Z,3,17:11,02:49,Faceoff,n/a,69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:25:38Z,3,17:26,02:34,Shot,Wrist Shot,-3.0,8.0,Nathan MacKinnon,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:26:23Z,3,17:27,02:33,Faceoff,n/a,-69.0,22.0,Nathan MacKinnon,Winner,Colorado Avalanche,Travis Zajac,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:26:30Z,3,17:47,02:13,Shot,Slap Shot,-34.0,33.0,Ryan Graves,Shooter,Colorado Avalanche,Mackenzie Blackwood,Goalie,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:26:58Z,3,17:47,02:13,Faceoff,n/a,-69.0,22.0,Pierre-Edouard Bellemare,Winner,Colorado Avalanche,Pavel Zacha,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:27:51Z,3,18:31,01:29,Blocked Shot,n/a,-72.0,3.0,Damon Severson,Blocker,New Jersey Devils,Ryan Graves,Shooter,Colorado Avalanche,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:28:03Z,3,18:43,01:17,Hit,n/a,58.0,-39.0,Mark Barberio,Hitter,Colorado Avalanche,Jack Hughes,Hittee,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-14T04:28:51Z,3,19:28,00:32,Goal,Wrist Shot,-66.0,10.0,Nathan MacKinnon,Scorer,Colorado Avalanche,Mikko Rantanen,Assist,Colorado Avalanche,Matt Nieto,Assist,New Jersey Devils,n/a,n/a,n/a
+2019-12-14T04:29:46Z,3,19:28,00:32,Faceoff,n/a,0.0,0.0,Tyson Jost,Winner,Colorado Avalanche,Michael McLeod,Loser,New Jersey Devils,n/a,n/a,n/a,n/a,n/a,n/a

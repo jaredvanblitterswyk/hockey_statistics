@@ -1,0 +1,272 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-03-08T03:16:02Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:16:55Z,1,00:32,19:28,Giveaway,n/a,-45.0,12.0,Adam Larsson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:16:58Z,1,00:33,19:27,Takeaway,n/a,-45.0,20.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:17:05Z,1,00:37,19:23,Giveaway,n/a,-70.0,-16.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:17:06Z,1,00:44,19:16,Missed Shot,n/a,-80.0,9.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:18:12Z,1,00:45,19:15,Hit,n/a,-30.0,-34.0,Alexander Wennberg,Hitter,Columbus Blue Jackets,Adam Larsson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:17:37Z,1,01:14,18:46,Blocked Shot,n/a,-80.0,0.0,Ethan Bear,Blocker,Edmonton Oilers,Nick Foligno,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:18:16Z,1,01:32,18:28,Faceoff,n/a,-20.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:19:06Z,1,02:18,17:42,Hit,n/a,86.0,34.0,Eric Robinson,Hitter,Columbus Blue Jackets,Riley Sheahan,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:19:21Z,1,02:34,17:26,Hit,n/a,-81.0,-32.0,Stefan Matteau,Hitter,Columbus Blue Jackets,Caleb Jones,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:19:27Z,1,02:37,17:23,Hit,n/a,89.0,33.0,Jujhar Khaira,Hitter,Edmonton Oilers,Devin Shore,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:19:56Z,1,03:08,16:52,Goal,Slap Shot,36.0,-24.0,Alex Chiasson,Scorer,Edmonton Oilers,Jujhar Khaira,Assist,Edmonton Oilers,James Neal,Assist,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets
+2020-03-08T03:20:47Z,1,03:08,16:52,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:21:09Z,1,03:40,16:20,Giveaway,n/a,60.0,-32.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:21:46Z,1,04:17,15:43,Shot,Slap Shot,31.0,25.0,Oscar Klefbom,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:22:12Z,1,04:18,15:42,Faceoff,n/a,69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:22:24Z,1,04:27,15:33,Shot,Backhand,-83.0,-6.0,Riley Nash,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:23:03Z,1,04:28,15:32,Faceoff,n/a,-69.0,-22.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:23:42Z,1,04:55,15:05,Shot,Deflected,85.0,0.0,Riley Sheahan,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:24:03Z,1,05:16,14:44,Giveaway,n/a,82.0,38.0,Andrew Peeke,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:24:11Z,1,05:24,14:36,Hit,n/a,60.0,-38.0,James Neal,Hitter,Edmonton Oilers,Scott Harrington,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:24:19Z,1,05:32,14:28,Shot,Snap Shot,77.0,-11.0,Alex Chiasson,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:25:00Z,1,06:13,13:47,Shot,Snap Shot,-38.0,-16.0,Zach Werenski,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:25:07Z,1,06:20,13:40,Missed Shot,n/a,-52.0,-17.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:27:56Z,1,07:02,12:58,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:28:29Z,1,07:26,12:34,Hit,n/a,-86.0,36.0,Oscar Klefbom,Hitter,Edmonton Oilers,Nick Foligno,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:28:40Z,1,07:37,12:23,Hit,n/a,-89.0,30.0,Oscar Klefbom,Hitter,Edmonton Oilers,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:28:52Z,1,07:49,12:11,Shot,Slap Shot,-81.0,-4.0,Boone Jenner,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:29:24Z,1,08:21,11:39,Hit,n/a,77.0,-37.0,Zack Kassian,Hitter,Edmonton Oilers,Zach Werenski,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:29:38Z,1,08:36,11:24,Shot,Tip-In,84.0,-3.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:29:52Z,1,08:43,11:17,Faceoff,n/a,69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:30:24Z,1,08:54,11:06,Shot,Wrist Shot,-85.0,-4.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:30:27Z,1,08:57,11:03,Giveaway,n/a,-65.0,-5.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:31:03Z,1,09:32,10:28,Shot,Wrist Shot,-35.0,-20.0,Scott Harrington,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:31:16Z,1,09:32,10:28,Faceoff,n/a,-69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:31:39Z,1,09:37,10:23,Missed Shot,n/a,-50.0,-37.0,Scott Harrington,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:31:44Z,1,09:39,10:21,Shot,Wrist Shot,-47.0,40.0,Andrew Peeke,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:38:46Z,1,09:39,10:21,Faceoff,n/a,-69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:32:12Z,1,09:44,10:16,Hit,n/a,-68.0,-38.0,Eric Robinson,Hitter,Columbus Blue Jackets,Kris Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:32:11Z,1,09:48,10:12,Shot,Snap Shot,-60.0,-11.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:32:43Z,1,09:49,10:11,Faceoff,n/a,-69.0,-22.0,Jujhar Khaira,Winner,Edmonton Oilers,Devin Shore,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:33:19Z,1,10:00,10:00,Penalty,Hi-sticking,-46.0,38.0,Jujhar Khaira,PenaltyOn,Edmonton Oilers,Devin Shore,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:33:48Z,1,10:00,10:00,Faceoff,n/a,-69.0,-22.0,Nick Foligno,Winner,Columbus Blue Jackets,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:33:44Z,1,10:15,09:45,Takeaway,n/a,81.0,-31.0,Riley Sheahan,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:33:48Z,1,10:16,09:44,Takeaway,n/a,81.0,-34.0,Zach Werenski,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:34:09Z,1,10:19,09:41,Faceoff,n/a,-20.0,22.0,Nick Foligno,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:34:31Z,1,10:39,09:21,Hit,n/a,-98.0,22.0,Darnell Nurse,Hitter,Edmonton Oilers,Kevin Stenlund,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:34:57Z,1,11:05,08:55,Shot,Snap Shot,-77.0,-14.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:35:10Z,1,11:19,08:41,Shot,Slap Shot,-44.0,-6.0,Zach Werenski,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:35:23Z,1,11:31,08:29,Shot,Slap Shot,-31.0,3.0,Zach Werenski,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:35:28Z,1,11:33,08:27,Shot,Slap Shot,-83.0,1.0,Nick Foligno,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:35:52Z,1,11:33,08:27,Shot,Slap Shot,-83.0,0.0,Nick Foligno,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:36:03Z,1,11:34,08:26,Faceoff,n/a,-69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:36:13Z,1,11:41,08:19,Takeaway,n/a,-66.0,38.0,Alexander Wennberg,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:36:32Z,1,11:51,08:09,Takeaway,n/a,-29.0,-34.0,David Savard,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:36:40Z,1,12:03,07:57,Hit,n/a,38.0,-23.0,Markus Nutivaara,Hitter,Columbus Blue Jackets,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:37:21Z,1,12:49,07:11,Shot,Slap Shot,-80.0,20.0,Andrew Peeke,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:37:26Z,1,12:54,07:06,Missed Shot,n/a,-81.0,-4.0,Eric Robinson,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:37:34Z,1,13:02,06:58,Takeaway,n/a,31.0,41.0,Andrew Peeke,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:37:54Z,1,13:22,06:38,Missed Shot,n/a,-66.0,-6.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:38:03Z,1,13:31,06:29,Hit,n/a,-38.0,-35.0,Zack Kassian,Hitter,Edmonton Oilers,Kevin Stenlund,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:38:09Z,1,13:37,06:23,Shot,Wrist Shot,-83.0,7.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:40:10Z,1,13:38,06:22,Faceoff,n/a,-69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:40:45Z,1,13:53,06:07,Hit,n/a,96.0,-12.0,Kailer Yamamoto,Hitter,Edmonton Oilers,Zach Werenski,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:40:56Z,1,14:04,05:56,Blocked Shot,n/a,-79.0,8.0,Adam Larsson,Blocker,Edmonton Oilers,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:41:00Z,1,14:09,05:51,Hit,n/a,-94.0,18.0,Adam Larsson,Hitter,Edmonton Oilers,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:41:16Z,1,14:25,05:35,Shot,Snap Shot,-59.0,30.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:41:54Z,1,14:26,05:34,Faceoff,n/a,-69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:42:04Z,1,14:41,05:19,Shot,Backhand,-68.0,-37.0,Boone Jenner,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:42:27Z,1,15:04,04:56,Blocked Shot,n/a,-73.0,3.0,Riley Sheahan,Blocker,Edmonton Oilers,Scott Harrington,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:42:43Z,1,15:17,04:43,Blocked Shot,n/a,-58.0,-27.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Riley Sheahan,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:42:43Z,1,15:17,04:43,Blocked Shot,n/a,-74.0,-3.0,Riley Sheahan,Blocker,Edmonton Oilers,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:43:01Z,1,15:37,04:23,Shot,Wrist Shot,-54.0,-22.0,Scott Harrington,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:43:05Z,1,15:42,04:18,Shot,Wrist Shot,-77.0,11.0,Boone Jenner,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:43:40Z,1,15:43,04:17,Shot,Wrist Shot,-83.0,8.0,Boone Jenner,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:43:20Z,1,15:46,04:14,Shot,Wrist Shot,-58.0,2.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:45:50Z,1,15:46,04:14,Faceoff,n/a,-20.0,-22.0,Kevin Stenlund,Winner,Columbus Blue Jackets,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:46:17Z,1,16:07,03:53,Shot,Wrist Shot,5.0,-25.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:47:05Z,1,16:55,03:05,Shot,Slap Shot,38.0,28.0,James Neal,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:47:12Z,1,17:02,02:58,Hit,n/a,36.0,37.0,Jakob Lilja,Hitter,Columbus Blue Jackets,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:47:24Z,1,17:14,02:46,Giveaway,n/a,75.0,38.0,Jujhar Khaira,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:47:40Z,1,17:30,02:30,Giveaway,n/a,-56.0,39.0,Alex Chiasson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:48:01Z,1,17:50,02:10,Hit,n/a,86.0,-29.0,Tyler Ennis,Hitter,Edmonton Oilers,Andrew Peeke,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:48:10Z,1,18:00,02:00,Missed Shot,n/a,-43.0,16.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:53:06Z,1,18:00,02:00,Faceoff,n/a,-69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:53:06Z,1,18:05,01:55,Hit,n/a,-83.0,-36.0,Alexander Wennberg,Hitter,Columbus Blue Jackets,Ethan Bear,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:48:47Z,1,18:15,01:45,Hit,n/a,-18.0,-39.0,Kailer Yamamoto,Hitter,Edmonton Oilers,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:48:54Z,1,18:21,01:39,Shot,Tip-In,80.0,5.0,Darnell Nurse,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:49:07Z,1,18:35,01:25,Blocked Shot,n/a,82.0,-3.0,Zach Werenski,Blocker,Columbus Blue Jackets,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:49:17Z,1,18:45,01:15,Giveaway,n/a,36.0,37.0,Darnell Nurse,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:49:24Z,1,18:52,01:08,Takeaway,n/a,91.0,31.0,Tyler Ennis,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:50:26Z,1,19:53,00:07,Hit,n/a,-95.0,-12.0,Riley Nash,Hitter,Columbus Blue Jackets,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:09:08Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:09:19Z,2,00:08,19:52,Faceoff,n/a,-69.0,-22.0,Tyler Ennis,Winner,Edmonton Oilers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:10:14Z,2,00:34,19:26,Hit,n/a,-97.0,-10.0,Tyler Ennis,Hitter,Edmonton Oilers,Markus Nutivaara,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:10:31Z,2,00:51,19:09,Giveaway,n/a,98.0,-10.0,Alexander Wennberg,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:10:36Z,2,00:56,19:04,Shot,Snap Shot,35.0,24.0,Zach Werenski,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:10:59Z,2,00:57,19:03,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:12:00Z,2,01:47,18:13,Hit,n/a,94.0,27.0,Darnell Nurse,Hitter,Edmonton Oilers,Gustav Nyquist,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:12:06Z,2,01:53,18:07,Missed Shot,n/a,-49.0,-5.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:12:30Z,2,02:17,17:43,Hit,n/a,-59.0,-40.0,Andrew Peeke,Hitter,Columbus Blue Jackets,Alex Chiasson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:12:31Z,2,02:18,17:42,Blocked Shot,n/a,-76.0,-9.0,Andrew Peeke,Blocker,Columbus Blue Jackets,Alex Chiasson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:12:48Z,2,02:23,17:37,Faceoff,n/a,-69.0,22.0,Jujhar Khaira,Winner,Edmonton Oilers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:14:11Z,2,02:38,17:22,Faceoff,n/a,-20.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Devin Shore,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:14:26Z,2,02:58,17:02,Shot,Wrist Shot,-61.0,-34.0,Caleb Jones,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:14:58Z,2,02:59,17:01,Faceoff,n/a,-69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:15:00Z,2,03:05,16:55,Takeaway,n/a,0.0,-3.0,Tyler Ennis,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:15:14Z,2,03:19,16:41,Shot,Tip-In,-76.0,5.0,Tyler Ennis,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:15:19Z,2,03:21,16:39,Shot,Backhand,-84.0,5.0,Kailer Yamamoto,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:15:45Z,2,03:21,16:39,Faceoff,n/a,-69.0,22.0,Nick Foligno,Winner,Columbus Blue Jackets,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:16:21Z,2,03:32,16:28,Faceoff,n/a,20.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:16:36Z,2,03:40,16:20,Takeaway,n/a,6.0,2.0,Boone Jenner,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:17:03Z,2,04:06,15:54,Hit,n/a,98.0,-8.0,Boone Jenner,Hitter,Columbus Blue Jackets,Ethan Bear,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:17:08Z,2,04:12,15:48,Hit,n/a,92.0,-29.0,Nick Foligno,Hitter,Columbus Blue Jackets,Connor McDavid,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:17:17Z,2,04:21,15:39,Missed Shot,n/a,43.0,20.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:17:25Z,2,04:24,15:36,Giveaway,n/a,23.0,-39.0,Vladislav Gavrikov,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:17:48Z,2,04:28,15:32,Faceoff,n/a,20.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:18:21Z,2,04:57,15:03,Hit,n/a,-95.0,-10.0,Andreas Athanasiou,Hitter,Edmonton Oilers,Eric Robinson,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:18:59Z,2,05:35,14:25,Hit,n/a,-11.0,-39.0,Jujhar Khaira,Hitter,Edmonton Oilers,Markus Nutivaara,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:19:04Z,2,05:40,14:20,Giveaway,n/a,25.0,-18.0,Jujhar Khaira,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:19:14Z,2,05:50,14:10,Blocked Shot,n/a,78.0,-5.0,Oscar Klefbom,Blocker,Edmonton Oilers,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:21:47Z,2,06:39,13:21,Faceoff,n/a,20.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:22:39Z,2,07:01,12:59,Shot,Wrist Shot,-53.0,-26.0,Darnell Nurse,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:23:14Z,2,07:36,12:24,Shot,Wrist Shot,55.0,27.0,Alexander Wennberg,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:23:24Z,2,07:37,12:23,Penalty,Roughing,65.0,3.0,Darnell Nurse,PenaltyOn,Edmonton Oilers,Pierre-Luc Dubois,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:24:16Z,2,07:37,12:23,Faceoff,n/a,69.0,22.0,Nick Foligno,Winner,Columbus Blue Jackets,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:24:05Z,2,07:46,12:14,Missed Shot,n/a,49.0,11.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:26:05Z,2,09:45,10:15,Hit,n/a,73.0,38.0,Connor McDavid,Hitter,Edmonton Oilers,Emil Bemstrom,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:28:18Z,2,09:53,10:07,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:27:58Z,2,10:02,09:58,Shot,Snap Shot,56.0,-27.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:30:10Z,2,10:02,09:58,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:30:27Z,2,10:12,09:48,Shot,Wrist Shot,63.0,32.0,Adam Larsson,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:30:39Z,2,10:19,09:41,Takeaway,n/a,72.0,33.0,Oscar Klefbom,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:30:48Z,2,10:33,09:27,Blocked Shot,n/a,-74.0,-8.0,David Savard,Blocker,Columbus Blue Jackets,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:30:55Z,2,10:37,09:23,Shot,Wrist Shot,48.0,24.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:31:18Z,2,10:40,09:20,Faceoff,n/a,69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Jujhar Khaira,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:31:36Z,2,10:51,09:09,Takeaway,n/a,-38.0,-13.0,Andrew Peeke,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:31:41Z,2,10:56,09:04,Hit,n/a,93.0,-28.0,Emil Bemstrom,Hitter,Columbus Blue Jackets,Kris Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:32:03Z,2,11:06,08:54,Penalty,Kneeing,67.0,3.0,Pierre-Luc Dubois,PenaltyOn,Columbus Blue Jackets,Caleb Jones,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:33:03Z,2,11:06,08:54,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:33:25Z,2,11:44,08:16,Takeaway,n/a,-64.0,-39.0,Gustav Nyquist,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:33:28Z,2,11:50,08:10,Shot,Wrist Shot,-68.0,-28.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:34:27Z,2,12:47,07:13,Giveaway,n/a,-54.0,-36.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:35:03Z,2,12:47,07:13,Faceoff,n/a,-20.0,-22.0,Nick Foligno,Winner,Columbus Blue Jackets,Jujhar Khaira,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:35:26Z,2,13:11,06:49,Giveaway,n/a,-8.0,-22.0,James Neal,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:35:32Z,2,13:17,06:43,Shot,Slap Shot,37.0,19.0,Markus Nutivaara,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:35:43Z,2,13:28,06:32,Hit,n/a,71.0,38.0,Jujhar Khaira,Hitter,Edmonton Oilers,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:35:55Z,2,13:40,06:20,Blocked Shot,n/a,-67.0,-11.0,Pierre-Luc Dubois,Blocker,Columbus Blue Jackets,Andreas Athanasiou,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:36:33Z,2,13:57,06:03,Hit,n/a,-83.0,36.0,Ryan Nugent-Hopkins,Hitter,Edmonton Oilers,Devin Shore,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:36:26Z,2,14:07,05:53,Hit,n/a,-39.0,34.0,Adam Larsson,Hitter,Edmonton Oilers,Kevin Stenlund,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:36:52Z,2,14:32,05:28,Hit,n/a,97.0,2.0,Emil Bemstrom,Hitter,Columbus Blue Jackets,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:37:03Z,2,14:44,05:16,Takeaway,n/a,6.0,3.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:40:19Z,2,14:47,05:13,Faceoff,n/a,-20.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:39:37Z,2,14:55,05:05,Faceoff,n/a,-69.0,-22.0,Riley Nash,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:40:06Z,2,15:04,04:56,Hit,n/a,-92.0,-30.0,Tyler Ennis,Hitter,Edmonton Oilers,Scott Harrington,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:40:23Z,2,15:20,04:40,Hit,n/a,65.0,-38.0,Darnell Nurse,Hitter,Edmonton Oilers,Eric Robinson,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:40:40Z,2,15:37,04:23,Hit,n/a,-59.0,37.0,Riley Nash,Hitter,Columbus Blue Jackets,Tyler Ennis,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:40:45Z,2,15:42,04:18,Blocked Shot,n/a,76.0,-6.0,Darnell Nurse,Blocker,Edmonton Oilers,Jakob Lilja,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:41:32Z,2,15:42,04:18,Faceoff,n/a,69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:41:25Z,2,15:47,04:13,Shot,Wrist Shot,71.0,-38.0,Kevin Stenlund,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:41:33Z,2,15:47,04:13,Faceoff,n/a,69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Kevin Stenlund,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:41:52Z,2,15:52,04:08,Takeaway,n/a,29.0,-29.0,Markus Nutivaara,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:42:33Z,2,16:39,03:21,Missed Shot,n/a,61.0,18.0,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:42:39Z,2,16:44,03:16,Missed Shot,n/a,54.0,38.0,Stefan Matteau,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:42:45Z,2,16:51,03:09,Shot,Snap Shot,52.0,5.0,Boone Jenner,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:42:51Z,2,16:57,03:03,Hit,n/a,95.0,-26.0,Boone Jenner,Hitter,Columbus Blue Jackets,Caleb Jones,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:43:08Z,2,17:14,02:46,Shot,Snap Shot,-54.0,-26.0,Connor McDavid,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:43:30Z,2,17:14,02:46,Faceoff,n/a,-69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:43:48Z,2,17:25,02:35,Missed Shot,n/a,51.0,20.0,Boone Jenner,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:43:56Z,2,17:32,02:28,Shot,Tip-In,76.0,3.0,Boone Jenner,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:44:38Z,2,17:32,02:28,Faceoff,n/a,69.0,22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Jujhar Khaira,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:44:59Z,2,18:03,01:57,Hit,n/a,95.0,16.0,Jujhar Khaira,Hitter,Edmonton Oilers,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:45:13Z,2,18:16,01:44,Blocked Shot,n/a,-46.0,1.0,Vladislav Gavrikov,Blocker,Columbus Blue Jackets,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:45:32Z,2,18:16,01:44,Faceoff,n/a,-69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:46:13Z,2,18:35,01:25,Hit,n/a,-15.0,39.0,Scott Harrington,Hitter,Columbus Blue Jackets,Kailer Yamamoto,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:46:18Z,2,18:40,01:20,Hit,n/a,-49.0,41.0,Riley Nash,Hitter,Columbus Blue Jackets,Kailer Yamamoto,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:46:26Z,2,18:43,01:17,Hit,n/a,-55.0,39.0,Tyler Ennis,Hitter,Edmonton Oilers,Eric Robinson,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:46:50Z,2,19:12,00:48,Hit,n/a,43.0,-38.0,Adam Larsson,Hitter,Edmonton Oilers,Riley Nash,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:46:58Z,2,19:19,00:41,Blocked Shot,n/a,35.0,1.0,Zach Werenski,Blocker,Columbus Blue Jackets,Kailer Yamamoto,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:47:55Z,2,19:43,00:17,Faceoff,n/a,-69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T03:48:29Z,2,19:52,00:08,Faceoff,n/a,-69.0,-22.0,Boone Jenner,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:07:13Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:07:38Z,3,00:25,19:35,Shot,Snap Shot,-15.0,-5.0,Zach Werenski,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:08:25Z,3,01:07,18:53,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:09:27Z,3,01:25,18:35,Faceoff,n/a,-20.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:10:38Z,3,02:29,17:31,Shot,Snap Shot,-43.0,-17.0,Stefan Matteau,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:10:48Z,3,02:39,17:21,Hit,n/a,-94.0,25.0,Oscar Klefbom,Hitter,Edmonton Oilers,Jakob Lilja,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:10:54Z,3,02:45,17:15,Hit,n/a,-84.0,39.0,Oscar Klefbom,Hitter,Edmonton Oilers,Jakob Lilja,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:10:59Z,3,02:50,17:10,Takeaway,n/a,-63.0,-28.0,Stefan Matteau,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:11:02Z,3,02:54,17:06,Missed Shot,n/a,-32.0,18.0,Markus Nutivaara,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:11:16Z,3,03:08,16:52,Shot,Wrist Shot,-31.0,14.0,Markus Nutivaara,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:11:20Z,3,03:11,16:49,Hit,n/a,-71.0,39.0,Caleb Jones,Hitter,Edmonton Oilers,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:11:39Z,3,03:26,16:34,Giveaway,n/a,-92.0,-13.0,Ethan Bear,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:11:36Z,3,03:28,16:32,Shot,Deflected,-78.0,-8.0,Alexander Wennberg,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:11:36Z,3,03:35,16:25,Shot,Wrist Shot,-84.0,3.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:11:36Z,3,03:36,16:24,Shot,Wrist Shot,-82.0,3.0,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:11:46Z,3,03:38,16:22,Blocked Shot,n/a,-77.0,1.0,Ethan Bear,Blocker,Edmonton Oilers,Pierre-Luc Dubois,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:11:50Z,3,03:41,16:19,Giveaway,n/a,-98.0,-5.0,Kailer Yamamoto,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:11:59Z,3,03:51,16:09,Hit,n/a,-81.0,-37.0,Ethan Bear,Hitter,Edmonton Oilers,Pierre-Luc Dubois,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:12:08Z,3,03:53,16:07,Hit,n/a,-12.0,-41.0,Emil Bemstrom,Hitter,Columbus Blue Jackets,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:12:03Z,3,03:55,16:05,Blocked Shot,n/a,64.0,-7.0,David Savard,Blocker,Columbus Blue Jackets,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:12:38Z,3,04:13,15:47,Faceoff,n/a,69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:13:05Z,3,04:30,15:30,Missed Shot,n/a,45.0,30.0,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:13:23Z,3,04:47,15:13,Shot,Slap Shot,51.0,-29.0,Zack Kassian,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:13:54Z,3,04:48,15:12,Faceoff,n/a,69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:14:13Z,3,05:08,14:52,Hit,n/a,95.0,-13.0,Boone Jenner,Hitter,Columbus Blue Jackets,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:14:27Z,3,05:18,14:42,Hit,n/a,-82.0,33.0,Nick Foligno,Hitter,Columbus Blue Jackets,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:14:35Z,3,05:30,14:30,Shot,Snap Shot,-77.0,26.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:14:56Z,3,05:31,14:29,Faceoff,n/a,-69.0,22.0,Jujhar Khaira,Winner,Edmonton Oilers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:15:35Z,3,05:59,14:01,Blocked Shot,n/a,64.0,-5.0,Eric Robinson,Blocker,Columbus Blue Jackets,Jujhar Khaira,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:15:39Z,3,06:02,13:58,Giveaway,n/a,82.0,34.0,Jujhar Khaira,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:15:45Z,3,06:09,13:51,Hit,n/a,-36.0,37.0,Kris Russell,Hitter,Edmonton Oilers,Kevin Stenlund,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:16:14Z,3,06:38,13:22,Missed Shot,n/a,50.0,14.0,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:16:21Z,3,06:44,13:16,Giveaway,n/a,-48.0,37.0,Pierre-Luc Dubois,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:16:27Z,3,06:51,13:09,Missed Shot,n/a,63.0,-11.0,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:16:35Z,3,06:58,13:02,Shot,Snap Shot,61.0,-6.0,Tyler Ennis,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:18:47Z,3,06:58,13:02,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:19:52Z,3,07:59,12:01,Shot,Wrist Shot,34.0,0.0,Ethan Bear,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:20:21Z,3,08:04,11:56,Faceoff,n/a,69.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:20:27Z,3,08:12,11:48,Shot,Wrist Shot,-14.0,-22.0,Eric Robinson,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:20:55Z,3,08:13,11:47,Faceoff,n/a,-69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:21:14Z,3,08:35,11:25,Giveaway,n/a,-46.0,-37.0,Alexander Wennberg,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:21:19Z,3,08:40,11:20,Hit,n/a,-39.0,-29.0,Connor McDavid,Hitter,Edmonton Oilers,Alexander Wennberg,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:21:29Z,3,08:50,11:10,Shot,Slap Shot,-80.0,-12.0,Zach Werenski,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:21:36Z,3,08:51,11:09,Shot,Slap Shot,-86.0,-4.0,Zach Werenski,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:22:42Z,3,10:04,09:56,Hit,n/a,-90.0,30.0,Stefan Matteau,Hitter,Columbus Blue Jackets,Caleb Jones,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:22:45Z,3,10:06,09:54,Shot,Backhand,-62.0,2.0,David Savard,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:25:11Z,3,10:07,09:53,Faceoff,n/a,-69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:25:38Z,3,10:21,09:39,Faceoff,n/a,-69.0,-22.0,Alexander Wennberg,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:25:55Z,3,10:26,09:34,Blocked Shot,n/a,-67.0,0.0,Oscar Klefbom,Blocker,Edmonton Oilers,Markus Nutivaara,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:25:55Z,3,10:47,09:13,Shot,Backhand,-82.0,2.0,Alexander Wennberg,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:26:25Z,3,10:55,09:05,Missed Shot,n/a,-62.0,17.0,Emil Bemstrom,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:26:33Z,3,11:05,08:55,Shot,Backhand,84.0,-5.0,Tyler Ennis,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:26:55Z,3,11:27,08:33,Shot,Slap Shot,-33.0,21.0,David Savard,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:27:13Z,3,11:45,08:15,Missed Shot,n/a,-47.0,-15.0,Vladislav Gavrikov,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:27:48Z,3,12:20,07:40,Giveaway,n/a,-87.0,8.0,Mikko Koskinen,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:28:07Z,3,12:31,07:29,Hit,n/a,-54.0,27.0,Caleb Jones,Hitter,Edmonton Oilers,Riley Nash,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:28:26Z,3,12:46,07:14,Shot,Backhand,84.0,-5.0,Connor McDavid,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:28:54Z,3,12:46,07:14,Faceoff,n/a,69.0,-22.0,Pierre-Luc Dubois,Winner,Columbus Blue Jackets,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:28:57Z,3,12:56,07:04,Hit,n/a,-11.0,-40.0,Zack Kassian,Hitter,Edmonton Oilers,Markus Nutivaara,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:30:25Z,3,14:24,05:36,Shot,Wrist Shot,47.0,35.0,Andreas Athanasiou,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:32:21Z,3,14:24,05:36,Faceoff,n/a,69.0,22.0,Boone Jenner,Winner,Columbus Blue Jackets,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:33:05Z,3,14:47,05:13,Giveaway,n/a,96.0,11.0,Tyler Ennis,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:33:11Z,3,14:53,05:07,Hit,n/a,41.0,-38.0,Kailer Yamamoto,Hitter,Edmonton Oilers,Nick Foligno,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:33:18Z,3,14:59,05:01,Shot,Snap Shot,-68.0,26.0,Zach Werenski,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:33:46Z,3,14:59,05:01,Faceoff,n/a,-69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:34:26Z,3,15:17,04:43,Faceoff,n/a,69.0,22.0,Jujhar Khaira,Winner,Edmonton Oilers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:34:49Z,3,15:29,04:31,Goal,Wrist Shot,31.0,-24.0,Caleb Jones,Scorer,Edmonton Oilers,Kris Russell,Assist,Edmonton Oilers,Alex Chiasson,Assist,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets
+2020-03-08T04:35:28Z,3,15:29,04:31,Faceoff,n/a,0.0,0.0,James Neal,Winner,Edmonton Oilers,Riley Nash,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:35:51Z,3,15:36,04:24,Faceoff,n/a,20.0,22.0,Riley Nash,Winner,Columbus Blue Jackets,Jujhar Khaira,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:37:50Z,3,16:07,03:53,Faceoff,n/a,-69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Boone Jenner,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:37:15Z,3,16:19,03:41,Takeaway,n/a,87.0,33.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:37:23Z,3,16:25,03:35,Goal,Wrist Shot,84.0,5.0,Connor McDavid,Scorer,Edmonton Oilers,Zack Kassian,Assist,Edmonton Oilers,Ryan Nugent-Hopkins,Assist,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets
+2020-03-08T04:37:56Z,3,16:25,03:35,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,Pierre-Luc Dubois,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:38:37Z,3,17:03,02:57,Takeaway,n/a,43.0,32.0,Markus Nutivaara,PlayerID,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:38:48Z,3,17:14,02:46,Shot,Snap Shot,67.0,-22.0,Leon Draisaitl,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:39:21Z,3,17:14,02:46,Faceoff,n/a,69.0,-22.0,Devin Shore,Winner,Columbus Blue Jackets,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:40:15Z,3,18:04,01:56,Hit,n/a,-17.0,39.0,James Neal,Hitter,Edmonton Oilers,Riley Nash,Hittee,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:40:41Z,3,18:07,01:53,Penalty,Slashing,-19.0,39.0,James Neal,PenaltyOn,Edmonton Oilers,Riley Nash,DrewBy,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:41:03Z,3,18:07,01:53,Faceoff,n/a,-69.0,-22.0,Nick Foligno,Winner,Columbus Blue Jackets,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:41:02Z,3,18:13,01:47,Blocked Shot,n/a,-59.0,-5.0,Riley Sheahan,Blocker,Edmonton Oilers,Zach Werenski,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:41:19Z,3,18:25,01:35,Penalty,Holding,-40.0,-31.0,Kevin Stenlund,PenaltyOn,Columbus Blue Jackets,Riley Sheahan,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:42:04Z,3,18:25,01:35,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Alexander Wennberg,Loser,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:42:08Z,3,18:34,01:26,Shot,Wrist Shot,83.0,38.0,Darnell Nurse,Shooter,Edmonton Oilers,Joonas Korpisalo,Goalie,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:42:31Z,3,18:56,01:04,Giveaway,n/a,41.0,-27.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:42:35Z,3,19:00,01:00,Shot,Wrist Shot,-74.0,7.0,Gustav Nyquist,Shooter,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:42:45Z,3,19:01,00:59,Goal,Wrist Shot,-85.0,-9.0,Gustav Nyquist,Scorer,Columbus Blue Jackets,Zach Werenski,Assist,Columbus Blue Jackets,Alexander Wennberg,Assist,Columbus Blue Jackets,Mikko Koskinen,Goalie,Edmonton Oilers
+2020-03-08T04:43:18Z,3,19:01,00:59,Faceoff,n/a,0.0,0.0,Boone Jenner,Winner,Columbus Blue Jackets,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:43:51Z,3,19:26,00:34,Blocked Shot,n/a,-68.0,-1.0,Josh Archibald,Blocker,Edmonton Oilers,Markus Nutivaara,Shooter,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:44:06Z,3,19:30,00:30,Goal,Wrist Shot,-59.0,-7.0,Riley Sheahan,Scorer,Edmonton Oilers,Josh Archibald,Assist,Columbus Blue Jackets,n/a,n/a,n/a,n/a,n/a,n/a
+2020-03-08T04:44:38Z,3,19:30,00:30,Faceoff,n/a,0.0,0.0,Devin Shore,Winner,Columbus Blue Jackets,Jujhar Khaira,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a

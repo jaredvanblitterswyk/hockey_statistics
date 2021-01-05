@@ -1,0 +1,295 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-20T03:07:56Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Cody Eakin,Winner,Vegas Golden Knights,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:08:28Z,1,00:05,19:55,Giveaway,n/a,12.0,30.0,Deryk Engelland,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:08:42Z,1,00:09,19:51,Hit,n/a,-5.0,39.0,John Tavares,Hitter,Toronto Maple Leafs,Cody Eakin,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:08:48Z,1,00:25,19:35,Shot,Wrist Shot,63.0,-22.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:09:02Z,1,00:25,19:35,Faceoff,n/a,69.0,-22.0,Max Pacioretty,Winner,Vegas Golden Knights,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:09:37Z,1,00:33,19:27,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:10:03Z,1,00:45,19:15,Giveaway,n/a,17.0,-39.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:10:27Z,1,01:10,18:50,Blocked Shot,n/a,42.0,-21.0,William Karlsson,Blocker,Vegas Golden Knights,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:11:07Z,1,01:49,18:11,Hit,n/a,-98.0,11.0,Paul Stastny,Hitter,Vegas Golden Knights,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:11:10Z,1,01:53,18:07,Hit,n/a,-56.0,39.0,Alex Tuch,Hitter,Vegas Golden Knights,Pierre Engvall,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:11:16Z,1,01:58,18:02,Hit,n/a,91.0,-30.0,Frederik Gauthier,Hitter,Toronto Maple Leafs,Nicolas Hague,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:11:36Z,1,02:02,17:58,Hit,n/a,55.0,35.0,Ryan Reaves,Hitter,Vegas Golden Knights,Pierre Engvall,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:11:28Z,1,02:10,17:50,Hit,n/a,22.0,-37.0,Alex Tuch,Hitter,Vegas Golden Knights,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:11:47Z,1,02:25,17:35,Hit,n/a,-5.0,-40.0,Kasperi Kapanen,Hitter,Toronto Maple Leafs,Tomas Nosek,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:12:07Z,1,02:28,17:32,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:12:36Z,1,02:55,17:05,Hit,n/a,-75.0,31.0,Mark Stone,Hitter,Vegas Golden Knights,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:12:36Z,1,02:55,17:05,Blocked Shot,n/a,-82.0,0.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Deryk Engelland,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:12:45Z,1,03:04,16:56,Hit,n/a,88.0,36.0,Kasperi Kapanen,Hitter,Toronto Maple Leafs,Jon Merrill,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:13:25Z,1,03:35,16:25,Faceoff,n/a,-69.0,-22.0,William Karlsson,Winner,Vegas Golden Knights,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:13:52Z,1,03:45,16:15,Shot,Wrist Shot,-63.0,-25.0,Reilly Smith,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:14:15Z,1,04:08,15:52,Hit,n/a,-83.0,37.0,Ryan Reaves,Hitter,Vegas Golden Knights,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:14:19Z,1,04:12,15:48,Shot,Wrist Shot,47.0,-4.0,Jason Spezza,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:14:28Z,1,04:21,15:39,Shot,Wrist Shot,-84.0,-23.0,William Carrier,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:14:46Z,1,04:35,15:25,Hit,n/a,1.0,0.0,Ryan Reaves,Hitter,Vegas Golden Knights,Ilya Mikheyev,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:15:14Z,1,05:08,14:52,Hit,n/a,-93.0,-27.0,Paul Stastny,Hitter,Vegas Golden Knights,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:15:22Z,1,05:15,14:45,Hit,n/a,96.0,-27.0,Pierre Engvall,Hitter,Toronto Maple Leafs,Deryk Engelland,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:15:28Z,1,05:19,14:41,Hit,n/a,47.0,41.0,Frederik Gauthier,Hitter,Toronto Maple Leafs,Jon Merrill,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:16:01Z,1,05:28,14:32,Faceoff,n/a,-20.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:16:28Z,1,05:56,14:04,Takeaway,n/a,45.0,-37.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:16:32Z,1,05:57,14:03,Hit,n/a,54.0,-38.0,Jon Merrill,Hitter,Vegas Golden Knights,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:16:34Z,1,06:02,13:58,Shot,Wrap-around,84.0,7.0,Zach Hyman,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:16:47Z,1,06:13,13:47,Hit,n/a,91.0,33.0,Kasperi Kapanen,Hitter,Toronto Maple Leafs,Brayden McNabb,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:16:53Z,1,06:21,13:39,Shot,Backhand,-15.0,38.0,Cody Eakin,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:17:16Z,1,06:44,13:16,Shot,Wrist Shot,32.0,34.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:17:32Z,1,07:00,13:00,Shot,Slap Shot,57.0,-3.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:19:23Z,1,07:01,12:59,Faceoff,n/a,69.0,-22.0,Cody Glass,Winner,Vegas Golden Knights,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:20:25Z,1,07:10,12:50,Hit,n/a,-56.0,-38.0,Tyson Barrie,Hitter,Toronto Maple Leafs,Alex Tuch,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:20:36Z,1,07:21,12:39,Blocked Shot,n/a,68.0,0.0,Paul Stastny,Blocker,Vegas Golden Knights,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:20:46Z,1,07:31,12:29,Missed Shot,n/a,-60.0,-12.0,Alex Tuch,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:21:11Z,1,07:48,12:12,Hit,n/a,-95.0,-26.0,Ryan Reaves,Hitter,Vegas Golden Knights,Travis Dermott,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:21:11Z,1,07:52,12:08,Hit,n/a,-97.0,14.0,Frederik Gauthier,Hitter,Toronto Maple Leafs,Tomas Nosek,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:21:11Z,1,07:56,12:04,Hit,n/a,-97.0,13.0,William Carrier,Hitter,Vegas Golden Knights,Pierre Engvall,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:21:24Z,1,07:59,12:01,Hit,n/a,-93.0,-29.0,Ryan Reaves,Hitter,Vegas Golden Knights,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:21:24Z,1,08:09,11:51,Hit,n/a,88.0,34.0,Frederik Gauthier,Hitter,Toronto Maple Leafs,Deryk Engelland,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:21:30Z,1,08:15,11:45,Shot,Wrist Shot,65.0,-33.0,Justin Holl,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:21:57Z,1,08:42,11:18,Missed Shot,n/a,-64.0,15.0,Mark Stone,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:22:29Z,1,08:52,11:08,Faceoff,n/a,-69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:22:57Z,1,09:08,10:52,Hit,n/a,-24.0,-38.0,Cody Eakin,Hitter,Vegas Golden Knights,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:22:57Z,1,09:10,10:50,Giveaway,n/a,-55.0,16.0,Jonathan Marchessault,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:23:51Z,1,09:14,10:46,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:23:39Z,1,09:23,10:37,Shot,Wrist Shot,78.0,3.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:23:55Z,1,09:40,10:20,Hit,n/a,-96.0,16.0,Reilly Smith,Hitter,Vegas Golden Knights,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:23:59Z,1,09:43,10:17,Shot,Backhand,-91.0,-9.0,Reilly Smith,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:24:01Z,1,09:43,10:17,Shot,Wrist Shot,-81.0,2.0,William Karlsson,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:24:23Z,1,09:43,10:17,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Max Pacioretty,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:25:46Z,1,10:57,09:03,Shot,Wrist Shot,-50.0,-26.0,Shea Theodore,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:27:43Z,1,10:57,09:03,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Tomas Nosek,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:28:55Z,1,11:30,08:30,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Tomas Nosek,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:29:08Z,1,11:36,08:24,Shot,Deflected,80.0,-2.0,Zach Hyman,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:29:16Z,1,11:44,08:16,Blocked Shot,n/a,74.0,-13.0,Tomas Nosek,Blocker,Vegas Golden Knights,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:29:43Z,1,12:11,07:49,Hit,n/a,-78.0,-22.0,Zach Hyman,Hitter,Toronto Maple Leafs,Paul Stastny,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:30:08Z,1,12:36,07:24,Takeaway,n/a,-95.0,-1.0,Alex Tuch,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:31:20Z,1,13:16,06:44,Faceoff,n/a,20.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,Max Pacioretty,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:31:57Z,1,13:32,06:28,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:32:17Z,1,13:50,06:10,Shot,Wrist Shot,78.0,-20.0,Zach Hyman,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:32:57Z,1,14:28,05:32,Giveaway,n/a,-62.0,39.0,Morgan Rielly,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:33:04Z,1,14:37,05:23,Blocked Shot,n/a,-67.0,15.0,Auston Matthews,Blocker,Toronto Maple Leafs,Mark Stone,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:33:47Z,1,15:00,05:00,Shot,Deflected,-79.0,-9.0,Jonathan Marchessault,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:33:30Z,1,15:02,04:58,Shot,Backhand,-81.0,-6.0,Jonathan Marchessault,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:35:09Z,1,15:02,04:58,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Tomas Nosek,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:36:17Z,1,15:33,04:27,Blocked Shot,n/a,-73.0,19.0,Travis Dermott,Blocker,Toronto Maple Leafs,William Carrier,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:36:58Z,1,15:34,04:26,Faceoff,n/a,-69.0,22.0,Nic Petan,Winner,Toronto Maple Leafs,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:38:08Z,1,16:44,03:16,Blocked Shot,n/a,67.0,-4.0,Jon Merrill,Blocker,Vegas Golden Knights,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:38:15Z,1,16:48,03:12,Hit,n/a,94.0,-12.0,Reilly Smith,Hitter,Vegas Golden Knights,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:38:19Z,1,16:54,03:06,Missed Shot,n/a,-59.0,-18.0,William Karlsson,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:38:30Z,1,17:05,02:55,Shot,Wrist Shot,-53.0,37.0,Deryk Engelland,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:38:38Z,1,17:10,02:50,Hit,n/a,-82.0,39.0,John Tavares,Hitter,Toronto Maple Leafs,Reilly Smith,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:39:04Z,1,17:38,02:22,Blocked Shot,n/a,57.0,-1.0,Brayden McNabb,Blocker,Vegas Golden Knights,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:39:28Z,1,17:38,02:22,Faceoff,n/a,69.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:39:40Z,1,17:48,02:12,Hit,n/a,-35.0,-40.0,Tyson Barrie,Hitter,Toronto Maple Leafs,Jonathan Marchessault,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:39:58Z,1,18:06,01:54,Takeaway,n/a,-1.0,31.0,Jonathan Marchessault,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:40:03Z,1,18:11,01:49,Shot,Slap Shot,-61.0,0.0,Mark Stone,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:40:36Z,1,18:44,01:16,Missed Shot,n/a,-72.0,0.0,Tomas Nosek,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:40:43Z,1,18:51,01:09,Hit,n/a,-62.0,-36.0,Ryan Reaves,Hitter,Vegas Golden Knights,Nicholas Shore,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:41:15Z,1,19:22,00:38,Blocked Shot,n/a,69.0,-21.0,Jon Merrill,Blocker,Vegas Golden Knights,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T03:41:43Z,1,19:37,00:23,Blocked Shot,n/a,-76.0,11.0,Justin Holl,Blocker,Toronto Maple Leafs,Deryk Engelland,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:00:33Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Cody Eakin,Winner,Vegas Golden Knights,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:01:04Z,2,00:27,19:33,Shot,Snap Shot,33.0,31.0,Jon Merrill,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:01:18Z,2,00:27,19:33,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:01:54Z,2,00:49,19:11,Missed Shot,n/a,46.0,-34.0,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:02:10Z,2,01:05,18:55,Takeaway,n/a,71.0,16.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:02:18Z,2,01:14,18:46,Shot,Wrist Shot,-61.0,-17.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:02:25Z,2,01:20,18:40,Shot,Backhand,-81.0,-3.0,Auston Matthews,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:02:54Z,2,01:28,18:32,Faceoff,n/a,69.0,22.0,Cody Glass,Winner,Vegas Golden Knights,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:03:10Z,2,01:34,18:26,Missed Shot,n/a,82.0,12.0,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:03:27Z,2,01:37,18:23,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:04:02Z,2,02:03,17:57,Hit,n/a,-94.0,31.0,Nicholas Shore,Hitter,Toronto Maple Leafs,Nicolas Hague,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:04:06Z,2,02:07,17:53,Missed Shot,n/a,57.0,-16.0,Cody Glass,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:04:25Z,2,02:08,17:52,Faceoff,n/a,69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Tomas Nosek,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:04:49Z,2,02:15,17:45,Hit,n/a,97.0,-23.0,Jake Muzzin,Hitter,Toronto Maple Leafs,William Carrier,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:04:57Z,2,02:22,17:38,Shot,Wrist Shot,36.0,23.0,Ryan Reaves,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:05:13Z,2,02:23,17:37,Faceoff,n/a,69.0,22.0,William Carrier,Winner,Vegas Golden Knights,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:05:46Z,2,02:43,17:17,Hit,n/a,-13.0,35.0,Nicolas Hague,Hitter,Vegas Golden Knights,Nic Petan,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:06:15Z,2,02:50,17:10,Takeaway,n/a,-30.0,-38.0,Jake Muzzin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:06:00Z,2,02:57,17:03,Shot,Wrist Shot,79.0,-5.0,Shea Theodore,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:06:05Z,2,03:03,16:57,Shot,Wrist Shot,62.0,-3.0,Ryan Reaves,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:06:09Z,2,03:07,16:53,Takeaway,n/a,36.0,38.0,Ryan Reaves,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:06:30Z,2,03:28,16:32,Hit,n/a,99.0,-6.0,Justin Holl,Hitter,Toronto Maple Leafs,Cody Eakin,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:06:41Z,2,03:38,16:22,Hit,n/a,-22.0,37.0,Jon Merrill,Hitter,Vegas Golden Knights,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:06:50Z,2,03:47,16:13,Shot,Snap Shot,64.0,-14.0,Cody Eakin,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:07:07Z,2,03:47,16:13,Faceoff,n/a,69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:07:32Z,2,03:53,16:07,Faceoff,n/a,69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:07:53Z,2,04:07,15:53,Hit,n/a,-53.0,39.0,Brayden McNabb,Hitter,Vegas Golden Knights,Andreas Johnsson,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:07:57Z,2,04:11,15:49,Blocked Shot,n/a,-76.0,-9.0,William Karlsson,Blocker,Vegas Golden Knights,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:08:16Z,2,04:29,15:31,Giveaway,n/a,-89.0,-33.0,Nate Schmidt,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:08:32Z,2,04:46,15:14,Shot,Wrist Shot,-70.0,2.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:08:56Z,2,04:47,15:13,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:09:11Z,2,04:57,15:03,Giveaway,n/a,-80.0,34.0,Shea Theodore,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:09:29Z,2,05:15,14:45,Blocked Shot,n/a,48.0,1.0,Travis Dermott,Blocker,Toronto Maple Leafs,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:09:45Z,2,05:15,14:45,Faceoff,n/a,69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:09:59Z,2,05:18,14:42,Blocked Shot,n/a,71.0,12.0,Frederik Gauthier,Blocker,Toronto Maple Leafs,Alex Tuch,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:10:11Z,2,05:18,14:42,Faceoff,n/a,69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:10:23Z,2,05:25,14:35,Shot,Slap Shot,34.0,31.0,Nicolas Hague,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:10:26Z,2,05:28,14:32,Takeaway,n/a,44.0,16.0,Paul Stastny,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:10:31Z,2,05:33,14:27,Takeaway,n/a,49.0,38.0,Paul Stastny,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:10:40Z,2,05:39,14:21,Giveaway,n/a,69.0,7.0,Frederik Gauthier,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:10:39Z,2,05:41,14:19,Blocked Shot,n/a,61.0,1.0,Frederik Gauthier,Blocker,Toronto Maple Leafs,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:11:12Z,2,06:07,13:53,Hit,n/a,99.0,-2.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Paul Stastny,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:11:10Z,2,06:12,13:48,Shot,Slap Shot,35.0,-27.0,Deryk Engelland,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:11:15Z,2,06:17,13:43,Blocked Shot,n/a,63.0,-3.0,Justin Holl,Blocker,Toronto Maple Leafs,Paul Stastny,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:11:22Z,2,06:24,13:36,Hit,n/a,97.0,9.0,Ryan Reaves,Hitter,Vegas Golden Knights,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:11:36Z,2,06:37,13:23,Missed Shot,n/a,73.0,-13.0,Ryan Reaves,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:11:48Z,2,06:37,13:23,Penalty,Cross checking,81.0,2.0,Justin Holl,PenaltyOn,Toronto Maple Leafs,Ryan Reaves,DrewBy,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:13:19Z,2,06:37,13:23,Faceoff,n/a,69.0,22.0,Zach Hyman,Winner,Toronto Maple Leafs,Alex Tuch,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:14:31Z,2,06:52,13:08,Blocked Shot,n/a,45.0,-14.0,Ilya Mikheyev,Blocker,Toronto Maple Leafs,William Karlsson,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:14:43Z,2,07:04,12:56,Shot,Wrist Shot,33.0,-3.0,Shea Theodore,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:15:05Z,2,07:26,12:34,Blocked Shot,n/a,70.0,-3.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Jonathan Marchessault,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:15:44Z,2,08:05,11:55,Shot,Wrist Shot,62.0,-26.0,Max Pacioretty,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:15:51Z,2,08:07,11:53,Goal,Wrist Shot,84.0,2.0,Cody Glass,Scorer,Vegas Golden Knights,Max Pacioretty,Assist,Vegas Golden Knights,Nate Schmidt,Assist,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-11-20T04:16:34Z,2,08:07,11:53,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:16:51Z,2,08:26,11:34,Hit,n/a,97.0,2.0,Cody Eakin,Hitter,Vegas Golden Knights,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:16:58Z,2,08:33,11:27,Takeaway,n/a,-60.0,-18.0,Nate Schmidt,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:17:05Z,2,08:39,11:21,Shot,Wrist Shot,45.0,19.0,Brayden McNabb,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:17:40Z,2,08:41,11:19,Faceoff,n/a,69.0,22.0,William Karlsson,Winner,Vegas Golden Knights,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:18:57Z,2,10:02,09:58,Hit,n/a,-94.0,29.0,Ilya Mikheyev,Hitter,Toronto Maple Leafs,Deryk Engelland,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:19:08Z,2,10:13,09:47,Blocked Shot,n/a,-73.0,-2.0,William Carrier,Blocker,Vegas Golden Knights,Nic Petan,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:19:14Z,2,10:19,09:41,Hit,n/a,-59.0,-33.0,Ryan Reaves,Hitter,Vegas Golden Knights,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:19:41Z,2,10:36,09:24,Hit,n/a,-97.0,-1.0,Jason Spezza,Hitter,Toronto Maple Leafs,Nicolas Hague,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:20:16Z,2,11:21,08:39,Blocked Shot,n/a,-77.0,7.0,Shea Theodore,Blocker,Vegas Golden Knights,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:20:22Z,2,11:27,08:33,Shot,Snap Shot,-37.0,28.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:20:30Z,2,11:35,08:25,Takeaway,n/a,-62.0,3.0,Shea Theodore,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:20:38Z,2,11:44,08:16,Takeaway,n/a,18.0,-27.0,Mark Stone,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:21:22Z,2,12:28,07:32,Giveaway,n/a,59.0,-32.0,Mark Stone,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:21:41Z,2,12:46,07:14,Missed Shot,n/a,44.0,18.0,Reilly Smith,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:21:48Z,2,12:54,07:06,Giveaway,n/a,97.0,13.0,William Karlsson,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:23:39Z,2,12:59,07:01,Faceoff,n/a,0.0,0.0,William Karlsson,Winner,Vegas Golden Knights,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:24:30Z,2,13:18,06:42,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:25:02Z,2,13:30,06:30,Hit,n/a,-20.0,-34.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Reilly Smith,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:25:09Z,2,13:37,06:23,Shot,Slap Shot,-36.0,-28.0,Jake Muzzin,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:25:34Z,2,13:37,06:23,Faceoff,n/a,-69.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:25:58Z,2,13:46,06:14,Blocked Shot,n/a,-66.0,-14.0,Jon Merrill,Blocker,Vegas Golden Knights,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:26:05Z,2,13:52,06:08,Blocked Shot,n/a,-77.0,-1.0,Deryk Engelland,Blocker,Vegas Golden Knights,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:26:17Z,2,14:05,05:55,Missed Shot,n/a,-69.0,-21.0,Zach Hyman,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:26:17Z,2,14:07,05:53,Blocked Shot,n/a,-72.0,27.0,Jonathan Marchessault,Blocker,Vegas Golden Knights,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:26:49Z,2,14:37,05:23,Shot,Wrist Shot,3.0,-39.0,Mark Stone,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:27:16Z,2,14:38,05:22,Faceoff,n/a,69.0,22.0,Tomas Nosek,Winner,Vegas Golden Knights,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:29:18Z,2,14:49,05:11,Faceoff,n/a,69.0,22.0,Tomas Nosek,Winner,Vegas Golden Knights,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:30:21Z,2,15:15,04:45,Missed Shot,n/a,-78.0,-5.0,Pierre Engvall,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:30:35Z,2,15:25,04:35,Giveaway,n/a,-69.0,40.0,Frederik Gauthier,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:31:03Z,2,15:57,04:03,Hit,n/a,95.0,27.0,Justin Holl,Hitter,Toronto Maple Leafs,Paul Stastny,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:31:17Z,2,16:11,03:49,Blocked Shot,n/a,-39.0,-22.0,Alex Tuch,Blocker,Vegas Golden Knights,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:31:25Z,2,16:19,03:41,Shot,Snap Shot,54.0,-23.0,Alex Tuch,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:31:45Z,2,16:19,03:41,Faceoff,n/a,69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:32:14Z,2,16:34,03:26,Takeaway,n/a,-38.0,-8.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:32:50Z,2,17:10,02:50,Missed Shot,n/a,54.0,36.0,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:33:00Z,2,17:20,02:40,Missed Shot,n/a,-79.0,-4.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:33:10Z,2,17:29,02:31,Shot,Backhand,-72.0,-2.0,William Nylander,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:33:13Z,2,17:32,02:28,Shot,Snap Shot,-67.0,17.0,Auston Matthews,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:33:24Z,2,17:43,02:17,Shot,Tip-In,-79.0,0.0,William Nylander,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:34:01Z,2,18:20,01:40,Hit,n/a,96.0,20.0,Cody Ceci,Hitter,Toronto Maple Leafs,Max Pacioretty,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:34:14Z,2,18:33,01:27,Shot,Slap Shot,34.0,9.0,Brayden McNabb,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:34:23Z,2,18:43,01:17,Blocked Shot,n/a,61.0,-1.0,Jason Spezza,Blocker,Toronto Maple Leafs,Jon Merrill,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:34:30Z,2,18:50,01:10,Blocked Shot,n/a,80.0,8.0,Cody Ceci,Blocker,Toronto Maple Leafs,Paul Stastny,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:34:53Z,2,18:55,01:05,Faceoff,n/a,69.0,22.0,Jason Spezza,Winner,Toronto Maple Leafs,Tomas Nosek,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:35:35Z,2,18:59,01:01,Faceoff,n/a,69.0,22.0,Tomas Nosek,Winner,Vegas Golden Knights,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:35:50Z,2,19:04,00:56,Shot,Wrist Shot,86.0,-9.0,William Carrier,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:35:52Z,2,19:06,00:54,Hit,n/a,98.0,2.0,Ryan Reaves,Hitter,Vegas Golden Knights,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:36:19Z,2,19:33,00:27,Hit,n/a,-97.0,-21.0,Frederik Gauthier,Hitter,Toronto Maple Leafs,Brayden McNabb,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:36:33Z,2,19:47,00:13,Shot,Wrist Shot,70.0,9.0,Cody Eakin,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:37:03Z,2,19:48,00:12,Faceoff,n/a,69.0,22.0,Cody Eakin,Winner,Vegas Golden Knights,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:37:15Z,2,19:51,00:09,Shot,Slap Shot,34.0,-12.0,Shea Theodore,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:37:21Z,2,19:58,00:02,Blocked Shot,n/a,58.0,14.0,John Tavares,Blocker,Toronto Maple Leafs,Nate Schmidt,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:56:06Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:56:15Z,3,00:09,19:51,Hit,n/a,57.0,40.0,Deryk Engelland,Hitter,Vegas Golden Knights,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:56:20Z,3,00:14,19:46,Takeaway,n/a,96.0,18.0,Cody Eakin,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:56:27Z,3,00:21,19:39,Shot,Wrist Shot,-60.0,0.0,Mark Stone,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:57:30Z,3,01:06,18:54,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:57:54Z,3,01:18,18:42,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:58:16Z,3,01:24,18:36,Blocked Shot,n/a,64.0,5.0,Jon Merrill,Blocker,Vegas Golden Knights,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:58:24Z,3,01:32,18:28,Takeaway,n/a,67.0,39.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:59:05Z,3,02:13,17:47,Blocked Shot,n/a,-74.0,-10.0,Travis Dermott,Blocker,Toronto Maple Leafs,William Karlsson,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T04:59:38Z,3,02:14,17:46,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Tomas Nosek,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:00:07Z,3,02:23,17:37,Faceoff,n/a,-69.0,-22.0,Tomas Nosek,Winner,Vegas Golden Knights,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:01:13Z,3,03:27,16:33,Shot,Slap Shot,-34.0,24.0,Nate Schmidt,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:01:17Z,3,03:31,16:29,Blocked Shot,n/a,-62.0,-3.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Cody Glass,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:01:39Z,3,03:31,16:29,Blocked Shot,n/a,-75.0,-26.0,Pierre Engvall,Blocker,Toronto Maple Leafs,Brayden McNabb,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:01:39Z,3,03:33,16:27,Faceoff,n/a,-69.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:01:50Z,3,03:36,16:24,Shot,Wrist Shot,-57.0,-6.0,Jonathan Marchessault,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:02:12Z,3,03:57,16:03,Giveaway,n/a,-67.0,36.0,Jonathan Marchessault,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:02:38Z,3,04:24,15:36,Takeaway,n/a,-62.0,-6.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:02:46Z,3,04:32,15:28,Missed Shot,n/a,33.0,16.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:03:00Z,3,04:46,15:14,Hit,n/a,-45.0,-38.0,Auston Matthews,Hitter,Toronto Maple Leafs,Max Pacioretty,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:03:13Z,3,04:59,15:01,Shot,Backhand,77.0,-2.0,William Nylander,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:03:34Z,3,05:00,15:00,Shot,Wrist Shot,78.0,-2.0,William Nylander,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:03:43Z,3,05:01,14:59,Faceoff,n/a,69.0,-22.0,Jason Spezza,Winner,Toronto Maple Leafs,Tomas Nosek,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:04:09Z,3,05:13,14:47,Faceoff,n/a,-69.0,22.0,Tomas Nosek,Winner,Vegas Golden Knights,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:04:36Z,3,05:20,14:40,Shot,Snap Shot,68.0,22.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:04:59Z,3,05:21,14:39,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:05:28Z,3,05:33,14:27,Shot,Snap Shot,-69.0,20.0,Cody Eakin,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:05:43Z,3,05:33,14:27,Faceoff,n/a,-69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:06:01Z,3,05:40,14:20,Shot,Wrist Shot,-93.0,23.0,Jake Muzzin,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:06:14Z,3,05:42,14:18,Giveaway,n/a,83.0,38.0,Jon Merrill,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:06:24Z,3,06:00,14:00,Hit,n/a,8.0,40.0,Mark Stone,Hitter,Vegas Golden Knights,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:06:45Z,3,06:24,13:36,Hit,n/a,93.0,-27.0,Nate Schmidt,Hitter,Vegas Golden Knights,Andreas Johnsson,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:06:50Z,3,06:30,13:30,Blocked Shot,n/a,-79.0,10.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:07:13Z,3,06:52,13:08,Blocked Shot,n/a,73.0,0.0,Brayden McNabb,Blocker,Vegas Golden Knights,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:07:19Z,3,06:59,13:01,Shot,Wrist Shot,-18.0,-29.0,Max Pacioretty,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:07:43Z,3,07:22,12:38,Takeaway,n/a,17.0,3.0,Nicolas Hague,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:07:47Z,3,07:23,12:37,Giveaway,n/a,17.0,1.0,Nicolas Hague,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:07:48Z,3,07:26,12:34,Goal,Wrist Shot,54.0,-26.0,Jason Spezza,Scorer,Toronto Maple Leafs,Ilya Mikheyev,Assist,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a
+2019-11-20T05:08:34Z,3,07:26,12:34,Faceoff,n/a,0.0,0.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Tomas Nosek,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:09:05Z,3,07:50,12:10,Hit,n/a,-84.0,39.0,Travis Dermott,Hitter,Toronto Maple Leafs,William Carrier,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:09:20Z,3,08:05,11:55,Takeaway,n/a,-18.0,-3.0,Tomas Nosek,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:09:22Z,3,08:08,11:52,Goal,Backhand,-73.0,9.0,Tomas Nosek,Scorer,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:09:59Z,3,08:08,11:52,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Jonathan Marchessault,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:10:28Z,3,08:29,11:31,Blocked Shot,n/a,-75.0,7.0,John Tavares,Blocker,Toronto Maple Leafs,Deryk Engelland,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:10:32Z,3,08:34,11:26,Hit,n/a,-20.0,32.0,Deryk Engelland,Hitter,Vegas Golden Knights,Zach Hyman,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:10:35Z,3,08:37,11:23,Shot,Wrist Shot,70.0,14.0,John Tavares,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:13:02Z,3,08:39,11:21,Faceoff,n/a,69.0,22.0,William Karlsson,Winner,Vegas Golden Knights,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:13:14Z,3,08:50,11:10,Shot,Wrist Shot,79.0,-2.0,William Nylander,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:13:16Z,3,08:51,11:09,Shot,Wrist Shot,83.0,-3.0,William Nylander,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:13:27Z,3,09:03,10:57,Giveaway,n/a,-70.0,24.0,William Karlsson,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:13:43Z,3,09:19,10:41,Blocked Shot,n/a,76.0,-2.0,Brayden McNabb,Blocker,Vegas Golden Knights,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:14:09Z,3,09:23,10:37,Faceoff,n/a,20.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:14:28Z,3,09:36,10:24,Shot,Tip-In,64.0,-1.0,John Tavares,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:14:43Z,3,09:51,10:09,Shot,Wrist Shot,82.0,-6.0,Zach Hyman,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:14:48Z,3,09:53,10:07,Shot,Wrap-around,87.0,5.0,Zach Hyman,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:15:05Z,3,10:00,10:00,Penalty,Hooking,30.0,25.0,John Tavares,PenaltyOn,Toronto Maple Leafs,Alex Tuch,DrewBy,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:15:33Z,3,10:00,10:00,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Zach Hyman,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:15:43Z,3,10:07,09:53,Missed Shot,n/a,-71.0,26.0,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:15:59Z,3,10:22,09:38,Goal,Wrist Shot,-67.0,25.0,Mark Stone,Scorer,Vegas Golden Knights,Cody Glass,Assist,Vegas Golden Knights,Shea Theodore,Assist,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-11-20T05:16:44Z,3,10:22,09:38,Faceoff,n/a,0.0,0.0,Tomas Nosek,Winner,Vegas Golden Knights,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:18:46Z,3,10:36,09:24,Faceoff,n/a,20.0,-22.0,William Karlsson,Winner,Vegas Golden Knights,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:19:34Z,3,10:51,09:09,Shot,Tip-In,-79.0,1.0,William Karlsson,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:19:56Z,3,10:52,09:08,Faceoff,n/a,-69.0,22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Tomas Nosek,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:20:10Z,3,10:54,09:06,Hit,n/a,-99.0,-11.0,William Carrier,Hitter,Vegas Golden Knights,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:20:23Z,3,11:01,08:59,Penalty,Slashing,32.0,-19.0,Ryan Reaves,PenaltyOn,Vegas Golden Knights,Pierre Engvall,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:20:41Z,3,11:01,08:59,Faceoff,n/a,69.0,22.0,Cody Eakin,Winner,Vegas Golden Knights,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:20:56Z,3,11:05,08:55,Faceoff,n/a,69.0,-22.0,Cody Eakin,Winner,Vegas Golden Knights,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:21:50Z,3,11:42,08:18,Blocked Shot,n/a,78.0,3.0,Deryk Engelland,Blocker,Vegas Golden Knights,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:22:09Z,3,12:04,07:56,Missed Shot,n/a,40.0,-20.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:22:13Z,3,12:06,07:54,Hit,n/a,84.0,35.0,William Karlsson,Hitter,Vegas Golden Knights,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:22:17Z,3,12:12,07:48,Missed Shot,n/a,46.0,-22.0,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:22:41Z,3,12:17,07:43,Faceoff,n/a,20.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:23:14Z,3,12:46,07:14,Missed Shot,n/a,41.0,-27.0,Jason Spezza,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:23:17Z,3,12:47,07:13,Goal,Wrist Shot,80.0,1.0,Zach Hyman,Scorer,Toronto Maple Leafs,Jason Spezza,Assist,Toronto Maple Leafs,Tyson Barrie,Assist,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights
+2019-11-20T05:24:00Z,3,12:47,07:13,Faceoff,n/a,0.0,0.0,Cody Eakin,Winner,Vegas Golden Knights,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:24:14Z,3,13:00,07:00,Shot,Wrist Shot,-51.0,-16.0,Mark Stone,Shooter,Vegas Golden Knights,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:24:19Z,3,13:05,06:55,Blocked Shot,n/a,-77.0,6.0,Cody Ceci,Blocker,Toronto Maple Leafs,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:24:39Z,3,13:26,06:34,Hit,n/a,97.0,14.0,Ilya Mikheyev,Hitter,Toronto Maple Leafs,Nicolas Hague,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:24:43Z,3,13:29,06:31,Shot,Wrist Shot,33.0,25.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:24:48Z,3,13:34,06:26,Shot,Snap Shot,68.0,15.0,Frederik Gauthier,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:25:00Z,3,13:47,06:13,Blocked Shot,n/a,42.0,-30.0,Jonathan Marchessault,Blocker,Vegas Golden Knights,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:25:30Z,3,14:16,05:44,Takeaway,n/a,17.0,41.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:26:06Z,3,14:52,05:08,Blocked Shot,n/a,-32.0,-10.0,Jon Merrill,Blocker,Vegas Golden Knights,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:26:27Z,3,15:14,04:46,Missed Shot,n/a,79.0,38.0,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:26:30Z,3,15:16,04:44,Missed Shot,n/a,47.0,-35.0,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:27:13Z,3,16:00,04:00,Hit,n/a,-36.0,-36.0,Travis Dermott,Hitter,Toronto Maple Leafs,Mark Stone,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:27:20Z,3,16:06,03:54,Hit,n/a,-54.0,-29.0,Jonathan Marchessault,Hitter,Vegas Golden Knights,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:27:27Z,3,16:14,03:46,Missed Shot,n/a,42.0,22.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:27:31Z,3,16:17,03:43,Shot,Backhand,76.0,-16.0,Nic Petan,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:29:26Z,3,16:17,03:43,Faceoff,n/a,69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:29:58Z,3,16:23,03:37,Shot,Wrap-around,87.0,5.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Marc-Andre Fleury,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:30:20Z,3,16:40,03:20,Penalty,Slashing,81.0,4.0,Brayden McNabb,PenaltyOn,Vegas Golden Knights,Andreas Johnsson,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:30:48Z,3,16:40,03:20,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:31:49Z,3,17:23,02:37,Blocked Shot,n/a,71.0,3.0,Deryk Engelland,Blocker,Vegas Golden Knights,Andreas Johnsson,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:31:52Z,3,17:30,02:30,Blocked Shot,n/a,69.0,11.0,Deryk Engelland,Blocker,Vegas Golden Knights,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:32:40Z,3,18:16,01:44,Hit,n/a,87.0,-35.0,Andreas Johnsson,Hitter,Toronto Maple Leafs,Nate Schmidt,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:32:56Z,3,18:33,01:27,Takeaway,n/a,46.0,-39.0,Tomas Nosek,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:33:17Z,3,18:54,01:06,Blocked Shot,n/a,82.0,6.0,Brayden McNabb,Blocker,Vegas Golden Knights,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:33:48Z,3,19:24,00:36,Missed Shot,n/a,38.0,20.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:33:54Z,3,19:31,00:29,Takeaway,n/a,36.0,30.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-20T05:34:05Z,3,19:39,00:21,Goal,Wrist Shot,-73.0,0.0,Cody Eakin,Scorer,Vegas Golden Knights,Max Pacioretty,Assist,Vegas Golden Knights,Jonathan Marchessault,Assist,Toronto Maple Leafs,n/a,n/a,n/a
+2019-11-20T05:34:45Z,3,19:39,00:21,Faceoff,n/a,0.0,0.0,Cody Glass,Winner,Vegas Golden Knights,Jason Spezza,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a

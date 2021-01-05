@@ -1,0 +1,225 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-13T00:07:58Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:08:46Z,1,00:07,19:53,Faceoff,n/a,69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:09:19Z,1,00:17,19:43,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:09:59Z,1,00:37,19:23,Giveaway,n/a,-46.0,6.0,Roman Josi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:10:04Z,1,00:41,19:19,Shot,Snap Shot,53.0,-32.0,Sam Reinhart,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:10:27Z,1,00:42,19:18,Faceoff,n/a,69.0,-22.0,Marcus Johansson,Winner,Buffalo Sabres,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:10:47Z,1,00:54,19:06,Giveaway,n/a,-36.0,41.0,Marco Scandella,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:10:47Z,1,00:57,19:03,Goal,Wrist Shot,-87.0,7.0,Matt Duchene,Scorer,Nashville Predators,Kyle Turris,Assist,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a
+2019-12-13T00:11:22Z,1,00:57,19:03,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:11:37Z,1,01:11,18:49,Hit,n/a,59.0,41.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Nick Bonino,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:11:54Z,1,01:28,18:32,Shot,Wrist Shot,78.0,-4.0,Kyle Okposo,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:12:38Z,1,02:13,17:47,Takeaway,n/a,45.0,-3.0,Matt Duchene,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:13:05Z,1,02:39,17:21,Shot,Wrist Shot,-34.0,27.0,Ryan Ellis,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:13:16Z,1,02:50,17:10,Shot,Wrist Shot,-60.0,-16.0,Matt Duchene,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:13:42Z,1,02:51,17:09,Faceoff,n/a,-69.0,-22.0,Colton Sissons,Winner,Nashville Predators,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:13:57Z,1,03:00,17:00,Shot,Wrist Shot,50.0,38.0,Jimmy Vesey,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:14:19Z,1,03:22,16:38,Missed Shot,n/a,69.0,3.0,Rasmus Asplund,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:14:42Z,1,03:44,16:16,Shot,Backhand,73.0,11.0,Jack Eichel,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:14:56Z,1,03:46,16:14,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:15:14Z,1,03:53,16:07,Giveaway,n/a,52.0,15.0,Filip Forsberg,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:15:16Z,1,03:57,16:03,Missed Shot,n/a,52.0,17.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:15:40Z,1,04:10,15:50,Missed Shot,n/a,34.0,-35.0,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:15:45Z,1,04:24,15:36,Giveaway,n/a,62.0,30.0,Victor Olofsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:15:50Z,1,04:31,15:29,Shot,Wrist Shot,29.0,-39.0,Sam Reinhart,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:16:07Z,1,04:48,15:12,Shot,Wrist Shot,54.0,-16.0,Kyle Okposo,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:16:40Z,1,04:49,15:11,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:16:50Z,1,05:03,14:57,Takeaway,n/a,10.0,9.0,Nick Bonino,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:17:00Z,1,05:12,14:48,Shot,Wrist Shot,54.0,-14.0,Evan Rodrigues,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:17:08Z,1,05:14,14:46,Shot,Wrist Shot,80.0,-1.0,Evan Rodrigues,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:17:27Z,1,05:15,14:45,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:17:49Z,1,05:29,14:31,Shot,Wrist Shot,-59.0,38.0,Daniel Carr,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:17:56Z,1,05:36,14:24,Shot,Wrist Shot,83.0,-31.0,Sam Reinhart,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:19:04Z,1,06:43,13:17,Shot,Wrist Shot,-31.0,7.0,Roman Josi,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:19:14Z,1,06:53,13:07,Giveaway,n/a,-55.0,4.0,Dan Hamhuis,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:19:26Z,1,07:06,12:54,Shot,Wrist Shot,39.0,20.0,Colin Miller,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:20:13Z,1,07:52,12:08,Blocked Shot,n/a,-80.0,11.0,Kyle Okposo,Blocker,Buffalo Sabres,Nick Bonino,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:20:19Z,1,07:59,12:01,Missed Shot,n/a,-76.0,-10.0,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:20:29Z,1,08:09,11:51,Missed Shot,n/a,-67.0,-17.0,Nick Bonino,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:20:35Z,1,08:12,11:48,Hit,n/a,-77.0,41.0,Jake McCabe,Hitter,Buffalo Sabres,Craig Smith,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:20:36Z,1,08:16,11:44,Shot,Wrist Shot,-67.0,21.0,Rocco Grimaldi,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:22:41Z,1,08:17,11:43,Faceoff,n/a,-69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:23:18Z,1,08:40,11:20,Shot,Wrist Shot,49.0,35.0,Jake McCabe,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:23:43Z,1,08:41,11:19,Faceoff,n/a,69.0,22.0,Colton Sissons,Winner,Nashville Predators,Jeff Skinner,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:24:47Z,1,09:43,10:17,Blocked Shot,n/a,60.0,1.0,Mikael Granlund,Blocker,Nashville Predators,Rasmus Asplund,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:25:05Z,1,10:01,09:59,Missed Shot,n/a,36.0,35.0,Marco Scandella,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:25:12Z,1,10:08,09:52,Giveaway,n/a,41.0,31.0,Rasmus Asplund,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:25:38Z,1,10:34,09:26,Missed Shot,n/a,-34.0,-28.0,Dan Hamhuis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:25:56Z,1,10:52,09:08,Blocked Shot,n/a,-59.0,-3.0,Rasmus Dahlin,Blocker,Buffalo Sabres,Dan Hamhuis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:26:18Z,1,11:04,08:56,Missed Shot,n/a,-69.0,-10.0,Daniel Carr,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:26:49Z,1,11:46,08:14,Shot,Tip-In,77.0,4.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:26:54Z,1,11:48,08:12,Hit,n/a,98.0,-9.0,Filip Forsberg,Hitter,Nashville Predators,Zemgus Girgensons,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:27:06Z,1,12:02,07:58,Missed Shot,n/a,79.0,-2.0,Johan Larsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:27:42Z,1,12:13,07:47,Faceoff,n/a,69.0,-22.0,Evan Rodrigues,Winner,Buffalo Sabres,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:28:06Z,1,12:24,07:36,Faceoff,n/a,69.0,-22.0,Evan Rodrigues,Winner,Buffalo Sabres,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:28:44Z,1,12:46,07:14,Shot,Snap Shot,42.0,1.0,Evan Rodrigues,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:29:23Z,1,13:23,06:37,Giveaway,n/a,-30.0,7.0,Nick Bonino,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:32:01Z,1,13:49,06:11,Faceoff,n/a,20.0,-22.0,Marcus Johansson,Winner,Buffalo Sabres,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:32:21Z,1,14:10,05:50,Hit,n/a,87.0,-35.0,Matt Duchene,Hitter,Nashville Predators,Marcus Johansson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:32:29Z,1,14:18,05:42,Blocked Shot,n/a,58.0,19.0,Matt Duchene,Blocker,Nashville Predators,Jimmy Vesey,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:32:46Z,1,14:33,05:27,Goal,Tip-In,79.0,1.0,Jimmy Vesey,Scorer,Buffalo Sabres,Rasmus Ristolainen,Assist,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a
+2019-12-13T00:33:38Z,1,14:33,05:27,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:34:09Z,1,15:03,04:57,Missed Shot,n/a,-51.0,1.0,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:34:24Z,1,15:13,04:47,Hit,n/a,-88.0,-35.0,Henri Jokiharju,Hitter,Buffalo Sabres,Calle Jarnkrok,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:34:33Z,1,15:27,04:33,Shot,Wrist Shot,-60.0,-17.0,Roman Josi,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:34:40Z,1,15:29,04:31,Giveaway,n/a,-85.0,20.0,Rasmus Dahlin,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:34:40Z,1,15:32,04:28,Goal,Tip-In,-71.0,2.0,Colton Sissons,Scorer,Nashville Predators,Ryan Ellis,Assist,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a
+2019-12-13T00:35:16Z,1,15:32,04:28,Faceoff,n/a,0.0,0.0,Colton Sissons,Winner,Nashville Predators,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:35:36Z,1,15:38,04:22,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:36:00Z,1,15:54,04:06,Blocked Shot,n/a,61.0,3.0,Austin Watson,Blocker,Nashville Predators,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:36:24Z,1,16:19,03:41,Hit,n/a,97.0,-21.0,Roman Josi,Hitter,Nashville Predators,Victor Olofsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:37:14Z,1,16:42,03:18,Faceoff,n/a,69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:37:39Z,1,16:59,03:01,Giveaway,n/a,-29.0,32.0,Jimmy Vesey,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:37:53Z,1,17:12,02:48,Shot,Tip-In,78.0,2.0,Marcus Johansson,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:39:50Z,1,17:13,02:47,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Sam Reinhart,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:40:40Z,1,17:43,02:17,Blocked Shot,n/a,-62.0,-24.0,Brandon Montour,Blocker,Buffalo Sabres,Rocco Grimaldi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:40:40Z,1,17:45,02:15,Shot,Wrist Shot,-82.0,-5.0,Rocco Grimaldi,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:40:40Z,1,17:47,02:13,Shot,Backhand,-78.0,-8.0,Nick Bonino,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:40:48Z,1,17:50,02:10,Penalty,Tripping,-81.0,-20.0,Brandon Montour,PenaltyOn,Buffalo Sabres,Rocco Grimaldi,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:41:31Z,1,17:50,02:10,Faceoff,n/a,-69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:42:04Z,1,18:39,01:21,Missed Shot,n/a,-90.0,9.0,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:42:18Z,1,18:53,01:07,Blocked Shot,n/a,-66.0,1.0,Zemgus Girgensons,Blocker,Buffalo Sabres,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:42:26Z,1,19:00,01:00,Missed Shot,n/a,-69.0,-24.0,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:42:37Z,1,19:08,00:52,Shot,Slap Shot,-33.0,15.0,Roman Josi,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:42:50Z,1,19:08,00:52,Penalty,Delaying Game - Puck over glass,-68.0,41.0,Marco Scandella,PenaltyOn,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:43:17Z,1,19:08,00:52,Faceoff,n/a,-69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:44:07Z,1,19:54,00:06,Blocked Shot,n/a,-58.0,5.0,Zemgus Girgensons,Blocker,Buffalo Sabres,Ryan Ellis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T00:44:15Z,1,19:59,00:01,Shot,Slap Shot,-40.0,31.0,Ryan Ellis,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:02:41Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:03:45Z,2,00:57,19:03,Hit,n/a,83.0,-39.0,Jake McCabe,Hitter,Buffalo Sabres,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:03:52Z,2,01:04,18:56,Giveaway,n/a,28.0,-35.0,Johan Larsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:03:57Z,2,01:09,18:51,Shot,Wrist Shot,37.0,35.0,Ryan Ellis,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:04:08Z,2,01:20,18:40,Blocked Shot,n/a,73.0,4.0,Jimmy Vesey,Blocker,Buffalo Sabres,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:04:23Z,2,01:35,18:25,Missed Shot,n/a,-54.0,34.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:04:51Z,2,02:03,17:57,Shot,Wrist Shot,61.0,20.0,Calle Jarnkrok,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:05:23Z,2,02:35,17:25,Shot,Slap Shot,35.0,33.0,Mikael Granlund,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:05:47Z,2,02:36,17:24,Faceoff,n/a,69.0,22.0,Evan Rodrigues,Winner,Buffalo Sabres,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:06:04Z,2,02:52,17:08,Blocked Shot,n/a,-61.0,0.0,Mikael Granlund,Blocker,Nashville Predators,Jake McCabe,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:06:11Z,2,02:59,17:01,Shot,Slap Shot,-45.0,26.0,Marcus Johansson,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:06:14Z,2,03:02,16:58,Giveaway,n/a,59.0,9.0,Matt Duchene,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:06:34Z,2,03:05,16:55,Faceoff,n/a,69.0,-22.0,Colton Sissons,Winner,Nashville Predators,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:07:09Z,2,03:29,16:31,Giveaway,n/a,60.0,-20.0,Daniel Carr,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:07:53Z,2,04:13,15:47,Shot,Wrist Shot,59.0,8.0,Ryan Johansen,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:08:28Z,2,04:14,15:46,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:09:06Z,2,04:55,15:05,Goal,Snap Shot,-71.0,-21.0,Jack Eichel,Scorer,Buffalo Sabres,Sam Reinhart,Assist,Buffalo Sabres,Colin Miller,Assist,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators
+2019-12-13T01:10:13Z,2,04:55,15:05,Faceoff,n/a,0.0,0.0,Nick Bonino,Winner,Nashville Predators,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:10:32Z,2,05:39,14:21,Shot,Wrist Shot,51.0,15.0,Roman Josi,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:11:22Z,2,05:40,14:20,Faceoff,n/a,69.0,22.0,Matt Duchene,Winner,Nashville Predators,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:11:16Z,2,05:44,14:16,Shot,Wrist Shot,37.0,20.0,Dan Hamhuis,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:11:47Z,2,05:44,14:16,Faceoff,n/a,69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:12:02Z,2,06:04,13:56,Shot,Wrist Shot,-2.0,-38.0,Yannick Weber,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:12:17Z,2,06:19,13:41,Hit,n/a,-98.0,1.0,Yannick Weber,Hitter,Nashville Predators,Rasmus Asplund,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:12:24Z,2,06:22,13:38,Hit,n/a,-93.0,29.0,Mikael Granlund,Hitter,Nashville Predators,Johan Larsson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:12:23Z,2,06:24,13:36,Missed Shot,n/a,-60.0,16.0,Evan Rodrigues,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:12:37Z,2,06:35,13:25,Hit,n/a,-33.0,41.0,Rasmus Asplund,Hitter,Buffalo Sabres,Dan Hamhuis,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:12:53Z,2,06:37,13:23,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:13:15Z,2,06:45,13:15,Giveaway,n/a,-63.0,40.0,Kyle Turris,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:13:30Z,2,07:01,12:59,Shot,Slap Shot,-35.0,0.0,Brandon Montour,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:13:51Z,2,07:15,12:45,Penalty,Hooking,-33.0,-40.0,Matt Duchene,PenaltyOn,Nashville Predators,Jack Eichel,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:15:40Z,2,07:15,12:45,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:17:28Z,2,08:43,11:17,Shot,Wrist Shot,-50.0,17.0,Victor Olofsson,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:17:56Z,2,08:43,11:17,Faceoff,n/a,-69.0,22.0,Nick Bonino,Winner,Nashville Predators,Kyle Okposo,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:18:42Z,2,09:32,10:28,Shot,Snap Shot,-50.0,-12.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:19:11Z,2,09:33,10:27,Faceoff,n/a,-69.0,-22.0,Evan Rodrigues,Winner,Buffalo Sabres,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:19:16Z,2,09:37,10:23,Blocked Shot,n/a,-62.0,-6.0,Dante Fabbro,Blocker,Nashville Predators,Jimmy Vesey,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:19:46Z,2,10:07,09:53,Giveaway,n/a,-65.0,30.0,Matt Duchene,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:20:27Z,2,10:48,09:12,Giveaway,n/a,-96.0,2.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:20:54Z,2,11:12,08:48,Takeaway,n/a,-73.0,32.0,Sam Reinhart,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:20:54Z,2,11:16,08:44,Blocked Shot,n/a,-62.0,7.0,Nick Bonino,Blocker,Nashville Predators,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:21:15Z,2,11:36,08:24,Giveaway,n/a,-77.0,-5.0,Sam Reinhart,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:21:26Z,2,11:47,08:13,Shot,Wrist Shot,-80.0,0.0,Marcus Johansson,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:23:38Z,2,11:49,08:11,Faceoff,n/a,-69.0,22.0,Colton Sissons,Winner,Nashville Predators,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:23:59Z,2,11:55,08:05,Faceoff,n/a,-69.0,-22.0,Colton Sissons,Winner,Nashville Predators,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:24:41Z,2,12:32,07:28,Hit,n/a,-92.0,-31.0,Austin Watson,Hitter,Nashville Predators,Marcus Johansson,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:24:58Z,2,12:52,07:08,Shot,Wrist Shot,-35.0,-34.0,Colin Miller,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:25:44Z,2,13:37,06:23,Hit,n/a,-98.0,15.0,Austin Watson,Hitter,Nashville Predators,Zemgus Girgensons,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:26:05Z,2,13:58,06:02,Shot,Slap Shot,-35.0,-1.0,Marco Scandella,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:26:44Z,2,14:14,05:46,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Colton Sissons,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:26:58Z,2,14:21,05:39,Goal,Tip-In,-76.0,4.0,Jack Eichel,Scorer,Buffalo Sabres,Henri Jokiharju,Assist,Buffalo Sabres,Rasmus Dahlin,Assist,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators
+2019-12-13T01:27:32Z,2,14:21,05:39,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:28:12Z,2,14:56,05:04,Shot,Tip-In,79.0,-1.0,Matt Duchene,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:29:03Z,2,15:47,04:13,Shot,Wrist Shot,87.0,11.0,Filip Forsberg,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:29:15Z,2,15:59,04:01,Hit,n/a,91.0,33.0,Calle Jarnkrok,Hitter,Nashville Predators,Zemgus Girgensons,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:29:23Z,2,16:07,03:53,Goal,Wrist Shot,75.0,0.0,Ryan Johansen,Scorer,Nashville Predators,Filip Forsberg,Assist,Nashville Predators,Calle Jarnkrok,Assist,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres
+2019-12-13T01:30:21Z,2,16:07,03:53,Faceoff,n/a,0.0,0.0,Marcus Johansson,Winner,Buffalo Sabres,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:30:42Z,2,16:34,03:26,Blocked Shot,n/a,-51.0,12.0,Roman Josi,Blocker,Nashville Predators,Jeff Skinner,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:31:48Z,2,17:38,02:22,Missed Shot,n/a,-50.0,-1.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:33:52Z,2,17:40,02:20,Faceoff,n/a,-69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:34:55Z,2,18:10,01:50,Faceoff,n/a,-69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:35:13Z,2,18:21,01:39,Shot,Wrist Shot,49.0,30.0,Filip Forsberg,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:35:31Z,2,18:29,01:31,Hit,n/a,2.0,2.0,Jimmy Vesey,Hitter,Buffalo Sabres,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:36:09Z,2,19:16,00:44,Hit,n/a,35.0,40.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Austin Watson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:36:30Z,2,19:37,00:23,Hit,n/a,99.0,-17.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Colton Sissons,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:36:49Z,2,19:55,00:05,Shot,Snap Shot,49.0,-14.0,Roman Josi,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:37:26Z,2,19:57,00:03,Faceoff,n/a,69.0,-22.0,Kyle Turris,Winner,Nashville Predators,Zemgus Girgensons,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:37:38Z,2,19:59,00:01,Blocked Shot,n/a,49.0,2.0,Johan Larsson,Blocker,Buffalo Sabres,Mikael Granlund,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:56:09Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:56:09Z,3,00:11,19:49,Blocked Shot,n/a,-68.0,16.0,Jake McCabe,Blocker,Buffalo Sabres,Calle Jarnkrok,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:56:30Z,3,00:15,19:45,Shot,Wrist Shot,-44.0,-18.0,Calle Jarnkrok,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:56:30Z,3,00:18,19:42,Blocked Shot,n/a,-83.0,-6.0,Jack Eichel,Blocker,Buffalo Sabres,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:56:30Z,3,00:21,19:39,Shot,Snap Shot,-36.0,14.0,Roman Josi,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:56:38Z,3,00:23,19:37,Shot,Wrist Shot,-80.0,-3.0,Ryan Ellis,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:56:50Z,3,00:35,19:25,Shot,Tip-In,-80.0,-3.0,Calle Jarnkrok,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:58:11Z,3,01:56,18:04,Shot,Slap Shot,-34.0,36.0,Craig Smith,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:58:48Z,3,01:57,18:03,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:59:08Z,3,02:13,17:47,Blocked Shot,n/a,50.0,3.0,Ryan Johansen,Blocker,Nashville Predators,Marco Scandella,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T01:59:14Z,3,02:20,17:40,Missed Shot,n/a,41.0,1.0,Marco Scandella,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:00:19Z,3,03:25,16:35,Hit,n/a,-98.0,-20.0,Colin Miller,Hitter,Buffalo Sabres,Daniel Carr,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:00:52Z,3,03:32,16:28,Faceoff,n/a,69.0,22.0,Kyle Turris,Winner,Nashville Predators,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:01:10Z,3,03:42,16:18,Faceoff,n/a,-20.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:02:31Z,3,04:34,15:26,Faceoff,n/a,20.0,-22.0,Nick Bonino,Winner,Nashville Predators,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:03:10Z,3,05:01,14:59,Hit,n/a,-59.0,24.0,Colin Miller,Hitter,Buffalo Sabres,Craig Smith,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:03:09Z,3,05:03,14:57,Shot,Backhand,-55.0,4.0,Craig Smith,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:03:58Z,3,05:52,14:08,Takeaway,n/a,80.0,-36.0,Mattias Ekholm,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:04:06Z,3,06:00,14:00,Shot,Backhand,-55.0,-24.0,Calle Jarnkrok,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:10:00Z,3,06:01,13:59,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:10:18Z,3,06:15,13:45,Blocked Shot,n/a,-65.0,-19.0,Jack Eichel,Blocker,Buffalo Sabres,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:10:30Z,3,06:18,13:42,Shot,Wrist Shot,-46.0,1.0,Mattias Ekholm,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:11:04Z,3,06:30,13:30,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:11:14Z,3,06:42,13:18,Shot,Slap Shot,54.0,-5.0,Kyle Okposo,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:11:18Z,3,06:46,13:14,Shot,Backhand,77.0,7.0,Kyle Okposo,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:11:40Z,3,07:08,12:52,Shot,Wrist Shot,81.0,-16.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:12:11Z,3,07:10,12:50,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:12:30Z,3,07:26,12:34,Hit,n/a,-80.0,40.0,Yannick Weber,Hitter,Nashville Predators,Jeff Skinner,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:13:26Z,3,08:22,11:38,Hit,n/a,97.0,-16.0,Mattias Ekholm,Hitter,Nashville Predators,Brandon Montour,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:13:47Z,3,08:27,11:33,Missed Shot,n/a,77.0,8.0,Victor Olofsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:13:35Z,3,08:29,11:31,Goal,Wrist Shot,81.0,-6.0,Victor Olofsson,Scorer,Buffalo Sabres,Brandon Montour,Assist,Buffalo Sabres,Sam Reinhart,Assist,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators
+2019-12-13T02:14:15Z,3,08:29,11:31,Faceoff,n/a,0.0,0.0,Johan Larsson,Winner,Buffalo Sabres,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:14:53Z,3,09:07,10:53,Shot,Slap Shot,48.0,13.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:15:02Z,3,09:16,10:44,Hit,n/a,90.0,-32.0,Filip Forsberg,Hitter,Nashville Predators,Kyle Okposo,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:15:05Z,3,09:19,10:41,Shot,Wrist Shot,61.0,16.0,Kyle Okposo,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:15:21Z,3,09:35,10:25,Shot,Wrist Shot,-53.0,-28.0,Filip Forsberg,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:16:14Z,3,09:36,10:24,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Evan Rodrigues,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:16:45Z,3,10:10,09:50,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:17:24Z,3,10:38,09:22,Faceoff,n/a,69.0,-22.0,Sam Reinhart,Winner,Buffalo Sabres,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:18:09Z,3,10:59,09:01,Hit,n/a,45.0,41.0,Craig Smith,Hitter,Nashville Predators,Rasmus Dahlin,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:18:22Z,3,11:14,08:46,Hit,n/a,-68.0,41.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:18:30Z,3,11:21,08:39,Shot,Wrist Shot,-50.0,0.0,Rocco Grimaldi,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:18:46Z,3,11:38,08:22,Shot,Slap Shot,-32.0,34.0,Roman Josi,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:20:51Z,3,11:39,08:21,Faceoff,n/a,-69.0,22.0,Johan Larsson,Winner,Buffalo Sabres,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:21:56Z,3,12:34,07:26,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:22:43Z,3,13:01,06:59,Missed Shot,n/a,-79.0,38.0,Ryan Ellis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:22:48Z,3,13:06,06:54,Hit,n/a,-46.0,-38.0,Brandon Montour,Hitter,Buffalo Sabres,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:22:54Z,3,13:12,06:48,Hit,n/a,-98.0,-8.0,Brandon Montour,Hitter,Buffalo Sabres,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:24:01Z,3,14:19,05:41,Hit,n/a,-21.0,-40.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Mattias Ekholm,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:24:15Z,3,14:33,05:27,Shot,Backhand,-81.0,-16.0,Rocco Grimaldi,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:24:37Z,3,14:35,05:25,Shot,Backhand,-80.0,0.0,Nick Bonino,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:24:53Z,3,14:38,05:22,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:25:54Z,3,15:28,04:32,Faceoff,n/a,-69.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:26:19Z,3,15:42,04:18,Faceoff,n/a,-69.0,22.0,Kyle Turris,Winner,Nashville Predators,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:26:51Z,3,15:53,04:07,Blocked Shot,n/a,-82.0,-11.0,Brandon Montour,Blocker,Buffalo Sabres,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:27:43Z,3,16:44,03:16,Takeaway,n/a,-32.0,36.0,Sam Reinhart,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:27:55Z,3,16:56,03:04,Hit,n/a,-98.0,12.0,Marco Scandella,Hitter,Buffalo Sabres,Calle Jarnkrok,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:28:13Z,3,17:15,02:45,Takeaway,n/a,-46.0,-39.0,Johan Larsson,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:28:17Z,3,17:17,02:43,Shot,Wrist Shot,40.0,-19.0,Kyle Okposo,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:30:13Z,3,17:20,02:40,Faceoff,n/a,69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Kyle Okposo,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:30:50Z,3,17:45,02:15,Blocked Shot,n/a,-52.0,-19.0,Kyle Okposo,Blocker,Buffalo Sabres,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:30:56Z,3,17:52,02:08,Blocked Shot,n/a,-58.0,14.0,Marco Scandella,Blocker,Buffalo Sabres,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:31:15Z,3,18:11,01:49,Shot,Wrist Shot,78.0,-1.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Juuse Saros,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:31:59Z,3,18:55,01:05,Hit,n/a,-94.0,30.0,Jake McCabe,Hitter,Buffalo Sabres,Ryan Johansen,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:32:07Z,3,19:02,00:58,Shot,Slap Shot,-35.0,-16.0,Mattias Ekholm,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:32:20Z,3,19:14,00:46,Shot,Slap Shot,-36.0,-15.0,Mattias Ekholm,Shooter,Nashville Predators,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:34:11Z,3,19:16,00:44,Faceoff,n/a,-69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:33:57Z,3,19:22,00:38,Missed Shot,n/a,-34.0,1.0,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-13T02:34:32Z,3,19:57,00:03,Missed Shot,n/a,-45.0,28.0,Filip Forsberg,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

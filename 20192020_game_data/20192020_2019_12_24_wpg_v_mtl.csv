@@ -1,0 +1,295 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-24T01:08:47Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:09:09Z,1,00:16,19:44,Shot,Wrist Shot,-72.0,8.0,Blake Wheeler,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:09:14Z,1,00:19,19:41,Shot,Wrist Shot,-79.0,5.0,Blake Wheeler,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:09:34Z,1,00:40,19:20,Shot,Wrist Shot,34.0,33.0,Brendan Gallagher,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:09:57Z,1,00:40,19:20,Faceoff,n/a,69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:10:11Z,1,00:52,19:08,Missed Shot,n/a,-38.0,34.0,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:10:20Z,1,01:02,18:58,Hit,n/a,98.0,13.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Luca Sbisa,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:10:31Z,1,01:12,18:48,Shot,Wrist Shot,83.0,19.0,Joel Armia,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:10:50Z,1,01:12,18:48,Faceoff,n/a,69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:11:02Z,1,01:17,18:43,Takeaway,n/a,51.0,24.0,Mason Appleton,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:11:09Z,1,01:26,18:34,Hit,n/a,-99.0,-16.0,Shea Weber,Hitter,Montréal Canadiens,Gabriel Bourque,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:11:16Z,1,01:31,18:29,Shot,Wrist Shot,-36.0,15.0,Nathan Beaulieu,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:11:22Z,1,01:33,18:27,Shot,Wrist Shot,-74.0,2.0,Mason Appleton,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:11:45Z,1,01:34,18:26,Faceoff,n/a,-69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:12:19Z,1,01:52,18:08,Faceoff,n/a,-69.0,22.0,Logan Shaw,Winner,Winnipeg Jets,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:12:50Z,1,01:57,18:03,Blocked Shot,n/a,-66.0,7.0,Nate Thompson,Blocker,Montréal Canadiens,Logan Shaw,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:12:52Z,1,01:59,18:01,Hit,n/a,-43.0,39.0,Logan Shaw,Hitter,Winnipeg Jets,Ryan Poehling,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:12:58Z,1,02:01,17:59,Blocked Shot,n/a,-39.0,41.0,Nicholas Shore,Blocker,Winnipeg Jets,Nate Thompson,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:13:21Z,1,02:12,17:48,Giveaway,n/a,93.0,28.0,Laurent Brossoit,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:13:36Z,1,02:43,17:17,Hit,n/a,93.0,28.0,Tomas Tatar,Hitter,Montréal Canadiens,Nikolaj Ehlers,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:13:39Z,1,02:45,17:15,Shot,Slap Shot,36.0,32.0,Brett Kulak,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:13:51Z,1,02:46,17:14,Faceoff,n/a,69.0,22.0,Tomas Tatar,Winner,Montréal Canadiens,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:14:29Z,1,02:59,17:01,Blocked Shot,n/a,80.0,-6.0,Tucker Poolman,Blocker,Winnipeg Jets,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:14:36Z,1,03:06,16:54,Hit,n/a,-43.0,17.0,Brett Kulak,Hitter,Montréal Canadiens,Nikolaj Ehlers,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:14:58Z,1,03:27,16:33,Blocked Shot,n/a,65.0,-9.0,Neal Pionk,Blocker,Winnipeg Jets,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:15:14Z,1,03:44,16:16,Shot,Backhand,81.0,12.0,Shea Weber,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:15:19Z,1,03:48,16:12,Giveaway,n/a,30.0,-2.0,Kyle Connor,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:15:20Z,1,03:50,16:10,Shot,Wrist Shot,73.0,-20.0,Max Domi,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:15:31Z,1,04:00,16:00,Shot,Wrist Shot,-47.0,19.0,Patrik Laine,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:15:52Z,1,04:01,15:59,Faceoff,n/a,-69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:16:18Z,1,04:09,15:51,Faceoff,n/a,-69.0,-22.0,Adam Lowry,Winner,Winnipeg Jets,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:16:45Z,1,04:21,15:39,Hit,n/a,-29.0,-34.0,Anthony Bitetto,Hitter,Winnipeg Jets,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:17:09Z,1,04:48,15:12,Shot,Wrist Shot,-81.0,12.0,Nicholas Shore,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:17:43Z,1,05:23,14:37,Hit,n/a,35.0,-39.0,Luca Sbisa,Hitter,Winnipeg Jets,Nate Thompson,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:18:28Z,1,06:08,13:52,Blocked Shot,n/a,-72.0,7.0,Jeff Petry,Blocker,Montréal Canadiens,Tucker Poolman,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:18:37Z,1,06:17,13:43,Blocked Shot,n/a,66.0,1.0,Josh Morrissey,Blocker,Winnipeg Jets,Phillip Danault,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:19:06Z,1,06:46,13:14,Blocked Shot,n/a,-70.0,2.0,Ben Chiarot,Blocker,Montréal Canadiens,Mark Scheifele,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:20:20Z,1,06:50,13:10,Shot,Wrist Shot,-34.0,26.0,Neal Pionk,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:19:18Z,1,06:57,13:03,Giveaway,n/a,-68.0,40.0,Max Domi,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:20:37Z,1,07:00,13:00,Missed Shot,n/a,-77.0,0.0,Mark Scheifele,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:22:00Z,1,07:03,12:57,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:22:18Z,1,07:15,12:45,Takeaway,n/a,-56.0,-23.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:22:29Z,1,07:26,12:34,Shot,Wrist Shot,-39.0,-9.0,Patrik Laine,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:22:40Z,1,07:37,12:23,Missed Shot,n/a,-35.0,-22.0,Josh Morrissey,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:22:43Z,1,07:41,12:19,Hit,n/a,-32.0,40.0,Patrik Laine,Hitter,Winnipeg Jets,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:22:58Z,1,07:55,12:05,Hit,n/a,35.0,-40.0,Luca Sbisa,Hitter,Winnipeg Jets,Brendan Gallagher,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:23:03Z,1,07:59,12:01,Hit,n/a,97.0,-12.0,Phillip Danault,Hitter,Montréal Canadiens,Neal Pionk,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:23:17Z,1,08:11,11:49,Shot,Wrist Shot,41.0,23.0,Brett Kulak,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:23:21Z,1,08:19,11:41,Hit,n/a,85.0,-37.0,Blake Wheeler,Hitter,Winnipeg Jets,Phillip Danault,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:23:26Z,1,08:24,11:36,Hit,n/a,91.0,-32.0,Blake Wheeler,Hitter,Winnipeg Jets,Phillip Danault,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:23:35Z,1,08:33,11:27,Shot,Wrist Shot,-62.0,0.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:23:45Z,1,08:38,11:22,Hit,n/a,-35.0,41.0,Tomas Tatar,Hitter,Montréal Canadiens,Jack Roslovic,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:27:09Z,1,09:02,10:58,Faceoff,n/a,-20.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:26:53Z,1,09:08,10:52,Faceoff,n/a,0.0,0.0,Max Domi,Winner,Montréal Canadiens,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:26:57Z,1,09:18,10:42,Shot,Wrist Shot,-50.0,-28.0,Kyle Connor,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:27:02Z,1,09:23,10:37,Giveaway,n/a,-97.0,17.0,Max Domi,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:27:34Z,1,09:28,10:32,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:27:58Z,1,09:37,10:23,Shot,Wrist Shot,48.0,-13.0,Tomas Tatar,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:28:03Z,1,09:41,10:19,Blocked Shot,n/a,73.0,7.0,Blake Wheeler,Blocker,Winnipeg Jets,Phillip Danault,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:28:34Z,1,09:56,10:04,Shot,Wrist Shot,80.0,-3.0,Ben Chiarot,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:28:42Z,1,10:06,09:54,Penalty,Interference - Goalkeeper,88.0,0.0,Ben Chiarot,PenaltyOn,Montréal Canadiens,Laurent Brossoit,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:32:04Z,1,10:06,09:54,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:31:06Z,1,10:30,09:30,Shot,Slap Shot,-76.0,1.0,Mark Scheifele,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:31:24Z,1,10:31,09:29,Faceoff,n/a,-69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:31:40Z,1,10:41,09:19,Takeaway,n/a,40.0,-17.0,Artturi Lehkonen,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:31:59Z,1,11:00,09:00,Missed Shot,n/a,-46.0,24.0,Blake Wheeler,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:32:07Z,1,11:06,08:54,Shot,Slap Shot,-63.0,0.0,Mark Scheifele,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:32:13Z,1,11:08,08:52,Shot,Wrist Shot,-81.0,1.0,Kyle Connor,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:32:32Z,1,11:09,08:51,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:32:43Z,1,11:20,08:40,Missed Shot,n/a,-66.0,-21.0,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:32:51Z,1,11:28,08:32,Shot,Slap Shot,-37.0,-10.0,Neal Pionk,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:33:02Z,1,11:29,08:31,Blocked Shot,n/a,-83.0,4.0,Jeff Petry,Blocker,Montréal Canadiens,Mark Scheifele,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:33:02Z,1,11:30,08:30,Goal,Wrist Shot,-82.0,8.0,Kyle Connor,Scorer,Winnipeg Jets,Mark Scheifele,Assist,Winnipeg Jets,Neal Pionk,Assist,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens
+2019-12-24T01:33:42Z,1,11:30,08:30,Faceoff,n/a,0.0,0.0,Nick Suzuki,Winner,Montréal Canadiens,Mason Appleton,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:33:50Z,1,11:41,08:19,Hit,n/a,5.0,40.0,Adam Lowry,Hitter,Winnipeg Jets,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:33:59Z,1,11:50,08:10,Blocked Shot,n/a,53.0,-11.0,Adam Lowry,Blocker,Winnipeg Jets,Cale Fleury,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:34:11Z,1,12:01,07:59,Hit,n/a,98.0,14.0,Anthony Bitetto,Hitter,Winnipeg Jets,Nick Cousins,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:34:46Z,1,12:37,07:23,Hit,n/a,-98.0,-10.0,Cale Fleury,Hitter,Montréal Canadiens,Blake Wheeler,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:34:55Z,1,12:45,07:15,Hit,n/a,-17.0,-9.0,Nick Suzuki,Hitter,Montréal Canadiens,Tucker Poolman,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:35:01Z,1,12:52,07:08,Giveaway,n/a,-46.0,32.0,Jeff Petry,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:35:25Z,1,12:54,07:06,Faceoff,n/a,-69.0,22.0,Blake Wheeler,Winner,Winnipeg Jets,Tomas Tatar,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:35:56Z,1,13:00,07:00,Blocked Shot,n/a,-63.0,9.0,Phillip Danault,Blocker,Montréal Canadiens,Tucker Poolman,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:36:28Z,1,13:12,06:48,Faceoff,n/a,-69.0,22.0,Phillip Danault,Winner,Montréal Canadiens,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:36:56Z,1,13:36,06:24,Shot,Backhand,65.0,-31.0,Ben Chiarot,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:37:18Z,1,13:38,06:22,Faceoff,n/a,69.0,-22.0,Max Domi,Winner,Montréal Canadiens,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:37:39Z,1,13:46,06:14,Shot,Backhand,83.0,-15.0,Artturi Lehkonen,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:38:07Z,1,13:47,06:13,Penalty,Slashing,65.0,0.0,Neal Pionk,PenaltyOn,Winnipeg Jets,Joel Armia,DrewBy,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:38:37Z,1,13:47,06:13,Faceoff,n/a,69.0,-22.0,Adam Lowry,Winner,Winnipeg Jets,Jordan Weal,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:38:29Z,1,13:56,06:04,Blocked Shot,n/a,65.0,-6.0,Nathan Beaulieu,Blocker,Winnipeg Jets,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:38:41Z,1,14:08,05:52,Missed Shot,n/a,63.0,28.0,Shea Weber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:39:01Z,1,14:27,05:33,Shot,Deflected,83.0,-5.0,Nick Cousins,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:39:30Z,1,14:28,05:32,Faceoff,n/a,69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:40:07Z,1,14:51,05:09,Shot,Wrist Shot,34.0,0.0,Nick Suzuki,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:40:21Z,1,14:52,05:08,Faceoff,n/a,69.0,-22.0,Nick Suzuki,Winner,Montréal Canadiens,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:40:50Z,1,15:06,04:54,Goal,Wrist Shot,68.0,20.0,Tomas Tatar,Scorer,Montréal Canadiens,Nick Suzuki,Assist,Montréal Canadiens,Jeff Petry,Assist,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets
+2019-12-24T01:41:51Z,1,15:06,04:54,Faceoff,n/a,0.0,0.0,Adam Lowry,Winner,Winnipeg Jets,Ryan Poehling,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:44:25Z,1,15:26,04:34,Faceoff,n/a,-69.0,22.0,Max Domi,Winner,Montréal Canadiens,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:45:05Z,1,16:01,03:59,Hit,n/a,-4.0,1.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Patrik Laine,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:45:11Z,1,16:07,03:53,Shot,Wrist Shot,38.0,-24.0,Joel Armia,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:45:29Z,1,16:26,03:34,Missed Shot,n/a,39.0,34.0,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:45:55Z,1,16:34,03:26,Giveaway,n/a,64.0,-36.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:45:44Z,1,16:38,03:22,Goal,Backhand,80.0,-2.0,Tomas Tatar,Scorer,Montréal Canadiens,Shea Weber,Assist,Montréal Canadiens,Brendan Gallagher,Assist,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets
+2019-12-24T01:46:30Z,1,16:38,03:22,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:46:51Z,1,16:59,03:01,Shot,Slap Shot,59.0,20.0,Tomas Tatar,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:47:18Z,1,17:00,03:00,Faceoff,n/a,69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:47:27Z,1,17:05,02:55,Missed Shot,n/a,78.0,1.0,Nick Cousins,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:48:09Z,1,17:22,02:38,Faceoff,n/a,0.0,0.0,Nicholas Shore,Winner,Winnipeg Jets,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:48:28Z,1,17:31,02:29,Faceoff,n/a,20.0,-22.0,Nate Thompson,Winner,Montréal Canadiens,Jansen Harkins,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:49:38Z,1,18:23,01:37,Hit,n/a,29.0,-40.0,Anthony Bitetto,Hitter,Winnipeg Jets,Riley Barber,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:49:54Z,1,18:39,01:21,Shot,Wrist Shot,-70.0,37.0,Mason Appleton,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:50:07Z,1,18:52,01:08,Hit,n/a,-98.0,15.0,Ben Chiarot,Hitter,Montréal Canadiens,Mason Appleton,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:50:19Z,1,19:02,00:58,Hit,n/a,2.0,37.0,Mason Appleton,Hitter,Winnipeg Jets,Joel Armia,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:50:34Z,1,19:19,00:41,Shot,Wrist Shot,82.0,5.0,Phillip Danault,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:50:41Z,1,19:25,00:35,Missed Shot,n/a,79.0,1.0,Brendan Gallagher,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:50:52Z,1,19:36,00:24,Giveaway,n/a,32.0,39.0,Patrik Laine,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:50:56Z,1,19:41,00:19,Missed Shot,n/a,37.0,32.0,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T01:51:04Z,1,19:48,00:12,Blocked Shot,n/a,71.0,8.0,Josh Morrissey,Blocker,Winnipeg Jets,Brendan Gallagher,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:10:01Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:10:14Z,2,00:10,19:50,Shot,Wrist Shot,52.0,2.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:10:34Z,2,00:11,19:49,Faceoff,n/a,69.0,22.0,Blake Wheeler,Winner,Winnipeg Jets,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:11:17Z,2,00:46,19:14,Takeaway,n/a,85.0,-35.0,Nikolaj Ehlers,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:12:17Z,2,01:41,18:19,Hit,n/a,90.0,33.0,Brett Kulak,Hitter,Montréal Canadiens,Patrik Laine,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:12:23Z,2,01:44,18:16,Hit,n/a,6.0,40.0,Gabriel Bourque,Hitter,Winnipeg Jets,Brendan Gallagher,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:12:44Z,2,01:46,18:14,Faceoff,n/a,0.0,0.0,Nick Suzuki,Winner,Montréal Canadiens,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:13:02Z,2,02:01,17:59,Shot,Wrist Shot,-29.0,17.0,Jordan Weal,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:13:16Z,2,02:02,17:58,Faceoff,n/a,-69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:14:00Z,2,02:40,17:20,Missed Shot,n/a,64.0,-30.0,Mason Appleton,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:14:04Z,2,02:43,17:17,Hit,n/a,30.0,40.0,Adam Lowry,Hitter,Winnipeg Jets,Nate Thompson,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:14:16Z,2,02:56,17:04,Shot,Deflected,-19.0,-1.0,Nate Thompson,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:14:32Z,2,03:13,16:47,Hit,n/a,30.0,-38.0,Jeff Petry,Hitter,Montréal Canadiens,Logan Shaw,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:14:39Z,2,03:20,16:40,Hit,n/a,0.0,-39.0,Neal Pionk,Hitter,Winnipeg Jets,Ryan Poehling,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:15:17Z,2,03:27,16:33,Faceoff,n/a,20.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:16:00Z,2,03:48,16:12,Faceoff,n/a,-20.0,-22.0,Max Domi,Winner,Montréal Canadiens,Patrik Laine,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:16:27Z,2,03:57,16:03,Shot,Deflected,78.0,-3.0,Mark Scheifele,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:17:02Z,2,04:32,15:28,Giveaway,n/a,-80.0,38.0,Laurent Brossoit,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:17:02Z,2,04:34,15:26,Shot,Backhand,-81.0,2.0,Brendan Gallagher,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:17:12Z,2,04:36,15:24,Shot,Wrist Shot,-63.0,-20.0,Brendan Gallagher,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:17:12Z,2,04:37,15:23,Goal,Wrist Shot,-80.0,0.0,Phillip Danault,Scorer,Montréal Canadiens,Brendan Gallagher,Assist,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a
+2019-12-24T02:17:42Z,2,04:37,15:23,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:18:13Z,2,05:05,14:55,Missed Shot,n/a,-56.0,2.0,Brendan Gallagher,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:18:13Z,2,05:08,14:52,Blocked Shot,n/a,-59.0,-17.0,Jack Roslovic,Blocker,Winnipeg Jets,Brett Kulak,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:18:26Z,2,05:22,14:38,Hit,n/a,-7.0,-38.0,Jack Roslovic,Hitter,Winnipeg Jets,Brett Kulak,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:18:38Z,2,05:33,14:27,Takeaway,n/a,-78.0,-3.0,Nick Suzuki,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:18:40Z,2,05:36,14:24,Shot,Wrist Shot,-78.0,2.0,Nick Cousins,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:18:44Z,2,05:38,14:22,Giveaway,n/a,-40.0,39.0,Nikolaj Ehlers,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:18:50Z,2,05:42,14:18,Blocked Shot,n/a,-76.0,0.0,Luca Sbisa,Blocker,Winnipeg Jets,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:19:24Z,2,05:45,14:15,Faceoff,n/a,-69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:19:30Z,2,05:58,14:02,Giveaway,n/a,-81.0,24.0,Nathan Beaulieu,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:20:01Z,2,06:10,13:50,Faceoff,n/a,-69.0,-22.0,Blake Wheeler,Winner,Winnipeg Jets,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:20:14Z,2,06:21,13:39,Hit,n/a,-43.0,40.0,Nathan Beaulieu,Hitter,Winnipeg Jets,Artturi Lehkonen,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:20:21Z,2,06:27,13:33,Hit,n/a,-99.0,8.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Nikolaj Ehlers,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:20:35Z,2,06:42,13:18,Shot,Wrist Shot,-45.0,39.0,Shea Weber,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:21:02Z,2,07:08,12:52,Giveaway,n/a,-97.0,10.0,Neal Pionk,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:21:17Z,2,07:14,12:46,Penalty,Closing hand on puck,4.0,2.0,Shea Weber,PenaltyOn,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:23:22Z,2,07:14,12:46,Faceoff,n/a,69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:23:32Z,2,07:22,12:38,Missed Shot,n/a,60.0,-9.0,Mark Scheifele,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:24:10Z,2,07:59,12:01,Shot,Slap Shot,56.0,25.0,Patrik Laine,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:24:44Z,2,08:00,12:00,Faceoff,n/a,69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:25:04Z,2,08:22,11:38,Giveaway,n/a,36.0,-38.0,Nate Thompson,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:25:08Z,2,08:26,11:34,Giveaway,n/a,75.0,-40.0,Blake Wheeler,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:25:17Z,2,08:35,11:25,Takeaway,n/a,-72.0,-22.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:25:29Z,2,08:47,11:13,Blocked Shot,n/a,-71.0,-9.0,Josh Morrissey,Blocker,Winnipeg Jets,Nick Suzuki,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:25:43Z,2,08:52,11:08,Penalty,Too many men on the ice,7.0,35.0,Jack Roslovic,PenaltyOn,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:26:33Z,2,08:52,11:08,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:27:17Z,2,08:54,11:06,Giveaway,n/a,-56.0,-22.0,Tucker Poolman,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:26:52Z,2,08:56,11:04,Goal,Wrist Shot,-65.0,-7.0,Phillip Danault,Scorer,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:27:25Z,2,08:56,11:04,Faceoff,n/a,0.0,0.0,Adam Lowry,Winner,Winnipeg Jets,Brendan Gallagher,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:27:57Z,2,09:10,10:50,Hit,n/a,35.0,-40.0,Brett Kulak,Hitter,Montréal Canadiens,Josh Morrissey,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:28:23Z,2,09:36,10:24,Shot,Slap Shot,-50.0,25.0,Tomas Tatar,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:28:58Z,2,10:11,09:49,Hit,n/a,-52.0,-40.0,Nathan Beaulieu,Hitter,Winnipeg Jets,Jeff Petry,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:29:31Z,2,10:44,09:16,Shot,Slap Shot,-69.0,-28.0,Shea Weber,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:29:35Z,2,10:48,09:12,Hit,n/a,-78.0,12.0,Adam Lowry,Hitter,Winnipeg Jets,Artturi Lehkonen,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:29:41Z,2,10:54,09:06,Missed Shot,n/a,-75.0,-4.0,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:29:53Z,2,11:06,08:54,Hit,n/a,-64.0,39.0,Nick Cousins,Hitter,Montréal Canadiens,Adam Lowry,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:30:03Z,2,11:17,08:43,Blocked Shot,n/a,51.0,-16.0,Riley Barber,Blocker,Montréal Canadiens,Neal Pionk,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:31:42Z,2,12:35,07:25,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:32:03Z,2,12:40,07:20,Shot,Slap Shot,-48.0,-8.0,Phillip Danault,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:34:18Z,2,12:41,07:19,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:34:29Z,2,12:49,07:11,Shot,Deflected,-76.0,8.0,Phillip Danault,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:34:46Z,2,13:07,06:53,Hit,n/a,9.0,40.0,Tomas Tatar,Hitter,Montréal Canadiens,Mason Appleton,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:35:04Z,2,13:24,06:36,Hit,n/a,-93.0,29.0,Gabriel Bourque,Hitter,Winnipeg Jets,Phillip Danault,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:35:21Z,2,13:41,06:19,Shot,Wrist Shot,-31.0,35.0,Max Domi,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:35:38Z,2,13:58,06:02,Missed Shot,n/a,-82.0,5.0,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:35:44Z,2,14:04,05:56,Hit,n/a,-68.0,-42.0,Nathan Beaulieu,Hitter,Winnipeg Jets,Nick Suzuki,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:36:24Z,2,14:43,05:17,Shot,Backhand,84.0,-4.0,Kyle Connor,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:38:48Z,2,14:44,05:16,Faceoff,n/a,69.0,-22.0,Adam Lowry,Winner,Winnipeg Jets,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:38:52Z,2,14:59,05:01,Giveaway,n/a,32.0,19.0,Josh Morrissey,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:38:59Z,2,15:06,04:54,Blocked Shot,n/a,-71.0,9.0,Josh Morrissey,Blocker,Winnipeg Jets,Phillip Danault,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:39:08Z,2,15:15,04:45,Hit,n/a,91.0,18.0,Gabriel Bourque,Hitter,Winnipeg Jets,Cale Fleury,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:39:56Z,2,15:29,04:31,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Jordan Weal,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:40:03Z,2,15:33,04:27,Hit,n/a,-97.0,-22.0,Nate Thompson,Hitter,Montréal Canadiens,Nathan Beaulieu,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:40:08Z,2,15:41,04:19,Missed Shot,n/a,-65.0,-9.0,Nate Thompson,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:40:26Z,2,15:58,04:02,Hit,n/a,-97.0,16.0,Anthony Bitetto,Hitter,Winnipeg Jets,Jordan Weal,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:40:33Z,2,16:05,03:55,Hit,n/a,-98.0,-7.0,Nathan Beaulieu,Hitter,Winnipeg Jets,Nate Thompson,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:40:44Z,2,16:14,03:46,Goal,Wrist Shot,52.0,-18.0,Patrik Laine,Scorer,Winnipeg Jets,Mark Scheifele,Assist,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a
+2019-12-24T02:41:25Z,2,16:14,03:46,Faceoff,n/a,0.0,0.0,Jack Roslovic,Winner,Winnipeg Jets,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:42:03Z,2,16:39,03:21,Hit,n/a,98.0,18.0,Nikolaj Ehlers,Hitter,Winnipeg Jets,Jeff Petry,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:42:07Z,2,16:43,03:17,Hit,n/a,96.0,-27.0,Blake Wheeler,Hitter,Winnipeg Jets,Brett Kulak,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:42:16Z,2,16:52,03:08,Hit,n/a,-87.0,35.0,Artturi Lehkonen,Hitter,Montréal Canadiens,Luca Sbisa,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:42:31Z,2,17:06,02:54,Missed Shot,n/a,36.0,-30.0,Tucker Poolman,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:42:45Z,2,17:21,02:39,Hit,n/a,38.0,40.0,Jansen Harkins,Hitter,Winnipeg Jets,Brett Kulak,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:42:50Z,2,17:26,02:34,Shot,Backhand,-76.0,5.0,Max Domi,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:43:04Z,2,17:40,02:20,Hit,n/a,-86.0,36.0,Ryan Poehling,Hitter,Montréal Canadiens,Nicholas Shore,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:43:37Z,2,18:12,01:48,Shot,Slap Shot,-37.0,19.0,Cale Fleury,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:43:51Z,2,18:27,01:33,Blocked Shot,n/a,-66.0,2.0,Gabriel Bourque,Blocker,Winnipeg Jets,Ben Chiarot,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:44:17Z,2,18:52,01:08,Giveaway,n/a,-31.0,-38.0,Nicholas Shore,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:44:20Z,2,18:55,01:05,Blocked Shot,n/a,-73.0,3.0,Nathan Beaulieu,Blocker,Winnipeg Jets,Brendan Gallagher,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:44:24Z,2,18:59,01:01,Hit,n/a,-42.0,39.0,Nathan Beaulieu,Hitter,Winnipeg Jets,Brendan Gallagher,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:44:38Z,2,19:12,00:48,Giveaway,n/a,-47.0,21.0,Nathan Beaulieu,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:44:43Z,2,19:18,00:42,Shot,Wrist Shot,-84.0,8.0,Max Domi,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:44:49Z,2,19:20,00:40,Goal,Wrist Shot,-82.0,4.0,Max Domi,Scorer,Montréal Canadiens,Artturi Lehkonen,Assist,Montréal Canadiens,Nick Suzuki,Assist,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets
+2019-12-24T02:45:45Z,2,19:20,00:40,Faceoff,n/a,0.0,0.0,Mark Scheifele,Winner,Winnipeg Jets,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:45:53Z,2,19:32,00:28,Shot,Slap Shot,36.0,-18.0,Neal Pionk,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:46:13Z,2,19:43,00:17,Blocked Shot,n/a,73.0,-13.0,Nate Thompson,Blocker,Montréal Canadiens,Kyle Connor,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:46:17Z,2,19:44,00:16,Penalty,Interference,70.0,41.0,Nate Thompson,PenaltyOn,Montréal Canadiens,Patrik Laine,DrewBy,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T02:46:44Z,2,19:44,00:16,Faceoff,n/a,69.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:05:49Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Phillip Danault,Winner,Montréal Canadiens,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:06:18Z,3,00:23,19:37,Faceoff,n/a,-20.0,-22.0,Mark Scheifele,Winner,Winnipeg Jets,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:06:47Z,3,00:31,19:29,Giveaway,n/a,-46.0,-27.0,Kyle Connor,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:06:38Z,3,00:35,19:25,Shot,Backhand,-57.0,-4.0,Phillip Danault,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:06:56Z,3,00:55,19:05,Shot,Wrist Shot,61.0,-16.0,Nick Suzuki,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:07:19Z,3,00:56,19:04,Faceoff,n/a,69.0,-22.0,Adam Lowry,Winner,Winnipeg Jets,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:07:50Z,3,01:24,18:36,Giveaway,n/a,-32.0,6.0,Jack Roslovic,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:07:55Z,3,01:28,18:32,Hit,n/a,35.0,-40.0,Adam Lowry,Hitter,Winnipeg Jets,Phillip Danault,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:08:15Z,3,01:49,18:11,Takeaway,n/a,-34.0,27.0,Artturi Lehkonen,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:08:20Z,3,01:55,18:05,Missed Shot,n/a,80.0,2.0,Nate Thompson,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:08:45Z,3,02:19,17:41,Shot,Wrist Shot,69.0,40.0,Max Domi,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:09:16Z,3,02:20,17:40,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:09:19Z,3,02:31,17:29,Giveaway,n/a,34.0,38.0,Mason Appleton,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:09:26Z,3,02:37,17:23,Hit,n/a,92.0,31.0,Neal Pionk,Hitter,Winnipeg Jets,Max Domi,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:10:03Z,3,03:02,16:58,Faceoff,n/a,-69.0,22.0,Mark Scheifele,Winner,Winnipeg Jets,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:10:36Z,3,03:25,16:35,Blocked Shot,n/a,-51.0,-18.0,Jordan Weal,Blocker,Montréal Canadiens,Patrik Laine,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:11:08Z,3,03:58,16:02,Missed Shot,n/a,50.0,-12.0,Riley Barber,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:11:47Z,3,04:36,15:24,Shot,Deflected,82.0,-8.0,Tomas Tatar,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:12:22Z,3,05:11,14:49,Giveaway,n/a,-56.0,-35.0,Carey Price,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:12:42Z,3,05:32,14:28,Missed Shot,n/a,81.0,3.0,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:12:48Z,3,05:38,14:22,Shot,Wrist Shot,60.0,17.0,Victor Mete,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:12:59Z,3,05:49,14:11,Blocked Shot,n/a,69.0,22.0,Nathan Beaulieu,Blocker,Winnipeg Jets,Nick Suzuki,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:13:06Z,3,05:56,14:04,Giveaway,n/a,37.0,32.0,Mason Appleton,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:13:18Z,3,06:06,13:54,Shot,Backhand,4.0,28.0,Cale Fleury,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:15:29Z,3,06:07,13:53,Faceoff,n/a,69.0,22.0,Nate Thompson,Winner,Montréal Canadiens,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:15:37Z,3,06:10,13:50,Shot,Slap Shot,37.0,30.0,Brett Kulak,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:15:49Z,3,06:11,13:49,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:17:16Z,3,07:28,12:32,Takeaway,n/a,29.0,-19.0,Kyle Connor,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:18:35Z,3,07:35,12:25,Hit,n/a,-90.0,32.0,Ben Chiarot,Hitter,Montréal Canadiens,Patrik Laine,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:17:45Z,3,07:57,12:03,Shot,Wrist Shot,-66.0,23.0,Mark Scheifele,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:18:22Z,3,08:15,11:45,Faceoff,n/a,69.0,22.0,Nick Suzuki,Winner,Montréal Canadiens,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:19:00Z,3,08:45,11:15,Missed Shot,n/a,-41.0,19.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:19:07Z,3,08:52,11:08,Blocked Shot,n/a,-72.0,-6.0,Brett Kulak,Blocker,Montréal Canadiens,Tucker Poolman,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:19:43Z,3,08:55,11:05,Faceoff,n/a,-20.0,-22.0,Riley Barber,Winner,Montréal Canadiens,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:20:20Z,3,09:25,10:35,Hit,n/a,-88.0,-32.0,Gabriel Bourque,Hitter,Winnipeg Jets,Cale Fleury,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:20:25Z,3,09:29,10:31,Shot,Snap Shot,-70.0,-11.0,Adam Lowry,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:21:03Z,3,09:30,10:30,Faceoff,n/a,-69.0,-22.0,Phillip Danault,Winner,Montréal Canadiens,Blake Wheeler,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:21:41Z,3,09:56,10:04,Missed Shot,n/a,-65.0,5.0,Jack Roslovic,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:21:49Z,3,09:56,10:04,Shot,Wrist Shot,-85.0,-18.0,Blake Wheeler,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:22:05Z,3,09:57,10:03,Faceoff,n/a,-69.0,-22.0,Nick Suzuki,Winner,Montréal Canadiens,Mark Scheifele,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:22:25Z,3,10:14,09:46,Missed Shot,n/a,83.0,-13.0,Nick Cousins,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:22:31Z,3,10:18,09:42,Shot,Slap Shot,37.0,25.0,Ben Chiarot,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:22:37Z,3,10:26,09:34,Giveaway,n/a,32.0,33.0,Mark Scheifele,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:23:17Z,3,11:06,08:54,Giveaway,n/a,32.0,-10.0,Luca Sbisa,PlayerID,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:23:21Z,3,11:08,08:52,Goal,Slap Shot,84.0,-7.0,Artturi Lehkonen,Scorer,Montréal Canadiens,Max Domi,Assist,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a
+2019-12-24T03:24:09Z,3,11:08,08:52,Faceoff,n/a,0.0,0.0,Max Domi,Winner,Montréal Canadiens,Adam Lowry,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:24:12Z,3,11:21,08:39,Missed Shot,n/a,77.0,8.0,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:24:26Z,3,11:34,08:26,Missed Shot,n/a,61.0,10.0,Artturi Lehkonen,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:24:31Z,3,11:39,08:21,Shot,Wrist Shot,36.0,-17.0,Jeff Petry,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:24:46Z,3,11:51,08:09,Missed Shot,n/a,80.0,-26.0,Jeff Petry,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:27:01Z,3,11:52,08:08,Faceoff,n/a,69.0,-22.0,Nicholas Shore,Winner,Winnipeg Jets,Nate Thompson,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:27:24Z,3,12:10,07:50,Hit,n/a,31.0,33.0,Anthony Bitetto,Hitter,Winnipeg Jets,Ryan Poehling,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:27:33Z,3,12:21,07:39,Hit,n/a,19.0,-40.0,Cale Fleury,Hitter,Montréal Canadiens,Jansen Harkins,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:31:46Z,3,14:16,05:44,Faceoff,n/a,0.0,0.0,Nicholas Shore,Winner,Winnipeg Jets,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:32:05Z,3,14:32,05:28,Faceoff,n/a,20.0,-22.0,Max Domi,Winner,Montréal Canadiens,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:32:25Z,3,14:37,05:23,Shot,Slap Shot,10.0,23.0,Brett Kulak,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:32:41Z,3,14:37,05:23,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:32:56Z,3,14:48,05:12,Giveaway,n/a,-71.0,14.0,Riley Barber,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:33:01Z,3,14:54,05:06,Hit,n/a,-37.0,-41.0,Logan Shaw,Hitter,Winnipeg Jets,Max Domi,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:35:28Z,3,16:56,03:04,Faceoff,n/a,69.0,22.0,Blake Wheeler,Winner,Winnipeg Jets,Phillip Danault,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:35:33Z,3,17:03,02:57,Shot,Wrist Shot,54.0,18.0,Phillip Danault,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:35:56Z,3,17:26,02:34,Shot,Slap Shot,-34.0,6.0,Neal Pionk,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:36:12Z,3,17:42,02:18,Shot,Slap Shot,-53.0,-25.0,Nikolaj Ehlers,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:36:51Z,3,17:44,02:16,Faceoff,n/a,-69.0,-22.0,Jordan Weal,Winner,Montréal Canadiens,Nicholas Shore,Loser,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:36:51Z,3,17:53,02:07,Hit,n/a,-97.0,-14.0,Jordan Weal,Hitter,Montréal Canadiens,Nicholas Shore,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:37:01Z,3,18:03,01:57,Shot,Wrist Shot,52.0,0.0,Nick Cousins,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:37:09Z,3,18:10,01:50,Shot,Wrist Shot,58.0,36.0,Brett Kulak,Shooter,Montréal Canadiens,Laurent Brossoit,Goalie,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:37:12Z,3,18:12,01:48,Hit,n/a,99.0,12.0,Anthony Bitetto,Hitter,Winnipeg Jets,Ryan Poehling,Hittee,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:37:36Z,3,18:37,01:23,Shot,Wrist Shot,-54.0,-1.0,Adam Lowry,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:37:46Z,3,18:39,01:21,Faceoff,n/a,-69.0,-22.0,Adam Lowry,Winner,Winnipeg Jets,Max Domi,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:38:04Z,3,18:45,01:15,Blocked Shot,n/a,-72.0,7.0,Nate Thompson,Blocker,Montréal Canadiens,Tucker Poolman,Shooter,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:38:08Z,3,18:49,01:11,Giveaway,n/a,-49.0,40.0,Nate Thompson,PlayerID,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:38:15Z,3,18:55,01:05,Missed Shot,n/a,78.0,12.0,Max Domi,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:38:45Z,3,18:57,01:03,Faceoff,n/a,69.0,22.0,Adam Lowry,Winner,Winnipeg Jets,Nick Suzuki,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:39:22Z,3,19:25,00:35,Missed Shot,n/a,54.0,-38.0,Nick Suzuki,Shooter,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:39:36Z,3,19:39,00:21,Hit,n/a,-18.0,-39.0,Ryan Poehling,Hitter,Montréal Canadiens,Gabriel Bourque,Hittee,Winnipeg Jets,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:39:40Z,3,19:43,00:17,Shot,Wrist Shot,-56.0,13.0,Mason Appleton,Shooter,Winnipeg Jets,Carey Price,Goalie,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-24T03:40:05Z,3,19:44,00:16,Faceoff,n/a,-69.0,22.0,Nicholas Shore,Winner,Winnipeg Jets,Jordan Weal,Loser,Montréal Canadiens,n/a,n/a,n/a,n/a,n/a,n/a

@@ -1,0 +1,275 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-15T02:09:20Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:09:40Z,1,00:20,19:40,Missed Shot,n/a,69.0,39.0,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:09:56Z,1,00:35,19:25,Shot,Wrist Shot,-51.0,31.0,Yannick Weber,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:10:27Z,1,00:35,19:25,Faceoff,n/a,-69.0,22.0,Connor McDavid,Winner,Edmonton Oilers,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:10:37Z,1,00:43,19:17,Hit,n/a,-34.0,-36.0,Mattias Ekholm,Hitter,Nashville Predators,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:10:37Z,1,00:47,19:13,Hit,n/a,-33.0,-36.0,Josh Archibald,Hitter,Edmonton Oilers,Mattias Ekholm,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:10:50Z,1,00:57,19:03,Giveaway,n/a,-95.0,-14.0,Filip Forsberg,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:11:01Z,1,01:07,18:53,Shot,Snap Shot,-57.0,21.0,Filip Forsberg,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:11:25Z,1,01:08,18:52,Faceoff,n/a,-69.0,22.0,Nick Bonino,Winner,Nashville Predators,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:11:32Z,1,01:13,18:47,Shot,Wrist Shot,-30.0,25.0,Alexandre Carrier,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:11:39Z,1,01:13,18:47,Faceoff,n/a,-69.0,22.0,Joakim Nygard,Winner,Edmonton Oilers,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:12:27Z,1,01:45,18:15,Shot,Backhand,83.0,-2.0,Patrick Russell,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:12:36Z,1,01:46,18:14,Hit,n/a,97.0,-18.0,Alexandre Carrier,Hitter,Nashville Predators,Joakim Nygard,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:12:36Z,1,01:53,18:07,Shot,Slap Shot,31.0,-6.0,Caleb Jones,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:13:01Z,1,02:19,17:41,Shot,Wrist Shot,63.0,-38.0,Gaetan Haas,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:13:14Z,1,02:20,17:40,Faceoff,n/a,69.0,-22.0,Sam Gagner,Winner,Edmonton Oilers,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:14:03Z,1,02:48,17:12,Blocked Shot,n/a,-62.0,-9.0,Oscar Klefbom,Blocker,Edmonton Oilers,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:14:10Z,1,02:54,17:06,Blocked Shot,n/a,-38.0,-32.0,Gaetan Haas,Blocker,Edmonton Oilers,Yakov Trenin,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:14:38Z,1,03:22,16:38,Giveaway,n/a,-42.0,-41.0,Viktor Arvidsson,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:14:41Z,1,03:25,16:35,Shot,Wrist Shot,24.0,4.0,Sam Gagner,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:14:59Z,1,03:33,16:27,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:29Z,1,03:43,16:17,Hit,n/a,-31.0,-39.0,Darnell Nurse,Hitter,Edmonton Oilers,Ryan Johansen,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:37Z,1,03:51,16:09,Shot,Wrist Shot,-64.0,-26.0,Calle Jarnkrok,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:44Z,1,03:52,16:08,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:16:29Z,1,04:18,15:42,Hit,n/a,96.0,15.0,Kailer Yamamoto,Hitter,Edmonton Oilers,Mattias Ekholm,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:16:41Z,1,04:31,15:29,Hit,n/a,96.0,-3.0,Mattias Ekholm,Hitter,Nashville Predators,Kailer Yamamoto,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:17:00Z,1,04:50,15:10,Missed Shot,n/a,-84.0,7.0,Matt Duchene,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:17:06Z,1,04:55,15:05,Giveaway,n/a,-35.0,-35.0,Filip Forsberg,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:17:37Z,1,05:26,14:34,Takeaway,n/a,-48.0,-37.0,Caleb Jones,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:17:52Z,1,05:40,14:20,Hit,n/a,-39.0,-36.0,Patrick Russell,Hitter,Edmonton Oilers,Rocco Grimaldi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:18:05Z,1,05:54,14:06,Hit,n/a,94.0,-24.0,Dan Hamhuis,Hitter,Nashville Predators,Patrick Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:18:15Z,1,06:04,13:56,Missed Shot,n/a,53.0,-20.0,Rocco Grimaldi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:18:45Z,1,06:15,13:45,Blocked Shot,n/a,38.0,-28.0,Rocco Grimaldi,Blocker,Nashville Predators,Adam Larsson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:19:04Z,1,06:34,13:26,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:20:01Z,1,06:36,13:24,Missed Shot,n/a,-43.0,-4.0,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:19:17Z,1,06:37,13:23,Shot,Slap Shot,37.0,27.0,Darnell Nurse,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:19:32Z,1,06:48,13:12,Hit,n/a,97.0,-12.0,Kailer Yamamoto,Hitter,Edmonton Oilers,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:00Z,1,07:06,12:54,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:12Z,1,07:14,12:46,Takeaway,n/a,92.0,-17.0,James Neal,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:18Z,1,07:20,12:40,Hit,n/a,41.0,39.0,Josh Archibald,Hitter,Edmonton Oilers,Yannick Weber,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:27Z,1,07:29,12:31,Blocked Shot,n/a,-39.0,-31.0,Josh Archibald,Blocker,Edmonton Oilers,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:46Z,1,07:48,12:12,Shot,Wrist Shot,-75.0,38.0,Darnell Nurse,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:23:04Z,1,08:06,11:54,Shot,Snap Shot,-73.0,16.0,Filip Forsberg,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:23:45Z,1,08:47,11:13,Shot,Wrist Shot,-34.0,4.0,Craig Smith,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:23:59Z,1,08:59,11:01,Blocked Shot,n/a,58.0,0.0,Dante Fabbro,Blocker,Nashville Predators,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:24:09Z,1,08:59,11:01,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:24:29Z,1,09:01,10:59,Goal,Wrist Shot,58.0,6.0,Ryan Nugent-Hopkins,Scorer,Edmonton Oilers,Leon Draisaitl,Assist,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a
+2020-01-15T02:25:18Z,1,09:01,10:59,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:25:46Z,1,09:39,10:21,Blocked Shot,n/a,56.0,13.0,Dante Fabbro,Blocker,Nashville Predators,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:26:01Z,1,09:49,10:11,Giveaway,n/a,71.0,39.0,Patrick Russell,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:26:17Z,1,10:08,09:52,Takeaway,n/a,20.0,-40.0,Joakim Nygard,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:26:35Z,1,10:24,09:36,Hit,n/a,49.0,38.0,Patrick Russell,Hitter,Edmonton Oilers,Alexandre Carrier,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:28:45Z,1,10:36,09:24,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:29:12Z,1,10:42,09:18,Goal,Backhand,-87.0,4.0,Filip Forsberg,Scorer,Nashville Predators,Matt Duchene,Assist,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a
+2020-01-15T02:29:28Z,1,10:42,09:18,Faceoff,n/a,0.0,0.0,Matt Duchene,Winner,Nashville Predators,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:30:01Z,1,10:51,09:09,Takeaway,n/a,-51.0,-26.0,Ethan Bear,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:30:10Z,1,11:01,08:59,Hit,n/a,91.0,-29.0,Josh Archibald,Hitter,Edmonton Oilers,Matt Duchene,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:30:15Z,1,11:04,08:56,Blocked Shot,n/a,80.0,13.0,Roman Josi,Blocker,Nashville Predators,Josh Archibald,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:30:51Z,1,11:04,08:56,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:31:25Z,1,11:42,08:18,Missed Shot,n/a,64.0,28.0,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:31:55Z,1,12:12,07:48,Shot,Wrist Shot,80.0,37.0,Leon Draisaitl,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:32:02Z,1,12:18,07:42,Shot,Wrist Shot,85.0,4.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:32:13Z,1,12:25,07:35,Hit,n/a,20.0,-37.0,Kailer Yamamoto,Hitter,Edmonton Oilers,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:32:15Z,1,12:32,07:28,Shot,Snap Shot,-55.0,33.0,Yannick Weber,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:32:41Z,1,12:33,07:27,Faceoff,n/a,-69.0,22.0,Kyle Turris,Winner,Nashville Predators,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:33:26Z,1,13:01,06:59,Penalty,Tripping,-32.0,37.0,Darnell Nurse,PenaltyOn,Edmonton Oilers,Yakov Trenin,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:34:16Z,1,13:01,06:59,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:34:14Z,1,13:05,06:55,Shot,Slap Shot,-36.0,20.0,Roman Josi,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:34:26Z,1,13:06,06:54,Faceoff,n/a,-69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:34:53Z,1,13:15,06:45,Blocked Shot,n/a,-49.0,22.0,Adam Larsson,Blocker,Edmonton Oilers,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:35:13Z,1,13:35,06:25,Shot,Slap Shot,-53.0,-31.0,Calle Jarnkrok,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:35:39Z,1,13:35,06:25,Faceoff,n/a,-69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:35:48Z,1,13:42,06:18,Missed Shot,n/a,-35.0,-23.0,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:36:09Z,1,14:02,05:58,Takeaway,n/a,-32.0,-13.0,Roman Josi,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:36:48Z,1,14:04,05:56,Faceoff,n/a,-69.0,-22.0,Riley Sheahan,Winner,Edmonton Oilers,Mikael Granlund,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:37:11Z,1,14:30,05:30,Shot,Snap Shot,-52.0,17.0,Filip Forsberg,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:37:21Z,1,14:39,05:21,Missed Shot,n/a,-82.0,5.0,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:37:46Z,1,15:04,04:56,Blocked Shot,n/a,-70.0,-1.0,Adam Larsson,Blocker,Edmonton Oilers,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:37:51Z,1,15:10,04:50,Hit,n/a,-75.0,-35.0,Darnell Nurse,Hitter,Edmonton Oilers,Kyle Turris,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:38:22Z,1,15:41,04:19,Goal,Tip-In,-81.0,0.0,Colin Blackwell,Scorer,Nashville Predators,Nick Bonino,Assist,Nashville Predators,Yannick Weber,Assist,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers
+2020-01-15T02:39:41Z,1,15:41,04:19,Faceoff,n/a,0.0,0.0,Nick Bonino,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:40:48Z,1,16:59,03:01,Giveaway,n/a,60.0,40.0,Gaetan Haas,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:41:19Z,1,17:30,02:30,Hit,n/a,33.0,-37.0,Dan Hamhuis,Hitter,Nashville Predators,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:41:30Z,1,17:39,02:21,Hit,n/a,-30.0,-38.0,Adam Larsson,Hitter,Edmonton Oilers,Yakov Trenin,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:41:41Z,1,17:52,02:08,Hit,n/a,-54.0,-38.0,Yakov Trenin,Hitter,Nashville Predators,Adam Larsson,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:41:59Z,1,18:06,01:54,Hit,n/a,-93.0,26.0,Viktor Arvidsson,Hitter,Nashville Predators,Kailer Yamamoto,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:42:08Z,1,18:18,01:42,Blocked Shot,n/a,53.0,1.0,Roman Josi,Blocker,Nashville Predators,James Neal,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:44:17Z,1,18:18,01:42,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:44:45Z,1,18:26,01:34,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:45:16Z,1,18:47,01:13,Blocked Shot,n/a,58.0,4.0,Viktor Arvidsson,Blocker,Nashville Predators,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:45:27Z,1,18:51,01:09,Penalty,Hooking,80.0,12.0,Yannick Weber,PenaltyOn,Nashville Predators,Kailer Yamamoto,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:46:12Z,1,18:51,01:09,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:46:20Z,1,19:06,00:54,Missed Shot,n/a,39.0,-6.0,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:46:30Z,1,19:16,00:44,Blocked Shot,n/a,77.0,-8.0,Nick Bonino,Blocker,Nashville Predators,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:46:46Z,1,19:33,00:27,Shot,Slap Shot,75.0,1.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:46:56Z,1,19:40,00:20,Shot,Tip-In,83.0,2.0,Alex Chiasson,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:46:56Z,1,19:41,00:19,Shot,Wrist Shot,84.0,-4.0,Alex Chiasson,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:47:07Z,1,19:42,00:18,Goal,Snap Shot,86.0,-4.0,Leon Draisaitl,Scorer,Edmonton Oilers,Alex Chiasson,Assist,Edmonton Oilers,Connor McDavid,Assist,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators
+2020-01-15T02:47:51Z,1,19:42,00:18,Faceoff,n/a,0.0,0.0,Riley Sheahan,Winner,Edmonton Oilers,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:48:00Z,1,19:52,00:08,Hit,n/a,-12.0,-39.0,Patrick Russell,Hitter,Edmonton Oilers,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:06:49Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Leon Draisaitl,Winner,Edmonton Oilers,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:07:05Z,2,00:21,19:39,Takeaway,n/a,-96.0,-13.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:07:27Z,2,00:44,19:16,Takeaway,n/a,92.0,17.0,Filip Forsberg,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:08:22Z,2,01:38,18:22,Hit,n/a,83.0,-33.0,Darnell Nurse,Hitter,Edmonton Oilers,Mikael Granlund,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:08:31Z,2,01:48,18:12,Shot,Wrist Shot,22.0,-9.0,Rocco Grimaldi,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:08:41Z,2,01:55,18:05,Takeaway,n/a,-71.0,16.0,Dan Hamhuis,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:08:50Z,2,02:07,17:53,Shot,Wrap-around,87.0,5.0,Alexandre Carrier,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:09:23Z,2,02:08,17:52,Faceoff,n/a,69.0,22.0,Nick Bonino,Winner,Nashville Predators,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:09:36Z,2,02:17,17:43,Hit,n/a,96.0,-16.0,Kris Russell,Hitter,Edmonton Oilers,Craig Smith,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:10:01Z,2,02:37,17:23,Giveaway,n/a,-92.0,-15.0,Dante Fabbro,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:10:02Z,2,02:43,17:17,Shot,Deflected,-81.0,0.0,Patrick Russell,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:10:13Z,2,02:54,17:06,Shot,Wrist Shot,-38.0,-34.0,Oscar Klefbom,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:10:20Z,2,03:01,16:59,Missed Shot,n/a,-51.0,6.0,Patrick Russell,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:10:34Z,2,03:16,16:44,Blocked Shot,n/a,-62.0,0.0,Dante Fabbro,Blocker,Nashville Predators,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:10:42Z,2,03:21,16:39,Missed Shot,n/a,-59.0,-13.0,Alex Chiasson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:10:55Z,2,03:36,16:24,Hit,n/a,95.0,19.0,Colin Blackwell,Hitter,Nashville Predators,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:11:19Z,2,03:58,16:02,Takeaway,n/a,14.0,8.0,Colin Blackwell,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:11:59Z,2,04:12,15:48,Faceoff,n/a,69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:12:04Z,2,04:16,15:44,Shot,Slap Shot,31.0,-6.0,Yannick Weber,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:12:13Z,2,04:16,15:44,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:13:04Z,2,04:28,15:32,Giveaway,n/a,38.0,3.0,Calle Jarnkrok,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:13:11Z,2,04:34,15:26,Hit,n/a,-37.0,-39.0,Ryan Johansen,Hitter,Nashville Predators,Leon Draisaitl,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:13:55Z,2,04:55,15:05,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:14:19Z,2,05:18,14:42,Shot,Snap Shot,73.0,-22.0,Filip Forsberg,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:14:37Z,2,05:33,14:27,Takeaway,n/a,-51.0,11.0,Mikael Granlund,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:15:03Z,2,05:56,14:04,Hit,n/a,-55.0,37.0,Connor McDavid,Hitter,Edmonton Oilers,Alexandre Carrier,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:15:01Z,2,06:00,14:00,Shot,Snap Shot,-33.0,-4.0,Ethan Bear,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:15:30Z,2,06:00,14:00,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:15:43Z,2,06:09,13:51,Missed Shot,n/a,-75.0,8.0,Joakim Nygard,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:16:08Z,2,06:34,13:26,Shot,Slap Shot,63.0,-27.0,Rocco Grimaldi,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:18:55Z,2,06:36,13:24,Faceoff,n/a,69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:16:19Z,2,06:37,13:23,Hit,n/a,94.0,-25.0,Yakov Trenin,Hitter,Nashville Predators,Caleb Jones,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:18:53Z,2,06:53,13:07,Shot,Wrap-around,-89.0,4.0,Connor McDavid,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:19:14Z,2,07:14,12:46,Shot,Tip-In,-81.0,3.0,Sam Gagner,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:19:33Z,2,07:33,12:27,Hit,n/a,-63.0,38.0,Roman Josi,Hitter,Nashville Predators,Kailer Yamamoto,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:19:39Z,2,07:39,12:21,Blocked Shot,n/a,-74.0,2.0,Kyle Turris,Blocker,Nashville Predators,Kailer Yamamoto,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:19:50Z,2,07:50,12:10,Blocked Shot,n/a,-71.0,3.0,Roman Josi,Blocker,Nashville Predators,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:20:50Z,2,08:03,11:57,Faceoff,n/a,-20.0,-22.0,Calle Jarnkrok,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:21:13Z,2,08:17,11:43,Blocked Shot,n/a,76.0,1.0,Darnell Nurse,Blocker,Edmonton Oilers,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:20:58Z,2,08:21,11:39,Shot,Backhand,-64.0,39.0,Darnell Nurse,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:21:30Z,2,08:21,11:39,Faceoff,n/a,-69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:21:42Z,2,08:37,11:23,Takeaway,n/a,-72.0,28.0,Mattias Ekholm,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:22:04Z,2,08:42,11:18,Faceoff,n/a,-69.0,-22.0,Ryan Johansen,Winner,Nashville Predators,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:22:25Z,2,08:51,11:09,Missed Shot,n/a,-32.0,-18.0,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:22:31Z,2,08:56,11:04,Hit,n/a,-82.0,36.0,Ryan Johansen,Hitter,Nashville Predators,Josh Archibald,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:22:43Z,2,09:09,10:51,Goal,Wrist Shot,-83.0,5.0,Josh Archibald,Scorer,Edmonton Oilers,Connor McDavid,Assist,Edmonton Oilers,Oscar Klefbom,Assist,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators
+2020-01-15T03:23:32Z,2,09:09,10:51,Faceoff,n/a,0.0,0.0,Matt Duchene,Winner,Nashville Predators,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:23:53Z,2,09:31,10:29,Blocked Shot,n/a,-84.0,-5.0,Roman Josi,Blocker,Nashville Predators,Joakim Nygard,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:24:13Z,2,09:35,10:25,Shot,Wrist Shot,74.0,-2.0,Filip Forsberg,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:24:29Z,2,09:36,10:24,Faceoff,n/a,69.0,22.0,Matt Duchene,Winner,Nashville Predators,Ryan Nugent-Hopkins,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:24:49Z,2,09:40,10:20,Blocked Shot,n/a,40.0,-2.0,Kailer Yamamoto,Blocker,Edmonton Oilers,Dan Hamhuis,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:25:48Z,2,10:01,09:59,Faceoff,n/a,69.0,22.0,Nick Bonino,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:25:50Z,2,10:18,09:42,Missed Shot,n/a,31.0,-26.0,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:25:54Z,2,10:18,09:42,Hit,n/a,41.0,38.0,Kailer Yamamoto,Hitter,Edmonton Oilers,Yannick Weber,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:26:26Z,2,10:54,09:06,Shot,Wrist Shot,-36.0,-18.0,Darnell Nurse,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:26:35Z,2,11:03,08:57,Missed Shot,n/a,-80.0,2.0,Josh Archibald,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:27:48Z,2,11:08,08:52,Blocked Shot,n/a,-64.0,-11.0,Yannick Weber,Blocker,Nashville Predators,Darnell Nurse,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:29:03Z,2,11:10,08:50,Faceoff,n/a,0.0,0.0,Connor McDavid,Winner,Edmonton Oilers,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:29:27Z,2,11:35,08:25,Missed Shot,n/a,-60.0,31.0,Josh Archibald,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:29:43Z,2,11:49,08:11,Giveaway,n/a,-50.0,20.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:30:04Z,2,12:12,07:48,Blocked Shot,n/a,70.0,1.0,Darnell Nurse,Blocker,Edmonton Oilers,Yakov Trenin,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:30:32Z,2,12:37,07:23,Hit,n/a,-80.0,38.0,Kyle Turris,Hitter,Nashville Predators,Gaetan Haas,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:30:35Z,2,12:43,07:17,Blocked Shot,n/a,-67.0,-3.0,Colin Blackwell,Blocker,Nashville Predators,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:31:00Z,2,13:05,06:55,Takeaway,n/a,-66.0,39.0,Kyle Turris,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:31:05Z,2,13:14,06:46,Shot,Snap Shot,49.0,3.0,Roman Josi,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:32:17Z,2,14:26,05:34,Shot,Wrist Shot,61.0,-9.0,Craig Smith,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:32:35Z,2,14:44,05:16,Missed Shot,n/a,83.0,0.0,Nick Bonino,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:32:49Z,2,14:57,05:03,Hit,n/a,-38.0,33.0,Leon Draisaitl,Hitter,Edmonton Oilers,Mattias Ekholm,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:32:59Z,2,15:08,04:52,Blocked Shot,n/a,48.0,-11.0,Adam Larsson,Blocker,Edmonton Oilers,Yakov Trenin,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:33:03Z,2,15:12,04:48,Hit,n/a,96.0,-14.0,Yakov Trenin,Hitter,Nashville Predators,Oscar Klefbom,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:33:15Z,2,15:24,04:36,Hit,n/a,-14.0,-38.0,Colin Blackwell,Hitter,Nashville Predators,Patrick Russell,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:34:25Z,2,16:34,03:26,Hit,n/a,97.0,8.0,Filip Forsberg,Hitter,Nashville Predators,Ethan Bear,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:34:31Z,2,16:40,03:20,Shot,Wrist Shot,34.0,6.0,Mattias Ekholm,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:35:16Z,2,16:52,03:08,Shot,Wrist Shot,76.0,38.0,Mattias Ekholm,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:34:46Z,2,16:53,03:07,Shot,Wrist Shot,83.0,2.0,Filip Forsberg,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:36:55Z,2,16:53,03:07,Faceoff,n/a,69.0,22.0,Matt Duchene,Winner,Nashville Predators,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:37:12Z,2,17:01,02:59,Missed Shot,n/a,40.0,4.0,Mikael Granlund,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:38:13Z,2,17:52,02:08,Penalty,Hi-sticking,48.0,12.0,Mikael Granlund,PenaltyOn,Nashville Predators,Gaetan Haas,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:39:16Z,2,17:52,02:08,Faceoff,n/a,-69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:39:32Z,2,18:13,01:47,Penalty,Slashing,-50.0,-16.0,James Neal,PenaltyOn,Edmonton Oilers,Calle Jarnkrok,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:40:10Z,2,18:13,01:47,Faceoff,n/a,69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:40:31Z,2,18:34,01:26,Shot,Wrist Shot,-66.0,-32.0,Connor McDavid,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:40:44Z,2,18:46,01:14,Shot,Backhand,-74.0,3.0,Connor McDavid,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:41:22Z,2,18:47,01:13,Faceoff,n/a,-69.0,22.0,Matt Duchene,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:41:22Z,2,18:52,01:08,Hit,n/a,-85.0,29.0,Matt Duchene,Hitter,Nashville Predators,Ethan Bear,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:41:24Z,2,19:00,01:00,Shot,Wrist Shot,45.0,-37.0,Dante Fabbro,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:41:37Z,2,19:06,00:54,Giveaway,n/a,-26.0,1.0,Filip Forsberg,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:41:36Z,2,19:12,00:48,Missed Shot,n/a,-63.0,24.0,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:42:01Z,2,19:36,00:24,Missed Shot,n/a,-87.0,-5.0,Oscar Klefbom,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:01:20Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Ryan Johansen,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:01:30Z,3,00:13,19:47,Giveaway,n/a,-92.0,-23.0,Adam Larsson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:01:40Z,3,00:23,19:37,Missed Shot,n/a,-32.0,-15.0,Yannick Weber,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:01:45Z,3,00:28,19:32,Missed Shot,n/a,-44.0,22.0,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:02:26Z,3,01:08,18:52,Takeaway,n/a,-31.0,30.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:02:31Z,3,01:14,18:46,Shot,Snap Shot,69.0,1.0,Leon Draisaitl,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:02:55Z,3,01:38,18:22,Missed Shot,n/a,73.0,2.0,Sam Gagner,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:03:22Z,3,02:05,17:55,Takeaway,n/a,95.0,-5.0,Mattias Ekholm,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:04:11Z,3,02:51,17:09,Giveaway,n/a,-96.0,-4.0,Mike Smith,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:04:12Z,3,02:55,17:05,Shot,Wrist Shot,-63.0,-30.0,Rocco Grimaldi,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:05:40Z,3,03:03,16:57,Faceoff,n/a,-69.0,22.0,Kyle Turris,Winner,Nashville Predators,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:04:59Z,3,03:07,16:53,Missed Shot,n/a,-37.0,31.0,Mattias Ekholm,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:05:12Z,3,03:17,16:43,Blocked Shot,n/a,-61.0,4.0,Riley Sheahan,Blocker,Edmonton Oilers,Colin Blackwell,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:05:40Z,3,03:21,16:39,Faceoff,n/a,-69.0,-22.0,Kyle Turris,Winner,Nashville Predators,Gaetan Haas,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:05:49Z,3,03:25,16:35,Missed Shot,n/a,-51.0,-5.0,Colin Blackwell,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:06:03Z,3,03:32,16:28,Giveaway,n/a,-19.0,-38.0,Alex Chiasson,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:06:01Z,3,03:37,16:23,Shot,Slap Shot,-58.0,9.0,Yakov Trenin,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:06:11Z,3,03:47,16:13,Shot,Snap Shot,61.0,23.0,Alex Chiasson,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:07:04Z,3,03:49,16:11,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:07:20Z,3,03:52,16:08,Shot,Wrist Shot,33.0,27.0,Oscar Klefbom,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:07:52Z,3,04:04,15:56,Faceoff,n/a,69.0,22.0,Kyle Turris,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:08:06Z,3,04:07,15:53,Takeaway,n/a,82.0,-36.0,Ryan Nugent-Hopkins,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:08:47Z,3,04:53,15:07,Hit,n/a,-89.0,33.0,Darnell Nurse,Hitter,Edmonton Oilers,Roman Josi,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:09:11Z,3,05:17,14:43,Hit,n/a,-44.0,-38.0,Ethan Bear,Hitter,Edmonton Oilers,Ryan Johansen,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:09:19Z,3,05:20,14:40,Hit,n/a,-79.0,-20.0,Calle Jarnkrok,Hitter,Nashville Predators,James Neal,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:09:55Z,3,05:34,14:26,Faceoff,n/a,-69.0,-22.0,Connor McDavid,Winner,Edmonton Oilers,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:10:19Z,3,05:54,14:06,Hit,n/a,-66.0,-38.0,Ethan Bear,Hitter,Edmonton Oilers,Filip Forsberg,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:10:59Z,3,06:34,13:26,Hit,n/a,54.0,40.0,Patrick Russell,Hitter,Edmonton Oilers,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:11:14Z,3,06:49,13:11,Shot,Wrist Shot,-48.0,-31.0,Viktor Arvidsson,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:11:53Z,3,07:26,12:34,Hit,n/a,19.0,-32.0,Kris Russell,Hitter,Edmonton Oilers,Yakov Trenin,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:12:01Z,3,07:36,12:24,Giveaway,n/a,47.0,1.0,Kyle Turris,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:12:21Z,3,07:57,12:03,Shot,Slap Shot,62.0,-26.0,Ethan Bear,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:14:38Z,3,07:59,12:01,Faceoff,n/a,69.0,-22.0,Leon Draisaitl,Winner,Edmonton Oilers,Matt Duchene,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:14:52Z,3,08:06,11:54,Blocked Shot,n/a,82.0,-1.0,Dante Fabbro,Blocker,Nashville Predators,Leon Draisaitl,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:15:01Z,3,08:06,11:54,Faceoff,n/a,69.0,-22.0,Matt Duchene,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:15:22Z,3,08:18,11:42,Blocked Shot,n/a,79.0,-1.0,Dante Fabbro,Blocker,Nashville Predators,Ethan Bear,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:15:36Z,3,08:26,11:34,Penalty,Interference,-10.0,1.0,Kailer Yamamoto,PenaltyOn,Edmonton Oilers,Matt Duchene,DrewBy,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:16:23Z,3,08:26,11:34,Faceoff,n/a,-69.0,22.0,Riley Sheahan,Winner,Edmonton Oilers,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:16:57Z,3,09:05,10:55,Blocked Shot,n/a,-67.0,2.0,Riley Sheahan,Blocker,Edmonton Oilers,Viktor Arvidsson,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:17:05Z,3,09:12,10:48,Shot,Snap Shot,-68.0,24.0,Matt Duchene,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:17:22Z,3,09:29,10:31,Giveaway,n/a,-46.0,-19.0,Ryan Johansen,PlayerID,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:17:29Z,3,09:31,10:29,Giveaway,n/a,-38.0,5.0,Gaetan Haas,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:18:00Z,3,10:06,09:54,Missed Shot,n/a,-74.0,11.0,Craig Smith,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:18:08Z,3,10:15,09:45,Shot,Snap Shot,-58.0,13.0,Filip Forsberg,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:19:03Z,3,11:03,08:57,Hit,n/a,67.0,-37.0,Rocco Grimaldi,Hitter,Nashville Predators,Leon Draisaitl,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:19:17Z,3,11:24,08:36,Shot,Wrist Shot,-62.0,-31.0,Nick Bonino,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:19:29Z,3,11:36,08:24,Missed Shot,n/a,-37.0,0.0,Rocco Grimaldi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:19:41Z,3,11:42,08:18,Penalty,Interference,5.0,27.0,Rocco Grimaldi,PenaltyOn,Nashville Predators,Joakim Nygard,DrewBy,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:22:14Z,3,11:42,08:18,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Nick Bonino,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:22:03Z,3,11:48,08:12,Blocked Shot,n/a,73.0,1.0,Calle Jarnkrok,Blocker,Nashville Predators,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:22:33Z,3,12:17,07:43,Giveaway,n/a,-11.0,-16.0,Leon Draisaitl,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:22:58Z,3,12:43,07:17,Blocked Shot,n/a,65.0,-10.0,Filip Forsberg,Blocker,Nashville Predators,Connor McDavid,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:23:37Z,3,13:22,06:38,Shot,Snap Shot,65.0,2.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:24:10Z,3,13:22,06:38,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:24:54Z,3,14:08,05:52,Hit,n/a,-96.0,2.0,Kyle Turris,Hitter,Nashville Predators,Darnell Nurse,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:25:07Z,3,14:20,05:40,Hit,n/a,95.0,-25.0,Dan Hamhuis,Hitter,Nashville Predators,Joakim Nygard,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:26:16Z,3,15:29,04:31,Hit,n/a,-21.0,-38.0,Josh Archibald,Hitter,Edmonton Oilers,Dante Fabbro,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:26:27Z,3,15:34,04:26,Takeaway,n/a,-96.0,-4.0,Mike Smith,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:26:31Z,3,15:44,04:16,Missed Shot,n/a,33.0,-5.0,Adam Larsson,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:26:56Z,3,16:10,03:50,Shot,Wrist Shot,-71.0,27.0,Viktor Arvidsson,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:28:51Z,3,16:12,03:48,Faceoff,n/a,-69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:29:16Z,3,16:18,03:42,Blocked Shot,n/a,-72.0,36.0,Darnell Nurse,Blocker,Edmonton Oilers,Calle Jarnkrok,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:29:28Z,3,16:30,03:30,Hit,n/a,96.0,-7.0,Roman Josi,Hitter,Nashville Predators,Kailer Yamamoto,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:29:37Z,3,16:35,03:25,Hit,n/a,-66.0,39.0,Darnell Nurse,Hitter,Edmonton Oilers,Viktor Arvidsson,Hittee,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:30:00Z,3,16:59,03:01,Blocked Shot,n/a,-77.0,-5.0,Ethan Bear,Blocker,Edmonton Oilers,Roman Josi,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:30:17Z,3,17:01,02:59,Shot,Snap Shot,-64.0,-2.0,Ryan Johansen,Shooter,Nashville Predators,Mike Smith,Goalie,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:30:40Z,3,17:02,02:58,Faceoff,n/a,-69.0,-22.0,Nick Bonino,Winner,Nashville Predators,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:31:12Z,3,17:09,02:51,Faceoff,n/a,0.0,0.0,Nick Bonino,Winner,Nashville Predators,Connor McDavid,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:31:44Z,3,17:34,02:26,Takeaway,n/a,44.0,38.0,Connor McDavid,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:31:40Z,3,17:36,02:24,Shot,Wrist Shot,79.0,2.0,Connor McDavid,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:32:35Z,3,17:37,02:23,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:32:29Z,3,17:40,02:20,Blocked Shot,n/a,72.0,5.0,Mattias Ekholm,Blocker,Nashville Predators,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:32:43Z,3,17:40,02:20,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:32:53Z,3,17:45,02:15,Shot,Wrist Shot,57.0,11.0,Ryan Nugent-Hopkins,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:32:53Z,3,17:47,02:13,Hit,n/a,97.0,13.0,Mattias Ekholm,Hitter,Nashville Predators,Kailer Yamamoto,Hittee,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:33:09Z,3,17:49,02:11,Faceoff,n/a,69.0,22.0,Leon Draisaitl,Winner,Edmonton Oilers,Ryan Johansen,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:33:54Z,3,18:08,01:52,Giveaway,n/a,-93.0,8.0,Mike Smith,PlayerID,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:34:01Z,3,18:15,01:45,Shot,Snap Shot,61.0,-12.0,Leon Draisaitl,Shooter,Edmonton Oilers,Pekka Rinne,Goalie,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:34:09Z,3,18:37,01:23,Penalty,Too many men on the ice,-15.0,33.0,Calle Jarnkrok,PenaltyOn,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:38:14Z,3,18:37,01:23,Faceoff,n/a,69.0,22.0,Ryan Johansen,Winner,Nashville Predators,Leon Draisaitl,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:38:21Z,3,18:56,01:04,Blocked Shot,n/a,-81.0,1.0,Ethan Bear,Blocker,Edmonton Oilers,Nick Bonino,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:38:39Z,3,19:11,00:49,Goal,Backhand,84.0,10.0,Leon Draisaitl,Scorer,Edmonton Oilers,Connor McDavid,Assist,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:40:19Z,3,19:11,00:49,Faceoff,n/a,0.0,0.0,Riley Sheahan,Winner,Edmonton Oilers,Kyle Turris,Loser,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:39:57Z,3,19:32,00:28,Faceoff,n/a,69.0,-22.0,Kyle Turris,Winner,Nashville Predators,Riley Sheahan,Loser,Edmonton Oilers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:40:34Z,3,19:51,00:09,Blocked Shot,n/a,-55.0,14.0,Riley Sheahan,Blocker,Edmonton Oilers,Kyle Turris,Shooter,Nashville Predators,n/a,n/a,n/a,n/a,n/a,n/a

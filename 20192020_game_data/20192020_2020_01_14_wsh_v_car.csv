@@ -1,0 +1,236 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-14T00:07:51Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Jordan Staal,Winner,Carolina Hurricanes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:08:34Z,1,00:27,19:33,Shot,Wrist Shot,-66.0,36.0,Lars Eller,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:08:56Z,1,00:28,19:32,Faceoff,n/a,-69.0,22.0,Erik Haula,Winner,Carolina Hurricanes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:09:21Z,1,00:47,19:13,Blocked Shot,n/a,68.0,-3.0,Jonas Siegenthaler,Blocker,Washington Capitals,Erik Haula,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:09:41Z,1,01:07,18:53,Hit,n/a,60.0,30.0,Jonas Siegenthaler,Hitter,Washington Capitals,Ryan Dzingel,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:10:24Z,1,01:49,18:11,Missed Shot,n/a,-57.0,-1.0,Jakub Vrana,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:11:22Z,1,02:45,17:15,Hit,n/a,-96.0,20.0,Brett Pesce,Hitter,Carolina Hurricanes,Nic Dowd,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:11:23Z,1,02:48,17:12,Blocked Shot,n/a,-68.0,4.0,Brock McGinn,Blocker,Carolina Hurricanes,Garnet Hathaway,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:11:32Z,1,02:58,17:02,Shot,Wrist Shot,-74.0,-14.0,Michal Kempny,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:11:39Z,1,03:02,16:58,Giveaway,n/a,-77.0,-27.0,Brett Pesce,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:12:03Z,1,03:25,16:35,Hit,n/a,24.0,39.0,Richard Panik,Hitter,Washington Capitals,Jordan Martinook,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:12:32Z,1,03:35,16:25,Faceoff,n/a,-20.0,-22.0,Erik Haula,Winner,Carolina Hurricanes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:12:48Z,1,03:41,16:19,Shot,Wrist Shot,-54.0,21.0,Tom Wilson,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:13:34Z,1,04:25,15:35,Giveaway,n/a,94.0,-2.0,Dmitry Orlov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:13:33Z,1,04:26,15:34,Shot,Wrist Shot,35.0,-21.0,Trevor van Riemsdyk,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:14:28Z,1,05:21,14:39,Blocked Shot,n/a,48.0,23.0,Jakub Vrana,Blocker,Washington Capitals,Nino Niederreiter,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:14:59Z,1,05:51,14:09,Shot,Wrist Shot,75.0,4.0,Jordan Martinook,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:15:21Z,1,05:52,14:08,Faceoff,n/a,69.0,22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:15:41Z,1,05:56,14:04,Blocked Shot,n/a,47.0,21.0,Garnet Hathaway,Blocker,Washington Capitals,Jake Gardiner,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:15:47Z,1,06:02,13:58,Hit,n/a,94.0,20.0,Lucas Wallmark,Hitter,Carolina Hurricanes,Brendan Leipsic,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:15:54Z,1,06:06,13:54,Hit,n/a,94.0,-25.0,Jordan Martinook,Hitter,Carolina Hurricanes,Jonas Siegenthaler,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:17:53Z,1,06:09,13:51,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:18:40Z,1,06:38,13:22,Hit,n/a,-6.0,-40.0,Andrei Svechnikov,Hitter,Carolina Hurricanes,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:18:47Z,1,06:41,13:19,Hit,n/a,-94.0,28.0,Lars Eller,Hitter,Washington Capitals,Joel Edmundson,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:18:50Z,1,06:48,13:12,Missed Shot,n/a,55.0,-10.0,Jordan Staal,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:19:23Z,1,07:11,12:49,Penalty,Tripping,73.0,38.0,Andrei Svechnikov,PenaltyOn,Carolina Hurricanes,Richard Panik,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:19:53Z,1,07:11,12:49,Faceoff,n/a,-69.0,-22.0,Lucas Wallmark,Winner,Carolina Hurricanes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:20:54Z,1,08:14,11:46,Giveaway,n/a,59.0,-29.0,Alex Ovechkin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:21:02Z,1,08:20,11:40,Hit,n/a,99.0,12.0,Alex Ovechkin,Hitter,Washington Capitals,Jordan Martinook,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:21:13Z,1,08:32,11:28,Hit,n/a,-45.0,39.0,Brock McGinn,Hitter,Carolina Hurricanes,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:21:32Z,1,08:34,11:26,Faceoff,n/a,-20.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Tom Wilson,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:22:11Z,1,08:53,11:07,Faceoff,n/a,-69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:22:54Z,1,09:18,10:42,Shot,Tip-In,-75.0,5.0,Tom Wilson,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:24:01Z,1,09:54,10:06,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:24:01Z,1,09:59,10:01,Shot,Snap Shot,-80.0,30.0,Brendan Leipsic,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:24:09Z,1,10:04,09:56,Shot,Wrist Shot,-1.0,-34.0,Martin Necas,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:26:31Z,1,10:05,09:55,Faceoff,n/a,69.0,-22.0,Sebastian Aho,Winner,Carolina Hurricanes,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:26:42Z,1,10:13,09:47,Shot,Wrist Shot,73.0,-36.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:26:51Z,1,10:19,09:41,Takeaway,n/a,57.0,38.0,Sebastian Aho,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:26:52Z,1,10:22,09:38,Shot,Wrist Shot,71.0,-15.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:27:00Z,1,10:29,09:31,Hit,n/a,95.0,-19.0,Evgeny Kuznetsov,Hitter,Washington Capitals,Teuvo Teravainen,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:27:04Z,1,10:31,09:29,Shot,Wrist Shot,-40.0,28.0,Nick Jensen,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:27:28Z,1,10:32,09:28,Faceoff,n/a,-69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:28:06Z,1,11:10,08:50,Giveaway,n/a,-98.0,5.0,Joel Edmundson,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:28:12Z,1,11:14,08:46,Hit,n/a,-90.0,-27.0,Joel Edmundson,Hitter,Carolina Hurricanes,Carl Hagelin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:28:21Z,1,11:25,08:35,Missed Shot,n/a,-80.0,-8.0,Carl Hagelin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:28:28Z,1,11:30,08:30,Shot,Wrist Shot,-58.0,-22.0,Lars Eller,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:28:55Z,1,11:34,08:26,Faceoff,n/a,-20.0,-22.0,Erik Haula,Winner,Carolina Hurricanes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:29:00Z,1,11:39,08:21,Shot,Wrist Shot,-61.0,0.0,Alex Ovechkin,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:29:11Z,1,11:49,08:11,Takeaway,n/a,59.0,4.0,Radko Gudas,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:29:22Z,1,11:58,08:02,Goal,Wrist Shot,-73.0,1.0,Alex Ovechkin,Scorer,Washington Capitals,Tom Wilson,Assist,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a
+2020-01-14T00:30:06Z,1,11:58,08:02,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:30:28Z,1,12:21,07:39,Missed Shot,n/a,36.0,-20.0,Dougie Hamilton,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:30:42Z,1,12:35,07:25,Blocked Shot,n/a,85.0,-23.0,Jonas Siegenthaler,Blocker,Washington Capitals,Brock McGinn,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:30:54Z,1,12:46,07:14,Shot,Wrist Shot,-75.0,17.0,Brendan Leipsic,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:31:39Z,1,12:46,07:14,Faceoff,n/a,-69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:32:02Z,1,12:48,07:12,Missed Shot,n/a,-58.0,11.0,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:32:16Z,1,13:02,06:58,Missed Shot,n/a,-65.0,4.0,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:32:47Z,1,13:34,06:26,Hit,n/a,-51.0,-41.0,Sebastian Aho,Hitter,Carolina Hurricanes,Carl Hagelin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:33:04Z,1,13:50,06:10,Missed Shot,n/a,-35.0,15.0,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:33:21Z,1,14:07,05:53,Blocked Shot,n/a,-71.0,1.0,Jake Gardiner,Blocker,Carolina Hurricanes,Richard Panik,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:33:29Z,1,14:10,05:50,Hit,n/a,-74.0,14.0,Lars Eller,Hitter,Washington Capitals,Brett Pesce,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:33:28Z,1,14:15,05:45,Shot,Wrist Shot,-68.0,22.0,Dmitry Orlov,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:33:32Z,1,14:18,05:42,Shot,Wrist Shot,-86.0,5.0,Lars Eller,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:33:35Z,1,14:21,05:39,Shot,Wrist Shot,-64.0,28.0,John Carlson,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:33:43Z,1,14:22,05:38,Penalty,Slashing,-69.0,21.0,Warren Foegele,PenaltyOn,Carolina Hurricanes,Lars Eller,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:35:40Z,1,14:22,05:38,Faceoff,n/a,-69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:36:51Z,1,15:15,04:45,Missed Shot,n/a,-53.0,-15.0,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:37:12Z,1,15:32,04:28,Shot,Wrist Shot,-80.0,-31.0,Brett Pesce,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:37:08Z,1,15:34,04:26,Giveaway,n/a,-32.0,-31.0,Alex Ovechkin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:37:33Z,1,15:59,04:01,Takeaway,n/a,-52.0,35.0,Jaccob Slavin,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:38:29Z,1,16:26,03:34,Faceoff,n/a,-20.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:38:49Z,1,16:44,03:16,Hit,n/a,-75.0,-34.0,Jordan Staal,Hitter,Carolina Hurricanes,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:39:04Z,1,16:58,03:02,Blocked Shot,n/a,-65.0,-26.0,Joel Edmundson,Blocker,Carolina Hurricanes,Carl Hagelin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:39:27Z,1,16:59,03:01,Faceoff,n/a,-69.0,-22.0,Erik Haula,Winner,Carolina Hurricanes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:39:43Z,1,17:01,02:59,Penalty,Delaying Game - Puck over glass,-85.0,-32.0,Dougie Hamilton,PenaltyOn,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:40:22Z,1,17:01,02:59,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Brock McGinn,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:40:49Z,1,17:10,02:50,Giveaway,n/a,-56.0,-40.0,T.J. Oshie,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:41:00Z,1,17:18,02:42,Goal,Slap Shot,-53.0,-22.0,Alex Ovechkin,Scorer,Washington Capitals,Jakub Vrana,Assist,Washington Capitals,John Carlson,Assist,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes
+2020-01-14T00:41:42Z,1,17:18,02:42,Penalty,Tripping,-82.0,24.0,Jordan Staal,PenaltyOn,Carolina Hurricanes,T.J. Oshie,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:42:25Z,1,17:18,02:42,Faceoff,n/a,0.0,0.0,Lars Eller,Winner,Washington Capitals,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:42:47Z,1,17:42,02:18,Missed Shot,n/a,-39.0,-4.0,Dmitry Orlov,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:44:12Z,1,19:06,00:54,Blocked Shot,n/a,-43.0,7.0,Teuvo Teravainen,Blocker,Carolina Hurricanes,John Carlson,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:44:28Z,1,19:22,00:38,Blocked Shot,n/a,-64.0,-14.0,Dougie Hamilton,Blocker,Carolina Hurricanes,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:45:05Z,1,19:23,00:37,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:46:05Z,1,19:35,00:25,Faceoff,n/a,69.0,22.0,Lars Eller,Winner,Washington Capitals,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T00:46:24Z,1,19:47,00:13,Takeaway,n/a,34.0,30.0,Radko Gudas,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:05:03Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:05:19Z,2,00:12,19:48,Shot,Wrist Shot,-20.0,34.0,Brett Pesce,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:05:28Z,2,00:22,19:38,Blocked Shot,n/a,76.0,2.0,Jordan Martinook,Blocker,Carolina Hurricanes,Nic Dowd,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:05:43Z,2,00:34,19:26,Hit,n/a,53.0,-40.0,Garnet Hathaway,Hitter,Washington Capitals,Lucas Wallmark,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:05:59Z,2,00:51,19:09,Hit,n/a,-23.0,-40.0,Joel Edmundson,Hitter,Carolina Hurricanes,Garnet Hathaway,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:06:31Z,2,01:23,18:37,Giveaway,n/a,-78.0,20.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:07:28Z,2,01:57,18:03,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:07:55Z,2,02:21,17:39,Shot,Slap Shot,-33.0,-28.0,Jake Gardiner,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:08:58Z,2,03:22,16:38,Hit,n/a,-80.0,35.0,Radko Gudas,Hitter,Washington Capitals,Sebastian Aho,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:09:19Z,2,03:43,16:17,Blocked Shot,n/a,-72.0,4.0,Lars Eller,Blocker,Washington Capitals,Sebastian Aho,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:09:33Z,2,03:59,16:01,Hit,n/a,97.0,0.0,Jakub Vrana,Hitter,Washington Capitals,Jaccob Slavin,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:09:43Z,2,04:08,15:52,Missed Shot,n/a,33.0,2.0,Michal Kempny,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:10:23Z,2,04:19,15:41,Faceoff,n/a,-69.0,22.0,Lars Eller,Winner,Washington Capitals,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:11:29Z,2,05:09,14:51,Hit,n/a,55.0,36.0,Brett Pesce,Hitter,Carolina Hurricanes,Nicklas Backstrom,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:11:35Z,2,05:18,14:42,Missed Shot,n/a,-63.0,-36.0,Brock McGinn,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:12:00Z,2,05:33,14:27,Penalty,Interference,-71.0,-19.0,Dmitry Orlov,PenaltyOn,Washington Capitals,Lucas Wallmark,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:12:32Z,2,05:33,14:27,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:12:58Z,2,05:59,14:01,Shot,Wrist Shot,-36.0,-1.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:13:03Z,2,06:04,13:56,Blocked Shot,n/a,-78.0,2.0,Jonas Siegenthaler,Blocker,Washington Capitals,Teuvo Teravainen,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:13:49Z,2,06:50,13:10,Giveaway,n/a,-98.0,17.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:13:59Z,2,07:00,13:00,Missed Shot,n/a,-67.0,0.0,Martin Necas,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:14:19Z,2,07:20,12:40,Missed Shot,n/a,-69.0,-29.0,Martin Necas,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:14:47Z,2,07:48,12:12,Hit,n/a,-35.0,-40.0,Nic Dowd,Hitter,Washington Capitals,Jaccob Slavin,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:14:58Z,2,07:59,12:01,Hit,n/a,10.0,-22.0,Radko Gudas,Hitter,Washington Capitals,Warren Foegele,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:15:30Z,2,08:29,11:31,Missed Shot,n/a,80.0,-7.0,T.J. Oshie,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:17:33Z,2,08:30,11:30,Faceoff,n/a,69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:18:20Z,2,09:04,10:56,Shot,Tip-In,22.0,-10.0,Brock McGinn,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:18:25Z,2,09:09,10:51,Hit,n/a,-97.0,20.0,Jordan Martinook,Hitter,Carolina Hurricanes,Michal Kempny,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:18:56Z,2,09:16,10:44,Faceoff,n/a,69.0,-22.0,Lars Eller,Winner,Washington Capitals,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:19:26Z,2,09:32,10:28,Penalty,Hooking,33.0,-32.0,Lars Eller,PenaltyOn,Washington Capitals,Erik Haula,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:19:50Z,2,09:32,10:28,Faceoff,n/a,-69.0,-22.0,Erik Haula,Winner,Carolina Hurricanes,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:20:14Z,2,09:35,10:25,Shot,Slap Shot,-37.0,-7.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:20:24Z,2,09:36,10:24,Faceoff,n/a,-69.0,-22.0,Erik Haula,Winner,Carolina Hurricanes,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:20:56Z,2,09:57,10:03,Shot,Wrist Shot,-85.0,13.0,Erik Haula,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:21:21Z,2,10:22,09:38,Blocked Shot,n/a,-51.0,-6.0,Garnet Hathaway,Blocker,Washington Capitals,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:21:28Z,2,10:26,09:34,Takeaway,n/a,-77.0,39.0,Teuvo Teravainen,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:22:03Z,2,11:04,08:56,Takeaway,n/a,-52.0,24.0,Lucas Wallmark,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:22:16Z,2,11:17,08:43,Blocked Shot,n/a,-62.0,18.0,Michal Kempny,Blocker,Washington Capitals,Lucas Wallmark,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:22:59Z,2,11:20,08:40,Faceoff,n/a,-69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:25:46Z,2,11:42,08:18,Faceoff,n/a,20.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:26:20Z,2,12:06,07:54,Penalty,Hooking,37.0,-39.0,Evgeny Kuznetsov,PenaltyOn,Washington Capitals,Jordan Staal,DrewBy,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:27:01Z,2,12:06,07:54,Faceoff,n/a,-69.0,-22.0,Nic Dowd,Winner,Washington Capitals,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:27:10Z,2,12:15,07:45,Shot,Wrist Shot,-73.0,-9.0,Sebastian Aho,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:27:23Z,2,12:16,07:44,Faceoff,n/a,-69.0,-22.0,Erik Haula,Winner,Carolina Hurricanes,Nic Dowd,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:27:44Z,2,12:25,07:35,Shot,Wrist Shot,-59.0,14.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:28:14Z,2,12:26,07:34,Faceoff,n/a,-69.0,22.0,Erik Haula,Winner,Carolina Hurricanes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:28:40Z,2,12:43,07:17,Shot,Wrist Shot,-35.0,31.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:30:16Z,2,14:19,05:41,Blocked Shot,n/a,-69.0,3.0,Lars Eller,Blocker,Washington Capitals,Ryan Dzingel,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:30:26Z,2,14:27,05:33,Giveaway,n/a,-70.0,-33.0,Lars Eller,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:31:10Z,2,15:13,04:47,Takeaway,n/a,28.0,1.0,Jordan Staal,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:31:15Z,2,15:18,04:42,Hit,n/a,6.0,41.0,Jordan Staal,Hitter,Carolina Hurricanes,Tom Wilson,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:31:26Z,2,15:29,04:31,Blocked Shot,n/a,67.0,11.0,Trevor van Riemsdyk,Blocker,Carolina Hurricanes,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:32:04Z,2,16:06,03:54,Takeaway,n/a,29.0,-33.0,John Carlson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:32:08Z,2,16:11,03:49,Shot,Backhand,83.0,-9.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:32:16Z,2,16:19,03:41,Shot,Slap Shot,41.0,-18.0,John Carlson,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:32:58Z,2,16:33,03:27,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:33:06Z,2,16:42,03:18,Missed Shot,n/a,63.0,4.0,Richard Panik,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:33:11Z,2,16:48,03:12,Shot,Wrist Shot,77.0,-17.0,Radko Gudas,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:33:18Z,2,16:50,03:10,Shot,Wrist Shot,71.0,7.0,Richard Panik,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:33:17Z,2,16:53,03:07,Hit,n/a,22.0,40.0,Radko Gudas,Hitter,Washington Capitals,Teuvo Teravainen,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:33:41Z,2,16:53,03:07,Faceoff,n/a,69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:34:06Z,2,17:17,02:43,Giveaway,n/a,28.0,-32.0,Tom Wilson,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:34:27Z,2,17:38,02:22,Hit,n/a,-48.0,-38.0,Radko Gudas,Hitter,Washington Capitals,Jordan Martinook,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:34:27Z,2,17:38,02:22,Missed Shot,n/a,-54.0,-14.0,Jordan Martinook,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:34:36Z,2,17:44,02:16,Hit,n/a,-54.0,42.0,Lars Eller,Hitter,Washington Capitals,Lucas Wallmark,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:35:01Z,2,18:11,01:49,Shot,Tip-In,-76.0,-1.0,Dougie Hamilton,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:35:08Z,2,18:12,01:48,Missed Shot,n/a,-90.0,-7.0,Jordan Martinook,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:37:33Z,2,18:13,01:47,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:38:18Z,2,18:39,01:21,Faceoff,n/a,69.0,22.0,Jakub Vrana,Winner,Washington Capitals,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:38:59Z,2,19:00,01:00,Takeaway,n/a,29.0,-15.0,Ryan Dzingel,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:39:27Z,2,19:27,00:33,Missed Shot,n/a,-77.0,10.0,Jaccob Slavin,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:39:33Z,2,19:31,00:29,Takeaway,n/a,-34.0,5.0,Jakub Vrana,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:39:37Z,2,19:33,00:27,Shot,Wrist Shot,-10.0,4.0,Jakub Vrana,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:58:26Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Nic Dowd,Winner,Washington Capitals,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:58:35Z,3,00:06,19:54,Shot,Snap Shot,-77.0,22.0,Nic Dowd,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:58:51Z,3,00:07,19:53,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:59:03Z,3,00:09,19:51,Shot,Slap Shot,-44.0,30.0,Radko Gudas,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:59:26Z,3,00:10,19:50,Faceoff,n/a,-69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:59:33Z,3,00:14,19:46,Shot,Snap Shot,-35.0,1.0,Nick Jensen,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T01:59:46Z,3,00:27,19:33,Shot,Backhand,76.0,-13.0,Sebastian Aho,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:00:17Z,3,00:52,19:08,Hit,n/a,-14.0,39.0,Andrei Svechnikov,Hitter,Carolina Hurricanes,Jakub Vrana,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:00:33Z,3,01:14,18:46,Takeaway,n/a,0.0,4.0,Carl Hagelin,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:01:06Z,3,01:30,18:30,Faceoff,n/a,69.0,22.0,Erik Haula,Winner,Carolina Hurricanes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:01:26Z,3,01:39,18:21,Shot,Deflected,-81.0,-6.0,Carl Hagelin,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:02:13Z,3,01:40,18:20,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:04:19Z,3,02:53,17:07,Hit,n/a,-37.0,-39.0,Nic Dowd,Hitter,Washington Capitals,Brock McGinn,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:05:06Z,3,03:38,16:22,Giveaway,n/a,95.0,-5.0,Evgeny Kuznetsov,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:05:13Z,3,03:46,16:14,Shot,Snap Shot,52.0,-1.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:05:58Z,3,03:47,16:13,Faceoff,n/a,69.0,-22.0,Jordan Staal,Winner,Carolina Hurricanes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:05:55Z,3,03:54,16:06,Blocked Shot,n/a,68.0,7.0,Richard Panik,Blocker,Washington Capitals,Jaccob Slavin,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:06:12Z,3,04:11,15:49,Shot,Wrist Shot,-35.0,7.0,Carl Hagelin,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:06:47Z,3,04:22,15:38,Faceoff,n/a,20.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:07:48Z,3,04:55,15:05,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:08:24Z,3,05:23,14:37,Penalty,Tripping,63.0,-8.0,Jake Gardiner,PenaltyOn,Carolina Hurricanes,Michal Kempny,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:09:06Z,3,05:23,14:37,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:10:23Z,3,06:37,13:23,Shot,Snap Shot,-66.0,-14.0,Alex Ovechkin,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:10:45Z,3,06:38,13:22,Penalty,Slashing,-77.0,25.0,Dougie Hamilton,PenaltyOn,Carolina Hurricanes,Evgeny Kuznetsov,DrewBy,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:11:56Z,3,06:38,13:22,Faceoff,n/a,-69.0,-22.0,Nicklas Backstrom,Winner,Washington Capitals,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:12:29Z,3,07:08,12:52,Shot,Wrist Shot,76.0,-5.0,Sebastian Aho,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:13:14Z,3,07:11,12:49,Faceoff,n/a,69.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,T.J. Oshie,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:14:32Z,3,08:37,11:23,Blocked Shot,n/a,-68.0,0.0,Jaccob Slavin,Blocker,Carolina Hurricanes,Lars Eller,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:14:56Z,3,09:01,10:59,Hit,n/a,-1.0,-38.0,Garnet Hathaway,Hitter,Washington Capitals,Trevor van Riemsdyk,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:15:03Z,3,09:08,10:52,Shot,Snap Shot,-83.0,31.0,Garnet Hathaway,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:15:10Z,3,09:14,10:46,Shot,Slap Shot,-36.0,26.0,Nick Jensen,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:17:23Z,3,09:15,10:45,Faceoff,n/a,-69.0,22.0,Nic Dowd,Winner,Washington Capitals,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:17:29Z,3,09:19,10:41,Blocked Shot,n/a,-55.0,10.0,Ryan Dzingel,Blocker,Carolina Hurricanes,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:17:47Z,3,09:35,10:25,Blocked Shot,n/a,-53.0,11.0,Ryan Dzingel,Blocker,Carolina Hurricanes,Nick Jensen,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:18:02Z,3,09:52,10:08,Hit,n/a,48.0,40.0,Nic Dowd,Hitter,Washington Capitals,Jaccob Slavin,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:18:22Z,3,10:09,09:51,Hit,n/a,-96.0,-16.0,Brett Pesce,Hitter,Carolina Hurricanes,Lars Eller,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:18:33Z,3,10:23,09:37,Shot,Wrist Shot,-60.0,-38.0,Carl Hagelin,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:19:09Z,3,10:58,09:02,Giveaway,n/a,93.0,-16.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:19:45Z,3,11:33,08:27,Shot,Wrist Shot,-13.0,13.0,Nicklas Backstrom,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:20:09Z,3,11:57,08:03,Giveaway,n/a,87.0,-27.0,Jonas Siegenthaler,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:20:13Z,3,12:02,07:58,Shot,Wrist Shot,-81.0,-9.0,Evgeny Kuznetsov,Shooter,Washington Capitals,Petr Mrazek,Goalie,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:20:22Z,3,12:11,07:49,Giveaway,n/a,-96.0,10.0,Jaccob Slavin,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:20:41Z,3,12:31,07:29,Hit,n/a,-83.0,37.0,T.J. Oshie,Hitter,Washington Capitals,Jordan Martinook,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:22:45Z,3,12:40,07:20,Faceoff,n/a,69.0,-22.0,Carl Hagelin,Winner,Washington Capitals,Warren Foegele,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:23:41Z,3,12:56,07:04,Faceoff,n/a,-69.0,-22.0,Lars Eller,Winner,Washington Capitals,Jordan Staal,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:24:09Z,3,13:09,06:51,Giveaway,n/a,-90.0,-31.0,Brett Pesce,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:24:51Z,3,13:50,06:10,Shot,Wrist Shot,75.0,39.0,Teuvo Teravainen,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:25:13Z,3,13:51,06:09,Faceoff,n/a,69.0,22.0,Evgeny Kuznetsov,Winner,Washington Capitals,Sebastian Aho,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:25:56Z,3,14:00,06:00,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:26:32Z,3,14:29,05:31,Shot,Wrist Shot,60.0,20.0,Erik Haula,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:28:22Z,3,14:30,05:30,Faceoff,n/a,69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Evgeny Kuznetsov,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:28:48Z,3,14:35,05:25,Shot,Wrist Shot,87.0,25.0,Jaccob Slavin,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:28:56Z,3,14:43,05:17,Blocked Shot,n/a,72.0,-8.0,Nick Jensen,Blocker,Washington Capitals,Teuvo Teravainen,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:28:57Z,3,14:45,05:15,Giveaway,n/a,52.0,39.0,Nick Jensen,PlayerID,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:29:46Z,3,15:32,04:28,Takeaway,n/a,-85.0,-25.0,Martin Necas,PlayerID,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:30:17Z,3,15:38,04:22,Faceoff,n/a,20.0,22.0,Jordan Staal,Winner,Carolina Hurricanes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:30:44Z,3,16:01,03:59,Hit,n/a,-97.0,-5.0,Lars Eller,Hitter,Washington Capitals,Jordan Staal,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:31:21Z,3,16:40,03:20,Shot,Snap Shot,51.0,-1.0,Warren Foegele,Shooter,Carolina Hurricanes,Ilya Samsonov,Goalie,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:32:03Z,3,16:46,03:14,Faceoff,n/a,69.0,22.0,Erik Haula,Winner,Carolina Hurricanes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:32:21Z,3,17:07,02:53,Hit,n/a,91.0,30.0,Michal Kempny,Hitter,Washington Capitals,Erik Haula,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:32:34Z,3,17:18,02:42,Missed Shot,n/a,10.0,-33.0,Carl Hagelin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:33:42Z,3,17:20,02:40,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Erik Haula,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:34:18Z,3,17:39,02:21,Faceoff,n/a,69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:35:07Z,3,18:00,02:00,Missed Shot,n/a,83.0,-8.0,Erik Haula,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:35:28Z,3,18:09,01:51,Blocked Shot,n/a,-76.0,-6.0,Teuvo Teravainen,Blocker,Carolina Hurricanes,Alex Ovechkin,Shooter,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:35:57Z,3,18:11,01:49,Faceoff,n/a,-69.0,22.0,Sebastian Aho,Winner,Carolina Hurricanes,Nicklas Backstrom,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:36:28Z,3,18:42,01:18,Blocked Shot,n/a,74.0,-10.0,Radko Gudas,Blocker,Washington Capitals,Andrei Svechnikov,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:36:41Z,3,18:54,01:06,Hit,n/a,47.0,-39.0,T.J. Oshie,Hitter,Washington Capitals,Sebastian Aho,Hittee,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:36:47Z,3,18:56,01:04,Hit,n/a,97.0,-20.0,Andrei Svechnikov,Hitter,Carolina Hurricanes,Dmitry Orlov,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:36:55Z,3,19:09,00:51,Blocked Shot,n/a,75.0,7.0,Nicklas Backstrom,Blocker,Washington Capitals,Jordan Staal,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:37:36Z,3,19:10,00:50,Faceoff,n/a,69.0,22.0,Erik Haula,Winner,Carolina Hurricanes,Lars Eller,Loser,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:37:51Z,3,19:35,00:25,Blocked Shot,n/a,48.0,-6.0,Carl Hagelin,Blocker,Washington Capitals,Nino Niederreiter,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:37:57Z,3,19:38,00:22,Hit,n/a,20.0,-39.0,Nino Niederreiter,Hitter,Carolina Hurricanes,Carl Hagelin,Hittee,Washington Capitals,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:38:08Z,3,19:50,00:10,Blocked Shot,n/a,73.0,13.0,John Carlson,Blocker,Washington Capitals,Erik Haula,Shooter,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-14T02:38:39Z,3,19:51,00:09,Faceoff,n/a,69.0,22.0,Nicklas Backstrom,Winner,Washington Capitals,Lucas Wallmark,Loser,Carolina Hurricanes,n/a,n/a,n/a,n/a,n/a,n/a

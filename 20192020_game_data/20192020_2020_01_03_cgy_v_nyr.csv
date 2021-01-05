@@ -1,0 +1,235 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-03T02:07:31Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Mika Zibanejad,Winner,New York Rangers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:08:26Z,1,00:08,19:52,Hit,n/a,3.0,-41.0,Andrew Mangiapane,Hitter,Calgary Flames,Pavel Buchnevich,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:08:48Z,1,00:30,19:30,Hit,n/a,-19.0,-40.0,Pavel Buchnevich,Hitter,New York Rangers,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:09:20Z,1,00:55,19:05,Faceoff,n/a,-69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:09:41Z,1,01:02,18:58,Missed Shot,n/a,-47.0,-38.0,Johnny Gaudreau,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:09:56Z,1,01:17,18:43,Shot,Wrist Shot,-32.0,-7.0,Mark Giordano,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:10:34Z,1,01:55,18:05,Blocked Shot,n/a,56.0,-12.0,Oliver Kylington,Blocker,Calgary Flames,Tony DeAngelo,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:10:42Z,1,02:03,17:57,Hit,n/a,-33.0,40.0,Ryan Lindgren,Hitter,New York Rangers,Derek Ryan,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:10:56Z,1,02:14,17:46,Shot,Snap Shot,-49.0,-26.0,Dillon Dube,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:11:38Z,1,02:58,17:02,Takeaway,n/a,12.0,-37.0,Mark Jankowski,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:12:11Z,1,03:32,16:28,Shot,Wrist Shot,-54.0,-37.0,Mark Giordano,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:12:40Z,1,04:01,15:59,Giveaway,n/a,-73.0,-40.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:12:49Z,1,04:08,15:52,Giveaway,n/a,85.0,30.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:12:57Z,1,04:15,15:45,Goal,Backhand,-77.0,0.0,Johnny Gaudreau,Scorer,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:13:33Z,1,04:15,15:45,Faceoff,n/a,0.0,0.0,Sean Monahan,Winner,Calgary Flames,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:14:36Z,1,05:17,14:43,Takeaway,n/a,4.0,14.0,Derek Ryan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:15:09Z,1,05:50,14:10,Blocked Shot,n/a,-38.0,-25.0,Greg McKegg,Blocker,New York Rangers,Oliver Kylington,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:15:12Z,1,05:53,14:07,Takeaway,n/a,-60.0,-33.0,Sam Bennett,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:15:27Z,1,05:59,14:01,Penalty,Hooking,-15.0,-3.0,Sam Bennett,PenaltyOn,Calgary Flames,Greg McKegg,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:15:53Z,1,05:59,14:01,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:16:04Z,1,06:08,13:52,Blocked Shot,n/a,59.0,-8.0,Elias Lindholm,Blocker,Calgary Flames,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:16:48Z,1,06:48,13:12,Penalty,Hooking,87.0,-30.0,Derek Ryan,PenaltyOn,Calgary Flames,Ryan Strome,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:17:09Z,1,06:48,13:12,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:17:50Z,1,07:11,12:49,Takeaway,n/a,57.0,2.0,Mikael Backlund,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:17:56Z,1,07:16,12:44,Goal,Backhand,-79.0,2.0,Mikael Backlund,Scorer,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:18:56Z,1,07:16,12:44,Faceoff,n/a,0.0,0.0,Elias Lindholm,Winner,Calgary Flames,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:19:06Z,1,07:42,12:18,Goal,Wrist Shot,52.0,7.0,Jacob Trouba,Scorer,New York Rangers,Pavel Buchnevich,Assist,New York Rangers,Adam Fox,Assist,New York Rangers,Cam Talbot,Goalie,Calgary Flames
+2020-01-03T02:19:19Z,1,07:42,12:18,Faceoff,n/a,0.0,0.0,Elias Lindholm,Winner,Calgary Flames,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:20:09Z,1,08:06,11:54,Shot,Tip-In,81.0,5.0,Filip Chytil,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:20:21Z,1,08:07,11:53,Goal,Backhand,82.0,1.0,Filip Chytil,Scorer,New York Rangers,Kaapo Kakko,Assist,New York Rangers,Adam Fox,Assist,New York Rangers,Cam Talbot,Goalie,Calgary Flames
+2020-01-03T02:20:48Z,1,08:07,11:53,Faceoff,n/a,0.0,0.0,Derek Ryan,Winner,Calgary Flames,Greg McKegg,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:21:20Z,1,08:36,11:24,Hit,n/a,-98.0,3.0,Tony DeAngelo,Hitter,New York Rangers,Milan Lucic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:21:26Z,1,08:42,11:18,Missed Shot,n/a,-33.0,23.0,Rasmus Andersson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:21:32Z,1,08:45,11:15,Shot,Wrist Shot,-80.0,17.0,Dillon Dube,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:21:53Z,1,09:06,10:54,Giveaway,n/a,-31.0,-33.0,Johnny Gaudreau,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:22:00Z,1,09:06,10:54,Penalty,Hooking,-49.0,30.0,Jesper Fast,PenaltyOn,New York Rangers,Oliver Kylington,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:25:53Z,1,09:06,10:54,Faceoff,n/a,-69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:24:18Z,1,09:19,10:41,Shot,Wrist Shot,-63.0,9.0,Matthew Tkachuk,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:24:16Z,1,09:20,10:40,Missed Shot,n/a,-82.0,2.0,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:24:30Z,1,09:25,10:35,Shot,Wrist Shot,-57.0,2.0,Sean Monahan,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:24:45Z,1,09:26,10:34,Faceoff,n/a,-69.0,22.0,Greg McKegg,Winner,New York Rangers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:25:13Z,1,09:52,10:08,Missed Shot,n/a,-64.0,33.0,Elias Lindholm,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:26:11Z,1,10:50,09:10,Shot,Wrist Shot,-63.0,4.0,Jacob Trouba,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:26:39Z,1,11:18,08:42,Shot,Wrist Shot,59.0,-6.0,Mika Zibanejad,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:27:14Z,1,11:53,08:07,Takeaway,n/a,54.0,-20.0,Elias Lindholm,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:27:37Z,1,12:15,07:45,Takeaway,n/a,65.0,-28.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:28:25Z,1,13:00,07:00,Hit,n/a,99.0,-6.0,Pavel Buchnevich,Hitter,New York Rangers,Noah Hanifin,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:28:40Z,1,13:15,06:45,Takeaway,n/a,-50.0,30.0,Dillon Dube,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:28:44Z,1,13:18,06:42,Goal,Wrist Shot,-51.0,-3.0,Derek Ryan,Scorer,Calgary Flames,Dillon Dube,Assist,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a
+2020-01-03T02:29:24Z,1,13:18,06:42,Faceoff,n/a,0.0,0.0,Mika Zibanejad,Winner,New York Rangers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:29:50Z,1,13:47,06:13,Shot,Backhand,62.0,19.0,Tony DeAngelo,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:32:10Z,1,13:47,06:13,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:32:34Z,1,13:58,06:02,Faceoff,n/a,0.0,0.0,Ryan Strome,Winner,New York Rangers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:33:13Z,1,14:26,05:34,Takeaway,n/a,42.0,-40.0,Ryan Strome,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:33:19Z,1,14:32,05:28,Giveaway,n/a,37.0,-29.0,Artemi Panarin,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:33:57Z,1,15:11,04:49,Hit,n/a,-14.0,-42.0,Marc Staal,Hitter,New York Rangers,Tobias Rieder,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:34:58Z,1,16:11,03:49,Giveaway,n/a,99.0,16.0,Greg McKegg,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:35:04Z,1,16:14,03:46,Takeaway,n/a,82.0,19.0,Greg McKegg,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:35:25Z,1,16:36,03:24,Giveaway,n/a,11.0,19.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:36:01Z,1,17:14,02:46,Missed Shot,n/a,56.0,-1.0,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:37:44Z,1,17:16,02:44,Faceoff,n/a,69.0,22.0,Sean Monahan,Winner,Calgary Flames,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:38:47Z,1,17:28,02:32,Faceoff,n/a,0.0,0.0,Ryan Strome,Winner,New York Rangers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:39:46Z,1,18:13,01:47,Giveaway,n/a,35.0,-14.0,Artemi Panarin,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:39:49Z,1,18:15,01:45,Giveaway,n/a,6.0,-26.0,Mark Giordano,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:40:13Z,1,18:40,01:20,Hit,n/a,-17.0,-31.0,Jacob Trouba,Hitter,New York Rangers,Dillon Dube,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:40:24Z,1,18:51,01:09,Giveaway,n/a,-68.0,-39.0,Oliver Kylington,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:40:37Z,1,19:04,00:56,Hit,n/a,-56.0,34.0,Dillon Dube,Hitter,Calgary Flames,Brett Howden,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:40:44Z,1,19:09,00:51,Shot,Slap Shot,43.0,-27.0,Jacob Trouba,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:41:00Z,1,19:10,00:50,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:41:57Z,1,19:19,00:41,Missed Shot,n/a,44.0,22.0,Ryan Lindgren,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:42:24Z,1,19:46,00:14,Takeaway,n/a,-77.0,-37.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T02:42:36Z,1,19:57,00:03,Hit,n/a,35.0,-38.0,Noah Hanifin,Hitter,Calgary Flames,Adam Fox,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:01:14Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Elias Lindholm,Winner,Calgary Flames,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:01:28Z,2,00:13,19:47,Hit,n/a,-96.0,-26.0,Chris Kreider,Hitter,New York Rangers,Travis Hamonic,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:01:36Z,2,00:32,19:28,Shot,Wrist Shot,-37.0,21.0,Jacob Trouba,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:02:21Z,2,00:32,19:28,Faceoff,n/a,-69.0,22.0,Ryan Strome,Winner,New York Rangers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:02:05Z,2,00:37,19:23,Shot,Slap Shot,-40.0,-4.0,Artemi Panarin,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:02:22Z,2,00:51,19:09,Giveaway,n/a,-35.0,36.0,Mark Giordano,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:02:41Z,2,01:13,18:47,Hit,n/a,99.0,3.0,Mikael Backlund,Hitter,Calgary Flames,Ryan Lindgren,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:02:57Z,2,01:29,18:31,Hit,n/a,-9.0,-42.0,Sam Bennett,Hitter,Calgary Flames,Ryan Lindgren,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:03:22Z,2,01:55,18:05,Hit,n/a,-97.0,10.0,Oliver Kylington,Hitter,Calgary Flames,Brett Howden,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:03:30Z,2,02:02,17:58,Giveaway,n/a,-33.0,-33.0,Derek Ryan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:03:57Z,2,02:30,17:30,Shot,Wrist Shot,79.0,0.0,Sam Bennett,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:04:09Z,2,02:41,17:19,Missed Shot,n/a,67.0,7.0,Dillon Dube,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:04:13Z,2,02:46,17:14,Shot,Slap Shot,40.0,-32.0,Travis Hamonic,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:04:39Z,2,03:08,16:52,Giveaway,n/a,95.0,-12.0,Dillon Dube,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:05:13Z,2,03:19,16:41,Faceoff,n/a,0.0,0.0,Elias Lindholm,Winner,Calgary Flames,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:05:34Z,2,03:35,16:25,Hit,n/a,85.0,-37.0,Andrew Mangiapane,Hitter,Calgary Flames,Marc Staal,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:05:37Z,2,03:39,16:21,Hit,n/a,98.0,3.0,Matthew Tkachuk,Hitter,Calgary Flames,Mika Zibanejad,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:05:40Z,2,03:42,16:18,Hit,n/a,87.0,31.0,Mark Giordano,Hitter,Calgary Flames,Pavel Buchnevich,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:06:26Z,2,04:28,15:32,Blocked Shot,n/a,70.0,-17.0,Brady Skjei,Blocker,New York Rangers,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:06:32Z,2,04:32,15:28,Giveaway,n/a,45.0,28.0,Brady Skjei,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:06:47Z,2,04:49,15:11,Hit,n/a,44.0,-40.0,Artemi Panarin,Hitter,New York Rangers,Mikael Backlund,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:07:23Z,2,05:25,14:35,Shot,Wrist Shot,-86.0,7.0,Filip Chytil,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:07:24Z,2,05:27,14:33,Missed Shot,n/a,-76.0,-1.0,Kaapo Kakko,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:07:49Z,2,05:46,14:14,Goal,Wrist Shot,-45.0,-4.0,Kaapo Kakko,Scorer,New York Rangers,Adam Fox,Assist,New York Rangers,Brett Howden,Assist,New York Rangers,Cam Talbot,Goalie,Calgary Flames
+2020-01-03T03:08:31Z,2,05:46,14:14,Faceoff,n/a,0.0,0.0,Steven Fogarty,Winner,New York Rangers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:08:43Z,2,05:59,14:01,Hit,n/a,-40.0,-38.0,Marc Staal,Hitter,New York Rangers,Tobias Rieder,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:09:00Z,2,06:14,13:46,Giveaway,n/a,-44.0,-1.0,Travis Hamonic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:09:13Z,2,06:29,13:31,Giveaway,n/a,94.0,-27.0,Tobias Rieder,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:09:19Z,2,06:34,13:26,Blocked Shot,n/a,62.0,-5.0,Steven Fogarty,Blocker,New York Rangers,Tobias Rieder,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:09:54Z,2,07:09,12:51,Missed Shot,n/a,41.0,28.0,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:10:09Z,2,07:25,12:35,Blocked Shot,n/a,61.0,-11.0,Brady Skjei,Blocker,New York Rangers,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:10:25Z,2,07:40,12:20,Missed Shot,n/a,75.0,-9.0,Andrew Mangiapane,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:11:12Z,2,08:22,11:38,Goal,Snap Shot,69.0,0.0,Sean Monahan,Scorer,Calgary Flames,Noah Hanifin,Assist,Calgary Flames,Johnny Gaudreau,Assist,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers
+2020-01-03T03:11:45Z,2,08:22,11:38,Faceoff,n/a,0.0,0.0,Derek Ryan,Winner,Calgary Flames,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:12:29Z,2,09:00,11:00,Missed Shot,n/a,43.0,-36.0,Rasmus Andersson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:12:35Z,2,09:05,10:55,Blocked Shot,n/a,53.0,17.0,Kaapo Kakko,Blocker,New York Rangers,Oliver Kylington,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:12:39Z,2,09:10,10:50,Takeaway,n/a,-10.0,38.0,Sam Bennett,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:12:52Z,2,09:23,10:37,Takeaway,n/a,97.0,21.0,Mark Jankowski,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:13:03Z,2,09:34,10:26,Shot,Wrist Shot,-79.0,24.0,Greg McKegg,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:15:02Z,2,09:34,10:26,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:15:25Z,2,09:40,10:20,Shot,Wrist Shot,-35.0,25.0,Jacob Trouba,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:15:43Z,2,09:54,10:06,Missed Shot,n/a,-64.0,-33.0,Chris Kreider,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:16:00Z,2,10:16,09:44,Hit,n/a,56.0,-40.0,Jacob Trouba,Hitter,New York Rangers,Andrew Mangiapane,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:16:45Z,2,10:59,09:01,Shot,Wrist Shot,58.0,26.0,Mikael Backlund,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:18:57Z,2,11:00,09:00,Faceoff,n/a,69.0,22.0,Ryan Strome,Winner,New York Rangers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:19:21Z,2,11:18,08:42,Shot,Wrist Shot,-76.0,7.0,Jesper Fast,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:19:32Z,2,11:29,08:31,Giveaway,n/a,80.0,-40.0,Ryan Strome,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:19:47Z,2,11:41,08:19,Takeaway,n/a,57.0,32.0,Jesper Fast,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:20:01Z,2,11:58,08:02,Blocked Shot,n/a,-71.0,-10.0,TJ Brodie,Blocker,Calgary Flames,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:20:13Z,2,12:10,07:50,Giveaway,n/a,-58.0,-39.0,Artemi Panarin,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:20:40Z,2,12:35,07:25,Shot,Snap Shot,71.0,13.0,Milan Lucic,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:21:06Z,2,12:35,07:25,Faceoff,n/a,69.0,22.0,Filip Chytil,Winner,New York Rangers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:21:42Z,2,13:02,06:58,Takeaway,n/a,73.0,-35.0,Milan Lucic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:21:51Z,2,13:10,06:50,Blocked Shot,n/a,49.0,-22.0,Brett Howden,Blocker,New York Rangers,Rasmus Andersson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:22:09Z,2,13:28,06:32,Missed Shot,n/a,-77.0,-7.0,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:22:27Z,2,13:46,06:14,Blocked Shot,n/a,-48.0,-4.0,Tobias Rieder,Blocker,Calgary Flames,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:22:36Z,2,13:55,06:05,Blocked Shot,n/a,-70.0,1.0,Rasmus Andersson,Blocker,Calgary Flames,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:22:46Z,2,14:06,05:54,Shot,Wrist Shot,-44.0,11.0,Tony DeAngelo,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:23:00Z,2,14:19,05:41,Missed Shot,n/a,-58.0,30.0,Mika Zibanejad,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:23:48Z,2,15:06,04:54,Hit,n/a,43.0,40.0,Mika Zibanejad,Hitter,New York Rangers,Elias Lindholm,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:23:52Z,2,15:11,04:49,Shot,Wrist Shot,-64.0,16.0,Jesper Fast,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:24:00Z,2,15:19,04:41,Shot,Snap Shot,58.0,-6.0,Sean Monahan,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:25:47Z,2,15:20,04:40,Faceoff,n/a,69.0,-22.0,Sean Monahan,Winner,Calgary Flames,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:26:19Z,2,15:26,04:34,Blocked Shot,n/a,45.0,-4.0,Jesper Fast,Blocker,New York Rangers,TJ Brodie,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:26:26Z,2,15:33,04:27,Shot,Wrist Shot,40.0,-17.0,TJ Brodie,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:27:06Z,2,15:56,04:04,Faceoff,n/a,69.0,-22.0,Derek Ryan,Winner,Calgary Flames,Ryan Strome,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:27:37Z,2,16:20,03:40,Shot,Snap Shot,39.0,2.0,Noah Hanifin,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:27:43Z,2,16:26,03:34,Missed Shot,n/a,80.0,13.0,Derek Ryan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:28:03Z,2,16:26,03:34,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:28:22Z,2,16:28,03:32,Blocked Shot,n/a,74.0,3.0,Adam Fox,Blocker,New York Rangers,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:28:52Z,2,16:40,03:20,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:29:09Z,2,16:50,03:10,Shot,Backhand,-80.0,0.0,Chris Kreider,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:29:31Z,2,17:11,02:49,Hit,n/a,36.0,-40.0,Pavel Buchnevich,Hitter,New York Rangers,Matthew Tkachuk,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:29:42Z,2,17:23,02:37,Blocked Shot,n/a,-51.0,-17.0,Noah Hanifin,Blocker,Calgary Flames,Pavel Buchnevich,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:30:07Z,2,17:37,02:23,Faceoff,n/a,69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:30:44Z,2,18:05,01:55,Takeaway,n/a,-65.0,-28.0,Artemi Panarin,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:30:53Z,2,18:13,01:47,Missed Shot,n/a,-68.0,-3.0,Brady Skjei,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:30:57Z,2,18:17,01:43,Shot,Slap Shot,-70.0,-16.0,Artemi Panarin,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:32:04Z,2,19:24,00:36,Shot,Wrist Shot,38.0,30.0,Mark Giordano,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:32:30Z,2,19:25,00:35,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:32:55Z,2,19:39,00:21,Shot,Wrist Shot,60.0,-10.0,Elias Lindholm,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:33:32Z,2,19:39,00:21,Faceoff,n/a,69.0,-22.0,Andrew Mangiapane,Winner,Calgary Flames,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:52:17Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Elias Lindholm,Winner,Calgary Flames,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:52:37Z,3,00:17,19:43,Penalty,Tripping,-24.0,40.0,Chris Kreider,PenaltyOn,New York Rangers,Travis Hamonic,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:53:05Z,3,00:17,19:43,Faceoff,n/a,-69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:53:21Z,3,00:31,19:29,Missed Shot,n/a,-57.0,15.0,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:53:31Z,3,00:41,19:19,Shot,Slap Shot,-47.0,-28.0,Johnny Gaudreau,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:53:47Z,3,00:57,19:03,Shot,Wrist Shot,-66.0,-4.0,Sean Monahan,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:54:21Z,3,01:24,18:36,Faceoff,n/a,69.0,22.0,Brett Howden,Winner,New York Rangers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:55:06Z,3,01:50,18:10,Hit,n/a,-36.0,-41.0,Mikael Backlund,Hitter,Calgary Flames,Jesper Fast,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:55:09Z,3,01:53,18:07,Missed Shot,n/a,-65.0,0.0,Rasmus Andersson,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:55:53Z,3,02:30,17:30,Giveaway,n/a,-76.0,-6.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:56:11Z,3,02:56,17:04,Giveaway,n/a,-95.0,-25.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:56:33Z,3,03:18,16:42,Giveaway,n/a,93.0,-29.0,Mark Giordano,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:56:48Z,3,03:33,16:27,Takeaway,n/a,-35.0,-36.0,Sean Monahan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:56:52Z,3,03:36,16:24,Shot,Wrist Shot,-51.0,-4.0,Sean Monahan,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:57:00Z,3,03:45,16:15,Takeaway,n/a,-9.0,39.0,Sean Monahan,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:57:36Z,3,04:21,15:39,Shot,Snap Shot,-67.0,-17.0,Noah Hanifin,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:57:53Z,3,04:21,15:39,Penalty,Hi-sticking,-94.0,16.0,Brady Skjei,PenaltyOn,New York Rangers,Sean Monahan,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:58:15Z,3,04:21,15:39,Faceoff,n/a,-69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Mikael Backlund,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:59:23Z,3,05:11,14:49,Penalty,Cross checking,-95.0,-2.0,Mikael Backlund,PenaltyOn,Calgary Flames,Marc Staal,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T03:59:41Z,3,05:11,14:49,Faceoff,n/a,69.0,22.0,Filip Chytil,Winner,New York Rangers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:00:00Z,3,05:21,14:39,Giveaway,n/a,5.0,-31.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:00:05Z,3,05:25,14:35,Hit,n/a,-17.0,-41.0,Adam Fox,Hitter,New York Rangers,Elias Lindholm,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:00:18Z,3,05:39,14:21,Shot,Wrist Shot,53.0,-27.0,Jacob Trouba,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:00:32Z,3,05:53,14:07,Takeaway,n/a,56.0,-39.0,Noah Hanifin,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:00:47Z,3,06:08,13:52,Shot,Wrist Shot,-64.0,-2.0,Sean Monahan,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:00:53Z,3,06:10,13:50,Missed Shot,n/a,-72.0,-4.0,Sean Monahan,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:01:03Z,3,06:24,13:36,Missed Shot,n/a,-57.0,1.0,Noah Hanifin,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:01:08Z,3,06:29,13:31,Shot,Snap Shot,-64.0,-41.0,Tobias Rieder,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:01:33Z,3,06:54,13:06,Blocked Shot,n/a,65.0,2.0,Travis Hamonic,Blocker,Calgary Flames,Artemi Panarin,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:01:43Z,3,07:04,12:56,Missed Shot,n/a,43.0,-1.0,Tony DeAngelo,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:01:50Z,3,07:10,12:50,Shot,Slap Shot,52.0,18.0,Artemi Panarin,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:02:10Z,3,07:10,12:50,Faceoff,n/a,69.0,22.0,Brett Howden,Winner,New York Rangers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:02:23Z,3,07:16,12:44,Shot,Tip-In,79.0,9.0,Jesper Fast,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:02:26Z,3,07:20,12:40,Hit,n/a,40.0,-38.0,Brett Howden,Hitter,New York Rangers,Mikael Backlund,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:02:32Z,3,07:26,12:34,Takeaway,n/a,-42.0,1.0,Andrew Mangiapane,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:03:20Z,3,07:58,12:02,Faceoff,n/a,69.0,22.0,Derek Ryan,Winner,Calgary Flames,Greg McKegg,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:04:30Z,3,09:00,11:00,Blocked Shot,n/a,69.0,-21.0,Noah Hanifin,Blocker,Calgary Flames,Tony DeAngelo,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:05:06Z,3,09:34,10:26,Giveaway,n/a,94.0,-28.0,Steven Fogarty,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:05:27Z,3,09:39,10:21,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Mark Jankowski,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:06:08Z,3,10:10,09:50,Hit,n/a,-93.0,20.0,Sean Monahan,Hitter,Calgary Flames,Jacob Trouba,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:06:51Z,3,10:54,09:06,Giveaway,n/a,81.0,-20.0,Matthew Tkachuk,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:07:02Z,3,11:04,08:56,Hit,n/a,-98.0,-1.0,Elias Lindholm,Hitter,Calgary Flames,Ryan Lindgren,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:07:38Z,3,11:23,08:37,Faceoff,n/a,69.0,22.0,Brett Howden,Winner,New York Rangers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:07:59Z,3,11:32,08:28,Faceoff,n/a,69.0,22.0,Elias Lindholm,Winner,Calgary Flames,Filip Chytil,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:08:59Z,3,11:49,08:11,Hit,n/a,-90.0,-31.0,Sam Bennett,Hitter,Calgary Flames,Adam Fox,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:09:16Z,3,12:06,07:54,Shot,Wrist Shot,-33.0,-35.0,Tony DeAngelo,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:09:22Z,3,12:08,07:52,Penalty,Holding,87.0,35.0,Kaapo Kakko,PenaltyOn,New York Rangers,Rasmus Andersson,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:12:05Z,3,12:08,07:52,Faceoff,n/a,-69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:12:19Z,3,12:45,07:15,Shot,Wrist Shot,-56.0,-25.0,Johnny Gaudreau,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:12:40Z,3,13:06,06:54,Missed Shot,n/a,-77.0,1.0,Matthew Tkachuk,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:12:50Z,3,13:16,06:44,Blocked Shot,n/a,-45.0,-19.0,Mika Zibanejad,Blocker,New York Rangers,Mark Giordano,Shooter,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:13:14Z,3,13:41,06:19,Shot,Slap Shot,-38.0,1.0,Noah Hanifin,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:13:31Z,3,13:41,06:19,Penalty,Roughing,-78.0,1.0,Milan Lucic,PenaltyOn,Calgary Flames,Ryan Lindgren,DrewBy,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:13:46Z,3,13:41,06:19,Penalty,Slashing,-75.0,2.0,Ryan Lindgren,PenaltyOn,New York Rangers,Milan Lucic,DrewBy,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:14:14Z,3,13:41,06:19,Faceoff,n/a,-69.0,22.0,Derek Ryan,Winner,Calgary Flames,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:14:31Z,3,13:45,06:15,Shot,Slap Shot,-44.0,-3.0,Rasmus Andersson,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:14:51Z,3,13:59,06:01,Hit,n/a,-77.0,39.0,Jacob Trouba,Hitter,New York Rangers,Mikael Backlund,Hittee,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:15:06Z,3,14:19,05:41,Shot,Wrist Shot,-40.0,22.0,Noah Hanifin,Shooter,Calgary Flames,Henrik Lundqvist,Goalie,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:15:27Z,3,14:41,05:19,Hit,n/a,-90.0,-32.0,Matthew Tkachuk,Hitter,Calgary Flames,Adam Fox,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:15:44Z,3,14:58,05:02,Giveaway,n/a,8.0,13.0,Artemi Panarin,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:18:01Z,3,15:09,04:51,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Sean Monahan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:18:21Z,3,15:17,04:43,Shot,Slap Shot,37.0,-19.0,Mika Zibanejad,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:18:43Z,3,15:39,04:21,Takeaway,n/a,74.0,-38.0,Adam Fox,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:19:16Z,3,16:08,03:52,Giveaway,n/a,-57.0,39.0,Mika Zibanejad,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:19:54Z,3,16:49,03:11,Shot,Wrist Shot,52.0,-22.0,Jacob Trouba,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:20:27Z,3,17:22,02:38,Takeaway,n/a,97.0,4.0,Travis Hamonic,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:23:13Z,3,17:25,02:35,Faceoff,n/a,69.0,22.0,Brett Howden,Winner,New York Rangers,Derek Ryan,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:22:55Z,3,17:31,02:29,Missed Shot,n/a,34.0,11.0,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:22:59Z,3,17:35,02:25,Hit,n/a,62.0,-38.0,Tobias Rieder,Hitter,Calgary Flames,Adam Fox,Hittee,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:23:05Z,3,17:41,02:19,Missed Shot,n/a,39.0,4.0,Jacob Trouba,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:23:16Z,3,17:52,02:08,Shot,Wrist Shot,40.0,22.0,Adam Fox,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:23:34Z,3,18:10,01:50,Blocked Shot,n/a,68.0,0.0,Derek Ryan,Blocker,Calgary Flames,Chris Kreider,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:25:36Z,3,18:50,01:10,Faceoff,n/a,69.0,-22.0,Mika Zibanejad,Winner,New York Rangers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:26:02Z,3,18:58,01:02,Takeaway,n/a,58.0,39.0,Artemi Panarin,PlayerID,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:26:11Z,3,19:05,00:55,Shot,Wrist Shot,46.0,-28.0,Ryan Strome,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:26:18Z,3,19:07,00:53,Faceoff,n/a,69.0,-22.0,Mikael Backlund,Winner,Calgary Flames,Mika Zibanejad,Loser,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:26:43Z,3,19:12,00:48,Giveaway,n/a,47.0,41.0,Mark Giordano,PlayerID,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:27:19Z,3,19:47,00:13,Missed Shot,n/a,59.0,2.0,Pavel Buchnevich,Shooter,New York Rangers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:27:57Z,3,19:48,00:12,Shot,Wrist Shot,90.0,7.0,Mika Zibanejad,Shooter,New York Rangers,Cam Talbot,Goalie,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-03T04:28:16Z,3,19:49,00:11,Faceoff,n/a,69.0,22.0,Mika Zibanejad,Winner,New York Rangers,Elias Lindholm,Loser,Calgary Flames,n/a,n/a,n/a,n/a,n/a,n/a

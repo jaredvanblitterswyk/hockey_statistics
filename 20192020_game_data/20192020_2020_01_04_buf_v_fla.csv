@@ -1,0 +1,196 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-04T18:08:10Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:09:14Z,1,00:04,19:56,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:09:31Z,1,00:20,19:40,Shot,Wrist Shot,35.0,-35.0,Rasmus Ristolainen,Shooter,Buffalo Sabres,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:09:36Z,1,00:21,19:39,Shot,Backhand,80.0,-5.0,Jack Eichel,Shooter,Buffalo Sabres,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:09:58Z,1,00:22,19:38,Faceoff,n/a,69.0,-22.0,Marcus Johansson,Winner,Buffalo Sabres,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:10:15Z,1,00:29,19:31,Shot,Wrist Shot,74.0,-2.0,Conor Sheary,Shooter,Buffalo Sabres,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:10:32Z,1,00:46,19:14,Hit,n/a,-52.0,-41.0,Rasmus Ristolainen,Hitter,Buffalo Sabres,Mark Pysyk,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:10:45Z,1,01:00,19:00,Blocked Shot,n/a,81.0,0.0,Riley Stillman,Blocker,Florida Panthers,Conor Sheary,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:11:33Z,1,01:47,18:13,Shot,Slap Shot,-35.0,-30.0,Keith Yandle,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:11:59Z,1,02:13,17:47,Hit,n/a,-98.0,3.0,Colin Miller,Hitter,Buffalo Sabres,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:12:09Z,1,02:23,17:37,Giveaway,n/a,-76.0,-38.0,Evgenii Dadonov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:12:16Z,1,02:30,17:30,Hit,n/a,-45.0,41.0,Rasmus Dahlin,Hitter,Buffalo Sabres,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:12:35Z,1,02:50,17:10,Blocked Shot,n/a,-47.0,9.0,Curtis Lazar,Blocker,Buffalo Sabres,Dominic Toninato,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:13:13Z,1,03:27,16:33,Shot,Tip-In,-66.0,8.0,Mike Hoffman,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:14:00Z,1,04:15,15:45,Blocked Shot,n/a,-71.0,2.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,Noel Acciari,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:16:02Z,1,05:51,14:09,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:16:22Z,1,06:09,13:51,Hit,n/a,99.0,-14.0,Riley Stillman,Hitter,Florida Panthers,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:16:41Z,1,06:28,13:32,Blocked Shot,n/a,76.0,-12.0,Riley Stillman,Blocker,Florida Panthers,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:16:52Z,1,06:39,13:21,Hit,n/a,-90.0,-32.0,Mike Hoffman,Hitter,Florida Panthers,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:17:47Z,1,07:34,12:26,Blocked Shot,n/a,-74.0,-11.0,Brandon Montour,Blocker,Buffalo Sabres,Brett Connolly,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:17:51Z,1,07:39,12:21,Shot,Snap Shot,-32.0,35.0,Anton Stralman,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:18:18Z,1,08:05,11:55,Blocked Shot,n/a,-74.0,-7.0,Rasmus Dahlin,Blocker,Buffalo Sabres,Riley Stillman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:18:47Z,1,08:14,11:46,Shot,Wrist Shot,-20.0,-34.0,Riley Stillman,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:18:31Z,1,08:18,11:42,Blocked Shot,n/a,-76.0,8.0,Colin Miller,Blocker,Buffalo Sabres,Frank Vatrano,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:20:13Z,1,10:01,09:59,Giveaway,n/a,99.0,0.0,Rasmus Asplund,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:20:49Z,1,10:05,09:55,Giveaway,n/a,-58.0,35.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:20:23Z,1,10:08,09:52,Shot,Snap Shot,-50.0,-5.0,Mike Hoffman,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:22:23Z,1,10:09,09:51,Faceoff,n/a,-69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:22:57Z,1,10:27,09:33,Takeaway,n/a,3.0,2.0,Mike Hoffman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:23:07Z,1,10:34,09:26,Penalty,Hi-sticking,-11.0,5.0,Kyle Okposo,PenaltyOn,Buffalo Sabres,Mike Hoffman,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:23:39Z,1,10:34,09:26,Faceoff,n/a,-69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:23:40Z,1,10:44,09:16,Blocked Shot,n/a,-69.0,-4.0,Zach Bogosian,Blocker,Buffalo Sabres,Jonathan Huberdeau,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:23:54Z,1,10:44,09:16,Faceoff,n/a,-69.0,-22.0,Johan Larsson,Winner,Buffalo Sabres,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:24:32Z,1,11:18,08:42,Shot,Tip-In,-80.0,-2.0,Evgenii Dadonov,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:24:35Z,1,11:22,08:38,Giveaway,n/a,-66.0,-39.0,Rasmus Ristolainen,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:24:50Z,1,11:34,08:26,Missed Shot,n/a,-49.0,35.0,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:24:57Z,1,11:43,08:17,Missed Shot,n/a,-67.0,0.0,Aleksander Barkov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:25:00Z,1,11:47,08:13,Hit,n/a,-97.0,25.0,Evgenii Dadonov,Hitter,Florida Panthers,Zach Bogosian,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:25:17Z,1,12:04,07:56,Missed Shot,n/a,-35.0,7.0,Aleksander Barkov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:25:21Z,1,12:08,07:52,Giveaway,n/a,-54.0,40.0,Rasmus Asplund,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:25:32Z,1,12:19,07:41,Missed Shot,n/a,-81.0,-17.0,Jonathan Huberdeau,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:25:41Z,1,12:28,07:32,Shot,Wrist Shot,-74.0,-2.0,Jonathan Huberdeau,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:26:04Z,1,12:49,07:11,Goal,Snap Shot,72.0,-16.0,Henri Jokiharju,Scorer,Buffalo Sabres,Sam Reinhart,Assist,Buffalo Sabres,Jack Eichel,Assist,Buffalo Sabres,Sergei Bobrovsky,Goalie,Florida Panthers
+2020-01-04T18:27:05Z,1,12:49,07:11,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:27:26Z,1,13:22,06:38,Giveaway,n/a,55.0,-24.0,Jack Eichel,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:27:53Z,1,13:55,06:05,Shot,Wrist Shot,78.0,0.0,Marcus Johansson,Shooter,Buffalo Sabres,Sergei Bobrovsky,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:28:17Z,1,14:17,05:43,Shot,Wrist Shot,-75.0,4.0,Mark Pysyk,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:28:20Z,1,14:18,05:42,Penalty,Slashing,-67.0,8.0,Conor Sheary,PenaltyOn,Buffalo Sabres,Mark Pysyk,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:30:28Z,1,14:18,05:42,Faceoff,n/a,-69.0,22.0,Vincent Trocheck,Winner,Florida Panthers,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:31:14Z,1,14:39,05:21,Faceoff,n/a,-20.0,-22.0,Jonathan Huberdeau,Winner,Florida Panthers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:31:50Z,1,15:08,04:52,Shot,Snap Shot,-66.0,1.0,Evgenii Dadonov,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:32:27Z,1,15:44,04:16,Blocked Shot,n/a,-66.0,18.0,Rasmus Asplund,Blocker,Buffalo Sabres,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:32:38Z,1,15:55,04:05,Missed Shot,n/a,64.0,-25.0,Rasmus Asplund,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:33:02Z,1,16:19,03:41,Blocked Shot,n/a,-63.0,20.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,Vincent Trocheck,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:33:24Z,1,16:40,03:20,Hit,n/a,-19.0,41.0,Marcus Johansson,Hitter,Buffalo Sabres,Dominic Toninato,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:34:03Z,1,17:15,02:45,Hit,n/a,-61.0,41.0,Brandon Montour,Hitter,Buffalo Sabres,Mark Pysyk,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:33:59Z,1,17:17,02:43,Shot,Wrist Shot,-77.0,38.0,Mark Pysyk,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:36:50Z,1,18:09,01:51,Faceoff,n/a,-20.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:37:28Z,1,18:34,01:26,Hit,n/a,-40.0,-37.0,Noel Acciari,Hitter,Florida Panthers,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:38:23Z,1,19:27,00:33,Hit,n/a,70.0,8.0,Conor Sheary,Hitter,Buffalo Sabres,Riley Stillman,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:38:33Z,1,19:37,00:23,Shot,Snap Shot,-56.0,-29.0,Frank Vatrano,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:39:04Z,1,19:38,00:22,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:39:43Z,1,19:52,00:08,Faceoff,n/a,69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:39:48Z,1,19:58,00:02,Blocked Shot,n/a,49.0,21.0,Noel Acciari,Blocker,Florida Panthers,Rasmus Ristolainen,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:58:21Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:58:44Z,2,00:17,19:43,Giveaway,n/a,36.0,39.0,Sam Reinhart,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T18:59:12Z,2,00:45,19:15,Takeaway,n/a,-68.0,40.0,Riley Stillman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:00:02Z,2,01:35,18:25,Goal,Wrist Shot,-80.0,-5.0,Conor Sheary,Scorer,Buffalo Sabres,Marcus Johansson,Assist,Buffalo Sabres,Jimmy Vesey,Assist,Buffalo Sabres,Sergei Bobrovsky,Goalie,Florida Panthers
+2020-01-04T19:00:43Z,2,01:35,18:25,Faceoff,n/a,0.0,0.0,Dominic Toninato,Winner,Florida Panthers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:00:57Z,2,01:48,18:12,Shot,Tip-In,67.0,5.0,Evgenii Dadonov,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:01:03Z,2,01:55,18:05,Shot,Tip-In,64.0,6.0,Evgenii Dadonov,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:01:21Z,2,02:05,17:55,Penalty,Tripping,-71.0,-35.0,Colin Miller,PenaltyOn,Buffalo Sabres,Josh Brown,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:01:51Z,2,02:05,17:55,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:02:06Z,2,02:18,17:42,Blocked Shot,n/a,48.0,-6.0,Rasmus Asplund,Blocker,Buffalo Sabres,Keith Yandle,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:02:16Z,2,02:29,17:31,Missed Shot,n/a,59.0,29.0,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:02:46Z,2,02:58,17:02,Shot,Slap Shot,48.0,-25.0,Keith Yandle,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:03:20Z,2,03:32,16:28,Blocked Shot,n/a,68.0,-2.0,Jake McCabe,Blocker,Buffalo Sabres,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:05:29Z,2,05:33,14:27,Penalty,Hooking,-54.0,-35.0,Anton Stralman,PenaltyOn,Florida Panthers,Jack Eichel,DrewBy,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:06:00Z,2,05:33,14:27,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:06:11Z,2,05:42,14:18,Goal,Slap Shot,-63.0,-27.0,Sam Reinhart,Scorer,Buffalo Sabres,Rasmus Dahlin,Assist,Buffalo Sabres,Marcus Johansson,Assist,Buffalo Sabres,Sergei Bobrovsky,Goalie,Florida Panthers
+2020-01-04T19:07:18Z,2,05:42,14:18,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:07:46Z,2,06:10,13:50,Missed Shot,n/a,-40.0,-1.0,Jake McCabe,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:09:09Z,2,07:34,12:26,Shot,Wrist Shot,-35.0,-34.0,Marcus Johansson,Shooter,Buffalo Sabres,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:09:15Z,2,07:39,12:21,Blocked Shot,n/a,-76.0,-6.0,Anton Stralman,Blocker,Florida Panthers,Jimmy Vesey,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:10:01Z,2,08:25,11:35,Shot,Snap Shot,59.0,-15.0,Dominic Toninato,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:10:41Z,2,08:41,11:19,Faceoff,n/a,-69.0,22.0,Brian Boyle,Winner,Florida Panthers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:11:13Z,2,09:07,10:53,Shot,Wrist Shot,-9.0,-34.0,Jake McCabe,Shooter,Buffalo Sabres,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:11:13Z,2,09:08,10:52,Hit,n/a,0.0,-39.0,Brian Boyle,Hitter,Florida Panthers,Jake McCabe,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:12:08Z,2,10:04,09:56,Shot,Snap Shot,80.0,-20.0,Aleksander Barkov,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:15:10Z,2,10:05,09:55,Penalty,Hooking,78.0,-3.0,Kyle Okposo,PenaltyOn,Buffalo Sabres,Josh Brown,DrewBy,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:15:10Z,2,10:05,09:55,Penalty,Hi stick - double minor,79.0,-5.0,Josh Brown,PenaltyOn,Florida Panthers,Kyle Okposo,DrewBy,Florida Panthers,Mike Hoffman,ServedBy,Buffalo Sabres,n/a,n/a,n/a
+2020-01-04T19:16:08Z,2,10:05,09:55,Faceoff,n/a,-69.0,22.0,Sam Reinhart,Winner,Buffalo Sabres,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:16:39Z,2,10:37,09:23,Blocked Shot,n/a,-63.0,0.0,Noel Acciari,Blocker,Florida Panthers,Rasmus Dahlin,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:17:18Z,2,11:16,08:44,Shot,Slap Shot,-59.0,32.0,Marcus Johansson,Shooter,Buffalo Sabres,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:17:26Z,2,11:24,08:36,Shot,Slap Shot,-50.0,-21.0,Jack Eichel,Shooter,Buffalo Sabres,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:18:37Z,2,12:35,07:25,Shot,Slap Shot,-35.0,20.0,Colin Miller,Shooter,Buffalo Sabres,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:18:49Z,2,12:47,07:13,Giveaway,n/a,-65.0,-5.0,Jimmy Vesey,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:19:10Z,2,13:03,06:57,Shot,Tip-In,21.0,-1.0,Aleksander Barkov,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:19:32Z,2,13:05,06:55,Faceoff,n/a,69.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:20:35Z,2,14:01,05:59,Missed Shot,n/a,-46.0,-3.0,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:21:32Z,2,14:58,05:02,Shot,Wrist Shot,-47.0,-29.0,Johan Larsson,Shooter,Buffalo Sabres,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:21:40Z,2,15:06,04:54,Hit,n/a,-98.0,1.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Frank Vatrano,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:22:58Z,2,15:32,04:28,Faceoff,n/a,-69.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:23:28Z,2,16:18,03:42,Shot,Wrist Shot,57.0,33.0,Mike Hoffman,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:25:48Z,2,16:19,03:41,Faceoff,n/a,69.0,22.0,Brian Boyle,Winner,Florida Panthers,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:26:07Z,2,16:33,03:27,Shot,Wrist Shot,55.0,37.0,Mike Hoffman,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:26:35Z,2,16:34,03:26,Faceoff,n/a,69.0,22.0,Brian Boyle,Winner,Florida Panthers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:27:07Z,2,16:43,03:17,Penalty,Delaying Game - Puck over glass,-33.0,-42.0,Josh Brown,PenaltyOn,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:27:35Z,2,16:43,03:17,Faceoff,n/a,-69.0,-22.0,Marcus Johansson,Winner,Buffalo Sabres,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:28:04Z,2,17:07,02:53,Blocked Shot,n/a,-66.0,-10.0,Anton Stralman,Blocker,Florida Panthers,Sam Reinhart,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:28:15Z,2,17:15,02:45,Hit,n/a,-35.0,-39.0,Noel Acciari,Hitter,Florida Panthers,Sam Reinhart,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:28:34Z,2,17:37,02:23,Takeaway,n/a,-44.0,18.0,Mark Pysyk,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:28:38Z,2,17:41,02:19,Shot,Wrist Shot,76.0,5.0,Frank Vatrano,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:29:25Z,2,18:27,01:33,Giveaway,n/a,-24.0,37.0,Noel Acciari,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:29:52Z,2,18:55,01:05,Missed Shot,n/a,-76.0,13.0,Johan Larsson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:30:02Z,2,19:04,00:56,Blocked Shot,n/a,-70.0,3.0,Noel Acciari,Blocker,Florida Panthers,Colin Miller,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:30:33Z,2,19:35,00:25,Blocked Shot,n/a,-75.0,8.0,Aaron Ekblad,Blocker,Florida Panthers,Zemgus Girgensons,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:49:32Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Aleksander Barkov,Winner,Florida Panthers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:50:11Z,3,00:31,19:29,Shot,Wrist Shot,81.0,-5.0,Jack Eichel,Shooter,Buffalo Sabres,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:50:33Z,3,00:32,19:28,Faceoff,n/a,69.0,-22.0,Vincent Trocheck,Winner,Florida Panthers,Kyle Okposo,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:51:04Z,3,00:51,19:09,Shot,Wrist Shot,-49.0,-11.0,Noel Acciari,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:51:26Z,3,00:52,19:08,Faceoff,n/a,-69.0,-22.0,Vincent Trocheck,Winner,Florida Panthers,Marcus Johansson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:51:35Z,3,00:58,19:02,Missed Shot,n/a,-44.0,-22.0,Brett Connolly,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:51:45Z,3,01:06,18:54,Blocked Shot,n/a,-53.0,25.0,Jimmy Vesey,Blocker,Buffalo Sabres,Josh Brown,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:52:18Z,3,01:06,18:54,Faceoff,n/a,-69.0,22.0,Curtis Lazar,Winner,Buffalo Sabres,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:52:31Z,3,01:21,18:39,Shot,Wrist Shot,-44.0,34.0,Frank Vatrano,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:52:45Z,3,01:21,18:39,Faceoff,n/a,20.0,22.0,Marcus Johansson,Winner,Buffalo Sabres,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:54:35Z,3,02:30,17:30,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:54:40Z,3,02:36,17:24,Giveaway,n/a,-67.0,-18.0,Jonathan Huberdeau,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:55:30Z,3,03:05,16:55,Faceoff,n/a,69.0,22.0,Aleksander Barkov,Winner,Florida Panthers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:56:01Z,3,03:07,16:53,Faceoff,n/a,69.0,22.0,Vincent Trocheck,Winner,Florida Panthers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:56:16Z,3,03:26,16:34,Shot,Wrist Shot,-54.0,-26.0,Brett Connolly,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:56:26Z,3,03:37,16:23,Blocked Shot,n/a,-74.0,-5.0,Johan Larsson,Blocker,Buffalo Sabres,Vincent Trocheck,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:57:18Z,3,04:24,15:36,Hit,n/a,-87.0,36.0,Frank Vatrano,Hitter,Florida Panthers,Rasmus Dahlin,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:57:30Z,3,04:40,15:20,Missed Shot,n/a,-36.0,5.0,Dominic Toninato,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:58:25Z,3,04:55,15:05,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:58:43Z,3,05:16,14:44,Hit,n/a,-98.0,18.0,Zach Bogosian,Hitter,Buffalo Sabres,Brett Connolly,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T19:59:14Z,3,05:31,14:29,Faceoff,n/a,-69.0,-22.0,Vincent Trocheck,Winner,Florida Panthers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:00:02Z,3,06:03,13:57,Takeaway,n/a,-7.0,26.0,Vincent Trocheck,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:00:09Z,3,06:09,13:51,Blocked Shot,n/a,-76.0,2.0,Jack Eichel,Blocker,Buffalo Sabres,Jonathan Huberdeau,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:02:12Z,3,06:11,13:49,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Dominic Toninato,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:02:51Z,3,06:36,13:24,Hit,n/a,-99.0,18.0,Curtis Lazar,Hitter,Buffalo Sabres,Evgenii Dadonov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:02:55Z,3,06:40,13:20,Missed Shot,n/a,-31.0,32.0,Josh Brown,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:03:25Z,3,07:10,12:50,Giveaway,n/a,-51.0,39.0,Zemgus Girgensons,PlayerID,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:04:00Z,3,07:45,12:15,Missed Shot,n/a,-77.0,-4.0,Aleksander Barkov,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:04:40Z,3,08:11,11:49,Faceoff,n/a,-69.0,22.0,Jack Eichel,Winner,Buffalo Sabres,Noel Acciari,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:05:19Z,3,08:34,11:26,Blocked Shot,n/a,-69.0,2.0,Rasmus Dahlin,Blocker,Buffalo Sabres,Anton Stralman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:05:36Z,3,08:38,11:22,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Brian Boyle,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:07:04Z,3,09:56,10:04,Shot,Wrist Shot,-54.0,-29.0,Frank Vatrano,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:07:10Z,3,09:59,10:01,Shot,Snap Shot,-71.0,-9.0,Dominic Toninato,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:07:41Z,3,10:00,10:00,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:08:07Z,3,10:27,09:33,Shot,Slap Shot,50.0,10.0,Zemgus Girgensons,Shooter,Buffalo Sabres,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:08:14Z,3,10:34,09:26,Hit,n/a,95.0,-28.0,Aleksander Barkov,Hitter,Florida Panthers,Kyle Okposo,Hittee,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:08:25Z,3,10:45,09:15,Hit,n/a,-78.0,-39.0,Zemgus Girgensons,Hitter,Buffalo Sabres,Aleksander Barkov,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:08:34Z,3,10:53,09:07,Missed Shot,n/a,-52.0,-23.0,Aaron Ekblad,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:08:54Z,3,11:14,08:46,Giveaway,n/a,35.0,-34.0,Vincent Trocheck,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:09:10Z,3,11:30,08:30,Giveaway,n/a,73.0,-36.0,Riley Stillman,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:09:13Z,3,11:33,08:27,Blocked Shot,n/a,68.0,-4.0,Noel Acciari,Blocker,Florida Panthers,Henri Jokiharju,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:09:24Z,3,11:44,08:16,Missed Shot,n/a,80.0,-13.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:09:31Z,3,11:51,08:09,Shot,Wrist Shot,64.0,20.0,Scott Wilson,Shooter,Buffalo Sabres,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:10:15Z,3,12:34,07:26,Hit,n/a,48.0,-40.0,Curtis Lazar,Hitter,Buffalo Sabres,Mike Matheson,Hittee,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:10:22Z,3,12:40,07:20,Goal,Wrist Shot,-54.0,-28.0,Mike Matheson,Scorer,Florida Panthers,Colton Sceviour,Assist,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a
+2020-01-04T20:11:09Z,3,12:40,07:20,Faceoff,n/a,0.0,0.0,Dominic Toninato,Winner,Florida Panthers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:13:34Z,3,12:52,07:08,Faceoff,n/a,0.0,0.0,Vincent Trocheck,Winner,Florida Panthers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:13:53Z,3,13:04,06:56,Missed Shot,n/a,-47.0,34.0,Noel Acciari,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:14:07Z,3,13:07,06:53,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:14:39Z,3,13:27,06:33,Shot,Backhand,77.0,8.0,Jack Eichel,Shooter,Buffalo Sabres,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:14:57Z,3,13:44,06:16,Shot,Wrist Shot,-35.0,-6.0,Keith Yandle,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:15:28Z,3,13:44,06:16,Faceoff,n/a,-69.0,-22.0,Kyle Okposo,Winner,Buffalo Sabres,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:15:52Z,3,14:02,05:58,Shot,Wrist Shot,-72.0,-21.0,Aleksander Barkov,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:17:58Z,3,14:03,05:57,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Curtis Lazar,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:18:01Z,3,14:07,05:53,Shot,Wrist Shot,-83.0,-27.0,Keith Yandle,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:18:17Z,3,14:17,05:43,Faceoff,n/a,-69.0,-22.0,Curtis Lazar,Winner,Buffalo Sabres,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:18:59Z,3,14:42,05:18,Blocked Shot,n/a,60.0,-8.0,Mike Hoffman,Blocker,Florida Panthers,Zemgus Girgensons,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:19:49Z,3,14:55,05:05,Faceoff,n/a,-69.0,-22.0,Brian Boyle,Winner,Florida Panthers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:19:49Z,3,15:07,04:53,Missed Shot,n/a,-39.0,-26.0,Mike Matheson,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:20:30Z,3,15:47,04:13,Shot,Wrist Shot,63.0,-12.0,Jack Eichel,Shooter,Buffalo Sabres,Chris Driedger,Goalie,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:20:53Z,3,16:10,03:50,Blocked Shot,n/a,-70.0,13.0,Conor Sheary,Blocker,Buffalo Sabres,Josh Brown,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:21:40Z,3,16:30,03:30,Faceoff,n/a,-20.0,22.0,Vincent Trocheck,Winner,Florida Panthers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:22:32Z,3,17:20,02:40,Shot,Snap Shot,-60.0,-14.0,Vincent Trocheck,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:23:32Z,3,17:55,02:05,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Johan Larsson,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:23:48Z,3,18:04,01:56,Shot,Wrist Shot,-35.0,-2.0,Keith Yandle,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:24:19Z,3,18:05,01:55,Faceoff,n/a,-69.0,-22.0,Jack Eichel,Winner,Buffalo Sabres,Aleksander Barkov,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:24:30Z,3,18:15,01:45,Blocked Shot,n/a,40.0,27.0,Aaron Ekblad,Blocker,Florida Panthers,Scott Wilson,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:25:07Z,3,18:47,01:13,Shot,Wrist Shot,-45.0,28.0,Mike Hoffman,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:25:15Z,3,18:50,01:10,Goal,Wrist Shot,-80.0,-5.0,Evgenii Dadonov,Scorer,Florida Panthers,Jonathan Huberdeau,Assist,Florida Panthers,Mike Hoffman,Assist,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres
+2020-01-04T20:26:01Z,3,18:50,01:10,Faceoff,n/a,0.0,0.0,Jack Eichel,Winner,Buffalo Sabres,Vincent Trocheck,Loser,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:26:41Z,3,19:26,00:34,Shot,Wrist Shot,-65.0,-36.0,Brett Connolly,Shooter,Florida Panthers,Linus Ullmark,Goalie,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:28:00Z,3,19:27,00:33,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:28:10Z,3,19:40,00:20,Blocked Shot,n/a,-72.0,-2.0,Rasmus Ristolainen,Blocker,Buffalo Sabres,Mike Hoffman,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:28:19Z,3,19:48,00:12,Missed Shot,n/a,-57.0,19.0,Jonathan Huberdeau,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:28:34Z,3,19:54,00:06,Missed Shot,n/a,-12.0,-4.0,Jack Eichel,Shooter,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:28:26Z,3,19:55,00:05,Giveaway,n/a,-10.0,-8.0,Aleksander Barkov,PlayerID,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:28:47Z,3,19:55,00:05,Faceoff,n/a,-69.0,-22.0,Aleksander Barkov,Winner,Florida Panthers,Jack Eichel,Loser,Buffalo Sabres,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-04T20:29:00Z,3,19:59,00:01,Missed Shot,n/a,-75.0,1.0,Aaron Ekblad,Shooter,Florida Panthers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

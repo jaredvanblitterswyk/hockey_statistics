@@ -1,0 +1,311 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-03T00:11:04Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:15:32Z,1,00:25,19:35,Goal,Tip-In,85.0,-1.0,Brady Tkachuk,Scorer,Ottawa Senators,Connor Brown,Assist,Ottawa Senators,Colin White,Assist,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-10-02T23:16:26Z,1,00:25,19:35,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:16:31Z,1,00:38,19:22,Missed Shot,n/a,28.0,-37.0,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:16:58Z,1,00:38,19:22,Faceoff,n/a,69.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:17:23Z,1,00:56,19:04,Penalty,Tripping,-9.0,-29.0,Tyler Ennis,PenaltyOn,Ottawa Senators,Trevor Moore,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:18:00Z,1,00:56,19:04,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:17:56Z,1,01:04,18:56,Giveaway,n/a,-36.0,-31.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:18:23Z,1,01:31,18:29,Shot,Snap Shot,-32.0,-2.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:18:50Z,1,01:31,18:29,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:33:35Z,1,01:39,18:21,Blocked Shot,n/a,-74.0,7.0,Mark Borowiecki,Blocker,Ottawa Senators,Andreas Johnsson,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:19:19Z,1,01:58,18:02,Missed Shot,n/a,-46.0,-16.0,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:20:27Z,1,03:06,16:54,Hit,n/a,-96.0,-36.0,Dylan DeMelo,Hitter,Ottawa Senators,Frederik Gauthier,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:20:30Z,1,03:09,16:51,Missed Shot,n/a,-64.0,-4.0,Dmytro Timashov,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:20:45Z,1,03:23,16:37,Shot,Snap Shot,63.0,-6.0,Dylan DeMelo,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:20:45Z,1,03:24,16:36,Giveaway,n/a,93.0,28.0,Jake Muzzin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:21:11Z,1,03:50,16:10,Takeaway,n/a,34.0,-20.0,Cody Ceci,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:21:17Z,1,03:56,16:04,Shot,Wrist Shot,-59.0,-20.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:21:32Z,1,04:07,15:53,Hit,n/a,75.0,39.0,Scott Sabourin,Hitter,Ottawa Senators,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:22:17Z,1,04:22,15:38,Faceoff,n/a,20.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:22:29Z,1,04:41,15:19,Missed Shot,n/a,-86.0,4.0,Trevor Moore,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:22:36Z,1,04:47,15:13,Shot,Slap Shot,-42.0,-29.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:22:41Z,1,04:53,15:07,Shot,Slap Shot,-52.0,-7.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:23:11Z,1,05:23,14:37,Blocked Shot,n/a,-62.0,6.0,Dylan DeMelo,Blocker,Ottawa Senators,Andreas Johnsson,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:23:19Z,1,05:31,14:29,Shot,Wrist Shot,-38.0,38.0,Cody Ceci,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:23:25Z,1,05:37,14:23,Takeaway,n/a,-87.0,-34.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:23:40Z,1,05:52,14:08,Shot,Wrist Shot,-76.0,-14.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:24:20Z,1,05:53,14:07,Penalty,Tripping,-81.0,-13.0,Colin White,PenaltyOn,Ottawa Senators,William Nylander,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:24:22Z,1,05:53,14:07,Faceoff,n/a,-69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:24:35Z,1,06:00,14:00,Giveaway,n/a,-94.0,31.0,Ron Hainsey,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:24:37Z,1,06:02,13:58,Shot,Slap Shot,-63.0,-31.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:24:52Z,1,06:17,13:43,Missed Shot,n/a,-66.0,-27.0,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:25:18Z,1,06:17,13:43,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:25:32Z,1,06:26,13:34,Missed Shot,n/a,-70.0,20.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:25:59Z,1,06:55,13:05,Hit,n/a,-40.0,-38.0,Chris Tierney,Hitter,Ottawa Senators,Mitchell Marner,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:26:14Z,1,07:11,12:49,Shot,Tip-In,-78.0,13.0,William Nylander,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:26:33Z,1,07:30,12:30,Shot,Wrist Shot,-32.0,34.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:26:42Z,1,07:39,12:21,Shot,Wrist Shot,-80.0,-4.0,William Nylander,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:27:27Z,1,07:39,12:21,Faceoff,n/a,-69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:27:45Z,1,07:59,12:01,Shot,Snap Shot,78.0,-5.0,Colin White,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:27:52Z,1,08:05,11:55,Shot,Snap Shot,47.0,23.0,Thomas Chabot,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:28:03Z,1,08:05,11:55,Penalty,Interference - Goalkeeper,83.0,-1.0,Connor Brown,PenaltyOn,Ottawa Senators,Frederik Andersen,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:30:34Z,1,08:05,11:55,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:30:47Z,1,08:15,11:45,Shot,Wrist Shot,-64.0,24.0,Auston Matthews,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:31:14Z,1,08:43,11:17,Missed Shot,n/a,-38.0,24.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:31:36Z,1,09:05,10:55,Takeaway,n/a,4.0,1.0,Jean-Gabriel Pageau,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:31:40Z,1,09:08,10:52,Shot,Backhand,83.0,-4.0,Anthony Duclair,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:32:23Z,1,09:51,10:09,Missed Shot,n/a,-36.0,31.0,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:32:38Z,1,10:06,09:54,Shot,Snap Shot,67.0,-20.0,Tyler Ennis,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:34:59Z,1,10:06,09:54,Faceoff,n/a,69.0,-22.0,Brady Tkachuk,Winner,Ottawa Senators,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:35:15Z,1,10:12,09:48,Shot,Slap Shot,47.0,-36.0,Nikita Zaitsev,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:35:30Z,1,10:27,09:33,Hit,n/a,47.0,-39.0,Nikita Zaitsev,Hitter,Ottawa Senators,Frederik Gauthier,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:35:41Z,1,10:38,09:22,Hit,n/a,-97.0,27.0,Brady Tkachuk,Hitter,Ottawa Senators,Dmytro Timashov,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:36:22Z,1,11:16,08:44,Missed Shot,n/a,-62.0,20.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:36:21Z,1,11:18,08:42,Hit,n/a,-97.0,0.0,Trevor Moore,Hitter,Toronto Maple Leafs,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:36:46Z,1,11:43,08:17,Hit,n/a,96.0,17.0,Scott Sabourin,Hitter,Ottawa Senators,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:37:15Z,1,11:53,08:07,Faceoff,n/a,69.0,22.0,Anthony Duclair,Winner,Ottawa Senators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:37:38Z,1,12:00,08:00,Hit,n/a,18.0,39.0,Anthony Duclair,Hitter,Ottawa Senators,Mitchell Marner,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:38:00Z,1,12:22,07:38,Shot,Wrist Shot,56.0,28.0,Anthony Duclair,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:38:35Z,1,12:56,07:04,Blocked Shot,n/a,-70.0,-14.0,Erik Brannstrom,Blocker,Ottawa Senators,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:38:53Z,1,12:56,07:04,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:39:07Z,1,12:58,07:02,Shot,Wrist Shot,-45.0,-41.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:39:24Z,1,13:21,06:39,Hit,n/a,-98.0,28.0,Mark Borowiecki,Hitter,Ottawa Senators,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:39:30Z,1,13:27,06:33,Shot,Wrist Shot,50.0,22.0,Brady Tkachuk,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:39:55Z,1,13:27,06:33,Faceoff,n/a,69.0,22.0,Tyler Ennis,Winner,Ottawa Senators,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:40:24Z,1,13:48,06:12,Giveaway,n/a,-95.0,-30.0,Nikita Zaitsev,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:40:28Z,1,13:52,06:08,Missed Shot,n/a,-34.0,34.0,Martin Marincin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:40:37Z,1,14:01,05:59,Blocked Shot,n/a,-75.0,-3.0,Thomas Chabot,Blocker,Ottawa Senators,Dmytro Timashov,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:41:04Z,1,14:28,05:32,Hit,n/a,-96.0,25.0,Erik Brannstrom,Hitter,Ottawa Senators,Trevor Moore,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:41:07Z,1,14:31,05:29,Blocked Shot,n/a,-66.0,5.0,Ron Hainsey,Blocker,Ottawa Senators,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:41:22Z,1,14:47,05:13,Missed Shot,n/a,68.0,-30.0,Bobby Ryan,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:41:39Z,1,15:03,04:57,Hit,n/a,96.0,33.0,Scott Sabourin,Hitter,Ottawa Senators,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:42:12Z,1,15:18,04:42,Faceoff,n/a,-69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:42:49Z,1,15:33,04:27,Faceoff,n/a,-69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:43:19Z,1,15:43,04:17,Hit,n/a,-38.0,-33.0,Cody Ceci,Hitter,Toronto Maple Leafs,Filip Chlapik,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:43:20Z,1,15:44,04:16,Blocked Shot,n/a,-60.0,-6.0,Dylan DeMelo,Blocker,Ottawa Senators,Andreas Johnsson,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:43:27Z,1,15:49,04:11,Shot,Wrist Shot,-41.0,-34.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:45:49Z,1,15:49,04:11,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Connor Brown,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:46:25Z,1,16:11,03:49,Shot,Snap Shot,-62.0,-19.0,John Tavares,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:47:05Z,1,16:38,03:22,Faceoff,n/a,20.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:47:31Z,1,16:56,03:04,Blocked Shot,n/a,70.0,-15.0,Martin Marincin,Blocker,Toronto Maple Leafs,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:47:35Z,1,17:01,02:59,Hit,n/a,62.0,40.0,Alexander Kerfoot,Hitter,Toronto Maple Leafs,Erik Brannstrom,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:47:58Z,1,17:21,02:39,Hit,n/a,0.0,-39.0,Dylan DeMelo,Hitter,Ottawa Senators,Trevor Moore,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:48:23Z,1,17:49,02:11,Takeaway,n/a,-36.0,-29.0,Dylan DeMelo,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:48:32Z,1,17:57,02:03,Takeaway,n/a,-95.0,-26.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:48:36Z,1,17:59,02:01,Missed Shot,n/a,-94.0,9.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:48:46Z,1,18:00,02:00,Missed Shot,n/a,-42.0,-24.0,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:49:07Z,1,18:01,01:59,Faceoff,n/a,-69.0,-22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:49:27Z,1,18:18,01:42,Takeaway,n/a,-96.0,-32.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:49:35Z,1,18:25,01:35,Takeaway,n/a,-96.0,25.0,Thomas Chabot,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:49:42Z,1,18:33,01:27,Hit,n/a,-93.0,37.0,Kasperi Kapanen,Hitter,Toronto Maple Leafs,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:49:48Z,1,18:38,01:22,Shot,Snap Shot,67.0,-36.0,Nikita Zaitsev,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:50:20Z,1,18:42,01:18,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:50:25Z,1,18:46,01:14,Shot,Wrist Shot,43.0,32.0,Erik Brannstrom,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:50:33Z,1,18:46,01:14,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:51:26Z,1,19:15,00:45,Hit,n/a,-41.0,40.0,Erik Brannstrom,Hitter,Ottawa Senators,Frederik Gauthier,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:51:33Z,1,19:20,00:40,Hit,n/a,96.0,31.0,Dmytro Timashov,Hitter,Toronto Maple Leafs,Colin White,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:51:37Z,1,19:26,00:34,Missed Shot,n/a,22.0,36.0,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:51:47Z,1,19:36,00:24,Takeaway,n/a,33.0,-17.0,Bobby Ryan,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:51:48Z,1,19:37,00:23,Shot,Wrist Shot,30.0,-16.0,Bobby Ryan,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:51:59Z,1,19:39,00:21,Faceoff,n/a,69.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-02T23:52:18Z,1,19:42,00:18,Blocked Shot,n/a,70.0,-12.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Bobby Ryan,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:11:15Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Colin White,Winner,Ottawa Senators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:11:24Z,2,00:16,19:44,Hit,n/a,-43.0,-38.0,Cody Ceci,Hitter,Toronto Maple Leafs,Brady Tkachuk,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:11:46Z,2,00:38,19:22,Hit,n/a,-97.0,5.0,Connor Brown,Hitter,Ottawa Senators,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:12:08Z,2,01:00,19:00,Hit,n/a,-96.0,-10.0,Bobby Ryan,Hitter,Ottawa Senators,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:12:13Z,2,01:06,18:54,Shot,Backhand,81.0,-1.0,William Nylander,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:12:48Z,2,01:14,18:46,Faceoff,n/a,-20.0,22.0,Drake Batherson,Winner,Ottawa Senators,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:13:10Z,2,01:26,18:34,Hit,n/a,-36.0,-39.0,Trevor Moore,Hitter,Toronto Maple Leafs,Tyler Ennis,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:13:37Z,2,01:37,18:23,Faceoff,n/a,-69.0,22.0,Colin White,Winner,Ottawa Senators,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:13:49Z,2,01:41,18:19,Shot,Wrist Shot,-31.0,30.0,Nikita Zaitsev,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:14:21Z,2,01:42,18:18,Faceoff,n/a,-69.0,22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:14:35Z,2,01:44,18:16,Faceoff,n/a,-69.0,22.0,Artem Anisimov,Winner,Ottawa Senators,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:14:58Z,2,02:02,17:58,Hit,n/a,11.0,40.0,Dmytro Timashov,Hitter,Toronto Maple Leafs,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:15:12Z,2,02:15,17:45,Blocked Shot,n/a,75.0,-8.0,Artem Anisimov,Blocker,Ottawa Senators,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:15:27Z,2,02:20,17:40,Shot,Wrist Shot,56.0,-23.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:15:36Z,2,02:20,17:40,Goal,Wrist Shot,86.0,0.0,Frederik Gauthier,Scorer,Toronto Maple Leafs,Tyson Barrie,Assist,Toronto Maple Leafs,Dmytro Timashov,Assist,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators
+2019-10-03T00:16:10Z,2,02:20,17:40,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Trevor Moore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:16:28Z,2,02:31,17:29,Hit,n/a,-97.0,-20.0,Filip Chlapik,Hitter,Ottawa Senators,Martin Marincin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:16:38Z,2,02:41,17:19,Hit,n/a,97.0,26.0,Trevor Moore,Hitter,Toronto Maple Leafs,Erik Brannstrom,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:16:44Z,2,02:46,17:14,Shot,Wrist Shot,43.0,9.0,Rasmus Sandin,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:17:08Z,2,02:47,17:13,Faceoff,n/a,69.0,22.0,Connor Brown,Winner,Ottawa Senators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:17:27Z,2,02:52,17:08,Hit,n/a,99.0,27.0,Kasperi Kapanen,Hitter,Toronto Maple Leafs,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:17:35Z,2,03:01,16:59,Takeaway,n/a,68.0,-37.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:18:17Z,2,03:43,16:17,Blocked Shot,n/a,64.0,-1.0,Thomas Chabot,Blocker,Ottawa Senators,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:18:43Z,2,03:44,16:16,Faceoff,n/a,69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:19:17Z,2,04:18,15:42,Blocked Shot,n/a,65.0,8.0,Chris Tierney,Blocker,Ottawa Senators,William Nylander,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:19:21Z,2,04:22,15:38,Hit,n/a,81.0,38.0,Bobby Ryan,Hitter,Ottawa Senators,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:19:25Z,2,04:26,15:34,Blocked Shot,n/a,68.0,11.0,Chris Tierney,Blocker,Ottawa Senators,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:19:32Z,2,04:33,15:27,Shot,Slap Shot,37.0,-31.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:19:54Z,2,04:33,15:27,Faceoff,n/a,69.0,-22.0,Trevor Moore,Winner,Toronto Maple Leafs,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:20:11Z,2,04:37,15:23,Shot,Wrist Shot,35.0,-38.0,Martin Marincin,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:20:17Z,2,04:42,15:18,Shot,Wrist Shot,45.0,21.0,Rasmus Sandin,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:20:25Z,2,04:42,15:18,Goal,Slap Shot,84.0,2.0,Trevor Moore,Scorer,Toronto Maple Leafs,Ilya Mikheyev,Assist,Toronto Maple Leafs,Rasmus Sandin,Assist,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators
+2019-10-03T00:21:04Z,2,04:42,15:18,Faceoff,n/a,0.0,0.0,Artem Anisimov,Winner,Ottawa Senators,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:21:19Z,2,05:02,14:58,Missed Shot,n/a,73.0,-7.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:21:27Z,2,05:09,14:51,Blocked Shot,n/a,68.0,10.0,Artem Anisimov,Blocker,Ottawa Senators,Rasmus Sandin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:21:35Z,2,05:14,14:46,Takeaway,n/a,1.0,1.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:21:45Z,2,05:15,14:45,Takeaway,n/a,13.0,36.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:21:59Z,2,05:41,14:19,Hit,n/a,96.0,25.0,Jean-Gabriel Pageau,Hitter,Ottawa Senators,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:22:12Z,2,05:51,14:09,Goal,Wrist Shot,-83.0,-6.0,Scott Sabourin,Scorer,Ottawa Senators,Filip Chlapik,Assist,Ottawa Senators,Jean-Gabriel Pageau,Assist,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-10-03T00:23:02Z,2,05:51,14:09,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:23:12Z,2,06:01,13:59,Shot,Backhand,12.0,-10.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:24:00Z,2,06:49,13:11,Giveaway,n/a,9.0,-14.0,Ilya Mikheyev,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:24:07Z,2,06:56,13:04,Giveaway,n/a,33.0,-12.0,Erik Brannstrom,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:25:43Z,2,07:22,12:38,Faceoff,n/a,-20.0,22.0,Colin White,Winner,Ottawa Senators,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:27:14Z,2,07:42,12:18,Blocked Shot,n/a,-76.0,-7.0,Cody Ceci,Blocker,Toronto Maple Leafs,Mark Borowiecki,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:27:35Z,2,08:02,11:58,Goal,Wrist Shot,83.0,5.0,Auston Matthews,Scorer,Toronto Maple Leafs,William Nylander,Assist,Toronto Maple Leafs,Morgan Rielly,Assist,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators
+2019-10-03T00:28:23Z,2,08:02,11:58,Faceoff,n/a,0.0,0.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:30:50Z,2,08:07,11:53,Faceoff,n/a,0.0,0.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:31:00Z,2,08:14,11:46,Giveaway,n/a,-31.0,36.0,Frederik Gauthier,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:31:01Z,2,08:16,11:44,Blocked Shot,n/a,-40.0,36.0,Frederik Gauthier,Blocker,Toronto Maple Leafs,Scott Sabourin,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:31:23Z,2,08:39,11:21,Giveaway,n/a,-35.0,-29.0,Martin Marincin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:31:27Z,2,08:43,11:17,Hit,n/a,96.0,1.0,Dmytro Timashov,Hitter,Toronto Maple Leafs,Thomas Chabot,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:31:58Z,2,09:14,10:46,Hit,n/a,-43.0,38.0,Jake Muzzin,Hitter,Toronto Maple Leafs,Drake Batherson,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:32:08Z,2,09:24,10:36,Missed Shot,n/a,-84.0,-10.0,Drake Batherson,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:32:33Z,2,09:48,10:12,Hit,n/a,-37.0,-39.0,Brady Tkachuk,Hitter,Ottawa Senators,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:32:39Z,2,09:55,10:05,Missed Shot,n/a,79.0,-1.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:32:42Z,2,09:58,10:02,Hit,n/a,95.0,-19.0,Brady Tkachuk,Hitter,Ottawa Senators,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:33:02Z,2,10:01,09:59,Penalty,Cross checking,73.0,0.0,Alexander Kerfoot,PenaltyOn,Toronto Maple Leafs,Mark Borowiecki,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:35:22Z,2,10:01,09:59,Faceoff,n/a,-69.0,-22.0,Brady Tkachuk,Winner,Ottawa Senators,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:35:28Z,2,10:10,09:50,Missed Shot,n/a,-75.0,3.0,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:35:40Z,2,10:22,09:38,Blocked Shot,n/a,-61.0,-1.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:36:00Z,2,10:40,09:20,Missed Shot,n/a,-82.0,-1.0,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:36:39Z,2,10:40,09:20,Faceoff,n/a,-69.0,-22.0,Chris Tierney,Winner,Ottawa Senators,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:36:32Z,2,10:47,09:13,Missed Shot,n/a,33.0,19.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:38:20Z,2,12:09,07:51,Faceoff,n/a,-20.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:38:30Z,2,12:19,07:41,Hit,n/a,96.0,-17.0,Andreas Johnsson,Hitter,Toronto Maple Leafs,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:38:59Z,2,12:22,07:38,Faceoff,n/a,69.0,22.0,Jean-Gabriel Pageau,Winner,Ottawa Senators,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:40:06Z,2,13:00,07:00,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:40:11Z,2,13:06,06:54,Shot,Wrist Shot,-60.0,-24.0,Bobby Ryan,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:40:42Z,2,13:07,06:53,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:40:47Z,2,13:14,06:46,Missed Shot,n/a,-85.0,-8.0,Tyler Ennis,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:40:53Z,2,13:20,06:40,Missed Shot,n/a,-68.0,3.0,Chris Tierney,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:40:56Z,2,13:23,06:37,Takeaway,n/a,13.0,-16.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:40:59Z,2,13:26,06:34,Shot,Wrist Shot,58.0,17.0,John Tavares,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:41:44Z,2,13:34,06:26,Faceoff,n/a,69.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:41:49Z,2,13:48,06:12,Hit,n/a,-94.0,-26.0,Alexander Kerfoot,Hitter,Toronto Maple Leafs,Mark Borowiecki,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:42:18Z,2,13:58,06:02,Faceoff,n/a,-69.0,-22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:44:44Z,2,14:05,05:55,Faceoff,n/a,-69.0,22.0,Colin White,Winner,Ottawa Senators,Frederik Gauthier,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:45:05Z,2,14:10,05:50,Missed Shot,n/a,-40.0,29.0,Nikita Zaitsev,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:45:40Z,2,14:22,05:38,Faceoff,n/a,69.0,22.0,Colin White,Winner,Ottawa Senators,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:46:03Z,2,14:40,05:20,Penalty,Tripping,-89.0,-17.0,Brady Tkachuk,PenaltyOn,Ottawa Senators,Auston Matthews,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:46:38Z,2,14:40,05:20,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:46:50Z,2,14:45,05:15,Shot,Wrist Shot,57.0,-22.0,Auston Matthews,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:46:58Z,2,14:45,05:15,Faceoff,n/a,69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:47:17Z,2,14:50,05:10,Goal,Slap Shot,65.0,-20.0,Auston Matthews,Scorer,Toronto Maple Leafs,Mitchell Marner,Assist,Toronto Maple Leafs,John Tavares,Assist,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators
+2019-10-03T01:03:54Z,2,14:50,05:10,Faceoff,n/a,0.0,0.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:48:11Z,2,15:00,05:00,Hit,n/a,93.0,-35.0,Ilya Mikheyev,Hitter,Toronto Maple Leafs,Dylan DeMelo,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:48:37Z,2,15:24,04:36,Giveaway,n/a,98.0,0.0,Craig Anderson,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:48:46Z,2,15:24,04:36,Penalty,Slashing,39.0,-27.0,Tyson Barrie,PenaltyOn,Toronto Maple Leafs,Mark Borowiecki,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:49:18Z,2,15:24,04:36,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:49:52Z,2,15:54,04:06,Takeaway,n/a,-55.0,33.0,Jake Muzzin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:50:11Z,2,16:13,03:47,Takeaway,n/a,-52.0,32.0,Martin Marincin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:50:42Z,2,16:43,03:17,Giveaway,n/a,19.0,-30.0,Tyler Ennis,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:50:56Z,2,16:58,03:02,Giveaway,n/a,-34.0,35.0,Chris Tierney,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:51:19Z,2,17:21,02:39,Hit,n/a,-98.0,3.0,Chris Tierney,Hitter,Ottawa Senators,Martin Marincin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:51:28Z,2,17:30,02:30,Hit,n/a,84.0,-37.0,Erik Brannstrom,Hitter,Ottawa Senators,Dmytro Timashov,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:51:33Z,2,17:34,02:26,Blocked Shot,n/a,74.0,0.0,Erik Brannstrom,Blocker,Ottawa Senators,Andreas Johnsson,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:51:38Z,2,17:40,02:20,Hit,n/a,74.0,40.0,Ron Hainsey,Hitter,Ottawa Senators,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:52:02Z,2,18:04,01:56,Hit,n/a,63.0,-39.0,Thomas Chabot,Hitter,Ottawa Senators,Andreas Johnsson,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:52:04Z,2,18:05,01:55,Shot,Wrist Shot,86.0,-9.0,Auston Matthews,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:52:16Z,2,18:18,01:42,Shot,Snap Shot,60.0,-1.0,Auston Matthews,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:52:32Z,2,18:34,01:26,Hit,n/a,95.0,20.0,Nikita Zaitsev,Hitter,Ottawa Senators,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:52:38Z,2,18:40,01:20,Blocked Shot,n/a,52.0,7.0,Scott Sabourin,Blocker,Ottawa Senators,Martin Marincin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:52:51Z,2,18:53,01:07,Shot,Wrist Shot,45.0,-22.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:53:07Z,2,19:08,00:52,Shot,Wrist Shot,29.0,21.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:53:16Z,2,19:17,00:43,Takeaway,n/a,49.0,-32.0,Drake Batherson,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:53:53Z,2,19:25,00:35,Faceoff,n/a,0.0,0.0,Chris Tierney,Winner,Ottawa Senators,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:53:59Z,2,19:36,00:24,Hit,n/a,-96.0,-26.0,Anthony Duclair,Hitter,Ottawa Senators,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:54:09Z,2,19:45,00:15,Blocked Shot,n/a,70.0,19.0,Dylan DeMelo,Blocker,Ottawa Senators,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T00:54:24Z,2,19:58,00:02,Giveaway,n/a,24.0,-9.0,Dylan DeMelo,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:13:05Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Colin White,Winner,Ottawa Senators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:13:42Z,3,00:39,19:21,Missed Shot,n/a,-82.0,24.0,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:13:53Z,3,00:42,19:18,Missed Shot,n/a,-87.0,-9.0,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:13:52Z,3,00:45,19:15,Hit,n/a,-83.0,39.0,Kasperi Kapanen,Hitter,Toronto Maple Leafs,Nikita Zaitsev,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:14:08Z,3,00:45,19:15,Faceoff,n/a,-69.0,22.0,Chris Tierney,Winner,Ottawa Senators,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:14:25Z,3,00:59,19:01,Shot,Wrist Shot,-33.0,-25.0,Jake Muzzin,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:14:35Z,3,01:00,19:00,Faceoff,n/a,-69.0,-22.0,Bobby Ryan,Winner,Ottawa Senators,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:14:58Z,3,01:04,18:56,Hit,n/a,-43.0,-38.0,Chris Tierney,Hitter,Ottawa Senators,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:15:17Z,3,01:23,18:37,Missed Shot,n/a,-25.0,-15.0,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:15:29Z,3,01:32,18:28,Shot,Wrist Shot,-89.0,25.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:15:41Z,3,01:47,18:13,Hit,n/a,-10.0,24.0,Tyler Ennis,Hitter,Ottawa Senators,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:15:47Z,3,01:53,18:07,Hit,n/a,-33.0,29.0,Dylan DeMelo,Hitter,Ottawa Senators,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:15:55Z,3,02:00,18:00,Shot,Snap Shot,-56.0,-15.0,Trevor Moore,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:15:56Z,3,02:03,17:57,Takeaway,n/a,-91.0,-25.0,Ilya Mikheyev,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:16:28Z,3,02:07,17:53,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:16:35Z,3,02:15,17:45,Shot,Wrist Shot,-68.0,-25.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:16:55Z,3,02:35,17:25,Hit,n/a,-94.0,-23.0,Erik Brannstrom,Hitter,Ottawa Senators,Mitchell Marner,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:17:01Z,3,02:39,17:21,Takeaway,n/a,-96.0,1.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:17:19Z,3,03:00,17:00,Hit,n/a,51.0,36.0,Dmytro Timashov,Hitter,Toronto Maple Leafs,Filip Chlapik,Hittee,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:17:41Z,3,03:16,16:44,Penalty,Boarding,93.0,37.0,Filip Chlapik,PenaltyOn,Ottawa Senators,Nicholas Shore,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:18:21Z,3,03:16,16:44,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Jean-Gabriel Pageau,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:18:56Z,3,03:42,16:18,Shot,Wrist Shot,-67.0,19.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:19:04Z,3,03:51,16:09,Shot,Slap Shot,-70.0,23.0,Auston Matthews,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:19:18Z,3,04:05,15:55,Blocked Shot,n/a,-74.0,13.0,Ron Hainsey,Blocker,Ottawa Senators,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:19:27Z,3,04:14,15:46,Missed Shot,n/a,-79.0,12.0,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:19:33Z,3,04:19,15:41,Missed Shot,n/a,-64.0,-9.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:20:00Z,3,04:44,15:16,Hit,n/a,96.0,0.0,Anthony Duclair,Hitter,Ottawa Senators,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:20:12Z,3,04:59,15:01,Blocked Shot,n/a,-60.0,10.0,Tyler Ennis,Blocker,Ottawa Senators,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:20:28Z,3,05:14,14:46,Shot,Wrist Shot,-43.0,0.0,Mark Borowiecki,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:20:43Z,3,05:30,14:30,Hit,n/a,-97.0,13.0,Nikita Zaitsev,Hitter,Ottawa Senators,Frederik Gauthier,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:20:51Z,3,05:35,14:25,Penalty,Interference,22.0,18.0,Dmytro Timashov,PenaltyOn,Toronto Maple Leafs,Colin White,DrewBy,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:21:35Z,3,05:35,14:25,Faceoff,n/a,69.0,22.0,Brady Tkachuk,Winner,Ottawa Senators,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:21:50Z,3,05:55,14:05,Takeaway,n/a,42.0,-40.0,Jake Muzzin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:23:14Z,3,07:20,12:40,Takeaway,n/a,-25.0,24.0,Bobby Ryan,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:23:33Z,3,07:38,12:22,Shot,Wrist Shot,55.0,28.0,Artem Anisimov,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:25:52Z,3,07:39,12:21,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:25:59Z,3,07:43,12:17,Missed Shot,n/a,67.0,19.0,Brady Tkachuk,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:26:28Z,3,07:54,12:06,Faceoff,n/a,69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:26:39Z,3,08:02,11:58,Hit,n/a,96.0,-9.0,Brady Tkachuk,Hitter,Ottawa Senators,Morgan Rielly,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:26:51Z,3,08:14,11:46,Hit,n/a,97.0,22.0,Scott Sabourin,Hitter,Ottawa Senators,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:26:58Z,3,08:21,11:39,Shot,Wrist Shot,-62.0,11.0,Auston Matthews,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:27:37Z,3,08:49,11:11,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:28:29Z,3,09:26,10:34,Hit,n/a,-44.0,-38.0,Dylan DeMelo,Hitter,Ottawa Senators,Rasmus Sandin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:28:34Z,3,09:31,10:29,Giveaway,n/a,-93.0,33.0,Mark Borowiecki,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:28:40Z,3,09:35,10:25,Takeaway,n/a,-97.0,-11.0,Artem Anisimov,PlayerID,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:28:46Z,3,09:43,10:17,Goal,Wrist Shot,-78.0,9.0,Ilya Mikheyev,Scorer,Toronto Maple Leafs,Tyson Barrie,Assist,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a
+2019-10-03T01:29:27Z,3,09:43,10:17,Faceoff,n/a,0.0,0.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:29:33Z,3,09:53,10:07,Hit,n/a,-97.0,25.0,Chris Tierney,Hitter,Ottawa Senators,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:29:56Z,3,09:59,10:01,Faceoff,n/a,-20.0,22.0,Chris Tierney,Winner,Ottawa Senators,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:30:31Z,3,10:26,09:34,Hit,n/a,35.0,39.0,Bobby Ryan,Hitter,Ottawa Senators,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:30:36Z,3,10:32,09:28,Shot,Wrist Shot,70.0,-38.0,Nikita Zaitsev,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:33:13Z,3,10:32,09:28,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:34:29Z,3,11:46,08:14,Hit,n/a,63.0,41.0,Filip Chlapik,Hitter,Ottawa Senators,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:34:36Z,3,11:53,08:07,Giveaway,n/a,-12.0,28.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:34:43Z,3,12:00,08:00,Giveaway,n/a,96.0,1.0,Frederik Andersen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:35:19Z,3,12:10,07:50,Faceoff,n/a,69.0,22.0,Chris Tierney,Winner,Ottawa Senators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:35:51Z,3,12:36,07:24,Hit,n/a,-18.0,-38.0,Anthony Duclair,Hitter,Ottawa Senators,Rasmus Sandin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:36:02Z,3,12:50,07:10,Hit,n/a,-34.0,-37.0,Chris Tierney,Hitter,Ottawa Senators,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:36:11Z,3,12:59,07:01,Hit,n/a,27.0,-37.0,Ron Hainsey,Hitter,Ottawa Senators,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:36:21Z,3,13:09,06:51,Giveaway,n/a,96.0,-32.0,Trevor Moore,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:36:24Z,3,13:09,06:51,Missed Shot,n/a,83.0,-8.0,Scott Sabourin,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:36:50Z,3,13:09,06:51,Faceoff,n/a,69.0,-22.0,Artem Anisimov,Winner,Ottawa Senators,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:36:51Z,3,13:14,06:46,Blocked Shot,n/a,42.0,-25.0,Ilya Mikheyev,Blocker,Toronto Maple Leafs,Erik Brannstrom,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:37:02Z,3,13:16,06:44,Faceoff,n/a,-20.0,22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Artem Anisimov,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:37:41Z,3,13:42,06:18,Shot,Slap Shot,-59.0,-21.0,Trevor Moore,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:38:02Z,3,13:55,06:05,Shot,Backhand,5.0,-17.0,Scott Sabourin,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:38:24Z,3,14:09,05:51,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Brady Tkachuk,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:38:53Z,3,14:26,05:34,Shot,Slap Shot,2.0,31.0,Thomas Chabot,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:39:06Z,3,14:41,05:19,Hit,n/a,92.0,-35.0,Brady Tkachuk,Hitter,Ottawa Senators,Dmytro Timashov,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:39:15Z,3,14:50,05:10,Hit,n/a,94.0,-35.0,Brady Tkachuk,Hitter,Ottawa Senators,Rasmus Sandin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:39:23Z,3,14:58,05:02,Shot,Wrist Shot,66.0,41.0,Martin Marincin,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:39:40Z,3,15:15,04:45,Hit,n/a,85.0,40.0,Bobby Ryan,Hitter,Ottawa Senators,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:39:52Z,3,15:27,04:33,Hit,n/a,-98.0,29.0,Dylan DeMelo,Hitter,Ottawa Senators,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:40:06Z,3,15:41,04:19,Missed Shot,n/a,47.0,-10.0,Bobby Ryan,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:40:11Z,3,15:46,04:14,Giveaway,n/a,34.0,31.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:40:17Z,3,15:52,04:08,Shot,Slap Shot,64.0,-10.0,Scott Sabourin,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:40:30Z,3,16:02,03:58,Blocked Shot,n/a,77.0,1.0,Cody Ceci,Blocker,Toronto Maple Leafs,Ron Hainsey,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:40:52Z,3,16:26,03:34,Shot,Wrist Shot,-62.0,-26.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Craig Anderson,Goalie,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:43:11Z,3,16:26,03:34,Faceoff,n/a,-69.0,-22.0,Colin White,Winner,Ottawa Senators,Trevor Moore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:43:41Z,3,16:36,03:24,Missed Shot,n/a,-72.0,9.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:44:02Z,3,16:58,03:02,Blocked Shot,n/a,50.0,15.0,Trevor Moore,Blocker,Toronto Maple Leafs,Thomas Chabot,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:44:10Z,3,17:05,02:55,Giveaway,n/a,-35.0,27.0,Ilya Mikheyev,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:44:29Z,3,17:25,02:35,Blocked Shot,n/a,60.0,9.0,Andreas Johnsson,Blocker,Toronto Maple Leafs,Mark Borowiecki,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:44:43Z,3,17:38,02:22,Giveaway,n/a,72.0,-19.0,Frederik Andersen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:44:44Z,3,17:39,02:21,Missed Shot,n/a,78.0,-22.0,Bobby Ryan,Shooter,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:44:53Z,3,17:45,02:15,Shot,Wrist Shot,85.0,30.0,Chris Tierney,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:44:59Z,3,17:45,02:15,Goal,Wrist Shot,72.0,2.0,Bobby Ryan,Scorer,Ottawa Senators,Chris Tierney,Assist,Ottawa Senators,Mark Borowiecki,Assist,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-10-03T01:45:48Z,3,17:45,02:15,Faceoff,n/a,0.0,0.0,Artem Anisimov,Winner,Ottawa Senators,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:46:46Z,3,18:08,01:52,Faceoff,n/a,20.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Colin White,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:47:04Z,3,18:18,01:42,Faceoff,n/a,69.0,-22.0,Colin White,Winner,Ottawa Senators,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:47:27Z,3,18:22,01:38,Shot,Slap Shot,38.0,-24.0,Thomas Chabot,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:47:49Z,3,18:44,01:16,Shot,Wrist Shot,64.0,28.0,Anthony Duclair,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:48:34Z,3,18:45,01:15,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:49:10Z,3,18:54,01:06,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Chris Tierney,Loser,Ottawa Senators,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:49:04Z,3,18:59,01:01,Blocked Shot,n/a,-44.0,25.0,Tyler Ennis,Blocker,Ottawa Senators,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:49:35Z,3,19:29,00:31,Giveaway,n/a,92.0,-29.0,Auston Matthews,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:49:43Z,3,19:37,00:23,Shot,Wrist Shot,48.0,28.0,Thomas Chabot,Shooter,Ottawa Senators,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-03T01:49:58Z,3,19:52,00:08,Missed Shot,n/a,-39.0,-1.0,Auston Matthews,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

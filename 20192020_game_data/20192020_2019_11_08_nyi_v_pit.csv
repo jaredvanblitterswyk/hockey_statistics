@@ -1,0 +1,259 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-08T00:07:44Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Sidney Crosby,Winner,Pittsburgh Penguins,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:08:44Z,1,00:19,19:41,Goal,Backhand,86.0,5.0,Casey Cizikas,Scorer,New York Islanders,Michael Dal Colle,Assist,New York Islanders,Ryan Pulock,Assist,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins
+2019-11-08T00:09:22Z,1,00:19,19:41,Faceoff,n/a,0.0,0.0,Teddy Blueger,Winner,Pittsburgh Penguins,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:09:37Z,1,00:31,19:29,Hit,n/a,85.0,34.0,Anders Lee,Hitter,New York Islanders,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:09:44Z,1,00:38,19:22,Hit,n/a,71.0,-38.0,Josh Bailey,Hitter,New York Islanders,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:09:56Z,1,00:50,19:10,Hit,n/a,92.0,27.0,Anders Lee,Hitter,New York Islanders,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:10:08Z,1,01:02,18:58,Hit,n/a,-93.0,-15.0,Johnny Boychuk,Hitter,New York Islanders,Zach Aston-Reese,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:10:21Z,1,01:14,18:46,Shot,Wrist Shot,-81.0,-25.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:10:35Z,1,01:14,18:46,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:10:49Z,1,01:20,18:40,Shot,Wrist Shot,-49.0,-33.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:11:08Z,1,01:39,18:21,Hit,n/a,94.0,19.0,Derick Brassard,Hitter,New York Islanders,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:11:13Z,1,01:40,18:20,Shot,Backhand,76.0,-7.0,Anthony Beauvillier,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:11:31Z,1,01:40,18:20,Faceoff,n/a,69.0,22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Cole Bardreau,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:11:47Z,1,01:50,18:10,Hit,n/a,56.0,40.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Ross Johnston,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:11:57Z,1,02:00,18:00,Blocked Shot,n/a,-30.0,25.0,Ross Johnston,Blocker,New York Islanders,Juuso Riikola,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:12:41Z,1,02:43,17:17,Giveaway,n/a,97.0,18.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:12:57Z,1,03:00,17:00,Missed Shot,n/a,-38.0,30.0,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:13:52Z,1,03:27,16:33,Faceoff,n/a,0.0,0.0,Brock Nelson,Winner,New York Islanders,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:14:04Z,1,03:42,16:18,Hit,n/a,60.0,-40.0,Johnny Boychuk,Hitter,New York Islanders,Alex Galchenyuk,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:14:28Z,1,04:03,15:57,Giveaway,n/a,-41.0,-37.0,Scott Mayfield,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:14:35Z,1,04:13,15:47,Takeaway,n/a,-91.0,-28.0,Scott Mayfield,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:14:58Z,1,04:37,15:23,Shot,Tip-In,-55.0,-5.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:15:08Z,1,04:47,15:13,Giveaway,n/a,38.0,39.0,Dominik Simon,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:15:19Z,1,04:58,15:02,Hit,n/a,64.0,40.0,Jack Johnson,Hitter,Pittsburgh Penguins,Cole Bardreau,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:16:00Z,1,05:17,14:43,Faceoff,n/a,-69.0,-22.0,Dominik Kahun,Winner,Pittsburgh Penguins,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:16:20Z,1,05:34,14:26,Shot,Wrap-around,-83.0,-10.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:17:06Z,1,06:20,13:40,Hit,n/a,96.0,19.0,Josh Bailey,Hitter,New York Islanders,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:17:19Z,1,06:33,13:27,Hit,n/a,-85.0,35.0,Teddy Blueger,Hitter,Pittsburgh Penguins,Johnny Boychuk,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:17:27Z,1,06:41,13:19,Shot,Wrist Shot,-69.0,-14.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:17:31Z,1,06:44,13:16,Hit,n/a,-62.0,-40.0,Anders Lee,Hitter,New York Islanders,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:17:38Z,1,06:51,13:09,Missed Shot,n/a,-77.0,-6.0,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:18:02Z,1,07:15,12:45,Takeaway,n/a,-52.0,-23.0,Alex Galchenyuk,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:18:04Z,1,07:18,12:42,Shot,Wrist Shot,-76.0,-7.0,Alex Galchenyuk,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:18:10Z,1,07:23,12:37,Giveaway,n/a,-78.0,-38.0,Brock Nelson,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:18:18Z,1,07:32,12:28,Shot,Tip-In,-71.0,-7.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:18:32Z,1,07:45,12:15,Shot,Wrist Shot,-38.0,2.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:18:44Z,1,07:57,12:03,Shot,Wrist Shot,62.0,29.0,Oliver Wahlstrom,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:20:42Z,1,07:57,12:03,Faceoff,n/a,69.0,22.0,Casey Cizikas,Winner,New York Islanders,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:21:08Z,1,08:12,11:48,Hit,n/a,-97.0,4.0,Jake Guentzel,Hitter,Pittsburgh Penguins,Adam Pelech,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:21:13Z,1,08:17,11:43,Shot,Wrist Shot,71.0,-21.0,Casey Cizikas,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:21:26Z,1,08:30,11:30,Giveaway,n/a,61.0,-17.0,Michael Dal Colle,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:22:42Z,1,09:46,10:14,Missed Shot,n/a,-88.0,10.0,Bryan Rust,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:22:48Z,1,09:52,10:08,Missed Shot,n/a,-32.0,-25.0,Jack Johnson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:23:13Z,1,10:17,09:43,Giveaway,n/a,-83.0,36.0,Adam Pelech,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:23:28Z,1,10:32,09:28,Missed Shot,n/a,-71.0,-29.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:23:30Z,1,10:35,09:25,Hit,n/a,-75.0,39.0,Ross Johnston,Hitter,New York Islanders,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:23:37Z,1,10:41,09:19,Blocked Shot,n/a,-58.0,20.0,Ross Johnston,Blocker,New York Islanders,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:24:04Z,1,11:09,08:51,Hit,n/a,97.0,-6.0,Cal Clutterbuck,Hitter,New York Islanders,John Marino,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:24:17Z,1,11:22,08:38,Blocked Shot,n/a,49.0,-23.0,Dominik Simon,Blocker,Pittsburgh Penguins,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:24:34Z,1,11:38,08:22,Blocked Shot,n/a,-76.0,-18.0,Cal Clutterbuck,Blocker,New York Islanders,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:29:39Z,1,11:45,08:15,Blocked Shot,n/a,-56.0,14.0,Devon Toews,Blocker,New York Islanders,Jake Guentzel,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:25:14Z,1,12:19,07:41,Missed Shot,n/a,84.0,-13.0,Josh Bailey,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:25:19Z,1,12:23,07:37,Missed Shot,n/a,32.0,28.0,Noah Dobson,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:25:29Z,1,12:33,07:27,Takeaway,n/a,97.0,7.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:26:22Z,1,13:26,06:34,Hit,n/a,50.0,39.0,Ross Johnston,Hitter,New York Islanders,Nick Bjugstad,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:26:45Z,1,13:50,06:10,Giveaway,n/a,-37.0,-36.0,Johnny Boychuk,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:27:08Z,1,14:13,05:47,Hit,n/a,72.0,39.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Cal Clutterbuck,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:27:15Z,1,14:19,05:41,Blocked Shot,n/a,59.0,-22.0,Zach Aston-Reese,Blocker,Pittsburgh Penguins,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:27:20Z,1,14:22,05:38,Shot,Wrist Shot,32.0,30.0,Scott Mayfield,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:29:33Z,1,14:22,05:38,Faceoff,n/a,69.0,22.0,Josh Bailey,Winner,New York Islanders,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:29:55Z,1,14:40,05:20,Shot,Wrist Shot,60.0,-18.0,Mathew Barzal,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:30:18Z,1,15:02,04:58,Missed Shot,n/a,67.0,-24.0,Mathew Barzal,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:30:48Z,1,15:32,04:28,Blocked Shot,n/a,-67.0,-23.0,Adam Pelech,Blocker,New York Islanders,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:31:25Z,1,16:09,03:51,Shot,Wrist Shot,66.0,9.0,Casey Cizikas,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:31:37Z,1,16:21,03:39,Blocked Shot,n/a,70.0,1.0,Evgeni Malkin,Blocker,Pittsburgh Penguins,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:31:54Z,1,16:38,03:22,Shot,Wrist Shot,-40.0,26.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:32:04Z,1,16:48,03:12,Giveaway,n/a,-59.0,-39.0,Alex Galchenyuk,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:32:26Z,1,17:09,02:51,Shot,Wrist Shot,-73.0,19.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:34:28Z,1,17:09,02:51,Faceoff,n/a,-69.0,22.0,Brock Nelson,Winner,New York Islanders,Dominik Kahun,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:35:02Z,1,17:35,02:25,Missed Shot,n/a,32.0,-34.0,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:35:03Z,1,17:36,02:24,Hit,n/a,39.0,39.0,Jared McCann,Hitter,Pittsburgh Penguins,Devon Toews,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:35:10Z,1,17:44,02:16,Hit,n/a,84.0,35.0,Brock Nelson,Hitter,New York Islanders,Jared McCann,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:35:53Z,1,18:00,02:00,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:36:19Z,1,18:24,01:36,Shot,Wrist Shot,69.0,6.0,Anders Lee,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:36:37Z,1,18:42,01:18,Giveaway,n/a,-50.0,-22.0,Adam Pelech,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:36:44Z,1,18:48,01:12,Shot,Backhand,-79.0,6.0,Dominik Simon,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:37:11Z,1,19:14,00:46,Hit,n/a,-61.0,-39.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Cal Clutterbuck,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:37:39Z,1,19:42,00:18,Giveaway,n/a,-58.0,39.0,Zach Aston-Reese,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:37:49Z,1,19:52,00:08,Giveaway,n/a,92.0,-27.0,Anthony Beauvillier,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:56:03Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:56:49Z,2,00:29,19:31,Missed Shot,n/a,51.0,-31.0,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:56:50Z,2,00:30,19:30,Hit,n/a,35.0,40.0,Cal Clutterbuck,Hitter,New York Islanders,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:57:02Z,2,00:43,19:17,Shot,Wrist Shot,56.0,-14.0,Dominik Simon,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:57:07Z,2,00:48,19:12,Hit,n/a,68.0,39.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Casey Cizikas,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:57:46Z,2,01:21,18:39,Blocked Shot,n/a,78.0,-18.0,Anders Lee,Blocker,New York Islanders,Brandon Tanev,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:58:17Z,2,01:58,18:02,Takeaway,n/a,47.0,19.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:58:21Z,2,02:02,17:58,Hit,n/a,67.0,39.0,Scott Mayfield,Hitter,New York Islanders,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:58:32Z,2,02:07,17:53,Faceoff,n/a,-20.0,-22.0,Brock Nelson,Winner,New York Islanders,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:59:13Z,2,02:32,17:28,Blocked Shot,n/a,76.0,-18.0,Devon Toews,Blocker,New York Islanders,Juuso Riikola,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:59:24Z,2,02:36,17:24,Blocked Shot,n/a,-70.0,21.0,Bryan Rust,Blocker,Pittsburgh Penguins,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:59:41Z,2,03:00,17:00,Hit,n/a,-56.0,-38.0,Ross Johnston,Hitter,New York Islanders,Nick Bjugstad,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T00:59:54Z,2,03:13,16:47,Blocked Shot,n/a,-70.0,-25.0,Justin Schultz,Blocker,Pittsburgh Penguins,Oliver Wahlstrom,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:00:00Z,2,03:18,16:42,Hit,n/a,-95.0,16.0,Marcus Pettersson,Hitter,Pittsburgh Penguins,Cole Bardreau,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:00:10Z,2,03:29,16:31,Blocked Shot,n/a,78.0,-9.0,Johnny Boychuk,Blocker,New York Islanders,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:00:38Z,2,03:57,16:03,Blocked Shot,n/a,70.0,-17.0,Casey Cizikas,Blocker,New York Islanders,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:00:45Z,2,04:02,15:58,Shot,Slap Shot,31.0,4.0,Brian Dumoulin,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:00:57Z,2,04:02,15:58,Faceoff,n/a,69.0,22.0,Casey Cizikas,Winner,New York Islanders,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:01:53Z,2,04:44,15:16,Blocked Shot,n/a,-75.0,11.0,Marcus Pettersson,Blocker,Pittsburgh Penguins,Josh Bailey,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:03:01Z,2,05:23,14:37,Faceoff,n/a,-69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:03:28Z,2,05:40,14:20,Shot,Wrist Shot,74.0,-15.0,Evgeni Malkin,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:03:38Z,2,05:49,14:11,Shot,Backhand,-86.0,-12.0,Anthony Beauvillier,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:04:00Z,2,05:49,14:11,Faceoff,n/a,-69.0,22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Cole Bardreau,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:04:24Z,2,06:06,13:54,Missed Shot,n/a,64.0,-12.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:04:31Z,2,06:12,13:48,Hit,n/a,83.0,37.0,Cole Bardreau,Hitter,New York Islanders,Nick Bjugstad,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:04:43Z,2,06:15,13:45,Penalty,Holding,61.0,40.0,Cole Bardreau,PenaltyOn,New York Islanders,Nick Bjugstad,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:06:45Z,2,06:15,13:45,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:07:03Z,2,06:28,13:32,Goal,Wrist Shot,-70.0,-6.0,Cal Clutterbuck,Scorer,New York Islanders,Casey Cizikas,Assist,New York Islanders,Adam Pelech,Assist,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins
+2019-11-08T01:07:46Z,2,06:28,13:32,Faceoff,n/a,0.0,0.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:08:18Z,2,06:54,13:06,Giveaway,n/a,81.0,36.0,Juuso Riikola,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:08:55Z,2,07:31,12:29,Blocked Shot,n/a,67.0,-1.0,Casey Cizikas,Blocker,New York Islanders,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:09:05Z,2,07:41,12:19,Missed Shot,n/a,33.0,2.0,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:09:32Z,2,08:08,11:52,Takeaway,n/a,46.0,-7.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:09:42Z,2,08:18,11:42,Blocked Shot,n/a,80.0,-21.0,Adam Pelech,Blocker,New York Islanders,Evgeni Malkin,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:09:51Z,2,08:27,11:33,Takeaway,n/a,85.0,-31.0,Adam Pelech,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:10:25Z,2,09:01,10:59,Hit,n/a,74.0,-37.0,Brandon Tanev,Hitter,Pittsburgh Penguins,Devon Toews,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:10:28Z,2,09:04,10:56,Shot,Wrist Shot,56.0,-15.0,Zach Aston-Reese,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:10:41Z,2,09:17,10:43,Blocked Shot,n/a,82.0,-16.0,Noah Dobson,Blocker,New York Islanders,John Marino,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:10:54Z,2,09:26,10:34,Goal,Slap Shot,-36.0,4.0,Adam Pelech,Scorer,New York Islanders,Mathew Barzal,Assist,New York Islanders,Anders Lee,Assist,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins
+2019-11-08T01:11:38Z,2,09:26,10:34,Faceoff,n/a,0.0,0.0,Brock Nelson,Winner,New York Islanders,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:12:15Z,2,10:04,09:56,Takeaway,n/a,-49.0,-9.0,Dominik Kahun,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:12:42Z,2,10:30,09:30,Shot,Wrist Shot,45.0,17.0,Dominik Simon,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:14:52Z,2,10:30,09:30,Faceoff,n/a,69.0,22.0,Mathew Barzal,Winner,New York Islanders,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:15:55Z,2,11:14,08:46,Shot,Wrap-around,88.0,10.0,Bryan Rust,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:16:14Z,2,11:14,08:46,Faceoff,n/a,69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:16:39Z,2,11:31,08:29,Giveaway,n/a,73.0,-31.0,Casey Cizikas,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:16:57Z,2,11:49,08:11,Blocked Shot,n/a,79.0,-22.0,Adam Pelech,Blocker,New York Islanders,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:17:02Z,2,11:54,08:06,Missed Shot,n/a,34.0,33.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:17:07Z,2,11:59,08:01,Missed Shot,n/a,33.0,-26.0,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:17:12Z,2,12:04,07:56,Missed Shot,n/a,84.0,11.0,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:17:27Z,2,12:19,07:41,Shot,Wrist Shot,32.0,0.0,Marcus Pettersson,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:18:32Z,2,13:23,06:37,Giveaway,n/a,-97.0,2.0,Matt Murray,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:18:51Z,2,13:42,06:18,Blocked Shot,n/a,-67.0,-1.0,Juuso Riikola,Blocker,Pittsburgh Penguins,Brock Nelson,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:19:00Z,2,13:51,06:09,Giveaway,n/a,-50.0,27.0,Juuso Riikola,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:19:03Z,2,13:55,06:05,Shot,Wrist Shot,-48.0,-23.0,Brock Nelson,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:19:42Z,2,14:34,05:26,Missed Shot,n/a,-75.0,-21.0,Mathew Barzal,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:19:53Z,2,14:45,05:15,Giveaway,n/a,-62.0,21.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:20:03Z,2,14:54,05:06,Blocked Shot,n/a,65.0,-18.0,Josh Bailey,Blocker,New York Islanders,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:20:10Z,2,15:02,04:58,Missed Shot,n/a,31.0,-4.0,Justin Schultz,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:20:50Z,2,15:23,04:37,Faceoff,n/a,69.0,-22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:21:21Z,2,15:37,04:23,Shot,Wrap-around,89.0,-6.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:21:51Z,2,16:07,03:53,Shot,Wrist Shot,74.0,12.0,Dominik Simon,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:22:00Z,2,16:15,03:45,Shot,Tip-In,71.0,-11.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:22:31Z,2,16:15,03:45,Penalty,Tripping,92.0,17.0,Mathew Barzal,PenaltyOn,New York Islanders,Dominik Kahun,DrewBy,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:24:12Z,2,16:15,03:45,Faceoff,n/a,69.0,22.0,Casey Cizikas,Winner,New York Islanders,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:24:56Z,2,16:57,03:03,Takeaway,n/a,35.0,-28.0,Josh Bailey,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:25:21Z,2,17:22,02:38,Shot,Wrist Shot,46.0,-17.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:25:23Z,2,17:24,02:36,Shot,Tip-In,77.0,-5.0,Dominik Kahun,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:25:45Z,2,17:47,02:13,Shot,Slap Shot,31.0,1.0,Juuso Riikola,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:25:51Z,2,17:50,02:10,Shot,Wrist Shot,61.0,-26.0,Jared McCann,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:26:16Z,2,17:50,02:10,Faceoff,n/a,69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:26:34Z,2,18:07,01:53,Takeaway,n/a,57.0,-2.0,Cal Clutterbuck,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:26:59Z,2,18:32,01:28,Shot,Wrist Shot,-79.0,15.0,Brock Nelson,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:27:10Z,2,18:32,01:28,Shot,Wrist Shot,-79.0,7.0,Brock Nelson,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:27:44Z,2,18:32,01:28,Faceoff,n/a,-69.0,22.0,Brock Nelson,Winner,New York Islanders,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:27:39Z,2,18:39,01:21,Shot,Slap Shot,-32.0,24.0,Ryan Pulock,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:27:45Z,2,18:43,01:17,Giveaway,n/a,-51.0,-40.0,Teddy Blueger,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:28:11Z,2,19:10,00:50,Takeaway,n/a,12.0,-40.0,Devon Toews,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:28:37Z,2,19:34,00:26,Shot,Wrist Shot,-85.0,-9.0,Derick Brassard,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:29:03Z,2,19:34,00:26,Faceoff,n/a,-69.0,-22.0,Derick Brassard,Winner,New York Islanders,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:29:26Z,2,19:48,00:12,Hit,n/a,-33.0,36.0,Jared McCann,Hitter,Pittsburgh Penguins,Mathew Barzal,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:29:34Z,2,19:56,00:04,Shot,Wrist Shot,50.0,19.0,Jack Johnson,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:50:25Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:50:39Z,3,00:12,19:48,Hit,n/a,94.0,27.0,Casey Cizikas,Hitter,New York Islanders,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:50:53Z,3,00:18,19:42,Faceoff,n/a,-69.0,-22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:51:26Z,3,00:32,19:28,Hit,n/a,-40.0,-41.0,Jake Guentzel,Hitter,Pittsburgh Penguins,Cal Clutterbuck,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:51:38Z,3,00:43,19:17,Hit,n/a,98.0,4.0,Josh Bailey,Hitter,New York Islanders,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:51:49Z,3,00:55,19:05,Giveaway,n/a,57.0,-38.0,Anders Lee,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:52:01Z,3,01:07,18:53,Giveaway,n/a,32.0,37.0,Devon Toews,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:52:22Z,3,01:28,18:32,Missed Shot,n/a,-33.0,-37.0,Jared McCann,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:52:34Z,3,01:38,18:22,Goal,Wrist Shot,-56.0,-1.0,Jared McCann,Scorer,Pittsburgh Penguins,John Marino,Assist,Pittsburgh Penguins,Brian Dumoulin,Assist,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders
+2019-11-08T01:53:14Z,3,01:38,18:22,Faceoff,n/a,0.0,0.0,Brock Nelson,Winner,New York Islanders,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:53:26Z,3,01:53,18:07,Hit,n/a,-96.0,-10.0,Nick Bjugstad,Hitter,Pittsburgh Penguins,Johnny Boychuk,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:54:59Z,3,02:55,17:05,Faceoff,n/a,-69.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Cole Bardreau,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:55:28Z,3,03:22,16:38,Shot,Tip-In,-77.0,-3.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:55:39Z,3,03:22,16:38,Shot,Backhand,-70.0,1.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:59:10Z,3,03:22,16:38,Faceoff,n/a,0.0,0.0,Brock Nelson,Winner,New York Islanders,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:56:03Z,3,03:27,16:33,Hit,n/a,-96.0,-15.0,Jared McCann,Hitter,Pittsburgh Penguins,Scott Mayfield,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:56:11Z,3,03:35,16:25,Hit,n/a,-96.0,-8.0,Devon Toews,Hitter,New York Islanders,Bryan Rust,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:56:30Z,3,03:53,16:07,Giveaway,n/a,-12.0,-39.0,Evgeni Malkin,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:56:50Z,3,04:09,15:51,Takeaway,n/a,-22.0,14.0,Anthony Beauvillier,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:57:26Z,3,04:47,15:13,Missed Shot,n/a,-45.0,-33.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:57:49Z,3,04:47,15:13,Faceoff,n/a,-69.0,-22.0,Casey Cizikas,Winner,New York Islanders,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:58:04Z,3,05:01,14:59,Takeaway,n/a,47.0,-28.0,Cal Clutterbuck,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:58:30Z,3,05:23,14:37,Blocked Shot,n/a,-63.0,-26.0,Ryan Pulock,Blocker,New York Islanders,Marcus Pettersson,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:59:19Z,3,05:49,14:11,Faceoff,n/a,-20.0,-22.0,Brock Nelson,Winner,New York Islanders,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:59:39Z,3,06:07,13:53,Shot,Wrist Shot,35.0,33.0,Adam Pelech,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T01:59:52Z,3,06:14,13:46,Shot,Wrist Shot,-66.0,-17.0,Bryan Rust,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:00:07Z,3,06:16,13:44,Goal,Wrist Shot,-67.0,1.0,Bryan Rust,Scorer,Pittsburgh Penguins,Jared McCann,Assist,Pittsburgh Penguins,Evgeni Malkin,Assist,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders
+2019-11-08T02:00:41Z,3,06:16,13:44,Faceoff,n/a,0.0,0.0,Mathew Barzal,Winner,New York Islanders,Nick Bjugstad,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:01:02Z,3,06:38,13:22,Missed Shot,n/a,-80.0,7.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:01:27Z,3,07:03,12:57,Takeaway,n/a,30.0,-40.0,Sidney Crosby,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:02:23Z,3,07:59,12:01,Giveaway,n/a,-31.0,33.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:02:31Z,3,08:07,11:53,Giveaway,n/a,96.0,-2.0,Matt Murray,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:02:37Z,3,08:13,11:47,Takeaway,n/a,94.0,19.0,John Marino,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:02:49Z,3,08:26,11:34,Shot,Wrist Shot,-38.0,-27.0,Jack Johnson,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:03:08Z,3,08:34,11:26,Faceoff,n/a,-69.0,-22.0,Cole Bardreau,Winner,New York Islanders,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:03:29Z,3,08:41,11:19,Shot,Slap Shot,-34.0,-35.0,Jack Johnson,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:04:46Z,3,08:46,11:14,Missed Shot,n/a,-30.0,14.0,Juuso Riikola,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:03:42Z,3,08:48,11:12,Goal,Wrist Shot,-79.0,-8.0,Evgeni Malkin,Scorer,Pittsburgh Penguins,Juuso Riikola,Assist,Pittsburgh Penguins,Jared McCann,Assist,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders
+2019-11-08T02:05:33Z,3,08:48,11:12,Faceoff,n/a,0.0,0.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:05:47Z,3,09:04,10:56,Missed Shot,n/a,-75.0,-5.0,Dominik Simon,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:08:05Z,3,09:04,10:56,Faceoff,n/a,-20.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:07:55Z,3,09:08,10:52,Faceoff,n/a,-69.0,22.0,Casey Cizikas,Winner,New York Islanders,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:08:17Z,3,09:24,10:36,Hit,n/a,77.0,-38.0,Michael Dal Colle,Hitter,New York Islanders,Marcus Pettersson,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:08:43Z,3,09:49,10:11,Hit,n/a,70.0,39.0,Cal Clutterbuck,Hitter,New York Islanders,Justin Schultz,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:08:51Z,3,09:57,10:03,Hit,n/a,-64.0,38.0,Ryan Pulock,Hitter,New York Islanders,Jake Guentzel,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:08:57Z,3,10:03,09:57,Missed Shot,n/a,48.0,33.0,Derick Brassard,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:09:17Z,3,10:07,09:53,Penalty,Too many men on the ice,41.0,7.0,Anthony Beauvillier,PenaltyOn,Pittsburgh Penguins,Dominik Kahun,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:10:46Z,3,10:07,09:53,Faceoff,n/a,69.0,22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:11:59Z,3,10:48,09:12,Blocked Shot,n/a,75.0,4.0,John Marino,Blocker,Pittsburgh Penguins,Mathew Barzal,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:12:28Z,3,11:18,08:42,Hit,n/a,92.0,-27.0,Anders Lee,Hitter,New York Islanders,Brian Dumoulin,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:12:29Z,3,11:19,08:41,Missed Shot,n/a,48.0,18.0,Michael Dal Colle,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:12:39Z,3,11:28,08:32,Shot,Wrist Shot,67.0,-25.0,Josh Bailey,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:12:56Z,3,11:46,08:14,Takeaway,n/a,52.0,40.0,Teddy Blueger,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:13:25Z,3,12:13,07:47,Shot,Wrist Shot,58.0,-1.0,Ryan Pulock,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:14:16Z,3,12:13,07:47,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:14:23Z,3,12:42,07:18,Blocked Shot,n/a,-58.0,-26.0,Cal Clutterbuck,Blocker,New York Islanders,Juuso Riikola,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:14:59Z,3,13:18,06:42,Hit,n/a,97.0,6.0,Brian Dumoulin,Hitter,Pittsburgh Penguins,Mathew Barzal,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:15:01Z,3,13:20,06:40,Missed Shot,n/a,76.0,18.0,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:15:16Z,3,13:35,06:25,Blocked Shot,n/a,80.0,-24.0,Jack Johnson,Blocker,Pittsburgh Penguins,Mathew Barzal,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:16:10Z,3,14:29,05:31,Giveaway,n/a,89.0,-24.0,Jack Johnson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:16:39Z,3,14:58,05:02,Shot,Wrist Shot,-45.0,-31.0,Jared McCann,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:16:51Z,3,15:10,04:50,Takeaway,n/a,-98.0,-7.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:17:10Z,3,15:29,04:31,Giveaway,n/a,92.0,-25.0,Brandon Tanev,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:17:22Z,3,15:41,04:19,Hit,n/a,-96.0,-16.0,Anders Lee,Hitter,New York Islanders,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:17:34Z,3,15:53,04:07,Hit,n/a,55.0,39.0,Zach Aston-Reese,Hitter,Pittsburgh Penguins,Mathew Barzal,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:17:37Z,3,15:56,04:04,Blocked Shot,n/a,73.0,-1.0,Teddy Blueger,Blocker,Pittsburgh Penguins,Josh Bailey,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:17:44Z,3,16:03,03:57,Blocked Shot,n/a,80.0,-10.0,Brian Dumoulin,Blocker,Pittsburgh Penguins,Anders Lee,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:18:03Z,3,16:22,03:38,Takeaway,n/a,-96.0,0.0,Derick Brassard,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:18:10Z,3,16:29,03:31,Hit,n/a,30.0,38.0,Juuso Riikola,Hitter,Pittsburgh Penguins,Brock Nelson,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:20:46Z,3,16:55,03:05,Faceoff,n/a,69.0,-22.0,Mathew Barzal,Winner,New York Islanders,Teddy Blueger,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:21:16Z,3,17:07,02:53,Shot,Wrist Shot,-33.0,17.0,John Marino,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:21:31Z,3,17:22,02:38,Shot,Wrist Shot,61.0,19.0,Devon Toews,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:21:51Z,3,17:22,02:38,Faceoff,n/a,69.0,22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:22:26Z,3,17:33,02:27,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Evgeni Malkin,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:23:08Z,3,17:50,02:10,Hit,n/a,57.0,-38.0,Jared McCann,Hitter,Pittsburgh Penguins,Brock Nelson,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:23:15Z,3,17:58,02:02,Missed Shot,n/a,33.0,-33.0,Ryan Pulock,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:23:21Z,3,18:04,01:56,Giveaway,n/a,95.0,16.0,Marcus Pettersson,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:23:31Z,3,18:14,01:46,Shot,Wrist Shot,49.0,21.0,Adam Pelech,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:24:12Z,3,18:54,01:06,Hit,n/a,-57.0,-40.0,Scott Mayfield,Hitter,New York Islanders,Sidney Crosby,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:24:14Z,3,18:57,01:03,Shot,Wrist Shot,-48.0,-19.0,Jake Guentzel,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:24:28Z,3,19:10,00:50,Shot,Slap Shot,32.0,-31.0,Ryan Pulock,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:24:56Z,3,19:10,00:50,Faceoff,n/a,69.0,-22.0,Teddy Blueger,Winner,Pittsburgh Penguins,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:25:25Z,3,19:31,00:29,Giveaway,n/a,-94.0,22.0,Adam Pelech,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:25:38Z,3,19:44,00:16,Hit,n/a,-14.0,39.0,Anders Lee,Hitter,New York Islanders,Teddy Blueger,Hittee,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:28:02Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Brock Nelson,Winner,New York Islanders,Sidney Crosby,Loser,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:29:34Z,4,01:18,03:42,Shot,Wrist Shot,-46.0,-24.0,Anders Lee,Shooter,New York Islanders,Matt Murray,Goalie,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:30:04Z,4,01:48,03:12,Blocked Shot,n/a,-78.0,12.0,Justin Schultz,Blocker,Pittsburgh Penguins,Derick Brassard,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:30:14Z,4,01:58,03:02,Hit,n/a,-54.0,-38.0,Brian Dumoulin,Hitter,Pittsburgh Penguins,Derick Brassard,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:30:43Z,4,02:09,02:51,Faceoff,n/a,69.0,-22.0,Nick Bjugstad,Winner,Pittsburgh Penguins,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:31:06Z,4,02:23,02:37,Missed Shot,n/a,70.0,11.0,Nick Bjugstad,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:31:30Z,4,02:24,02:36,Faceoff,n/a,20.0,22.0,Sidney Crosby,Winner,Pittsburgh Penguins,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:32:14Z,4,02:53,02:07,Missed Shot,n/a,59.0,17.0,Sidney Crosby,Shooter,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:32:21Z,4,03:00,02:00,Takeaway,n/a,-51.0,-27.0,Jake Guentzel,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:32:26Z,4,03:05,01:55,Shot,Wrist Shot,61.0,-26.0,Sidney Crosby,Shooter,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:32:44Z,4,03:05,01:55,Faceoff,n/a,69.0,-22.0,Evgeni Malkin,Winner,Pittsburgh Penguins,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:33:14Z,4,03:25,01:35,Takeaway,n/a,94.0,5.0,Bryan Rust,PlayerID,Pittsburgh Penguins,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-08T02:33:18Z,4,03:25,01:35,Goal,Wrap-around,88.0,7.0,Bryan Rust,Scorer,Pittsburgh Penguins,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a

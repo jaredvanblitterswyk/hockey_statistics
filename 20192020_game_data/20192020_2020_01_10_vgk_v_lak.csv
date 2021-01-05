@@ -1,0 +1,287 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-10T03:08:01Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Paul Stastny,Winner,Vegas Golden Knights,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:08:40Z,1,00:12,19:48,Giveaway,n/a,-10.0,0.0,Alex Iafallo,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:09:16Z,1,00:48,19:12,Shot,Wrist Shot,1.0,41.0,Ben Hutton,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:09:37Z,1,00:56,19:04,Hit,n/a,-7.0,-39.0,Austin Wagner,Hitter,Los Angeles Kings,Nick Holden,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:10:11Z,1,01:42,18:18,Blocked Shot,n/a,-66.0,-15.0,Kurtis MacDermid,Blocker,Los Angeles Kings,Tomas Nosek,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:10:27Z,1,01:57,18:03,Shot,Wrist Shot,-38.0,-15.0,Nicolas Hague,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:10:29Z,1,02:00,18:00,Hit,n/a,-38.0,40.0,Tomas Nosek,Hitter,Vegas Golden Knights,Nikolai Prokhorkin,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:10:49Z,1,02:21,17:39,Hit,n/a,96.0,-4.0,Deryk Engelland,Hitter,Vegas Golden Knights,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:11:04Z,1,02:36,17:24,Hit,n/a,-1.0,-41.0,William Carrier,Hitter,Vegas Golden Knights,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:11:10Z,1,02:42,17:18,Hit,n/a,34.0,-41.0,Ben Hutton,Hitter,Los Angeles Kings,William Carrier,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:11:17Z,1,02:49,17:11,Hit,n/a,-95.0,20.0,Nicolas Roy,Hitter,Vegas Golden Knights,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:11:34Z,1,03:06,16:54,Hit,n/a,-95.0,2.0,Nicolas Roy,Hitter,Vegas Golden Knights,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:11:42Z,1,03:13,16:47,Blocked Shot,n/a,71.0,17.0,William Carrier,Blocker,Vegas Golden Knights,Anze Kopitar,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:11:58Z,1,03:27,16:33,Missed Shot,n/a,61.0,-1.0,Alex Iafallo,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:12:01Z,1,03:33,16:27,Hit,n/a,99.0,14.0,Alex Iafallo,Hitter,Los Angeles Kings,Nick Holden,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:12:33Z,1,04:05,15:55,Shot,Wrist Shot,62.0,31.0,Adrian Kempe,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:12:40Z,1,04:11,15:49,Blocked Shot,n/a,80.0,7.0,Brayden McNabb,Blocker,Vegas Golden Knights,Kurtis MacDermid,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:12:46Z,1,04:17,15:43,Blocked Shot,n/a,46.0,24.0,Brayden McNabb,Blocker,Vegas Golden Knights,Kurtis MacDermid,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:12:54Z,1,04:25,15:35,Takeaway,n/a,65.0,-39.0,Max Pacioretty,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:13:03Z,1,04:34,15:26,Takeaway,n/a,-14.0,1.0,Mark Stone,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:13:06Z,1,04:37,15:23,Shot,Wrist Shot,-50.0,32.0,Max Pacioretty,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:13:21Z,1,04:38,15:22,Faceoff,n/a,-69.0,22.0,William Karlsson,Winner,Vegas Golden Knights,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:14:06Z,1,04:59,15:01,Shot,Wrist Shot,64.0,28.0,Jeff Carter,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:14:46Z,1,05:12,14:48,Faceoff,n/a,-69.0,-22.0,William Karlsson,Winner,Vegas Golden Knights,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:15:04Z,1,05:27,14:33,Shot,Snap Shot,-58.0,-23.0,Reilly Smith,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:15:26Z,1,05:28,14:32,Faceoff,n/a,-69.0,-22.0,Trevor Lewis,Winner,Los Angeles Kings,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:15:48Z,1,05:32,14:28,Takeaway,n/a,-97.0,1.0,William Carrier,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:15:50Z,1,05:32,14:28,Shot,Tip-In,-84.0,-1.0,Ryan Reaves,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:16:08Z,1,05:33,14:27,Faceoff,n/a,-69.0,-22.0,Trevor Lewis,Winner,Los Angeles Kings,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:16:23Z,1,05:39,14:21,Hit,n/a,-56.0,40.0,Ryan Reaves,Hitter,Vegas Golden Knights,Kyle Clifford,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:16:33Z,1,05:41,14:19,Faceoff,n/a,-20.0,22.0,Nicolas Roy,Winner,Vegas Golden Knights,Trevor Lewis,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:16:49Z,1,05:47,14:13,Hit,n/a,-21.0,-41.0,Matt Luff,Hitter,Los Angeles Kings,Nicolas Hague,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:17:02Z,1,05:59,14:01,Hit,n/a,50.0,-41.0,Matt Luff,Hitter,Los Angeles Kings,William Carrier,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:17:15Z,1,06:13,13:47,Hit,n/a,-97.0,-11.0,Anze Kopitar,Hitter,Los Angeles Kings,Tomas Nosek,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:17:20Z,1,06:18,13:42,Missed Shot,n/a,-86.0,32.0,Cody Eakin,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:17:26Z,1,06:22,13:38,Missed Shot,n/a,-31.0,-39.0,Brayden McNabb,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:17:59Z,1,06:56,13:04,Blocked Shot,n/a,38.0,-34.0,Brayden McNabb,Blocker,Vegas Golden Knights,Drew Doughty,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:18:13Z,1,07:07,12:53,Shot,Wrist Shot,-63.0,0.0,Mark Stone,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:20:12Z,1,07:07,12:53,Faceoff,n/a,-69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:20:29Z,1,07:14,12:46,Shot,Wrist Shot,-32.0,-37.0,Nicolas Hague,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:20:40Z,1,07:15,12:45,Faceoff,n/a,-69.0,-22.0,Michael Amadio,Winner,Los Angeles Kings,Max Pacioretty,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:21:04Z,1,07:21,12:39,Hit,n/a,-28.0,41.0,Adrian Kempe,Hitter,Los Angeles Kings,Deryk Engelland,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:21:19Z,1,07:37,12:23,Shot,Wrist Shot,-51.0,13.0,Max Pacioretty,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:21:25Z,1,07:40,12:20,Takeaway,n/a,-29.0,-37.0,Nicolas Hague,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:21:26Z,1,07:41,12:19,Blocked Shot,n/a,-73.0,-6.0,Ben Hutton,Blocker,Los Angeles Kings,Nicolas Hague,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:21:41Z,1,07:52,12:08,Shot,Wrist Shot,46.0,30.0,Adrian Kempe,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:21:51Z,1,08:08,11:52,Takeaway,n/a,-99.0,-19.0,William Karlsson,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:22:06Z,1,08:19,11:41,Shot,Wrist Shot,-57.0,21.0,Shea Theodore,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:22:26Z,1,08:20,11:40,Faceoff,n/a,-69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Chandler Stephenson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:23:09Z,1,08:29,11:31,Takeaway,n/a,35.0,28.0,Shea Theodore,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:23:22Z,1,08:46,11:14,Hit,n/a,28.0,-39.0,Nick Holden,Hitter,Vegas Golden Knights,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:24:08Z,1,09:29,10:31,Hit,n/a,-95.0,-26.0,Ryan Reaves,Hitter,Vegas Golden Knights,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:24:19Z,1,09:29,10:31,Hit,n/a,-94.0,-24.0,Kyle Clifford,Hitter,Los Angeles Kings,Ryan Reaves,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:24:16Z,1,09:37,10:23,Takeaway,n/a,7.0,-38.0,William Carrier,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:24:29Z,1,09:53,10:07,Hit,n/a,-52.0,39.0,Ryan Reaves,Hitter,Vegas Golden Knights,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:24:41Z,1,10:05,09:55,Shot,Wrist Shot,-74.0,23.0,Alex Tuch,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:25:21Z,1,10:46,09:14,Missed Shot,n/a,-64.0,-1.0,Tomas Nosek,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:27:44Z,1,10:54,09:06,Faceoff,n/a,0.0,0.0,Paul Stastny,Winner,Vegas Golden Knights,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:28:44Z,1,11:48,08:12,Shot,Tip-In,5.0,-34.0,Jeff Carter,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:29:09Z,1,12:14,07:46,Blocked Shot,n/a,64.0,18.0,Shea Theodore,Blocker,Vegas Golden Knights,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:29:15Z,1,12:16,07:44,Shot,Wrist Shot,89.0,6.0,Dustin Brown,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:29:24Z,1,12:23,07:37,Shot,Wrist Shot,44.0,28.0,Nikolai Prokhorkin,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:29:52Z,1,12:36,07:24,Faceoff,n/a,69.0,-22.0,Trevor Lewis,Winner,Los Angeles Kings,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:30:01Z,1,12:40,07:20,Shot,Wrist Shot,44.0,-23.0,Kyle Clifford,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:31:01Z,1,13:14,06:46,Faceoff,n/a,-20.0,22.0,Nicolas Roy,Winner,Vegas Golden Knights,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:31:09Z,1,13:20,06:40,Hit,n/a,-28.0,-38.0,Austin Wagner,Hitter,Los Angeles Kings,Nicolas Hague,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:31:20Z,1,13:31,06:29,Blocked Shot,n/a,59.0,-17.0,Nicolas Hague,Blocker,Vegas Golden Knights,Drew Doughty,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:31:30Z,1,13:32,06:28,Missed Shot,n/a,55.0,23.0,Austin Wagner,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:31:46Z,1,13:34,06:26,Shot,Wrist Shot,32.0,-37.0,Michael Amadio,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:31:46Z,1,13:40,06:20,Goal,Slap Shot,33.0,30.0,Alec Martinez,Scorer,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:32:05Z,1,13:40,06:20,Faceoff,n/a,0.0,0.0,Jeff Carter,Winner,Los Angeles Kings,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:32:30Z,1,13:59,06:01,Shot,Wrist Shot,42.0,-21.0,Jeff Carter,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:32:40Z,1,14:09,05:51,Hit,n/a,-10.0,-38.0,Jeff Carter,Hitter,Los Angeles Kings,Tomas Nosek,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:33:02Z,1,14:27,05:33,Blocked Shot,n/a,-61.0,-16.0,Drew Doughty,Blocker,Los Angeles Kings,Alex Tuch,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:33:19Z,1,14:45,05:15,Shot,Slap Shot,-53.0,17.0,Mark Stone,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:33:34Z,1,15:01,04:59,Goal,Slap Shot,47.0,24.0,Ben Hutton,Scorer,Los Angeles Kings,Tyler Toffoli,Assist,Los Angeles Kings,Alex Iafallo,Assist,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights
+2020-01-10T03:34:11Z,1,15:01,04:59,Faceoff,n/a,0.0,0.0,William Karlsson,Winner,Vegas Golden Knights,Trevor Lewis,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:34:50Z,1,15:33,04:27,Missed Shot,n/a,72.0,-3.0,Nikolai Prokhorkin,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:35:02Z,1,15:45,04:15,Blocked Shot,n/a,-64.0,-9.0,Sean Walker,Blocker,Los Angeles Kings,William Karlsson,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:37:12Z,1,15:54,04:06,Faceoff,n/a,20.0,22.0,Cody Eakin,Winner,Vegas Golden Knights,Adrian Kempe,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:37:41Z,1,16:17,03:43,Shot,Snap Shot,45.0,-12.0,Sean Walker,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:38:05Z,1,16:18,03:42,Faceoff,n/a,69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:38:19Z,1,16:23,03:37,Shot,Slap Shot,48.0,32.0,Alec Martinez,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:38:35Z,1,16:33,03:27,Faceoff,n/a,69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:40:06Z,1,17:32,02:28,Faceoff,n/a,20.0,22.0,William Karlsson,Winner,Vegas Golden Knights,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:40:28Z,1,17:47,02:13,Hit,n/a,97.0,22.0,Nick Holden,Hitter,Vegas Golden Knights,Nikolai Prokhorkin,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:40:42Z,1,18:01,01:59,Blocked Shot,n/a,79.0,-15.0,Shea Theodore,Blocker,Vegas Golden Knights,Jeff Carter,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:41:23Z,1,18:42,01:18,Shot,Wrist Shot,63.0,11.0,Adrian Kempe,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:41:46Z,1,18:42,01:18,Faceoff,n/a,69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:41:59Z,1,18:44,01:16,Goal,Wrist Shot,59.0,18.0,Tyler Toffoli,Scorer,Los Angeles Kings,Anze Kopitar,Assist,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a
+2020-01-10T03:42:27Z,1,18:44,01:16,Faceoff,n/a,0.0,0.0,Anze Kopitar,Winner,Los Angeles Kings,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:42:49Z,1,18:59,01:01,Blocked Shot,n/a,34.0,35.0,Alex Tuch,Blocker,Vegas Golden Knights,Alec Martinez,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:42:52Z,1,19:04,00:56,Giveaway,n/a,46.0,-21.0,Anze Kopitar,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:43:01Z,1,19:13,00:47,Hit,n/a,-98.0,-13.0,Tomas Nosek,Hitter,Vegas Golden Knights,Alec Martinez,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:43:23Z,1,19:35,00:25,Hit,n/a,18.0,-34.0,Nicolas Hague,Hitter,Vegas Golden Knights,Austin Wagner,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:43:38Z,1,19:50,00:10,Hit,n/a,0.0,-39.0,Mark Stone,Hitter,Vegas Golden Knights,Michael Amadio,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:43:44Z,1,19:55,00:05,Shot,Wrist Shot,77.0,-7.0,Michael Amadio,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T03:43:58Z,1,19:56,00:04,Goal,Tip-In,86.0,0.0,Adrian Kempe,Scorer,Los Angeles Kings,Michael Amadio,Assist,Los Angeles Kings,Matt Roy,Assist,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights
+2020-01-10T03:44:26Z,1,19:56,00:04,Faceoff,n/a,0.0,0.0,William Karlsson,Winner,Vegas Golden Knights,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:03:39Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Paul Stastny,Winner,Vegas Golden Knights,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:03:56Z,2,00:15,19:45,Shot,Wrist Shot,53.0,37.0,Max Pacioretty,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:03:56Z,2,00:16,19:44,Faceoff,n/a,69.0,22.0,Michael Amadio,Winner,Los Angeles Kings,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:04:21Z,2,00:25,19:35,Faceoff,n/a,69.0,22.0,Michael Amadio,Winner,Los Angeles Kings,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:04:37Z,2,00:37,19:23,Shot,Snap Shot,75.0,11.0,Mark Stone,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:04:43Z,2,00:43,19:17,Shot,Snap Shot,73.0,-1.0,Max Pacioretty,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:04:49Z,2,00:47,19:13,Shot,Slap Shot,36.0,24.0,Brayden McNabb,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:04:50Z,2,00:51,19:09,Hit,n/a,80.0,39.0,Max Pacioretty,Hitter,Vegas Golden Knights,Michael Amadio,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:04:56Z,2,00:56,19:04,Shot,Tip-In,70.0,4.0,Mark Stone,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:05:24Z,2,00:56,19:04,Faceoff,n/a,69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:05:45Z,2,01:07,18:53,Takeaway,n/a,86.0,13.0,Sean Walker,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:06:03Z,2,01:25,18:35,Takeaway,n/a,17.0,24.0,Sean Walker,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:06:19Z,2,01:42,18:18,Hit,n/a,91.0,35.0,Chandler Stephenson,Hitter,Vegas Golden Knights,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:06:50Z,2,02:02,17:58,Faceoff,n/a,69.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Trevor Lewis,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:07:11Z,2,02:06,17:54,Missed Shot,n/a,32.0,2.0,Nicolas Hague,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:07:14Z,2,02:09,17:51,Hit,n/a,88.0,-36.0,Max Pacioretty,Hitter,Vegas Golden Knights,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:07:23Z,2,02:19,17:41,Missed Shot,n/a,33.0,-12.0,Deryk Engelland,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:07:34Z,2,02:21,17:39,Shot,Slap Shot,38.0,23.0,Nicolas Hague,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:07:29Z,2,02:25,17:35,Hit,n/a,67.0,-40.0,Kyle Clifford,Hitter,Los Angeles Kings,Deryk Engelland,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:07:35Z,2,02:31,17:29,Hit,n/a,71.0,42.0,Nicolas Hague,Hitter,Vegas Golden Knights,Trevor Lewis,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:08:00Z,2,02:42,17:18,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:08:15Z,2,02:48,17:12,Blocked Shot,n/a,-48.0,20.0,Max Pacioretty,Blocker,Vegas Golden Knights,Drew Doughty,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:08:38Z,2,03:10,16:50,Giveaway,n/a,-74.0,40.0,Cody Eakin,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:08:40Z,2,03:11,16:49,Blocked Shot,n/a,-69.0,-1.0,Nate Schmidt,Blocker,Vegas Golden Knights,Tyler Toffoli,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:08:51Z,2,03:24,16:36,Takeaway,n/a,97.0,4.0,Alex Tuch,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:08:58Z,2,03:30,16:30,Shot,Tip-In,82.0,0.0,Cody Eakin,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:09:43Z,2,03:39,16:21,Faceoff,n/a,-69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Cody Eakin,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:10:00Z,2,03:42,16:18,Blocked Shot,n/a,-76.0,13.0,Cody Eakin,Blocker,Vegas Golden Knights,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:10:35Z,2,04:24,15:36,Shot,Wrap-around,90.0,4.0,Ryan Reaves,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:10:44Z,2,04:25,15:35,Shot,Wrist Shot,88.0,5.0,Ryan Reaves,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:11:04Z,2,04:25,15:35,Faceoff,n/a,69.0,22.0,William Karlsson,Winner,Vegas Golden Knights,Kyle Clifford,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:11:41Z,2,04:28,15:32,Shot,Slap Shot,31.0,5.0,Shea Theodore,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:12:00Z,2,04:29,15:31,Faceoff,n/a,69.0,22.0,William Karlsson,Winner,Vegas Golden Knights,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:12:11Z,2,04:33,15:27,Shot,Wrist Shot,87.0,31.0,Reilly Smith,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:12:20Z,2,04:34,15:26,Faceoff,n/a,69.0,22.0,William Karlsson,Winner,Vegas Golden Knights,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:12:57Z,2,05:02,14:58,Giveaway,n/a,-27.0,40.0,William Karlsson,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:13:02Z,2,05:07,14:53,Hit,n/a,0.0,-40.0,Chandler Stephenson,Hitter,Vegas Golden Knights,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:13:35Z,2,05:21,14:39,Faceoff,n/a,-69.0,22.0,William Karlsson,Winner,Vegas Golden Knights,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:13:53Z,2,05:33,14:27,Takeaway,n/a,85.0,-14.0,Michael Amadio,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:14:01Z,2,05:41,14:19,Hit,n/a,-97.0,3.0,Nicolas Hague,Hitter,Vegas Golden Knights,Austin Wagner,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:14:15Z,2,05:48,14:12,Hit,n/a,-98.0,-9.0,Austin Wagner,Hitter,Los Angeles Kings,Deryk Engelland,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:14:21Z,2,06:00,14:00,Blocked Shot,n/a,76.0,-13.0,Michael Amadio,Blocker,Los Angeles Kings,Deryk Engelland,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:14:42Z,2,06:22,13:38,Takeaway,n/a,36.0,23.0,Paul Stastny,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:16:52Z,2,06:33,13:27,Faceoff,n/a,20.0,-22.0,Trevor Lewis,Winner,Los Angeles Kings,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:17:08Z,2,06:41,13:19,Hit,n/a,47.0,42.0,Ryan Reaves,Hitter,Vegas Golden Knights,Sean Walker,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:17:36Z,2,07:08,12:52,Blocked Shot,n/a,41.0,-35.0,Kyle Clifford,Blocker,Los Angeles Kings,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:17:50Z,2,07:22,12:38,Hit,n/a,96.0,24.0,Ryan Reaves,Hitter,Vegas Golden Knights,Kurtis MacDermid,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:18:08Z,2,07:40,12:20,Shot,Wrist Shot,82.0,-4.0,Alex Tuch,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:18:19Z,2,07:51,12:09,Giveaway,n/a,35.0,0.0,Cody Eakin,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:18:37Z,2,07:54,12:06,Faceoff,n/a,69.0,22.0,Tomas Nosek,Winner,Vegas Golden Knights,Trevor Lewis,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:19:39Z,2,08:41,11:19,Shot,Slap Shot,32.0,-36.0,Shea Theodore,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:19:50Z,2,08:52,11:08,Missed Shot,n/a,-53.0,22.0,Tyler Toffoli,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:19:57Z,2,08:59,11:01,Giveaway,n/a,-34.0,-36.0,Max Pacioretty,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:20:24Z,2,09:25,10:35,Shot,Wrist Shot,80.0,5.0,Deryk Engelland,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:20:31Z,2,09:32,10:28,Shot,Wrist Shot,66.0,-20.0,Max Pacioretty,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:20:47Z,2,09:49,10:11,Shot,Backhand,77.0,-21.0,William Karlsson,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:21:08Z,2,09:49,10:11,Faceoff,n/a,69.0,-22.0,Adrian Kempe,Winner,Los Angeles Kings,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:21:38Z,2,10:01,09:59,Faceoff,n/a,69.0,22.0,William Karlsson,Winner,Vegas Golden Knights,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:21:58Z,2,10:05,09:55,Missed Shot,n/a,32.0,34.0,Deryk Engelland,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:22:29Z,2,10:36,09:24,Shot,Snap Shot,69.0,9.0,Reilly Smith,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:22:37Z,2,10:44,09:16,Giveaway,n/a,99.0,6.0,Reilly Smith,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:22:42Z,2,10:47,09:13,Hit,n/a,34.0,41.0,Chandler Stephenson,Hitter,Vegas Golden Knights,Ben Hutton,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:24:51Z,2,10:48,09:12,Faceoff,n/a,0.0,0.0,Tyler Toffoli,Winner,Los Angeles Kings,Tomas Nosek,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:25:44Z,2,11:13,08:47,Faceoff,n/a,69.0,22.0,Anze Kopitar,Winner,Los Angeles Kings,Tomas Nosek,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:26:28Z,2,11:35,08:25,Faceoff,n/a,-69.0,22.0,Jeff Carter,Winner,Los Angeles Kings,Tomas Nosek,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:26:54Z,2,11:42,08:18,Missed Shot,n/a,68.0,-14.0,Alex Tuch,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:27:19Z,2,11:44,08:16,Faceoff,n/a,69.0,-22.0,Jeff Carter,Winner,Los Angeles Kings,Mark Stone,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:28:02Z,2,12:09,07:51,Takeaway,n/a,-1.0,-38.0,Mark Stone,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:28:05Z,2,12:12,07:48,Blocked Shot,n/a,75.0,5.0,Jeff Carter,Blocker,Los Angeles Kings,Nicolas Hague,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:28:17Z,2,12:22,07:38,Shot,Wrist Shot,-53.0,-14.0,Austin Wagner,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:28:17Z,2,12:27,07:33,Shot,Backhand,-74.0,2.0,Nikolai Prokhorkin,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:29:02Z,2,12:38,07:22,Faceoff,n/a,20.0,-22.0,Nicolas Roy,Winner,Vegas Golden Knights,Adrian Kempe,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:29:11Z,2,12:48,07:12,Hit,n/a,95.0,28.0,Nicolas Roy,Hitter,Vegas Golden Knights,Matt Roy,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:29:18Z,2,12:55,07:05,Giveaway,n/a,18.0,36.0,Michael Amadio,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:29:55Z,2,13:14,06:46,Faceoff,n/a,-69.0,22.0,Nicolas Roy,Winner,Vegas Golden Knights,Trevor Lewis,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:30:58Z,2,13:49,06:11,Faceoff,n/a,-69.0,22.0,William Karlsson,Winner,Vegas Golden Knights,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:31:10Z,2,13:55,06:05,Takeaway,n/a,-11.0,-40.0,Alec Martinez,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:33:42Z,2,14:19,05:41,Faceoff,n/a,-20.0,22.0,Jeff Carter,Winner,Los Angeles Kings,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:33:54Z,2,14:25,05:35,Takeaway,n/a,-3.0,17.0,Reilly Smith,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:33:58Z,2,14:29,05:31,Shot,Wrist Shot,54.0,14.0,Reilly Smith,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:34:04Z,2,14:35,05:25,Hit,n/a,97.0,13.0,Chandler Stephenson,Hitter,Vegas Golden Knights,Alec Martinez,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:34:07Z,2,14:38,05:22,Shot,Wrist Shot,78.0,3.0,Reilly Smith,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:34:14Z,2,14:38,05:22,Goal,Wrist Shot,83.0,6.0,Reilly Smith,Scorer,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:34:43Z,2,14:38,05:22,Faceoff,n/a,0.0,0.0,Paul Stastny,Winner,Vegas Golden Knights,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:34:57Z,2,14:45,05:15,Shot,Wrist Shot,50.0,39.0,Max Pacioretty,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:35:15Z,2,14:45,05:15,Faceoff,n/a,69.0,22.0,Michael Amadio,Winner,Los Angeles Kings,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:36:10Z,2,15:34,04:26,Goal,Wrist Shot,84.0,11.0,Max Pacioretty,Scorer,Vegas Golden Knights,Paul Stastny,Assist,Vegas Golden Knights,Mark Stone,Assist,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings
+2020-01-10T04:36:44Z,2,15:34,04:26,Faceoff,n/a,0.0,0.0,William Karlsson,Winner,Vegas Golden Knights,Trevor Lewis,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:36:52Z,2,15:40,04:20,Hit,n/a,-14.0,41.0,Nicolas Hague,Hitter,Vegas Golden Knights,Matt Luff,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:37:17Z,2,16:06,03:54,Blocked Shot,n/a,72.0,2.0,Kyle Clifford,Blocker,Los Angeles Kings,Nicolas Hague,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:37:18Z,2,16:07,03:53,Hit,n/a,80.0,40.0,Matt Luff,Hitter,Los Angeles Kings,Nicolas Hague,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:37:44Z,2,16:13,03:47,Faceoff,n/a,69.0,22.0,Trevor Lewis,Winner,Los Angeles Kings,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:38:02Z,2,16:28,03:32,Giveaway,n/a,-60.0,40.0,Matt Luff,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:38:13Z,2,16:38,03:22,Blocked Shot,n/a,76.0,1.0,Anze Kopitar,Blocker,Los Angeles Kings,Nate Schmidt,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:38:33Z,2,16:59,03:01,Missed Shot,n/a,-45.0,-30.0,Tyler Toffoli,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:38:44Z,2,17:10,02:50,Shot,Snap Shot,-48.0,0.0,Anze Kopitar,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:38:51Z,2,17:12,02:48,Missed Shot,n/a,-80.0,20.0,Alex Iafallo,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:39:11Z,2,17:36,02:24,Hit,n/a,-89.0,33.0,Nick Holden,Hitter,Vegas Golden Knights,Jeff Carter,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:39:20Z,2,17:40,02:20,Faceoff,n/a,-69.0,22.0,Cody Eakin,Winner,Vegas Golden Knights,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:39:55Z,2,17:45,02:15,Missed Shot,n/a,-66.0,8.0,Dustin Brown,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:39:57Z,2,17:58,02:02,Hit,n/a,-26.0,-36.0,Jeff Carter,Hitter,Los Angeles Kings,Tomas Nosek,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:40:12Z,2,18:13,01:47,Hit,n/a,86.0,-33.0,Sean Walker,Hitter,Los Angeles Kings,Alex Tuch,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:40:18Z,2,18:20,01:40,Blocked Shot,n/a,69.0,4.0,Kurtis MacDermid,Blocker,Los Angeles Kings,Nick Holden,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:40:41Z,2,18:42,01:18,Takeaway,n/a,42.0,-28.0,Adrian Kempe,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:40:44Z,2,18:46,01:14,Takeaway,n/a,27.0,-26.0,Deryk Engelland,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:40:51Z,2,18:52,01:08,Hit,n/a,-6.0,41.0,Nicolas Hague,Hitter,Vegas Golden Knights,Michael Amadio,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:41:20Z,2,19:21,00:39,Takeaway,n/a,76.0,-40.0,William Karlsson,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:41:21Z,2,19:22,00:38,Shot,Wrist Shot,45.0,-11.0,Nate Schmidt,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:41:36Z,2,19:37,00:23,Blocked Shot,n/a,-75.0,11.0,Brayden McNabb,Blocker,Vegas Golden Knights,Matt Roy,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:41:52Z,2,19:53,00:07,Shot,Wrist Shot,87.0,24.0,Max Pacioretty,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T04:42:00Z,2,19:57,00:03,Missed Shot,n/a,45.0,-24.0,Nate Schmidt,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:00:39Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Paul Stastny,Winner,Vegas Golden Knights,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:01:26Z,3,00:47,19:13,Takeaway,n/a,-63.0,-38.0,Mark Stone,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:01:33Z,3,00:54,19:06,Hit,n/a,-96.0,-23.0,Anze Kopitar,Hitter,Los Angeles Kings,Paul Stastny,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:02:04Z,3,01:21,18:39,Faceoff,n/a,-69.0,-22.0,William Karlsson,Winner,Vegas Golden Knights,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:02:24Z,3,01:24,18:36,Shot,Wrist Shot,-57.0,-38.0,Nick Holden,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:02:31Z,3,01:27,18:33,Blocked Shot,n/a,-64.0,-31.0,Austin Wagner,Blocker,Los Angeles Kings,Chandler Stephenson,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:02:40Z,3,01:29,18:31,Faceoff,n/a,-69.0,-22.0,William Karlsson,Winner,Vegas Golden Knights,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:03:11Z,3,01:51,18:09,Blocked Shot,n/a,65.0,13.0,Shea Theodore,Blocker,Vegas Golden Knights,Austin Wagner,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:03:32Z,3,01:52,18:08,Faceoff,n/a,69.0,22.0,Cody Eakin,Winner,Vegas Golden Knights,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:04:10Z,3,02:21,17:39,Shot,Wrist Shot,-57.0,26.0,Alex Tuch,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:04:15Z,3,02:26,17:34,Takeaway,n/a,-89.0,25.0,Cody Eakin,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:04:20Z,3,02:32,17:28,Missed Shot,n/a,-57.0,2.0,William Carrier,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:04:29Z,3,02:37,17:23,Shot,Slap Shot,-39.0,30.0,Deryk Engelland,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:04:41Z,3,02:37,17:23,Faceoff,n/a,-69.0,22.0,Nicolas Roy,Winner,Vegas Golden Knights,Trevor Lewis,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:05:00Z,3,02:41,17:19,Shot,Snap Shot,-35.0,-1.0,Shea Theodore,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:05:00Z,3,02:45,17:15,Hit,n/a,-74.0,-40.0,Ryan Reaves,Hitter,Vegas Golden Knights,Matt Luff,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:05:18Z,3,03:03,16:57,Hit,n/a,95.0,26.0,Nick Holden,Hitter,Vegas Golden Knights,Kyle Clifford,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:05:36Z,3,03:21,16:39,Hit,n/a,16.0,41.0,Matt Luff,Hitter,Los Angeles Kings,William Carrier,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:05:36Z,3,03:21,16:39,Missed Shot,n/a,77.0,-1.0,Trevor Lewis,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:05:57Z,3,03:42,16:18,Missed Shot,n/a,-73.0,-13.0,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:06:04Z,3,03:49,16:11,Takeaway,n/a,-21.0,-37.0,Brayden McNabb,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:06:59Z,3,03:50,16:10,Faceoff,n/a,-20.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:06:50Z,3,04:11,15:49,Takeaway,n/a,49.0,12.0,Nicolas Hague,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:07:08Z,3,04:28,15:32,Hit,n/a,99.0,-7.0,Mark Stone,Hitter,Vegas Golden Knights,Austin Wagner,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:07:17Z,3,04:38,15:22,Takeaway,n/a,52.0,-39.0,William Karlsson,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:08:21Z,3,05:14,14:46,Faceoff,n/a,-20.0,22.0,Cody Eakin,Winner,Vegas Golden Knights,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:09:09Z,3,05:58,14:02,Missed Shot,n/a,-58.0,9.0,Cody Eakin,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:09:18Z,3,06:05,13:55,Hit,n/a,-62.0,-40.0,Alex Tuch,Hitter,Vegas Golden Knights,Dustin Brown,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:09:20Z,3,06:09,13:51,Shot,Snap Shot,-44.0,-24.0,Nick Holden,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:09:35Z,3,06:24,13:36,Blocked Shot,n/a,-59.0,3.0,Drew Doughty,Blocker,Los Angeles Kings,Shea Theodore,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:09:36Z,3,06:25,13:35,Giveaway,n/a,-58.0,40.0,Nikolai Prokhorkin,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:09:45Z,3,06:33,13:27,Blocked Shot,n/a,-38.0,19.0,Jeff Carter,Blocker,Los Angeles Kings,Mark Stone,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:10:08Z,3,06:57,13:03,Shot,Wrist Shot,-32.0,-4.0,Shea Theodore,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:10:13Z,3,06:58,13:02,Shot,Wrist Shot,-78.0,-4.0,Nick Holden,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:10:18Z,3,06:58,13:02,Penalty,Slashing,-75.0,2.0,Drew Doughty,PenaltyOn,Los Angeles Kings,Mark Stone,DrewBy,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:12:00Z,3,06:58,13:02,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:13:37Z,3,08:12,11:48,Blocked Shot,n/a,-80.0,2.0,Matt Roy,Blocker,Los Angeles Kings,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:13:41Z,3,08:16,11:44,Hit,n/a,-84.0,35.0,Matt Roy,Hitter,Los Angeles Kings,Paul Stastny,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:14:11Z,3,08:46,11:14,Shot,Wrist Shot,-64.0,-19.0,William Karlsson,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:14:41Z,3,08:47,11:13,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:14:45Z,3,08:53,11:07,Shot,Wrist Shot,-69.0,-24.0,Sean Walker,Shooter,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:15:57Z,3,10:09,09:51,Hit,n/a,97.0,-25.0,Kyle Clifford,Hitter,Los Angeles Kings,Nick Holden,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:16:45Z,3,10:57,09:03,Takeaway,n/a,-40.0,-39.0,Brayden McNabb,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:17:05Z,3,11:16,08:44,Shot,Wrist Shot,0.0,-38.0,Nicolas Roy,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:17:23Z,3,11:35,08:25,Blocked Shot,n/a,-76.0,-26.0,Matt Roy,Blocker,Los Angeles Kings,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:17:39Z,3,11:51,08:09,Missed Shot,n/a,69.0,-16.0,Michael Amadio,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:18:12Z,3,12:23,07:37,Blocked Shot,n/a,-74.0,9.0,Trevor Lewis,Blocker,Los Angeles Kings,Reilly Smith,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:18:37Z,3,12:29,07:31,Shot,Wrist Shot,-57.0,-2.0,William Karlsson,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:20:37Z,3,12:30,07:30,Faceoff,n/a,-69.0,-22.0,William Karlsson,Winner,Vegas Golden Knights,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:20:42Z,3,12:35,07:25,Missed Shot,n/a,-66.0,-28.0,Reilly Smith,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:21:36Z,3,12:57,07:03,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:22:27Z,3,13:25,06:35,Faceoff,n/a,0.0,0.0,Cody Eakin,Winner,Vegas Golden Knights,Adrian Kempe,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:22:36Z,3,13:32,06:28,Faceoff,n/a,69.0,22.0,Cody Eakin,Winner,Vegas Golden Knights,Adrian Kempe,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:23:05Z,3,13:40,06:20,Takeaway,n/a,-5.0,-37.0,Michael Amadio,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:23:10Z,3,13:45,06:15,Hit,n/a,88.0,-36.0,Nicolas Hague,Hitter,Vegas Golden Knights,Michael Amadio,Hittee,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:23:33Z,3,14:08,05:52,Hit,n/a,-69.0,41.0,Adrian Kempe,Hitter,Los Angeles Kings,Shea Theodore,Hittee,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:23:51Z,3,14:26,05:34,Takeaway,n/a,-49.0,-1.0,Anze Kopitar,PlayerID,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:24:05Z,3,14:30,05:30,Faceoff,n/a,-69.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,Paul Stastny,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:24:33Z,3,14:48,05:12,Takeaway,n/a,92.0,29.0,Brayden McNabb,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:25:48Z,3,16:03,03:57,Giveaway,n/a,17.0,19.0,Shea Theodore,PlayerID,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:27:41Z,3,16:16,03:44,Faceoff,n/a,0.0,0.0,Cody Eakin,Winner,Vegas Golden Knights,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:29:34Z,3,17:07,02:53,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Michael Amadio,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:29:38Z,3,17:11,02:49,Blocked Shot,n/a,-73.0,1.0,Matt Roy,Blocker,Los Angeles Kings,Max Pacioretty,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:29:53Z,3,17:25,02:35,Missed Shot,n/a,52.0,-24.0,Austin Wagner,Shooter,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:30:41Z,3,18:14,01:46,Shot,Slap Shot,-32.0,22.0,Nate Schmidt,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:30:50Z,3,18:23,01:37,Shot,Slap Shot,-33.0,25.0,Nate Schmidt,Shooter,Vegas Golden Knights,Jack Campbell,Goalie,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:32:30Z,3,18:34,01:26,Faceoff,n/a,-20.0,-22.0,Anze Kopitar,Winner,Los Angeles Kings,William Karlsson,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:33:09Z,3,18:45,01:15,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:33:40Z,3,18:57,01:03,Faceoff,n/a,-20.0,22.0,Paul Stastny,Winner,Vegas Golden Knights,Anze Kopitar,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:34:16Z,3,19:14,00:46,Faceoff,n/a,-69.0,-22.0,Paul Stastny,Winner,Vegas Golden Knights,Jeff Carter,Loser,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:34:27Z,3,19:19,00:41,Blocked Shot,n/a,-82.0,-5.0,Alec Martinez,Blocker,Los Angeles Kings,Mark Stone,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:34:43Z,3,19:35,00:25,Missed Shot,n/a,-78.0,1.0,Alex Tuch,Shooter,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:35:05Z,3,19:50,00:10,Penalty,Slashing,22.0,-1.0,Paul Stastny,PenaltyOn,Vegas Golden Knights,Jeff Carter,DrewBy,Los Angeles Kings,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:35:33Z,3,19:50,00:10,Faceoff,n/a,69.0,22.0,Adrian Kempe,Winner,Los Angeles Kings,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:35:49Z,3,19:51,00:09,Goal,Wrist Shot,68.0,23.0,Adrian Kempe,Scorer,Los Angeles Kings,Malcolm Subban,Goalie,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-10T05:36:05Z,3,19:51,00:09,Faceoff,n/a,0.0,0.0,Adrian Kempe,Winner,Los Angeles Kings,Nicolas Roy,Loser,Vegas Golden Knights,n/a,n/a,n/a,n/a,n/a,n/a

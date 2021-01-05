@@ -1,0 +1,314 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-28T01:38:56Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:39:13Z,1,00:14,19:46,Shot,Wrist Shot,-36.0,-15.0,Duncan Keith,Shooter,Chicago Blackhawks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:39:21Z,1,00:14,19:46,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Dominik Kubalik,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:39:56Z,1,00:18,19:42,Hit,n/a,-90.0,-32.0,John Quenneville,Hitter,Chicago Blackhawks,Adam Pelech,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:39:59Z,1,00:35,19:25,Shot,Wrist Shot,-74.0,18.0,John Quenneville,Shooter,Chicago Blackhawks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:40:37Z,1,01:13,18:47,Hit,n/a,-86.0,37.0,Alex Nylander,Hitter,Chicago Blackhawks,Devon Toews,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:40:42Z,1,01:18,18:42,Giveaway,n/a,-68.0,41.0,Devon Toews,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:40:43Z,1,01:19,18:41,Blocked Shot,n/a,-76.0,3.0,Devon Toews,Blocker,New York Islanders,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:41:10Z,1,01:27,18:33,Faceoff,n/a,-20.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Derick Brassard,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:41:35Z,1,01:46,18:14,Takeaway,n/a,4.0,-16.0,Kirby Dach,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:41:53Z,1,02:04,17:56,Shot,Wrist Shot,82.0,13.0,Nick Leddy,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:42:04Z,1,02:14,17:46,Shot,Wrist Shot,-66.0,18.0,Kirby Dach,Shooter,Chicago Blackhawks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:42:20Z,1,02:14,17:46,Faceoff,n/a,-69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:42:56Z,1,02:27,17:33,Hit,n/a,-41.0,-39.0,Ryan Pulock,Hitter,New York Islanders,Zack Smith,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:42:42Z,1,02:28,17:32,Hit,n/a,-28.0,40.0,Casey Cizikas,Hitter,New York Islanders,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:42:47Z,1,02:33,17:27,Shot,Wrist Shot,50.0,9.0,Tom Kuhnhackl,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:43:11Z,1,02:33,17:27,Faceoff,n/a,69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:43:28Z,1,02:48,17:12,Takeaway,n/a,5.0,-25.0,Ross Johnston,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:43:49Z,1,03:09,16:51,Missed Shot,n/a,-68.0,4.0,John Quenneville,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:44:12Z,1,03:31,16:29,Shot,Wrist Shot,-49.0,31.0,Connor Murphy,Shooter,Chicago Blackhawks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:44:28Z,1,03:31,16:29,Faceoff,n/a,-69.0,22.0,Mathew Barzal,Winner,New York Islanders,Alex Nylander,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:45:12Z,1,03:39,16:21,Faceoff,n/a,20.0,22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:45:31Z,1,03:46,16:14,Hit,n/a,-21.0,-39.0,Anders Lee,Hitter,New York Islanders,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:45:51Z,1,04:06,15:54,Shot,Wrist Shot,-75.0,10.0,Connor Murphy,Shooter,Chicago Blackhawks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:46:23Z,1,04:08,15:52,Faceoff,n/a,-69.0,22.0,Derick Brassard,Winner,New York Islanders,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:46:57Z,1,04:24,15:36,Hit,n/a,94.0,26.0,Anthony Beauvillier,Hitter,New York Islanders,Dennis Gilbert,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:47:01Z,1,04:27,15:33,Blocked Shot,n/a,69.0,4.0,Dennis Gilbert,Blocker,Chicago Blackhawks,Anthony Beauvillier,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:47:11Z,1,04:27,15:33,Giveaway,n/a,60.0,-40.0,Dylan Strome,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:47:25Z,1,04:51,15:09,Takeaway,n/a,-11.0,-5.0,Casey Cizikas,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:47:37Z,1,05:03,14:57,Shot,Wrist Shot,-72.0,-25.0,Matthew Highmore,Shooter,Chicago Blackhawks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:47:52Z,1,05:03,14:57,Faceoff,n/a,-69.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Matt Martin,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:48:16Z,1,05:10,14:50,Blocked Shot,n/a,-53.0,-7.0,Scott Mayfield,Blocker,New York Islanders,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:48:26Z,1,05:14,14:46,Faceoff,n/a,20.0,-22.0,Casey Cizikas,Winner,New York Islanders,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:48:50Z,1,05:25,14:35,Hit,n/a,83.0,38.0,Matt Martin,Hitter,New York Islanders,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:49:12Z,1,05:29,14:31,Faceoff,n/a,-20.0,-22.0,Brock Nelson,Winner,New York Islanders,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:49:44Z,1,05:50,14:10,Goal,Tip-In,78.0,2.0,Ross Johnston,Scorer,New York Islanders,Josh Bailey,Assist,New York Islanders,Nick Leddy,Assist,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks
+2019-12-28T01:50:18Z,1,05:50,14:10,Faceoff,n/a,0.0,0.0,Ryan Carpenter,Winner,Chicago Blackhawks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:50:39Z,1,06:03,13:57,Hit,n/a,79.0,38.0,Connor Murphy,Hitter,Chicago Blackhawks,Mathew Barzal,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:50:54Z,1,06:17,13:43,Blocked Shot,n/a,52.0,9.0,Patrick Kane,Blocker,Chicago Blackhawks,Adam Pelech,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:51:03Z,1,06:26,13:34,Hit,n/a,45.0,-33.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Mathew Barzal,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:51:12Z,1,06:35,13:25,Hit,n/a,83.0,37.0,Mathew Barzal,Hitter,New York Islanders,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:51:19Z,1,06:37,13:23,Hit,n/a,92.0,-32.0,Jordan Eberle,Hitter,New York Islanders,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:51:23Z,1,06:46,13:14,Shot,Backhand,-81.0,-10.0,Ryan Carpenter,Shooter,Chicago Blackhawks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:51:38Z,1,07:01,12:59,Hit,n/a,86.0,34.0,Derick Brassard,Hitter,New York Islanders,Dennis Gilbert,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:51:45Z,1,07:08,12:52,Shot,Wrist Shot,-64.0,7.0,Dylan Strome,Shooter,Chicago Blackhawks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:52:12Z,1,07:34,12:26,Goal,Backhand,-69.0,1.0,Dennis Gilbert,Scorer,Chicago Blackhawks,Dylan Strome,Assist,Chicago Blackhawks,Duncan Keith,Assist,Chicago Blackhawks,Thomas Greiss,Goalie,New York Islanders
+2019-12-28T01:53:02Z,1,07:34,12:26,Faceoff,n/a,0.0,0.0,David Kampf,Winner,Chicago Blackhawks,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:53:04Z,1,07:42,12:18,Hit,n/a,-58.0,41.0,Adam Pelech,Hitter,New York Islanders,Matthew Highmore,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:53:13Z,1,07:51,12:09,Takeaway,n/a,69.0,40.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:53:17Z,1,07:55,12:05,Hit,n/a,97.0,15.0,Matt Martin,Hitter,New York Islanders,Duncan Keith,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:54:02Z,1,08:40,11:20,Shot,Wrist Shot,63.0,0.0,Brock Nelson,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:54:20Z,1,08:44,11:16,Shot,Wrist Shot,38.0,-29.0,Johnny Boychuk,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:54:07Z,1,08:45,11:15,Hit,n/a,89.0,-34.0,Brock Nelson,Hitter,New York Islanders,Jonathan Toews,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:56:04Z,1,08:45,11:15,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:56:28Z,1,08:51,11:09,Giveaway,n/a,65.0,-38.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:56:45Z,1,08:53,11:07,Shot,Wrist Shot,34.0,-28.0,Johnny Boychuk,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:56:50Z,1,08:56,11:04,Shot,Snap Shot,65.0,-19.0,Mathew Barzal,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:56:50Z,1,08:57,11:03,Faceoff,n/a,69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:57:14Z,1,09:15,10:45,Hit,n/a,-85.0,-28.0,Nick Leddy,Hitter,New York Islanders,Jonathan Toews,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:57:19Z,1,09:19,10:41,Hit,n/a,-97.0,-11.0,John Quenneville,Hitter,Chicago Blackhawks,Nick Leddy,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:57:37Z,1,09:27,10:33,Takeaway,n/a,-75.0,40.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:57:58Z,1,09:44,10:16,Giveaway,n/a,-65.0,-38.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:57:47Z,1,09:46,10:14,Goal,Wrist Shot,-66.0,-2.0,Dominik Kubalik,Scorer,Chicago Blackhawks,Patrick Kane,Assist,Chicago Blackhawks,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a
+2019-12-28T01:58:22Z,1,09:46,10:14,Faceoff,n/a,0.0,0.0,Derick Brassard,Winner,New York Islanders,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:58:53Z,1,09:53,10:07,Faceoff,n/a,-69.0,22.0,Derick Brassard,Winner,New York Islanders,Alex Nylander,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:59:30Z,1,10:05,09:55,Hit,n/a,98.0,-6.0,Olli Maatta,Hitter,Chicago Blackhawks,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T01:59:37Z,1,10:12,09:48,Missed Shot,n/a,32.0,33.0,Adam Pelech,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:00:02Z,1,10:38,09:22,Hit,n/a,50.0,-39.0,Olli Maatta,Hitter,Chicago Blackhawks,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:00:22Z,1,10:57,09:03,Hit,n/a,98.0,-9.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Matt Martin,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:00:34Z,1,11:09,08:51,Takeaway,n/a,-24.0,22.0,Devon Toews,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:01:17Z,1,11:52,08:08,Missed Shot,n/a,-38.0,-18.0,Duncan Keith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:01:23Z,1,11:56,08:04,Goal,Wrist Shot,-52.0,13.0,Alex DeBrincat,Scorer,Chicago Blackhawks,Dylan Strome,Assist,Chicago Blackhawks,Duncan Keith,Assist,Chicago Blackhawks,Thomas Greiss,Goalie,New York Islanders
+2019-12-28T02:02:08Z,1,11:56,08:04,Faceoff,n/a,0.0,0.0,David Kampf,Winner,Chicago Blackhawks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:02:43Z,1,12:03,07:57,Hit,n/a,-25.0,-40.0,Anders Lee,Hitter,New York Islanders,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:02:55Z,1,12:15,07:45,Takeaway,n/a,28.0,-38.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:04:52Z,1,12:19,07:41,Faceoff,n/a,20.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:05:35Z,1,12:45,07:15,Takeaway,n/a,53.0,17.0,Anders Lee,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:05:40Z,1,12:50,07:10,Shot,Slap Shot,34.0,-30.0,Ryan Pulock,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:06:02Z,1,12:50,07:10,Faceoff,n/a,69.0,-22.0,Derick Brassard,Winner,New York Islanders,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:06:59Z,1,13:05,06:55,Faceoff,n/a,-20.0,22.0,Casey Cizikas,Winner,New York Islanders,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:07:18Z,1,13:19,06:41,Takeaway,n/a,22.0,39.0,Casey Cizikas,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:07:22Z,1,13:23,06:37,Shot,Wrist Shot,70.0,15.0,Casey Cizikas,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:07:27Z,1,13:28,06:32,Giveaway,n/a,76.0,37.0,John Quenneville,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:07:31Z,1,13:29,06:31,Hit,n/a,85.0,39.0,Casey Cizikas,Hitter,New York Islanders,John Quenneville,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:07:38Z,1,13:39,06:21,Hit,n/a,72.0,-37.0,Matt Martin,Hitter,New York Islanders,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:08:04Z,1,13:52,06:08,Giveaway,n/a,42.0,-29.0,Dominik Kubalik,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:08:12Z,1,14:13,05:47,Hit,n/a,-95.0,25.0,Ryan Carpenter,Hitter,Chicago Blackhawks,Adam Pelech,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:08:28Z,1,14:29,05:31,Takeaway,n/a,-25.0,-10.0,Ryan Pulock,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:09:01Z,1,15:02,04:58,Takeaway,n/a,-26.0,35.0,Dylan Strome,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:09:11Z,1,15:12,04:48,Shot,Wrist Shot,-37.0,21.0,Connor Murphy,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:09:21Z,1,15:22,04:38,Shot,Wrist Shot,74.0,-19.0,Jordan Eberle,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:09:38Z,1,15:39,04:21,Hit,n/a,-34.0,-38.0,Scott Mayfield,Hitter,New York Islanders,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:09:56Z,1,15:57,04:03,Hit,n/a,-27.0,40.0,Zack Smith,Hitter,Chicago Blackhawks,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:10:04Z,1,16:04,03:56,Shot,Tip-In,75.0,-3.0,Michael Dal Colle,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:10:09Z,1,16:05,03:55,Shot,Wrist Shot,80.0,4.0,Anthony Beauvillier,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:11:54Z,1,16:06,03:54,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Derick Brassard,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:13:00Z,1,16:28,03:32,Faceoff,n/a,20.0,-22.0,Dominik Kubalik,Winner,Chicago Blackhawks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:13:32Z,1,16:43,03:17,Hit,n/a,-70.0,-37.0,John Quenneville,Hitter,Chicago Blackhawks,Ryan Pulock,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:13:40Z,1,16:51,03:09,Hit,n/a,97.0,8.0,Ross Johnston,Hitter,New York Islanders,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:13:57Z,1,16:52,03:08,Hit,n/a,65.0,36.0,John Quenneville,Hitter,Chicago Blackhawks,Josh Bailey,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:14:01Z,1,17:12,02:48,Shot,Wrist Shot,45.0,30.0,Brock Nelson,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:14:37Z,1,17:12,02:48,Faceoff,n/a,69.0,22.0,Anders Lee,Winner,New York Islanders,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:15:25Z,1,17:54,02:06,Hit,n/a,-85.0,36.0,Mathew Barzal,Hitter,New York Islanders,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:15:54Z,1,18:24,01:36,Hit,n/a,97.0,-14.0,Dennis Gilbert,Hitter,Chicago Blackhawks,Casey Cizikas,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:15:57Z,1,18:27,01:33,Blocked Shot,n/a,70.0,-7.0,Olli Maatta,Blocker,Chicago Blackhawks,Casey Cizikas,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:16:04Z,1,18:33,01:27,Hit,n/a,92.0,29.0,Matt Martin,Hitter,New York Islanders,Dennis Gilbert,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:16:08Z,1,18:35,01:25,Blocked Shot,n/a,45.0,12.0,Dylan Strome,Blocker,Chicago Blackhawks,Nick Leddy,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:16:30Z,1,18:36,01:24,Shot,Wrist Shot,43.0,5.0,Casey Cizikas,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:16:31Z,1,18:37,01:23,Faceoff,n/a,69.0,22.0,Derick Brassard,Winner,New York Islanders,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:16:59Z,1,18:54,01:06,Missed Shot,n/a,45.0,30.0,Derick Brassard,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:17:23Z,1,19:17,00:43,Shot,Wrist Shot,-79.0,-23.0,Dylan Strome,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:17:38Z,1,19:32,00:28,Giveaway,n/a,-98.0,-19.0,Adam Pelech,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:17:45Z,1,19:39,00:21,Giveaway,n/a,-97.0,3.0,Adam Pelech,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:17:51Z,1,19:42,00:18,Blocked Shot,n/a,-81.0,10.0,Adam Pelech,Blocker,New York Islanders,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:18:08Z,1,19:42,00:18,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:18:33Z,1,20:00,00:00,Blocked Shot,n/a,-58.0,0.0,Ross Johnston,Blocker,New York Islanders,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:37:08Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Brock Nelson,Winner,New York Islanders,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:37:38Z,2,00:29,19:31,Shot,Wrist Shot,48.0,-7.0,Erik Gustafsson,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:37:56Z,2,00:29,19:31,Faceoff,n/a,69.0,-22.0,Mathew Barzal,Winner,New York Islanders,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:38:16Z,2,00:38,19:22,Hit,n/a,94.0,29.0,Adam Pelech,Hitter,New York Islanders,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:38:30Z,2,00:52,19:08,Blocked Shot,n/a,56.0,7.0,Ryan Pulock,Blocker,New York Islanders,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:38:51Z,2,01:12,18:48,Shot,Wrist Shot,-37.0,32.0,Ryan Pulock,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:39:00Z,2,01:22,18:38,Shot,Wrist Shot,-38.0,28.0,Johnny Boychuk,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:39:04Z,2,01:26,18:34,Shot,Backhand,-64.0,2.0,Jordan Eberle,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:39:20Z,2,01:42,18:18,Giveaway,n/a,-79.0,16.0,Duncan Keith,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:39:37Z,2,01:58,18:02,Shot,Wrist Shot,-62.0,-23.0,Nick Leddy,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:39:51Z,2,01:58,18:02,Faceoff,n/a,-69.0,-22.0,Derick Brassard,Winner,New York Islanders,Dylan Strome,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:40:25Z,2,02:14,17:46,Giveaway,n/a,30.0,-23.0,Scott Mayfield,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:40:48Z,2,02:37,17:23,Hit,n/a,88.0,-35.0,David Kampf,Hitter,Chicago Blackhawks,Derick Brassard,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:41:05Z,2,02:53,17:07,Hit,n/a,-69.0,-40.0,Michael Dal Colle,Hitter,New York Islanders,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:41:15Z,2,03:04,16:56,Hit,n/a,40.0,-39.0,Matt Martin,Hitter,New York Islanders,Matthew Highmore,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:41:21Z,2,03:09,16:51,Hit,n/a,96.0,23.0,Zack Smith,Hitter,Chicago Blackhawks,Ryan Pulock,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:41:35Z,2,03:14,16:46,Giveaway,n/a,-86.0,38.0,Olli Maatta,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:41:53Z,2,03:32,16:28,Penalty,Hi-sticking,-37.0,-37.0,Matthew Highmore,PenaltyOn,Chicago Blackhawks,Adam Pelech,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:42:20Z,2,03:32,16:28,Faceoff,n/a,-69.0,-22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:42:35Z,2,03:41,16:19,Giveaway,n/a,-81.0,-34.0,Ryan Carpenter,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:42:48Z,2,03:41,16:19,Faceoff,n/a,-69.0,-22.0,Josh Bailey,Winner,New York Islanders,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:43:19Z,2,03:58,16:02,Shot,Tip-In,-56.0,-5.0,Josh Bailey,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:43:41Z,2,04:03,15:57,Faceoff,n/a,-20.0,22.0,Josh Bailey,Winner,New York Islanders,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:44:20Z,2,04:31,15:29,Shot,Wrist Shot,-79.0,7.0,Anders Lee,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:44:25Z,2,04:31,15:29,Shot,Backhand,-71.0,-2.0,Jordan Eberle,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:44:39Z,2,04:32,15:28,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:45:06Z,2,04:36,15:24,Faceoff,n/a,-69.0,22.0,Brock Nelson,Winner,New York Islanders,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:45:33Z,2,04:51,15:09,Hit,n/a,-93.0,32.0,Olli Maatta,Hitter,Chicago Blackhawks,Brock Nelson,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:45:37Z,2,04:55,15:05,Blocked Shot,n/a,-61.0,-20.0,Dennis Gilbert,Blocker,Chicago Blackhawks,Ryan Pulock,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:45:43Z,2,04:56,15:04,Shot,Wrist Shot,-68.0,-14.0,Anthony Beauvillier,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:45:58Z,2,04:57,15:03,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:46:32Z,2,05:20,14:40,Shot,Slap Shot,-51.0,-29.0,Ryan Pulock,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:46:36Z,2,05:24,14:36,Hit,n/a,-89.0,-32.0,Brock Nelson,Hitter,New York Islanders,Connor Murphy,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:47:19Z,2,06:07,13:53,Blocked Shot,n/a,-77.0,4.0,Slater Koekkoek,Blocker,Chicago Blackhawks,Tom Kuhnhackl,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:47:25Z,2,06:13,13:47,Shot,Wrist Shot,-76.0,3.0,Matt Martin,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:47:26Z,2,06:13,13:47,Giveaway,n/a,-40.0,40.0,Patrick Kane,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:47:31Z,2,06:19,13:41,Hit,n/a,-56.0,41.0,Matt Martin,Hitter,New York Islanders,Patrick Kane,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:47:59Z,2,06:46,13:14,Hit,n/a,78.0,40.0,Devon Toews,Hitter,New York Islanders,Alex Nylander,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:48:07Z,2,06:54,13:06,Hit,n/a,87.0,34.0,Casey Cizikas,Hitter,New York Islanders,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:48:12Z,2,07:00,13:00,Takeaway,n/a,91.0,35.0,Alex Nylander,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:48:13Z,2,07:00,13:00,Missed Shot,n/a,74.0,16.0,Alex Nylander,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:48:21Z,2,07:08,12:52,Shot,Snap Shot,78.0,-18.0,Dylan Strome,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:48:34Z,2,07:21,12:39,Shot,Wrist Shot,62.0,6.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:50:30Z,2,07:21,12:39,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:51:08Z,2,07:27,12:33,Blocked Shot,n/a,55.0,5.0,Nick Leddy,Blocker,New York Islanders,Dominik Kubalik,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:51:12Z,2,07:31,12:29,Takeaway,n/a,-35.0,8.0,Erik Gustafsson,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:51:23Z,2,07:42,12:18,Hit,n/a,-96.0,8.0,Anthony Beauvillier,Hitter,New York Islanders,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:51:50Z,2,07:49,12:11,Faceoff,n/a,-69.0,-22.0,Anders Lee,Winner,New York Islanders,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:52:20Z,2,08:07,11:53,Takeaway,n/a,-17.0,-34.0,Erik Gustafsson,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:52:26Z,2,08:13,11:47,Shot,Wrist Shot,73.0,18.0,John Quenneville,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:52:46Z,2,08:33,11:27,Shot,Wrist Shot,-83.0,25.0,Jordan Eberle,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:52:53Z,2,08:40,11:20,Hit,n/a,30.0,42.0,Scott Mayfield,Hitter,New York Islanders,Alex DeBrincat,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:53:16Z,2,09:03,10:57,Giveaway,n/a,-60.0,-40.0,Dennis Gilbert,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:53:29Z,2,09:16,10:44,Blocked Shot,n/a,65.0,2.0,Adam Pelech,Blocker,New York Islanders,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:53:37Z,2,09:24,10:36,Hit,n/a,90.0,8.0,Adam Pelech,Hitter,New York Islanders,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:53:46Z,2,09:32,10:28,Shot,Wrist Shot,84.0,5.0,Connor Murphy,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:53:56Z,2,09:43,10:17,Hit,n/a,-89.0,16.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Tom Kuhnhackl,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:54:12Z,2,09:57,10:03,Penalty,Tripping,57.0,-25.0,Nick Leddy,PenaltyOn,New York Islanders,Alex Nylander,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:54:37Z,2,09:57,10:03,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:54:56Z,2,10:01,09:59,Missed Shot,n/a,48.0,0.0,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:55:17Z,2,10:23,09:37,Takeaway,n/a,43.0,-5.0,Adam Pelech,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:55:43Z,2,10:48,09:12,Blocked Shot,n/a,74.0,11.0,Scott Mayfield,Blocker,New York Islanders,Jonathan Toews,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:55:52Z,2,10:58,09:02,Shot,Backhand,69.0,4.0,Dylan Strome,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:56:14Z,2,11:19,08:41,Hit,n/a,45.0,-39.0,Brock Nelson,Hitter,New York Islanders,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:56:25Z,2,11:31,08:29,Giveaway,n/a,97.0,-16.0,Johnny Boychuk,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:56:46Z,2,11:52,08:08,Takeaway,n/a,89.0,28.0,Kirby Dach,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:57:00Z,2,12:06,07:54,Blocked Shot,n/a,79.0,4.0,Johnny Boychuk,Blocker,New York Islanders,Kirby Dach,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:57:24Z,2,12:29,07:31,Hit,n/a,90.0,-27.0,Devon Toews,Hitter,New York Islanders,Matthew Highmore,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:57:36Z,2,12:41,07:19,Hit,n/a,-89.0,-32.0,Olli Maatta,Hitter,Chicago Blackhawks,Jordan Eberle,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:58:04Z,2,13:10,06:50,Blocked Shot,n/a,83.0,-13.0,Scott Mayfield,Blocker,New York Islanders,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:58:14Z,2,13:19,06:41,Shot,Wrist Shot,85.0,-22.0,Ryan Carpenter,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:58:22Z,2,13:28,06:32,Hit,n/a,-98.0,15.0,Derick Brassard,Hitter,New York Islanders,Ryan Carpenter,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:58:56Z,2,13:49,06:11,Blocked Shot,n/a,-48.0,-25.0,John Quenneville,Blocker,Chicago Blackhawks,Adam Pelech,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:58:47Z,2,13:53,06:07,Blocked Shot,n/a,-75.0,5.0,Duncan Keith,Blocker,Chicago Blackhawks,Anthony Beauvillier,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:58:47Z,2,13:55,06:05,Shot,Wrist Shot,-80.0,-6.0,Michael Dal Colle,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:59:15Z,2,14:03,05:57,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T02:59:54Z,2,14:20,05:40,Blocked Shot,n/a,-80.0,-13.0,Erik Gustafsson,Blocker,Chicago Blackhawks,Nick Leddy,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:00:12Z,2,14:43,05:17,Shot,Wrist Shot,-44.0,-17.0,Devon Toews,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:00:39Z,2,14:51,05:09,Penalty,Hooking,-73.0,-1.0,Olli Maatta,PenaltyOn,Chicago Blackhawks,Josh Bailey,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:02:01Z,2,14:51,05:09,Faceoff,n/a,-69.0,-22.0,Josh Bailey,Winner,New York Islanders,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:02:54Z,2,15:09,04:51,Blocked Shot,n/a,-77.0,4.0,Ryan Carpenter,Blocker,Chicago Blackhawks,Josh Bailey,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:03:16Z,2,15:09,04:51,Faceoff,n/a,-69.0,22.0,Mathew Barzal,Winner,New York Islanders,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:03:51Z,2,15:30,04:30,Shot,Slap Shot,-60.0,23.0,Josh Bailey,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:04:05Z,2,15:30,04:30,Faceoff,n/a,-69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:05:07Z,2,16:06,03:54,Hit,n/a,-49.0,0.0,Zack Smith,Hitter,Chicago Blackhawks,Anders Lee,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:05:53Z,2,16:52,03:08,Blocked Shot,n/a,-79.0,-8.0,Dennis Gilbert,Blocker,Chicago Blackhawks,Anthony Beauvillier,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:07:38Z,2,16:52,03:08,Faceoff,n/a,-69.0,-22.0,Alex Nylander,Winner,Chicago Blackhawks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:08:27Z,2,16:58,03:02,Hit,n/a,-95.0,-17.0,Anthony Beauvillier,Hitter,New York Islanders,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:08:52Z,2,17:23,02:37,Hit,n/a,-98.0,7.0,Matt Martin,Hitter,New York Islanders,Olli Maatta,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:08:59Z,2,17:30,02:30,Missed Shot,n/a,-55.0,-19.0,Matt Martin,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:09:05Z,2,17:36,02:24,Hit,n/a,-66.0,41.0,Olli Maatta,Hitter,Chicago Blackhawks,Casey Cizikas,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:09:18Z,2,17:39,02:21,Hit,n/a,-83.0,38.0,Matt Martin,Hitter,New York Islanders,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:09:34Z,2,18:05,01:55,Hit,n/a,-94.0,26.0,Tom Kuhnhackl,Hitter,New York Islanders,Duncan Keith,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:09:46Z,2,18:16,01:44,Giveaway,n/a,25.0,-8.0,Alex DeBrincat,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:09:50Z,2,18:20,01:40,Blocked Shot,n/a,-69.0,13.0,Duncan Keith,Blocker,Chicago Blackhawks,Jordan Eberle,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:09:59Z,2,18:30,01:30,Shot,Slap Shot,-33.0,-4.0,Nick Leddy,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:10:26Z,2,18:33,01:27,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:11:00Z,2,18:57,01:03,Hit,n/a,59.0,40.0,John Quenneville,Hitter,Chicago Blackhawks,Devon Toews,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:11:08Z,2,19:04,00:56,Takeaway,n/a,61.0,40.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:11:11Z,2,19:08,00:52,Hit,n/a,95.0,21.0,Scott Mayfield,Hitter,New York Islanders,John Quenneville,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:11:15Z,2,19:11,00:49,Shot,Snap Shot,72.0,-37.0,Connor Murphy,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:11:42Z,2,19:12,00:48,Faceoff,n/a,69.0,-22.0,Ryan Carpenter,Winner,Chicago Blackhawks,Derick Brassard,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:12:27Z,2,19:35,00:25,Faceoff,n/a,0.0,0.0,Ryan Carpenter,Winner,Chicago Blackhawks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:13:04Z,2,19:47,00:13,Faceoff,n/a,69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Derick Brassard,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:13:38Z,2,19:59,00:01,Shot,Wrist Shot,-43.0,34.0,Derick Brassard,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:32:06Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Brock Nelson,Winner,New York Islanders,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:32:21Z,3,00:14,19:46,Takeaway,n/a,-23.0,40.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:32:32Z,3,00:20,19:40,Blocked Shot,n/a,-49.0,-1.0,Ross Johnston,Blocker,New York Islanders,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:32:43Z,3,00:21,19:39,Faceoff,n/a,-69.0,22.0,Jonathan Toews,Winner,Chicago Blackhawks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:33:21Z,3,00:31,19:29,Blocked Shot,n/a,-71.0,5.0,Mathew Barzal,Blocker,New York Islanders,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:33:28Z,3,00:38,19:22,Hit,n/a,96.0,25.0,Anders Lee,Hitter,New York Islanders,Erik Gustafsson,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:33:39Z,3,00:48,19:12,Takeaway,n/a,-4.0,25.0,Jonathan Toews,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:33:42Z,3,00:50,19:10,Goal,Snap Shot,-69.0,21.0,Jonathan Toews,Scorer,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:34:23Z,3,00:50,19:10,Faceoff,n/a,0.0,0.0,Derick Brassard,Winner,New York Islanders,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:34:37Z,3,01:02,18:58,Hit,n/a,90.0,32.0,Michael Dal Colle,Hitter,New York Islanders,Slater Koekkoek,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:34:58Z,3,01:23,18:37,Shot,Wrist Shot,81.0,-15.0,Michael Dal Colle,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:35:01Z,3,01:26,18:34,Hit,n/a,73.0,-32.0,Connor Murphy,Hitter,Chicago Blackhawks,Michael Dal Colle,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:35:12Z,3,01:37,18:23,Shot,Wrist Shot,75.0,28.0,Derick Brassard,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:35:46Z,3,02:11,17:49,Hit,n/a,-21.0,-40.0,Johnny Boychuk,Hitter,New York Islanders,Dylan Strome,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:36:13Z,3,02:20,17:40,Faceoff,n/a,-69.0,-22.0,Dylan Strome,Winner,Chicago Blackhawks,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:36:25Z,3,02:25,17:35,Blocked Shot,n/a,-45.0,-20.0,Matt Martin,Blocker,New York Islanders,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:36:41Z,3,02:38,17:22,Shot,Wrist Shot,-40.0,25.0,Alex DeBrincat,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:36:57Z,3,02:39,17:21,Faceoff,n/a,-69.0,22.0,Brock Nelson,Winner,New York Islanders,David Kampf,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:37:26Z,3,02:56,17:04,Missed Shot,n/a,-71.0,31.0,Zack Smith,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:37:31Z,3,03:00,17:00,Giveaway,n/a,-53.0,34.0,Brock Nelson,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:37:39Z,3,03:03,16:57,Goal,Wrist Shot,-88.0,26.0,Matthew Highmore,Scorer,Chicago Blackhawks,David Kampf,Assist,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a
+2019-12-28T03:38:14Z,3,03:03,16:57,Faceoff,n/a,0.0,0.0,Jonathan Toews,Winner,Chicago Blackhawks,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:38:45Z,3,03:21,16:39,Blocked Shot,n/a,-44.0,10.0,Mathew Barzal,Blocker,New York Islanders,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:39:00Z,3,03:27,16:33,Missed Shot,n/a,-35.0,-31.0,Slater Koekkoek,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:38:56Z,3,03:33,16:27,Hit,n/a,52.0,-37.0,Slater Koekkoek,Hitter,Chicago Blackhawks,Jordan Eberle,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:39:20Z,3,03:56,16:04,Shot,Wrist Shot,-75.0,-26.0,Alex Nylander,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:39:32Z,3,04:09,15:51,Blocked Shot,n/a,-59.0,-5.0,Jordan Eberle,Blocker,New York Islanders,Patrick Kane,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:39:42Z,3,04:19,15:41,Shot,Snap Shot,-68.0,-21.0,Patrick Kane,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:39:57Z,3,04:19,15:41,Faceoff,n/a,-69.0,-22.0,Casey Cizikas,Winner,New York Islanders,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:40:31Z,3,04:37,15:23,Takeaway,n/a,16.0,12.0,Matt Martin,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:40:52Z,3,04:38,15:22,Faceoff,n/a,20.0,22.0,Casey Cizikas,Winner,New York Islanders,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:41:12Z,3,04:51,15:09,Giveaway,n/a,61.0,41.0,Dylan Strome,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:41:14Z,3,04:54,15:06,Blocked Shot,n/a,48.0,4.0,Kirby Dach,Blocker,Chicago Blackhawks,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:41:43Z,3,05:23,14:37,Giveaway,n/a,-90.0,35.0,Scott Mayfield,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:42:12Z,3,05:36,14:24,Faceoff,n/a,20.0,-22.0,David Kampf,Winner,Chicago Blackhawks,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:42:37Z,3,05:53,14:07,Giveaway,n/a,-54.0,-25.0,Brock Nelson,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:42:59Z,3,06:14,13:46,Takeaway,n/a,-94.0,-28.0,Josh Bailey,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:43:34Z,3,06:22,13:38,Faceoff,n/a,-69.0,-22.0,Derick Brassard,Winner,New York Islanders,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:44:10Z,3,06:40,13:20,Giveaway,n/a,-95.0,-10.0,Ryan Pulock,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:44:18Z,3,06:48,13:12,Hit,n/a,90.0,33.0,Dennis Gilbert,Hitter,Chicago Blackhawks,Derick Brassard,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:44:34Z,3,07:04,12:56,Giveaway,n/a,93.0,29.0,John Quenneville,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:44:36Z,3,07:06,12:54,Shot,Wrist Shot,42.0,27.0,Nick Leddy,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:45:02Z,3,07:31,12:29,Shot,Wrist Shot,47.0,1.0,Mathew Barzal,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:45:02Z,3,07:33,12:27,Missed Shot,n/a,75.0,0.0,Jordan Eberle,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:45:10Z,3,07:39,12:21,Shot,Backhand,88.0,-10.0,Mathew Barzal,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:45:21Z,3,07:50,12:10,Hit,n/a,-96.0,-17.0,Mathew Barzal,Hitter,New York Islanders,Patrick Kane,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:45:26Z,3,07:55,12:05,Takeaway,n/a,-92.0,27.0,Patrick Kane,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:45:35Z,3,08:02,11:58,Penalty,Tripping,-95.0,5.0,Mathew Barzal,PenaltyOn,New York Islanders,Patrick Kane,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:47:40Z,3,08:02,11:58,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:48:23Z,3,08:37,11:23,Hit,n/a,-63.0,-41.0,Tom Kuhnhackl,Hitter,New York Islanders,Jonathan Toews,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:48:29Z,3,08:43,11:17,Shot,Backhand,76.0,-14.0,Casey Cizikas,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:49:16Z,3,09:03,10:57,Shot,Slap Shot,-34.0,0.0,Duncan Keith,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:49:07Z,3,09:04,10:56,Faceoff,n/a,-69.0,22.0,Brock Nelson,Winner,New York Islanders,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:49:37Z,3,09:28,10:32,Hit,n/a,-37.0,42.0,Brock Nelson,Hitter,New York Islanders,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:50:03Z,3,09:54,10:06,Hit,n/a,-65.0,40.0,Adam Pelech,Hitter,New York Islanders,Matthew Highmore,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:50:20Z,3,09:57,10:03,Faceoff,n/a,-69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:50:44Z,3,10:05,09:55,Shot,Tip-In,-77.0,-3.0,Matthew Highmore,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:51:01Z,3,10:22,09:38,Shot,Snap Shot,76.0,-10.0,Devon Toews,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:53:00Z,3,10:22,09:38,Faceoff,n/a,69.0,-22.0,Derick Brassard,Winner,New York Islanders,Ryan Carpenter,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:54:05Z,3,10:58,09:02,Takeaway,n/a,-39.0,-26.0,Derick Brassard,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:54:09Z,3,11:13,08:47,Hit,n/a,89.0,34.0,Olli Maatta,Hitter,Chicago Blackhawks,Derick Brassard,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:54:19Z,3,11:22,08:38,Hit,n/a,70.0,-40.0,Dennis Gilbert,Hitter,Chicago Blackhawks,Anders Lee,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:54:49Z,3,11:53,08:07,Blocked Shot,n/a,76.0,-17.0,Duncan Keith,Blocker,Chicago Blackhawks,Jordan Eberle,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:55:01Z,3,12:05,07:55,Blocked Shot,n/a,-65.0,1.0,Johnny Boychuk,Blocker,New York Islanders,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:55:04Z,3,12:08,07:52,Hit,n/a,-70.0,41.0,Johnny Boychuk,Hitter,New York Islanders,Alex DeBrincat,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:56:04Z,3,12:57,07:03,Penalty,Cross checking,-40.0,39.0,Ross Johnston,PenaltyOn,New York Islanders,Dennis Gilbert,DrewBy,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:56:30Z,3,12:57,07:03,Faceoff,n/a,-69.0,-22.0,Jonathan Toews,Winner,Chicago Blackhawks,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:57:31Z,3,13:53,06:07,Missed Shot,n/a,-33.0,0.0,Erik Gustafsson,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:58:39Z,3,15:01,04:59,Hit,n/a,-90.0,-36.0,Johnny Boychuk,Hitter,New York Islanders,Kirby Dach,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:59:15Z,3,15:18,04:42,Faceoff,n/a,69.0,22.0,David Kampf,Winner,Chicago Blackhawks,Anders Lee,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:59:38Z,3,15:36,04:24,Missed Shot,n/a,-39.0,-26.0,Olli Maatta,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T03:59:50Z,3,15:48,04:12,Hit,n/a,95.0,20.0,Mathew Barzal,Hitter,New York Islanders,Dennis Gilbert,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:00:19Z,3,16:17,03:43,Hit,n/a,7.0,-41.0,Matt Martin,Hitter,New York Islanders,Patrick Kane,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:01:31Z,3,16:21,03:39,Penalty,Roughing,23.0,-33.0,Matt Martin,PenaltyOn,New York Islanders,Slater Koekkoek,DrewBy,New York Islanders,Michael Dal Colle,ServedBy,Chicago Blackhawks,n/a,n/a,n/a
+2019-12-28T04:01:40Z,3,16:21,03:39,Penalty,Misconduct,17.0,-33.0,Matt Martin,PenaltyOn,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:01:56Z,3,16:21,03:39,Penalty,Misconduct,18.0,-29.0,Slater Koekkoek,PenaltyOn,Chicago Blackhawks,Matt Martin,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:02:32Z,3,16:21,03:39,Faceoff,n/a,-69.0,-22.0,Casey Cizikas,Winner,New York Islanders,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:03:26Z,3,16:32,03:28,Goal,Wrist Shot,81.0,4.0,Casey Cizikas,Scorer,New York Islanders,Tom Kuhnhackl,Assist,New York Islanders,Adam Pelech,Assist,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks
+2019-12-28T04:03:51Z,3,16:32,03:28,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Jonathan Toews,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:04:19Z,3,16:52,03:08,Shot,Slap Shot,34.0,25.0,Adam Pelech,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:04:58Z,3,17:31,02:29,Blocked Shot,n/a,-74.0,3.0,Johnny Boychuk,Blocker,New York Islanders,Alex Nylander,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:05:14Z,3,17:45,02:15,Shot,Wrist Shot,-67.0,21.0,Patrick Kane,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:05:37Z,3,17:46,02:14,Faceoff,n/a,-69.0,22.0,Casey Cizikas,Winner,New York Islanders,Kirby Dach,Loser,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:06:32Z,3,18:35,01:25,Blocked Shot,n/a,-70.0,1.0,Ryan Pulock,Blocker,New York Islanders,Connor Murphy,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:06:40Z,3,18:43,01:17,Shot,Backhand,86.0,-14.0,Michael Dal Colle,Shooter,New York Islanders,Robin Lehner,Goalie,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:06:43Z,3,18:47,01:13,Hit,n/a,97.0,-10.0,Connor Murphy,Hitter,Chicago Blackhawks,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:06:51Z,3,18:54,01:06,Hit,n/a,84.0,39.0,Ross Johnston,Hitter,New York Islanders,Dennis Gilbert,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:07:05Z,3,19:07,00:53,Hit,n/a,-91.0,-31.0,Zack Smith,Hitter,Chicago Blackhawks,Nick Leddy,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:07:14Z,3,19:17,00:43,Shot,Wrist Shot,-14.0,32.0,Matthew Highmore,Shooter,Chicago Blackhawks,Semyon Varlamov,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:07:32Z,3,19:34,00:26,Hit,n/a,-99.0,10.0,Devon Toews,Hitter,New York Islanders,Matthew Highmore,Hittee,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:07:39Z,3,19:41,00:19,Takeaway,n/a,-82.0,-27.0,Ryan Carpenter,PlayerID,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-28T04:07:42Z,3,19:45,00:15,Missed Shot,n/a,-57.0,3.0,Alex DeBrincat,Shooter,Chicago Blackhawks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

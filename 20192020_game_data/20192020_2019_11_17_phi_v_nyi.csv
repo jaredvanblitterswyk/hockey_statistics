@@ -1,0 +1,276 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-11-17T00:08:57Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:12:37Z,1,00:14,19:46,Giveaway,n/a,-41.0,36.0,Casey Cizikas,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:12:46Z,1,00:25,19:35,Giveaway,n/a,-93.0,27.0,Casey Cizikas,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:13:20Z,1,00:46,19:14,Faceoff,n/a,-20.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:13:45Z,1,00:57,19:03,Hit,n/a,-11.0,-35.0,Robert Hagg,Hitter,Philadelphia Flyers,Derick Brassard,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:13:50Z,1,00:59,19:01,Hit,n/a,22.0,-38.0,Anthony Beauvillier,Hitter,New York Islanders,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:14:02Z,1,01:13,18:47,Blocked Shot,n/a,-73.0,3.0,Ryan Pulock,Blocker,New York Islanders,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:14:14Z,1,01:25,18:35,Shot,Wrist Shot,86.0,23.0,Anthony Beauvillier,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:14:28Z,1,01:29,18:31,Hit,n/a,49.0,-37.0,Sean Couturier,Hitter,Philadelphia Flyers,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:14:28Z,1,01:33,18:27,Takeaway,n/a,22.0,-38.0,Oskar Lindblom,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:14:28Z,1,01:38,18:22,Goal,Wrist Shot,-55.0,3.0,Sean Couturier,Scorer,Philadelphia Flyers,Oskar Lindblom,Assist,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a
+2019-11-17T00:14:56Z,1,01:38,18:22,Faceoff,n/a,0.0,0.0,Mathew Barzal,Winner,New York Islanders,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:15:51Z,1,02:23,17:37,Hit,n/a,-13.0,-37.0,Michael Dal Colle,Hitter,New York Islanders,Chris Stewart,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:15:56Z,1,02:28,17:32,Hit,n/a,-97.0,-12.0,Andy Andreoff,Hitter,Philadelphia Flyers,Scott Mayfield,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:16:00Z,1,02:32,17:28,Hit,n/a,-6.0,40.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Michael Dal Colle,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:16:20Z,1,02:34,17:26,Hit,n/a,-14.0,40.0,Chris Stewart,Hitter,Philadelphia Flyers,Otto Koivula,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:16:20Z,1,02:51,17:09,Blocked Shot,n/a,-83.0,13.0,Scott Mayfield,Blocker,New York Islanders,Tyler Pitlick,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:16:37Z,1,02:51,17:09,Faceoff,n/a,-69.0,22.0,Jakub Voracek,Winner,Philadelphia Flyers,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:17:17Z,1,03:12,16:48,Shot,Wrist Shot,82.0,-26.0,Cal Clutterbuck,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:17:36Z,1,03:12,16:48,Faceoff,n/a,69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:18:23Z,1,03:30,16:30,Faceoff,n/a,20.0,-22.0,Oskar Lindblom,Winner,Philadelphia Flyers,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:18:46Z,1,03:43,16:17,Giveaway,n/a,-80.0,38.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:18:49Z,1,03:47,16:13,Missed Shot,n/a,-51.0,30.0,Joel Farabee,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:19:00Z,1,03:59,16:01,Hit,n/a,-97.0,-10.0,Nick Leddy,Hitter,New York Islanders,Oskar Lindblom,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:19:11Z,1,04:10,15:50,Missed Shot,n/a,62.0,-4.0,Jordan Eberle,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:19:19Z,1,04:17,15:43,Shot,Wrist Shot,81.0,-19.0,Scott Mayfield,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:19:26Z,1,04:23,15:37,Hit,n/a,52.0,38.0,Joel Farabee,Hitter,Philadelphia Flyers,Mathew Barzal,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:19:51Z,1,04:35,15:25,Faceoff,n/a,69.0,22.0,Brock Nelson,Winner,New York Islanders,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:20:03Z,1,04:40,15:20,Shot,Wrist Shot,69.0,16.0,Brock Nelson,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:20:09Z,1,04:46,15:14,Blocked Shot,n/a,56.0,-5.0,Oskar Lindblom,Blocker,Philadelphia Flyers,Scott Mayfield,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:20:34Z,1,04:46,15:14,Faceoff,n/a,69.0,-22.0,Michael Raffl,Winner,Philadelphia Flyers,Otto Koivula,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:22:08Z,1,06:13,13:47,Hit,n/a,97.0,-5.0,Casey Cizikas,Hitter,New York Islanders,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:22:59Z,1,07:05,12:55,Missed Shot,n/a,74.0,19.0,Anthony Beauvillier,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:23:06Z,1,07:12,12:48,Shot,Wrist Shot,34.0,3.0,Devon Toews,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:23:21Z,1,07:27,12:33,Missed Shot,n/a,56.0,-3.0,Brock Nelson,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:26:08Z,1,08:00,12:00,Faceoff,n/a,69.0,-22.0,Michael Dal Colle,Winner,New York Islanders,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:26:22Z,1,08:05,11:55,Blocked Shot,n/a,56.0,-9.0,Michael Raffl,Blocker,Philadelphia Flyers,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:26:37Z,1,08:05,11:55,Faceoff,n/a,69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Otto Koivula,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:27:20Z,1,08:13,11:47,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Anders Lee,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:27:48Z,1,08:31,11:29,Takeaway,n/a,68.0,-40.0,Mathew Barzal,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:27:53Z,1,08:36,11:24,Hit,n/a,92.0,-25.0,Robert Hagg,Hitter,Philadelphia Flyers,Jordan Eberle,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:28:19Z,1,08:45,11:15,Faceoff,n/a,69.0,22.0,Brock Nelson,Winner,New York Islanders,Andy Andreoff,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:28:35Z,1,08:50,11:10,Blocked Shot,n/a,82.0,17.0,Travis Sanheim,Blocker,Philadelphia Flyers,Devon Toews,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:28:55Z,1,09:11,10:49,Giveaway,n/a,94.0,-24.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:28:58Z,1,09:14,10:46,Blocked Shot,n/a,58.0,-5.0,Chris Stewart,Blocker,Philadelphia Flyers,Scott Mayfield,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:29:07Z,1,09:23,10:37,Hit,n/a,83.0,33.0,Robert Hagg,Hitter,Philadelphia Flyers,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:29:16Z,1,09:32,10:28,Shot,Snap Shot,73.0,10.0,Brock Nelson,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:29:24Z,1,09:39,10:21,Shot,Deflected,78.0,-12.0,Brock Nelson,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:29:26Z,1,09:41,10:19,Blocked Shot,n/a,75.0,-6.0,Robert Hagg,Blocker,Philadelphia Flyers,Brock Nelson,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:29:40Z,1,09:56,10:04,Missed Shot,n/a,66.0,-2.0,Derick Brassard,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:30:01Z,1,10:00,10:00,Faceoff,n/a,69.0,22.0,Casey Cizikas,Winner,New York Islanders,Andy Andreoff,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:30:20Z,1,10:13,09:47,Takeaway,n/a,36.0,-14.0,Claude Giroux,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:30:25Z,1,10:18,09:42,Shot,Backhand,-75.0,-1.0,Travis Konecny,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:30:36Z,1,10:29,09:31,Shot,Wrist Shot,-54.0,21.0,Travis Konecny,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:30:43Z,1,10:36,09:24,Blocked Shot,n/a,-73.0,9.0,Adam Pelech,Blocker,New York Islanders,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:30:58Z,1,10:44,09:16,Shot,Deflected,75.0,-1.0,Casey Cizikas,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:31:04Z,1,10:57,09:03,Hit,n/a,-97.0,-9.0,Michael Raffl,Hitter,Philadelphia Flyers,Ryan Pulock,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:31:21Z,1,11:14,08:46,Shot,Tip-In,55.0,-8.0,Anders Lee,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:33:48Z,1,11:19,08:41,Faceoff,n/a,-20.0,22.0,Brock Nelson,Winner,New York Islanders,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:34:19Z,1,12:00,08:00,Shot,Backhand,-83.0,17.0,Sean Couturier,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:34:35Z,1,12:00,08:00,Penalty,Interference,-80.0,-2.0,Johnny Boychuk,PenaltyOn,New York Islanders,Joel Farabee,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:34:57Z,1,12:00,08:00,Faceoff,n/a,-69.0,22.0,Casey Cizikas,Winner,New York Islanders,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:35:09Z,1,12:05,07:55,Giveaway,n/a,-97.0,-16.0,Scott Mayfield,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:35:47Z,1,12:43,07:17,Shot,Snap Shot,-82.0,-1.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:35:54Z,1,12:49,07:11,Blocked Shot,n/a,-67.0,-1.0,Scott Mayfield,Blocker,New York Islanders,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:36:05Z,1,13:00,07:00,Giveaway,n/a,-70.0,40.0,Adam Pelech,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:36:13Z,1,13:08,06:52,Shot,Wrist Shot,-83.0,11.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:36:49Z,1,13:16,06:44,Faceoff,n/a,-69.0,22.0,Brock Nelson,Winner,New York Islanders,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:37:16Z,1,13:37,06:23,Giveaway,n/a,-59.0,39.0,Joel Farabee,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:38:02Z,1,14:24,05:36,Giveaway,n/a,-96.0,-18.0,Scott Mayfield,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:38:05Z,1,14:25,05:35,Shot,Wrist Shot,-73.0,-37.0,Travis Sanheim,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:40:10Z,1,14:26,05:34,Faceoff,n/a,-69.0,-22.0,Mathew Barzal,Winner,New York Islanders,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:40:30Z,1,14:36,05:24,Hit,n/a,-96.0,11.0,Jakub Voracek,Hitter,Philadelphia Flyers,Adam Pelech,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:40:35Z,1,14:38,05:22,Shot,Wrist Shot,-90.0,-24.0,Kevin Hayes,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:41:01Z,1,15:07,04:53,Blocked Shot,n/a,-74.0,0.0,Adam Pelech,Blocker,New York Islanders,James van Riemsdyk,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:41:20Z,1,15:26,04:34,Hit,n/a,-96.0,-18.0,Johnny Boychuk,Hitter,New York Islanders,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:41:38Z,1,15:44,04:16,Hit,n/a,-98.0,-13.0,Johnny Boychuk,Hitter,New York Islanders,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:41:43Z,1,15:49,04:11,Giveaway,n/a,-95.0,10.0,Derick Brassard,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:41:46Z,1,15:51,04:09,Shot,Wrist Shot,-47.0,-22.0,Robert Hagg,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:42:30Z,1,16:17,03:43,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:43:04Z,1,16:45,03:15,Shot,Wrist Shot,25.0,35.0,Justin Braun,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:43:17Z,1,16:58,03:02,Takeaway,n/a,35.0,-30.0,Oskar Lindblom,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:43:25Z,1,17:06,02:54,Shot,Wrist Shot,-34.0,-2.0,Travis Sanheim,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:43:49Z,1,17:07,02:53,Faceoff,n/a,-69.0,-22.0,Mathew Barzal,Winner,New York Islanders,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:44:22Z,1,17:19,02:41,Blocked Shot,n/a,-50.0,-15.0,Jordan Eberle,Blocker,New York Islanders,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:44:34Z,1,17:21,02:39,Missed Shot,n/a,-32.0,34.0,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:44:39Z,1,17:36,02:24,Missed Shot,n/a,-36.0,-20.0,Ivan Provorov,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:44:58Z,1,17:56,02:04,Blocked Shot,n/a,-52.0,-32.0,Adam Pelech,Blocker,New York Islanders,Oskar Lindblom,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:45:11Z,1,18:08,01:52,Missed Shot,n/a,-33.0,3.0,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:45:15Z,1,18:11,01:49,Penalty,Tripping,-96.0,-7.0,Jordan Eberle,PenaltyOn,New York Islanders,Ivan Provorov,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:45:46Z,1,18:11,01:49,Faceoff,n/a,-69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Cal Clutterbuck,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:46:10Z,1,18:24,01:36,Shot,Wrist Shot,-57.0,-26.0,Jakub Voracek,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:46:33Z,1,18:47,01:13,Shot,Wrist Shot,-81.0,7.0,James van Riemsdyk,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:46:37Z,1,18:51,01:09,Giveaway,n/a,-61.0,-8.0,Cal Clutterbuck,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:47:08Z,1,19:21,00:39,Hit,n/a,-76.0,39.0,Adam Pelech,Hitter,New York Islanders,Joel Farabee,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:47:14Z,1,19:26,00:34,Blocked Shot,n/a,-73.0,-13.0,Ryan Pulock,Blocker,New York Islanders,Oskar Lindblom,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T00:47:25Z,1,19:36,00:24,Goal,Slap Shot,-39.0,-1.0,Ivan Provorov,Scorer,Philadelphia Flyers,Sean Couturier,Assist,Philadelphia Flyers,Matt Niskanen,Assist,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders
+2019-11-17T00:48:02Z,1,19:36,00:24,Faceoff,n/a,0.0,0.0,Kevin Hayes,Winner,Philadelphia Flyers,Anders Lee,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:06:51Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:07:38Z,2,00:42,19:18,Shot,Snap Shot,51.0,-7.0,Kevin Hayes,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:08:42Z,2,01:44,18:16,Hit,n/a,-52.0,-38.0,Matt Niskanen,Hitter,Philadelphia Flyers,Adam Pelech,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:08:50Z,2,01:53,18:07,Giveaway,n/a,-31.0,5.0,Adam Pelech,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:09:05Z,2,01:59,18:01,Hit,n/a,58.0,-39.0,Michael Raffl,Hitter,Philadelphia Flyers,Nick Leddy,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:09:08Z,2,02:11,17:49,Missed Shot,n/a,-65.0,25.0,Jordan Eberle,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:09:20Z,2,02:23,17:37,Hit,n/a,96.0,-21.0,Johnny Boychuk,Hitter,New York Islanders,Oskar Lindblom,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:09:59Z,2,03:02,16:58,Shot,Wrist Shot,-77.0,4.0,Michael Dal Colle,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:10:19Z,2,03:23,16:37,Blocked Shot,n/a,-43.0,13.0,Andy Andreoff,Blocker,Philadelphia Flyers,Ryan Pulock,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:10:23Z,2,03:26,16:34,Hit,n/a,-98.0,5.0,Otto Koivula,Hitter,New York Islanders,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:10:59Z,2,04:03,15:57,Blocked Shot,n/a,83.0,-14.0,Ryan Pulock,Blocker,New York Islanders,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:11:14Z,2,04:17,15:43,Hit,n/a,93.0,26.0,Adam Pelech,Hitter,New York Islanders,Kevin Hayes,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:11:41Z,2,04:44,15:16,Hit,n/a,83.0,-36.0,Kevin Hayes,Hitter,Philadelphia Flyers,Nick Leddy,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:11:51Z,2,04:54,15:06,Shot,Slap Shot,-63.0,24.0,Derick Brassard,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:12:03Z,2,05:03,14:57,Penalty,Slashing,-28.0,-34.0,Kevin Hayes,PenaltyOn,Philadelphia Flyers,Derick Brassard,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:12:39Z,2,05:03,14:57,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:13:29Z,2,05:43,14:17,Hit,n/a,-96.0,-15.0,Ivan Provorov,Hitter,Philadelphia Flyers,Devon Toews,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:13:54Z,2,06:04,13:56,Shot,Wrist Shot,-82.0,-28.0,Jordan Eberle,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:13:52Z,2,06:06,13:54,Shot,Snap Shot,-85.0,-5.0,Anders Lee,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:14:25Z,2,06:06,13:54,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:14:31Z,2,06:16,13:44,Missed Shot,n/a,-65.0,0.0,Mathew Barzal,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:14:37Z,2,06:21,13:39,Giveaway,n/a,-95.0,29.0,Travis Sanheim,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:14:56Z,2,06:41,13:19,Shot,Snap Shot,-73.0,-9.0,Anthony Beauvillier,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:15:24Z,2,07:08,12:52,Shot,Wrist Shot,-62.0,-25.0,Anthony Beauvillier,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:15:28Z,2,07:12,12:48,Hit,n/a,-70.0,-40.0,Kevin Hayes,Hitter,Philadelphia Flyers,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:17:59Z,2,07:29,12:31,Faceoff,n/a,20.0,22.0,Kevin Hayes,Winner,Philadelphia Flyers,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:18:21Z,2,07:46,12:14,Hit,n/a,-98.0,-15.0,Michael Dal Colle,Hitter,New York Islanders,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:18:31Z,2,07:56,12:04,Blocked Shot,n/a,-59.0,-11.0,Justin Braun,Blocker,Philadelphia Flyers,Adam Pelech,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:18:41Z,2,08:04,11:56,Hit,n/a,-93.0,28.0,Jakub Voracek,Hitter,Philadelphia Flyers,Cal Clutterbuck,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:18:45Z,2,08:10,11:50,Missed Shot,n/a,-34.0,20.0,Ryan Pulock,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:19:04Z,2,08:29,11:31,Shot,Wrist Shot,-76.0,-5.0,Adam Pelech,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:19:08Z,2,08:29,11:31,Hit,n/a,-87.0,-11.0,Kevin Hayes,Hitter,Philadelphia Flyers,Adam Pelech,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:19:26Z,2,08:48,11:12,Hit,n/a,95.0,-6.0,James van Riemsdyk,Hitter,Philadelphia Flyers,Ryan Pulock,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:19:49Z,2,09:14,10:46,Shot,Backhand,-68.0,3.0,Anders Lee,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:20:35Z,2,09:14,10:46,Faceoff,n/a,-69.0,22.0,Brock Nelson,Winner,New York Islanders,Oskar Lindblom,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:20:50Z,2,09:19,10:41,Blocked Shot,n/a,-49.0,4.0,Joel Farabee,Blocker,Philadelphia Flyers,Nick Leddy,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:20:53Z,2,09:22,10:38,Blocked Shot,n/a,-64.0,13.0,Oskar Lindblom,Blocker,Philadelphia Flyers,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:22:28Z,2,10:57,09:03,Shot,Wrist Shot,-52.0,-14.0,Michael Dal Colle,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:22:53Z,2,11:21,08:39,Giveaway,n/a,-98.0,16.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:22:54Z,2,11:23,08:37,Missed Shot,n/a,-38.0,23.0,Josh Bailey,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:23:53Z,2,12:20,07:40,Goal,Wrist Shot,59.0,26.0,Oskar Lindblom,Scorer,Philadelphia Flyers,Joel Farabee,Assist,Philadelphia Flyers,Ivan Provorov,Assist,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders
+2019-11-17T01:24:28Z,2,12:20,07:40,Faceoff,n/a,0.0,0.0,Oskar Lindblom,Winner,Philadelphia Flyers,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:24:47Z,2,12:26,07:34,Giveaway,n/a,98.0,7.0,Thomas Greiss,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:25:08Z,2,12:51,07:09,Shot,Wrist Shot,-87.0,15.0,Derick Brassard,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:25:30Z,2,12:58,07:02,Shot,Wrist Shot,-34.0,-33.0,Devon Toews,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:25:45Z,2,13:28,06:32,Missed Shot,n/a,-79.0,14.0,Mathew Barzal,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:26:07Z,2,13:49,06:11,Blocked Shot,n/a,-70.0,-23.0,Justin Braun,Blocker,Philadelphia Flyers,Derick Brassard,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:26:15Z,2,13:49,06:11,Penalty,Holding,-84.0,39.0,Travis Sanheim,PenaltyOn,Philadelphia Flyers,Anthony Beauvillier,DrewBy,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:28:20Z,2,13:49,06:11,Faceoff,n/a,-69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Josh Bailey,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:29:58Z,2,15:07,04:53,Shot,Snap Shot,-75.0,8.0,Brock Nelson,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:30:58Z,2,16:05,03:55,Takeaway,n/a,-63.0,39.0,Oskar Lindblom,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:31:07Z,2,16:16,03:44,Hit,n/a,74.0,40.0,Sean Couturier,Hitter,Philadelphia Flyers,Cal Clutterbuck,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:31:12Z,2,16:17,03:43,Takeaway,n/a,40.0,37.0,Casey Cizikas,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:31:18Z,2,16:27,03:33,Shot,Wrist Shot,-70.0,1.0,Casey Cizikas,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:31:44Z,2,16:33,03:27,Takeaway,n/a,59.0,-36.0,Joel Farabee,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:31:43Z,2,16:35,03:25,Shot,Wrist Shot,68.0,0.0,Joel Farabee,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:34:15Z,2,16:36,03:24,Faceoff,n/a,69.0,-22.0,Casey Cizikas,Winner,New York Islanders,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:34:19Z,2,16:41,03:19,Giveaway,n/a,69.0,-36.0,Devon Toews,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:34:28Z,2,16:50,03:10,Hit,n/a,90.0,28.0,Devon Toews,Hitter,New York Islanders,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:34:34Z,2,16:56,03:04,Hit,n/a,58.0,41.0,Cal Clutterbuck,Hitter,New York Islanders,Shayne Gostisbehere,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:34:40Z,2,17:02,02:58,Hit,n/a,-10.0,-36.0,Claude Giroux,Hitter,Philadelphia Flyers,Casey Cizikas,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:34:51Z,2,17:13,02:47,Hit,n/a,-48.0,-40.0,Ross Johnston,Hitter,New York Islanders,Travis Konecny,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:35:10Z,2,17:32,02:28,Hit,n/a,97.0,-13.0,Kevin Hayes,Hitter,Philadelphia Flyers,Nick Leddy,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:35:24Z,2,17:46,02:14,Takeaway,n/a,36.0,20.0,James van Riemsdyk,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:35:29Z,2,17:51,02:09,Missed Shot,n/a,85.0,9.0,Jakub Voracek,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:35:36Z,2,17:55,02:05,Missed Shot,n/a,31.0,22.0,Robert Hagg,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:35:58Z,2,18:20,01:40,Takeaway,n/a,-30.0,-35.0,Adam Pelech,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:36:25Z,2,18:45,01:15,Takeaway,n/a,-32.0,-37.0,James van Riemsdyk,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:37:00Z,2,19:20,00:40,Shot,Wrist Shot,64.0,-32.0,Matt Niskanen,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:37:12Z,2,19:32,00:28,Blocked Shot,n/a,-41.0,-4.0,Oskar Lindblom,Blocker,Philadelphia Flyers,Scott Mayfield,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:37:16Z,2,19:37,00:23,Giveaway,n/a,-89.0,-35.0,Ivan Provorov,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:37:21Z,2,19:41,00:19,Takeaway,n/a,-45.0,-39.0,Oskar Lindblom,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:37:38Z,2,19:59,00:01,Missed Shot,n/a,-67.0,-38.0,Anthony Beauvillier,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:55:56Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:56:50Z,3,00:52,19:08,Shot,Wrist Shot,-56.0,-17.0,Michael Raffl,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:57:06Z,3,01:08,18:52,Takeaway,n/a,-61.0,39.0,Michael Raffl,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:57:29Z,3,01:31,18:29,Takeaway,n/a,97.0,20.0,Anders Lee,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:57:36Z,3,01:37,18:23,Blocked Shot,n/a,56.0,-15.0,Sean Couturier,Blocker,Philadelphia Flyers,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:57:42Z,3,01:44,18:16,Hit,n/a,92.0,31.0,Matt Niskanen,Hitter,Philadelphia Flyers,Anders Lee,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:57:50Z,3,01:50,18:10,Giveaway,n/a,73.0,34.0,Matt Niskanen,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:57:49Z,3,01:51,18:09,Shot,Slap Shot,40.0,-26.0,Johnny Boychuk,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:58:14Z,3,02:16,17:44,Hit,n/a,94.0,30.0,Otto Koivula,Hitter,New York Islanders,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:58:21Z,3,02:23,17:37,Shot,Slap Shot,28.0,-25.0,Scott Mayfield,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:59:21Z,3,02:50,17:10,Faceoff,n/a,-69.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Casey Cizikas,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T01:59:37Z,3,03:01,16:59,Penalty,Holding,-54.0,1.0,Casey Cizikas,PenaltyOn,New York Islanders,Kevin Hayes,DrewBy,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:00:13Z,3,03:01,16:59,Faceoff,n/a,-69.0,22.0,Brock Nelson,Winner,New York Islanders,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:00:29Z,3,03:12,16:48,Shot,Slap Shot,45.0,34.0,Adam Pelech,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:00:47Z,3,03:12,16:48,Faceoff,n/a,69.0,22.0,Cal Clutterbuck,Winner,New York Islanders,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:01:59Z,3,04:17,15:43,Shot,Snap Shot,-51.0,14.0,Joel Farabee,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:02:09Z,3,04:28,15:32,Blocked Shot,n/a,-58.0,14.0,Ryan Pulock,Blocker,New York Islanders,Matt Niskanen,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:02:19Z,3,04:38,15:22,Missed Shot,n/a,-34.0,-4.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:02:27Z,3,04:40,15:20,Giveaway,n/a,-98.0,9.0,Ryan Pulock,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:02:29Z,3,04:48,15:12,Shot,Slap Shot,-38.0,17.0,Matt Niskanen,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:02:39Z,3,04:58,15:02,Missed Shot,n/a,-51.0,-31.0,Sean Couturier,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:02:54Z,3,05:13,14:47,Missed Shot,n/a,-51.0,-26.0,Tyler Pitlick,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:03:17Z,3,05:35,14:25,Shot,Snap Shot,-57.0,25.0,Tyler Pitlick,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:03:37Z,3,05:55,14:05,Hit,n/a,97.0,-1.0,Justin Braun,Hitter,Philadelphia Flyers,Otto Koivula,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:03:39Z,3,05:58,14:02,Hit,n/a,92.0,25.0,Ross Johnston,Hitter,New York Islanders,Andy Andreoff,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:03:48Z,3,06:06,13:54,Takeaway,n/a,-91.0,34.0,Adam Pelech,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:03:56Z,3,06:15,13:45,Hit,n/a,86.0,34.0,Robert Hagg,Hitter,Philadelphia Flyers,Ross Johnston,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:04:14Z,3,06:33,13:27,Blocked Shot,n/a,-52.0,-23.0,Ross Johnston,Blocker,New York Islanders,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:06:32Z,3,06:53,13:07,Faceoff,n/a,-20.0,-22.0,Kevin Hayes,Winner,Philadelphia Flyers,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:07:14Z,3,07:19,12:41,Hit,n/a,-97.0,-8.0,Robert Hagg,Hitter,Philadelphia Flyers,Derick Brassard,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:07:18Z,3,07:25,12:35,Missed Shot,n/a,-69.0,0.0,Kevin Hayes,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:07:39Z,3,07:46,12:14,Goal,Backhand,82.0,-2.0,Anthony Beauvillier,Scorer,New York Islanders,Derick Brassard,Assist,New York Islanders,Brock Nelson,Assist,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers
+2019-11-17T02:08:33Z,3,07:46,12:14,Faceoff,n/a,0.0,0.0,Oskar Lindblom,Winner,Philadelphia Flyers,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:09:01Z,3,08:16,11:44,Blocked Shot,n/a,-61.0,-1.0,Devon Toews,Blocker,New York Islanders,Oskar Lindblom,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:09:45Z,3,08:17,11:43,Faceoff,n/a,-69.0,-22.0,Casey Cizikas,Winner,New York Islanders,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:10:08Z,3,08:44,11:16,Shot,Slap Shot,-9.0,4.0,Claude Giroux,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:10:34Z,3,09:11,10:49,Hit,n/a,-93.0,-26.0,Ryan Pulock,Hitter,New York Islanders,Tyler Pitlick,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:10:42Z,3,09:19,10:41,Hit,n/a,-83.0,39.0,Cal Clutterbuck,Hitter,New York Islanders,Travis Sanheim,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:10:53Z,3,09:28,10:32,Giveaway,n/a,-53.0,-38.0,Chris Stewart,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:11:02Z,3,09:38,10:22,Hit,n/a,79.0,39.0,Tyler Pitlick,Hitter,Philadelphia Flyers,Ross Johnston,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:11:12Z,3,09:48,10:12,Blocked Shot,n/a,52.0,-18.0,Chris Stewart,Blocker,Philadelphia Flyers,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:11:17Z,3,09:54,10:06,Hit,n/a,96.0,-10.0,Robert Hagg,Hitter,Philadelphia Flyers,Cal Clutterbuck,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:11:30Z,3,10:03,09:57,Hit,n/a,90.0,-29.0,Travis Sanheim,Hitter,Philadelphia Flyers,Cal Clutterbuck,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:11:48Z,3,10:21,09:39,Shot,Slap Shot,34.0,22.0,Nick Leddy,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:11:49Z,3,10:24,09:36,Shot,Backhand,81.0,-1.0,Cal Clutterbuck,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:13:45Z,3,10:24,09:36,Faceoff,n/a,69.0,22.0,Brock Nelson,Winner,New York Islanders,Claude Giroux,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:14:13Z,3,10:29,09:31,Blocked Shot,n/a,50.0,30.0,Travis Konecny,Blocker,Philadelphia Flyers,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:14:30Z,3,10:36,09:24,Shot,Backhand,-75.0,8.0,Michael Raffl,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:15:48Z,3,10:38,09:22,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:16:05Z,3,10:58,09:02,Giveaway,n/a,96.0,-3.0,Shayne Gostisbehere,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:16:29Z,3,11:23,08:37,Shot,Wrist Shot,33.0,-27.0,Devon Toews,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:16:34Z,3,11:28,08:32,Hit,n/a,72.0,40.0,James van Riemsdyk,Hitter,Philadelphia Flyers,Anthony Beauvillier,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:16:56Z,3,11:44,08:16,Penalty,Too many men on the ice,13.0,40.0,James van Riemsdyk,PenaltyOn,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:17:44Z,3,11:44,08:16,Faceoff,n/a,69.0,-22.0,Anders Lee,Winner,New York Islanders,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:22:51Z,3,12:01,07:59,Blocked Shot,n/a,78.0,-2.0,Matt Niskanen,Blocker,Philadelphia Flyers,Jordan Eberle,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:18:33Z,3,12:02,07:58,Blocked Shot,n/a,85.0,0.0,Ivan Provorov,Blocker,Philadelphia Flyers,Nick Leddy,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:18:33Z,3,12:03,07:57,Blocked Shot,n/a,84.0,-1.0,Ivan Provorov,Blocker,Philadelphia Flyers,Anders Lee,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:18:33Z,3,12:04,07:56,Blocked Shot,n/a,79.0,-1.0,Ivan Provorov,Blocker,Philadelphia Flyers,Anders Lee,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:18:50Z,3,12:05,07:55,Faceoff,n/a,69.0,-22.0,Claude Giroux,Winner,Philadelphia Flyers,Anders Lee,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:19:33Z,3,12:30,07:30,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:19:46Z,3,12:35,07:25,Giveaway,n/a,33.0,2.0,Kevin Hayes,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:20:16Z,3,13:07,06:53,Hit,n/a,82.0,-5.0,Matt Niskanen,Hitter,Philadelphia Flyers,Brock Nelson,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:20:46Z,3,13:34,06:26,Goal,Snap Shot,78.0,0.0,Mathew Barzal,Scorer,New York Islanders,Brock Nelson,Assist,New York Islanders,Derick Brassard,Assist,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers
+2019-11-17T02:21:29Z,3,13:34,06:26,Faceoff,n/a,0.0,0.0,Casey Cizikas,Winner,New York Islanders,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:21:39Z,3,13:42,06:18,Hit,n/a,44.0,38.0,Michael Dal Colle,Hitter,New York Islanders,Justin Braun,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:21:48Z,3,13:50,06:10,Shot,Wrist Shot,65.0,-13.0,Casey Cizikas,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:22:01Z,3,14:03,05:57,Hit,n/a,82.0,37.0,Casey Cizikas,Hitter,New York Islanders,Jakub Voracek,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:24:01Z,3,14:35,05:25,Blocked Shot,n/a,87.0,0.0,Ivan Provorov,Blocker,Philadelphia Flyers,Nick Leddy,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:22:33Z,3,14:36,05:24,Shot,Wrist Shot,-37.0,18.0,Claude Giroux,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:24:46Z,3,14:36,05:24,Faceoff,n/a,-69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:26:02Z,3,15:45,04:15,Shot,Backhand,-7.0,36.0,Sean Couturier,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:26:21Z,3,15:51,04:09,Faceoff,n/a,-69.0,-22.0,Brock Nelson,Winner,New York Islanders,Kevin Hayes,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:27:00Z,3,16:14,03:46,Hit,n/a,-5.0,39.0,Michael Dal Colle,Hitter,New York Islanders,Matt Niskanen,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:27:13Z,3,16:27,03:33,Shot,Wrist Shot,73.0,40.0,Devon Toews,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:27:35Z,3,16:49,03:11,Shot,Wrist Shot,51.0,-29.0,Claude Giroux,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:27:37Z,3,16:50,03:10,Giveaway,n/a,-83.0,-2.0,Thomas Greiss,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:27:40Z,3,16:54,03:06,Shot,Wrist Shot,-65.0,-25.0,Travis Konecny,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:28:07Z,3,17:06,02:54,Faceoff,n/a,69.0,22.0,Claude Giroux,Winner,Philadelphia Flyers,Mathew Barzal,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:28:36Z,3,17:15,02:45,Hit,n/a,60.0,-39.0,Michael Raffl,Hitter,Philadelphia Flyers,Johnny Boychuk,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:28:45Z,3,17:25,02:35,Missed Shot,n/a,27.0,-9.0,Johnny Boychuk,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:29:18Z,3,17:56,02:04,Goal,Backhand,60.0,-3.0,Anthony Beauvillier,Scorer,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:30:09Z,3,17:56,02:04,Faceoff,n/a,0.0,0.0,Brock Nelson,Winner,New York Islanders,Oskar Lindblom,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:30:36Z,3,18:03,01:57,Faceoff,n/a,69.0,22.0,Brock Nelson,Winner,New York Islanders,Sean Couturier,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:31:09Z,3,18:18,01:42,Blocked Shot,n/a,81.0,-11.0,Ivan Provorov,Blocker,Philadelphia Flyers,Brock Nelson,Shooter,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:31:12Z,3,18:20,01:40,Hit,n/a,80.0,36.0,Matt Niskanen,Hitter,Philadelphia Flyers,Cal Clutterbuck,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:31:27Z,3,18:36,01:24,Hit,n/a,98.0,-10.0,Matt Niskanen,Hitter,Philadelphia Flyers,Brock Nelson,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:31:41Z,3,18:50,01:10,Shot,Wrist Shot,-12.0,-31.0,Oskar Lindblom,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:31:49Z,3,18:58,01:02,Hit,n/a,42.0,-35.0,Justin Braun,Hitter,Philadelphia Flyers,Michael Dal Colle,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:32:45Z,3,19:53,00:07,Shot,Wrist Shot,-43.0,23.0,Shayne Gostisbehere,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:32:50Z,3,19:57,00:03,Hit,n/a,-64.0,40.0,Michael Raffl,Hitter,Philadelphia Flyers,Anders Lee,Hittee,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:35:11Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Claude Giroux,Winner,Philadelphia Flyers,Brock Nelson,Loser,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:36:08Z,4,01:06,03:54,Shot,Wrist Shot,-82.0,2.0,Anders Lee,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:36:05Z,4,01:07,03:53,Giveaway,n/a,-86.0,34.0,Sean Couturier,PlayerID,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:36:20Z,4,01:20,03:40,Shot,Slap Shot,-60.0,32.0,Anders Lee,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:37:14Z,4,01:56,03:04,Faceoff,n/a,20.0,22.0,Brock Nelson,Winner,New York Islanders,Michael Raffl,Loser,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:38:07Z,4,02:41,02:19,Giveaway,n/a,-84.0,34.0,Anthony Beauvillier,PlayerID,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:38:29Z,4,03:05,01:55,Shot,Wrist Shot,84.0,11.0,Travis Sanheim,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:38:32Z,4,03:08,01:52,Blocked Shot,n/a,89.0,-5.0,Nick Leddy,Blocker,New York Islanders,Travis Sanheim,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:39:11Z,4,03:47,01:13,Shot,Wrist Shot,-54.0,-25.0,Josh Bailey,Shooter,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:39:47Z,4,04:23,00:37,Hit,n/a,97.0,-12.0,Devon Toews,Hitter,New York Islanders,Sean Couturier,Hittee,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:42:28Z,5,00:00,00:00,Goal,Wrist Shot,76.0,3.0,Jordan Eberle,Scorer,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:42:55Z,5,00:00,00:00,Shot,Wrist Shot,-84.0,-7.0,Sean Couturier,Shooter,Philadelphia Flyers,Thomas Greiss,Goalie,New York Islanders,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:43:18Z,5,00:00,00:00,Goal,Wrist Shot,73.0,4.0,Mathew Barzal,Scorer,New York Islanders,Brian Elliott,Goalie,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a
+2019-11-17T02:43:44Z,5,00:00,00:00,Missed Shot,n/a,-74.0,-5.0,Claude Giroux,Shooter,Philadelphia Flyers,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

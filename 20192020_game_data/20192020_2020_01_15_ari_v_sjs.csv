@@ -1,0 +1,248 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-01-15T02:08:00Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Tomas Hertl,Winner,San Jose Sharks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:09:25Z,1,00:24,19:36,Hit,n/a,33.0,-41.0,Lawson Crouse,Hitter,Arizona Coyotes,Tomas Hertl,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:09:31Z,1,00:27,19:33,Takeaway,n/a,36.0,-2.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:09:31Z,1,00:30,19:30,Blocked Shot,n/a,63.0,3.0,Brent Burns,Blocker,San Jose Sharks,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:09:38Z,1,00:33,19:27,Blocked Shot,n/a,73.0,2.0,Brent Burns,Blocker,San Jose Sharks,Derek Stepan,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:10:03Z,1,00:40,19:20,Faceoff,n/a,-20.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:10:28Z,1,01:06,18:54,Hit,n/a,-87.0,-31.0,Barclay Goodrow,Hitter,San Jose Sharks,Niklas Hjalmarsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:10:46Z,1,01:23,18:37,Shot,Wrist Shot,76.0,0.0,Conor Garland,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:11:07Z,1,01:44,18:16,Shot,Wrist Shot,47.0,32.0,Jakob Chychrun,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:11:31Z,1,02:09,17:51,Hit,n/a,-64.0,-39.0,Brenden Dillon,Hitter,San Jose Sharks,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:11:35Z,1,02:09,17:51,Shot,Snap Shot,-52.0,-3.0,Timo Meier,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:11:35Z,1,02:11,17:49,Shot,Backhand,-85.0,11.0,Patrick Marleau,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:11:58Z,1,02:12,17:48,Faceoff,n/a,-69.0,22.0,Joel Kellman,Winner,San Jose Sharks,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:12:26Z,1,02:23,17:37,Hit,n/a,-75.0,-41.0,Stefan Noesen,Hitter,San Jose Sharks,Niklas Hjalmarsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:13:15Z,1,03:12,16:48,Shot,Wrist Shot,78.0,-3.0,Phil Kessel,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:13:55Z,1,03:49,16:11,Blocked Shot,n/a,-83.0,-22.0,Alex Goligoski,Blocker,Arizona Coyotes,Evander Kane,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:14:26Z,1,03:50,16:10,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Evander Kane,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:14:27Z,1,03:58,16:02,Giveaway,n/a,-90.0,26.0,Jakob Chychrun,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:14:40Z,1,04:11,15:49,Blocked Shot,n/a,-69.0,1.0,Alex Goligoski,Blocker,Arizona Coyotes,Evander Kane,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:16Z,1,04:23,15:37,Faceoff,n/a,0.0,0.0,Barclay Goodrow,Winner,San Jose Sharks,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:37Z,1,04:43,15:17,Blocked Shot,n/a,-71.0,-11.0,Carl Soderberg,Blocker,Arizona Coyotes,Radim Simek,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:52Z,1,04:57,15:03,Shot,Wrist Shot,-83.0,-7.0,Marcus Sorensen,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:15:56Z,1,05:01,14:59,Hit,n/a,-40.0,-40.0,Mario Ferraro,Hitter,San Jose Sharks,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:16:07Z,1,05:13,14:47,Shot,Wrist Shot,-57.0,9.0,Marcus Sorensen,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:16:18Z,1,05:16,14:44,Blocked Shot,n/a,-60.0,12.0,Nick Schmaltz,Blocker,Arizona Coyotes,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:16:38Z,1,05:17,14:43,Faceoff,n/a,-69.0,22.0,Joel Kellman,Winner,San Jose Sharks,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:17:09Z,1,05:40,14:20,Missed Shot,n/a,-74.0,6.0,Melker Karlsson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:17:09Z,1,05:43,14:17,Shot,Snap Shot,-71.0,-8.0,Stefan Noesen,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:17:19Z,1,05:55,14:05,Hit,n/a,78.0,41.0,Brad Richardson,Hitter,Arizona Coyotes,Joel Kellman,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:17:52Z,1,06:27,13:33,Giveaway,n/a,-28.0,22.0,Jakob Chychrun,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:17:58Z,1,06:34,13:26,Hit,n/a,-86.0,25.0,Jakob Chychrun,Hitter,Arizona Coyotes,Timo Meier,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:18:04Z,1,06:39,13:21,Hit,n/a,-90.0,33.0,Lawson Crouse,Hitter,Arizona Coyotes,Erik Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:18:10Z,1,06:45,13:15,Missed Shot,n/a,-83.0,-28.0,Timo Meier,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:18:22Z,1,06:57,13:03,Hit,n/a,-65.0,-24.0,Evander Kane,Hitter,San Jose Sharks,Taylor Hall,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:18:53Z,1,07:29,12:31,Shot,Slap Shot,-57.0,16.0,Brent Burns,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:19:24Z,1,08:00,12:00,Hit,n/a,-32.0,39.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Barclay Goodrow,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:19:48Z,1,08:23,11:37,Shot,Snap Shot,51.0,-16.0,Nick Schmaltz,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:19:57Z,1,08:33,11:27,Takeaway,n/a,-65.0,5.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:06Z,1,08:40,11:20,Faceoff,n/a,20.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:42Z,1,09:01,10:59,Missed Shot,n/a,-74.0,-1.0,Joel Kellman,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:50Z,1,09:10,10:50,Hit,n/a,-97.0,-11.0,Derek Stepan,Hitter,Arizona Coyotes,Melker Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:22:55Z,1,09:11,10:49,Hit,n/a,-47.0,40.0,Stefan Noesen,Hitter,San Jose Sharks,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:23:08Z,1,09:27,10:33,Blocked Shot,n/a,-80.0,-18.0,Derek Stepan,Blocker,Arizona Coyotes,Antti Suomela,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:23:26Z,1,09:45,10:15,Blocked Shot,n/a,64.0,-10.0,Patrick Marleau,Blocker,San Jose Sharks,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:23:33Z,1,09:50,10:10,Shot,Wrist Shot,-53.0,-1.0,Timo Meier,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:24:05Z,1,09:51,10:09,Faceoff,n/a,-69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:24:06Z,1,09:58,10:02,Shot,Wrist Shot,-74.0,7.0,Evander Kane,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:26:47Z,1,10:32,09:28,Faceoff,n/a,-20.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Vinnie Hinostroza,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:27:11Z,1,10:46,09:14,Giveaway,n/a,-60.0,-10.0,Vinnie Hinostroza,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:27:14Z,1,10:49,09:11,Blocked Shot,n/a,-69.0,-4.0,Niklas Hjalmarsson,Blocker,Arizona Coyotes,Barclay Goodrow,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:27:19Z,1,10:54,09:06,Giveaway,n/a,-94.0,-9.0,Brad Richardson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:27:25Z,1,11:00,09:00,Blocked Shot,n/a,-69.0,-8.0,Niklas Hjalmarsson,Blocker,Arizona Coyotes,Radim Simek,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:27:54Z,1,11:29,08:31,Shot,Wrist Shot,1.0,32.0,Alex Goligoski,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:28:25Z,1,12:00,08:00,Takeaway,n/a,-14.0,-40.0,Derek Stepan,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:28:28Z,1,12:03,07:57,Goal,Wrist Shot,61.0,-20.0,Phil Kessel,Scorer,Arizona Coyotes,Derek Stepan,Assist,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a
+2020-01-15T02:29:13Z,1,12:03,07:57,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:30:01Z,1,12:45,07:15,Shot,Wrist Shot,-74.0,35.0,Kevin Labanc,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:30:15Z,1,13:06,06:54,Hit,n/a,37.0,40.0,Mario Ferraro,Hitter,San Jose Sharks,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:31:04Z,1,13:09,06:51,Faceoff,n/a,69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:31:08Z,1,13:34,06:26,Shot,Wrist Shot,-63.0,-1.0,Marcus Sorensen,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:31:13Z,1,13:36,06:24,Shot,Wrist Shot,-32.0,33.0,Marcus Sorensen,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:31:26Z,1,13:51,06:09,Hit,n/a,-60.0,34.0,Carl Soderberg,Hitter,Arizona Coyotes,Marcus Sorensen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:31:39Z,1,14:04,05:56,Giveaway,n/a,80.0,-32.0,Antti Suomela,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:31:49Z,1,14:05,05:55,Missed Shot,n/a,36.0,30.0,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:31:49Z,1,14:07,05:53,Missed Shot,n/a,70.0,4.0,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:31:53Z,1,14:13,05:47,Takeaway,n/a,77.0,-36.0,Nick Schmaltz,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:32:20Z,1,14:45,05:15,Hit,n/a,-96.0,2.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Evander Kane,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:32:29Z,1,14:55,05:05,Hit,n/a,-60.0,-38.0,Evander Kane,Hitter,San Jose Sharks,Vinnie Hinostroza,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:33:00Z,1,15:01,04:59,Faceoff,n/a,-69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:33:21Z,1,15:06,04:54,Blocked Shot,n/a,64.0,3.0,Brent Burns,Blocker,San Jose Sharks,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:33:21Z,1,15:09,04:51,Missed Shot,n/a,80.0,13.0,Michael Grabner,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:33:26Z,1,15:16,04:44,Blocked Shot,n/a,47.0,14.0,Brent Burns,Blocker,San Jose Sharks,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:33:37Z,1,15:28,04:32,Shot,Wrist Shot,56.0,-33.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:33:57Z,1,15:43,04:17,Hit,n/a,-11.0,40.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Evander Kane,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:34:10Z,1,16:00,04:00,Hit,n/a,32.0,40.0,Mario Ferraro,Hitter,San Jose Sharks,Lawson Crouse,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:34:15Z,1,16:05,03:55,Shot,Wrist Shot,61.0,0.0,Lawson Crouse,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:34:15Z,1,16:07,03:53,Shot,Wrist Shot,81.0,-5.0,Lawson Crouse,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:36:51Z,1,16:08,03:52,Faceoff,n/a,69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:36:54Z,1,16:20,03:40,Takeaway,n/a,50.0,38.0,Marcus Sorensen,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:37:01Z,1,16:27,03:33,Shot,Slap Shot,-36.0,33.0,Brent Burns,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:37:12Z,1,16:38,03:22,Blocked Shot,n/a,-74.0,-3.0,Niklas Hjalmarsson,Blocker,Arizona Coyotes,Brenden Dillon,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:37:51Z,1,17:17,02:43,Giveaway,n/a,44.0,37.0,Conor Garland,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:38:09Z,1,17:23,02:37,Takeaway,n/a,-72.0,-40.0,Jakob Chychrun,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:38:16Z,1,17:37,02:23,Penalty,Tripping,44.0,-33.0,Evander Kane,PenaltyOn,San Jose Sharks,Jakob Chychrun,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:39:05Z,1,17:37,02:23,Faceoff,n/a,69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:40:32Z,1,19:14,00:46,Blocked Shot,n/a,68.0,-6.0,Brenden Dillon,Blocker,San Jose Sharks,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:40:55Z,1,19:38,00:22,Hit,n/a,29.0,-12.0,Brenden Dillon,Hitter,San Jose Sharks,Nick Schmaltz,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T02:59:50Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Tomas Hertl,Winner,San Jose Sharks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:00:23Z,2,00:38,19:22,Takeaway,n/a,-74.0,-39.0,Evander Kane,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:00:30Z,2,00:45,19:15,Shot,Slap Shot,60.0,37.0,Kevin Labanc,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:00:58Z,2,00:46,19:14,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:01:25Z,2,01:03,18:57,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:01:48Z,2,01:08,18:52,Shot,Slap Shot,-40.0,-25.0,Niklas Hjalmarsson,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:01:51Z,2,01:10,18:50,Shot,Backhand,-75.0,6.0,Taylor Hall,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:02:04Z,2,01:24,18:36,Shot,Wrist Shot,-45.0,-3.0,Conor Garland,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:02:16Z,2,01:32,18:28,Shot,Wrist Shot,-82.0,6.0,Conor Garland,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:02:47Z,2,02:07,17:53,Shot,Slap Shot,59.0,29.0,Patrick Marleau,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:02:55Z,2,02:15,17:45,Missed Shot,n/a,69.0,2.0,Antti Suomela,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:03:03Z,2,02:23,17:37,Missed Shot,n/a,40.0,-37.0,Mario Ferraro,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:03:07Z,2,02:26,17:34,Missed Shot,n/a,37.0,29.0,Patrick Marleau,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:03:24Z,2,02:44,17:16,Hit,n/a,-55.0,37.0,Mario Ferraro,Hitter,San Jose Sharks,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:03:25Z,2,02:45,17:15,Missed Shot,n/a,-53.0,23.0,Carl Soderberg,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:04:14Z,2,03:15,16:45,Faceoff,n/a,-69.0,22.0,Joel Kellman,Winner,San Jose Sharks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:04:38Z,2,03:22,16:38,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:05:00Z,2,03:30,16:30,Blocked Shot,n/a,-72.0,10.0,Joel Kellman,Blocker,San Jose Sharks,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:05:27Z,2,03:56,16:04,Penalty,Tripping,87.0,10.0,Stefan Noesen,PenaltyOn,San Jose Sharks,Jordan Oesterle,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:06:13Z,2,03:56,16:04,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:06:13Z,2,04:02,15:58,Shot,Wrist Shot,-56.0,33.0,Taylor Hall,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:06:35Z,2,04:23,15:37,Shot,Snap Shot,-58.0,-16.0,Christian Dvorak,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:07:05Z,2,04:53,15:07,Missed Shot,n/a,-58.0,25.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:07:14Z,2,05:01,14:59,Goal,Wrist Shot,-75.0,-10.0,Phil Kessel,Scorer,Arizona Coyotes,Christian Dvorak,Assist,Arizona Coyotes,Conor Garland,Assist,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks
+2020-01-15T03:08:07Z,2,05:01,14:59,Faceoff,n/a,0.0,0.0,Antti Suomela,Winner,San Jose Sharks,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:08:11Z,2,05:11,14:49,Hit,n/a,89.0,-33.0,Timo Meier,Hitter,San Jose Sharks,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:08:30Z,2,05:15,14:45,Faceoff,n/a,69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Antti Suomela,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:09:19Z,2,05:47,14:13,Hit,n/a,-85.0,35.0,Radim Simek,Hitter,San Jose Sharks,Brad Richardson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:09:39Z,2,06:07,13:53,Hit,n/a,98.0,-5.0,Timo Meier,Hitter,San Jose Sharks,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:09:51Z,2,06:19,13:41,Blocked Shot,n/a,70.0,2.0,Brad Richardson,Blocker,Arizona Coyotes,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:10:07Z,2,06:32,13:28,Shot,Slap Shot,37.0,-31.0,Kevin Labanc,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:10:18Z,2,06:42,13:18,Goal,Wrist Shot,77.0,-2.0,Kevin Labanc,Scorer,San Jose Sharks,Evander Kane,Assist,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a
+2020-01-15T03:11:13Z,2,06:42,13:18,Faceoff,n/a,0.0,0.0,Barclay Goodrow,Winner,San Jose Sharks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:12:03Z,2,07:23,12:37,Shot,Slap Shot,-46.0,1.0,Jordan Oesterle,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:12:12Z,2,07:33,12:27,Giveaway,n/a,44.0,30.0,Niklas Hjalmarsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:12:16Z,2,07:37,12:23,Missed Shot,n/a,38.0,-2.0,Barclay Goodrow,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:12:27Z,2,07:48,12:12,Shot,Wrist Shot,-49.0,-22.0,Derek Stepan,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:15:05Z,2,08:05,11:55,Faceoff,n/a,-20.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:15:17Z,2,08:25,11:35,Shot,Wrist Shot,39.0,12.0,Tomas Hertl,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:15:40Z,2,08:26,11:34,Faceoff,n/a,69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:16:08Z,2,08:42,11:18,Hit,n/a,60.0,40.0,Kevin Labanc,Hitter,San Jose Sharks,Jason Demers,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:16:07Z,2,08:51,11:09,Shot,Backhand,-78.0,14.0,Lawson Crouse,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:16:57Z,2,09:41,10:19,Shot,Wrist Shot,-81.0,-30.0,Clayton Keller,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:17:03Z,2,09:47,10:13,Shot,Wrist Shot,-78.0,12.0,Carl Soderberg,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:17:54Z,2,09:55,10:05,Goal,Backhand,79.0,-4.0,Timo Meier,Scorer,San Jose Sharks,Patrick Marleau,Assist,San Jose Sharks,Antti Suomela,Assist,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes
+2020-01-15T03:17:56Z,2,09:55,10:05,Faceoff,n/a,0.0,0.0,Brad Richardson,Winner,Arizona Coyotes,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:18:18Z,2,10:20,09:40,Blocked Shot,n/a,47.0,23.0,Michael Grabner,Blocker,Arizona Coyotes,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:18:38Z,2,10:40,09:20,Hit,n/a,91.0,-27.0,Jakob Chychrun,Hitter,Arizona Coyotes,Melker Karlsson,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:20:50Z,2,10:57,09:03,Faceoff,n/a,-69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:21:31Z,2,11:18,08:42,Shot,Tip-In,52.0,38.0,Phil Kessel,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:21:51Z,2,11:35,08:25,Penalty,Tripping,36.0,34.0,Jason Demers,PenaltyOn,Arizona Coyotes,Evander Kane,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:22:39Z,2,11:35,08:25,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:23:06Z,2,12:12,07:48,Shot,Wrist Shot,60.0,19.0,Joe Thornton,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:24:29Z,2,13:35,06:25,Blocked Shot,n/a,81.0,14.0,Alex Goligoski,Blocker,Arizona Coyotes,Mario Ferraro,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:24:39Z,2,13:45,06:15,Missed Shot,n/a,89.0,18.0,Tomas Hertl,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:25:32Z,2,13:49,06:11,Faceoff,n/a,69.0,-22.0,Melker Karlsson,Winner,San Jose Sharks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:25:36Z,2,14:00,06:00,Missed Shot,n/a,33.0,-8.0,Radim Simek,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:25:58Z,2,14:21,05:39,Hit,n/a,78.0,38.0,Stefan Noesen,Hitter,San Jose Sharks,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:26:03Z,2,14:25,05:35,Hit,n/a,81.0,-39.0,Joel Kellman,Hitter,San Jose Sharks,Jason Demers,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:26:24Z,2,14:28,05:32,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:29:03Z,2,14:41,05:19,Faceoff,n/a,69.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:29:23Z,2,14:44,05:16,Blocked Shot,n/a,62.0,-16.0,Carl Soderberg,Blocker,Arizona Coyotes,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:30:02Z,2,15:35,04:25,Shot,Backhand,-79.0,1.0,Carl Soderberg,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:30:58Z,2,15:36,04:24,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:31:08Z,2,16:13,03:47,Shot,Wrist Shot,79.0,1.0,Evander Kane,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:31:30Z,2,16:34,03:26,Missed Shot,n/a,-47.0,8.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:31:33Z,2,16:38,03:22,Shot,Backhand,-88.0,14.0,Taylor Hall,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:31:51Z,2,16:55,03:05,Giveaway,n/a,38.0,37.0,Taylor Hall,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:32:07Z,2,16:59,03:01,Hit,n/a,90.0,33.0,Antti Suomela,Hitter,San Jose Sharks,Niklas Hjalmarsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:32:07Z,2,17:10,02:50,Blocked Shot,n/a,-63.0,-5.0,Timo Meier,Blocker,San Jose Sharks,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:32:23Z,2,17:14,02:46,Goal,Wrist Shot,-81.0,6.0,Taylor Hall,Scorer,Arizona Coyotes,Jordan Oesterle,Assist,Arizona Coyotes,Conor Garland,Assist,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks
+2020-01-15T03:33:01Z,2,17:14,02:46,Faceoff,n/a,0.0,0.0,Joel Kellman,Winner,San Jose Sharks,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:33:45Z,2,17:34,02:26,Faceoff,n/a,69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:34:10Z,2,17:45,02:15,Faceoff,n/a,-20.0,-22.0,Barclay Goodrow,Winner,San Jose Sharks,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:34:39Z,2,18:05,01:55,Hit,n/a,98.0,4.0,Barclay Goodrow,Hitter,San Jose Sharks,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:35:03Z,2,18:08,01:52,Faceoff,n/a,69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:35:15Z,2,18:18,01:42,Giveaway,n/a,38.0,39.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:35:27Z,2,18:29,01:31,Missed Shot,n/a,-84.0,-23.0,Vinnie Hinostroza,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:36:21Z,2,18:46,01:14,Faceoff,n/a,-20.0,-22.0,Antti Suomela,Winner,San Jose Sharks,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:36:51Z,2,19:28,00:32,Shot,Wrist Shot,-72.0,-29.0,Nick Schmaltz,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:37:52Z,2,19:42,00:18,Faceoff,n/a,69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:37:38Z,2,19:48,00:12,Blocked Shot,n/a,54.0,18.0,Conor Garland,Blocker,Arizona Coyotes,Erik Karlsson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:56:34Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:56:48Z,3,00:16,19:44,Takeaway,n/a,91.0,-11.0,Phil Kessel,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:57:04Z,3,00:37,19:23,Shot,Wrist Shot,54.0,35.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:57:19Z,3,00:52,19:08,Shot,Wrist Shot,59.0,-30.0,Phil Kessel,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:58:06Z,3,00:57,19:03,Faceoff,n/a,69.0,22.0,Tomas Hertl,Winner,San Jose Sharks,Taylor Hall,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:58:28Z,3,01:30,18:30,Blocked Shot,n/a,53.0,14.0,Kevin Labanc,Blocker,San Jose Sharks,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:58:45Z,3,01:53,18:07,Shot,Wrist Shot,51.0,32.0,Carl Soderberg,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:59:01Z,3,02:07,17:53,Shot,Wrist Shot,42.0,-5.0,Carl Soderberg,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:59:29Z,3,02:08,17:52,Faceoff,n/a,69.0,-22.0,Nick Schmaltz,Winner,Arizona Coyotes,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T03:59:53Z,3,02:21,17:39,Faceoff,n/a,69.0,-22.0,Joel Kellman,Winner,San Jose Sharks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:00:06Z,3,02:27,17:33,Hit,n/a,86.0,-35.0,Lawson Crouse,Hitter,Arizona Coyotes,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:00:44Z,3,03:05,16:55,Missed Shot,n/a,80.0,8.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:01:06Z,3,03:21,16:39,Penalty,Hooking,76.0,2.0,Conor Garland,PenaltyOn,Arizona Coyotes,Radim Simek,DrewBy,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:01:54Z,3,03:21,16:39,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Joe Thornton,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:02:50Z,3,04:13,15:47,Shot,Snap Shot,-65.0,-11.0,Barclay Goodrow,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:03:23Z,3,04:45,15:15,Giveaway,n/a,-57.0,38.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:03:29Z,3,04:51,15:09,Shot,Wrist Shot,3.0,38.0,Derek Stepan,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:03:52Z,3,04:52,15:08,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:04:20Z,3,05:18,14:42,Shot,Wrist Shot,-62.0,2.0,Kevin Labanc,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:04:47Z,3,05:45,14:15,Shot,Wrist Shot,55.0,1.0,Jakob Chychrun,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:05:14Z,3,06:01,13:59,Hit,n/a,20.0,41.0,Kevin Labanc,Hitter,San Jose Sharks,Jakob Chychrun,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:05:04Z,3,06:02,13:58,Blocked Shot,n/a,55.0,-16.0,Kevin Labanc,Blocker,San Jose Sharks,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:05:36Z,3,06:29,13:31,Hit,n/a,39.0,28.0,Stefan Noesen,Hitter,San Jose Sharks,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:05:59Z,3,06:57,13:03,Blocked Shot,n/a,71.0,3.0,Brenden Dillon,Blocker,San Jose Sharks,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:06:13Z,3,07:11,12:49,Hit,n/a,-73.0,37.0,Carl Soderberg,Hitter,Arizona Coyotes,Brenden Dillon,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:06:53Z,3,07:51,12:09,Shot,Wrist Shot,-59.0,-15.0,Evander Kane,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:08:36Z,3,07:52,12:08,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:08:36Z,3,08:03,11:57,Giveaway,n/a,96.0,11.0,Erik Karlsson,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:09:23Z,3,08:09,11:51,Goal,Snap Shot,78.0,2.0,Lawson Crouse,Scorer,Arizona Coyotes,Derek Stepan,Assist,Arizona Coyotes,Phil Kessel,Assist,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks
+2020-01-15T04:10:18Z,3,08:09,11:51,Faceoff,n/a,0.0,0.0,Joel Kellman,Winner,San Jose Sharks,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:10:12Z,3,08:15,11:45,Hit,n/a,-22.0,41.0,Oliver Ekman-Larsson,Hitter,Arizona Coyotes,Stefan Noesen,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:10:32Z,3,08:40,11:20,Shot,Wrist Shot,-34.0,21.0,Mario Ferraro,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:11:38Z,3,09:45,10:15,Blocked Shot,n/a,-63.0,-28.0,Carl Soderberg,Blocker,Arizona Coyotes,Brenden Dillon,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:12:08Z,3,10:00,10:00,Faceoff,n/a,-20.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:12:26Z,3,10:04,09:56,Takeaway,n/a,-7.0,19.0,Michael Grabner,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:12:29Z,3,10:19,09:41,Shot,Wrist Shot,49.0,-29.0,Alex Goligoski,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:12:36Z,3,10:26,09:34,Blocked Shot,n/a,75.0,4.0,Marc-Edouard Vlasic,Blocker,San Jose Sharks,Jakob Chychrun,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:12:56Z,3,10:45,09:15,Blocked Shot,n/a,-59.0,18.0,Derek Stepan,Blocker,Arizona Coyotes,Evander Kane,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:13:07Z,3,10:56,09:04,Shot,Tip-In,-26.0,-18.0,Melker Karlsson,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:13:59Z,3,10:57,09:03,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:14:04Z,3,11:11,08:49,Shot,Backhand,71.0,18.0,Conor Garland,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:16:25Z,3,11:13,08:47,Faceoff,n/a,-20.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Barclay Goodrow,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:16:43Z,3,11:27,08:33,Hit,n/a,67.0,-42.0,Brenden Dillon,Hitter,San Jose Sharks,Phil Kessel,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:17:09Z,3,11:34,08:26,Faceoff,n/a,69.0,22.0,Barclay Goodrow,Winner,San Jose Sharks,Carl Soderberg,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:17:54Z,3,12:10,07:50,Hit,n/a,68.0,-38.0,Evander Kane,Hitter,San Jose Sharks,Niklas Hjalmarsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:17:55Z,3,12:12,07:48,Shot,Wrist Shot,58.0,12.0,Clayton Keller,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:18:03Z,3,12:19,07:41,Missed Shot,n/a,-49.0,11.0,Kevin Labanc,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:18:14Z,3,12:30,07:30,Blocked Shot,n/a,-75.0,10.0,Jordan Oesterle,Blocker,Arizona Coyotes,Erik Karlsson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:18:25Z,3,12:42,07:18,Hit,n/a,-52.0,-40.0,Carl Soderberg,Hitter,Arizona Coyotes,Evander Kane,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:19:27Z,3,13:36,06:24,Blocked Shot,n/a,-35.0,33.0,Jason Demers,Blocker,Arizona Coyotes,Joel Kellman,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:19:42Z,3,13:58,06:02,Hit,n/a,98.0,-14.0,Brenden Dillon,Hitter,San Jose Sharks,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:19:54Z,3,14:10,05:50,Missed Shot,n/a,71.0,11.0,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:20:06Z,3,14:18,05:42,Missed Shot,n/a,90.0,-17.0,Conor Garland,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:20:07Z,3,14:24,05:36,Shot,Slap Shot,72.0,12.0,Conor Garland,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:20:21Z,3,14:37,05:23,Hit,n/a,32.0,-39.0,Timo Meier,Hitter,San Jose Sharks,Alex Goligoski,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:21:00Z,3,15:17,04:43,Missed Shot,n/a,-58.0,26.0,Erik Karlsson,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:21:38Z,3,15:24,04:36,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:22:53Z,3,16:45,03:15,Hit,n/a,89.0,-32.0,Clayton Keller,Hitter,Arizona Coyotes,Mario Ferraro,Hittee,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:23:11Z,3,17:03,02:57,Blocked Shot,n/a,-76.0,8.0,Jakob Chychrun,Blocker,Arizona Coyotes,Tomas Hertl,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:23:15Z,3,17:07,02:53,Blocked Shot,n/a,-68.0,-2.0,Carl Soderberg,Blocker,Arizona Coyotes,Marc-Edouard Vlasic,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:23:32Z,3,17:07,02:53,Penalty,Tripping,-80.0,-2.0,Adin Hill,PenaltyOn,Arizona Coyotes,Timo Meier,DrewBy,Arizona Coyotes,Nick Schmaltz,ServedBy,San Jose Sharks,n/a,n/a,n/a
+2020-01-15T04:25:36Z,3,17:07,02:53,Faceoff,n/a,-69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:26:02Z,3,17:37,02:23,Shot,Backhand,-83.0,10.0,Tomas Hertl,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:26:08Z,3,17:42,02:18,Missed Shot,n/a,-35.0,17.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:26:23Z,3,17:51,02:09,Goal,Wrist Shot,-85.0,9.0,Evander Kane,Scorer,San Jose Sharks,Kevin Labanc,Assist,San Jose Sharks,Erik Karlsson,Assist,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes
+2020-01-15T04:27:04Z,3,17:51,02:09,Faceoff,n/a,0.0,0.0,Taylor Hall,Winner,Arizona Coyotes,Tomas Hertl,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:27:38Z,3,18:14,01:46,Missed Shot,n/a,-41.0,-1.0,Evander Kane,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:27:47Z,3,18:20,01:40,Goal,Wrist Shot,-1.0,34.0,Conor Garland,Scorer,Arizona Coyotes,Taylor Hall,Assist,Arizona Coyotes,Jason Demers,Assist,San Jose Sharks,n/a,n/a,n/a
+2020-01-15T04:28:23Z,3,18:20,01:40,Faceoff,n/a,0.0,0.0,Barclay Goodrow,Winner,San Jose Sharks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:28:54Z,3,18:50,01:10,Giveaway,n/a,97.0,-2.0,Aaron Dell,PlayerID,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:28:55Z,3,18:53,01:07,Shot,Wrist Shot,81.0,-31.0,Phil Kessel,Shooter,Arizona Coyotes,Aaron Dell,Goalie,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:29:11Z,3,19:08,00:52,Missed Shot,n/a,-44.0,32.0,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:29:19Z,3,19:15,00:45,Missed Shot,n/a,-75.0,6.0,Stefan Noesen,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:29:27Z,3,19:22,00:38,Shot,Wrist Shot,-84.0,-10.0,Timo Meier,Shooter,San Jose Sharks,Adin Hill,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:30:07Z,3,19:23,00:37,Faceoff,n/a,-69.0,-22.0,Tomas Hertl,Winner,San Jose Sharks,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:30:09Z,3,19:34,00:26,Blocked Shot,n/a,-68.0,4.0,Derek Stepan,Blocker,Arizona Coyotes,Brent Burns,Shooter,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a
+2020-01-15T04:30:24Z,3,19:38,00:22,Goal,Wrist Shot,52.0,-23.0,Taylor Hall,Scorer,Arizona Coyotes,Lawson Crouse,Assist,Arizona Coyotes,Derek Stepan,Assist,San Jose Sharks,n/a,n/a,n/a
+2020-01-15T04:31:04Z,3,19:38,00:22,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Joel Kellman,Loser,San Jose Sharks,n/a,n/a,n/a,n/a,n/a,n/a

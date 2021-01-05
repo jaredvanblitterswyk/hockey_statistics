@@ -1,0 +1,223 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2020-02-21T01:07:55Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:09:59Z,1,01:13,18:47,Giveaway,n/a,-7.0,38.0,Christian Dvorak,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:10:38Z,1,01:46,18:14,Faceoff,n/a,69.0,-22.0,Robert Thomas,Winner,St. Louis Blues,Barrett Hayton,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:11:02Z,1,01:50,18:10,Shot,Tip-In,80.0,-3.0,Robert Thomas,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:11:31Z,1,01:51,18:09,Faceoff,n/a,69.0,-22.0,Lawson Crouse,Winner,Arizona Coyotes,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:11:39Z,1,01:59,18:01,Blocked Shot,n/a,76.0,1.0,Alex Goligoski,Blocker,Arizona Coyotes,Zach Sanford,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:11:59Z,1,02:11,17:49,Penalty,Tripping,97.0,3.0,Lawson Crouse,PenaltyOn,Arizona Coyotes,Robert Thomas,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:12:21Z,1,02:11,17:49,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:13:04Z,1,02:54,17:06,Blocked Shot,n/a,49.0,-7.0,Carl Soderberg,Blocker,Arizona Coyotes,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:14:01Z,1,03:49,16:11,Shot,Wrist Shot,65.0,18.0,Vince Dunn,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:14:08Z,1,03:50,16:10,Faceoff,n/a,69.0,22.0,Tyler Bozak,Winner,St. Louis Blues,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:14:28Z,1,03:58,16:02,Shot,Wrist Shot,63.0,25.0,Colton Parayko,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:15:07Z,1,04:37,15:23,Hit,n/a,97.0,13.0,Brayden Schenn,Hitter,St. Louis Blues,Aaron Ness,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:15:14Z,1,04:42,15:18,Hit,n/a,69.0,40.0,Ilya Lyubushkin,Hitter,Arizona Coyotes,Alexander Steen,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:15:18Z,1,04:47,15:13,Shot,Wrist Shot,73.0,-16.0,Jordan Kyrou,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:15:38Z,1,05:08,14:52,Missed Shot,n/a,75.0,-2.0,Alexander Steen,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:15:51Z,1,05:20,14:40,Takeaway,n/a,-7.0,7.0,Sammy Blais,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:16:01Z,1,05:31,14:29,Shot,Wrist Shot,40.0,18.0,Carl Gunnarsson,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:16:16Z,1,05:45,14:15,Hit,n/a,84.0,26.0,Sammy Blais,Hitter,St. Louis Blues,Ilya Lyubushkin,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:16:31Z,1,06:00,14:00,Hit,n/a,87.0,35.0,Sammy Blais,Hitter,St. Louis Blues,Niklas Hjalmarsson,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:16:36Z,1,06:05,13:55,Blocked Shot,n/a,-59.0,0.0,Carl Gunnarsson,Blocker,St. Louis Blues,Christian Dvorak,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:16:41Z,1,06:09,13:51,Shot,Wrist Shot,-51.0,-26.0,Jordan Oesterle,Shooter,Arizona Coyotes,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:18:52Z,1,06:12,13:48,Faceoff,n/a,-69.0,-22.0,Christian Dvorak,Winner,Arizona Coyotes,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:19:16Z,1,06:19,13:41,Missed Shot,n/a,-65.0,-5.0,Taylor Hall,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:20:13Z,1,07:16,12:44,Shot,Slap Shot,40.0,-21.0,Colton Parayko,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:20:39Z,1,07:17,12:43,Faceoff,n/a,69.0,-22.0,Barrett Hayton,Winner,Arizona Coyotes,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:20:51Z,1,07:24,12:36,Blocked Shot,n/a,67.0,0.0,Niklas Hjalmarsson,Blocker,Arizona Coyotes,David Perron,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:21:41Z,1,08:14,11:46,Missed Shot,n/a,70.0,31.0,Jordan Kyrou,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:21:47Z,1,08:20,11:40,Shot,Wrist Shot,36.0,-33.0,Justin Faulk,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:22:16Z,1,08:31,11:29,Penalty,Holding,-47.0,-38.0,Justin Faulk,PenaltyOn,St. Louis Blues,Brad Richardson,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:22:53Z,1,08:31,11:29,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:23:19Z,1,09:02,10:58,Shot,Wrist Shot,-83.0,23.0,Ryan O'Reilly,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:24:08Z,1,09:38,10:22,Penalty,Slashing,-51.0,40.0,Oskar Sundqvist,PenaltyOn,St. Louis Blues,Jordan Oesterle,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:24:50Z,1,09:38,10:22,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:24:49Z,1,09:50,10:10,Shot,Tip-In,-79.0,2.0,Derek Stepan,Shooter,Arizona Coyotes,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:24:57Z,1,09:51,10:09,Blocked Shot,n/a,-82.0,0.0,Alex Pietrangelo,Blocker,St. Louis Blues,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:24:57Z,1,09:52,10:08,Shot,Wrist Shot,-84.0,-8.0,Clayton Keller,Shooter,Arizona Coyotes,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:26:18Z,1,10:43,09:17,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:27:13Z,1,11:38,08:22,Shot,Tip-In,-82.0,-7.0,Christian Dvorak,Shooter,Arizona Coyotes,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:29:07Z,1,11:39,08:21,Faceoff,n/a,-69.0,-22.0,Lawson Crouse,Winner,Arizona Coyotes,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:29:53Z,1,11:55,08:05,Missed Shot,n/a,-63.0,1.0,Brad Richardson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:29:58Z,1,12:00,08:00,Hit,n/a,-39.0,40.0,Christian Fischer,Hitter,Arizona Coyotes,Zach Sanford,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:30:10Z,1,12:11,07:49,Missed Shot,n/a,-59.0,30.0,Ilya Lyubushkin,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:30:38Z,1,12:13,07:47,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Barrett Hayton,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:30:46Z,1,12:21,07:39,Takeaway,n/a,-44.0,2.0,Barrett Hayton,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:31:08Z,1,12:44,07:16,Shot,Wrist Shot,-76.0,-18.0,Carl Soderberg,Shooter,Arizona Coyotes,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:31:20Z,1,12:55,07:05,Shot,Wrist Shot,-79.0,15.0,Barrett Hayton,Shooter,Arizona Coyotes,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:31:48Z,1,13:23,06:37,Shot,Wrist Shot,70.0,9.0,Ivan Barbashev,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:32:13Z,1,13:48,06:12,Missed Shot,n/a,40.0,23.0,Marco Scandella,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:33:08Z,1,14:43,05:17,Blocked Shot,n/a,56.0,14.0,Niklas Hjalmarsson,Blocker,Arizona Coyotes,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:33:27Z,1,15:03,04:57,Shot,Wrap-around,-87.0,-8.0,Taylor Hall,Shooter,Arizona Coyotes,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:34:05Z,1,15:32,04:28,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:34:44Z,1,15:56,04:04,Takeaway,n/a,94.0,-26.0,Robert Thomas,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:35:35Z,1,16:47,03:13,Missed Shot,n/a,58.0,4.0,Jaden Schwartz,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:36:22Z,1,17:34,02:26,Blocked Shot,n/a,-78.0,-9.0,Ryan O'Reilly,Blocker,St. Louis Blues,Aaron Ness,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:36:39Z,1,17:51,02:09,Hit,n/a,-58.0,-40.0,Brayden Schenn,Hitter,St. Louis Blues,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:39:09Z,1,18:09,01:51,Faceoff,n/a,0.0,0.0,Tyler Bozak,Winner,St. Louis Blues,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:39:40Z,1,18:17,01:43,Takeaway,n/a,27.0,28.0,Conor Garland,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:39:56Z,1,18:33,01:27,Takeaway,n/a,31.0,35.0,Niklas Hjalmarsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:40:01Z,1,18:38,01:22,Shot,Wrist Shot,24.0,20.0,Taylor Hall,Shooter,Arizona Coyotes,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:40:13Z,1,18:50,01:10,Hit,n/a,34.0,33.0,Conor Garland,Hitter,Arizona Coyotes,Alexander Steen,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:40:21Z,1,18:58,01:02,Hit,n/a,94.0,7.0,Sammy Blais,Hitter,St. Louis Blues,Jordan Oesterle,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T01:41:08Z,1,19:44,00:16,Blocked Shot,n/a,76.0,-9.0,Oliver Ekman-Larsson,Blocker,Arizona Coyotes,Sammy Blais,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:00:03Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Oskar Sundqvist,Winner,St. Louis Blues,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:00:13Z,2,00:10,19:50,Hit,n/a,-94.0,-26.0,Sammy Blais,Hitter,St. Louis Blues,Derek Stepan,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:00:35Z,2,00:32,19:28,Blocked Shot,n/a,76.0,5.0,Oskar Sundqvist,Blocker,St. Louis Blues,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:00:40Z,2,00:37,19:23,Hit,n/a,47.0,40.0,Sammy Blais,Hitter,St. Louis Blues,Nick Schmaltz,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:00:43Z,2,00:40,19:20,Blocked Shot,n/a,52.0,-16.0,Ivan Barbashev,Blocker,St. Louis Blues,Alex Goligoski,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:00:50Z,2,00:48,19:12,Blocked Shot,n/a,59.0,17.0,Oskar Sundqvist,Blocker,St. Louis Blues,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:01:03Z,2,01:00,19:00,Shot,Wrist Shot,-46.0,34.0,Colton Parayko,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:01:13Z,2,01:11,18:49,Shot,Backhand,75.0,3.0,Taylor Hall,Shooter,Arizona Coyotes,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:01:39Z,2,01:36,18:24,Missed Shot,n/a,-55.0,-25.0,Ryan O'Reilly,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:01:52Z,2,01:50,18:10,Shot,Wrist Shot,-61.0,24.0,David Perron,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:02:06Z,2,02:04,17:56,Blocked Shot,n/a,-70.0,6.0,Niklas Hjalmarsson,Blocker,Arizona Coyotes,Justin Faulk,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:02:14Z,2,02:09,17:51,Shot,Wrist Shot,-55.0,-22.0,David Perron,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:02:36Z,2,02:10,17:50,Faceoff,n/a,-69.0,-22.0,Alexander Steen,Winner,St. Louis Blues,Lawson Crouse,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:02:58Z,2,02:12,17:48,Shot,Slap Shot,-49.0,-17.0,Vince Dunn,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:03:15Z,2,02:13,17:47,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:03:24Z,2,02:19,17:41,Hit,n/a,-96.0,-22.0,Alexander Steen,Hitter,St. Louis Blues,Aaron Ness,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:03:45Z,2,02:40,17:20,Missed Shot,n/a,-77.0,6.0,Tyler Bozak,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:04:25Z,2,02:54,17:06,Faceoff,n/a,69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:05:30Z,2,03:39,16:21,Shot,Wrist Shot,-52.0,0.0,Sammy Blais,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:05:45Z,2,03:53,16:07,Shot,Snap Shot,-74.0,9.0,Oskar Sundqvist,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:06:10Z,2,03:54,16:06,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:06:32Z,2,04:01,15:59,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:06:55Z,2,04:06,15:54,Shot,Wrist Shot,-38.0,-28.0,Carl Gunnarsson,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:07:06Z,2,04:17,15:43,Takeaway,n/a,29.0,0.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:08:14Z,2,05:00,15:00,Faceoff,n/a,-20.0,22.0,Barrett Hayton,Winner,Arizona Coyotes,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:08:31Z,2,05:18,14:42,Takeaway,n/a,50.0,-35.0,Barrett Hayton,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:09:03Z,2,05:50,14:10,Missed Shot,n/a,-73.0,-14.0,Zach Sanford,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:09:31Z,2,06:18,13:42,Shot,Wrist Shot,-61.0,-9.0,Robert Thomas,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:11:35Z,2,06:19,13:41,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:11:55Z,2,06:29,13:31,Missed Shot,n/a,-41.0,30.0,Justin Faulk,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:12:05Z,2,06:37,13:23,Shot,Wrist Shot,-75.0,18.0,Jordan Kyrou,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:12:29Z,2,06:38,13:22,Faceoff,n/a,-69.0,22.0,Lawson Crouse,Winner,Arizona Coyotes,Alexander Steen,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:13:01Z,2,06:47,13:13,Giveaway,n/a,-95.0,17.0,Jordan Oesterle,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:13:10Z,2,06:56,13:04,Giveaway,n/a,-62.0,0.0,Tyler Bozak,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:13:16Z,2,07:02,12:58,Hit,n/a,97.0,3.0,Brad Richardson,Hitter,Arizona Coyotes,Vince Dunn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:14:11Z,2,07:55,12:05,Shot,Wrist Shot,-59.0,0.0,Sammy Blais,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:14:14Z,2,07:56,12:04,Shot,Wrist Shot,-79.0,-11.0,Oskar Sundqvist,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:14:40Z,2,07:58,12:02,Faceoff,n/a,-69.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:15:22Z,2,08:34,11:26,Giveaway,n/a,-54.0,39.0,Niklas Hjalmarsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:15:25Z,2,08:37,11:23,Shot,Wrist Shot,-57.0,34.0,Jaden Schwartz,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:15:35Z,2,08:47,11:13,Takeaway,n/a,-72.0,39.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:15:44Z,2,08:53,11:07,Shot,Deflected,-75.0,-1.0,Jaden Schwartz,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:15:56Z,2,08:54,11:06,Penalty,Cross checking,-80.0,-2.0,Jordan Oesterle,PenaltyOn,Arizona Coyotes,Carl Gunnarsson,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:16:41Z,2,08:54,11:06,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:16:49Z,2,08:58,11:02,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:17:12Z,2,09:11,10:49,Takeaway,n/a,-85.0,19.0,Ryan O'Reilly,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:17:23Z,2,09:22,10:38,Shot,Slap Shot,-42.0,18.0,Alex Pietrangelo,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:17:29Z,2,09:28,10:32,Blocked Shot,n/a,-79.0,-5.0,Alex Goligoski,Blocker,Arizona Coyotes,Brayden Schenn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:20:45Z,2,09:40,10:20,Faceoff,n/a,-20.0,-22.0,Ryan O'Reilly,Winner,St. Louis Blues,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:21:57Z,2,10:58,09:02,Shot,Slap Shot,-46.0,-21.0,Colton Parayko,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:21:49Z,2,10:59,09:01,Shot,Wrist Shot,-75.0,-4.0,Tyler Bozak,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:24:53Z,2,11:01,08:59,Faceoff,n/a,-69.0,-22.0,Derek Stepan,Winner,Arizona Coyotes,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:25:52Z,2,11:44,08:16,Missed Shot,n/a,51.0,0.0,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:26:26Z,2,12:18,07:42,Hit,n/a,-96.0,13.0,Aaron Ness,Hitter,Arizona Coyotes,Robert Thomas,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:26:52Z,2,12:45,07:15,Missed Shot,n/a,-52.0,7.0,Oskar Sundqvist,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:27:08Z,2,12:59,07:01,Shot,Slap Shot,-50.0,29.0,Colton Parayko,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:27:49Z,2,13:00,07:00,Faceoff,n/a,-69.0,22.0,Alexander Steen,Winner,St. Louis Blues,Barrett Hayton,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:28:10Z,2,13:06,06:54,Shot,Wrist Shot,-72.0,6.0,Jordan Kyrou,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:28:15Z,2,13:11,06:49,Missed Shot,n/a,-75.0,3.0,Jordan Kyrou,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:28:40Z,2,13:34,06:26,Shot,Backhand,73.0,12.0,Barrett Hayton,Shooter,Arizona Coyotes,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:29:06Z,2,13:35,06:25,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:29:37Z,2,13:57,06:03,Shot,Wrist Shot,-59.0,29.0,Colton Parayko,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:29:43Z,2,14:02,05:58,Hit,n/a,-8.0,-40.0,Jaden Schwartz,Hitter,St. Louis Blues,Conor Garland,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:29:46Z,2,14:05,05:55,Shot,Tip-In,81.0,8.0,Taylor Hall,Shooter,Arizona Coyotes,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:31:35Z,2,14:07,05:53,Faceoff,n/a,69.0,22.0,Brad Richardson,Winner,Arizona Coyotes,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:32:04Z,2,14:12,05:48,Blocked Shot,n/a,63.0,13.0,David Perron,Blocker,St. Louis Blues,Aaron Ness,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:32:14Z,2,14:22,05:38,Hit,n/a,29.0,40.0,Brad Richardson,Hitter,Arizona Coyotes,David Perron,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:32:36Z,2,14:42,05:18,Hit,n/a,28.0,40.0,Brad Richardson,Hitter,Arizona Coyotes,Robert Thomas,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:33:11Z,2,15:18,04:42,Missed Shot,n/a,-55.0,6.0,Oskar Sundqvist,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:33:28Z,2,15:36,04:24,Hit,n/a,-90.0,-32.0,Jordan Oesterle,Hitter,Arizona Coyotes,Oskar Sundqvist,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:33:39Z,2,15:47,04:13,Blocked Shot,n/a,73.0,4.0,Alex Pietrangelo,Blocker,St. Louis Blues,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:33:53Z,2,15:57,04:03,Takeaway,n/a,64.0,21.0,Nick Schmaltz,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:33:50Z,2,15:58,04:02,Shot,Wrist Shot,79.0,6.0,Derek Stepan,Shooter,Arizona Coyotes,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:34:21Z,2,16:29,03:31,Blocked Shot,n/a,57.0,9.0,Alex Pietrangelo,Blocker,St. Louis Blues,Barrett Hayton,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:34:26Z,2,16:31,03:29,Penalty,Tripping,38.0,24.0,Alex Pietrangelo,PenaltyOn,St. Louis Blues,Barrett Hayton,DrewBy,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:34:55Z,2,16:31,03:29,Faceoff,n/a,69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:35:48Z,2,16:57,03:03,Faceoff,n/a,20.0,-22.0,Tyler Bozak,Winner,St. Louis Blues,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:37:25Z,2,18:20,01:40,Missed Shot,n/a,-69.0,-26.0,Brayden Schenn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:38:47Z,2,19:41,00:19,Blocked Shot,n/a,72.0,-3.0,Colton Parayko,Blocker,St. Louis Blues,Barrett Hayton,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:38:52Z,2,19:47,00:13,Takeaway,n/a,31.0,-17.0,Ryan O'Reilly,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:57:46Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Derek Stepan,Winner,Arizona Coyotes,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:58:18Z,3,00:32,19:28,Takeaway,n/a,45.0,39.0,Ivan Barbashev,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:58:32Z,3,00:46,19:14,Shot,Wrist Shot,41.0,25.0,Carl Gunnarsson,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:59:10Z,3,01:24,18:36,Giveaway,n/a,54.0,18.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:59:17Z,3,01:31,18:29,Takeaway,n/a,-72.0,2.0,Marco Scandella,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T02:59:56Z,3,02:03,17:57,Faceoff,n/a,20.0,-22.0,Robert Thomas,Winner,St. Louis Blues,Barrett Hayton,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:01:09Z,3,02:44,17:16,Faceoff,n/a,69.0,-22.0,Barrett Hayton,Winner,Arizona Coyotes,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:01:35Z,3,02:50,17:10,Shot,Wrist Shot,76.0,-16.0,Jordan Kyrou,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:01:42Z,3,02:57,17:03,Shot,Wrist Shot,42.0,14.0,Alexander Steen,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:01:55Z,3,03:10,16:50,Blocked Shot,n/a,55.0,-10.0,Barrett Hayton,Blocker,Arizona Coyotes,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:02:02Z,3,03:17,16:43,Shot,Wrist Shot,80.0,-14.0,Alex Pietrangelo,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:02:19Z,3,03:34,16:26,Missed Shot,n/a,37.0,29.0,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:02:39Z,3,03:54,16:06,Missed Shot,n/a,54.0,-5.0,Brayden Schenn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:03:20Z,3,04:35,15:25,Hit,n/a,-52.0,40.0,Lawson Crouse,Hitter,Arizona Coyotes,Vince Dunn,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:03:41Z,3,04:56,15:04,Shot,Wrist Shot,72.0,9.0,Sammy Blais,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:03:44Z,3,04:59,15:01,Shot,Tip-In,84.0,-6.0,Sammy Blais,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:04:03Z,3,05:18,14:42,Missed Shot,n/a,73.0,11.0,Sammy Blais,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:04:11Z,3,05:27,14:33,Missed Shot,n/a,-67.0,8.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:04:20Z,3,05:35,14:25,Hit,n/a,-85.0,-37.0,Marco Scandella,Hitter,St. Louis Blues,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:04:27Z,3,05:43,14:17,Missed Shot,n/a,82.0,-18.0,Ivan Barbashev,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:04:59Z,3,06:13,13:47,Blocked Shot,n/a,69.0,4.0,Ilya Lyubushkin,Blocker,Arizona Coyotes,Robert Thomas,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:06:47Z,3,06:14,13:46,Faceoff,n/a,69.0,22.0,Christian Dvorak,Winner,Arizona Coyotes,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:07:21Z,3,06:27,13:33,Shot,Wrist Shot,75.0,7.0,David Perron,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:07:36Z,3,06:42,13:18,Shot,Wrist Shot,54.0,31.0,Robert Thomas,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:07:48Z,3,06:53,13:07,Shot,Wrist Shot,59.0,1.0,Robert Thomas,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:08:11Z,3,06:54,13:06,Faceoff,n/a,69.0,22.0,Tyler Bozak,Winner,St. Louis Blues,Brad Richardson,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:08:24Z,3,06:58,13:02,Blocked Shot,n/a,69.0,15.0,Christian Fischer,Blocker,Arizona Coyotes,Jordan Kyrou,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:09:19Z,3,07:35,12:25,Faceoff,n/a,-69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:09:45Z,3,07:52,12:08,Shot,Tip-In,-5.0,36.0,Nick Schmaltz,Shooter,Arizona Coyotes,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:10:16Z,3,08:23,11:37,Giveaway,n/a,56.0,-37.0,Jaden Schwartz,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:10:19Z,3,08:23,11:37,Shot,Wrist Shot,-14.0,-15.0,Derek Stepan,Shooter,Arizona Coyotes,Jordan Binnington,Goalie,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:11:11Z,3,08:34,11:26,Faceoff,n/a,0.0,0.0,Barrett Hayton,Winner,Arizona Coyotes,Ivan Barbashev,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:11:18Z,3,08:48,11:12,Blocked Shot,n/a,-74.0,10.0,Marco Scandella,Blocker,St. Louis Blues,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:11:35Z,3,08:49,11:11,Faceoff,n/a,-69.0,22.0,Ivan Barbashev,Winner,St. Louis Blues,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:11:56Z,3,09:01,10:59,Hit,n/a,97.0,-9.0,Sammy Blais,Hitter,St. Louis Blues,Aaron Ness,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:12:14Z,3,09:18,10:42,Shot,Slap Shot,38.0,-21.0,Colton Parayko,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:12:40Z,3,09:19,10:41,Faceoff,n/a,69.0,-22.0,Brad Richardson,Winner,Arizona Coyotes,Robert Thomas,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:12:46Z,3,09:24,10:36,Missed Shot,n/a,39.0,-25.0,Alex Pietrangelo,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:13:16Z,3,09:32,10:28,Faceoff,n/a,-20.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Zach Sanford,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:13:37Z,3,09:43,10:17,Giveaway,n/a,-38.0,22.0,Zach Sanford,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:13:39Z,3,09:47,10:13,Missed Shot,n/a,-43.0,2.0,Clayton Keller,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:13:53Z,3,10:00,10:00,Shot,Tip-In,72.0,6.0,Robert Thomas,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:14:02Z,3,10:09,09:51,Shot,Wrist Shot,43.0,-4.0,Justin Faulk,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:14:37Z,3,10:45,09:15,Shot,Wrist Shot,40.0,11.0,Vince Dunn,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:14:43Z,3,10:50,09:10,Giveaway,n/a,69.0,-29.0,Jordan Kyrou,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:14:49Z,3,10:56,09:04,Blocked Shot,n/a,72.0,1.0,Jordan Oesterle,Blocker,Arizona Coyotes,Vince Dunn,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:14:52Z,3,10:56,09:04,Hit,n/a,26.0,-17.0,Tyler Bozak,Hitter,St. Louis Blues,Christian Fischer,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:15:03Z,3,11:11,08:49,Missed Shot,n/a,71.0,3.0,Tyler Bozak,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:15:05Z,3,11:12,08:48,Takeaway,n/a,31.0,-38.0,Justin Faulk,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:15:21Z,3,11:29,08:31,Shot,Backhand,79.0,-8.0,Ryan O'Reilly,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:15:30Z,3,11:37,08:23,Missed Shot,n/a,40.0,2.0,Colton Parayko,Shooter,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:15:57Z,3,12:00,08:00,Goal,Backhand,80.0,-5.0,Ryan O'Reilly,Scorer,St. Louis Blues,Brayden Schenn,Assist,St. Louis Blues,Colton Parayko,Assist,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes
+2020-02-21T03:16:39Z,3,12:00,08:00,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Oskar Sundqvist,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:17:03Z,3,12:24,07:36,Hit,n/a,55.0,-40.0,Alex Goligoski,Hitter,Arizona Coyotes,Oskar Sundqvist,Hittee,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:17:17Z,3,12:26,07:34,Penalty,Hi-sticking,98.0,1.0,Conor Garland,PenaltyOn,Arizona Coyotes,Oskar Sundqvist,DrewBy,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:19:09Z,3,12:26,07:34,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:19:53Z,3,12:43,07:17,Takeaway,n/a,-5.0,-17.0,David Perron,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:19:58Z,3,12:47,07:13,Shot,Tip-In,70.0,3.0,Ryan O'Reilly,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:20:18Z,3,12:49,07:11,Faceoff,n/a,69.0,22.0,Derek Stepan,Winner,Arizona Coyotes,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:20:46Z,3,13:11,06:49,Shot,Wrist Shot,70.0,11.0,Brayden Schenn,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:21:20Z,3,13:28,06:32,Faceoff,n/a,20.0,-22.0,Carl Soderberg,Winner,Arizona Coyotes,Tyler Bozak,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:22:12Z,3,14:10,05:50,Giveaway,n/a,73.0,-38.0,Vince Dunn,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:22:47Z,3,14:45,05:15,Shot,Slap Shot,43.0,-21.0,Justin Faulk,Shooter,St. Louis Blues,Antti Raanta,Goalie,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:22:56Z,3,14:55,05:05,Missed Shot,n/a,-64.0,13.0,Nick Schmaltz,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:25:39Z,3,15:15,04:45,Faceoff,n/a,0.0,0.0,Christian Dvorak,Winner,Arizona Coyotes,Ryan O'Reilly,Loser,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:25:53Z,3,15:40,04:20,Hit,n/a,-39.0,-38.0,Jaden Schwartz,Hitter,St. Louis Blues,Christian Dvorak,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:26:00Z,3,15:43,04:17,Blocked Shot,n/a,-71.0,1.0,Ryan O'Reilly,Blocker,St. Louis Blues,Oliver Ekman-Larsson,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:26:18Z,3,15:52,04:08,Faceoff,n/a,-69.0,22.0,Ryan O'Reilly,Winner,St. Louis Blues,Derek Stepan,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:27:37Z,3,16:35,03:25,Faceoff,n/a,-20.0,-22.0,Robert Thomas,Winner,St. Louis Blues,Barrett Hayton,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:28:02Z,3,17:00,03:00,Missed Shot,n/a,-69.0,4.0,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:28:10Z,3,17:08,02:52,Giveaway,n/a,-27.0,26.0,Zach Sanford,PlayerID,St. Louis Blues,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:28:16Z,3,17:14,02:46,Hit,n/a,-90.0,-33.0,Colton Parayko,Hitter,St. Louis Blues,Carl Soderberg,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:28:23Z,3,17:21,02:39,Hit,n/a,-90.0,-31.0,Marco Scandella,Hitter,St. Louis Blues,Barrett Hayton,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:29:24Z,3,17:47,02:13,Faceoff,n/a,-69.0,-22.0,Tyler Bozak,Winner,St. Louis Blues,Christian Dvorak,Loser,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:29:57Z,3,18:22,01:38,Blocked Shot,n/a,-53.0,18.0,Oskar Sundqvist,Blocker,St. Louis Blues,Jordan Oesterle,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:30:49Z,3,19:13,00:47,Giveaway,n/a,-78.0,39.0,Carl Soderberg,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:30:54Z,3,19:18,00:42,Takeaway,n/a,37.0,-29.0,Oliver Ekman-Larsson,PlayerID,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:31:16Z,3,19:41,00:19,Hit,n/a,-86.0,34.0,Marco Scandella,Hitter,St. Louis Blues,Clayton Keller,Hittee,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a
+2020-02-21T03:31:36Z,3,19:58,00:02,Missed Shot,n/a,-54.0,-32.0,Phil Kessel,Shooter,Arizona Coyotes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

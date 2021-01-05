@@ -1,0 +1,219 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-12-01T20:08:27Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Mikko Koivu,Winner,Minnesota Wild,Jason Dickinson,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:08:54Z,1,00:19,19:41,Blocked Shot,n/a,-71.0,-18.0,Jason Dickinson,Blocker,Dallas Stars,Mikko Koivu,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:09:08Z,1,00:33,19:27,Shot,Backhand,85.0,10.0,Corey Perry,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:09:37Z,1,01:02,18:58,Hit,n/a,-88.0,-23.0,Jamie Benn,Hitter,Dallas Stars,Jordan Greenway,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:10:16Z,1,01:23,18:37,Faceoff,n/a,-69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:10:40Z,1,01:41,18:19,Shot,Snap Shot,46.0,29.0,Denis Gurianov,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:10:48Z,1,01:47,18:13,Missed Shot,n/a,46.0,-13.0,Joe Pavelski,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:11:09Z,1,01:48,18:12,Faceoff,n/a,69.0,-22.0,Radek Faksa,Winner,Dallas Stars,Ryan Hartman,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:11:49Z,1,02:11,17:49,Hit,n/a,-54.0,41.0,Marcus Foligno,Hitter,Minnesota Wild,Andrew Cogliano,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:12:30Z,1,02:52,17:08,Missed Shot,n/a,32.0,39.0,Jamie Oleksiak,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:13:20Z,1,03:45,16:15,Missed Shot,n/a,30.0,-39.0,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:13:51Z,1,04:15,15:45,Missed Shot,n/a,71.0,-24.0,Denis Gurianov,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:14:25Z,1,04:49,15:11,Blocked Shot,n/a,-48.0,-16.0,Roman Polak,Blocker,Dallas Stars,Eric Staal,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:14:44Z,1,05:08,14:52,Shot,Wrist Shot,-85.0,5.0,Mats Zuccarello,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:14:51Z,1,05:09,14:51,Shot,Backhand,-82.0,3.0,Eric Staal,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:14:55Z,1,05:19,14:41,Blocked Shot,n/a,-71.0,1.0,Radek Faksa,Blocker,Dallas Stars,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:15:06Z,1,05:30,14:30,Shot,Backhand,-79.0,3.0,Eric Staal,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:15:14Z,1,05:38,14:22,Hit,n/a,-7.0,-39.0,Jason Zucker,Hitter,Minnesota Wild,Radek Faksa,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:16:08Z,1,06:32,13:28,Hit,n/a,97.0,-19.0,Jamie Benn,Hitter,Dallas Stars,Brad Hunt,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:16:24Z,1,06:49,13:11,Giveaway,n/a,36.0,39.0,Kevin Fiala,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:16:30Z,1,06:54,13:06,Shot,Wrist Shot,81.0,-14.0,Alexander Radulov,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:16:49Z,1,07:08,12:52,Blocked Shot,n/a,-55.0,24.0,Esa Lindell,Blocker,Dallas Stars,Kevin Fiala,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:19:04Z,1,07:10,12:50,Faceoff,n/a,-69.0,22.0,Ryan Hartman,Winner,Minnesota Wild,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:19:07Z,1,07:12,12:48,Shot,Wrist Shot,-49.0,10.0,Ryan Donato,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:19:20Z,1,07:13,12:47,Faceoff,n/a,-69.0,22.0,Andrew Cogliano,Winner,Dallas Stars,Ryan Hartman,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:21:12Z,1,08:47,11:13,Shot,Backhand,-57.0,27.0,Mats Zuccarello,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:21:30Z,1,08:56,11:04,Penalty,Holding,-76.0,40.0,Jamie Oleksiak,PenaltyOn,Dallas Stars,Mats Zuccarello,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:22:04Z,1,08:56,11:04,Faceoff,n/a,-69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:23:02Z,1,09:49,10:11,Shot,Deflected,-64.0,3.0,Mikko Koivu,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:23:11Z,1,09:57,10:03,Shot,Wrist Shot,-73.0,-18.0,Kevin Fiala,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:23:17Z,1,09:58,10:02,Shot,Wrist Shot,-81.0,-3.0,Jared Spurgeon,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:23:16Z,1,10:06,09:54,Blocked Shot,n/a,-63.0,0.0,Blake Comeau,Blocker,Dallas Stars,Ryan Suter,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:23:39Z,1,10:29,09:31,Blocked Shot,n/a,-85.0,11.0,Esa Lindell,Blocker,Dallas Stars,Zach Parise,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:23:54Z,1,10:43,09:17,Shot,Slap Shot,-35.0,6.0,Ryan Suter,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:24:19Z,1,10:44,09:16,Faceoff,n/a,-69.0,22.0,Eric Staal,Winner,Minnesota Wild,Andrew Cogliano,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:24:36Z,1,10:50,09:10,Blocked Shot,n/a,-60.0,-16.0,Radek Faksa,Blocker,Dallas Stars,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:24:46Z,1,10:57,09:03,Missed Shot,n/a,-59.0,30.0,Eric Staal,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:25:02Z,1,11:17,08:43,Blocked Shot,n/a,-66.0,2.0,Jamie Oleksiak,Blocker,Dallas Stars,Jonas Brodin,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:25:16Z,1,11:30,08:30,Blocked Shot,n/a,-68.0,0.0,Andrej Sekera,Blocker,Dallas Stars,Luke Kunin,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:25:17Z,1,11:32,08:28,Missed Shot,n/a,-78.0,25.0,Luke Kunin,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:25:47Z,1,12:00,08:00,Blocked Shot,n/a,63.0,-10.0,Jared Spurgeon,Blocker,Minnesota Wild,Jamie Benn,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:27:40Z,1,12:02,07:58,Faceoff,n/a,69.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:28:23Z,1,12:24,07:36,Shot,Slap Shot,-39.0,35.0,Jared Spurgeon,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:28:53Z,1,12:25,07:35,Faceoff,n/a,-69.0,22.0,Roope Hintz,Winner,Dallas Stars,Ryan Hartman,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:29:04Z,1,12:31,07:29,Missed Shot,n/a,-50.0,28.0,Ryan Hartman,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:29:09Z,1,12:34,07:26,Hit,n/a,-79.0,-34.0,Marcus Foligno,Hitter,Minnesota Wild,John Klingberg,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:29:35Z,1,12:53,07:07,Penalty,Holding,-50.0,38.0,Ryan Donato,PenaltyOn,Minnesota Wild,Roope Hintz,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:30:13Z,1,12:53,07:07,Faceoff,n/a,69.0,22.0,Jamie Benn,Winner,Dallas Stars,Luke Kunin,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:30:17Z,1,13:01,06:59,Shot,Wrist Shot,48.0,30.0,Tyler Seguin,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:30:53Z,1,13:33,06:27,Shot,Wrist Shot,71.0,13.0,Tyler Seguin,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:31:16Z,1,13:34,06:26,Faceoff,n/a,69.0,22.0,Roope Hintz,Winner,Dallas Stars,Zach Parise,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:32:18Z,1,14:25,05:35,Blocked Shot,n/a,61.0,-4.0,Ryan Hartman,Blocker,Minnesota Wild,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:32:47Z,1,14:54,05:06,Hit,n/a,-35.0,40.0,Esa Lindell,Hitter,Dallas Stars,Joel Eriksson Ek,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:33:06Z,1,15:12,04:48,Hit,n/a,40.0,-40.0,Jamie Benn,Hitter,Dallas Stars,Joel Eriksson Ek,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:35:17Z,1,15:26,04:34,Faceoff,n/a,-20.0,22.0,Eric Staal,Winner,Minnesota Wild,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:35:50Z,1,15:42,04:18,Shot,Snap Shot,71.0,-10.0,Blake Comeau,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:37:03Z,1,16:32,03:28,Faceoff,n/a,-20.0,22.0,Mikko Koivu,Winner,Minnesota Wild,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:37:30Z,1,16:57,03:03,Blocked Shot,n/a,-44.0,24.0,Denis Gurianov,Blocker,Dallas Stars,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:38:23Z,1,17:50,02:10,Shot,Wrist Shot,65.0,-15.0,John Klingberg,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:39:24Z,1,18:51,01:09,Shot,Backhand,9.0,5.0,Tyler Seguin,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:40:43Z,1,19:46,00:14,Faceoff,n/a,69.0,-22.0,Joe Pavelski,Winner,Dallas Stars,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:41:17Z,1,19:53,00:07,Takeaway,n/a,45.0,12.0,Kevin Fiala,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T20:41:18Z,1,19:55,00:05,Shot,Wrist Shot,-45.0,30.0,Kevin Fiala,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:00:13Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,Tyler Seguin,Winner,Dallas Stars,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:01:40Z,2,01:32,18:28,Shot,Wrist Shot,-31.0,-13.0,Esa Lindell,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:02:10Z,2,02:01,17:59,Shot,Slap Shot,42.0,-18.0,Matt Dumba,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:02:15Z,2,02:07,17:53,Shot,Slap Shot,51.0,23.0,Eric Staal,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:02:59Z,2,02:51,17:09,Shot,Wrist Shot,46.0,-27.0,Ryan Donato,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:03:30Z,2,02:55,17:05,Faceoff,n/a,-69.0,-22.0,Luke Kunin,Winner,Minnesota Wild,Jamie Benn,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:03:58Z,2,03:16,16:44,Giveaway,n/a,86.0,27.0,Tyler Seguin,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:04:32Z,2,03:28,16:32,Faceoff,n/a,20.0,22.0,Mikko Koivu,Winner,Minnesota Wild,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:05:17Z,2,04:06,15:54,Giveaway,n/a,-12.0,-24.0,Kevin Fiala,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:06:00Z,2,04:48,15:12,Blocked Shot,n/a,78.0,7.0,Roman Polak,Blocker,Dallas Stars,Carson Soucy,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:06:28Z,2,05:16,14:44,Blocked Shot,n/a,-70.0,-15.0,Mats Zuccarello,Blocker,Minnesota Wild,Jason Dickinson,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:06:37Z,2,05:23,14:37,Hit,n/a,-97.0,15.0,Blake Comeau,Hitter,Dallas Stars,Carson Soucy,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:06:39Z,2,05:28,14:32,Giveaway,n/a,-81.0,35.0,Andrew Cogliano,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:07:05Z,2,05:54,14:06,Hit,n/a,99.0,7.0,Ryan Donato,Hitter,Minnesota Wild,Jamie Oleksiak,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:07:13Z,2,06:01,13:59,Hit,n/a,-30.0,-40.0,Matt Dumba,Hitter,Minnesota Wild,Jamie Benn,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:07:49Z,2,06:36,13:24,Blocked Shot,n/a,-79.0,18.0,Jonas Brodin,Blocker,Minnesota Wild,John Klingberg,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:09:50Z,2,06:38,13:22,Faceoff,n/a,-69.0,22.0,Joe Pavelski,Winner,Dallas Stars,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:11:17Z,2,07:45,12:15,Penalty,Interference,18.0,33.0,Jason Zucker,PenaltyOn,Minnesota Wild,Corey Perry,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:11:52Z,2,07:45,12:15,Faceoff,n/a,-69.0,-22.0,Jamie Benn,Winner,Dallas Stars,Luke Kunin,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:12:23Z,2,08:18,11:42,Shot,Wrist Shot,-78.0,3.0,Alexander Radulov,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:12:44Z,2,08:38,11:22,Shot,Snap Shot,-67.0,20.0,Joe Pavelski,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:13:54Z,2,09:48,10:12,Shot,Wrist Shot,-35.0,-2.0,Miro Heiskanen,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:13:58Z,2,09:53,10:07,Hit,n/a,-80.0,5.0,Jonas Brodin,Hitter,Minnesota Wild,Andrew Cogliano,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:14:28Z,2,10:22,09:38,Hit,n/a,98.0,22.0,Joel Eriksson Ek,Hitter,Minnesota Wild,Radek Faksa,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:14:44Z,2,10:39,09:21,Blocked Shot,n/a,-59.0,6.0,Jason Zucker,Blocker,Minnesota Wild,Mattias Janmark,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:15:02Z,2,10:56,09:04,Blocked Shot,n/a,-75.0,-7.0,Carson Soucy,Blocker,Minnesota Wild,Corey Perry,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:15:11Z,2,10:59,09:01,Shot,Wrist Shot,20.0,-1.0,Eric Staal,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:17:34Z,2,11:01,08:59,Faceoff,n/a,69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:17:44Z,2,11:16,08:44,Hit,n/a,-91.0,27.0,Tyler Seguin,Hitter,Dallas Stars,Ryan Suter,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:17:54Z,2,11:29,08:31,Blocked Shot,n/a,-79.0,5.0,Jared Spurgeon,Blocker,Minnesota Wild,Roman Polak,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:18:35Z,2,12:09,07:51,Giveaway,n/a,-76.0,31.0,Eric Staal,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:18:38Z,2,12:13,07:47,Giveaway,n/a,56.0,-25.0,Denis Gurianov,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:19:06Z,2,12:31,07:29,Penalty,Interference,87.0,5.0,Jamie Oleksiak,PenaltyOn,Dallas Stars,Jason Zucker,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:20:03Z,2,12:31,07:29,Faceoff,n/a,69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:20:34Z,2,12:34,07:26,Takeaway,n/a,94.0,26.0,Kevin Fiala,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:21:30Z,2,12:43,07:17,Goal,Tip-In,81.0,3.0,Kevin Fiala,Scorer,Minnesota Wild,Mikko Koivu,Assist,Minnesota Wild,Zach Parise,Assist,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars
+2019-12-01T21:21:59Z,2,12:43,07:17,Faceoff,n/a,0.0,0.0,Ryan Donato,Winner,Minnesota Wild,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:22:44Z,2,13:32,06:28,Shot,Slap Shot,-35.0,15.0,Esa Lindell,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:23:23Z,2,13:33,06:27,Penalty,Hooking,12.0,41.0,Ryan Donato,PenaltyOn,Minnesota Wild,Esa Lindell,DrewBy,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:24:15Z,2,13:33,06:27,Faceoff,n/a,-69.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:23:59Z,2,14:15,05:45,Missed Shot,n/a,-35.0,28.0,Roope Hintz,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:24:34Z,2,14:45,05:15,Blocked Shot,n/a,-75.0,0.0,Jared Spurgeon,Blocker,Minnesota Wild,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:24:50Z,2,15:04,04:56,Shot,Slap Shot,-35.0,2.0,Miro Heiskanen,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:25:24Z,2,15:06,04:54,Faceoff,n/a,-69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:25:46Z,2,15:28,04:32,Goal,Wrist Shot,-51.0,-24.0,John Klingberg,Scorer,Dallas Stars,Esa Lindell,Assist,Dallas Stars,Jamie Benn,Assist,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild
+2019-12-01T21:26:34Z,2,15:28,04:32,Faceoff,n/a,0.0,0.0,Carson Soucy,Winner,Minnesota Wild,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:29:19Z,2,15:42,04:18,Faceoff,n/a,69.0,22.0,Eric Staal,Winner,Minnesota Wild,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:29:32Z,2,15:53,04:07,Takeaway,n/a,94.0,23.0,Mats Zuccarello,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:29:48Z,2,16:09,03:51,Blocked Shot,n/a,62.0,-18.0,Joe Pavelski,Blocker,Dallas Stars,Matt Dumba,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:30:16Z,2,16:37,03:23,Takeaway,n/a,88.0,30.0,Joel Eriksson Ek,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:30:28Z,2,16:50,03:10,Blocked Shot,n/a,-69.0,4.0,Jared Spurgeon,Blocker,Minnesota Wild,Roman Polak,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:30:28Z,2,16:50,03:10,Giveaway,n/a,87.0,34.0,Joel Eriksson Ek,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:31:13Z,2,17:00,03:00,Faceoff,n/a,69.0,22.0,Tyler Seguin,Winner,Dallas Stars,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:31:28Z,2,17:11,02:49,Blocked Shot,n/a,-61.0,-1.0,Ryan Suter,Blocker,Minnesota Wild,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:32:14Z,2,17:57,02:03,Shot,Wrist Shot,-51.0,30.0,Radek Faksa,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:32:18Z,2,18:01,01:59,Blocked Shot,n/a,-82.0,-6.0,Mikko Koivu,Blocker,Minnesota Wild,Radek Faksa,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:32:31Z,2,18:14,01:46,Hit,n/a,-94.0,-24.0,Blake Comeau,Hitter,Dallas Stars,Brad Hunt,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:32:58Z,2,18:41,01:19,Giveaway,n/a,46.0,-28.0,Kevin Fiala,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:33:57Z,2,19:18,00:42,Faceoff,n/a,-69.0,-22.0,Mikko Koivu,Winner,Minnesota Wild,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:35:03Z,2,19:42,00:18,Blocked Shot,n/a,-67.0,0.0,Mats Zuccarello,Blocker,Minnesota Wild,Miro Heiskanen,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:35:09Z,2,19:48,00:12,Shot,Wrist Shot,70.0,-6.0,Eric Staal,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:54:20Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Mikko Koivu,Winner,Minnesota Wild,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:54:23Z,3,00:14,19:46,Shot,Wrist Shot,-19.0,-15.0,Zach Parise,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:55:09Z,3,00:59,19:01,Hit,n/a,30.0,-37.0,Jordan Greenway,Hitter,Minnesota Wild,Jamie Benn,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:55:32Z,3,01:22,18:38,Shot,Wrist Shot,58.0,-28.0,John Klingberg,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:55:56Z,3,01:24,18:36,Faceoff,n/a,69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:56:40Z,3,01:46,18:14,Faceoff,n/a,69.0,22.0,Roope Hintz,Winner,Dallas Stars,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:56:48Z,3,01:51,18:09,Shot,Wrist Shot,29.0,23.0,Joe Pavelski,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:57:01Z,3,01:52,18:08,Faceoff,n/a,69.0,22.0,Eric Staal,Winner,Minnesota Wild,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:57:42Z,3,02:00,18:00,Faceoff,n/a,69.0,22.0,Jamie Benn,Winner,Dallas Stars,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:57:58Z,3,02:07,17:53,Shot,Wrist Shot,29.0,-35.0,John Klingberg,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:58:23Z,3,02:32,17:28,Shot,Wrist Shot,-2.0,-32.0,Jason Zucker,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:58:42Z,3,02:51,17:09,Hit,n/a,91.0,8.0,Joel Eriksson Ek,Hitter,Minnesota Wild,Corey Perry,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:58:51Z,3,03:00,17:00,Hit,n/a,-91.0,32.0,Jordan Greenway,Hitter,Minnesota Wild,Andrej Sekera,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T21:59:17Z,3,03:23,16:37,Missed Shot,n/a,-35.0,16.0,Brad Hunt,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:00:23Z,3,03:24,16:36,Faceoff,n/a,-69.0,22.0,Ryan Hartman,Winner,Minnesota Wild,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:00:09Z,3,03:31,16:29,Takeaway,n/a,-86.0,-15.0,Marcus Foligno,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:00:08Z,3,03:33,16:27,Missed Shot,n/a,-70.0,-7.0,Ryan Donato,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:00:16Z,3,03:42,16:18,Missed Shot,n/a,-33.0,-29.0,Carson Soucy,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:00:35Z,3,04:01,15:59,Takeaway,n/a,-11.0,35.0,Marcus Foligno,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:00:40Z,3,04:05,15:55,Missed Shot,n/a,-40.0,14.0,Zach Parise,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:01:26Z,3,04:52,15:08,Hit,n/a,94.0,27.0,Matt Dumba,Hitter,Minnesota Wild,Denis Gurianov,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:01:54Z,3,05:20,14:40,Hit,n/a,-2.0,41.0,Tyler Seguin,Hitter,Dallas Stars,Luke Kunin,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:02:05Z,3,05:31,14:29,Hit,n/a,13.0,40.0,Joel Eriksson Ek,Hitter,Minnesota Wild,Jamie Benn,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:02:23Z,3,05:49,14:11,Shot,Wrist Shot,22.0,-26.0,Alexander Radulov,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:03:23Z,3,06:48,13:12,Missed Shot,n/a,-33.0,-33.0,Brad Hunt,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:03:40Z,3,07:06,12:54,Hit,n/a,-97.0,-5.0,Andrej Sekera,Hitter,Dallas Stars,Ryan Donato,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:03:42Z,3,07:08,12:52,Hit,n/a,-92.0,30.0,Marcus Foligno,Hitter,Minnesota Wild,Radek Faksa,Hittee,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:04:01Z,3,07:27,12:33,Shot,Wrist Shot,-75.0,-37.0,Brad Hunt,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:04:58Z,3,08:24,11:36,Blocked Shot,n/a,57.0,-16.0,Ryan Suter,Blocker,Minnesota Wild,Denis Gurianov,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:05:20Z,3,08:43,11:17,Shot,Wrist Shot,-57.0,-28.0,Zach Parise,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:07:35Z,3,08:44,11:16,Faceoff,n/a,-69.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:08:48Z,3,09:31,10:29,Shot,Slap Shot,-57.0,-36.0,Eric Staal,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:09:23Z,3,09:44,10:16,Faceoff,n/a,-69.0,22.0,Radek Faksa,Winner,Dallas Stars,Eric Staal,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:10:15Z,3,10:31,09:29,Blocked Shot,n/a,78.0,-7.0,Mats Zuccarello,Blocker,Minnesota Wild,Andrej Sekera,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:11:13Z,3,11:29,08:31,Shot,Wrist Shot,-48.0,-37.0,Jonas Brodin,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:11:29Z,3,11:44,08:16,Shot,Snap Shot,57.0,-7.0,Alexander Radulov,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:17:12Z,3,11:45,08:15,Faceoff,n/a,69.0,-22.0,Joel Eriksson Ek,Winner,Minnesota Wild,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:14:03Z,3,12:05,07:55,Blocked Shot,n/a,42.0,18.0,Joel Eriksson Ek,Blocker,Minnesota Wild,Jamie Benn,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:14:20Z,3,12:22,07:38,Blocked Shot,n/a,45.0,6.0,Luke Kunin,Blocker,Minnesota Wild,Esa Lindell,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:14:39Z,3,12:37,07:23,Missed Shot,n/a,74.0,11.0,Roope Hintz,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:14:56Z,3,12:38,07:22,Faceoff,n/a,69.0,22.0,Roope Hintz,Winner,Dallas Stars,Mikko Koivu,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:15:10Z,3,12:43,07:17,Shot,Backhand,76.0,-3.0,Denis Gurianov,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:15:24Z,3,12:57,07:03,Hit,n/a,95.0,26.0,Roope Hintz,Hitter,Dallas Stars,Mikko Koivu,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:15:36Z,3,13:10,06:50,Hit,n/a,-50.0,-37.0,Jamie Oleksiak,Hitter,Dallas Stars,Zach Parise,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:15:40Z,3,13:13,06:47,Shot,Wrist Shot,-50.0,-34.0,Kevin Fiala,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:15:56Z,3,13:27,06:33,Shot,Wrist Shot,52.0,8.0,Miro Heiskanen,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:16:15Z,3,13:48,06:12,Missed Shot,n/a,81.0,-15.0,Mattias Janmark,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:17:08Z,3,13:49,06:11,Faceoff,n/a,69.0,-22.0,Eric Staal,Winner,Minnesota Wild,Radek Faksa,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:17:10Z,3,14:04,05:56,Shot,Wrist Shot,71.0,18.0,Radek Faksa,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:18:20Z,3,14:05,05:55,Hit,n/a,98.0,1.0,Blake Comeau,Hitter,Dallas Stars,Eric Staal,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:17:55Z,3,14:06,05:54,Takeaway,n/a,99.0,-3.0,Blake Comeau,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:17:18Z,3,14:09,05:51,Goal,Wrist Shot,78.0,20.0,Blake Comeau,Scorer,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:18:05Z,3,14:09,05:51,Faceoff,n/a,0.0,0.0,Tyler Seguin,Winner,Dallas Stars,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:18:24Z,3,14:16,05:44,Faceoff,n/a,-69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:20:47Z,3,14:22,05:38,Faceoff,n/a,-69.0,22.0,Jamie Benn,Winner,Dallas Stars,Luke Kunin,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:21:25Z,3,14:43,05:17,Takeaway,n/a,-60.0,14.0,Jamie Benn,PlayerID,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:21:56Z,3,15:10,04:50,Giveaway,n/a,-78.0,-37.0,Zach Parise,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:22:25Z,3,15:14,04:46,Faceoff,n/a,69.0,-22.0,Mikko Koivu,Winner,Minnesota Wild,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:22:44Z,3,15:36,04:24,Blocked Shot,n/a,-83.0,-14.0,Joe Pavelski,Blocker,Dallas Stars,Ryan Suter,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:23:03Z,3,15:56,04:04,Blocked Shot,n/a,-75.0,-15.0,Roman Polak,Blocker,Dallas Stars,Jason Zucker,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:23:23Z,3,16:11,03:49,Giveaway,n/a,22.0,-35.0,Jason Zucker,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:23:24Z,3,16:16,03:44,Blocked Shot,n/a,61.0,8.0,Mats Zuccarello,Blocker,Minnesota Wild,Corey Perry,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:23:38Z,3,16:31,03:29,Missed Shot,n/a,56.0,11.0,Mattias Janmark,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:23:50Z,3,16:39,03:21,Shot,Deflected,76.0,-9.0,Blake Comeau,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:24:16Z,3,16:41,03:19,Faceoff,n/a,69.0,-22.0,Tyler Seguin,Winner,Dallas Stars,Joel Eriksson Ek,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:25:07Z,3,17:17,02:43,Penalty,Holding,-72.0,-34.0,Alexander Radulov,PenaltyOn,Dallas Stars,Marcus Foligno,DrewBy,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:25:40Z,3,17:17,02:43,Faceoff,n/a,-69.0,22.0,Blake Comeau,Winner,Dallas Stars,Zach Parise,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:26:20Z,3,17:28,02:32,Shot,Wrist Shot,-59.0,-26.0,Kevin Fiala,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:26:40Z,3,17:30,02:30,Goal,Backhand,-84.0,-6.0,Zach Parise,Scorer,Minnesota Wild,Kevin Fiala,Assist,Minnesota Wild,Jared Spurgeon,Assist,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars
+2019-12-01T22:27:20Z,3,17:30,02:30,Faceoff,n/a,0.0,0.0,Joel Eriksson Ek,Winner,Minnesota Wild,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:28:36Z,3,18:53,01:07,Hit,n/a,-3.0,38.0,Alexander Radulov,Hitter,Dallas Stars,Jared Spurgeon,Hittee,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:28:46Z,3,19:03,00:57,Blocked Shot,n/a,53.0,9.0,Luke Kunin,Blocker,Minnesota Wild,Andrej Sekera,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:28:53Z,3,19:11,00:49,Shot,Wrist Shot,82.0,36.0,Mattias Janmark,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:29:41Z,3,19:56,00:04,Blocked Shot,n/a,-45.0,26.0,John Klingberg,Blocker,Dallas Stars,Zach Parise,Shooter,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:31:52Z,4,00:00,05:00,Faceoff,n/a,0.0,0.0,Eric Staal,Winner,Minnesota Wild,Tyler Seguin,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:32:31Z,4,00:27,04:33,Shot,Wrist Shot,64.0,-7.0,Kevin Fiala,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:32:51Z,4,00:46,04:14,Shot,Wrist Shot,51.0,25.0,Kevin Fiala,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:33:19Z,4,00:48,04:12,Faceoff,n/a,69.0,22.0,Joe Pavelski,Winner,Dallas Stars,Mats Zuccarello,Loser,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:34:21Z,4,01:48,03:12,Takeaway,n/a,-38.0,-12.0,Jordan Greenway,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:35:50Z,4,03:17,01:43,Blocked Shot,n/a,-68.0,-16.0,Jared Spurgeon,Blocker,Minnesota Wild,Tyler Seguin,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:36:46Z,4,03:48,01:12,Faceoff,n/a,-69.0,-22.0,Luke Kunin,Winner,Minnesota Wild,Roope Hintz,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:37:24Z,4,04:00,01:00,Takeaway,n/a,-44.0,34.0,Jordan Greenway,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:37:52Z,4,04:26,00:34,Shot,Wrist Shot,-51.0,14.0,Miro Heiskanen,Shooter,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:38:18Z,4,04:27,00:33,Faceoff,n/a,-69.0,22.0,Eric Staal,Winner,Minnesota Wild,Joe Pavelski,Loser,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:39:09Z,4,04:49,00:11,Takeaway,n/a,-61.0,19.0,Eric Staal,PlayerID,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:38:57Z,4,04:58,00:02,Shot,Wrist Shot,62.0,10.0,Kevin Fiala,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:40:40Z,5,00:00,00:00,Goal,Backhand,-80.0,6.0,Zach Parise,Scorer,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:41:06Z,5,00:00,00:00,Goal,Wrist Shot,67.0,4.0,Joe Pavelski,Scorer,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:41:32Z,5,00:00,00:00,Goal,Wrist Shot,-76.0,-3.0,Kevin Fiala,Scorer,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:41:58Z,5,00:00,00:00,Goal,Wrist Shot,64.0,4.0,Tyler Seguin,Scorer,Dallas Stars,Alex Stalock,Goalie,Minnesota Wild,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:42:23Z,5,00:00,00:00,Shot,Backhand,-81.0,6.0,Mats Zuccarello,Shooter,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:42:59Z,5,00:00,00:00,Missed Shot,n/a,80.0,5.0,Alexander Radulov,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:43:12Z,5,00:00,00:00,Goal,Backhand,-80.0,2.0,Mikko Koivu,Scorer,Minnesota Wild,Ben Bishop,Goalie,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a
+2019-12-01T22:43:40Z,5,00:00,00:00,Missed Shot,n/a,77.0,-1.0,Corey Perry,Shooter,Dallas Stars,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a

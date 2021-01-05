@@ -1,0 +1,256 @@
+Date_Time,Period,Period_Time,Period_Time_Remaining,Event_Type,Event_Type_Secondary,x,y,Player_1,Player_1_Type,Player_1_Team,Player_2,Player_2_Type,Player_2_Team,Player_3,Player_3_Type,Player_3_Team,Player_4,Player_4_Type,Player_4_Team
+2019-10-12T23:15:17Z,1,00:00,20:00,Faceoff,n/a,0.0,0.0,Jacob de la Rose,Winner,Detroit Red Wings,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:15:38Z,1,00:11,19:49,Hit,n/a,-43.0,-38.0,Cody Ceci,Hitter,Toronto Maple Leafs,Darren Helm,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:16:07Z,1,00:40,19:20,Shot,Wrist Shot,70.0,-37.0,Auston Matthews,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:21:27Z,1,00:40,19:20,Blocked Shot,n/a,75.0,1.0,Mike Green,Blocker,Detroit Red Wings,Andreas Johnsson,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:16:23Z,1,00:46,19:14,Missed Shot,n/a,44.0,-13.0,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:16:46Z,1,00:56,19:04,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Jacob de la Rose,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:17:04Z,1,01:12,18:48,Shot,Wrist Shot,44.0,-36.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:17:17Z,1,01:25,18:35,Hit,n/a,93.0,15.0,John Tavares,Hitter,Toronto Maple Leafs,Filip Hronek,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:17:48Z,1,01:57,18:03,Takeaway,n/a,-61.0,-34.0,Tyler Bertuzzi,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:17:59Z,1,02:04,17:56,Blocked Shot,n/a,-75.0,1.0,Cody Ceci,Blocker,Toronto Maple Leafs,Filip Hronek,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:18:16Z,1,02:23,17:37,Blocked Shot,n/a,58.0,2.0,Luke Glendening,Blocker,Detroit Red Wings,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:01:02Z,1,02:24,17:36,Shot,Wrist Shot,57.0,-30.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:18:38Z,1,02:47,17:13,Missed Shot,n/a,45.0,-22.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:18:50Z,1,02:58,17:02,Hit,n/a,-88.0,-35.0,Morgan Rielly,Hitter,Toronto Maple Leafs,Luke Glendening,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:19:30Z,1,03:15,16:45,Faceoff,n/a,20.0,22.0,Jacob de la Rose,Winner,Detroit Red Wings,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:20:03Z,1,03:43,16:17,Shot,Tip-In,-79.0,-1.0,Patrik Nemeth,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:20:17Z,1,03:44,16:16,Goal,Backhand,-81.0,4.0,Jacob de la Rose,Scorer,Detroit Red Wings,Patrik Nemeth,Assist,Detroit Red Wings,Justin Abdelkader,Assist,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-10-12T23:20:43Z,1,03:44,16:16,Faceoff,n/a,0.0,0.0,Dylan Larkin,Winner,Detroit Red Wings,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:20:56Z,1,03:57,16:03,Giveaway,n/a,-89.0,-21.0,Jake Muzzin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:21:17Z,1,04:18,15:42,Giveaway,n/a,-21.0,39.0,Tyler Bertuzzi,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:21:47Z,1,04:20,15:40,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:21:58Z,1,04:38,15:22,Giveaway,n/a,41.0,-21.0,Trevor Moore,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:23:02Z,1,05:25,14:35,Faceoff,n/a,69.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:23:15Z,1,05:36,14:24,Blocked Shot,n/a,51.0,0.0,Taro Hirose,Blocker,Detroit Red Wings,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:23:21Z,1,05:43,14:17,Giveaway,n/a,43.0,-33.0,Luke Glendening,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:23:25Z,1,05:46,14:14,Shot,Snap Shot,48.0,-5.0,Auston Matthews,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:23:51Z,1,05:46,14:14,Faceoff,n/a,69.0,-22.0,Jacob de la Rose,Winner,Detroit Red Wings,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:24:14Z,1,06:03,13:57,Shot,Snap Shot,-40.0,39.0,Filip Hronek,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:26:16Z,1,06:07,13:53,Faceoff,n/a,-69.0,22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:27:14Z,1,06:44,13:16,Shot,Snap Shot,-29.0,20.0,Tyler Bertuzzi,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:27:39Z,1,06:45,13:15,Faceoff,n/a,-69.0,22.0,Valtteri Filppula,Winner,Detroit Red Wings,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:28:15Z,1,07:15,12:45,Hit,n/a,95.0,-15.0,Trevor Moore,Hitter,Toronto Maple Leafs,Danny DeKeyser,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:28:54Z,1,07:54,12:06,Shot,Wrist Shot,37.0,-8.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:29:03Z,1,08:01,11:59,Shot,Wrist Shot,53.0,39.0,Rasmus Sandin,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:29:10Z,1,08:11,11:49,Hit,n/a,66.0,-37.0,Luke Glendening,Hitter,Detroit Red Wings,Justin Holl,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:29:38Z,1,08:18,11:42,Faceoff,n/a,69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Mitchell Marner,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:30:08Z,1,08:43,11:17,Hit,n/a,89.0,-26.0,Filip Hronek,Hitter,Detroit Red Wings,Mitchell Marner,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:30:23Z,1,08:53,11:07,Hit,n/a,-11.0,-35.0,Jacob de la Rose,Hitter,Detroit Red Wings,Kasperi Kapanen,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:30:21Z,1,08:55,11:05,Shot,Wrist Shot,49.0,-36.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:30:48Z,1,08:56,11:04,Faceoff,n/a,69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:31:02Z,1,09:05,10:55,Missed Shot,n/a,-74.0,15.0,Dylan Larkin,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:31:26Z,1,09:33,10:27,Takeaway,n/a,-72.0,-24.0,Anthony Mantha,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:32:06Z,1,09:38,10:22,Faceoff,n/a,-69.0,22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:32:21Z,1,09:52,10:08,Blocked Shot,n/a,73.0,7.0,Dennis Cholowski,Blocker,Detroit Red Wings,Frederik Gauthier,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:32:16Z,1,09:55,10:05,Hit,n/a,87.0,-36.0,Dmytro Timashov,Hitter,Toronto Maple Leafs,Dennis Cholowski,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:32:31Z,1,09:57,10:03,Goal,Backhand,80.0,3.0,Nicholas Shore,Scorer,Toronto Maple Leafs,Dmytro Timashov,Assist,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a
+2019-10-12T23:33:07Z,1,09:57,10:03,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Jacob de la Rose,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:33:28Z,1,10:15,09:45,Blocked Shot,n/a,72.0,-9.0,Darren Helm,Blocker,Detroit Red Wings,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:33:47Z,1,10:34,09:26,Hit,n/a,-96.0,19.0,Justin Abdelkader,Hitter,Detroit Red Wings,Andreas Johnsson,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:34:20Z,1,11:06,08:54,Hit,n/a,-18.0,-36.0,Adam Erne,Hitter,Detroit Red Wings,John Tavares,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:34:26Z,1,11:13,08:47,Blocked Shot,n/a,-83.0,13.0,Justin Holl,Blocker,Toronto Maple Leafs,Filip Hronek,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:34:33Z,1,11:21,08:39,Shot,Wrist Shot,63.0,19.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:34:39Z,1,11:24,08:36,Shot,Slap Shot,34.0,33.0,Jake Muzzin,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:35:01Z,1,11:47,08:13,Shot,Wrist Shot,-65.0,24.0,Tyler Bertuzzi,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:37:04Z,1,11:48,08:12,Faceoff,n/a,-69.0,22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:37:35Z,1,12:04,07:56,Shot,Wrist Shot,-69.0,3.0,Anthony Mantha,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:37:42Z,1,12:09,07:51,Missed Shot,n/a,-30.0,-39.0,Dennis Cholowski,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:38:14Z,1,12:17,07:43,Faceoff,n/a,-20.0,22.0,Andreas Athanasiou,Winner,Detroit Red Wings,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:38:36Z,1,12:28,07:32,Hit,n/a,-96.0,10.0,Luke Glendening,Hitter,Detroit Red Wings,Jake Muzzin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:38:50Z,1,12:36,07:24,Penalty,Interference - Goalkeeper,-81.0,-3.0,Andreas Athanasiou,PenaltyOn,Detroit Red Wings,Frederik Andersen,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:39:31Z,1,12:36,07:24,Faceoff,n/a,69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:40:03Z,1,13:18,06:42,Shot,Backhand,83.0,-4.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:40:14Z,1,13:30,06:30,Missed Shot,n/a,-55.0,-1.0,Jacob de la Rose,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:40:33Z,1,13:48,06:12,Giveaway,n/a,57.0,3.0,William Nylander,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:40:40Z,1,13:55,06:05,Takeaway,n/a,40.0,32.0,Luke Glendening,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:40:42Z,1,13:58,06:02,Shot,Wrist Shot,-66.0,13.0,Luke Glendening,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:40:48Z,1,13:59,06:01,Shot,Wrist Shot,-67.0,-3.0,Christoffer Ehn,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:41:01Z,1,14:17,05:43,Hit,n/a,51.0,-34.0,Patrik Nemeth,Hitter,Detroit Red Wings,Trevor Moore,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:41:12Z,1,14:26,05:34,Shot,Wrist Shot,-53.0,-39.0,Patrik Nemeth,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:41:26Z,1,14:42,05:18,Shot,Snap Shot,66.0,8.0,Dmytro Timashov,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:41:34Z,1,14:50,05:10,Hit,n/a,63.0,-35.0,Filip Hronek,Hitter,Detroit Red Wings,Ilya Mikheyev,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:41:56Z,1,15:09,04:51,Giveaway,n/a,-38.0,-8.0,Tyler Bertuzzi,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:42:23Z,1,15:39,04:21,Takeaway,n/a,-59.0,-25.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:43:16Z,1,15:48,04:12,Penalty,Slashing,66.0,-1.0,Valtteri Filppula,PenaltyOn,Detroit Red Wings,Kasperi Kapanen,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:44:56Z,1,15:48,04:12,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:45:06Z,1,15:56,04:04,Giveaway,n/a,51.0,35.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:45:50Z,1,16:41,03:19,Giveaway,n/a,-37.0,8.0,Morgan Rielly,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:45:57Z,1,16:47,03:13,Hit,n/a,-87.0,33.0,Alexander Kerfoot,Hitter,Toronto Maple Leafs,Justin Abdelkader,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:46:09Z,1,17:00,03:00,Giveaway,n/a,64.0,34.0,Patrik Nemeth,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:46:20Z,1,17:10,02:50,Shot,Wrist Shot,56.0,-29.0,Alexander Kerfoot,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:46:25Z,1,17:15,02:45,Hit,n/a,88.0,-33.0,Danny DeKeyser,Hitter,Detroit Red Wings,Kasperi Kapanen,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:46:54Z,1,17:44,02:16,Giveaway,n/a,82.0,-36.0,Dylan Larkin,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:46:58Z,1,17:47,02:13,Blocked Shot,n/a,68.0,16.0,Filip Hronek,Blocker,Detroit Red Wings,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:47:51Z,1,18:39,01:21,Missed Shot,n/a,64.0,-9.0,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:48:34Z,1,19:21,00:39,Hit,n/a,41.0,31.0,Taro Hirose,Hitter,Detroit Red Wings,Kasperi Kapanen,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:48:55Z,1,19:43,00:17,Blocked Shot,n/a,-72.0,1.0,Mitchell Marner,Blocker,Toronto Maple Leafs,Valtteri Filppula,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-12T23:49:39Z,1,19:45,00:15,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:08:17Z,2,00:00,20:00,Faceoff,n/a,0.0,0.0,William Nylander,Winner,Toronto Maple Leafs,Jacob de la Rose,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:08:21Z,2,00:15,19:45,Shot,Backhand,-70.0,35.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:08:30Z,2,00:16,19:44,Faceoff,n/a,-69.0,22.0,William Nylander,Winner,Toronto Maple Leafs,Jacob de la Rose,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:08:57Z,2,00:28,19:32,Giveaway,n/a,-36.0,22.0,Mike Green,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:09:06Z,2,00:37,19:23,Giveaway,n/a,21.0,18.0,Patrik Nemeth,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:09:32Z,2,00:45,19:15,Blocked Shot,n/a,66.0,5.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Darren Helm,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:09:25Z,2,00:50,19:10,Penalty,Cross checking,89.0,-29.0,Tyson Barrie,PenaltyOn,Toronto Maple Leafs,Justin Abdelkader,DrewBy,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:10:14Z,2,00:50,19:10,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:10:29Z,2,01:06,18:54,Missed Shot,n/a,70.0,-16.0,Dylan Larkin,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:10:41Z,2,01:16,18:44,Blocked Shot,n/a,64.0,-9.0,Ilya Mikheyev,Blocker,Toronto Maple Leafs,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:11:12Z,2,01:48,18:12,Giveaway,n/a,47.0,-38.0,Tyler Bertuzzi,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:11:16Z,2,01:52,18:08,Takeaway,n/a,37.0,-36.0,Anthony Mantha,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:11:33Z,2,02:09,17:51,Shot,Slap Shot,67.0,18.0,Dylan Larkin,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:12:11Z,2,02:46,17:14,Shot,Slap Shot,42.0,24.0,Mike Green,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:12:27Z,2,03:04,16:56,Missed Shot,n/a,58.0,29.0,Filip Hronek,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:12:33Z,2,03:10,16:50,Blocked Shot,n/a,63.0,6.0,Tyson Barrie,Blocker,Toronto Maple Leafs,Mike Green,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:13:04Z,2,03:40,16:20,Hit,n/a,91.0,-27.0,Darren Helm,Hitter,Detroit Red Wings,Cody Ceci,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:13:11Z,2,03:48,16:12,Shot,Snap Shot,-85.0,20.0,Auston Matthews,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:13:18Z,2,03:51,16:09,Shot,Wrap-around,-87.0,4.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:13:46Z,2,03:52,16:08,Faceoff,n/a,-69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:13:54Z,2,03:59,16:01,Giveaway,n/a,-90.0,15.0,Danny DeKeyser,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:13:57Z,2,04:01,15:59,Shot,Wrist Shot,-83.0,-14.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:14:12Z,2,04:17,15:43,Blocked Shot,n/a,-64.0,18.0,Jacob de la Rose,Blocker,Detroit Red Wings,Tyson Barrie,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:14:35Z,2,04:39,15:21,Missed Shot,n/a,-79.0,16.0,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:17:52Z,2,05:26,14:34,Blocked Shot,n/a,-73.0,-5.0,Valtteri Filppula,Blocker,Detroit Red Wings,Jake Muzzin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:15:51Z,2,05:56,14:04,Missed Shot,n/a,-80.0,14.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:16:07Z,2,06:08,13:52,Shot,Snap Shot,55.0,8.0,Anthony Mantha,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:18:46Z,2,06:12,13:48,Faceoff,n/a,-20.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:19:04Z,2,06:39,13:21,Shot,Tip-In,77.0,-2.0,Adam Erne,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:19:45Z,2,07:21,12:39,Hit,n/a,-91.0,-29.0,Kasperi Kapanen,Hitter,Toronto Maple Leafs,Madison Bowey,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:19:52Z,2,07:29,12:31,Blocked Shot,n/a,-74.0,-10.0,Anthony Mantha,Blocker,Detroit Red Wings,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:20:23Z,2,07:32,12:28,Faceoff,n/a,-69.0,22.0,Jacob de la Rose,Winner,Detroit Red Wings,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:20:41Z,2,07:42,12:18,Blocked Shot,n/a,-71.0,2.0,Mike Green,Blocker,Detroit Red Wings,Andreas Johnsson,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:20:52Z,2,07:46,12:14,Missed Shot,n/a,-29.0,27.0,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:21:31Z,2,08:13,11:47,Faceoff,n/a,-69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:21:36Z,2,08:20,11:40,Shot,Wrist Shot,-59.0,-30.0,Jake Muzzin,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:22:12Z,2,08:28,11:32,Faceoff,n/a,-20.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:22:21Z,2,08:36,11:24,Hit,n/a,-1.0,37.0,Trevor Moore,Hitter,Toronto Maple Leafs,Dennis Cholowski,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:22:32Z,2,08:46,11:14,Blocked Shot,n/a,-75.0,-6.0,Filip Hronek,Blocker,Detroit Red Wings,Ilya Mikheyev,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:22:43Z,2,08:57,11:03,Blocked Shot,n/a,75.0,-18.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Filip Hronek,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:23:23Z,2,09:13,10:47,Faceoff,n/a,69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:23:59Z,2,09:27,10:33,Hit,n/a,-74.0,-38.0,Luke Glendening,Hitter,Detroit Red Wings,Nicholas Shore,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:24:16Z,2,09:43,10:17,Missed Shot,n/a,81.0,-10.0,Luke Glendening,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:24:34Z,2,10:02,09:58,Shot,Backhand,-81.0,5.0,Frederik Gauthier,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:27:06Z,2,10:25,09:35,Faceoff,n/a,0.0,0.0,Jacob de la Rose,Winner,Detroit Red Wings,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:27:49Z,2,10:46,09:14,Shot,Slap Shot,68.0,25.0,Justin Abdelkader,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:28:17Z,2,11:14,08:46,Shot,Wrist Shot,-81.0,25.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:28:53Z,2,11:49,08:11,Shot,Backhand,87.0,-2.0,Tyler Bertuzzi,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:29:09Z,2,12:07,07:53,Blocked Shot,n/a,-68.0,3.0,Filip Hronek,Blocker,Detroit Red Wings,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:29:32Z,2,12:30,07:30,Hit,n/a,-38.0,-36.0,Filip Hronek,Hitter,Detroit Red Wings,Alexander Kerfoot,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:29:44Z,2,12:41,07:19,Blocked Shot,n/a,-54.0,16.0,Dylan Larkin,Blocker,Detroit Red Wings,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:30:20Z,2,12:45,07:15,Faceoff,n/a,-69.0,22.0,William Nylander,Winner,Toronto Maple Leafs,Andreas Athanasiou,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:30:33Z,2,12:58,07:02,Blocked Shot,n/a,-51.0,-14.0,Luke Glendening,Blocker,Detroit Red Wings,Rasmus Sandin,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:30:57Z,2,13:22,06:38,Giveaway,n/a,-19.0,-14.0,Rasmus Sandin,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:31:07Z,2,13:32,06:28,Hit,n/a,35.0,-37.0,Darren Helm,Hitter,Detroit Red Wings,Tyson Barrie,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:31:12Z,2,13:36,06:24,Hit,n/a,-38.0,-34.0,Jacob de la Rose,Hitter,Detroit Red Wings,Nicholas Shore,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:31:22Z,2,13:47,06:13,Giveaway,n/a,57.0,36.0,Justin Holl,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:32:07Z,2,14:32,05:28,Blocked Shot,n/a,-78.0,-6.0,Taro Hirose,Blocker,Detroit Red Wings,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:32:21Z,2,14:43,05:17,Blocked Shot,n/a,-75.0,9.0,Filip Hronek,Blocker,Detroit Red Wings,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:33:14Z,2,15:39,04:21,Giveaway,n/a,21.0,-16.0,Frederik Andersen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:33:17Z,2,15:39,04:21,Shot,Tip-In,65.0,7.0,Dylan Larkin,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:35:22Z,2,15:41,04:19,Faceoff,n/a,69.0,-22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:36:17Z,2,16:00,04:00,Faceoff,n/a,69.0,22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:36:31Z,2,16:08,03:52,Shot,Wrist Shot,-80.0,8.0,Frederik Gauthier,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:36:38Z,2,16:14,03:46,Shot,Wrist Shot,-65.0,-10.0,Nicholas Shore,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:36:39Z,2,16:14,03:46,Giveaway,n/a,-85.0,-29.0,Dennis Cholowski,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:36:49Z,2,16:26,03:34,Blocked Shot,n/a,-79.0,5.0,Anthony Mantha,Blocker,Detroit Red Wings,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:37:35Z,2,17:11,02:49,Takeaway,n/a,-36.0,-9.0,Jacob de la Rose,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:37:42Z,2,17:13,02:47,Faceoff,n/a,-69.0,-22.0,Auston Matthews,Winner,Toronto Maple Leafs,Jacob de la Rose,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:38:05Z,2,17:21,02:39,Shot,Backhand,-72.0,-28.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:38:20Z,2,17:36,02:24,Takeaway,n/a,-35.0,22.0,Justin Abdelkader,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:39:09Z,2,18:25,01:35,Giveaway,n/a,-70.0,37.0,Jimmy Howard,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:39:19Z,2,18:35,01:25,Blocked Shot,n/a,-74.0,4.0,Patrik Nemeth,Blocker,Detroit Red Wings,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:39:52Z,2,19:07,00:53,Giveaway,n/a,-47.0,10.0,Kasperi Kapanen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:39:58Z,2,19:13,00:47,Blocked Shot,n/a,60.0,8.0,Jake Muzzin,Blocker,Toronto Maple Leafs,Taro Hirose,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:40:08Z,2,19:23,00:37,Shot,Snap Shot,75.0,23.0,Danny DeKeyser,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:40:15Z,2,19:30,00:30,Goal,Wrist Shot,-76.0,-17.0,Ilya Mikheyev,Scorer,Toronto Maple Leafs,Kasperi Kapanen,Assist,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a
+2019-10-13T00:41:19Z,2,19:30,00:30,Faceoff,n/a,0.0,0.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T00:41:28Z,2,19:46,00:14,Faceoff,n/a,69.0,22.0,Dylan Larkin,Winner,Detroit Red Wings,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:00:34Z,3,00:00,20:00,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Jacob de la Rose,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:00:37Z,3,00:06,19:54,Missed Shot,n/a,43.0,12.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:01:39Z,3,00:40,19:20,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:01:55Z,3,00:53,19:07,Blocked Shot,n/a,76.0,4.0,Patrik Nemeth,Blocker,Detroit Red Wings,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:02:13Z,3,01:11,18:49,Missed Shot,n/a,84.0,1.0,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:02:19Z,3,01:17,18:43,Blocked Shot,n/a,75.0,4.0,Dylan Larkin,Blocker,Detroit Red Wings,Mitchell Marner,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:02:36Z,3,01:34,18:26,Shot,Wrist Shot,-66.0,25.0,Tyler Bertuzzi,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:02:49Z,3,01:47,18:13,Blocked Shot,n/a,-51.0,-16.0,Kasperi Kapanen,Blocker,Toronto Maple Leafs,Danny DeKeyser,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:03:19Z,3,01:47,18:13,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Andreas Athanasiou,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:04:24Z,3,02:53,17:07,Shot,Snap Shot,-9.0,-37.0,Patrik Nemeth,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:05:08Z,3,03:03,16:57,Faceoff,n/a,20.0,22.0,Auston Matthews,Winner,Toronto Maple Leafs,Jacob de la Rose,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:05:33Z,3,03:39,16:21,Shot,Snap Shot,-37.0,-22.0,Darren Helm,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:06:03Z,3,03:40,16:20,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:06:11Z,3,03:46,16:14,Shot,Slap Shot,-31.0,2.0,Dennis Cholowski,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:06:30Z,3,03:48,16:12,Faceoff,n/a,-69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,Nicholas Shore,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:06:47Z,3,03:56,16:04,Blocked Shot,n/a,-78.0,10.0,Morgan Rielly,Blocker,Toronto Maple Leafs,Tyler Bertuzzi,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:07:12Z,3,04:22,15:38,Giveaway,n/a,-47.0,11.0,Anthony Mantha,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:07:50Z,3,04:57,15:03,Hit,n/a,62.0,-34.0,Kasperi Kapanen,Hitter,Toronto Maple Leafs,Danny DeKeyser,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:07:51Z,3,04:57,15:03,Shot,Wrist Shot,81.0,-39.0,Danny DeKeyser,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:07:59Z,3,05:09,14:51,Hit,n/a,45.0,-36.0,Patrik Nemeth,Hitter,Detroit Red Wings,Trevor Moore,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:08:04Z,3,05:14,14:46,Shot,Snap Shot,64.0,27.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:08:43Z,3,05:15,14:45,Faceoff,n/a,69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,Auston Matthews,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:09:14Z,3,05:23,14:37,Faceoff,n/a,-69.0,-22.0,Luke Glendening,Winner,Detroit Red Wings,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:09:26Z,3,05:33,14:27,Shot,Wrist Shot,-69.0,38.0,Mike Green,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:09:34Z,3,05:41,14:19,Giveaway,n/a,-49.0,-10.0,Patrik Nemeth,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:09:41Z,3,05:46,14:14,Hit,n/a,35.0,38.0,Luke Glendening,Hitter,Detroit Red Wings,Auston Matthews,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:10:21Z,3,06:28,13:32,Hit,n/a,95.0,25.0,Trevor Moore,Hitter,Toronto Maple Leafs,Madison Bowey,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:10:24Z,3,06:31,13:29,Blocked Shot,n/a,66.0,-9.0,Jacob de la Rose,Blocker,Detroit Red Wings,Justin Holl,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:10:37Z,3,06:45,13:15,Hit,n/a,43.0,37.0,Justin Abdelkader,Hitter,Detroit Red Wings,Rasmus Sandin,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:10:47Z,3,06:54,13:06,Shot,Slap Shot,42.0,-9.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:13:16Z,3,06:56,13:04,Faceoff,n/a,69.0,-22.0,Dylan Larkin,Winner,Detroit Red Wings,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:13:26Z,3,07:08,12:52,Shot,Wrist Shot,77.0,-23.0,Kasperi Kapanen,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:13:32Z,3,07:10,12:50,Faceoff,n/a,69.0,-22.0,John Tavares,Winner,Toronto Maple Leafs,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:13:52Z,3,07:14,12:46,Missed Shot,n/a,48.0,-32.0,Cody Ceci,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:15:02Z,3,08:24,11:36,Blocked Shot,n/a,-56.0,-18.0,William Nylander,Blocker,Toronto Maple Leafs,Patrik Nemeth,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:15:40Z,3,09:02,10:58,Shot,Backhand,85.0,14.0,Nicholas Shore,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:16:21Z,3,09:05,10:55,Faceoff,n/a,69.0,22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Andreas Athanasiou,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:16:33Z,3,09:09,10:51,Shot,Wrist Shot,58.0,38.0,Ilya Mikheyev,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:16:38Z,3,09:11,10:49,Goal,Backhand,86.0,-2.0,Alexander Kerfoot,Scorer,Toronto Maple Leafs,Ilya Mikheyev,Assist,Toronto Maple Leafs,Rasmus Sandin,Assist,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings
+2019-10-13T01:17:22Z,3,09:11,10:49,Faceoff,n/a,0.0,0.0,John Tavares,Winner,Toronto Maple Leafs,Jacob de la Rose,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:17:33Z,3,09:21,10:39,Takeaway,n/a,78.0,24.0,John Tavares,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:17:40Z,3,09:30,10:30,Blocked Shot,n/a,-52.0,-30.0,Cody Ceci,Blocker,Toronto Maple Leafs,Darren Helm,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:17:53Z,3,09:35,10:25,Goal,Snap Shot,-74.0,-7.0,Darren Helm,Scorer,Detroit Red Wings,Justin Abdelkader,Assist,Detroit Red Wings,Jacob de la Rose,Assist,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs
+2019-10-13T01:18:43Z,3,09:35,10:25,Faceoff,n/a,0.0,0.0,Auston Matthews,Winner,Toronto Maple Leafs,Anthony Mantha,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:18:46Z,3,09:46,10:14,Hit,n/a,79.0,-36.0,Patrik Nemeth,Hitter,Detroit Red Wings,William Nylander,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:19:10Z,3,10:10,09:50,Missed Shot,n/a,-63.0,13.0,Anthony Mantha,Shooter,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:19:20Z,3,10:20,09:40,Hit,n/a,-80.0,38.0,William Nylander,Hitter,Toronto Maple Leafs,Mike Green,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:19:52Z,3,10:52,09:08,Shot,Wrist Shot,81.0,6.0,Frederik Gauthier,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:19:56Z,3,10:56,09:04,Hit,n/a,95.0,19.0,Dmytro Timashov,Hitter,Toronto Maple Leafs,Filip Hronek,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:19:58Z,3,10:57,09:03,Shot,Wrist Shot,81.0,7.0,Frederik Gauthier,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:20:22Z,3,10:58,09:02,Shot,Wrist Shot,81.0,7.0,Frederik Gauthier,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:20:09Z,3,11:03,08:57,Shot,Slap Shot,30.0,22.0,Morgan Rielly,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:22:43Z,3,11:21,08:39,Faceoff,n/a,20.0,-22.0,Jacob de la Rose,Winner,Detroit Red Wings,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:23:01Z,3,11:31,08:29,Hit,n/a,-92.0,19.0,Alexander Kerfoot,Hitter,Toronto Maple Leafs,Jacob de la Rose,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:23:18Z,3,11:50,08:10,Takeaway,n/a,-67.0,22.0,Ilya Mikheyev,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:23:36Z,3,12:12,07:48,Shot,Wrist Shot,-89.0,10.0,Taro Hirose,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:23:50Z,3,12:13,07:47,Faceoff,n/a,-69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:24:12Z,3,12:24,07:36,Hit,n/a,92.0,-34.0,Mike Green,Hitter,Detroit Red Wings,Kasperi Kapanen,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:24:38Z,3,12:50,07:10,Blocked Shot,n/a,79.0,-5.0,Mike Green,Blocker,Detroit Red Wings,John Tavares,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:24:47Z,3,12:59,07:01,Shot,Wrist Shot,-33.0,2.0,Filip Hronek,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:25:19Z,3,13:00,07:00,Faceoff,n/a,-69.0,-22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Andreas Athanasiou,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:25:37Z,3,13:06,06:54,Faceoff,n/a,-69.0,22.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Luke Glendening,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:26:05Z,3,13:15,06:45,Hit,n/a,-5.0,-35.0,Filip Hronek,Hitter,Detroit Red Wings,Nicholas Shore,Hittee,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:26:10Z,3,13:21,06:39,Shot,Slap Shot,36.0,-17.0,Tyson Barrie,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:26:12Z,3,13:23,06:37,Hit,n/a,95.0,-22.0,Dmytro Timashov,Hitter,Toronto Maple Leafs,Dennis Cholowski,Hittee,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:26:17Z,3,13:27,06:33,Shot,Wrist Shot,61.0,17.0,Jake Muzzin,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:26:24Z,3,13:34,06:26,Goal,Snap Shot,76.0,18.0,Jake Muzzin,Scorer,Toronto Maple Leafs,Dmytro Timashov,Assist,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a
+2019-10-13T01:27:06Z,3,13:34,06:26,Faceoff,n/a,0.0,0.0,Dylan Larkin,Winner,Detroit Red Wings,William Nylander,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:27:18Z,3,13:45,06:15,Giveaway,n/a,-78.0,-36.0,Frederik Andersen,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:27:53Z,3,14:21,05:39,Giveaway,n/a,-31.0,12.0,Anthony Mantha,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:28:46Z,3,14:52,05:08,Faceoff,n/a,-69.0,-22.0,Jacob de la Rose,Winner,Detroit Red Wings,Alexander Kerfoot,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:29:03Z,3,14:58,05:02,Penalty,Interference,49.0,-9.0,Danny DeKeyser,PenaltyOn,Detroit Red Wings,Ilya Mikheyev,DrewBy,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:31:07Z,3,14:58,05:02,Faceoff,n/a,69.0,22.0,John Tavares,Winner,Toronto Maple Leafs,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:31:36Z,3,15:12,04:48,Blocked Shot,n/a,63.0,-1.0,Dylan Larkin,Blocker,Detroit Red Wings,Morgan Rielly,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:31:49Z,3,15:16,04:44,Shot,Tip-In,71.0,6.0,Andreas Johnsson,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:31:58Z,3,15:17,04:43,Faceoff,n/a,69.0,22.0,Luke Glendening,Winner,Detroit Red Wings,John Tavares,Loser,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:32:12Z,3,15:28,04:32,Shot,Wrist Shot,69.0,22.0,Mitchell Marner,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:32:33Z,3,15:48,04:12,Giveaway,n/a,63.0,-3.0,Mitchell Marner,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:33:14Z,3,16:30,03:30,Giveaway,n/a,35.0,25.0,Jacob de la Rose,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:33:18Z,3,16:34,03:26,Takeaway,n/a,22.0,-36.0,Jacob de la Rose,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:34:18Z,3,17:01,02:59,Faceoff,n/a,69.0,-22.0,Nicholas Shore,Winner,Toronto Maple Leafs,Dylan Larkin,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:35:01Z,3,17:45,02:15,Giveaway,n/a,-31.0,-15.0,Dennis Cholowski,PlayerID,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:35:03Z,3,17:47,02:13,Goal,Wrist Shot,-11.0,0.0,Trevor Moore,Scorer,Toronto Maple Leafs,John Tavares,Assist,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:35:49Z,3,17:47,02:13,Faceoff,n/a,0.0,0.0,Frederik Gauthier,Winner,Toronto Maple Leafs,Valtteri Filppula,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:36:54Z,3,19:00,01:00,Shot,Snap Shot,61.0,-24.0,Auston Matthews,Shooter,Toronto Maple Leafs,Jimmy Howard,Goalie,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:37:32Z,3,19:01,00:59,Faceoff,n/a,69.0,-22.0,Alexander Kerfoot,Winner,Toronto Maple Leafs,Andreas Athanasiou,Loser,Detroit Red Wings,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:37:38Z,3,19:25,00:35,Blocked Shot,n/a,78.0,3.0,Dennis Cholowski,Blocker,Detroit Red Wings,Trevor Moore,Shooter,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:38:07Z,3,19:55,00:05,Giveaway,n/a,13.0,10.0,Alexander Kerfoot,PlayerID,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+2019-10-13T01:38:11Z,3,19:58,00:02,Shot,Snap Shot,8.0,28.0,Justin Abdelkader,Shooter,Detroit Red Wings,Frederik Andersen,Goalie,Toronto Maple Leafs,n/a,n/a,n/a,n/a,n/a,n/a
