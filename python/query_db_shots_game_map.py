@@ -140,6 +140,17 @@ away_shots = df_shots.loc[
     ['x','y']
     ]
 
+# check for switched home-away orientation
+# home shots and goals always shown on left
+if home_shots['x'].mean() > 0:
+    # shots shown on opposite side of rink so reflect x and y about origin
+    home_shots = -1*home_shots
+    home_missed = -1*home_missed
+    home_goals = -1*home_goals
+    
+    away_shots = -1*away_shots
+    away_missed = -1*away_missed
+    away_goals = -1*away_goals
 
 #%% GENERATE FIG
 plt.close('all')
