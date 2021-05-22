@@ -1,0 +1,41 @@
+cluster 0, project: HOCKEY
+
+database/collection structure: 
+
+db: game_events: store all game events for each regular season game
+	c: season_20192020
+	c: season_20202021
+db: game_info: stores all high-level game information for each regular season game
+	c: season_20192020
+	c: season_20202021  
+db: boxscore: stores all boxscores for each regular season game
+	c: season_20192020
+	c: season_20202021  
+
+connect to cluster through mongodb shell (ubuntu):
+	- specifically, connect to game_events database
+
+mongo "mongodb+srv://jvb_admin:jvb_mdb_admin@cluster0.w1jp0.mongodb.net/game_events"
+
+add file to new new collection (from system terminal not mongodb shell):
+
+mongoimport "mongodb+srv://jvb_admin:jvb_mdb_admin@cluster0.w1jp0.mongodb.net/game_events" 
+	--db game_events --collection season_20192020 --drop --file ./2019020001_tor_v_ott_events.json
+
+add file to existing collection (from system terminal not mongodb shell):
+
+mongoimport "mongodb+srv://jvb_admin:jvb_mdb_admin@cluster0.w1jp0.mongodb.net/game_events" 
+	--db game_events --collection season_20192020 --file ./2019020001_tor_v_ott_events.json
+
+export single field from each document and store as test_output.json (from mongo shell)
+mongoexport --collection rs_1920_plays --db=game_events --fields result --out test_output.json
+
+batch import json files in folder (include --drop if files already exist and want to replace):
+cat *.json | mongoimport --uri "mongodb+srv://jvb_admin:jvb_mdb_admin@cluster0.w1jp0.mongodb.net/game_events" --db game_events --collection rs_1920_plays --drop
+
+
+
+
+
+
+
