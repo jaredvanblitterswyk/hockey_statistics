@@ -204,6 +204,9 @@ else:
 extent_away_logo = [l,r,b,t]
 marker = 's'
 
+home_plate_coords = {'x': [54, 54, 68, 89, 89, 68],
+                     'y': [-24, 24, 24, 9.5, -9.5, -24]}
+
 # ----- generate 'dshboard-style' figure -----
 f = plt.figure(figsize = (10,7), constrained_layout=False)
 gs = f.add_gridspec(4, 7)
@@ -244,8 +247,8 @@ f_ax3.spines['bottom'].set_visible(False)
 
 # list of hex colors for shots, missed shots and goals in that order
 # ----- home -----
-c_h = ['#4E6587', '#EDECF1', '#2B4E64']
-ec_h = ['#4E6587', '#4E6587', '#2B4E64']
+c_h = ['#4E6587', '#EDECF1', '#324157']
+ec_h = ['#4E6587', '#4E6587', '#324157']
 # ---- away -----
 c_a = ['#87704E', '#F0F1EC', '#64412B']
 ec_a = ['#87704E','#87704E', '#64412B']
@@ -327,7 +330,7 @@ plt.tight_layout()
 plt.show()
 
 #%%
-
+plt.close('all')
 # assign queries to home and away stats to variable for easier calls
 home_query = query_info[0]['home_stats']
 away_query = query_info[0]['away_stats']
@@ -335,42 +338,112 @@ away_query = query_info[0]['away_stats']
 # define summary stats
 game_summary = {'goals': home_query['goals'] + away_query['goals'],
                 'shots': home_query['shots'] + away_query['shots'],
-                'hits': home_query['hits'] + away_query['hits']}
+                'high_danger_shots' : 10,
+                'hits': home_query['hits'] + away_query['hits'],
+                'blocked': home_query['blocked'] + away_query['blocked'],
+                'giveaways': home_query['giveaways'] + away_query['giveaways'],
+                'takeaways': home_query['takeaways'] + away_query['takeaways'],
+                'powerplays': home_query['powerPlayOpportunities'] + away_query['powerPlayOpportunities']
+                }
 
-h_stats = [home_query['goals']/game_summary['goals'],
-           home_query['shots']/game_summary['shots'],
-           home_query['hits']/game_summary['hits']]
+h_stats = [0,
+           home_query['powerPlayOpportunities']/game_summary['powerplays'],
+           home_query['takeaways']/game_summary['takeaways'],
+           home_query['giveaways']/game_summary['giveaways'],
+           float(home_query['faceOffWinPercentage'])/100,
+           home_query['blocked']/game_summary['blocked'],
+           home_query['hits']/game_summary['hits'],
+           5/game_summary['high_danger_shots'],
+           home_query['shots']/game_summary['shots']]
 
-a_stats = [away_query['goals']/game_summary['goals'],
-           away_query['shots']/game_summary['shots'],
-           away_query['hits']/game_summary['hits']]
+a_stats = [0,
+           away_query['powerPlayOpportunities']/game_summary['powerplays'],
+           away_query['takeaways']/game_summary['takeaways'],
+           away_query['giveaways']/game_summary['giveaways'],
+           float(away_query['faceOffWinPercentage'])/100,
+           away_query['blocked']/game_summary['blocked'],
+           away_query['hits']/game_summary['hits'],
+           5/game_summary['high_danger_shots'],
+           away_query['shots']/game_summary['shots']
+           ]
+
+a_stats_val = [round(float(away_query['powerPlayPercentage']),0),
+           int(away_query['powerPlayOpportunities']),
+           away_query['takeaways'],
+           away_query['giveaways'],
+           away_query['faceOffWinPercentage'],
+           away_query['blocked'],
+           away_query['hits'],
+           5,
+           away_query['shots']
+           ]
 
 # define plot parameters/variables
-labels = [0, 0.7, 1.4]
+labels = list(np.linspace(0, (len(h_stats)-1)*0.7, len(h_stats)))
 index = np.arange(len(labels))
 width = 0.08 # bar width
 
 #plt.close('all')
-f = plt.figure(figsize = (5,3), constrained_layout=False)
+f = plt.figure(figsize = (5,7), constrained_layout=False)
 
 ax = f.add_subplot(1,1,1)
 ax.barh(labels, h_stats, width, color = ec_h[1], ec = '#FFFFFF', linewidth = 1.5, label = 'HOME')
 ax.barh(labels, a_stats, width, color = ec_a[1], ec = '#FFFFFF', linewidth = 1.5, left = h_stats, label = 'AWAY')
 ax.axes.xaxis.set_visible(False)
 ax.axes.yaxis.set_visible(False)
-ax.set_ylim([-0.5,2.5])
+ax.set_ylim([-0.5,len(h_stats)*0.7])
 ax.spines['right'].set_visible(False)
 ax.spines['top'].set_visible(False)
 ax.spines['left'].set_visible(False)
 ax.spines['bottom'].set_visible(False)
 
+# define text margins for away stats to right align
+def set_right_text_margin(x):
+    if x == 2:
+        return 0.95
+    elif x == 3:
+        return 0.92
+    else:
+        return 0.97
+
+# length of numbers for each stat
+#a_stats_str = [str(x) for x in a_stats_val]
+len_a_stats = [len(str(x)) for x in a_stats_val] 
+# remove character from decimals
+len_a_stats[0] -= 1
+len_a_stats[4] -= 1
+# define list of margins for each entry
+a_margin = list(map(set_right_text_margin, len_a_stats))    
+
 # ----- annotate -----
-ax.annotate(str(home_query['goals']),(0.0, 0.2))
-ax.annotate(str(away_query['goals']),(0.97, 0.2))
-ax.annotate(str(home_query['shots']),(0.0, 0.9))
-ax.annotate(str(away_query['shots']),(0.95, 0.9))
-ax.annotate(str(home_query['hits']),(0.0, 1.6))
-ax.annotate(str(away_query['hits']),(0.95, 1.6))
-ax.annotate('Goals', (0.43, 0.2))
-ax.annotate('Shots', (0.43, 0.9))
-ax.annotate('Hits', (0.435, 1.6))
+# values (bottom up)
+ax.annotate(str(round(float(home_query['powerPlayPercentage']),0)),(0.0, 0.2))
+ax.annotate(str(round(float(away_query['powerPlayPercentage']),0)),(a_margin[0], 0.2))
+ax.annotate(str(int(home_query['powerPlayOpportunities'])),(0.0, 0.9))
+ax.annotate(str(int(away_query['powerPlayOpportunities'])),(a_margin[1], 0.9))
+ax.annotate(str(home_query['takeaways']),(0.0, 1.6))
+ax.annotate(str(away_query['takeaways']),(a_margin[2], 1.6))
+ax.annotate(str(home_query['giveaways']),(0.0, 2.3))
+ax.annotate(str(away_query['giveaways']),(a_margin[3], 2.3))
+ax.annotate(str(round(float(home_query['faceOffWinPercentage']),0)),(0.0, 3.0))
+ax.annotate(str(round(float(away_query['faceOffWinPercentage']),0)),(a_margin[4], 3.0))
+ax.annotate(str(home_query['blocked']),(0.0, 3.7))
+ax.annotate(str(away_query['blocked']),(a_margin[5], 3.7))
+ax.annotate(str(home_query['hits']),(0.0, 4.4))
+ax.annotate(str(away_query['hits']),(a_margin[6], 4.4))
+ax.annotate(str(4),(0.0, 5.1))
+ax.annotate(str(6),(a_margin[7], 5.1))
+ax.annotate(str(home_query['shots']),(0.0, 5.8))
+ax.annotate(str(away_query['shots']),(a_margin[8], 5.8))
+
+# labels (bottom up)
+ax.annotate('Power play %', (0.37, 0.2))
+ax.annotate('Power plays', (0.395, 0.9))
+ax.annotate('Takeaways', (0.40, 1.6))
+ax.annotate('Giveaways', (0.40, 2.3))
+ax.annotate('Faceoffs (%)', (0.385, 3.0))
+ax.annotate('Blocked', (0.42, 3.7))
+ax.annotate('Hits', (0.465, 4.4))
+ax.annotate('High danger shots', (0.32, 5.1))
+ax.annotate('Shots', (0.45, 5.8))
+
