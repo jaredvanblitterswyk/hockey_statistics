@@ -1,12 +1,168 @@
 # ----- WORKING QUERIES -----	
-# this code works - simply returns an array of scoring plays				
+# -----------------------------------------------------------------------------------
+# this code works - simply returns an array of scoring plays
+# -----------------------------------------------------------------------------------				
 var pipeline = [{$project:{
 					'_id':0, 'scoringPlays': 1
 					}
 				}
 				]
 				
+# -----------------------------------------------------------------------------------
+# this pipeline returns all shots and missed shots over all regular season games
+# add flags for short handed, power play and empty net
+# -----------------------------------------------------------------------------------
+var pipeline = [{$unwind: '$allPlays'},
+		{$project: {
+			event: '$allPlays.result.event',
+			shooter: { $arrayElemAt: [ '$allPlays.players.player.fullName' , 0 ] },
+			team: '$allPlays.team.triCode',
+			x: '$allPlays.coordinates.x',
+			y: '$allPlays.coordinates.y',
+			period: '$allPlays.about.period',
+			empty_net: '$allPlays.result.emptyNet'
+			}
+		},
+		{$match: {
+			$and: [{
+				$or: [
+					{event: 'Shot'},
+					{event: 'Missed Shot'},
+					{event: 'Goal'}
+				]},
+			{empty_net: {$ne: true}}
+			]}
+		},
+		{$project: {
+			id: 0
+		}},
+		{$limit: 5}
+		]
+
+# -----------------------------------------------------------------------------------
+# return summary of top 10 goals or assists for each player - sorted in descending order based on total
+# -----------------------------------------------------------------------------------
+var pipeline = [{$unwind: '$allPlays'},
+		{$match: {
+			'allPlays.result.event': 'Goal',
+			'allPlays.players.seasonTotal': {'$gt': 0}
+			}
+		},
+		{$project: {
+			scorer_name: { $arrayElemAt: [ '$allPlays.players.player.fullName' , 0 ] },
+			'allPlays.players': 1, 
+			}
+		},
+		{$unwind: '$allPlays.players'},
+		{$match : {
+			'allPlays.players.playerType': 'Assist',
+			'allPlays.players.playerType': 'Scorer'
+			}
+		},
+		{$group:{
+			_id: {'Name' : '$allPlays.players.player.fullName'},
+			goals: {$sum: 1}
+			}
+		},
+		{$sort: {
+			'goals': -1
+			}
+		},
+		{$limit:10}
+		]
+
+- for range of games, add the following two match conditions: _id: {'$gt': 2019020001},_id: {'$lt': 2019020100},
+
+# -----------------------------------------------------------------------------------
+# return a summary of goals, assists and points for each player
+# -----------------------------------------------------------------------------------
+var pipeline = [{$unwind: '$allPlays'},
+		{$match: {
+			'allPlays.result.event': 'Goal',
+			'allPlays.players.seasonTotal': {'$gt': 0}
+			}
+		},
+		{$project: {
+			'allPlays.players': 1, 
+			}
+		},
+		{$unwind: '$allPlays.players'},
+		{$match : {
+			'allPlays.players.playerType': {$in: ['Assist','Scorer']}
+			}
+		},
+		{$project: {
+			'allPlays.players': 1,
+			player_type: '$allPlays.players.playerType',
+			name: '$allPlays.players.player.fullName', 
+			assist: {$cond: [ { $eq: ['$allPlays.players.playerType', 'Assist'] }, 1, 0]},
+			goals: {$cond: [ { $eq: ['$allPlays.players.playerType', 'Scorer'] }, 1, 0]}
+			}
+		},
+		{$group: {
+			_id: '$allPlays.players.player.fullName',
+			goals: {$sum: '$goals'},
+			assists: {$sum: '$assist'},
+			points: {$sum: 1}
+			}
+		},
+		{$sort: {
+			'points': -1
+			}
+		},
+		{$limit:20}
+		]
+		
+# -----------------------------------------------------------------------------------
+# return a summary of goals, assists, points, empty net goals, and game winning goals 
+# for each player
+# -----------------------------------------------------------------------------------
+var pipeline = [{$unwind: '$allPlays'},
+		{$match: {
+			'allPlays.result.event': 'Goal',
+			'allPlays.players.seasonTotal': {'$gt': 0}
+			}
+		},
+		{$project: {
+			'allPlays.players': 1,
+			'allPlays.result': 1,		
+			}
+		},
+		{$unwind: '$allPlays.players'},
+		{$match : {
+			'allPlays.players.playerType': {$in: ['Assist','Scorer']}
+			}
+		},
+		{$project: {
+			'allPlays.players': 1,
+			'allPlays.result': 1,
+			player_type: '$allPlays.players.playerType',
+			name: '$allPlays.players.player.fullName', 
+			assist: {$cond: [ { $eq: ['$allPlays.players.playerType', 'Assist'] }, 1, 0]},
+			goals: {$cond: [ { $eq: ['$allPlays.players.playerType', 'Scorer'] }, 1, 0]},
+			gwg: {$cond: [ {$and: [ { $eq: ['$allPlays.players.playerType', 'Scorer'] }, { $eq: ['$allPlays.result.gameWinningGoal', true] }] }, 1, 0]},
+			en_goals: {$cond: [ {$and: [ { $eq: ['$allPlays.players.playerType', 'Scorer'] }, { $eq: ['$allPlays.result.emptyNet', true] }] }, 1, 0]}
+			}
+		},
+		{$group: {
+			_id: '$allPlays.players.player.fullName',
+			goals: {$sum: '$goals'},
+			gwgs: {$sum: '$gwg'},
+			en_goals: {$sum: '$en_goals'},
+			assists: {$sum: '$assist'},
+			points: {$sum: 1}
+			}
+		},
+		{$sort: {
+			'points': -1
+			}
+		},
+		{$limit:10}
+		]
+		
+# -----------------------------------------------------------------------------------		
 # this pipeline returns _id for all goals - start of pipeline to find all events for a given player
+# -----------------------------------------------------------------------------------
 var pipeline = [{$unwind: '$allPlays'},
 				{$addFields: {
 					eventType: '$allPlays.result.event'}
@@ -20,8 +176,9 @@ var pipeline = [{$unwind: '$allPlays'},
 				{$limit: 2}
 				]	
 	
-
+# -----------------------------------------------------------------------------------
 # this pipeline returns all shots and missed shots for a single game
+# -----------------------------------------------------------------------------------
 var pipeline = [{$unwind: '$allPlays'},
 		{$project: {
 			_id: 1,
@@ -40,10 +197,10 @@ var pipeline = [{$unwind: '$allPlays'},
 			]}
 		}
 		]
-
+# -----------------------------------------------------------------------------------
 # return all shots and missed shots for a given team for a single game - same as above with additional team in match
 # (all games if _id match condition is removed)
-
+# -----------------------------------------------------------------------------------
 var pipeline = [{$unwind: '$allPlays'},
 		{$project: {
 			event: '$allPlays.result.event',
@@ -66,16 +223,19 @@ var pipeline = [{$unwind: '$allPlays'},
 		]}},
 		{$limit: 20}
 		]
-
-# return top level keys of a document		
+# -----------------------------------------------------------------------------------
+# return top level keys of a document
+# -----------------------------------------------------------------------------------		
 var pipeline_keys = [
 						{"$match":{_id: 2019020001}},
 						{"$project":{"arrayofkeyvalue":{"$objectToArray":"$$ROOT"}}},
 						{"$project":{"keys":"$arrayofkeyvalue.k"}}
 					]
 
+# -----------------------------------------------------------------------------------
 # find teams and information for a given game - to find teams in all games, remove first match
 # could run from rs_1920_boxscores without lookup as well
+# -----------------------------------------------------------------------------------
 
 var pipeline = [{$match: {_id: 2019020001}},
 	{$lookup:
@@ -109,9 +269,10 @@ var pipeline = [{$match: {_id: 2019020001}},
 	{$limit: 3}
 ]
 		
-
+# -----------------------------------------------------------------------------------
 # return goals and assists for a given player
 # need to exclude goals where seasonTotal is 0 (shootout goals) 
+# -----------------------------------------------------------------------------------
 
 var pipeline = [{$unwind: '$allPlays'},
 				{$match: {
@@ -138,11 +299,12 @@ var pipeline = [{$unwind: '$allPlays'},
 					}
 				}]
 
-
+# -----------------------------------------------------------------------------------
 # return all players assisting on goals for a given player
 # goal scorer always in array position 0 so makes for easier filtering without unwinding
 
 # return all goals for the player, then unwind and filter by assists, then group by player
+# -----------------------------------------------------------------------------------
 
 var pipeline = [{$unwind: '$allPlays'},
 				{$match: {
@@ -173,9 +335,11 @@ var pipeline = [{$unwind: '$allPlays'},
 					}
 				}
 				]
-				
+
+# -----------------------------------------------------------------------------------				
 # return all coordinates of goals for a given player
 # goal scorer always in array position 0 so makes for easier filtering without unwinding
+# -----------------------------------------------------------------------------------
 
 var pipeline = [{$unwind: '$allPlays'},
 				{$match: {
@@ -202,7 +366,9 @@ var pipeline = [{$unwind: '$allPlays'},
 				}
 				]
 				
+# -----------------------------------------------------------------------------------
 # return info on player from info collection to see if returns what I want
+# -----------------------------------------------------------------------------------
 var pipeline = [{$unwind: '$players'},
 				{$project: {_id:1, players:1}},
 				{$match: {
@@ -212,8 +378,10 @@ var pipeline = [{$unwind: '$players'},
 				},
 				{$limit:1}
 				]
-				
+
+# -----------------------------------------------------------------------------------				
 # achieves same as above but in plays collection, which can be refined for outputs
+# -----------------------------------------------------------------------------------
 var pipeline = [{$unwind: '$allPlays'},
 				{$match: {
 					'allPlays.result.event': 'Goal',
@@ -244,7 +412,14 @@ var pipeline = [{$unwind: '$allPlays'},
 					}
 				}
 				]
-# ----------	
+# -----------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------	
+# ----- other spare code - not working -----
+# -----------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------
+
 
 # build on the above to return player information (team, weight, position, etc.)
 # return all coordinates of goals for a given player - add in powerplay goals
