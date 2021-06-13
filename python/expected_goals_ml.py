@@ -53,20 +53,15 @@ pipeline = [{'$unwind': '$allPlays'},
 		]
 
 query_shots = list(plays_collection.aggregate(pipeline))
+client.close()
 #%% ----- PLOT SHOTS OVERLAID ON RINK -----
-
+# -----------------------------------------------------------------------------
 # convert shots to data frame for transformations
 df_shots = pd.DataFrame(query_shots)
 
 # transform coordinates to have all shots on same side for each team
 df_shots.loc[df_shots.x <= 0, ['x','y']] *= -1
 
-f = plt.figure(figsize = (5,3))
-ax = f.add_subplot(1,1,1)
-ax.scatter(df_shots['x'], df_shots['y'], s = 0.1, c = 'r', alpha = 0.1)
-
-#%% show all shots overlaid on rink
-plt.close('all')
 # define path to background images
 fig_dir = 'C:/Users/Jared/Documents/hockey_statistics/figures'
 bg_filename = 'full_ice_scale_mm.png'
@@ -100,6 +95,7 @@ ec_h = ['#4E6587', '#4E6587', '#324157']
 c_a = ['#87704E', '#F0F1EC', '#64412B']
 ec_a = ['#87704E','#87704E', '#64412B']
 
+# plot shots overlaid on rink
 f = plt.figure(figsize = (5,3))
 ax_m = f.add_subplot(1,1,1)
 ax_m.imshow(img_bg, extent = rink_bg_extents)
@@ -108,7 +104,10 @@ ax_m.set_aspect(1)
 ax_m.set(xlim=(-0, 100), ylim=(-42.5, 42.5))
 ax_m.axis('off')
 
-#%% transform data for ml
+#%% ----- PREDICT GOALS WITH UNIVARIATE LOGISTIC REGRESSION -----
+# -----------------------------------------------------------------------------
+# ----- add features -----
+# -----------------------------------------------------------------------------
 # single var prediction: distance from net
 coords_net = [90.5 ,0]
     
@@ -123,13 +122,10 @@ data_df['target'] = data_df['event'].apply(lambda x: 1 if x == 'Goal' else 0)
 features = ['distance']
 target = ['target']
 
-
-# y = data_df[target].squeeze()
-
-# divide data set into train, validate and test sets
-# create hash of each instances identifier and use that to assign train/test
-# ensures same points are assigned each time the data is loaded
-
+# -----------------------------------------------------------------------------
+# ----- divide into train, test and validate sets -----
+# -----------------------------------------------------------------------------
+# use random_state to ensure same points assigned each time the data is loaded
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import KFold
 
@@ -137,7 +133,7 @@ train_df, test_df = train_test_split(data_df, test_size = 0.2, random_state = 1)
 
 # define train features and target
 X = train_df[features]
-y = train_df[target]
+y = train_df[target].squeeze()
 
 # create kFold object
 num_folds = 10
@@ -147,15 +143,14 @@ kf = KFold(num_folds, shuffle  = True, random_state = 1)
 for train_ind, val_ind in kf.split(train_df):
     X_train, y_train = X.iloc[train_ind], y.iloc[train_ind]
     X_val, y_val = X.iloc[val_ind], y.iloc[val_ind]
-#%%
-# fit a basic logistic regression model
-from sklearn.linear_model import LogisticRegression
+
+# -----------------------------------------------------------------------------
+# ----- define model, train and predict -----
+# -----------------------------------------------------------------------------
 plt.close('all')
 
-# reshape to 1D arrays for Logistic Regressio
-y = np.array(y).reshape((y.shape[0],))
-
-# define and fit logistic regression model
+# fit a basic logistic regression model
+from sklearn.linear_model import LogisticRegression
 log_reg = LogisticRegression()
 log_reg.fit(X[['distance']], y)
 
@@ -166,26 +161,102 @@ y_pred = log_reg.predict(X[['distance']])
 # predict socres for each training instance
 y_scores = log_reg.decision_function(X[['distance']])
 
+# -----------------------------------------------------------------------------
+# ----- plot results -----
+# ----------------------------------------------------------------------------
+params = dict()
+params['figsize'] = (7,3)
+params['s'] = 0.1
+params['edge_colors'] = [ec_h[0], ec_a[0]]
+params['face_colors'] = [ec_h[0], ec_a[0]]
+params['xlabel'] = 'Distance to goal (ft)'
+params['ylabel'] = 'Outcome'
+params['tight_layout'] = True
+params['labels'] = ['Goal', 'Non-goal']
+params['tight_layout'] = True
 
-# plot goal vs miss
-f = plt.figure(figsize = (7,3))
-ax = f.add_subplot(1,1,1)
-ax.scatter(X[y == 1],y[y == 1],s = 0.1, c = ec_h[0])
-ax.scatter(X[y < 1],y[y < 1],s = 0.1, c = ec_a[0])
-ax.grid(True, alpha = 0.5, linestyle = '--', linewidth = 0.5 )
-ax.set_xlabel('Distance to goal (ft)')
-ax.set_ylabel('Outcome')
+def plot_two_series_scatter(x0, y0, x1, y1, params):
+    # plot goal vs miss
+    f = plt.figure(figsize = params['figsize'])
+    ax = f.add_subplot(1,1,1)
+    ax.scatter(x0, y0, s = params['s'], c = params['face_colors'][0],
+               label = params['labels'][0])
+    ax.scatter(x1, y1, s = params['s'], c = params['face_colors'][1],
+               label = params['labels'][1])
+    ax.grid(True, alpha = 0.5, linestyle = '--', linewidth = 0.5 )
+    ax.set_xlabel(params['xlabel'])
+    ax.set_ylabel(params['ylabel'])
+    leg = plt.legend()
+    for lh in leg.legendHandles: 
+        lh.set_alpha(1)
+        lh._sizes = [6]
+    if params['tight_layout']:    
+        plt.tight_layout()
+
+# plot shots outcome vs distance
+plot_two_series_scatter(X[y == 1], y[y == 1], X[y < 1], y[y < 1], params)
+
+# plot shots outcome vs probability
+params['labels'] = ['Probability', 'Prediction']
+params['ylabel'] = 'Probability of goal'
+plot_two_series_scatter(X['distance'], y_prob[:,1], X['distance'], y_pred, params)
+
+#%% ----- EVALUATE MODEL PERFORMANCE -----
+# -----------------------------------------------------------------------------
+plt.close('all')
+# lets add the predictions to the data frame for evaluating performance
+train_df['predict'] = y_pred
+
+true_positives = train_df[(train_df['predict'] == 1) & 
+                          (train_df['target'] == 1)]['predict'].count()
+
+true_negatives = train_df[(train_df['predict'] == 0) & 
+                          (train_df['target'] == 0)]['predict'].count()
+
+print('Decision boundary = 0.5: TN: {}, TP: {}'.format(true_negatives, true_positives))
+
+# look at confusion matrix
+# note: first row is negative class, second row is positive class
+# Cij: observations known to be in class i, and predicted as class j
+# format: TN, FP/FN, TP
+from sklearn.metrics import confusion_matrix
+print('Confusion matrix (default decision boundary)')
+print(confusion_matrix(y,y_pred))
+
+# with the default decision boundary, there are no positive predictions made
+# to determine which threshold to use, consider precision, recall and threshold
+
+from sklearn.metrics import precision_recall_curve, precision_score, recall_score
+precisions, recalls, thresholds = precision_recall_curve(y,y_scores)
+
+plt.figure(figsize = (3,3))
+plt.plot(thresholds, precisions[:-1], linewidth = 1.5, c = ec_h[0], label = 'precision')
+plt.plot(thresholds, recalls[:-1], linewidth = 1.5, c = ec_a[0],  label = 'recall')
+plt.xlabel('thresholds')
+plt.ylabel('precision/recall')
+plt.grid(True, alpha = 0.5, linestyle = '--', linewidth = 0.5 )
+plt.legend()
 plt.tight_layout()
 
-# plot goal vs miss
-f = plt.figure(figsize = (7,3))
-ax = f.add_subplot(1,1,1)
-ax.scatter(X['distance'], y_prob[:,1], s = 0.5, c = ec_a[0])
-ax.scatter(X['distance'], y_pred, s = 0.5, c = ec_h[0])
-ax.grid(True, alpha = 0.5, linestyle = '--', linewidth = 0.5 )
-ax.set_xlabel('Distance to goal (ft)')
-ax.set_ylabel('Outcome')
-plt.tight_layout()
+# say we want a classifier with a certain precision (TP/TP+FP), say 20%
+threshold_75_precision = thresholds[np.argmax(precisions >=0.20)]
+
+#now make predictions based on that threshold instead of the default value of 0
+y_pred_75 = (y_scores >= threshold_75_precision).astype(int)
+
+# now look at the confusion matrix, show precision and recall
+print('Confusion matrix (75% precision threshold)')
+print(confusion_matrix(y,y_pred_75))
+print('Precision: {}'.format(precision_score(y,y_pred_75)))
+print('Recall: {}'.format(recall_score(y,y_pred_75)))
+
+# check performance vs a random guess
+y_pred_random = np.random.randint(2, size=len(y))
+# now look at the confusion matrix, show precision and recall
+print('Confusion matrix (random guess)')
+print(confusion_matrix(y,y_pred_random))
+print('Precision: {}'.format(precision_score(y,y_pred_random)))
+print('Recall: {}'.format(recall_score(y,y_pred_random)))
 
 # plot roc curve
 from sklearn.metrics import roc_curve
@@ -199,6 +270,7 @@ ax.plot([0,1], [0,1], linestyle = '--', c = '#151b24', linewidth = 1)
 ax.grid(True, alpha = 0.5, linestyle = '--', linewidth = 0.5 )
 ax.set_xlabel('False positive rate')
 ax.set_ylabel('True positive rate')
+ax.grid(True, alpha = 0.5, linestyle = '--', linewidth = 0.5 )
 plt.tight_layout()
 
 # get logistic regression auc score
