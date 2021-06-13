@@ -9,6 +9,7 @@ import pymongo
 from pymongo import MongoClient
 import os
 import numpy as np
+import math as m
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties
 import pandas as pd
@@ -18,6 +19,11 @@ from zlib import crc32
 
 def calc_distance(row):
     return np.sqrt((row['x']-coords_net[0])**2 + (row['y']-coords_net[1])**2)
+
+def calc_angle(row):
+    dx = row['x'] - coords_net[0]
+    dy = abs(row['y'] - coords_net[1])
+    return np.arctan2(dx,dy)*180/m.pi
 
 #%% ----- LOAD DATA FROM DB -----
 # connect to mongodb database
@@ -112,9 +118,13 @@ ax_m.axis('off')
 coords_net = [90.5 ,0]
     
 data_df = df_shots.copy()
+
 data_df.dropna(subset = ['x', 'y'], inplace=True)
+# remove shots below the goal line
+data_df = data_df[data_df['x'] <= coords_net[0]]
 # compute distance in feet to net for each shot
 data_df['distance'] = data_df.apply(calc_distance, axis=1)
+data_df['angle'] = data_df.apply(calc_angle, axis = 1)
 # assign target (goal or not)
 data_df['target'] = data_df['event'].apply(lambda x: 1 if x == 'Goal' else 0)
 
@@ -147,19 +157,19 @@ for train_ind, val_ind in kf.split(train_df):
 # -----------------------------------------------------------------------------
 # ----- define model, train and predict -----
 # -----------------------------------------------------------------------------
-plt.close('all')
+#plt.close('all')
 
 # fit a basic logistic regression model
 from sklearn.linear_model import LogisticRegression
 log_reg = LogisticRegression()
-log_reg.fit(X[['distance']], y)
+log_reg.fit(X[features], y)
 
 # predict probability for each training instance
-y_prob = log_reg.predict_proba(X[['distance']])
+y_prob = log_reg.predict_proba(X[features])
 # predict class based on default 0.5 decision boundary
-y_pred = log_reg.predict(X[['distance']])
+y_pred = log_reg.predict(X[features])
 # predict socres for each training instance
-y_scores = log_reg.decision_function(X[['distance']])
+y_scores = log_reg.decision_function(X[features])
 
 # -----------------------------------------------------------------------------
 # ----- plot results -----
@@ -186,7 +196,7 @@ def plot_two_series_scatter(x0, y0, x1, y1, params):
     ax.grid(True, alpha = 0.5, linestyle = '--', linewidth = 0.5 )
     ax.set_xlabel(params['xlabel'])
     ax.set_ylabel(params['ylabel'])
-    leg = plt.legend()
+    leg = plt.legend(fancybox=False, fontsize = 8)
     for lh in leg.legendHandles: 
         lh.set_alpha(1)
         lh._sizes = [6]
@@ -194,7 +204,7 @@ def plot_two_series_scatter(x0, y0, x1, y1, params):
         plt.tight_layout()
 
 # plot shots outcome vs distance
-plot_two_series_scatter(X[y == 1], y[y == 1], X[y < 1], y[y < 1], params)
+plot_two_series_scatter(X[y == 1]['distance'], y[y == 1], X[y < 1]['distance'], y[y < 1], params)
 
 # plot shots outcome vs probability
 params['labels'] = ['Probability', 'Prediction']
@@ -203,7 +213,7 @@ plot_two_series_scatter(X['distance'], y_prob[:,1], X['distance'], y_pred, param
 
 #%% ----- EVALUATE MODEL PERFORMANCE -----
 # -----------------------------------------------------------------------------
-plt.close('all')
+#plt.close('all')
 # lets add the predictions to the data frame for evaluating performance
 train_df['predict'] = y_pred
 
@@ -232,10 +242,10 @@ precisions, recalls, thresholds = precision_recall_curve(y,y_scores)
 plt.figure(figsize = (3,3))
 plt.plot(thresholds, precisions[:-1], linewidth = 1.5, c = ec_h[0], label = 'precision')
 plt.plot(thresholds, recalls[:-1], linewidth = 1.5, c = ec_a[0],  label = 'recall')
-plt.xlabel('thresholds')
-plt.ylabel('precision/recall')
+plt.xlabel('Threshold')
+plt.ylabel('')
 plt.grid(True, alpha = 0.5, linestyle = '--', linewidth = 0.5 )
-plt.legend()
+plt.legend(fancybox = False, fontsize = 8)
 plt.tight_layout()
 
 # say we want a classifier with a certain precision (TP/TP+FP), say 20%
@@ -245,7 +255,7 @@ threshold_75_precision = thresholds[np.argmax(precisions >=0.20)]
 y_pred_75 = (y_scores >= threshold_75_precision).astype(int)
 
 # now look at the confusion matrix, show precision and recall
-print('Confusion matrix (75% precision threshold)')
+print('Confusion matrix (20% precision threshold)')
 print(confusion_matrix(y,y_pred_75))
 print('Precision: {}'.format(precision_score(y,y_pred_75)))
 print('Recall: {}'.format(recall_score(y,y_pred_75)))
@@ -273,9 +283,18 @@ ax.set_ylabel('True positive rate')
 ax.grid(True, alpha = 0.5, linestyle = '--', linewidth = 0.5 )
 plt.tight_layout()
 
+f = plt.figure(figsize = (3,3))
+ax = f.add_subplot(1,1,1)
+sp = ax.scatter(fpr, tpr, linewidth = 1.5, c = thresholds, s = 1, label = None)
+ax.plot([0,1], [0,1], linestyle = '--', c = '#151b24', linewidth = 1)
+ax.grid(True, alpha = 0.5, linestyle = '--', linewidth = 0.5 )
+ax.set_xlabel('False positive rate')
+ax.set_ylabel('True positive rate')
+f.colorbar(sp, ax = ax)
+ax.grid(True, alpha = 0.5, linestyle = '--', linewidth = 0.5 )
+plt.tight_layout()
+
 # get logistic regression auc score
 from sklearn.metrics import roc_auc_score
 auc_score = roc_auc_score(y, y_scores)
 print('AUC score: {}'.format(auc_score))
-
-
