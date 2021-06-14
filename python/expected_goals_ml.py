@@ -107,7 +107,7 @@ ax_m = f.add_subplot(1,1,1)
 ax_m.imshow(img_bg, extent = rink_bg_extents)
 ax_m.scatter(df_shots['x'], df_shots['y'], s = 0.1, c = c_h[0], ec = ec_h[0], alpha = 0.1)
 ax_m.set_aspect(1)
-ax_m.set(xlim=(-0, 100), ylim=(-42.5, 42.5))
+ax_m.set(xlim=(0, 100), ylim=(-42.5, 42.5))
 ax_m.axis('off')
 
 #%% ----- PREDICT GOALS WITH UNIVARIATE LOGISTIC REGRESSION -----
@@ -115,7 +115,7 @@ ax_m.axis('off')
 # ----- add features -----
 # -----------------------------------------------------------------------------
 # single var prediction: distance from net
-coords_net = [90.5 ,0]
+coords_net = [89,0]
     
 data_df = df_shots.copy()
 
@@ -298,3 +298,75 @@ plt.tight_layout()
 from sklearn.metrics import roc_auc_score
 auc_score = roc_auc_score(y, y_scores)
 print('AUC score: {}'.format(auc_score))
+
+#%% ----- GENERATE XG VS LOCATION -----
+# ----------------------------------------------------------------------------
+x_eval_vec = np.linspace(0,89,179)
+y_eval_vec = np.linspace(-41.5,41.5, 167)
+
+x_eval, y_eval = np.meshgrid(x_eval_vec, y_eval_vec)
+
+rows, cols = x_eval.shape
+
+eval_df = pd.DataFrame()
+eval_df['x'] = np.reshape(x_eval, (-1,))
+eval_df['y'] = np.reshape(y_eval, (-1,))
+eval_df['distance'] = eval_df.apply(calc_distance, axis=1)
+eval_df['angle'] = eval_df.apply(calc_angle, axis = 1)
+
+y_prob_eval = log_reg.predict_proba(eval_df[features])
+
+eval_df['xG_score'] = y_prob_eval[:,1]
+eval_df = eval_df.apply(lambda r: np.nan if path.contains_point((np.abs(r.x), r.y)) else r, axis= 1)
+
+xG_score = np.array(eval_df['xG_score']).reshape((rows,cols))
+
+# mask corners of rink
+verts = [
+   (74, -41.5),  
+   (84, -38.5), 
+   (89.1, -35.4),  
+   (89.1, 35.4),  
+   (84, 38.5),
+   (74,41.5),
+   (70, 43),
+   (90,43),
+   (90,-43),
+   (74,-42)
+]
+
+codes = [
+    Path.MOVETO,
+    Path.LINETO,
+    Path.LINETO,
+    Path.LINETO,
+    Path.LINETO,
+    Path.LINETO,
+    Path.LINETO,
+    Path.LINETO,
+    Path.LINETO,
+    Path.CLOSEPOLY,
+]
+
+path = Path(verts, codes)
+
+import matplotlib.patches as patches
+
+# show mask for prediction grid
+fig, ax = plt.subplots()
+patch = patches.PathPatch(path, facecolor='orange', lw=2)
+ax.add_patch(patch)
+ax.set_xlim(0, 100)
+ax.set_ylim(-44, 44)
+plt.show()
+
+# plot xGscore overlaid on rink
+f = plt.figure(figsize = (5,3))
+ax_m = f.add_subplot(1,1,1)
+ax_m.imshow(img_bg, extent = rink_bg_extents)
+pm = ax_m.pcolormesh(x_eval, y_eval, xG_score, cmap='Reds', vmin=0, vmax=0.25, alpha = 0.45)
+ax_m.set(xlim=(0, 100), ylim=(-42.5, 42.5))
+ax_m.set_aspect(1)
+cbar = f.colorbar(pm, ax = ax_m)
+cbar.ax.set_title('xG_score', fontsize = 10)
+ax_m.axis('off')
