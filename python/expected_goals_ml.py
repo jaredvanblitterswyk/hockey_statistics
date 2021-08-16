@@ -4,10 +4,10 @@ Created on Sat Jun  5 14:04:10 2021
 
 @author: Jared
 """
-
+import sys
+import os
 import pymongo
 from pymongo import MongoClient
-import os
 import numpy as np
 import math as m
 import matplotlib.pyplot as plt
@@ -16,6 +16,8 @@ import pandas as pd
 import certifi
 from matplotlib.path import Path
 from zlib import crc32
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import config
 
 def calc_distance(row):
     return np.sqrt((row['x']-coords_net[0])**2 + (row['y']-coords_net[1])**2)
@@ -27,7 +29,7 @@ def calc_angle(row):
 
 #%% ----- LOAD DATA FROM DB -----
 # connect to mongodb database
-uri = "mongodb+srv://jvb_admin:jvb_mdb_admin@cluster0.w1jp0.mongodb.net/game_events"
+uri = config.mongoDB_uri
 client = MongoClient(uri, tlsCAFile=certifi.where())
 db_cursor = client.game_events
 plays_collection = db_cursor.rs_1920_plays
@@ -316,11 +318,6 @@ eval_df['angle'] = eval_df.apply(calc_angle, axis = 1)
 
 y_prob_eval = log_reg.predict_proba(eval_df[features])
 
-eval_df['xG_score'] = y_prob_eval[:,1]
-eval_df = eval_df.apply(lambda r: np.nan if path.contains_point((np.abs(r.x), r.y)) else r, axis= 1)
-
-xG_score = np.array(eval_df['xG_score']).reshape((rows,cols))
-
 # mask corners of rink
 verts = [
    (74, -41.5),  
@@ -349,6 +346,11 @@ codes = [
 ]
 
 path = Path(verts, codes)
+
+eval_df['xG_score'] = y_prob_eval[:,1]
+eval_df = eval_df.apply(lambda r: np.nan if path.contains_point((np.abs(r.x), r.y)) else r, axis= 1)
+
+xG_score = np.array(eval_df['xG_score']).reshape((rows,cols))
 
 import matplotlib.patches as patches
 
