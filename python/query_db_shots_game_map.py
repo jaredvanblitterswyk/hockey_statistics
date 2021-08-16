@@ -3,15 +3,19 @@
 Query mongodb data base and plot map of shots for a given game
 
 """
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import pymongo
 from pymongo import MongoClient
-import os
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties
 import pandas as pd
 import certifi
 from matplotlib.path import Path
+import config
 
 verts = [
    (54, 24),  # left, bottom
@@ -36,14 +40,14 @@ codes = [
 path = Path(verts, codes)
 
 # connect to mongodb database
-uri = "mongodb+srv://jvb_admin:jvb_mdb_admin@cluster0.w1jp0.mongodb.net/game_events"
+uri = config.mongoDB_uri
 client = MongoClient(uri, tlsCAFile=certifi.where())
 events = client.game_events
-po2021_plays = events.po_2021_plays
-po2021_boxscores = events.po_2021_boxscores
+rs1920_plays = events.rs_1920_plays
+rs1920_boxscores = events.rs_1920_boxscores
 
 # define game to extract
-game = 2020030175
+game = 2019020001
 
 
 pipeline = [{'$unwind': '$allPlays'},
@@ -71,7 +75,7 @@ pipeline = [{'$unwind': '$allPlays'},
             }
             ]
 
-query_shots = list(po2021_plays.aggregate(pipeline))
+query_shots = list(rs1920_plays.aggregate(pipeline))
 
 pipeline = [{'$match': {'_id': game}},
             {'$lookup':
@@ -84,8 +88,8 @@ pipeline = [{'$match': {'_id': game}},
                              }
                          },
                          {'$project': {
-                             'home': '$teams.home.team.triCode',
-                             'away': '$teams.away.team.triCode',
+                             'home': '$teams.home.triCode',
+                             'away': '$teams.away.triCode',
                              'date': '$datetime.dateTime',
                              'venue': '$venue.name'
                              }
@@ -107,7 +111,7 @@ pipeline = [{'$match': {'_id': game}},
             {'$limit': 3}
             ]
     
-query_info = list(po2021_boxscores.aggregate(pipeline))
+query_info = list(rs1920_boxscores.aggregate(pipeline))
 
 # convert shots to data frame for transformations
 df_shots = pd.DataFrame(query_shots)
@@ -122,7 +126,6 @@ NOTES:
 '''
 # transform coordinates to have all shots on same side for each team
 df_shots.loc[df_shots.period == 2, ['x','y']] *= -1
-
 
 home_team = query_info[0]['home'][0]
 away_team = query_info[0]['away'][0]
