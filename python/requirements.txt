@@ -9,7 +9,7 @@ matplotlib==3.4.1
 numpy==1.20.2
 pandas==1.2.4
 pillow==8.2.0
-py==1.8.0
+py==1.10.0
 pyqtwebengine==5.12.1
 pymongo==3.11.1
 requests==2.25.1
