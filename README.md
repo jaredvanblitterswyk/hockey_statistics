@@ -1,15 +1,8 @@
 # hockey_statistics
 
-This project is a collaboration between myself and Dylan Galloway to develop tools for advanced statistical analysis of NHL games/players.
+This project is a collaboration between myself and Dylan Galloway to explore ways in which machine learning and statistics can be used for predicting performance of NHL teams and players.
 
-Data is scraped from the NHL gamecenter API and imported to individual csv files for each game. These files are then processed to extract individual game/player data.
+We have developed a basic web-scraping tool and data pipeline for storing game statistics in a MOngoDB database. From this data we can extract unique insights using advanced visualizations and dashboards, and have implemented machine learning for predicting goal probability based on shot location. A sample of this work can be found in the Jupyter notebooks directory, which provides context and explanations of the data pipelines, visualizations and analyses.
 
-Data vizualization:
-1) total shots on target and missed shots for both teams in a given game overlaid on an nhl rink
-2) shots on target and missed shots for a given player overlaid on a half-rink 
+Currently under developement is a classification tool for studying the behaviours of defenceman and forwards.  
 
-Advanced analysis:
-To be updated...
-
-Note: the main code is stored on Dylan's repo: dgallow2/hockey-data-extraction ('upstream') and cloned to Jared's repo: hockey_statistics ('origin')
-Fetch updates from 'upstream' before working locally
